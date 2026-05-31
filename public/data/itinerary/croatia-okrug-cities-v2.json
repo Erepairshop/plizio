@@ -1,0 +1,1110 @@
+{
+  "city_id": "croatia-okrug-cities-v2",
+  "anchor": {
+    "name": "Okrug",
+    "coords": [
+      16.22,
+      43.4969
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:30",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Morgenkaffee im alten Dorf",
+          "coords": [
+            16.2215,
+            43.4972
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe am Morgen im historischen Kern.",
+            "hu": "Élvezze a reggeli csendet a történelmi faluközpontban.",
+            "ro": "Bucurați-vă de liniștea dimineții în centrul istoric.",
+            "en": "Enjoy the morning quiet in the historic village center."
+          }
+        },
+        {
+          "name": "Crkva sv. Karla Boromejskog",
+          "coords": [
+            16.2212,
+            43.497
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese barocke Kirche aus dem 18. Jahrhundert.",
+            "hu": "Tekintse meg ezt a 18. századi barokk templomot.",
+            "ro": "Vizitați această biserică barocă din secolul al XVIII-lea.",
+            "en": "Visit this 18th-century Baroque church."
+          }
+        },
+        {
+          "name": "Crkva sv. Teodora",
+          "coords": [
+            16.2285,
+            43.5022
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Eine charmante kleine Kirche in Küstennähe.",
+            "hu": "Egy bájos kis templom a tengerpart közelében.",
+            "ro": "O biserică mică și fermecătoare lângă coastă.",
+            "en": "A charming small church near the coast."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            16.2175,
+            43.4935
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch oder gegrilltes Fleisch.",
+            "hu": "Kóstolja meg a friss halat vagy a grillezett húsokat.",
+            "ro": "Încercați peștele proaspăt sau carnea la grătar.",
+            "en": "Try the fresh fish or grilled meats."
+          }
+        },
+        {
+          "name": "Plaža Okrug (Copacabana)",
+          "coords": [
+            16.215,
+            43.4925
+          ],
+          "category": "beach",
+          "arrive_at": "13:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der lebhafteste Strand der Insel mit vielen Bars.",
+            "hu": "A sziget legélénkebb strandja számos bárral.",
+            "ro": "Cea mai animată plajă de pe insulă, cu multe baruri.",
+            "en": "The liveliest beach on the island with many bars."
+          }
+        },
+        {
+          "name": "Spaziergang an der Riva",
+          "coords": [
+            16.214,
+            43.4915
+          ],
+          "category": "harbor",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schöner Uferspaziergang bei sanfter Meeresbrise.",
+            "hu": "Kellemes tengerparti séta lágy szellőben.",
+            "ro": "O plimbare frumoasă pe malul mării în briza ușoară.",
+            "en": "A beautiful waterfront stroll in the gentle breeze."
+          }
+        },
+        {
+          "name": "Uvala Duboka",
+          "coords": [
+            16.2255,
+            43.4882
+          ],
+          "category": "sunset",
+          "arrive_at": "17:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang in dieser ruhigen Bucht.",
+            "hu": "Élvezze a naplementét ebben a csendes öbölben.",
+            "ro": "Bucurați-vă de apusul soarelui în acest golf liniștit.",
+            "en": "Enjoy the sunset in this peaceful bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Verbringen Sie einen perfekten Tag in Okrug Gornji. Beginnen Sie im ruhigen alten Dorf bei den historischen Kirchen sv. Karlo Boromejski und sv. Teodor. Nach einem ausgiebigen dalmatinischen Mittagessen in einer lokalen Konoba können Sie den Nachmittag am beliebten Copacabana-Strand genießen. Den Abschluss bildet ein stimmungsvoller Spaziergang zur Uvala Duboka für einen spektakulären Sonnenuntergang.",
+        "hu": "Töltsön el egy tökéletes napot Okrug Gornjiban. Kezdje a reggelt a csendes ófaluban, látogassa meg a sv. Karlo Boromejski és sv. Teodor templomokat. Egy kiadós dalmát ebéd után egy helyi konobában, élvezze a délutánt a népszerű Copacabana strandon. A napot egy hangulatos séta zárja az Uvala Duboka felé, ahol megcsodálhatja a látványos naplementét.",
+        "ro": "Petreceți o zi perfectă în Okrug Gornji. Începeți dimineața în satul vechi liniștit, vizitând bisericile istorice sv. Karlo Boromejski și sv. Teodor. După un prânz dalmațian copios într-o konoba locală, bucurați-vă de după-amiază pe populara plajă Copacabana. Ziua se încheie cu o plimbare atmosferică spre Uvala Duboka pentru un apus de soare spectaculos.",
+        "en": "Spend a perfect day in Okrug Gornji. Start your morning in the quiet old village, visiting the historic churches of sv. Karlo Boromejski and sv. Teodor. After a hearty Dalmatian lunch at a local konoba, enjoy the afternoon at the popular Copacabana beach. The day concludes with an atmospheric walk to Uvala Duboka for a spectacular sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwarzes Risotto",
+            "tip": "Mit Tintenfisch und Sepia zubereitet, ein Küstenklassiker."
+          },
+          {
+            "name": "Konoba Samut",
+            "tip": "Authentische dalmatinische Küche in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete rizottó",
+            "tip": "Tintahal-tintahallal készült tengerparti klasszikus."
+          },
+          {
+            "name": "Konoba Samut",
+            "tip": "Autentikus dalmát konyha hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Risotto negru",
+            "tip": "Un clasic de coastă preparat cu sepie și cerneală de sepie."
+          },
+          {
+            "name": "Konoba Samut",
+            "tip": "Bucătărie dalmațiană autentică într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Black Risotto",
+            "tip": "A coastal classic prepared with squid and cuttlefish ink."
+          },
+          {
+            "name": "Konoba Samut",
+            "tip": "Authentic Dalmatian cuisine in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uvala Duboka",
+            "tip": "Ruhiger Rückzugsort im Süden.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Altes Dorfzentrum",
+            "tip": "Authentisches Flair abseits der Bars.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Uvala Duboka",
+            "tip": "Csendes menedék a déli oldalon.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Régi faluközpont",
+            "tip": "Autentikus hangulat távol a bároktól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Uvala Duboka",
+            "tip": "Refugiu liniștit în partea de sud.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Centrul satului vechi",
+            "tip": "Atmosferă autentică departe de baruri.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Uvala Duboka",
+            "tip": "Quiet retreat on the south side.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Old village center",
+            "tip": "Authentic flair away from the bars.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Von den Kräutern der Insel Čiovo."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Direkt von den Bauern der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Čiovo sziget gyógynövényeiből készítve."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "Közvetlenül a környékbeli gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Produsă din plantele de pe insula Čiovo."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Direct de la fermierii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Made from the herbs of Čiovo island."
+          },
+          {
+            "name": "Olive Oil",
+            "tip": "Directly from the local farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie Badeschuhe für den Kiesstrand mit.",
+          "Die Parkplätze an der Copacabana sind im Sommer schnell belegt.",
+          "Wandern Sie zum Sonnenuntergang an die Südküste.",
+          "Es gibt ein Wassertaxi, das Okrug mit Trogir verbindet."
+        ],
+        "hu": [
+          "Vigyen vízi cipőt a kavicsos strand miatt.",
+          "A Copacabana melletti parkolók nyáron hamar megtelnek.",
+          "Sétáljon el a déli partra a naplementéért.",
+          "Vannak vízi taxik, amelyek összekötik Okrugot Trogirral."
+        ],
+        "ro": [
+          "Aduceți încălțăminte specială pentru plaja cu pietriș.",
+          "Parcările de lângă Copacabana se umplu repede vara.",
+          "Mergeți pe coasta de sud pentru apusul soarelui.",
+          "Există taxiuri pe apă care fac legătura între Okrug și Trogir."
+        ],
+        "en": [
+          "Bring water shoes for the pebble beach.",
+          "Parking spots near Copacabana fill up quickly in summer.",
+          "Walk to the south coast for the sunset.",
+          "There are water taxis connecting Okrug to Trogir."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Kaffee an der Uferpromenade",
+          "coords": [
+            16.216,
+            43.493
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit Blick auf das Meer.",
+            "hu": "Kezdje a napot tengerre néző kilátással.",
+            "ro": "Începeți ziua cu vedere la mare.",
+            "en": "Start your day with a sea view."
+          }
+        },
+        {
+          "name": "Crkva sv. Karla Boromejskog",
+          "coords": [
+            16.2212,
+            43.497
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Anstieg zum alten Ortskern.",
+            "hu": "Rövid emelkedő az ófaluba.",
+            "ro": "O urcare scurtă până în satul vechi.",
+            "en": "A short climb to the old village center."
+          }
+        },
+        {
+          "name": "Crkva sv. Teodora",
+          "coords": [
+            16.2285,
+            43.5022
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ruhige Fahrt entlang der Nordküste.",
+            "hu": "Csendes tekerés az északi part mentén.",
+            "ro": "O plimbare liniștită de-a lungul coastei de nord.",
+            "en": "Quiet ride along the north coast."
+          }
+        },
+        {
+          "name": "Südküsten-Panorama",
+          "coords": [
+            16.235,
+            43.485
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick über die Adria.",
+            "hu": "Élvezze a tágas kilátást az Adriára.",
+            "ro": "Bucurați-vă de vederea panoramică asupra Adriaticii.",
+            "en": "Enjoy the wide view over the Adriatic."
+          }
+        },
+        {
+          "name": "Picknick oder Konoba-Pause",
+          "coords": [
+            16.225,
+            43.488
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stärken Sie sich für die Weiterfahrt.",
+            "hu": "Gyűjtsön erőt a folytatáshoz.",
+            "ro": "Reîncărcați-vă bateriile pentru drum.",
+            "en": "Fuel up for the rest of the ride."
+          }
+        },
+        {
+          "name": "Uvala Duboka",
+          "coords": [
+            16.2255,
+            43.4882
+          ],
+          "category": "beach",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekt für eine erfrischende Badepause.",
+            "hu": "Tökéletes egy frissítő fürdőzéshez.",
+            "ro": "Perfect pentru o pauză de înot revigorantă.",
+            "en": "Perfect for a refreshing swim break."
+          }
+        },
+        {
+          "name": "Plaža Okrug (Copacabana)",
+          "coords": [
+            16.215,
+            43.4925
+          ],
+          "category": "beach",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Lassen Sie die Tour am belebten Strand ausklingen.",
+            "hu": "Zárja a túrát az élénk strandon.",
+            "ro": "Încheiați turul pe plaja animată.",
+            "en": "End the tour at the lively beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Insel Čiovo rund um Okrug mit dem Fahrrad. Diese Tour führt Sie von der geschäftigen Riva zu den historischen Kirchen und bietet atemberaubende Ausblicke auf die Südküste. Genießen Sie die Mischung aus kulturellen Sehenswürdigkeiten wie sv. Karla Boromejskog und entspannten Badepausen in der Uvala Duboka, bevor Sie den Tag am Hauptstrand Copacabana beenden.",
+        "hu": "Fedezze fel Čiovo szigetét Okrug környékén kerékpárral. Ez a túra a nyüzsgő rivától a történelmi templomokhoz vezet, és lenyűgöző kilátást nyújt a déli partra. Élvezze a kulturális látnivalók, mint a sv. Karla Boromejskog, és a pihentető fürdőzés keverékét az Uvala Dubokában, mielőtt a napot a Copacabana főstrandon zárná.",
+        "ro": "Explorați insula Čiovo în jurul localității Okrug cu bicicleta. Acest tur vă poartă de la faleza animată la bisericile istorice și oferă priveliști uimitoare ale coastei de sud. Bucurați-vă de amestecul de obiective culturale, precum sv. Karla Boromejskog, și pauze de înot relaxante în Uvala Duboka, înainte de a încheia ziua pe plaja principală Copacabana.",
+        "en": "Explore the island of Čiovo around Okrug by bike. This tour takes you from the bustling Riva to the historic churches and offers stunning views of the south coast. Enjoy the mix of cultural sights like sv. Karla Boromejskog and relaxed swimming breaks in Uvala Duboka, before ending the day at the main Copacabana beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Oktopus",
+            "tip": "Eine Spezialität der lokalen Fischer."
+          },
+          {
+            "name": "Dalmatinischer Rohschinken",
+            "tip": "Perfekt für eine kleine Stärkung zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett polip",
+            "tip": "A helyi halászok specialitása."
+          },
+          {
+            "name": "Dalmát sonka (Pršut)",
+            "tip": "Tökéletes egy kis napközbeni erősítéshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caracatiță la grătar",
+            "tip": "O specialitate a pescarilor locali."
+          },
+          {
+            "name": "Prosciutto dalmațian",
+            "tip": "Perfect pentru o gustare rapidă între opriri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Octopus",
+            "tip": "A specialty of the local fishermen."
+          },
+          {
+            "name": "Dalmatian Prosciutto",
+            "tip": "Perfect for a quick energy boost during the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Südküsten-Pfade",
+            "tip": "Einsame Wege mit toller Aussicht.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Crkva sv. Teodora",
+            "tip": "Friedlicher Ort am Rande des Ortes.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Déli parti ösvények",
+            "tip": "Elhagyatott utak nagyszerű kilátással.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Crkva sv. Teodora",
+            "tip": "Békés hely a falu szélén.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Potecile de pe coasta de sud",
+            "tip": "Drumuri izolate cu vederi superbe.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Crkva sv. Teodora",
+            "tip": "Loc liniștit la marginea localității.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "South Coast Paths",
+            "tip": "Lonely paths with great views.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Crkva sv. Teodora",
+            "tip": "Peaceful place at the edge of town.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Schnaps",
+            "tip": "Trava oder Rakija von lokalen Erzeugern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házilag készült pálinka",
+            "tip": "Travarica vagy rakija helyi termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rachiu de casă",
+            "tip": "Travarica sau rakija de la producătorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Brandy",
+            "tip": "Travarica or Rakija from local producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen, es gibt einige steile Abschnitte.",
+          "Nehmen Sie ausreichend Wasser mit, im Sommer ist es sehr heiß.",
+          "Die Küstenstraße nach Trogir kann verkehrsreich sein.",
+          "Nutzen Sie die Nebenwege im Landesinneren für mehr Ruhe."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket, vannak meredek szakaszok.",
+          "Vigyen elegendő vizet, nyáron nagyon meleg van.",
+          "A Trogirba vezető parti út forgalmas lehet.",
+          "Használja a belső mellékutakat a nagyobb nyugalom érdekében."
+        ],
+        "ro": [
+          "Verificați frânele, există câteva porțiuni abrupte.",
+          "Luați suficientă apă, vara este foarte cald.",
+          "Drumul de coastă spre Trogir poate fi aglomerat.",
+          "Folosiți drumurile secundare din interior pentru mai multă liniște."
+        ],
+        "en": [
+          "Check your brakes, there are some steep sections.",
+          "Take enough water, it gets very hot in summer.",
+          "The coastal road to Trogir can be busy.",
+          "Use the inland side roads for more peace."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 10.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Cluster A: Altes Dorf",
+          "coords": [
+            16.221,
+            43.497
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Dorfzentrum.",
+            "hu": "Parkoljon a faluközpontban.",
+            "ro": "Parcați în centrul satului.",
+            "en": "Park in the village center."
+          }
+        },
+        {
+          "name": "Crkva sv. Karla Boromejskog",
+          "coords": [
+            16.2212,
+            43.497
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Accessible on foot from the parking area."
+          }
+        },
+        {
+          "name": "Cluster B: Copacabana",
+          "coords": [
+            16.215,
+            43.492
+          ],
+          "category": "beach",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Suchen Sie einen Parkplatz in Strandnähe.",
+            "hu": "Keressen parkolót a strand közelében.",
+            "ro": "Căutați un loc de parcare lângă plajă.",
+            "en": "Look for a parking spot near the beach."
+          }
+        },
+        {
+          "name": "Plaža Okrug (Copacabana)",
+          "coords": [
+            16.215,
+            43.4925
+          ],
+          "category": "beach",
+          "arrive_at": "11:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Hauptstrand.",
+            "hu": "Lazítson a főstrandon.",
+            "ro": "Relaxați-vă pe plaja principală.",
+            "en": "Relax at the main beach."
+          }
+        },
+        {
+          "name": "Mittagessen am Meer",
+          "coords": [
+            16.217,
+            43.493
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Strand aus erreichbar.",
+            "hu": "Gyalogosan elérhető a strandtól.",
+            "ro": "Accesibil pe jos de la plajă.",
+            "en": "Accessible on foot from the beach."
+          }
+        },
+        {
+          "name": "Cluster C: Südbucht",
+          "coords": [
+            16.225,
+            43.488
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahrt zur ruhigeren Seite der Insel.",
+            "hu": "Autózás a sziget csendesebb oldalára.",
+            "ro": "Drum spre partea mai liniștită a insulei.",
+            "en": "Drive to the quieter side of the island."
+          }
+        },
+        {
+          "name": "Uvala Duboka",
+          "coords": [
+            16.2255,
+            43.4882
+          ],
+          "category": "beach",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal für ein ruhiges Bad.",
+            "hu": "Ideális egy nyugodt fürdőzéshez.",
+            "ro": "Ideal pentru o baie liniștită.",
+            "en": "Ideal for a quiet swim."
+          }
+        },
+        {
+          "name": "Crkva sv. Teodora",
+          "coords": [
+            16.2285,
+            43.5022
+          ],
+          "category": "religious",
+          "arrive_at": "17:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Abschlussbesuch der historischen Kirche.",
+            "hu": "A történelmi templom megtekintése zárásként.",
+            "ro": "Vizită de final la biserica istorică.",
+            "en": "Final visit to the historic church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lassen sich die verschiedenen Facetten von Okrug bequem erkunden. Starten Sie im historischen Kern bei der Kirche sv. Karla Boromejskog. Danach wechseln Sie zum lebhaften Copacabana-Strand für Badevergnügen und Mittagessen. Am Nachmittag führt die Fahrt zur ruhigen Uvala Duboka im Süden und endet bei der malerischen Kirche sv. Teodor an der Nordküste.",
+        "hu": "Autóval kényelmesen felfedezheti Okrug különböző arcait. Kezdjen a történelmi központban a sv. Karla Boromejskog templomnál. Ezután váltson a pezsgő Copacabana strandra a fürdőzéshez és ebédhez. Délután az út a déli csendes Uvala Dubokába vezet, majd a napot az északi parton fekvő festői sv. Teodor templomnál zárhatja.",
+        "ro": "Cu mașina puteți explora confortabil diferitele fațete ale localității Okrug. Începeți în centrul istoric la biserica sv. Karla Boromejskog. Apoi mergeți la plaja animată Copacabana pentru baie și prânz. După-amiaza, drumul vă duce spre liniștitul golf Uvala Duboka din sud și se încheie la biserica pitorească sv. Teodor de pe coasta de nord.",
+        "en": "By car, you can comfortably explore the different facets of Okrug. Start in the historic center at the church of sv. Karla Boromejskog. Then move to the lively Copacabana beach for swimming and lunch. In the afternoon, the drive takes you to the quiet Uvala Duboka in the south and ends at the picturesque church of sv. Teodor on the north coast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillte Lammkoteletts",
+            "tip": "Ein herzhafter Klassiker in den lokalen Restaurants."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett báránykaraj",
+            "tip": "Kiadós klasszikus a helyi éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cotlete de miel la grătar",
+            "tip": "Un clasic consistent în restaurantele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Lamb Chops",
+            "tip": "A hearty classic in local restaurants."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz Uvala Duboka",
+            "tip": "Schöne Aussicht auf die Nachbarinseln.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Uvala Duboka parkoló",
+            "tip": "Szép kilátás a szomszédos szigetekre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcare Uvala Duboka",
+            "tip": "Vedere frumoasă spre insulele vecine.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Uvala Duboka parking",
+            "tip": "Beautiful view of the neighboring islands.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs in Okrug Gornji",
+            "tip": "Handgefertigte Keramik und Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírek Okrug Gornjiban",
+            "tip": "Kézzel készített kerámiák és textíliák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri în Okrug Gornji",
+            "tip": "Ceramică și textile lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenirs in Okrug Gornji",
+            "tip": "Handmade ceramics and textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Einbahnstraßen im alten Dorf.",
+          "Parken Sie nur auf markierten Flächen, um Bußgelder zu vermeiden.",
+          "Im Sommer gibt es oft Staus an der Brücke nach Trogir."
+        ],
+        "hu": [
+          "Ügyeljen az egyirányú utcákra az ófaluban.",
+          "Csak kijelölt helyen parkoljon a bírságok elkerülése érdekében.",
+          "Nyáron gyakoriak a dugók a Trogirba vezető hídnál."
+        ],
+        "ro": [
+          "Atenție la străzile cu sens unic din satul vechi.",
+          "Parcați doar în locurile marcate pentru a evita amenzile.",
+          "Vara apar des ambuteiaje la podul spre Trogir."
+        ],
+        "en": [
+          "Watch out for one-way streets in the old village.",
+          "Park only in marked areas to avoid fines.",
+          "Traffic jams are common at the bridge to Trogir in summer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Bushaltestelle Okrug Gornji",
+          "coords": [
+            16.22,
+            43.4965
+          ],
+          "category": "square",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für Busse aus Trogir.",
+            "hu": "Központi érkezési pont a Trogirból érkező buszoknak.",
+            "ro": "Punct central de sosire pentru autobuzele din Trogir.",
+            "en": "Central arrival point for buses from Trogir."
+          }
+        },
+        {
+          "name": "Crkva sv. Karla Boromejskog",
+          "coords": [
+            16.2212,
+            43.497
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten von der Haltestelle entfernt.",
+            "hu": "Csak pár perc séta a megállótól.",
+            "ro": "La doar câteva minute de mers pe jos de stație.",
+            "en": "Just a few minutes' walk from the bus stop."
+          }
+        },
+        {
+          "name": "Crkva sv. Teodora",
+          "coords": [
+            16.2285,
+            43.5022
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang entlang der Straße.",
+            "hu": "Kellemes séta az út mentén.",
+            "ro": "O plimbare frumoasă de-a lungul drumului.",
+            "en": "A nice walk along the road."
+          }
+        },
+        {
+          "name": "Plaža Okrug (Copacabana)",
+          "coords": [
+            16.215,
+            43.4925
+          ],
+          "category": "beach",
+          "arrive_at": "12:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus oder das Wassertaxi.",
+            "hu": "Használja a helyi buszt vagy a vízi taxit.",
+            "ro": "Folosiți autobuzul local sau taxiul pe apă.",
+            "en": "Use the local bus or water taxi."
+          }
+        },
+        {
+          "name": "Spätes Mittagessen am Strand",
+          "coords": [
+            16.217,
+            43.493
+          ],
+          "category": "gastro",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresfrüchte direkt an der Riva.",
+            "hu": "Élvezze a tenger gyümölcseit közvetlenül a riván.",
+            "ro": "Bucurați-vă de fructele de mare direct pe faleză.",
+            "en": "Enjoy the seafood right on the Riva."
+          }
+        },
+        {
+          "name": "Spaziergang zur Uvala Duboka",
+          "coords": [
+            16.2255,
+            43.4882
+          ],
+          "category": "sunset",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ausklang des Tages.",
+            "hu": "A nap csendes lezárása.",
+            "ro": "O încheiere liniștită a zilei.",
+            "en": "A peaceful end to the day."
+          }
+        },
+        {
+          "name": "Rückfahrt ab Okrug Gornji",
+          "coords": [
+            16.22,
+            43.4965
+          ],
+          "category": "transit",
+          "arrive_at": "17:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Prüfen Sie den aktuellen Busfahrplan.",
+            "hu": "Ellenőrizze az aktuális buszmenetrendet.",
+            "ro": "Verificați orarul actual al autobuzelor.",
+            "en": "Check the current bus timetable."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Okrug lässt sich gut mit öffentlichen Verkehrsmitteln von Trogir aus erreichen. Starten Sie an der Hauptbushaltestelle und erkunden Sie die Kirchen sv. Karla Boromejskog und sv. Teodor zu Fuß. Danach bringt Sie der lokale Bus oder ein kurzer Spaziergang zum lebhaften Copacabana-Strand. Genießen Sie dort die Gastronomie, bevor Sie den Tag in der ruhigen Uvala Duboka ausklingen lassen.",
+        "hu": "Okrug jól megközelíthető tömegközlekedéssel Trogirból. Kezdjen a fő buszmegállónál, és fedezze fel gyalog a sv. Karla Boromejskog és sv. Teodor templomokat. Ezután a helyi busz vagy egy rövid séta elviszi a nyüzsgő Copacabana strandra. Élvezze ott a vendéglátást, mielőtt a napot a csendes Uvala Dubokában zárná.",
+        "ro": "Okrug este ușor accesibil cu transportul public din Trogir. Începeți la stația principală de autobuz și explorați pe jos bisericile sv. Karla Boromejskog și sv. Teodor. Apoi, autobuzul local sau o scurtă plimbare vă va duce la plaja animată Copacabana. Bucurați-vă de gastronomia locală înainte de a încheia ziua în liniștitul golf Uvala Duboka.",
+        "en": "Okrug is easily accessible by public transport from Trogir. Start at the main bus stop and explore the churches of sv. Karla Boromejskog and sv. Teodor on foot. Then, the local bus or a short walk will take you to the lively Copacabana beach. Enjoy the local gastronomy there before ending the day in the peaceful Uvala Duboka."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käse und Wein",
+            "tip": "In den kleinen Läden oder Konobas probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajt és bor",
+            "tip": "Kóstolja meg a kisboltokban vagy konobákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză și vin local",
+            "tip": "Încercați-le în micile magazine sau konoba."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese and Wine",
+            "tip": "Taste them in the small shops or konobas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weg zur Uvala Duboka",
+            "tip": "Schöner Naturpfad.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Út az Uvala Duboka felé",
+            "tip": "Szép tanösvény.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul spre Uvala Duboka",
+            "tip": "Potecă naturală frumoasă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Path to Uvala Duboka",
+            "tip": "Beautiful nature path.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lavendelprodukte",
+            "tip": "Ein klassisches dalmatinisches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendula termékek",
+            "tip": "Klasszikus dalmát szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse cu lavandă",
+            "tip": "Un suvenir dalmațian clasic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender Products",
+            "tip": "A classic Dalmatian souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets beim Fahrer.",
+          "Die Busse fahren im Sommer etwa alle 30-60 Minuten.",
+          "Das Wassertaxi nach Trogir ist eine tolle Alternative zum Bus."
+        ],
+        "hu": [
+          "Vásároljon buszjegyet a sofőrnél.",
+          "A buszok nyáron kb. 30-60 percenként járnak.",
+          "A vízi taxi Trogirba remek alternatívája a busznak."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz de la șofer.",
+          "Autobuzele circulă vara la aproximativ 30-60 de minute.",
+          "Taxiul pe apă spre Trogir este o alternativă excelentă la autobuz."
+        ],
+        "en": [
+          "Buy bus tickets from the driver.",
+          "Buses run about every 30-60 minutes in summer.",
+          "The water taxi to Trogir is a great alternative to the bus."
+        ]
+      }
+    }
+  }
+}

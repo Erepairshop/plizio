@@ -1,0 +1,1117 @@
+{
+  "city_id": "croatia-slivno-cities-v2",
+  "anchor": {
+    "name": "Slivno (Klek)",
+    "coords": [
+      17.5467,
+      42.9817
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:50",
+      "total_km": 6.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Kula Nonković",
+          "coords": [
+            17.5472,
+            42.9821
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Bewundern Sie den Wehrturm aus der Zeit der Türkenkriege.",
+            "hu": "Csodálja meg a török elleni védelemhez épült lakótornyot.",
+            "ro": "Admirați turnul de apărare construit împotriva atacurilor otomane.",
+            "en": "Admire the residential defense tower from the Ottoman wars."
+          }
+        },
+        {
+          "name": "Galerija Stećak",
+          "coords": [
+            17.5485,
+            42.9815
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entdecken Sie die modernen Skulpturen am Meer.",
+            "hu": "Fedezze fel a tengerparti modern szoborparkot.",
+            "ro": "Descoperiți parcul de sculpturi moderne de pe malul mării.",
+            "en": "Explore the modern sculpture park by the seaside."
+          }
+        },
+        {
+          "name": "Riva-Spaziergang",
+          "coords": [
+            17.5465,
+            42.9812
+          ],
+          "category": "harbor",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresbrise am kleinen Hafen.",
+            "hu": "Élvezze a tengeri szellőt a kis kikötő mentén.",
+            "ro": "Bucurați-vă de briza mării de-a lungul micului port.",
+            "en": "Enjoy the sea breeze along the small harbor."
+          }
+        },
+        {
+          "name": "Mittagessen in der Konoba",
+          "coords": [
+            17.5458,
+            42.9818
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch oder Meeresfrüchte aus der Adria.",
+            "hu": "Kóstoljon friss adriai halakat vagy tenger gyümölcseit.",
+            "ro": "Gustați pește proaspăt din Adriatică sau fructe de mare.",
+            "en": "Taste fresh Adriatic fish or seafood."
+          }
+        },
+        {
+          "name": "Strand von Klek",
+          "coords": [
+            17.5452,
+            42.9805
+          ],
+          "category": "beach",
+          "arrive_at": "14:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Entspannen Sie an einem der sonnigsten Kieselstrände.",
+            "hu": "Pihenjen a környék egyik legnapsütöttébb kavicsos strandján.",
+            "ro": "Relaxați-vă pe una dintre cele mai însorite plaje cu pietriș.",
+            "en": "Relax on one of the sunniest pebble beaches in the area."
+          }
+        },
+        {
+          "name": "Smrdan grad",
+          "coords": [
+            17.5562,
+            42.9855
+          ],
+          "category": "historical",
+          "arrive_at": "17:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Wandern Sie zur Ruine für einen spektakulären Panoramablick.",
+            "hu": "Túrázzon fel a romokhoz a látványos panorámáért.",
+            "ro": "Urcați la ruine pentru o vedere panoramică spectaculoasă.",
+            "en": "Hike up to the ruins for a spectacular panoramic view."
+          }
+        },
+        {
+          "name": "Crkva sv. Liberana",
+          "coords": [
+            17.5568,
+            42.9858
+          ],
+          "category": "religious",
+          "arrive_at": "19:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Besuchen Sie die kleine Kapelle neben der Festung.",
+            "hu": "Látogassa meg az erőd melletti kis kápolnát.",
+            "ro": "Vizitați mica capelă de lângă fortăreață.",
+            "en": "Visit the small chapel next to the fortress."
+          }
+        },
+        {
+          "name": "Sonnenuntergang über Pelješac",
+          "coords": [
+            17.556,
+            42.9852
+          ],
+          "category": "sunset",
+          "arrive_at": "19:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das schönste Licht des Tages über der Halbinsel Pelješac.",
+            "hu": "A nap legszebb fényei a Pelješac-félsziget felett.",
+            "ro": "Cea mai frumoasă lumină a zilei peste peninsula Pelješac.",
+            "en": "The most beautiful light of the day over Pelješac peninsula."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im charmanten Küstendorf Klek mit dem historischen Nonković-Turm und moderner Kunst in der Stećak-Galerie. Nach einem entspannten Vormittag am Hafen genießen Sie ein lokales Mittagessen und verbringen die heißesten Stunden am Strand. Am späten Nachmittag führt ein stetiger Aufstieg zur Festung Smrdan grad, wo Geschichte auf eine atemberaubende Aussicht trifft.",
+        "hu": "Kezdje a napot Klek bájos tengerparti falujában a történelmi Nonković-toronnyal és a modern Stećak-galériával. Egy laza kikötői séta után élvezze a helyi ebédet, majd töltse a délutánt a strandon. Késő délután kaptasson fel Smrdan grad várához, ahol a történelem találkozik a Pelješac-félszigetre és a szigetekre nyíló lélegzetelállító kilátással.",
+        "ro": "Începeți ziua în fermecătorul sat de coastă Klek, vizitând turnul istoric Nonković și galeria Stećak. După o plimbare relaxantă în port, bucurați-vă de un prânz local și petreceți după-amiaza pe plajă. Spre seară, urcați spre cetatea Smrdan grad, unde istoria se îmbină cu o priveliște uluitoare asupra peninsulei Pelješac și a insulelor din jur.",
+        "en": "Start your day in the charming seaside village of Klek with the historical Nonković tower and modern art at the Stećak Gallery. After a relaxed stroll by the harbor, enjoy a local lunch and spend the afternoon at the beach. In the late afternoon, hike up to Smrdan grad fortress, where history meets breathtaking views of the Pelješac peninsula and nearby islands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch",
+            "tip": "Gegrillter Fisch mit Mangold und Kartoffeln."
+          },
+          {
+            "name": "Neretva-Wein",
+            "tip": "Probieren Sie Weißweine aus der nahegelegenen Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss halak",
+            "tip": "Grillezett tengeri hal mángolddal és burgonyával."
+          },
+          {
+            "name": "Neretva borok",
+            "tip": "Kóstolja meg a közeli borvidék fehérborait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt",
+            "tip": "Pește la grătar cu mangold și cartofi."
+          },
+          {
+            "name": "Vin de Neretva",
+            "tip": "Gustați vinurile albe din regiunea învecinată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Fish",
+            "tip": "Grilled sea fish with chard and potatoes."
+          },
+          {
+            "name": "Neretva Wine",
+            "tip": "Try white wines from the nearby river delta region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Smrdan grad",
+            "tip": "Stille unter alten Mauern mit Aussicht.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Kleine Buchten",
+            "tip": "Ruhige Ecken abseits des Hauptstrandes.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smrdan grad",
+            "tip": "Csend a régi falak között, pazar kilátással.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Kis öblök",
+            "tip": "Nyugodt sarkok a főstrandtól távolabb.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smrdan grad",
+            "tip": "Liniște printre zidurile vechi cu vedere superbă.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Golful mic",
+            "tip": "Colțuri liniștite departe de plaja principală.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Smrdan grad",
+            "tip": "Silence among old walls with grand views.",
+            "emoji": "🏰"
+          },
+          {
+            "name": "Small Coves",
+            "tip": "Quiet spots away from the main beach.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Direkt von den Erzeugern der Region Slivno."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon közvetlenül a Slivno környéki termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați direct de la producătorii din zona Slivno."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy directly from producers in the Slivno area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Gutes Schuhwerk für den Aufstieg nach Smrdan grad ist wichtig.",
+          "Nehmen Sie ausreichend Wasser für die Wanderung mit.",
+          "Der Strand in Klek ist ideal für Familien mit Kindern."
+        ],
+        "hu": [
+          "Smrdan grad megmászásához kényelmes túracipő ajánlott.",
+          "Vigyen magával elegendő vizet a hegyi sétához.",
+          "Klek strandja lassan mélyülő, így családoknak is ideális."
+        ],
+        "ro": [
+          "Pantofii sport sunt necesari pentru urcarea la Smrdan grad.",
+          "Luați suficientă apă pentru drumeția de după-amiază.",
+          "Plaja din Klek este ideală pentru familiile cu copii."
+        ],
+        "en": [
+          "Comfortable shoes are essential for the hike to Smrdan grad.",
+          "Take enough water for the afternoon uphill walk.",
+          "Klek beach is shallow and ideal for families."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 14.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Kula Nonković",
+          "coords": [
+            17.5472,
+            42.9821
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Sicheres Abstellen der Fahrräder in der Nähe möglich.",
+            "hu": "A kerékpárok biztonságosan leparkolhatók a közelben.",
+            "ro": "Bicicletele pot fi parcate în siguranță în apropiere.",
+            "en": "Bikes can be parked safely nearby."
+          }
+        },
+        {
+          "name": "Galerija Stećak",
+          "coords": [
+            17.5485,
+            42.9815
+          ],
+          "category": "museum",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kurze Fahrt entlang der Uferpromenade.",
+            "hu": "Rövid tekerés a tengerparti sétány mentén.",
+            "ro": "O scurtă plimbare cu bicicleta pe faleză.",
+            "en": "Short ride along the seaside promenade."
+          }
+        },
+        {
+          "name": "Küstenradweg-Pause",
+          "coords": [
+            17.5245,
+            42.9925
+          ],
+          "category": "park",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Entdecken Sie versteckte Buchten in Richtung Komarna.",
+            "hu": "Fedezzen fel rejtett öblöket Komarna irányában.",
+            "ro": "Descoperiți golfuri ascunse în direcția Komarna.",
+            "en": "Discover hidden coves heading towards Komarna."
+          }
+        },
+        {
+          "name": "Gastro-Stopp am Meer",
+          "coords": [
+            17.5455,
+            42.9822
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit mediterraner Küche.",
+            "hu": "Frissüljön fel mediterrán fogásokkal.",
+            "ro": "Refaceți-vă forțele cu preparate mediteraneene.",
+            "en": "Recharge with Mediterranean dishes."
+          }
+        },
+        {
+          "name": "Strand von Duboka",
+          "coords": [
+            17.5342,
+            42.9865
+          ],
+          "category": "beach",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein ruhigerer Strand als der Hauptstrand von Klek.",
+            "hu": "A Klek főstrandjánál nyugodtabb tengerparti szakasz.",
+            "ro": "O zonă de plajă mai liniștită decât cea principală din Klek.",
+            "en": "A quieter beach area than the main one in Klek."
+          }
+        },
+        {
+          "name": "Smrdan grad",
+          "coords": [
+            17.5562,
+            42.9855
+          ],
+          "category": "historical",
+          "arrive_at": "17:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Der letzte Teil ist steil, schieben Sie eventuell das Rad.",
+            "hu": "Az utolsó szakasz meredek, tolja a biciklit.",
+            "ro": "Ultima porțiune este abruptă, s-ar putea să trebuiască să împingeți bicicleta.",
+            "en": "The final section is steep, you might need to push the bike."
+          }
+        },
+        {
+          "name": "Crkva sv. Liberana",
+          "coords": [
+            17.5568,
+            42.9858
+          ],
+          "category": "religious",
+          "arrive_at": "18:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Kleiner Halt an der Kapelle auf dem Hügel.",
+            "hu": "Kis megálló a dombtetőn lévő kápolnánál.",
+            "ro": "Mică oprire la capela de pe vârful dealului.",
+            "en": "Small stop at the chapel on the hilltop."
+          }
+        },
+        {
+          "name": "Panoramablick-Pause",
+          "coords": [
+            17.5555,
+            42.9845
+          ],
+          "category": "sunset",
+          "arrive_at": "19:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "bike",
+          "tip_5lang": {
+            "de": "Ein perfekter Ort, um den Tag ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárásához.",
+            "ro": "Un loc perfect pentru a încheia ziua.",
+            "en": "A perfect spot to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Riviera von Slivno auf zwei Rädern. Nach den historischen Sehenswürdigkeiten von Klek führt die Route entlang der Küste zu ruhigen Buchten bei Duboka und Komarna. Der anspruchsvollere Teil folgt am Nachmittag mit der Auffahrt zur Festung Smrdan grad, belohnt durch eine fantastische Aussicht über die Adria und die Pelješac-Brücke.",
+        "hu": "Fedezze fel a Slivno-riviérát két keréken. Klek történelmi emlékei után az út a part mentén halad Duboka és Komarna felé, érintve a rejtett kis öblöket. A nap sportosabb része a délutáni kaptató Smrdan grad várához, amit az Adria és a Pelješac-híd fenséges látványa hálál meg.",
+        "ro": "Explorați riviera Slivno pe două roți. După monumentele istorice din Klek, traseul urmează coasta spre Duboka și Komarna, trecând prin golfuri ascunse. Partea mai sportivă a zilei este urcarea de după-amiază spre cetatea Smrdan grad, răsplătită de vederea magnifică asupra Adriaticii și a podului Pelješac.",
+        "en": "Explore the Slivno Riviera on two wheels. After the historical sights of Klek, the route follows the coast towards Duboka and Komarna, touching upon hidden coves. The more athletic part of the day is the afternoon climb to Smrdan grad fortress, rewarded by majestic views over the Adriatic and the Pelješac Bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Schinken",
+            "tip": "Pršut aus dem dalmatinischen Hinterland."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi sonka",
+            "tip": "Pršut a dalmát hátországból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șuncă de casă",
+            "tip": "Pršut din hinterlandul dalmat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Ham",
+            "tip": "Local pršut from the Dalmatian hinterland."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Duboka Bucht",
+            "tip": "Klares Wasser und wenig Trubel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Duboka öböl",
+            "tip": "Tiszta víz és kevés ember.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Duboka",
+            "tip": "Apă curată și puțină aglomerație.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Duboka Bay",
+            "tip": "Clear water and fewer crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Besuchen Sie ein Weingut in Komarna."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Látogasson el egy borászathoz Komarnában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Vizitați o cramă în Komarna."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wines",
+            "tip": "Visit a local winery in Komarna."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße kann im Sommer belebt sein, Vorsicht ist geboten.",
+          "Prüfen Sie die Bremsen vor der Abfahrt vom Smrdan grad.",
+          "Ein Mountainbike ist für den Schotterweg zum Turm ideal."
+        ],
+        "hu": [
+          "A tengerparti út nyáron forgalmas lehet, legyen óvatos.",
+          "Ellenőrizze a fékeket a Smrdan gradtól lefelé jövet.",
+          "A várba vezető murvás úton a mountain bike az ideális."
+        ],
+        "ro": [
+          "Drumul de coastă poate fi aglomerat vara, fiți prudenți.",
+          "Verificați frânele înainte de coborârea de la Smrdan grad.",
+          "O bicicletă de munte este ideală pentru drumul cu pietriș spre cetate."
+        ],
+        "en": [
+          "The coast road can be busy in summer, ride with caution.",
+          "Check your brakes before descending from Smrdan grad.",
+          "A mountain bike is ideal for the gravel path to the fortress."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 18.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Kula Nonković",
+          "coords": [
+            17.5472,
+            42.9821
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang von Klek.",
+            "hu": "Parkoljon Klek bejáratánál.",
+            "ro": "Parcați la intrarea în Klek.",
+            "en": "Park at the entrance of Klek."
+          }
+        },
+        {
+          "name": "Galerija Stećak",
+          "coords": [
+            17.5485,
+            42.9815
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang innerhalb des Ortes.",
+            "hu": "Kényelmes séta a falun belül.",
+            "ro": "O plimbare relaxantă în interiorul satului.",
+            "en": "A relaxed walk within the village."
+          }
+        },
+        {
+          "name": "Mittagessen am Meer",
+          "coords": [
+            17.5458,
+            42.9818
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Regionale Spezialitäten direkt an der Riva.",
+            "hu": "Helyi specialitások közvetlenül a korzón.",
+            "ro": "Specialități regionale chiar pe faleză.",
+            "en": "Regional specialties right on the waterfront."
+          }
+        },
+        {
+          "name": "Strand von Klek",
+          "coords": [
+            17.5452,
+            42.9805
+          ],
+          "category": "beach",
+          "arrive_at": "13:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Nachmittagssonne.",
+            "hu": "Élvezze a délutáni napsütést.",
+            "ro": "Bucurați-vă de soarele de după-amiază.",
+            "en": "Enjoy the afternoon sun."
+          }
+        },
+        {
+          "name": "Smrdan grad",
+          "coords": [
+            17.5562,
+            42.9855
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Kurze Fahrt bergauf zur historischen Stätte.",
+            "hu": "Rövid autózás felfelé a történelmi emlékhelyhez.",
+            "ro": "O scurtă călătorie cu mașina în amonte spre situl istoric.",
+            "en": "Short drive uphill to the historical site."
+          }
+        },
+        {
+          "name": "Crkva sv. Liberana",
+          "coords": [
+            17.5568,
+            42.9858
+          ],
+          "category": "religious",
+          "arrive_at": "17:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Friedlicher Ort mit schöner Aussicht.",
+            "hu": "Békés helyszín szép kilátással.",
+            "ro": "Loc liniștit cu o vedere frumoasă.",
+            "en": "Peaceful place with a nice view."
+          }
+        },
+        {
+          "name": "Panoramapunkt Pelješac",
+          "coords": [
+            17.556,
+            42.9852
+          ],
+          "category": "sunset",
+          "arrive_at": "18:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Blick auf die neue Pelješac-Brücke.",
+            "hu": "Kilátás az új Pelješac-hídra.",
+            "ro": "Vedere spre noul pod Pelješac.",
+            "en": "View of the new Pelješac Bridge."
+          }
+        },
+        {
+          "name": "Weinprobe Komarna",
+          "coords": [
+            17.5255,
+            42.9935
+          ],
+          "category": "gastro",
+          "arrive_at": "19:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Besuchen Sie ein modernes Weingut in der Nähe.",
+            "hu": "Látogasson el egy közeli modern borászathoz.",
+            "ro": "Vizitați o cramă modernă din apropiere.",
+            "en": "Visit a modern winery nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie das entspannte Klek mit den Höhenzügen von Slivno. Vormittags erkunden Sie die Sehenswürdigkeiten im Ort zu Fuß, bevor Sie am Nachmittag zur Festung Smrdan grad hinauffahren. Den Tag krönen Sie mit einer Weinverkostung in Komarna, wo Sie bei einem Glas Wein den Blick auf das Meer und die imposante Pelješac-Brücke genießen können.",
+        "hu": "Autóval kényelmesen kötheti össze Klek tengerparti nyugalmát Slivno dombvidéki kincseivel. Délelőtt a falu nevezetességeit fedezheti fel gyalogosan, majd délután autózhat fel Smrdan grad várához. A napot Komarnában zárhatja egy borkóstolóval, ahol a Pelješac-híd látványa kíséri a helyi fajtákból készült borokat.",
+        "ro": "Cu mașina, puteți combina liniștea din Klek cu bogățiile de pe dealurile din Slivno. Dimineața explorați satul pe jos, iar după-amiaza conduceți spre cetatea Smrdan grad. Încheiați ziua în Komarna cu o degustare de vinuri, admirând podul Pelješac și apusul peste mare.",
+        "en": "By car, you can easily combine the seaside tranquility of Klek with the hilltop treasures of Slivno. Spend the morning exploring the village on foot, then drive up to Smrdan grad fortress in the afternoon. End your day in Komarna with a wine tasting, accompanied by views of the Pelješac Bridge and the sunset over the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Plavac Mali",
+            "tip": "Der berühmteste Rotwein der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plavac Mali",
+            "tip": "A régió leghíresebb vörösbora."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plavac Mali",
+            "tip": "Cel mai faimos vin roșu din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plavac Mali",
+            "tip": "The most famous red wine of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Smrdan grad",
+            "tip": "Herrliche Ruhe hoch über der Küste.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Smrdan grad kilátó",
+            "tip": "Fenséges nyugalom magasan a part felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvederea Smrdan grad",
+            "tip": "Liniște deplină deasupra coastei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Smrdan grad viewpoint",
+            "tip": "Majestic peace high above the coast.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Regionale Feigen",
+            "tip": "Getrocknete Feigen oder Feigenmarmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi füge",
+            "tip": "Szárított füge vagy fügelekvár."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smochine locale",
+            "tip": "Smochine uscate sau gem de smochine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Figs",
+            "tip": "Dried figs or fig jam."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Klek gibt es kostenpflichtige Parkplätze am Meer.",
+          "Die Straße zum Smrdan grad ist schmal, fahren Sie vorsichtig.",
+          "Buchen Sie die Weinprobe in Komarna vorab."
+        ],
+        "hu": [
+          "Klekben fizetős parkolók találhatók a tengerpart közelében.",
+          "A Smrdan gradhoz vezető út keskeny, vezessen óvatosan.",
+          "A komarnai borkóstolóra érdemes előre bejelentkezni."
+        ],
+        "ro": [
+          "În Klek există parcări cu plată lângă mare.",
+          "Drumul spre Smrdan grad este îngust, conduceți cu atenție.",
+          "Este recomandat să rezervați degustarea de vinuri în Komarna."
+        ],
+        "en": [
+          "There are paid parking lots near the sea in Klek.",
+          "The road to Smrdan grad is narrow, drive carefully.",
+          "Pre-booking is recommended for wine tasting in Komarna."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Klek Bushaltestelle",
+          "coords": [
+            17.548,
+            42.9825
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt an der Magistrale.",
+            "hu": "Központi érkezési pont a főút mentén.",
+            "ro": "Punct central de sosire pe magistrală.",
+            "en": "Central arrival point on the main road."
+          }
+        },
+        {
+          "name": "Kula Nonković",
+          "coords": [
+            17.5472,
+            42.9821
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten von der Haltestelle entfernt.",
+            "hu": "Csak pár perc séta a buszmegállótól.",
+            "ro": "La doar câteva minute de mers pe jos de stație.",
+            "en": "Just a few minutes walk from the bus stop."
+          }
+        },
+        {
+          "name": "Galerija Stećak",
+          "coords": [
+            17.5485,
+            42.9815
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kultur direkt am Meer.",
+            "hu": "Kultúra közvetlenül a tengerparton.",
+            "ro": "Cultură chiar pe malul mării.",
+            "en": "Culture right by the seaside."
+          }
+        },
+        {
+          "name": "Mittagessen in Klek",
+          "coords": [
+            17.5458,
+            42.9818
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Fischgerichte.",
+            "hu": "Élvezze a helyi halételeket.",
+            "ro": "Bucurați-vă de preparate locale din pește.",
+            "en": "Enjoy local fish dishes."
+          }
+        },
+        {
+          "name": "Strand von Klek",
+          "coords": [
+            17.5452,
+            42.9805
+          ],
+          "category": "beach",
+          "arrive_at": "13:55",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Perfekt für eine lange Badepause.",
+            "hu": "Tökéletes egy hosszú strandoláshoz.",
+            "ro": "Perfect pentru o pauză lungă de plajă.",
+            "en": "Perfect for a long beach break."
+          }
+        },
+        {
+          "name": "Smrdan grad",
+          "coords": [
+            17.5562,
+            42.9855
+          ],
+          "category": "historical",
+          "arrive_at": "17:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Anstrengender, aber lohnender Aufstieg.",
+            "hu": "Fárasztó, de kifizetődő kaptató.",
+            "ro": "Urcare obositoare, dar care merită efortul.",
+            "en": "Strenuous but rewarding climb."
+          }
+        },
+        {
+          "name": "Crkva sv. Liberana",
+          "coords": [
+            17.5568,
+            42.9858
+          ],
+          "category": "religious",
+          "arrive_at": "18:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Abendstille an der Kapelle.",
+            "hu": "Esti csend a kápolnánál.",
+            "ro": "Liniște de seară la capelă.",
+            "en": "Evening silence at the chapel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Klek ist gut mit Fernbussen an der Küstenstraße erreichbar. Vom Ankunftspunkt aus lassen sich alle Sehenswürdigkeiten im Dorf sowie der Strand bequem zu Fuß erkunden. Der Höhepunkt des Tages ist der Wanderweg zur Festung Smrdan grad, der einen weiten Blick über die Küste und die Inselwelt bietet, bevor Sie am Abend wieder Ihren Bus nehmen.",
+        "hu": "Klek könnyen elérhető távolsági buszokkal a tengerparti főúton. Az érkezési ponttól a falu minden látnivalója és a strand is kényelmesen, gyalog bejárható. A nap fénypontja a Smrdan grad várához vezető túra, amely pazar kilátást nyújt a partvidékre és a szigetvilágra, mielőtt este újra buszra szállna.",
+        "ro": "Klek este ușor accesibil cu autobuzele de lungă distanță de pe magistrala de coastă. De la punctul de sosire, toate atracțiile din sat și plaja pot fi explorate pe jos. Punctul culminant al zilei este drumeția spre cetatea Smrdan grad, care oferă o vedere superbă asupra coastei și insulelor, înainte de a pleca seara cu autobuzul.",
+        "en": "Klek is easily accessible by long-distance buses on the coastal highway. From the arrival point, all the village sights and the beach are within comfortable walking distance. The highlight of the day is the hike to Smrdan grad fortress, offering grand views of the coastline and islands before catching your bus back in the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eis am Hafen",
+            "tip": "Ein Muss für den Spaziergang."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fagylalt a kikötőben",
+            "tip": "Elengedhetetlen a korzózáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețată în port",
+            "tip": "Indispensabilă pentru plimbarea pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ice Cream at the Harbor",
+            "tip": "A must-have for the waterfront stroll."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Crkva sv. Liberana",
+            "tip": "Ein Ort zum Innehalten auf dem Berg.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crkva sv. Liberana",
+            "tip": "Hely az elcsendesedéshez a hegytetőn.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crkva sv. Liberana",
+            "tip": "Un loc pentru reculegere pe vârful dealului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Crkva sv. Liberana",
+            "tip": "A place for quiet reflection on the hilltop.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lavendelsäckchen",
+            "tip": "Ein duftendes Souvenir aus Dalmatien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendulazsák",
+            "tip": "Illatos dalmát szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Săculeț cu lavandă",
+            "tip": "Un suvenir parfumat din Dalmația."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender Bags",
+            "tip": "A fragrant Dalmatian souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den aktuellen Fahrplan der Überlandbusse.",
+          "Die Haltestelle befindet sich an der Hauptstraße oberhalb des Ortes.",
+          "Planen Sie genug Zeit für den Rückweg zum Bus ein."
+        ],
+        "hu": [
+          "Ellenőrizze a távolsági buszok aktuális menetrendjét.",
+          "A megálló a falu felett, a főút mentén található.",
+          "Hagyjon elég időt a buszhoz való visszasétáláshoz."
+        ],
+        "ro": [
+          "Verificați programul actual al autobuzelor interurbane.",
+          "Stația se află pe drumul principal, deasupra satului.",
+          "Alocați suficient timp pentru întoarcerea la stația de autobuz."
+        ],
+        "en": [
+          "Check the current timetable for long-distance buses.",
+          "The stop is located on the main road above the village.",
+          "Allow enough time to walk back to the bus stop."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1181 @@
+{
+  "city_id": "croatia-podstrana-cities-v2",
+  "anchor": {
+    "name": "Podstrana",
+    "coords": [
+      16.58,
+      43.48
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaža Strožanac",
+            "hu": "Strožanac strand",
+            "ro": "Plaja Strožanac",
+            "en": "Strožanac Beach"
+          },
+          "coords": [
+            16.532,
+            43.491
+          ],
+          "category": "beach",
+          "arrive_at": "09:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Flacher Einstieg, ideal für den Vormittag.",
+            "hu": "Lassan mélyülő víz, tökéletes reggeli úszáshoz.",
+            "ro": "Intrare lină în apă, ideală pentru dimineață.",
+            "en": "Shallow water, perfect for a morning swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafenpromenade Strožanac",
+            "hu": "Strožanac kikötői sétány",
+            "ro": "Promenada Portului Strožanac",
+            "en": "Strožanac Harbor Walk"
+          },
+          "coords": [
+            16.535,
+            43.489
+          ],
+          "category": "harbor",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote bei der Einfahrt.",
+            "hu": "Nézze meg a kikötőbe érkező halászhajókat.",
+            "ro": "Urmăriți bărcile de pescuit care intră în port.",
+            "en": "Watch the fishing boats entering the marina."
+          }
+        },
+        {
+          "name": {
+            "de": "Ljetnikovac Cindro",
+            "hu": "Cindro-nyaraló",
+            "ro": "Conacul Cindro",
+            "en": "Cindro House"
+          },
+          "coords": [
+            16.536,
+            43.488
+          ],
+          "category": "historical",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wunderschöne Gartenanlage aus dem 17. Jahrhundert.",
+            "hu": "Gyönyörű 17. századi kert és épületegyüttes.",
+            "ro": "Grădini superbe din secolul al XVII-lea.",
+            "en": "Beautiful 17th-century garden and mansion."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Konoba",
+            "hu": "Ebéd egy konobában",
+            "ro": "Prânz la o konoba",
+            "en": "Lunch at a Konoba"
+          },
+          "coords": [
+            16.541,
+            43.485
+          ],
+          "category": "gastro",
+          "arrive_at": "14:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie gegrillten Fisch oder Peka.",
+            "hu": "Kóstolja meg a grillezett halat vagy a pekát.",
+            "ro": "Încercați peștele la grătar sau peka.",
+            "en": "Try the grilled fish or traditional peka."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade Riva",
+            "hu": "Riva sétány",
+            "ro": "Faleza Riva",
+            "en": "Waterfront Stroll"
+          },
+          "coords": [
+            16.555,
+            43.478
+          ],
+          "category": "harbor",
+          "arrive_at": "16:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannter Spaziergang entlang der Adria.",
+            "hu": "Pihentető séta az Adria partja mentén.",
+            "ro": "O plimbare relaxantă de-a lungul Adriaticii.",
+            "en": "Relaxing walk along the Adriatic coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva svetog Martina",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Church of St. Martin"
+          },
+          "coords": [
+            16.572,
+            43.469
+          ],
+          "category": "religious",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Historische Kirche nahe der römischen Ruinen.",
+            "hu": "Történelmi templom a római romok közelében.",
+            "ro": "Biserică istorică lângă ruinele romane.",
+            "en": "Historic church near the Roman ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Strand",
+            "hu": "Naplemente a tengerparton",
+            "ro": "Apus de soare pe plajă",
+            "en": "Sunset at the Beach"
+          },
+          "coords": [
+            16.574,
+            43.468
+          ],
+          "category": "sunset",
+          "arrive_at": "17:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für das Tagesende.",
+            "hu": "A tökéletes hely a nap lezárásához.",
+            "ro": "Locul perfect pentru sfârșitul zilei.",
+            "en": "The perfect spot to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am nördlichen Ende von Podstrana am beliebten Strand von Strožanac. Nach einem erfrischenden Bad spazieren Sie zum kleinen Hafen und besichtigen den prachtvollen Cindro-Herrenhaus aus der Barockzeit. Mittags kehren Sie in eine der gemütlichen Konobas ein, um dalmatinische Fischgerichte zu genießen. Der Nachmittag führt Sie entlang der Küste nach Süden bis zur Kirche des Heiligen Martin, bevor Sie den Sonnenuntergang direkt am Meer erleben.",
+        "hu": "A napot Podstrana északi részén, a népszerű Strožanac strandon kezdheti. Egy frissítő reggeli úszás után sétáljon el a kikötőbe, és látogasson el a barokk kori Cindro-nyaralóba. Ebédre keressen egy hangulatos konobát a tengerpart közelében, ahol helyi tengeri finomságokat kóstolhat. Délután a part mentén sétáljon délre a Szent Márton-templomhoz, majd zárja a napot a tengerparton a lemenő nap sugaraiban gyönyörködve.",
+        "ro": "Ziua începe în partea de nord a orașului Podstrana, pe populara plajă Strožanac. După o baie revigorantă de dimineață, mergeți spre port și vizitați conacul Cindro, o bijuterie barocă. La prânz, alegeți o konoba primitoare pentru a degusta specialități dalmate din pește. După-amiaza vă poartă de-a lungul coastei spre sud, până la biserica Sfântul Martin, înainte de a încheia ziua cu un apus spectaculos pe plajă.",
+        "en": "Your day starts at the northern end of Podstrana at the popular Strožanac beach. After a refreshing morning swim, walk to the marina and visit the baroque Cindro House. For lunch, settle into a cozy local konoba for some authentic Dalmatian seafood. The afternoon takes you south along the scenic waterfront to the Church of St. Martin, finishing the day with a peaceful sunset by the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Argola",
+            "tip": "Probieren Sie den Oktopus unter der Peka-Glocke."
+          },
+          {
+            "name": "Restaurant Jure",
+            "tip": "Frischer Fisch vom Grill direkt an der Promenade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Argola",
+            "tip": "Próbálja ki a polipot peka alatt sütve."
+          },
+          {
+            "name": "Restaurant Jure",
+            "tip": "Friss grillhal közvetlenül a sétányon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Argola",
+            "tip": "Încercați caracatița gătită sub capacul de peka."
+          },
+          {
+            "name": "Restaurant Jure",
+            "tip": "Pește proaspăt la grătar chiar pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Argola",
+            "tip": "Try the octopus cooked under the peka lid."
+          },
+          {
+            "name": "Restaurant Jure",
+            "tip": "Fresh grilled fish right on the promenade."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafen Strožanac",
+            "tip": "Ruhiger Platz am Morgen für einen Kaffee.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Strandabschnitt Grljevac",
+            "tip": "Weniger besucht, ideal zum Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Strožanac kikötő",
+            "tip": "Csendes hely reggel egy kávéhoz.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grljevac strand szakasz",
+            "tip": "Kevésbé zsúfolt, ideális pihenéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul Strožanac",
+            "tip": "Loc liniștit dimineața pentru o cafea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Plaja Grljevac",
+            "tip": "Mai puțin aglomerată, ideală pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Strožanac Harbor",
+            "tip": "Quiet spot in the morning for a coffee.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grljevac beach section",
+            "tip": "Less crowded, ideal for relaxing.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honigstand",
+            "tip": "Kaufen Sie Salbeihonig aus der Region."
+          },
+          {
+            "name": "Souvenirshop Podstrana",
+            "tip": "Handgemachter Lavendel und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi mézárus",
+            "tip": "Vásároljon zsályamézet a régióból."
+          },
+          {
+            "name": "Podstrana ajándékbolt",
+            "tip": "Kézműves levendula és olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand de miere locală",
+            "tip": "Cumpărați miere de salvie din regiune."
+          },
+          {
+            "name": "Magazin de suveniruri",
+            "tip": "Levănțică artizanală și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey stand",
+            "tip": "Buy sage honey from the region."
+          },
+          {
+            "name": "Podstrana souvenir shop",
+            "tip": "Handmade lavender and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Podstrana ist sehr langgestreckt, bequeme Schuhe sind wichtig.",
+          "Die meisten Strände sind Kieselstrände, Badeschuhe mitbringen.",
+          "Der Küstenweg ist flach und leicht zu begehen.",
+          "Mittags ist der Cindro-Garten angenehm schattig."
+        ],
+        "hu": [
+          "Podstrana nagyon hosszan nyúlik el, kényelmes cipő elengedhetetlen.",
+          "A strandok többsége kavicsos, érdemes úszócipőt hozni.",
+          "A tengerparti sétány sík és könnyen járható.",
+          "Délben a Cindro-kert kellemesen árnyékos pihenőhely."
+        ],
+        "ro": [
+          "Podstrana este foarte lungă, pantofii comozi sunt esențiali.",
+          "Majoritatea plajelor sunt cu pietriș, aduceți încălțăminte de apă.",
+          "Promenada de coastă este plană și ușor de parcurs.",
+          "La prânz, grădina Cindro oferă o umbră plăcută."
+        ],
+        "en": [
+          "Podstrana is very elongated, comfortable shoes are essential.",
+          "Most beaches are pebble, bring water shoes.",
+          "The coastal path is flat and easy to walk.",
+          "At noon, the Cindro garden is a pleasantly shady spot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaža Strožanac",
+            "hu": "Strožanac strand",
+            "ro": "Plaja Strožanac",
+            "en": "Strožanac Beach"
+          },
+          "coords": [
+            16.532,
+            43.491
+          ],
+          "category": "beach",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie hier Ihre Radtour nach dem Bad.",
+            "hu": "Itt kezdje a túrát egy fürdés után.",
+            "ro": "Începeți turul aici după o baie.",
+            "en": "Start your tour here after a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Ljetnikovac Cindro",
+            "hu": "Cindro-nyaraló",
+            "ro": "Conacul Cindro",
+            "en": "Cindro House"
+          },
+          "coords": [
+            16.536,
+            43.488
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahrräder können vor dem Tor geparkt werden.",
+            "hu": "A kerékpárokat a kapu előtt le lehet tenni.",
+            "ro": "Bicicletele pot fi parcate în fața porții.",
+            "en": "Bikes can be parked in front of the gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Konoba",
+            "hu": "Ebéd egy konobában",
+            "ro": "Prânz la o konoba",
+            "en": "Lunch at a Konoba"
+          },
+          "coords": [
+            16.565,
+            43.473
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Suchen Sie einen Platz mit Meerblick.",
+            "hu": "Keressen egy tengerre néző asztalt.",
+            "ro": "Căutați un loc cu vedere la mare.",
+            "en": "Find a spot with a sea view."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva svetog Martina",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Church of St. Martin"
+          },
+          "coords": [
+            16.572,
+            43.469
+          ],
+          "category": "religious",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie auch den alten Friedhof.",
+            "hu": "Látogassa meg a régi temetőt is.",
+            "ro": "Vizitați și vechiul cimitir.",
+            "en": "Visit the old cemetery as well."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Perun-Hang",
+            "hu": "Perun-lejtő kilátópont",
+            "ro": "Punct de belvedere Perun",
+            "en": "Perun Slope Viewpoint"
+          },
+          "coords": [
+            16.568,
+            43.482
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Etwas steiler Anstieg, aber tolle Aussicht.",
+            "hu": "Kicsit meredek, de a kilátás megéri.",
+            "ro": "Urcare puțin abruptă, dar priveliștea merită.",
+            "en": "A bit of a climb, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Jachthafen",
+            "hu": "Naplemente a kikötőben",
+            "ro": "Apus de soare în port",
+            "en": "Sunset at the Marina"
+          },
+          "coords": [
+            16.534,
+            43.489
+          ],
+          "category": "sunset",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Getränk zum Abschluss.",
+            "hu": "Igyon meg egy frissítőt a túra végén.",
+            "ro": "Savurați o băutură la finalul turului.",
+            "en": "Enjoy a drink at the end of the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Podstrana auf zwei Rädern. Sie starten im Norden am Strožanac-Strand und folgen dem Küstenradweg zum historischen Cindro-Haus. Nach einer Fahrt entlang der Adria genießen Sie ein Fischgericht im Süden. Der anspruchsvollere Teil führt Sie ein Stück den Perun-Hang hinauf für ein Panorama über Split und die Inseln, bevor Sie zurück zum Hafen radeln.",
+        "hu": "Fedezze fel Podstranát két keréken. Északon kezdjen a Strožanac strandnál, majd kövesse a tengerparti kerékpárutat a Cindro-házhoz. Egy kellemes déli ebéd után tegyen egy kis kitérőt a Perun-hegy lankái felé, ahonnan pazar kilátás nyílik Splitre és a szigetekre, végül tekerjen vissza a kikötőbe.",
+        "ro": "Descoperiți Podstrana pe două roți. Începeți în nord, la plaja Strožanac, și urmați pista de biciclete de pe coastă până la conacul Cindro. După un prânz pescăresc în sud, partea mai solicitantă vă duce puțin pe versantul Perun pentru o panoramă asupra Splitului și a insulelor, înainte de a reveni în port.",
+        "en": "Explore Podstrana on two wheels. Start in the north at Strožanac Beach and follow the coastal bike path to the historic Cindro House. After a seafood lunch in the south, the more challenging part takes you slightly up the Perun slope for a panorama over Split and the islands, before cycling back to the marina."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fabio",
+            "tip": "Gute Pizza und Pasta für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fabio",
+            "tip": "Kiváló pizza és tészta kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fabio",
+            "tip": "Pizza și paste bune pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fabio",
+            "tip": "Good pizza and pasta for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Perun-Hang",
+            "tip": "Stille und Weitblick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perun-lejtő",
+            "tip": "Csend és tágas panoráma.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Versantul Perun",
+            "tip": "Liniște și panoramă largă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Perun slope",
+            "tip": "Quiet spot with a great view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ribola Markt",
+            "tip": "Ideal für kühles Wasser und Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ribola Market",
+            "tip": "Ideális víz és snack beszerzésére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Ribola",
+            "tip": "Ideal pentru apă și gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ribola Market",
+            "tip": "Ideal for water and snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße kann im Sommer viel Verkehr haben.",
+          "Nutzen Sie den Weg direkt am Meer, wo immer möglich.",
+          "Der Perun-Aufstieg erfordert eine gute Gangschaltung.",
+          "Trinken Sie ausreichend bei der Hitze."
+        ],
+        "hu": [
+          "A főút nyáron forgalmas lehet, óvatosan.",
+          "Használja a tengerparti utat, ahol csak lehet.",
+          "A Perun-emelkedőhöz jó váltó szükséges.",
+          "Igyon sok vizet a hőségben."
+        ],
+        "ro": [
+          "Drumul principal poate fi aglomerat vara.",
+          "Folosiți drumul de pe malul mării ori de câte ori este posibil.",
+          "Urcarea spre Perun necesită viteze bune la bicicletă.",
+          "Beți suficientă apă pe caniculă."
+        ],
+        "en": [
+          "The main road can have heavy traffic in summer.",
+          "Use the seaside path whenever possible.",
+          "The Perun climb requires good gears.",
+          "Stay hydrated in the heat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 18.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Brdo Perun (Gipfel)",
+            "hu": "Perun-hegy (csúcs)",
+            "ro": "Muntele Perun (vârf)",
+            "en": "Mount Perun (Summit)"
+          },
+          "coords": [
+            16.561,
+            43.492
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Atemberaubende Aussicht auf die Adria.",
+            "hu": "Lélegzetelállító kilátás az Adriára.",
+            "ro": "Vedere uluitoare spre Marea Adriatică.",
+            "en": "Breathtaking view of the Adriatic Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Wanderpause am Perun",
+            "hu": "Túraszünet a Perunon",
+            "ro": "Pauză de drumeție pe Perun",
+            "en": "Hiking break on Perun"
+          },
+          "coords": [
+            16.565,
+            43.491
+          ],
+          "category": "park",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang auf den Pfaden.",
+            "hu": "Rövid séta a hegyi ösvényeken.",
+            "ro": "Scurtă plimbare pe poteci.",
+            "en": "Short walk on the mountain paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Ljetnikovac Cindro",
+            "hu": "Cindro-nyaraló",
+            "ro": "Conacul Cindro",
+            "en": "Cindro House"
+          },
+          "coords": [
+            16.536,
+            43.488
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt in der Nähe vorhanden.",
+            "hu": "A közelben van parkolóhely.",
+            "ro": "Parcare disponibilă chiar în apropiere.",
+            "en": "Parking available right nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Strožanac",
+            "hu": "Strožanac kikötő",
+            "ro": "Marina Strožanac",
+            "en": "Strožanac Marina"
+          },
+          "coords": [
+            16.535,
+            43.489
+          ],
+          "category": "harbor",
+          "arrive_at": "12:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang zu den Yachten.",
+            "hu": "Rövid séta a jachtok között.",
+            "ro": "Scurtă plimbare printre iahturi.",
+            "en": "Short stroll among the yachts."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen am Meer",
+            "hu": "Ebéd a tengerparton",
+            "ro": "Prânz la malul mării",
+            "en": "Lunch by the Sea"
+          },
+          "coords": [
+            16.533,
+            43.49
+          ],
+          "category": "gastro",
+          "arrive_at": "13:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresfrüchte.",
+            "hu": "Élvezze a tenger gyümölcseit.",
+            "ro": "Savurați fructele de mare.",
+            "en": "Enjoy the fresh seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva svetog Martina",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Church of St. Martin"
+          },
+          "coords": [
+            16.572,
+            43.469
+          ],
+          "category": "religious",
+          "arrive_at": "15:02",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Historischer Ort mit römischen Grabsteinen.",
+            "hu": "Történelmi hely római sírkövekkel.",
+            "ro": "Loc istoric cu pietre funerare romane.",
+            "en": "Historic site with Roman tombstones."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaža Strožanac",
+            "hu": "Strožanac strand",
+            "ro": "Plaja Strožanac",
+            "en": "Strožanac Beach"
+          },
+          "coords": [
+            16.532,
+            43.491
+          ],
+          "category": "beach",
+          "arrive_at": "16:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Entspannung zum Abschluss des Tages.",
+            "hu": "Pihenés a nap végén.",
+            "ro": "Relaxare la sfârșitul zilei.",
+            "en": "Relaxation at the end of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Aussichtspunkt",
+            "hu": "Naplemente a kilátónál",
+            "ro": "Apus de soare la belvedere",
+            "en": "Sunset Viewpoint"
+          },
+          "coords": [
+            16.568,
+            43.482
+          ],
+          "category": "sunset",
+          "arrive_at": "17:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Panoramablick auf die untergehende Sonne.",
+            "hu": "Panorámás kilátás a lemenő napra.",
+            "ro": "Vedere panoramică asupra apusului.",
+            "en": "Panoramic view of the setting sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die schönsten Aussichtspunkte von Podstrana mühelos. Beginnen Sie auf dem Gipfel des Brdo Perun für einen weiten Blick. Danach geht es hinunter zum Cindro-Herrenhaus und zum Hafen Strožanac für ein entspanntes Mittagessen. Besuchen Sie die geschichtsträchtige St. Martin Kirche im Süden und lassen Sie den Tag an einem ruhigen Aussichtspunkt über der Küste ausklingen.",
+        "hu": "Autóval kényelmesen elérheti Podstrana legszebb kilátópontjait. Kezdje a napot a Perun-hegy csúcsán, ahonnan belátni az egész környéket. Ezután hajtson le a Cindro-nyaralóhoz és a Strožanac kikötőhöz egy finom ebédre. Látogassa meg a déli részen fekvő Szent Márton-templomot, majd zárja a napot egy tengerre néző panorámás ponton.",
+        "ro": "Cu mașina, puteți ajunge fără efort la cele mai frumoase puncte de belvedere din Podstrana. Începeți pe vârful muntelui Perun pentru o vedere panoramică. Apoi coborâți spre conacul Cindro și marina Strožanac pentru un prânz relaxat. Vizitați biserica Sf. Martin din sud și încheiați ziua într-un punct de observație deasupra coastei.",
+        "en": "By car, you can effortlessly reach Podstrana's best viewpoints. Start at the summit of Mount Perun for an expansive view. Then head down to the Cindro House and Strožanac Marina for a relaxed lunch. Visit the historic St. Martin Church in the south and finish the day at a panoramic spot overlooking the coast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gostionica Mario",
+            "tip": "Bekannt für traditionelle Fleischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gostionica Mario",
+            "tip": "Hagyományos húsételeiről ismert hely."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gostionica Mario",
+            "tip": "Cunoscut pentru mâncăruri tradiționale din carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gostionica Mario",
+            "tip": "Known for traditional meat dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Perun Gipfel",
+            "tip": "Weit weg vom Trubel.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perun csúcs",
+            "tip": "Távol a tömegtől.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Perun",
+            "tip": "Departe de agitație.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Perun Summit",
+            "tip": "Far from the crowds.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaufland Split",
+            "tip": "Nur 5 Min Fahrt für großen Einkauf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaufland Split",
+            "tip": "Csak 5 perc autóval nagy bevásárláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaufland Split",
+            "tip": "Doar 5 minute de mers cu mașina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaufland Split",
+            "tip": "Only 5 min drive for big shopping."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Perun ist schmal, fahren Sie vorsichtig.",
+          "In Strožanac gibt es große öffentliche Parkplätze.",
+          "Vermeiden Sie die Rushhour Richtung Split.",
+          "Einige Aussichtspunkte sind nur über Schotterwege erreichbar."
+        ],
+        "hu": [
+          "A Perunra vezető út keskeny, vezessen óvatosan.",
+          "Strožanacban nagy nyilvános parkolók találhatók.",
+          "Kerülje a csúcsforgalmat Split irányába.",
+          "Néhány kilátópont csak murvás úton érhető el."
+        ],
+        "ro": [
+          "Drumul spre Perun este îngust, conduceți cu atenție.",
+          "Există parcări publice mari în Strožanac.",
+          "Evitați orele de vârf spre Split.",
+          "Unele puncte de belvedere sunt accesibile doar pe drumuri de macadam."
+        ],
+        "en": [
+          "The road to Perun is narrow, drive carefully.",
+          "There are large public parking lots in Strožanac.",
+          "Avoid rush hour towards Split.",
+          "Some viewpoints are only accessible via gravel roads."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaža Strožanac",
+            "hu": "Strožanac strand",
+            "ro": "Plaja Strožanac",
+            "en": "Strožanac Beach"
+          },
+          "coords": [
+            16.532,
+            43.491
+          ],
+          "category": "beach",
+          "arrive_at": "09:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bushaltestelle direkt am Strandzugang.",
+            "hu": "Buszmegálló közvetlenül a strandnál.",
+            "ro": "Stație de autobuz chiar lângă plajă.",
+            "en": "Bus stop right at the beach entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Ljetnikovac Cindro",
+            "hu": "Cindro-nyaraló",
+            "ro": "Conacul Cindro",
+            "en": "Cindro House"
+          },
+          "coords": [
+            16.536,
+            43.488
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Haltestelle.",
+            "hu": "Rövid séta a megállótól.",
+            "ro": "O scurtă plimbare de la stație.",
+            "en": "A short walk from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Konoba",
+            "hu": "Ebéd egy konobában",
+            "ro": "Prânz la o konoba",
+            "en": "Lunch at a Konoba"
+          },
+          "coords": [
+            16.541,
+            43.485
+          ],
+          "category": "gastro",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Viele Lokale entlang der Hauptstraße.",
+            "hu": "Sok étterem van a főút mentén.",
+            "ro": "Multe localuri de-a lungul drumului principal.",
+            "en": "Many restaurants along the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Meer",
+            "hu": "Tengerparti séta",
+            "ro": "Plimbare pe malul mării",
+            "en": "Seaside Walk"
+          },
+          "coords": [
+            16.555,
+            43.478
+          ],
+          "category": "harbor",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Uferweg nach Süden.",
+            "hu": "Kövesse a part menti utat délre.",
+            "ro": "Urmați poteca de pe țărm spre sud.",
+            "en": "Follow the coastal path south."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva svetog Martina",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Church of St. Martin"
+          },
+          "coords": [
+            16.572,
+            43.469
+          ],
+          "category": "religious",
+          "arrive_at": "16:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die Linie 60 hält ganz in der Nähe.",
+            "hu": "A 60-as busz a közelben áll meg.",
+            "ro": "Linia 60 oprește foarte aproape.",
+            "en": "Bus line 60 stops nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendlicher Strandaufenthalt",
+            "hu": "Esti tengerpartozás",
+            "ro": "Seară pe plajă",
+            "en": "Evening at the Beach"
+          },
+          "coords": [
+            16.574,
+            43.468
+          ],
+          "category": "sunset",
+          "arrive_at": "17:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Letzte Entspannung vor der Rückfahrt.",
+            "hu": "Utolsó pihenés a hazautazás előtt.",
+            "ro": "Ultima relaxare înainte de plecare.",
+            "en": "Last relaxation before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Podstrana ist hervorragend mit dem Bus 60 erreichbar. Beginnen Sie Ihren Tag am Strand von Strožanac. Nach dem Besuch des historischen Cindro-Hauses fahren Sie ein paar Stationen weiter südlich zum Mittagessen. Den Nachmittag verbringen Sie bei der St. Martin Kirche, einem bedeutenden historischen Ort, bevor Sie den Tag am südlichen Strand von Podstrana entspannt ausklingen lassen.",
+        "hu": "Podstrana kiválóan elérhető a 60-as busszal. Kezdje a napot a Strožanac strandon. A Cindro-ház megtekintése után utazzon pár megállót délebbre egy finom ebédhez. A délutánt töltse a Szent Márton-templomnál, amely fontos történelmi emlékhely, majd zárja a napot Podstrana déli strandján pihenve.",
+        "ro": "Podstrana este ușor accesibilă cu autobuzul 60. Începeți ziua la plaja Strožanac. După ce vizitați conacul Cindro, mergeți câteva stații spre sud pentru prânz. Petreceți după-amiaza la biserica Sfântul Martin, un sit istoric important, înainte de a încheia ziua relaxat pe plaja din sudul orașului.",
+        "en": "Podstrana is easily accessible via bus line 60. Start your day at Strožanac Beach. After visiting the historic Cindro House, take the bus a few stops south for lunch. Spend the afternoon at the Church of St. Martin, a significant historical site, before ending your day relaxing on the southern beach of Podstrana."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Scatula",
+            "tip": "Moderne Küche direkt an der Hauptstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Scatula",
+            "tip": "Modern konyha a főút mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Scatula",
+            "tip": "Bucătărie modernă lângă drumul principal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Scatula",
+            "tip": "Modern cuisine right on the main road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchhof St. Martin",
+            "tip": "Sehr ruhiger und spiritueller Ort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Márton-templomkert",
+            "tip": "Nagyon csendes és szakrális hely.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea bisericii Sf. Martin",
+            "tip": "Loc foarte liniștit și spiritual.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Martin churchyard",
+            "tip": "Very quiet and spiritual spot.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Frisches Gebäck für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Friss pékáru napközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Produse de panificație proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakery",
+            "tip": "Fresh pastries for snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Linie 60 verkehrt alle 30 Minuten zwischen Split und Omiš.",
+          "Kaufen Sie Ihr Ticket direkt beim Fahrer.",
+          "Die Haltestellen sind über die ganze Länge von Podstrana verteilt.",
+          "Behalten Sie den Fahrplan für die Rückfahrt im Auge."
+        ],
+        "hu": [
+          "A 60-as busz 30 percenként jár Split és Omiš között.",
+          "A jegyet közvetlenül a sofőrnél veheti meg.",
+          "A megállók Podstrana teljes hosszában elszórva találhatók.",
+          "Figyelje a menetrendet a hazajutáshoz."
+        ],
+        "ro": [
+          "Linia 60 circulă la fiecare 30 de minute între Split și Omiš.",
+          "Cumpărați biletul direct de la șofer.",
+          "Stațiile sunt distribuite pe toată lungimea orașului Podstrana.",
+          "Verificați orarul pentru drumul de întoarcere."
+        ],
+        "en": [
+          "Bus line 60 runs every 30 minutes between Split and Omiš.",
+          "Buy your ticket directly from the driver.",
+          "Stops are spread throughout the length of Podstrana.",
+          "Keep an eye on the schedule for your return trip."
+        ]
+      }
+    }
+  }
+}

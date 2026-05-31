@@ -1,0 +1,960 @@
+{
+  "city_id": "croatia-strozanac-donji-cities-v2",
+  "anchor": {
+    "name": "Strožanac Donji",
+    "coords": [
+      16.5464,
+      43.4883
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Lučica Strožanac",
+          "coords": [
+            16.5434,
+            43.4901
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie das morgendliche Treiben der Fischer im kleinen Hafen.",
+            "hu": "Figyelje meg a halászok reggeli készülődését a hangulatos kis kikötőben.",
+            "ro": "Urmăriți activitatea de dimineață a pescarilor în micul port local.",
+            "en": "Watch the morning routine of local fishermen in the charming small harbor."
+          }
+        },
+        {
+          "name": "Kaffee-Pause am Meer",
+          "coords": [
+            16.5445,
+            43.4895
+          ],
+          "category": "gastro",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Espresso direkt an der Riva mit Blick auf die Adria.",
+            "hu": "Élvezzen egy kávét közvetlenül a parton, az Adriára nyíló kilátással.",
+            "ro": "Savurați un espresso chiar pe malul mării, cu vedere spre Adriatica.",
+            "en": "Enjoy a coffee right on the waterfront with views of the Adriatic."
+          }
+        },
+        {
+          "name": "Crkva Gospe u Siti",
+          "coords": [
+            16.5482,
+            43.4888
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort mit historischer Bedeutung für die Region Podstrana.",
+            "hu": "Békés helyszín, amely nagy történelmi jelentőséggel bír Podstrana számára.",
+            "ro": "Un loc liniștit cu semnificație istorică importantă pentru regiunea Podstrana.",
+            "en": "A peaceful site with historical significance for the Podstrana region."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            16.5495,
+            43.4875
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen gegrillten Fisch oder dalmatinischen Schinken.",
+            "hu": "Kóstolja meg a friss grillezett halat vagy a dalmát sonkát (pršut).",
+            "ro": "Încercați peștele proaspăt la grătar sau șunca dalmată tradițională.",
+            "en": "Try fresh grilled fish or traditional Dalmatian ham (pršut)."
+          }
+        },
+        {
+          "name": "Strandpause Strožanac",
+          "coords": [
+            16.5475,
+            43.4855
+          ],
+          "category": "beach",
+          "arrive_at": "13:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Das kristallklare Wasser lädt zu einer langen Abkühlung ein.",
+            "hu": "A kristálytiszta víz tökéletes egy hosszú, frissítő fürdőzéshez.",
+            "ro": "Apa cristalină este ideală pentru o baie lungă și răcoritoare.",
+            "en": "The crystal clear water is perfect for a long, refreshing swim."
+          }
+        },
+        {
+          "name": "Šetnica uz more",
+          "coords": [
+            16.5422,
+            43.4912
+          ],
+          "category": "park",
+          "arrive_at": "16:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang entlang der Küste in Richtung Stobreč.",
+            "hu": "Kellemes tengerparti séta Stobreč irányába a kiépített sétányon.",
+            "ro": "O plimbare relaxantă de-a lungul coastei în direcția Stobreč.",
+            "en": "A relaxing seaside stroll along the promenade towards Stobreč."
+          }
+        },
+        {
+          "name": "Ušće Žrnovnice",
+          "coords": [
+            16.5385,
+            43.4935
+          ],
+          "category": "nature",
+          "arrive_at": "17:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie der Fluss in das salzige Meer mündet.",
+            "hu": "Figyelje meg, ahogy a folyó édesvize találkozik a sós tengervízzel.",
+            "ro": "Observați locul unde apele râului se varsă în marea sărată.",
+            "en": "Observe where the fresh river water meets the salty sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Strožanac beginnt am malerischen kleinen Yachthafen, wo Sie den Puls des lokalen Lebens spüren. Nach einer spirituellen Pause an der Kirche Gospe u Siti erwartet Sie ein ausgiebiges dalmatinisches Mittagessen. Der Nachmittag gehört ganz der Entspannung am Kieselstrand, bevor Sie den Tag mit einem Spaziergang zur Flussmündung der Žrnovnica bei Sonnenuntergang krönen.",
+        "hu": "A strožanaci nap a festői kishajó-kikötőben indul, ahol átélheti a helyi élet ritmusát. A Gospe u Siti templom megtekintése után egy bőséges dalmát ebéd várja. A délután a pihenésé a kavicsos strandon, majd a napot egy kellemes tengerparti sétával zárjuk, amely a Žrnovnica folyó torkolatához vezet a naplemente fényeiben.",
+        "ro": "Ziua în Strožanac începe în micul port pitoresc, unde puteți simți pulsul vieții locale. După o vizită la biserica Gospe u Siti, vă așteaptă un prânz dalmat copios. După-amiaza este dedicată relaxării pe plaja cu pietriș, iar ziua se încheie cu o plimbare pe faleză până la gura de vărsare a râului Žrnovnica, la apus.",
+        "en": "Your day in Strožanac begins at the picturesque small marina, feeling the rhythm of local life. After visiting the Church of Our Lady in Sita, a hearty Dalmatian lunch awaits. The afternoon is dedicated to relaxation on the pebble beach, ending the day with a seaside stroll to the mouth of the Žrnovnica river during sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Nicola",
+            "tip": "Hervorragende Meeresfrüchte und traditionelle Peka."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Nicola",
+            "tip": "Kiváló tengeri ételek és hagyományos sült húsok (peka)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Nicola",
+            "tip": "Fructe de mare excelente și preparate tradiționale la peka."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Nicola",
+            "tip": "Excellent seafood and traditional Peka dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussmündung Žrnovnica",
+            "tip": "Ruhiger Ort für Naturbeobachtungen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Žrnovnica-torkolat",
+            "tip": "Csendes hely a természet megfigyelésére.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vărsarea râului Žrnovnica",
+            "tip": "Un loc liniștit pentru observarea naturii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Žrnovnica River Mouth",
+            "tip": "Quiet spot for nature watching and peace.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Direkt bei den Bauern in der Umgebung kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon közvetlenül a környékbeli termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați direct de la producătorii din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Purchase directly from farmers in the area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Wanderschuhe sind für die Schotterwege an der Flussmündung ideal.",
+          "Bringen Sie Badeschuhe für den Kieselstrand mit.",
+          "Am Morgen ist der Hafen am fotogensten."
+        ],
+        "hu": [
+          "A folyótorkolat környékén a kavicsos utakhoz kényelmes cipő ajánlott.",
+          "Vigyen magával vízi cipőt a köves strandhoz.",
+          "A kikötő reggel a legalkalmasabb fotózásra."
+        ],
+        "ro": [
+          "Încălțămintea comodă este ideală pentru potecile de lângă râu.",
+          "Aduceți încălțăminte de apă pentru plaja cu pietriș.",
+          "Portul este cel mai fotogenic la primele ore ale dimineții."
+        ],
+        "en": [
+          "Comfortable walking shoes are ideal for the paths by the river mouth.",
+          "Bring water shoes for the pebble beach.",
+          "The harbor is most photogenic in the morning hours."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Lučica Strožanac",
+          "coords": [
+            16.5434,
+            43.4901
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour am kleinen Yachthafen.",
+            "hu": "Kezdje a biciklis túrát a hangulatos kishajó-kikötőben.",
+            "ro": "Începeți turul cu bicicleta din micul port de iahturi.",
+            "en": "Start your cycling tour at the charming small marina."
+          }
+        },
+        {
+          "name": "Šetnica uz more (Bike)",
+          "coords": [
+            16.555,
+            43.483
+          ],
+          "category": "park",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der Küste in Richtung Mutogras.",
+            "hu": "Kerekezzen a tengerpart mentén Mutogras irányába.",
+            "ro": "Pedalați de-a lungul coastei spre Mutogras.",
+            "en": "Cycle along the coast towards Mutogras."
+          }
+        },
+        {
+          "name": "Crkva Gospe u Siti",
+          "coords": [
+            16.5482,
+            43.4888
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp an der historischen Kirche.",
+            "hu": "Rövid megálló a történelmi jelentőségű templomnál.",
+            "ro": "O scurtă oprire la biserica istorică.",
+            "en": "Short stop at the historical church."
+          }
+        },
+        {
+          "name": "Mittagessen (Konoba)",
+          "coords": [
+            16.5495,
+            43.4875
+          ],
+          "category": "gastro",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit dalmatinischen Köstlichkeiten.",
+            "hu": "Gyűjtsön erőt a helyi dalmát finomságokkal.",
+            "ro": "Reîncărcați-vă bateriile cu delicatese dalmate.",
+            "en": "Refuel with local Dalmatian delicacies."
+          }
+        },
+        {
+          "name": "Strandzeit in Podstrana",
+          "coords": [
+            16.565,
+            43.478
+          ],
+          "category": "beach",
+          "arrive_at": "13:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Ein ruhigerer Strandabschnitt abseits des Zentrums.",
+            "hu": "Csendesebb strandrész a központtól távolabb.",
+            "ro": "O porțiune de plajă mai liniștită, departe de centru.",
+            "en": "A quieter stretch of beach away from the center."
+          }
+        },
+        {
+          "name": "Ušće Žrnovnice",
+          "coords": [
+            16.5385,
+            43.4935
+          ],
+          "category": "nature",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für das Ende der Tour.",
+            "hu": "Tökéletes helyszín a túra lezárásához.",
+            "ro": "Locul perfect pentru finalul turului.",
+            "en": "The perfect spot to conclude your tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie nicht nur Strožanac, sondern auch die weite Küstenlinie von Podstrana. Die flache Strecke am Meer ist ideal für entspanntes Radeln. Nach Kultur und einem guten Essen können Sie an entlegeneren Stränden baden und den Tag an der idyllischen Flussmündung ausklingen lassen.",
+        "hu": "Kerékpárral nemcsak Strožanacot, hanem Podstrana hosszú partvonalát is felfedezheti. A tengerparti sík terep ideális a kényelmes biciklizéshez. Kulturális kitérők és egy finom ebéd után távolabbi strandokon mártózhat meg, végül az idilli folyótorkolatnál pihenhet meg.",
+        "ro": "Cu bicicleta veți explora nu doar Strožanac, ci și linia de coastă extinsă a localității Podstrana. Traseul plat de lângă mare este ideal pentru pedalat relaxat. După cultură și o masă bună, puteți înota pe plaje mai retrase, încheind ziua la gura de vărsare idilică a râului.",
+        "en": "By bike, you will explore not only Strožanac but also the long coastline of Podstrana. The flat seaside route is ideal for relaxed cycling. After culture and good food, you can swim at more remote beaches and end the day at the idyllic river mouth."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Argola",
+            "tip": "Hausgemachte Pasta und lokale Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Argola",
+            "tip": "Házias tésztafélék és kiváló helyi borok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Argola",
+            "tip": "Paste de casă și vinuri locale excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Argola",
+            "tip": "Homemade pasta and great local wines."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Südküste von Podstrana",
+            "tip": "Weniger überlaufene Kieselstrände.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Podstrana déli partja",
+            "tip": "Kevésbé zsúfolt kavicsos strandok.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coasta de sud din Podstrana",
+            "tip": "Plaje cu pietriș mai puțin aglomerate.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "South Podstrana Coast",
+            "tip": "Less crowded pebble beaches.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Frischer Salbeihonig aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Friss zsályaméz a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Miere proaspătă de salvie din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Fresh sage honey from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße kann im Sommer belebt sein, nutzen Sie wenn möglich die Uferpromenade.",
+          "Ausreichend Wasser mitnehmen, da es auf dem Radweg wenig Schatten gibt.",
+          "Fahrradverleih gibt es meist in den größeren Hotels."
+        ],
+        "hu": [
+          "A parti út nyáron forgalmas lehet, ahol lehet, használja a sétányt.",
+          "Vigyen elég vizet, mert a kerékpárúton kevés az árnyék.",
+          "Kerékpárkölcsönzőt általában a nagyobb szállodákban talál."
+        ],
+        "ro": [
+          "Drumul de coastă poate fi aglomerat vara, folosiți faleza unde este posibil.",
+          "Luați destulă apă, deoarece pe pista de biciclete este puțină umbră.",
+          "Centre de închiriere biciclete se găsesc de obicei la hotelurile mari."
+        ],
+        "en": [
+          "The coast road can be busy in summer, use the seaside promenade where possible.",
+          "Take enough water as there is little shade on the bike path.",
+          "Bike rentals are usually available at larger hotels."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Lučica Strožanac",
+          "coords": [
+            16.5434,
+            43.4901
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Hafen für den ersten Cluster.",
+            "hu": "Parkoljon a kikötőnél az első helyszíncsoport megtekintéséhez.",
+            "ro": "Parcați în port pentru primul grup de obiective.",
+            "en": "Park at the harbor for the first cluster of sights."
+          }
+        },
+        {
+          "name": "Crkva Gospe u Siti",
+          "coords": [
+            16.5482,
+            43.4888
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Hafen-Parkplatz.",
+            "hu": "Rövid séta a kikötői parkolótól.",
+            "ro": "Scurtă plimbare de la parcarea din port.",
+            "en": "Short walk from the harbor parking lot."
+          }
+        },
+        {
+          "name": "Panorama-Aussicht Podstrana",
+          "coords": [
+            16.565,
+            43.495
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahren Sie etwas den Hang hinauf für den besten Blick auf Split.",
+            "hu": "Hajtson feljebb a hegyoldalba a legjobb Splitre nyíló kilátásért.",
+            "ro": "Urcați puțin pe deal pentru cea mai bună vedere spre Split.",
+            "en": "Drive slightly up the hillside for the best view of Split."
+          }
+        },
+        {
+          "name": "Mittagessen (Konoba)",
+          "coords": [
+            16.5495,
+            43.4875
+          ],
+          "category": "gastro",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Zurück im Zentrum für lokale Spezialitäten.",
+            "hu": "Visszatérés a központba a helyi specialitásokért.",
+            "ro": "Înapoi în centru pentru specialități locale.",
+            "en": "Back in the center for local specialties."
+          }
+        },
+        {
+          "name": "Strandpause Strožanac",
+          "coords": [
+            16.5475,
+            43.4855
+          ],
+          "category": "beach",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Parkplätze in Strandnähe nutzen.",
+            "hu": "Használja a strand közeli parkolókat.",
+            "ro": "Folosiți parcările din apropierea plajei.",
+            "en": "Use the parking areas near the beach."
+          }
+        },
+        {
+          "name": "Šetnica uz more",
+          "coords": [
+            16.5422,
+            43.4912
+          ],
+          "category": "park",
+          "arrive_at": "15:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der Küste.",
+            "hu": "Kellemes tengerparti séta.",
+            "ro": "O plimbare pe malul mării.",
+            "en": "A pleasant seaside stroll."
+          }
+        },
+        {
+          "name": "Ušće Žrnovnice",
+          "coords": [
+            16.5385,
+            43.4935
+          ],
+          "category": "nature",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Abschluss der Tour an der Flussmündung.",
+            "hu": "A túra lezárása a folyótorkolatnál.",
+            "ro": "Finalul turului la gura de vărsare a râului.",
+            "en": "Conclude the tour at the river mouth."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie die Küsten-Highlights von Strožanac mit einem Abstecher zu den Panoramastraßen von Podstrana. Sie starten am Hafen, genießen zwischendurch den Blick von oben auf die Adria und verbringen den sonnigen Nachmittag entspannt am Meer. Die Flexibilität des Autos erlaubt es Ihnen, auch die etwas abgelegene Flussmündung bequem zu erreichen.",
+        "hu": "Autóval kényelmesen összekötheti Strožanac tengerparti látnivalóit Podstrana panorámaútjaival. A kikötőből indulva élvezheti a felsőbb utakról nyíló kilátást az Adriára, majd a délutánt a strandon töltheti. Az autó rugalmassága lehetővé teszi, hogy a távolabb eső folyótorkolatot is könnyen elérje.",
+        "ro": "Cu mașina veți combina punctele de atracție de pe coastă din Strožanac cu drumurile panoramice din Podstrana. Începeți din port, admirați vederea spre Adriatică de la înălțime și petreceți după-amiaza la plajă. Flexibilitatea mașinii vă permite să ajungeți rapid și la gura de vărsare a râului.",
+        "en": "By car, you comfortably combine Strožanac's coastal highlights with Podstrana's panoramic roads. Starting at the harbor, enjoy the views of the Adriatic from above, then spend the afternoon at the beach. The car's flexibility allows you to easily reach the more distant river mouth."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Jure",
+            "tip": "Hausgemachte Gerichte direkt an der Hauptstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Jure",
+            "tip": "Házias ételek közvetlenül a főút mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Jure",
+            "tip": "Mâncăruri gătite chiar lângă drumul principal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Jure",
+            "tip": "Homemade dishes located right on the main road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Altes Dorf Podstrana (Gornja Podstrana)",
+            "tip": "Uralte Steinhäuser und totale Stille.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gornja Podstrana (Falu)",
+            "tip": "Ősi kőházak és teljes nyugalom a hegyen.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Satul vechi Podstrana",
+            "tip": "Case vechi de piatră și liniște deplină.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Village Podstrana",
+            "tip": "Ancient stone houses and total silence.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt Tommy Maximarket",
+            "tip": "Größte Auswahl an lokalen Produkten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tommy Maximarket",
+            "tip": "A legnagyobb választék helyi termékekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tommy Maximarket",
+            "tip": "Cea mai mare selecție de produse locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tommy Maximarket",
+            "tip": "Largest selection of local Croatian products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplatzsuche am Strand kann im Juli/August schwierig sein, kommen Sie früh.",
+          "Die Küstenstraße (Magistrale) ist oft stauträchtig, planen Sie Zeit ein.",
+          "Ein Abstecher ins 'Alte Dorf' Podstrana lohnt sich für Autofahrer sehr."
+        ],
+        "hu": [
+          "A strand közeli parkolás júliusban és augusztusban nehéz lehet, érkezzen korán.",
+          "A parti út (Magisztrálé) gyakran forgalmas, számoljon extra idővel.",
+          "Autóval érdemes egy kitérőt tenni a hegyi 'Öreg faluba' (Gornja Podstrana)."
+        ],
+        "ro": [
+          "Găsirea unui loc de parcare la plajă poate fi grea în iulie/august, veniți devreme.",
+          "Drumul de coastă este adesea aglomerat, alocați timp suplimentar.",
+          "O vizită în satul vechi Gornja Podstrana merită efortul pentru șoferi."
+        ],
+        "en": [
+          "Finding parking near the beach can be difficult in July/August, arrive early.",
+          "The coastal road (Magistrale) is often congested, allow extra time.",
+          "A detour to the 'Old Village' (Gornja Podstrana) is highly recommended for drivers."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Lučica Strožanac",
+          "coords": [
+            16.5434,
+            43.4901
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle Strožanac ist nur wenige Gehminuten entfernt.",
+            "hu": "A strožanaci buszmegálló pár perc sétára található.",
+            "ro": "Stația de autobuz Strožanac este la doar câteva minute de mers pe jos.",
+            "en": "The Strožanac bus stop is just a few minutes' walk away."
+          }
+        },
+        {
+          "name": "Crkva Gospe u Siti",
+          "coords": [
+            16.5482,
+            43.4888
+          ],
+          "category": "religious",
+          "arrive_at": "10:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Hafen erreichbar.",
+            "hu": "Gyalogosan elérhető a kikötőtől.",
+            "ro": "Accesibil pe jos din port.",
+            "en": "Accessible on foot from the harbor area."
+          }
+        },
+        {
+          "name": "Mittagessen in Strožanac",
+          "coords": [
+            16.5495,
+            43.4875
+          ],
+          "category": "gastro",
+          "arrive_at": "11:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die lokale Küche im Ortszentrum.",
+            "hu": "Élvezze a helyi konyhát a falu központjában.",
+            "ro": "Bucurați-vă de bucătăria locală în centrul localității.",
+            "en": "Enjoy local cuisine in the village center."
+          }
+        },
+        {
+          "name": "Strandpause Podstrana",
+          "coords": [
+            16.558,
+            43.481
+          ],
+          "category": "beach",
+          "arrive_at": "12:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Mit dem Bus Linie 60 eine Station weiter fahren.",
+            "hu": "Utazzon egy megállót a 60-as busszal.",
+            "ro": "Mergeți o stație cu autobuzul linia 60.",
+            "en": "Ride one stop further with bus line 60."
+          }
+        },
+        {
+          "name": "Šetnica uz more",
+          "coords": [
+            16.5422,
+            43.4912
+          ],
+          "category": "park",
+          "arrive_at": "16:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Rückfahrt zum Hauptknotenpunkt Strožanac.",
+            "hu": "Visszautazás Strožanac fő csomópontjához.",
+            "ro": "Întoarcerea la nodul principal din Strožanac.",
+            "en": "Return journey to the main Strožanac junction."
+          }
+        },
+        {
+          "name": "Ušće Žrnovnice",
+          "coords": [
+            16.5385,
+            43.4935
+          ],
+          "category": "nature",
+          "arrive_at": "17:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Endstation.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "Scurtă plimbare de la stație.",
+            "en": "Short walk from the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Strožanac ist durch die Linie 60 perfekt an Split angebunden, was die Erkundung mit öffentlichen Verkehrsmitteln sehr einfach macht. Sie können bequem zwischen dem Hafen, der Kirche und den verschiedenen Strandabschnitten pendeln. Der Tag kombiniert kurze Busfahrten mit entspannten Gehminuten in Meeresnähe.",
+        "hu": "Strožanac a 60-as buszjárattal kiváló összeköttetésben van Splittel, így a tömegközlekedés használata rendkívül egyszerű. Könnyedén ingázhat a kikötő, a templom és a különböző strandrészek között. A nap során a rövid buszutakat pihentető parti séták egészítik ki.",
+        "ro": "Strožanac este excelent conectat cu Split prin linia 60, ceea ce face explorarea cu transportul public foarte ușoară. Puteți pendula confortabil între port, biserică și diferitele secțiuni de plajă. Ziua combină scurte călătorii cu autobuzul cu plimbări relaxante pe malul mării.",
+        "en": "Strožanac is perfectly connected to Split via bus line 60, making exploration with public transit very simple. You can easily commute between the harbor, the church, and various beach sections. The day combines short bus rides with relaxed walking minutes near the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fast Food Popaj",
+            "tip": "Beliebt für schnelle, gute lokale Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fast Food Popaj",
+            "tip": "Népszerű hely gyors és finom helyi harapnivalókhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fast Food Popaj",
+            "tip": "Popular pentru gustări locale rapide și bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fast Food Popaj",
+            "tip": "Popular spot for quick and tasty local snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg Žrnovnica",
+            "tip": "Schattenwege entlang des Flusses.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Žrnovnica partja",
+            "tip": "Árnyékos ösvények a folyó mentén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului Žrnovnica",
+            "tip": "Poteci umbrite de-a lungul râului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Žrnovnica River Path",
+            "tip": "Shaded paths along the river bank.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Hafen",
+            "tip": "Zeitungen und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői újságos",
+            "tip": "Helyi lapok és apró ajándéktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din port",
+            "tip": "Ziare și suveniruri mici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Kiosk",
+            "tip": "Newspapers and small souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Linie 60 (Split-Omiš) fährt tagsüber alle 30 Minuten.",
+          "Kaufen Sie Tickets beim Fahrer oder am Kiosk (günstiger).",
+          "Die Haltestellen sind gut markiert, Strožanac ist ein zentraler Halt."
+        ],
+        "hu": [
+          "A 60-as busz (Split-Omiš) napközben 30 percenként jár.",
+          "Vásároljon jegyet a sofőrnél vagy trafikban (olcsóbb).",
+          "A megállók jól jelzettek, Strožanac központi megállóhely."
+        ],
+        "ro": [
+          "Linia 60 (Split-Omiš) circulă la fiecare 30 de minute în timpul zilei.",
+          "Cumpărați bilete de la șofer sau de la chioșc (mai ieftin).",
+          "Stațiile sunt bine marcate, Strožanac fiind o oprire centrală."
+        ],
+        "en": [
+          "Bus line 60 (Split-Omiš) runs every 30 minutes during the day.",
+          "Buy tickets from the driver or at a kiosk (cheaper).",
+          "Stops are well marked, Strožanac is a central stop."
+        ]
+      }
+    }
+  }
+}

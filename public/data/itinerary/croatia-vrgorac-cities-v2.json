@@ -1,0 +1,1129 @@
+{
+  "city_id": "croatia-vrgorac-cities-v2",
+  "anchor": {
+    "name": "Vrgorac",
+    "coords": [
+      17.3667,
+      43.2
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4.0,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Morgenkaffee am Hauptplatz",
+            "hu": "Reggeli kávé a főtéren",
+            "ro": "Cafeaua de dimineață în piața centrală",
+            "en": "Morning Coffee at the Main Square"
+          },
+          "coords": [
+            17.3665,
+            43.2001
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Probieren Sie dazu ein lokales Gebäck.",
+            "hu": "Kóstoljon meg egy helyi süteményt mellé.",
+            "ro": "Încercați o patiserie locală alături.",
+            "en": "Try a local pastry on the side."
+          }
+        },
+        {
+          "name": {
+            "de": "Rodna kuća Tina Ujevića",
+            "hu": "Rodna kuća Tina Ujevića",
+            "ro": "Rodna kuća Tina Ujevića",
+            "en": "Rodna kuća Tina Ujevića"
+          },
+          "coords": [
+            17.366,
+            43.2005
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Geburtshaus des berühmtesten Dichters der Region.",
+            "hu": "A régió leghíresebb költőjének szülőháza.",
+            "ro": "Casa natală a celui mai faimos poet al regiunii.",
+            "en": "The birthplace of the region's most famous poet."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva Navještenja Blažene Djevice Marije",
+            "hu": "Crkva Navještenja Blažene Djevice Marije",
+            "ro": "Crkva Navještenja Blažene Djevice Marije",
+            "en": "Crkva Navještenja Blažene Djevice Marije"
+          },
+          "coords": [
+            17.367,
+            43.201
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die barocken Details im Inneren.",
+            "hu": "Figyelje meg a belső tér barokk részleteit.",
+            "ro": "Observați detaliile baroce din interior.",
+            "en": "Note the baroque details inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokaler Bauernmarkt",
+            "hu": "Helyi termelői piac",
+            "ro": "Piața locală de producători",
+            "en": "Local Farmers' Market"
+          },
+          "coords": [
+            17.3655,
+            43.1995
+          ],
+          "category": "market",
+          "arrive_at": "11:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kaufen Sie hier frischen Pršut oder Honig.",
+            "hu": "Vásároljon itt friss pršutot vagy mézet.",
+            "ro": "Cumpărați pršut proaspăt sau miere de aici.",
+            "en": "Buy fresh pršut or honey here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Konoba",
+            "hu": "Ebéd egy helyi konobában",
+            "ro": "Prânz într-o tavernă locală",
+            "en": "Lunch in a local Konoba"
+          },
+          "coords": [
+            17.3662,
+            43.199
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fragen Sie nach dem Vrgorac-Schinken (Pršut).",
+            "hu": "Kérje a vrgoraci sonkát (pršut).",
+            "ro": "Cereți șunca de Vrgorac (pršut).",
+            "en": "Ask for the Vrgorac ham (pršut)."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapetanova kula",
+            "hu": "Kapetanova kula",
+            "ro": "Kapetanova kula",
+            "en": "Kapetanova kula"
+          },
+          "coords": [
+            17.3675,
+            43.2015
+          ],
+          "category": "historical",
+          "arrive_at": "14:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein wehrhafter Turm aus der osmanischen Zeit.",
+            "hu": "Egy erődített torony az oszmán korból.",
+            "ro": "Un turn fortificat din perioada otomană.",
+            "en": "A fortified tower from the Ottoman era."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradina",
+            "hu": "Gradina",
+            "ro": "Gradina",
+            "en": "Gradina"
+          },
+          "coords": [
+            17.368,
+            43.2025
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steiler Aufstieg, aber die Aussicht lohnt sich.",
+            "hu": "Meredek emelkedő, de a kilátás megéri.",
+            "ro": "Urcare abruptă, dar priveliștea merită.",
+            "en": "Steep climb, but the view is worth it."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt und Park",
+            "hu": "Kilátópont és park",
+            "ro": "Punct de belvedere și parc",
+            "en": "Viewpoint and Park"
+          },
+          "coords": [
+            17.367,
+            43.202
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Fotos vom Sonnenuntergang.",
+            "hu": "Tökéletes hely a naplementés fotókhoz.",
+            "ro": "Locul perfect pentru poze la apus.",
+            "en": "Perfect spot for sunset photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Vrgorac mit einem starken Kaffee am Hauptplatz. Besuchen Sie anschließend das historische Geburtshaus von Tin Ujević, um in die literarische Welt einzutauchen. Der Vormittag führt Sie weiter zur barocken Pfarrkirche.\n\nMittags genießen Sie den berühmten Pršut auf dem lokalen Markt, gefolgt von einem ausgiebigen dalmatinischen Mittagessen in einer gemütlichen Konoba im Stadtzentrum.\n\nAm Nachmittag erkunden Sie die Befestigungsanlagen der Stadt. Der Kapitänsturm und die imposante Gradina-Festung bieten tiefe Einblicke in die strategische Bedeutung des Ortes während der Türkenkriege.\n\nBeenden Sie den Tag mit einem entspannten Spaziergang zurück zum Aussichtspunkt, während die Sonne hinter den Gipfeln des Matokit-Gebirges versinkt.",
+        "hu": "Kezdje a napot Vrgorac szívében egy erős kávéval a főtéren. Ezután látogasson el Tin Ujević történelmi szülőházába, hogy elmerüljön az irodalmi világban. A délelőtt a barokk plébániatemplomhoz vezet tovább.\n\nDélben élvezze a híres pršutot a helyi piacon, majd egy bőséges dalmát ebédet egy hangulatos konobában a városközpontban.\n\nDélután fedezze fel a város erődítményeit. A Kapitány-torony és az impozáns Gradina vár mély betekintést nyújt a hely stratégiai jelentőségébe a török háborúk idején.\n\nZárja a napot egy pihentető sétával vissza a kilátóhoz, miközben a nap a Matokit-hegység csúcsai mögött nyugszik.",
+        "ro": "Începeți ziua în inima orașului Vrgorac cu o cafea tare în piața principală. Apoi vizitați casa natală istorică a lui Tin Ujević pentru a vă cufunda în lumea literară. Dimineața vă poartă mai departe către biserica parohială barocă.\n\nLa prânz, savurați faimosul pršut la piața locală, urmat de un prânz dalmat copios într-o tavernă primitoare din centrul orașului.\n\nDupă-amiaza, explorați fortificațiile orașului. Turnul Căpitanului și impunătoarea cetate Gradina oferă o privire profundă asupra importanței strategice a locului în timpul războaielor turcești.\n\nÎncheiați ziua cu o plimbare relaxantă înapoi spre punctul de belvedere, în timp ce soarele apune după vârfurile munților Matokit.",
+        "en": "Start your day in the heart of Vrgorac with a strong coffee at the main square. Then visit the historic birthplace of Tin Ujević to immerse yourself in the literary world. The morning continues to the baroque parish church.\n\nAt noon, enjoy the famous pršut at the local market, followed by a hearty Dalmatian lunch in a cozy konoba in the town center.\n\nIn the afternoon, explore the town's fortifications. The Captain's Tower and the imposing Gradina fortress offer deep insights into the strategic importance of the site during the Turkish wars.\n\nEnd the day with a relaxed stroll back to the viewpoint as the sun sets behind the peaks of the Matokit mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vrgorački pršut",
+            "tip": "Der berühmte luftgetrocknete Schinken der Region."
+          },
+          {
+            "name": "Erdbeeren aus Vrgorac",
+            "tip": "Saisonale Delikatesse, bekannt für ihren süßen Geschmack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrgorački pršut",
+            "tip": "A régió híres, levegőn szárított sonkája."
+          },
+          {
+            "name": "Vrgoraci eper",
+            "tip": "Szezonális különlegesség, híres az édes ízéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vrgorački pršut",
+            "tip": "Faimoasa șuncă uscată la aer din regiune."
+          },
+          {
+            "name": "Căpșuni de Vrgorac",
+            "tip": "Delicatesă sezonieră, cunoscută pentru gustul lor dulce."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vrgorački pršut",
+            "tip": "The famous air-dried ham of the region."
+          },
+          {
+            "name": "Vrgorac Strawberries",
+            "tip": "Seasonal delicacy, famous for their sweet taste."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gradina-Festung",
+            "tip": "Ein ruhiger Ort mit Blick auf das Tal.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gradina vár",
+            "tip": "Csendes hely kilátással a völgyre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cetatea Gradina",
+            "tip": "Un loc liniștit cu vedere spre vale.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gradina Fortress",
+            "tip": "A quiet spot with a view of the valley.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokalmarkt Pijaca",
+            "tip": "Honig, Wein und Bergkräuter."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac (Pijaca)",
+            "tip": "Méz, bor és hegyi gyógynövények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală Pijaca",
+            "tip": "Miere, vin și ierburi de munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market Pijaca",
+            "tip": "Honey, wine, and mountain herbs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Aufstieg zur Festung.",
+          "Besuchen Sie die Stadt im Frühling für das Erdbeerfest.",
+          "Die Straßen in der Altstadt sind eng und steil."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a várba való feljutáshoz.",
+          "Látogassa meg a várost tavasszal az eperfesztivál idején.",
+          "Az óváros utcái szűkek és meredekek."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru urcarea la cetate.",
+          "Vizitați orașul primăvara pentru festivalul căpșunilor.",
+          "Străzile din orașul vechi sunt înguste și abrupte."
+        ],
+        "en": [
+          "Wear comfortable shoes for the climb to the fortress.",
+          "Visit the town in spring for the strawberry festival.",
+          "The streets in the old town are narrow and steep."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12.0,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz und Café",
+            "hu": "Főtér és kávézó",
+            "ro": "Piața principală și cafenea",
+            "en": "Main Square and Café"
+          },
+          "coords": [
+            17.3665,
+            43.2001
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt für Radtouren.",
+            "hu": "Kerékpártúrák kiindulópontja.",
+            "ro": "Punct de plecare pentru tururi cu bicicleta.",
+            "en": "Starting point for bike tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Radfahrt durch das Vrgoračko polje",
+            "hu": "Kerékpározás a Vrgoraci-mezőn",
+            "ro": "Tur cu bicicleta prin câmpia Vrgorac",
+            "en": "Cycling through Vrgorac Field"
+          },
+          "coords": [
+            17.38,
+            43.18
+          ],
+          "category": "park",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Flache Wege zwischen Weinbergen.",
+            "hu": "Lapos utak a szőlőültetvények között.",
+            "ro": "Poteci plate între podgorii.",
+            "en": "Flat paths between vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagspause im Grünen",
+            "hu": "Ebédszünet a zöldben",
+            "ro": "Pauză de prânz în natură",
+            "en": "Lunch Break in Nature"
+          },
+          "coords": [
+            17.37,
+            43.19
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Picknick mit lokalen Produkten.",
+            "hu": "Piknik helyi termékekkel.",
+            "ro": "Picnic cu produse locale.",
+            "en": "Picnic with local products."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapetanova kula",
+            "hu": "Kapetanova kula",
+            "ro": "Kapetanova kula",
+            "en": "Kapetanova kula"
+          },
+          "coords": [
+            17.3675,
+            43.2015
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kulturstopp nach der Radtour.",
+            "hu": "Kulturális megálló a bringázás után.",
+            "ro": "Oprire culturală după turul cu bicicleta.",
+            "en": "Cultural stop after the bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradina",
+            "hu": "Gradina",
+            "ro": "Gradina",
+            "en": "Gradina"
+          },
+          "coords": [
+            17.368,
+            43.2025
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad das letzte Stück.",
+            "hu": "Tolja a bringát az utolsó szakaszon.",
+            "ro": "Împingeți bicicleta pe ultima porțiune.",
+            "en": "Push your bike for the last stretch."
+          }
+        },
+        {
+          "name": {
+            "de": "Rodna kuća Tina Ujevića",
+            "hu": "Rodna kuća Tina Ujevića",
+            "ro": "Rodna kuća Tina Ujevića",
+            "en": "Rodna kuća Tina Ujevića"
+          },
+          "coords": [
+            17.366,
+            43.2005
+          ],
+          "category": "historical",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Abschluss im historischen Zentrum.",
+            "hu": "Befejezés a történelmi központban.",
+            "ro": "Final în centrul istoric.",
+            "en": "Conclusion in the historic center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Hauptplatz und fahren Sie hinunter in das fruchtbare Vrgoračko polje. Genießen Sie die flachen Wege entlang der Weinberge und Erdbeerfelder. Nach einem Picknick im Grünen kehren Sie in die Stadt zurück, um die historischen Türme und die Festung zu besichtigen. Den Abschluss bildet der Besuch im Museum von Tin Ujević.",
+        "hu": "Kezdje a kerékpártúrát a főtéren, és tekerjen le a termékeny Vrgoraci-mezőre. Élvezze a lapos utakat a szőlőültetvények és eperföldek mentén. Egy zöldben elköltött piknik után térjen vissza a városba, hogy meglátogassa a történelmi tornyokat és a várat. A napot Tin Ujević múzeumának meglátogatásával zárja.",
+        "ro": "Începeți turul cu bicicleta în piața principală și coborâți în câmpia fertilă Vrgorac. Bucurați-vă de potecile plate de-a lungul podgoriilor și câmpurilor de căpșuni. După un picnic în natură, reveniți în oraș pentru a vizita turnurile istorice și cetatea. Încheiați ziua cu o vizită la muzeul lui Tin Ujević.",
+        "en": "Start your bike tour at the main square and ride down into the fertile Vrgorac field. Enjoy the flat paths along the vineyards and strawberry fields. After a picnic in the countryside, return to the town to visit the historic towers and the fortress. The day concludes with a visit to Tin Ujević's museum."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein Zlatarica",
+            "tip": "Ein erfrischender Weißwein aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi Zlatarica bor",
+            "tip": "Frissítő fehérbor a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local Zlatarica",
+            "tip": "Un vin alb răcoritor din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Zlatarica Wine",
+            "tip": "A refreshing white wine from the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vrgoračko polje",
+            "tip": "Stille zwischen den Feldern.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrgoraci-mező",
+            "tip": "Csend a mezők között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Câmpia Vrgorac",
+            "tip": "Liniște între câmpuri.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vrgorac Field",
+            "tip": "Silence between the fields.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinkeller in den Feldern",
+            "tip": "Direktverkauf von Wein und Grappa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borospincék a mezőn",
+            "tip": "Bor és pálinka közvetlen értékesítése."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crame în câmpie",
+            "tip": "Vânzare directă de vin și rachiu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wineries in the fields",
+            "tip": "Direct sale of wine and grappa."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Fahrt ins Feld.",
+          "Nehmen Sie ausreichend Wasser mit.",
+          "Die Bergstraßen erfordern gute Kondition."
+        ],
+        "hu": [
+          "Ellenőrizze a guminyomást a mezőre indulás előtt.",
+          "Vigyen magával elegendő vizet.",
+          "A hegyi utak jó kondíciót igényelnek."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de a pleca în câmp.",
+          "Luați suficientă apă cu voi.",
+          "Drumurile montane necesită o condiție fizică bună."
+        ],
+        "en": [
+          "Check tire pressure before heading to the field.",
+          "Take enough water with you.",
+          "Mountain roads require good fitness."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stadtzentrum (Cluster A)",
+            "hu": "Városközpont (A klaszter)",
+            "ro": "Centrul orașului (Cluster A)",
+            "en": "Town Center (Cluster A)"
+          },
+          "coords": [
+            17.3665,
+            43.2001
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Stadtrundgang.",
+            "hu": "Parkoljon itt a városi sétához.",
+            "ro": "Parcați aici pentru turul orașului.",
+            "en": "Park here for the town walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Rodna kuća Tina Ujevića",
+            "hu": "Rodna kuća Tina Ujevića",
+            "ro": "Rodna kuća Tina Ujevića",
+            "en": "Rodna kuća Tina Ujevića"
+          },
+          "coords": [
+            17.366,
+            43.2005
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar von Cluster A.",
+            "hu": "Gyalogosan elérhető az A klasztertől.",
+            "ro": "Accesibil pe jos din Cluster A.",
+            "en": "Walkable from Cluster A."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva Navještenja Blažene Djevice Marije",
+            "hu": "Crkva Navještenja Blažene Djevice Marije",
+            "ro": "Crkva Navještenja Blažene Djevice Marije",
+            "en": "Crkva Navještenja Blažene Djevice Marije"
+          },
+          "coords": [
+            17.367,
+            43.201
+          ],
+          "category": "religious",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Teil des Zentrums-Spaziergangs.",
+            "hu": "A központi séta része.",
+            "ro": "Parte a plimbării centrale.",
+            "en": "Part of the center walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Oberstadt (Cluster B)",
+            "hu": "Felsőváros (B klaszter)",
+            "ro": "Orașul de sus (Cluster B)",
+            "en": "Upper Town (Cluster B)"
+          },
+          "coords": [
+            17.3675,
+            43.2015
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum oberen Parkplatz.",
+            "hu": "Hajtson a felső parkolóhoz.",
+            "ro": "Conduceți spre parcarea de sus.",
+            "en": "Drive to the upper parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapetanova kula",
+            "hu": "Kapetanova kula",
+            "ro": "Kapetanova kula",
+            "en": "Kapetanova kula"
+          },
+          "coords": [
+            17.3675,
+            43.2015
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Direkt im Cluster B.",
+            "hu": "Közvetlenül a B klaszterben.",
+            "ro": "Direct în Cluster B.",
+            "en": "Right in Cluster B."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradina",
+            "hu": "Gradina",
+            "ro": "Gradina",
+            "en": "Gradina"
+          },
+          "coords": [
+            17.368,
+            43.2025
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz B.",
+            "hu": "Rövid séta a B parkolótól.",
+            "ro": "Scurtă plimbare de la parcarea B.",
+            "en": "Short walk from parking B."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussicht auf das Tal (Cluster C)",
+            "hu": "Völgyi kilátás (C klaszter)",
+            "ro": "Vedere spre vale (Cluster C)",
+            "en": "Valley View (Cluster C)"
+          },
+          "coords": [
+            17.35,
+            43.19
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Panoramastraße außerhalb der Stadt.",
+            "hu": "Panorámaút a városon kívül.",
+            "ro": "Drum panoramic în afara orașului.",
+            "en": "Panoramic road outside the town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Vrgorac in drei bequemen Etappen. Parken Sie zuerst im Zentrum (Cluster A), um das Ujević-Haus und die Kirche zu Fuß zu besuchen. Fahren Sie dann zur Oberstadt (Cluster B), wo sich die Türme und die Festung befinden. Den Nachmittag verbringen Sie auf einer Panoramafahrt (Cluster C) mit Blick auf das weite Vrgoračko polje.",
+        "hu": "Autóval három kényelmes szakaszban fedezheti fel Vrgoracot. Először parkoljon a központban (A klaszter), hogy gyalogosan meglátogassa az Ujević-házat és a templomot. Ezután hajtson a felsővárosba (B klaszter), ahol a tornyok és a vár található. A délutánt egy panorámaautózással tölti (C klaszter), kilátással a széles Vrgoraci-mezőre.",
+        "ro": "Cu mașina, explorați Vrgorac în trei etape confortabile. Mai întâi parcați în centru (Cluster A) pentru a vizita pe jos casa Ujević și biserica. Apoi conduceți spre orașul de sus (Cluster B), unde se află turnurile și cetatea. După-amiaza o petreceți pe un drum panoramic (Cluster C) cu vedere spre marea câmpie Vrgorac.",
+        "en": "By car, you explore Vrgorac in three comfortable stages. First, park in the center (Cluster A) to visit the Ujević house and the church on foot. Then drive to the upper town (Cluster B), where the towers and the fortress are located. Spend the afternoon on a panoramic drive (Cluster C) with a view of the vast Vrgorac field."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Peka",
+            "tip": "Fleisch unter der Tonglocke zubereitet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peka",
+            "tip": "Hús cserégharang alatt sütve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peka",
+            "tip": "Carne gătită sub un clopot de pământ."
+          }
+        ],
+        "en": [
+          {
+            "name": "Peka",
+            "tip": "Meat prepared under a clay bell."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Matokit-Panoramaweg",
+            "tip": "Ruhiger Halt an der Landstraße.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Matokit panorámaút",
+            "tip": "Csendes megálló az országúton.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul panoramic Matokit",
+            "tip": "Oprire liniștită pe marginea drumului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Matokit Panoramic Road",
+            "tip": "Quiet stop on the country road.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Ölmühle",
+            "tip": "Hochwertiges Olivenöl der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olajprés",
+            "tip": "Kiváló minőségű helyi olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Presă locală de ulei",
+            "tip": "Ulei de măsline de înaltă calitate din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Oil Press",
+            "tip": "High-quality regional olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die engen Gassen in der Oberstadt.",
+          "Ein kleiner Parkplatz befindet sich direkt unter der Festung.",
+          "Die Tankstelle befindet sich am Stadtrand."
+        ],
+        "hu": [
+          "Ügyeljen a szűk utcákra a felsővárosban.",
+          "Egy kis parkoló található közvetlenül a vár alatt.",
+          "A benzinkút a város szélén található."
+        ],
+        "ro": [
+          "Atenție la străzile înguste din orașul de sus.",
+          "O mică parcare se află chiar sub cetate.",
+          "Benzinăria se află la marginea orașului."
+        ],
+        "en": [
+          "Watch out for the narrow streets in the upper town.",
+          "A small parking lot is located directly below the fortress.",
+          "The gas station is located on the outskirts of town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busbahnhof Vrgorac",
+            "hu": "Vrgorac autóbusz-állomás",
+            "ro": "Autogara Vrgorac",
+            "en": "Vrgorac Bus Station"
+          },
+          "coords": [
+            17.365,
+            43.199
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ankunftspunkt der Fernbusse.",
+            "hu": "A távolsági buszok érkezési pontja.",
+            "ro": "Punctul de sosire al autobuzelor pe distanțe lungi.",
+            "en": "Arrival point for intercity buses."
+          }
+        },
+        {
+          "name": {
+            "de": "Rodna kuća Tina Ujevića",
+            "hu": "Rodna kuća Tina Ujevića",
+            "ro": "Rodna kuća Tina Ujevića",
+            "en": "Rodna kuća Tina Ujevića"
+          },
+          "coords": [
+            17.366,
+            43.2005
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Busbahnhof.",
+            "hu": "Rövid séta az autóbusz-állomástól.",
+            "ro": "Scurtă plimbare de la autogară.",
+            "en": "Short walk from the bus station."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva Navještenja Blažene Djevice Marije",
+            "hu": "Crkva Navještenja Blažene Djevice Marije",
+            "ro": "Crkva Navještenja Blažene Djevice Marije",
+            "en": "Crkva Navještenja Blažene Djevice Marije"
+          },
+          "coords": [
+            17.367,
+            43.201
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentral gelegene Kirche.",
+            "hu": "Központi fekvésű templom.",
+            "ro": "Biserică situată central.",
+            "en": "Centrally located church."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the center"
+          },
+          "coords": [
+            17.3662,
+            43.1995
+          ],
+          "category": "gastro",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dalmatinische Spezialitäten genießen.",
+            "hu": "Élvezze a dalmát specialitásokat.",
+            "ro": "Savurați specialități dalmate.",
+            "en": "Enjoy Dalmatian specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapetanova kula",
+            "hu": "Kapetanova kula",
+            "ro": "Kapetanova kula",
+            "en": "Kapetanova kula"
+          },
+          "coords": [
+            17.3675,
+            43.2015
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wahrzeichen der Stadt.",
+            "hu": "A város jelképe.",
+            "ro": "Emblema orașului.",
+            "en": "Landmark of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradina",
+            "hu": "Gradina",
+            "ro": "Gradina",
+            "en": "Gradina"
+          },
+          "coords": [
+            17.368,
+            43.2025
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Höchster Punkt der Tour.",
+            "hu": "A túra legmagasabb pontja.",
+            "ro": "Cel mai înalt punct al turului.",
+            "en": "Highest point of the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach Ihrer Ankunft mit dem Fernbus am Busbahnhof beginnen Sie Ihren Rundgang durch Vrgorac. Das Stadtzentrum ist kompakt und alle wichtigen Sehenswürdigkeiten wie das Ujević-Haus, die Kirche und die Türme sind gut zu Fuß erreichbar. Genießen Sie ein lokales Mittagessen, bevor Sie den Aufstieg zur Festung Gradina wagen.",
+        "hu": "Miután megérkezett a távolsági busszal az autóbusz-állomásra, kezdje meg városnéző körútját Vrgoracban. A városközpont kompakt, és minden fontos látnivaló, mint az Ujević-ház, a templom és a tornyok, könnyen elérhető gyalog. Élvezze a helyi ebédet, mielőtt nekivág a Gradina várba vezető emelkedőnek.",
+        "ro": "După sosirea cu autobuzul la autogară, începeți turul orașului Vrgorac. Centrul orașului este compact, iar toate atracțiile importante, cum ar fi casa Ujević, biserica și turnurile, sunt ușor accesibile pe jos. Savurați un prânz local înainte de a începe urcarea spre cetatea Gradina.",
+        "en": "After arriving by intercity bus at the bus station, start your tour of Vrgorac. The town center is compact, and all major sights like the Ujević house, the church, and the towers are easily reachable on foot. Enjoy a local lunch before attempting the climb to the Gradina fortress."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käse",
+            "tip": "Schafskäse aus dem Hinterland."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajt",
+            "tip": "Juhtúró a háttérországból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză locală",
+            "tip": "Brânză de oaie din interiorul țării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese",
+            "tip": "Sheep cheese from the hinterland."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark",
+            "tip": "Ein grüner Rückzugsort im Zentrum.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városliget",
+            "tip": "Zöld menedék a központban.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului",
+            "tip": "O oază de verdeață în centru.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Town Park",
+            "tip": "A green retreat in the center.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen im Zentrum",
+            "tip": "Handgefertigte Keramik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a központban",
+            "tip": "Kézzel készített kerámia."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri în centru",
+            "tip": "Ceramică lucrată manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shop in the Center",
+            "tip": "Handmade ceramics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busfahrpläne für die Rückfahrt frühzeitig.",
+          "Tickets können meist im Bus gekauft werden.",
+          "Der Busbahnhof bietet Schatten und Sitzgelegenheiten."
+        ],
+        "hu": [
+          "Időben ellenőrizze a buszmenetrendet a visszaúthoz.",
+          "A jegyek általában a buszon megvásárolhatók.",
+          "Az autóbusz-állomás árnyékot és ülőhelyeket kínál."
+        ],
+        "ro": [
+          "Verificați din timp orarul autobuzelor pentru întoarcere.",
+          "Biletele pot fi cumpărate de obicei direct din autobuz.",
+          "Autogara oferă umbră și locuri de șezut."
+        ],
+        "en": [
+          "Check bus schedules for the return trip early.",
+          "Tickets can usually be bought on the bus.",
+          "The bus station offers shade and seating."
+        ]
+      }
+    }
+  }
+}

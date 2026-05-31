@@ -1,0 +1,982 @@
+{
+  "city_id": "croatia-muc-cities-v2",
+  "anchor": {
+    "name": "Muć",
+    "coords": [
+      16.53,
+      43.68
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Morgenkaffee im Dorfzentrum",
+            "hu": "Reggeli kávé a falu központjában",
+            "ro": "Cafeaua de dimineață în centrul satului",
+            "en": "Morning Coffee in the Village Center"
+          },
+          "coords": [
+            16.486,
+            43.693
+          ],
+          "category": "gastro",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Trinken Sie Ihren Kaffee wie die Einheimischen im Freien.",
+            "hu": "Igya a kávéját a helyiekkel a szabadban.",
+            "ro": "Beți cafeaua în aer liber, ca localnicii.",
+            "en": "Enjoy your coffee outdoors like a local."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Meilensteine",
+            "hu": "Rimski miljokazi (Római mérföldkövek)",
+            "ro": "Rimski miljokazi (Pietre miliare romane)",
+            "en": "Rimski miljokazi (Roman Milestones)"
+          },
+          "coords": [
+            16.488,
+            43.691
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese Steine zeugen von der antiken Straße durch das Hinterland.",
+            "hu": "Ezek a kövek az ókori hátországi útvonalról tanúskodnak.",
+            "ro": "Aceste pietre atestă drumul antic prin hinterland.",
+            "en": "These stones testify to the ancient road through the hinterland."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter in Muć Gornji",
+            "hu": "Szent Péter templom Muć Gornjiban",
+            "ro": "Biserica Sfântul Petru din Muć Gornji",
+            "en": "Church of St. Peter in Muć Gornji"
+          },
+          "coords": [
+            16.484,
+            43.694
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein bedeutender Ort für die kroatische mittelalterliche Geschichte.",
+            "hu": "A horvát középkori történelem egyik kiemelkedő helyszíne.",
+            "ro": "Un sit important pentru istoria medievală croată.",
+            "en": "A significant site for Croatian medieval history."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer lokalen Konoba",
+            "hu": "Ebéd egy helyi konobában",
+            "ro": "Prânz la o konoba locală",
+            "en": "Lunch in a Local Konoba"
+          },
+          "coords": [
+            16.487,
+            43.692
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie Lammfleisch, eine lokale Spezialität.",
+            "hu": "Kóstolja meg a báránysültet, a helyi specialitást.",
+            "ro": "Gustați friptura de miel, o specialitate locală.",
+            "en": "Try the roast lamb, a local specialty."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang durch die Olivenhaine",
+            "hu": "Séta az olajfaligeteken keresztül",
+            "ro": "Plimbare prin livezile de măslini",
+            "en": "Stroll through the Olive Groves"
+          },
+          "coords": [
+            16.495,
+            43.688
+          ],
+          "category": "park",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe der dalmatinischen Zagora.",
+            "hu": "Élvezze a dalmát hátország nyugalmát.",
+            "ro": "Bucurați-vă de liniștea din Zagora dalmată.",
+            "en": "Enjoy the peace of the Dalmatian Zagora."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang über den Hügeln",
+            "hu": "Naplemente a dombok felett",
+            "ro": "Apus de soare peste dealuri",
+            "en": "Sunset over the Hills"
+          },
+          "coords": [
+            16.485,
+            43.695
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekter Abschluss des Tages mit Blick auf das Tal.",
+            "hu": "A nap tökéletes zárása kilátással a völgyre.",
+            "ro": "Finalul perfect al zilei cu vedere spre vale.",
+            "en": "Perfect end to the day with a view of the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Muć zu Fuß, ein verstecktes Juwel im dalmatinischen Hinterland. Der Morgen beginnt entspannt im Dorfzentrum, gefolgt von einer Zeitreise zu den römischen Meilensteinen. Mittags tauchen Sie in die kroatische Geschichte bei der St.-Peter-Kirche ein. Nach einem deftigen lokalen Mittagessen führt ein gemütlicher Spaziergang durch die Natur zum perfekten Aussichtspunkt für den Sonnenuntergang.",
+        "hu": "Fedezze fel Mućot gyalogosan, a dalmát hátország rejtett kincsét. A reggel nyugodtan indul a falu központjában, majd időutazást teszünk a római mérföldkövekhez. Délben a horvát történelem nyomába eredünk a Szent Péter templomnál. Egy kiadós helyi ebéd után kellemes természetjárás következik, amely a naplemente megtekintéséhez ideális kilátópontnál ér véget.",
+        "ro": "Descoperiți Muć la pas, o bijuterie ascunsă în hinterlandul dalmat. Dimineața începe relaxat în centrul satului, urmată de o călătorie în timp la pietrele miliare romane. La prânz, explorăm istoria croată la biserica Sf. Petru. După un prânz local copios, o plimbare plăcută prin natură ne duce la punctul de belvedere ideal pentru apus.",
+        "en": "Explore Muć on foot, a hidden gem in the Dalmatian hinterland. The morning starts relaxedly in the village center, followed by a journey back in time to the Roman milestones. At midday, dive into Croatian history at St. Peter's Church. After a hearty local lunch, a pleasant nature walk leads to the perfect viewpoint for sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm am Spieß",
+            "tip": "Das Markenzeichen der Region, oft an der Hauptstraße serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nyárson sült bárány",
+            "tip": "A régió védjegye, gyakran a főút mentén kínálják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la proțap",
+            "tip": "Simbolul regiunii, servit adesea de-a lungul drumului principal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spit-roasted Lamb",
+            "tip": "The signature dish of the region, often served along the main road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Gornji Muć",
+            "tip": "Ruhiger Ort mit Panoramablick auf die Felder.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gornji Muć kilátópont",
+            "tip": "Csendes hely panorámás kilátással a mezőkre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Gornji Muć",
+            "tip": "Loc liniștit cu vedere panoramică asupra câmpurilor.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gornji Muć Viewpoint",
+            "tip": "Quiet spot with panoramic views of the fields.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Fragen Sie in den Haushalten nach hausgemachtem Öl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Kérdezzen rá a háztartásoknál a házi készítésű olajra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Întrebați la localnici despre uleiul de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Ask local households for homemade oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe für die Schotterwege.",
+          "Bringen Sie Wasser mit, da es außerhalb des Zentrums wenige Geschäfte gibt."
+        ],
+        "hu": [
+          "Viseljen kényelmes túracipőt a kavicsos utakhoz.",
+          "Vigyen magával vizet, mert a központon kívül kevés a bolt."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru drumurile pietruite.",
+          "Luați apă cu voi, deoarece sunt puține magazine în afara centrului."
+        ],
+        "en": [
+          "Wear comfortable walking shoes for the gravel paths.",
+          "Bring water as there are few shops outside the center."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Muć Zentrum",
+            "hu": "Muć központ",
+            "ro": "Centrul Muć",
+            "en": "Muć Center"
+          },
+          "coords": [
+            16.486,
+            43.693
+          ],
+          "category": "square",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Checken Sie Ihre Ausrüstung vor der Fahrt in die Hügel.",
+            "hu": "Ellenőrizze a felszerelését a dombok felé indulás előtt.",
+            "ro": "Verificați echipamentul înainte de a pleca spre dealuri.",
+            "en": "Check your gear before heading into the hills."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Meilensteine",
+            "hu": "Római mérföldkövek",
+            "ro": "Pietre miliare romane",
+            "en": "Roman Milestones"
+          },
+          "coords": [
+            16.488,
+            43.691
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp an der antiken Transitroute.",
+            "hu": "Rövid megálló az ókori tranzitútvonalnál.",
+            "ro": "Scurt popas la ruta antică de tranzit.",
+            "en": "Short stop at the ancient transit route."
+          }
+        },
+        {
+          "name": {
+            "de": "Aufstieg zum Planina Svilaja",
+            "hu": "Felkapaszkodás a Svilaja-hegyre",
+            "ro": "Urcare spre Muntele Svilaja",
+            "en": "Ascent towards Svilaja Mountain"
+          },
+          "coords": [
+            16.465,
+            43.715
+          ],
+          "category": "mountain",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Anspruchsvolle Strecke mit herrlicher Bergluft.",
+            "hu": "Kihívást jelentő útvonal friss hegyi levegővel.",
+            "ro": "Traseu solicitant cu aer curat de munte.",
+            "en": "Challenging route with fresh mountain air."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorf Neorić",
+            "hu": "Neorić falu",
+            "ro": "Satul Neorić",
+            "en": "Neorić Village"
+          },
+          "coords": [
+            16.54,
+            43.66
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle Architektur der Region.",
+            "hu": "Fedezze fel a régió hagyományos építészetét.",
+            "ro": "Descoperiți arhitectura tradițională a regiunii.",
+            "en": "Discover the traditional architecture of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Verdientes Mittagessen",
+            "hu": "Megérdemelt ebéd",
+            "ro": "Prânz binemeritat",
+            "en": "Well-deserved Lunch"
+          },
+          "coords": [
+            16.487,
+            43.692
+          ],
+          "category": "gastro",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Füllen Sie Ihre Energiereserven mit lokaler Küche auf.",
+            "hu": "Töltődjön fel helyi ételekkel a visszaút előtt.",
+            "ro": "Reîncărcați-vă bateriile cu preparate locale.",
+            "en": "Refuel with local cuisine before the return."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erfahren Sie die weite Landschaft von Muć mit dem Rad. Diese Route verbindet historische Stätten im Tal mit den Ausläufern des Svilaja-Gebirges. Nach dem Besuch der römischen Meilensteine führt der Weg bergauf für atemberaubende Ausblicke. Der Abstecher nach Neorić zeigt das authentische Dorfleben, bevor der Tag bei einer wohlverdienten Mahlzeit im Zentrum ausklingt.",
+        "hu": "Biciklizzen keresztül Muć tágas tájain. Ez az útvonal összeköti a völgy történelmi helyszíneit a Svilaja-hegység lábaival. A római mérföldkövek megtekintése után az út felfelé vezet a lélegzetelállító kilátásért. A Neorić felé tett kitérő az autentikus falusi életet mutatja be, mielőtt a nap egy jól megérdemelt étkezéssel zárul a központban.",
+        "ro": "Explorați peisajele vaste din Muć cu bicicleta. Această rută leagă siturile istorice din vale de poalele muntelui Svilaja. După vizitarea pietrelor miliare romane, drumul urcă pentru vederi uluitoare. Deturul spre Neorić dezvăluie viața autentică de sat, înainte ca ziua să se încheie cu o masă binemeritată în centru.",
+        "en": "Cycle through the vast landscapes of Muć. This route connects historical sites in the valley with the foothills of the Svilaja mountain range. After visiting the Roman milestones, the path leads uphill for breathtaking views. The detour to Neorić showcases authentic village life before the day concludes with a well-deserved meal in the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pršut aus Zagora",
+            "tip": "Luftgetrockneter Schinken mit kräftigem Geschmack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zagora pršut",
+            "tip": "Levegőn szárított sonka karakteres ízzel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pršut de Zagora",
+            "tip": "Șuncă uscată la aer cu un gust intens."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zagora Pršut",
+            "tip": "Air-dried ham with a bold flavor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Svilaja-Ausläufer",
+            "tip": "Unberührte Natur abseits der befestigten Straßen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svilaja-lábak",
+            "tip": "Érintetlen természet a kövezett utakon túl.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poalele Svilaja",
+            "tip": "Natură neatinsă dincolo de drumurile asfaltate.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Svilaja Foothills",
+            "tip": "Untouched nature beyond the paved roads.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig vom Imker",
+            "tip": "Wildblütenhonig direkt von lokalen Produzenten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Méz a termelőtől",
+            "tip": "Vadvirágméz közvetlenül a helyi termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de la apicultori",
+            "tip": "Miere de flori sălbatice direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honey from Beekeepers",
+            "tip": "Wildflower honey directly from local producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike ist für die unebenen Bergwege erforderlich.",
+          "Vermeiden Sie die Mittagshitze in den Sommermonaten."
+        ],
+        "hu": [
+          "A hegyi utakhoz hegyi kerékpár (MTB) szükséges.",
+          "A nyári hónapokban kerülje a déli hőséget."
+        ],
+        "ro": [
+          "Este necesară o bicicletă de munte pentru drumurile accidentate.",
+          "Evitați căldura de la amiază în lunile de vară."
+        ],
+        "en": [
+          "A mountain bike is required for the uneven mountain paths.",
+          "Avoid the midday heat during summer months."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 35,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 32.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche St. Peter (Cluster A)",
+            "hu": "Szent Péter templom (A klaszter)",
+            "ro": "Biserica Sfântul Petru (Cluster A)",
+            "en": "Church of St. Peter (Cluster A)"
+          },
+          "coords": [
+            16.484,
+            43.694
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier und erkunden Sie das Areal zu Fuß.",
+            "hu": "Parkoljon le itt, és fedezze fel a területet gyalog.",
+            "ro": "Parcați aici și explorați zona la pas.",
+            "en": "Park here and explore the area on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Meilensteine (Cluster A)",
+            "hu": "Római mérföldkövek (A klaszter)",
+            "ro": "Pietre miliare romane (Cluster A)",
+            "en": "Roman Milestones (Cluster A)"
+          },
+          "coords": [
+            16.488,
+            43.691
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Fußweg von der Kirche entfernt.",
+            "hu": "Csak egy rövid séta a templomtól.",
+            "ro": "La doar o scurtă plimbare de biserică.",
+            "en": "Just a short walk from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Berg Planina Svilaja (Cluster B)",
+            "hu": "Svilaja-hegy (B klaszter)",
+            "ro": "Muntele Svilaja (Cluster B)",
+            "en": "Svilaja Mountain (Cluster B)"
+          },
+          "coords": [
+            16.455,
+            43.725
+          ],
+          "category": "mountain",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Genießen Sie das Bergpanorama, ohne weit wandern zu müssen.",
+            "hu": "Élvezze a hegyi panorámát hosszas túrázás nélkül.",
+            "ro": "Bucurați-vă de panorama montană fără a urca pe jos.",
+            "en": "Enjoy the mountain panorama without long hiking."
+          }
+        },
+        {
+          "name": {
+            "de": "Natur-Picknickplatz (Cluster B)",
+            "hu": "Természetközeli piknikezőhely (B klaszter)",
+            "ro": "Loc de picnic în natură (Cluster B)",
+            "en": "Nature Picnic Spot (Cluster B)"
+          },
+          "coords": [
+            16.46,
+            43.72
+          ],
+          "category": "park",
+          "arrive_at": "12:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für eine Pause im Grünen.",
+            "hu": "Csendes hely egy kis pihenőre a zöldben.",
+            "ro": "Un loc liniștit pentru o pauză în verdeață.",
+            "en": "A quiet spot for a break in the green."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Neorić (Cluster C)",
+            "hu": "Történelmi Neorić (C klaszter)",
+            "ro": "Neorić istoric (Cluster C)",
+            "en": "Historical Neorić (Cluster C)"
+          },
+          "coords": [
+            16.54,
+            43.66
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Spaziergang durch die alten Steinstraßen.",
+            "hu": "Séta a régi kőutcák mentén.",
+            "ro": "Plimbare pe vechile străzi de piatră.",
+            "en": "Stroll along the old stone streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen in Muć",
+            "hu": "Késői ebéd Mućban",
+            "ro": "Prânz târziu în Muć",
+            "en": "Late Lunch in Muć"
+          },
+          "coords": [
+            16.487,
+            43.692
+          ],
+          "category": "gastro",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Die Konobas hier sind bekannt für authentische Gerichte.",
+            "hu": "A helyi konobák az autentikus ételeikről ismertek.",
+            "ro": "Konobele de aici sunt cunoscute pentru mâncăruri autentice.",
+            "en": "The local konobas are known for authentic dishes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour verbindet die kulturellen Highlights von Muć mit der wilden Natur der Svilaja. Wir starten im Zentrum bei der historischen St.-Peter-Kirche und den Meilensteinen. Danach führt die Fahrt in die kühleren Höhenlagen des Gebirges für ein kurzes Picknick. Den Nachmittag verbringen wir im charmanten Neorić, bevor wir für ein deftiges Essen ins Herz von Muć zurückkehren.",
+        "hu": "Ez az autós túra összeköti Muć kulturális nevezetességeit a Svilaja vad természetével. A központban kezdünk a történelmi Szent Péter templomnál és a mérföldköveknél. Ezt követően az út a hegység hűvösebb magaslataiba vezet egy rövid piknikre. A délutánt a bájos Neorićban töltjük, majd egy kiadós étkezésre visszatérünk Muć szívébe.",
+        "ro": "Acest tur cu mașina îmbină atracțiile culturale din Muć cu natura sălbatică de pe Svilaja. Începem în centru, la biserica istorică Sf. Petru și la pietrele miliare. Ulterior, drumul urcă spre înălțimile răcoroase ale muntelui pentru un scurt picnic. După-amiaza o petrecem în pitorescul Neorić, înainte de a reveni în inima Muć pentru o masă copioasă.",
+        "en": "This car tour combines the cultural highlights of Muć with the wild nature of Svilaja. We start in the center at the historical St. Peter's Church and the milestones. Afterwards, the drive leads to the cooler heights of the mountain range for a short picnic. We spend the afternoon in charming Neorić before returning to the heart of Muć for a hearty meal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Peka",
+            "tip": "Unter einer Glocke gegartes Fleisch und Gemüse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peka",
+            "tip": "Vasharang alatt sült hús és zöldségek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peka",
+            "tip": "Carne și legume gătite sub un capac de fier."
+          }
+        ],
+        "en": [
+          {
+            "name": "Peka",
+            "tip": "Meat and vegetables slow-cooked under a bell-shaped lid."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldrand bei Neorić",
+            "tip": "Ideal für eine kurze Meditation in der Natur.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erdőszél Neorićnál",
+            "tip": "Ideális egy rövid erdei meditációhoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marginea pădurii lângă Neorić",
+            "tip": "Ideal pentru o scurtă meditație în natură.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest Edge near Neorić",
+            "tip": "Ideal for a short meditation in nature.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hauswein",
+            "tip": "Viele lokale Bauern verkaufen ihren eigenen Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi bor",
+            "tip": "Sok helyi gazda árusítja saját termelésű borát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de casă",
+            "tip": "Mulți fermieri locali își vând propriul vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Wine",
+            "tip": "Many local farmers sell their own wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen im Gebirge sind schmal, fahren Sie vorsichtig.",
+          "Parkplätze sind im Dorfzentrum meist kostenlos."
+        ],
+        "hu": [
+          "A hegyi utak keskenyek, vezessen óvatosan.",
+          "A falu központjában a parkolás többnyire ingyenes."
+        ],
+        "ro": [
+          "Drumurile montane sunt înguste, conduceți cu atenție.",
+          "Parcarea în centrul satului este de obicei gratuită."
+        ],
+        "en": [
+          "Mountain roads are narrow, drive carefully.",
+          "Parking in the village center is mostly free."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Muć Gornji Bushaltestelle",
+            "hu": "Muć Gornji buszmegálló",
+            "ro": "Stația de autobuz Muć Gornji",
+            "en": "Muć Gornji Bus Stop"
+          },
+          "coords": [
+            16.486,
+            43.693
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Knotenpunkt für lokale Verbindungen.",
+            "hu": "A helyi járatok csomópontja.",
+            "ro": "Nodul pentru legăturile locale.",
+            "en": "The hub for local bus connections."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Peter (Spaziergang)",
+            "hu": "Szent Péter templom (Séta)",
+            "ro": "Biserica Sfântul Petru (Plimbare)",
+            "en": "Church of St. Peter (Walk)"
+          },
+          "coords": [
+            16.484,
+            43.694
+          ],
+          "category": "religious",
+          "arrive_at": "09:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß von der Haltestelle erreichbar.",
+            "hu": "Könnyen elérhető gyalog a megállótól.",
+            "ro": "Ușor de ajuns pe jos de la stație.",
+            "en": "Easily accessible on foot from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Meilensteine",
+            "hu": "Római mérföldkövek",
+            "ro": "Pietre miliare romane",
+            "en": "Roman Milestones"
+          },
+          "coords": [
+            16.488,
+            43.691
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Muss für Archäologie-Interessierte.",
+            "hu": "Régészet iránt érdeklődőknek kötelező látnivaló.",
+            "ro": "O vizită obligatorie pentru cei interesați de arheologie.",
+            "en": "A must-visit for those interested in archaeology."
+          }
+        },
+        {
+          "name": {
+            "de": "Busfahrt nach Neorić",
+            "hu": "Buszozás Neorićba",
+            "ro": "Călătorie cu autobuzul spre Neorić",
+            "en": "Bus to Neorić"
+          },
+          "coords": [
+            16.54,
+            43.66
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt durch das Tal.",
+            "hu": "Élvezze az utazást a völgyön keresztül.",
+            "ro": "Bucurați-vă de drumul prin vale.",
+            "en": "Enjoy the ride through the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Lokale Konoba in Neorić",
+            "hu": "Helyi konoba Neorićban",
+            "ro": "Konoba locală în Neorić",
+            "en": "Local Konoba in Neorić"
+          },
+          "coords": [
+            16.541,
+            43.661
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie Käse und hausgemachtes Brot.",
+            "hu": "Kóstolja meg a sajtot és a házi kenyeret.",
+            "ro": "Încercați brânza și pâinea de casă.",
+            "en": "Try the cheese and homemade bread."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Busverbindungen, um Muć und seine Umgebung zu erkunden. Der Tag konzentriert sich auf das historische Zentrum von Muć Gornji mit seinen Kirchen und Meilensteinen, gefolgt von einer Busfahrt in das Nachbardorf Neorić. Es ist eine authentische Art, das tägliche Leben im Hinterland kennenzulernen, abgerundet durch ein gemütliches Mittagessen.",
+        "hu": "Használja a helyi buszjáratokat Muć és környéke felfedezéséhez. A nap Muć Gornji történelmi központjára fókuszál a templomokkal és mérföldkövekkel, majd buszozás következik a szomszédos Neorić faluba. Ez egy hiteles módja a hátországi mindennapi élet megismerésének, amelyet egy kellemes ebéd koronáz meg.",
+        "ro": "Folosiți liniile locale de autobuz pentru a explora Muć și împrejurimile sale. Ziua se concentrează pe centrul istoric din Muć Gornji, cu bisericile și pietrele miliare, urmată de o călătorie spre satul vecin, Neorić. Este un mod autentic de a cunoaște viața de zi cu zi din hinterland, totul completat de un prânz relaxant.",
+        "en": "Use the local bus connections to explore Muć and its surroundings. The day focuses on the historical center of Muć Gornji with its churches and milestones, followed by a bus ride to the neighboring village of Neorić. It's an authentic way to experience daily life in the hinterland, rounded off by a cozy lunch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käse",
+            "tip": "Schafskäse aus der Region ist besonders würzig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajt",
+            "tip": "A régióból származó juhsajt különösen fűszeres."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză locală",
+            "tip": "Brânza de oaie din regiune este deosebit de aromată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese",
+            "tip": "Sheep cheese from the region is particularly flavorful."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dorfplatz Neorić",
+            "tip": "Beobachten Sie das langsame Dorfleben.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Neorić falutér",
+            "tip": "Figyelje meg a falusi élet lassú lüktetését.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața satului Neorić",
+            "tip": "Observați ritmul lent al vieții la sat.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Neorić Village Square",
+            "tip": "Observe the slow pace of village life.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Souvenirs",
+            "tip": "Suchen Sie nach traditionellen Stickereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézzel készített ajándéktárgyak",
+            "tip": "Keresse a tradicionális hímzéseket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri artizanale",
+            "tip": "Căutați broderiile tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Souvenirs",
+            "tip": "Look for traditional embroideries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan im Voraus, da die Frequenz niedrig ist.",
+          "Halten Sie Kleingeld für das Busticket bereit."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mert a járatok ritkák.",
+          "Készítsen elő aprópénzt a buszjegyhez."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece frecvența este redusă.",
+          "Aveți pregătit mărunțiș pentru biletul de autobuz."
+        ],
+        "en": [
+          "Check the bus schedule in advance as frequency is low.",
+          "Have small change ready for the bus ticket."
+        ]
+      }
+    }
+  }
+}

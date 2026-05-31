@@ -1,0 +1,1064 @@
+{
+  "city_id": "croatia-zminj-cities-v2",
+  "anchor": {
+    "name": "Žminj",
+    "coords": [
+      13.9167,
+      45.15
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Hauptplatz und Kaffee-Pause",
+          "coords": [
+            13.9165,
+            45.1502
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Probieren Sie einen Espresso in der lokalen Rösterei Monte.",
+            "hu": "Kóstolja meg a helyi pörkölésű Monte kávét a főtéren.",
+            "ro": "Încercați un espresso de la prăjitoria locală Monte.",
+            "en": "Try an espresso from the local Monte coffee roastery."
+          }
+        },
+        {
+          "name": "Župna crkva sv. Mihovila",
+          "coords": [
+            13.916,
+            45.1505
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die barocken Altäre aus dem 17. Jahrhundert.",
+            "hu": "Figyelje meg a 17. századi barokk oltárokat.",
+            "ro": "Admirați altarele baroce din secolul al XVII-lea.",
+            "en": "Note the 17th-century Baroque altars inside."
+          }
+        },
+        {
+          "name": "Kapela sv. Trojstva",
+          "coords": [
+            13.9155,
+            45.151
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Diese Kapelle aus dem 15. Jahrhundert birgt wertvolle Fresken.",
+            "hu": "A 15. századi kápolna értékes freskókat rejt.",
+            "ro": "Această capelă din secolul al XV-lea adăpostește fresce valoroase.",
+            "en": "This 15th-century chapel houses valuable frescoes."
+          }
+        },
+        {
+          "name": "Kaštel",
+          "coords": [
+            13.9175,
+            45.1495
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Überrest der einstigen Stadtbefestigung bietet kühlen Schatten.",
+            "hu": "Az egykori erődítmény maradványa kellemes árnyékot ad.",
+            "ro": "Rămășița fostei fortificații oferă o umbră plăcută.",
+            "en": "The remains of the former fortification offer cool shade."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            13.918,
+            45.149
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestellen Sie 'Fuži' oder 'Pjukanci' mit lokalen Trüffeln.",
+            "hu": "Rendeljen fuzit vagy pjukancit helyi szarvasgombával.",
+            "ro": "Comandați 'Fuži' sau 'Pjukanci' cu trufe locale.",
+            "en": "Order 'Fuži' or 'Pjukanci' pasta with local truffles."
+          }
+        },
+        {
+          "name": "Čakavska kuća",
+          "coords": [
+            13.917,
+            45.1498
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lernen Sie die Besonderheiten des lokalen Dialekts kennen.",
+            "hu": "Ismerje meg a helyi csakavics nyelvjárás különlegességeit.",
+            "ro": "Aflați despre particularitățile dialectului local.",
+            "en": "Learn about the uniqueness of the local Chakavian dialect."
+          }
+        },
+        {
+          "name": "Spaziergang entlang alter Steinmauern",
+          "coords": [
+            13.92,
+            45.148
+          ],
+          "category": "park",
+          "arrive_at": "15:55",
+          "stay_min": 65,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die traditionellen Trockensteinmauern sind typisch für Istrien.",
+            "hu": "A hagyományos szárazon rakott kőfalak Isztria jelképei.",
+            "ro": "Zidurile tradiționale din piatră uscată sunt tipice Istriei.",
+            "en": "Traditional dry-stone walls are iconic symbols of Istria."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Žminj bei einem starken Kaffee am Hauptplatz. Der Vormittag steht im Zeichen der Spiritualität: Besuchen Sie die beeindruckende Pfarrkirche St. Michael und die kleine Kapelle der Heiligen Dreifaltigkeit mit ihren spätgotischen Fresken. Zum Mittagessen lockt die herzhafte istrische Küche in einer der lokalen Konobas, wo hausgemachte Pasta serviert wird. Den Nachmittag verbringen Sie mit der Erkundung des mittelalterlichen Kaštels und des Hauses der Chakavischen Kultur, bevor Sie den Tag bei einem entspannten Spaziergang durch die umliegenden Felder und entlang der historischen Steinmauern ausklingen lassen.",
+        "hu": "Kezdje a napot Žminj szívében egy erős kávéval a főtéren. A délelőtt a szakrális emlékeké: látogassa meg a monumentális Szent Mihály-plébániatemplomot és a Szentháromság-kápolnát, amely késő gótikus freskókat rejt. Ebédre kóstolja meg a laktató isztriai konyhát egy helyi konobában, ahol házi tésztákat szolgálnak fel. Délután fedezze fel a középkori vár (Kaštel) maradványait és a Csakavics Házat, majd fejezze be a napot egy pihentető sétával a környező mezők és a történelmi szárazon rakott kőfalak mentén.",
+        "ro": "Începeți ziua în inima localității Žminj cu o cafea tare în piața centrală. Dimineața este dedicată spiritualității: vizitați impresionanta Biserică Parohială Sfântul Mihail și mica Capelă a Sfintei Treimi, care adăpostește fresce gotice târzii. Pentru prânz, bucurați-vă de bucătăria istriană consistentă într-o 'konoba' locală, unde se servește pastă de casă. După-amiaza, explorați rămășițele castelului medieval (Kaštel) și Casa Culturii Chakaviene, înainte de a încheia ziua cu o plimbare relaxantă printre câmpurile din jur și de-a lungul zidurilor istorice de piatră.",
+        "en": "Start your day in the heart of Žminj with a strong coffee in the main square. The morning is dedicated to spiritual heritage: visit the monumental Parish Church of St. Michael and the small Chapel of the Holy Trinity with its late Gothic frescoes. For lunch, enjoy hearty Istrian cuisine in a local konoba serving homemade pasta. In the afternoon, explore the medieval Kaštel and the Chakavian House, then finish your day with a relaxed stroll through the surrounding fields and along the historic dry-stone walls."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Žminjka",
+            "tip": "Probieren Sie die hausgemachten 'Pjukanci' mit Wildragout."
+          },
+          {
+            "name": "Bäckerei Žminj",
+            "tip": "Holen Sie sich eine frische 'Pinca' (süßes Osterbrot)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Žminjka",
+            "tip": "Kóstolja meg a házi pjukancit vadraguval."
+          },
+          {
+            "name": "Žminji Pékség",
+            "tip": "Vásároljon friss pincát (hagyományos édes kenyér)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Žminjka",
+            "tip": "Încercați pjukanci de casă cu ragu de vânat."
+          },
+          {
+            "name": "Brutăria Žminj",
+            "tip": "Cumpărați o 'Pinca' proaspătă (pâine dulce tradițională)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Žminjka",
+            "tip": "Try the homemade pjukanci with wild game ragout."
+          },
+          {
+            "name": "Žminj Bakery",
+            "tip": "Get a fresh 'Pinca' (traditional sweet Easter bread)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kapela sv. Trojstva",
+            "tip": "Ein stiller Ort für Besinnung vor alten Fresken.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Felder von Žminj",
+            "tip": "Abendlicher Spaziergang entlang der Kažuni (Steinhütten).",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szentháromság-kápolna",
+            "tip": "Csendes hely az elmélyülésre a régi freskók között.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Žminji mezők",
+            "tip": "Esti séta a kažunok (kőkunyhók) mentén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capela Sf. Treimi",
+            "tip": "Un loc liniștit pentru meditație printre fresce vechi.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Câmpiile din Žminj",
+            "tip": "Plimbare de seară pe lângă 'kažuni' (colibe de piatră).",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Chapel of the Holy Trinity",
+            "tip": "A quiet place for reflection among old frescoes.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Žminj Fields",
+            "tip": "Evening walk along the 'kažuni' (stone huts).",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie hausgemachte Nudeln und Olivenöl."
+          },
+          {
+            "name": "Monte Rösterei",
+            "tip": "Frisch gerösteter Kaffee als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon házi tésztát és olívaolajat."
+          },
+          {
+            "name": "Monte Pörkölő",
+            "tip": "Frissen pörkölt kávé ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați paste de casă și ulei de măsline."
+          },
+          {
+            "name": "Prăjitoria Monte",
+            "tip": "Cafea proaspăt prăjită ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy homemade pasta and olive oil."
+          },
+          {
+            "name": "Monte Roastery",
+            "tip": "Freshly roasted coffee as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Žminj ist sehr kompakt, alles ist bequem zu Fuß erreichbar.",
+          "Besuchen Sie die Stadt während des Käsefestivals im Sommer.",
+          "Die Straßen sind teilweise mit Kopfsteinpflaster versehen, tragen Sie bequeme Schuhe.",
+          "Kombinieren Sie den Besuch mit einer Radtour durch das istrische Hinterland."
+        ],
+        "hu": [
+          "Žminj nagyon kompakt, minden kényelmesen elérhető gyalog.",
+          "Látogasson el ide nyáron a Sajtfesztivál idején.",
+          "Az utcák egy része macskaköves, viseljen kényelmes cipőt.",
+          "Kombinálja a látogatást egy kerékpártúrával az isztriai hátországban."
+        ],
+        "ro": [
+          "Žminj este foarte compact, totul este ușor accesibil pe jos.",
+          "Vizitați orașul în timpul Festivalului Brânzei din vară.",
+          "Unele străzi sunt pavate cu piatră cubică, purtați încălțăminte comodă.",
+          "Combinați vizita cu o tură de bicicletă prin interiorul Istriei."
+        ],
+        "en": [
+          "Žminj is very compact, everything is easily accessible on foot.",
+          "Visit during the Cheese Festival in the summer for local treats.",
+          "Some streets are cobbled, so wear comfortable walking shoes.",
+          "Combine your visit with a bike ride through the Istrian hinterland."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Žminj Zentrum & Kaštel",
+          "coords": [
+            13.9175,
+            45.1495
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad sicher am Hauptplatz.",
+            "hu": "Parkolja le biztonságosan kerékpárját a főtéren.",
+            "ro": "Parcați bicicleta în siguranță în piața principală.",
+            "en": "Park your bike safely in the main square."
+          }
+        },
+        {
+          "name": "Župna crkva sv. Mihovila",
+          "coords": [
+            13.916,
+            45.1505
+          ],
+          "category": "religious",
+          "arrive_at": "10:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Fassade.",
+            "hu": "Csodálja meg az impozáns homlokzatot.",
+            "ro": "Admirați fațada impozantă.",
+            "en": "Admire the imposing facade of the church."
+          }
+        },
+        {
+          "name": "Čakavska kuća",
+          "coords": [
+            13.917,
+            45.1498
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kultureller Boxenstopp im Herzen der Stadt.",
+            "hu": "Kulturális megálló a város szívében.",
+            "ro": "O oprire culturală în inima orașului.",
+            "en": "A cultural pit stop in the heart of the town."
+          }
+        },
+        {
+          "name": "Radsprint zur Kapela sv. Trojstva",
+          "coords": [
+            13.9155,
+            45.151
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Halt bei den gotischen Fresken.",
+            "hu": "Rövid megálló a gótikus freskóknál.",
+            "ro": "Scurtă oprire la frescele gotice.",
+            "en": "Short stop to see the Gothic frescoes."
+          }
+        },
+        {
+          "name": "Mittagspause im Grünen",
+          "coords": [
+            13.94,
+            45.16
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie istrischen Schinken bei einem Agrotourismus.",
+            "hu": "Élvezze az isztriai sonkát egy agroturizmusnál.",
+            "ro": "Savurați șunca istriană la un agroturism.",
+            "en": "Enjoy Istrian ham at a nearby agrotourism farm."
+          }
+        },
+        {
+          "name": "Tour durch die Kažuni-Landschaft",
+          "coords": [
+            13.925,
+            45.145
+          ],
+          "category": "park",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Radeln Sie an den runden Steinhütten vorbei.",
+            "hu": "Kerekezzen el a kerek kőkunyhók mellett.",
+            "ro": "Pedalați pe lângă colibele rotunde de piatră.",
+            "en": "Cycle past the traditional circular stone huts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Žminj und seine malerische Umgebung auf zwei Rädern. Nach der Besichtigung der historischen Schätze im Ortskern – wie dem Kaštel und der imposanten Michaelskirche – führt Sie der Weg hinaus in die sanfte istrische Hügellandschaft. Radeln Sie vorbei an jahrhundertealten Steinmauern und den typischen Kažuni-Steinhütten. Zur Stärkung kehren Sie bei einem nahegelegenen Bauernhof ein, um hausgemachte Spezialitäten zu probieren. Die Route bietet eine perfekte Mischung aus Kultur im Zentrum und purer Natur in der Umgebung von Žminj.",
+        "hu": "Fedezze fel Žminjt és festői környékét két keréken. A belváros történelmi kincseinek – mint a vár és az impozáns Szent Mihály-templom – megtekintése után az út az isztriai dombság lankái felé vezet. Kerekezzen el évszázados kőfalak és a jellegzetes kažun kőkunyhók mellett. Frissítőként térjen be egy közeli tanyára, hogy megkóstolja a házi különlegességeket. Az útvonal tökéletes keveréke a központ kulturális értékeinek és Žminj környékének tiszta természetének.",
+        "ro": "Explorați Žminj și împrejurimile sale pitorești pe două roți. După vizitarea comorilor istorice din centru – precum castelul și impunătoarea biserică Sf. Mihail – drumul vă poartă spre dealurile blânde ale Istriei. Pedalați pe lângă ziduri de piatră seculare și colibele tipice din piatră numite 'kažuni'. Pentru reîncărcarea bateriilor, opriți-vă la o fermă din apropiere pentru a gusta specialități de casă. Traseul oferă un amestec perfect de cultură în centru și natură pură în jurul localității Žminj.",
+        "en": "Explore Žminj and its picturesque surroundings on two wheels. After visiting the historic treasures in the town center – such as the Kaštel and the imposing St. Michael’s church – the path leads you out into the rolling Istrian hills. Cycle past centuries-old stone walls and the typical 'kažuni' stone huts. For a break, stop at a nearby farmhouse to sample homemade specialties. The route offers a perfect blend of culture in the center and pure nature in the outskirts of Žminj."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agroturizam Fam. Ferlin",
+            "tip": "Hausgemachte Pasta direkt vom Bauernhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agroturizam Fam. Ferlin",
+            "tip": "Házi tészta közvetlenül a tanyáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agroturism Fam. Ferlin",
+            "tip": "Paste de casă direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agrotourism Fam. Ferlin",
+            "tip": "Homemade pasta straight from the farm."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Steinmauer-Route",
+            "tip": "Stille Feldwege abseits der Hauptstraßen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kőfalak útvonala",
+            "tip": "Csendes mezei utak távol a főutaktól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruta zidurilor de piatră",
+            "tip": "Drumuri de câmp liniștite, departe de șosele.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stone Wall Route",
+            "tip": "Quiet field paths away from the main roads.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dorfladen",
+            "tip": "Lokaler Honig und Schnaps (Rakija)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falusi bolt",
+            "tip": "Helyi méz és pálinka (rakija)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul sătesc",
+            "tip": "Miere locală și rachiul local (rakija)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Village Shop",
+            "tip": "Local honey and brandy (Rakija)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege sind größtenteils asphaltiert oder gut befestigte Schotterstraßen.",
+          "Nehmen Sie ausreichend Wasser mit, da es im Hinterland kaum Brunnen gibt.",
+          "Ein Mountainbike oder Trekkingrad ist für die Feldwege ideal.",
+          "Achten Sie auf die rot-weißen Wandermarkierungen an den Bäumen."
+        ],
+        "hu": [
+          "Az utak nagy része aszfaltozott vagy jól karbantartott murvás út.",
+          "Vigyen magával elegendő vizet, mert a hátországban kevés a kút.",
+          "A hegyi kerékpár vagy trekking bicikli ideális a mezei utakhoz.",
+          "Figyelje a piros-fehér jelzéseket a fákon és köveken."
+        ],
+        "ro": [
+          "Drumurile sunt în mare parte asfaltate sau pietruite bine.",
+          "Luați suficientă apă, deoarece în interior sunt puține fântâni.",
+          "O bicicletă montană sau de trekking este ideală pentru drumurile de câmp.",
+          "Urmăriți marcajele roșu-alb de pe copaci și pietre."
+        ],
+        "en": [
+          "Most paths are paved or consist of well-maintained gravel roads.",
+          "Carry enough water, as there are few public fountains in the hinterland.",
+          "A mountain bike or trekking bike is ideal for the field paths.",
+          "Look out for the red and white trail markers on trees and stones."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Kaffee-Pause am Hauptplatz (Cluster 1)",
+          "coords": [
+            13.9165,
+            45.1502
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral hinter der Kirche.",
+            "hu": "Parkoljon központilag a templom mögött.",
+            "ro": "Parcați central în spatele bisericii.",
+            "en": "Park centrally behind the church."
+          }
+        },
+        {
+          "name": "Župna crkva sv. Mihovila (Cluster 1)",
+          "coords": [
+            13.916,
+            45.1505
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Vorplatz für Fotos.",
+            "hu": "Látogasson el az előtérbe fotózni.",
+            "ro": "Vizitați curtea pentru fotografii.",
+            "en": "Visit the church courtyard for photos."
+          }
+        },
+        {
+          "name": "Kapela sv. Trojstva (Cluster 1)",
+          "coords": [
+            13.9155,
+            45.151
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein kleiner architektonischer Schatz.",
+            "hu": "Egy apró építészeti kincs.",
+            "ro": "O mică comoară arhitecturală.",
+            "en": "A small architectural gem."
+          }
+        },
+        {
+          "name": "Kaštel (Cluster 2)",
+          "coords": [
+            13.9175,
+            45.1495
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Südeingang der Altstadt.",
+            "hu": "Rövid gurulás az óváros déli kapujához.",
+            "ro": "Scurtă deplasare spre intrarea de sud a orașului vechi.",
+            "en": "Short drive to the south entrance of the old town."
+          }
+        },
+        {
+          "name": "Čakavska kuća (Cluster 2)",
+          "coords": [
+            13.917,
+            45.1498
+          ],
+          "category": "historical",
+          "arrive_at": "12:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Kaštel erreichbar.",
+            "hu": "Gyalogosan elérhető a vártól.",
+            "ro": "Accesibil pe jos de la castel.",
+            "en": "Accessible on foot from the Kaštel."
+          }
+        },
+        {
+          "name": "Mittagessen in Žminj (Cluster 2)",
+          "coords": [
+            13.918,
+            45.149
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie istrische Minestra (Eintopf).",
+            "hu": "Kóstolja meg az isztriai manesztrát (egytálétel).",
+            "ro": "Încercați mânestra istriană (tocăniță).",
+            "en": "Sample the Istrian maneštra (stew)."
+          }
+        },
+        {
+          "name": "Landschaftsfahrt zu den Kažuni (Cluster 3)",
+          "coords": [
+            13.935,
+            45.14
+          ],
+          "category": "park",
+          "arrive_at": "14:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahrt durch die Natur zu den Steinhütten.",
+            "hu": "Természeti autózás a kőkunyhókhoz.",
+            "ro": "Drum prin natură către colibele de piatră.",
+            "en": "Scenic drive to the traditional stone huts."
+          }
+        },
+        {
+          "name": "Panoramablick am Stadtrand",
+          "coords": [
+            13.92,
+            45.155
+          ],
+          "category": "park",
+          "arrive_at": "16:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Letzter Blick auf die Kirchtürme von Žminj.",
+            "hu": "Utolsó pillantás Žminj harangtornyaira.",
+            "ro": "Ultima privire asupra turnurilor din Žminj.",
+            "en": "Last view of the church towers of Žminj."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Žminj bequem mit dem Auto, indem Sie strategische Cluster anfahren. Parken Sie zunächst im Zentrum (Cluster 1), um den Hauptplatz, die Michaelskirche und die Kapelle der Heiligen Dreifaltigkeit zu Fuß zu erkunden. Eine kurze Weiterfahrt bringt Sie zum südlichen Teil (Cluster 2), wo Sie das mittelalterliche Kaštel und das Čakavska-Haus besuchen, gefolgt von einem traditionellen Mittagessen. Den Nachmittag nutzen Sie für eine kurze Panoramafahrt in die ländliche Umgebung (Cluster 3), um die faszinierenden Kažuni-Steinhütten und die weiten istrischen Felder zu bewundern.",
+        "hu": "Fedezze fel Žminjt kényelmesen autóval, stratégiai pontokon megállva. Parkoljon először a központban (Cluster 1), hogy gyalogosan bejárja a főteret, a Szent Mihály-templomot és a Szentháromság-kápolnát. Egy rövid autózás után érkezzen meg a déli részhez (Cluster 2), ahol a középkori várat és a Csakavics Házat tekintheti meg, majd egy hagyományos ebédet fogyaszthat el. A délutánt szánja egy rövid panorámaútra a vidéki környéken (Cluster 3), hogy megcsodálja a különleges kažun kőkunyhókat és a tágas isztriai mezőket.",
+        "ro": "Descoperiți Žminj confortabil cu mașina, oprind în puncte strategice. Parcați mai întâi în centru (Cluster 1) pentru a vizita pe jos piața principală, biserica Sf. Mihail și capela Sf. Treimi. O scurtă deplasare vă duce în partea de sud (Cluster 2), unde vizitați castelul medieval și Casa Chakaviană, urmate de un prânz tradițional. După-amiaza, profitați de o scurtă plimbare panoramică în zona rurală (Cluster 3) pentru a admira colibele de piatră 'kažuni' și câmpurile întinse ale Istriei.",
+        "en": "Discover Žminj comfortably by car, using a cluster-based approach. Park first in the center (Cluster 1) to explore the main square, St. Michael’s church, and the Holy Trinity chapel on foot. A short drive takes you to the southern section (Cluster 2) for the medieval Kaštel and the Chakavian House, followed by a traditional lunch. Spend the afternoon on a scenic drive to the rural outskirts (Cluster 3) to admire the fascinating 'kažuni' stone huts and the expansive Istrian fields."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Puli Pineta",
+            "tip": "Rustikale Atmosphäre und exzellente Trüffelgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Puli Pineta",
+            "tip": "Rusztikus hangulat és kiváló szarvasgombás ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Puli Pineta",
+            "tip": "Atmosferă rustică și mâncăruri excelente cu trufe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Puli Pineta",
+            "tip": "Rustic atmosphere and excellent truffle dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Feldweg-Panorama",
+            "tip": "Blick über das grüne Herz Istriens.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mezei panoráma",
+            "tip": "Kilátás Isztria zöld szívére.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panoramă de câmp",
+            "tip": "Vedere peste inima verde a Istriei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Field Panorama",
+            "tip": "View over the green heart of Istria.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käseproduzent",
+            "tip": "Frischer Schafskäse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajttermelő",
+            "tip": "Friss juhsajt a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Producător local de brânză",
+            "tip": "Brânză proaspătă de oaie din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese Producer",
+            "tip": "Fresh sheep cheese from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt kostenlose Parkplätze in der Nähe der Grundschule.",
+          "Die Straßen im Zentrum sind eng, fahren Sie vorsichtig.",
+          "Nutzen Sie das Auto, um nahegelegene Dörfer wie Svetvinčenat zu besuchen.",
+          "In Istrien sind Tankstellen im ländlichen Raum seltener, tanken Sie rechtzeitig."
+        ],
+        "hu": [
+          "Az általános iskola közelében ingyenes parkolóhelyek találhatók.",
+          "A központ utcái szűkek, vezessen óvatosan.",
+          "Használja az autót a közeli falvak, például Svetvinčenat meglátogatásához.",
+          "Isztria vidéki részein ritkábbak a benzinkutak, tankoljon időben."
+        ],
+        "ro": [
+          "Există locuri de parcare gratuite în apropierea școlii generale.",
+          "Străzile din centru sunt înguste, conduceți cu atenție.",
+          "Folosiți mașina pentru a vizita satele din apropiere, cum ar fi Svetvinčenat.",
+          "În zonele rurale ale Istriei, benzinăriile sunt mai rare, realimentați la timp."
+        ],
+        "en": [
+          "There are free parking spots near the primary school.",
+          "The center streets are narrow, so drive carefully.",
+          "Use your car to visit nearby villages like Svetvinčenat.",
+          "Gas stations are less frequent in rural Istria, so refuel in time."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Bushaltestelle Žminj (Ankunft)",
+          "coords": [
+            13.9185,
+            45.151
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für regionale Busse.",
+            "hu": "Regionális buszok központi érkezési pontja.",
+            "ro": "Punct central de sosire pentru autobuzele regionale.",
+            "en": "Central arrival point for regional buses."
+          }
+        },
+        {
+          "name": "Hauptplatz und Župna crkva sv. Mihovila",
+          "coords": [
+            13.916,
+            45.1505
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg ins Herz der Stadt.",
+            "hu": "Rövid séta a város szívébe.",
+            "ro": "Scurtă plimbare spre inima orașului.",
+            "en": "A short walk into the heart of the town."
+          }
+        },
+        {
+          "name": "Kapela sv. Trojstva",
+          "coords": [
+            13.9155,
+            45.151
+          ],
+          "category": "religious",
+          "arrive_at": "10:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigung der alten Wandmalereien.",
+            "hu": "A régi falfestmények megtekintése.",
+            "ro": "Vizitarea picturilor murale vechi.",
+            "en": "Visit the ancient wall paintings."
+          }
+        },
+        {
+          "name": "Kaštel & Čakavska kuća",
+          "coords": [
+            13.9175,
+            45.1495
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kulturelles Zentrum von Žminj.",
+            "hu": "Žminj kulturális központja.",
+            "ro": "Centrul cultural din Žminj.",
+            "en": "The cultural hub of Žminj."
+          }
+        },
+        {
+          "name": "Mittagessen in der Konoba",
+          "coords": [
+            13.918,
+            45.149
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fragen Sie nach dem Tagesmenü.",
+            "hu": "Kérdezze a napi ajánlatot.",
+            "ro": "Întrebați de meniul zilei.",
+            "en": "Ask about the daily special menu."
+          }
+        },
+        {
+          "name": "Rundgang durch die Altstadtgassen",
+          "coords": [
+            13.9165,
+            45.1495
+          ],
+          "category": "park",
+          "arrive_at": "14:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie das lokale Kleinstadtflair.",
+            "hu": "Élvezze a helyi kisvárosi hangulatot.",
+            "ro": "Bucurați-vă de atmosfera locală de orășel.",
+            "en": "Enjoy the local small-town atmosphere."
+          }
+        },
+        {
+          "name": "Rückkehr zur Haltestelle",
+          "coords": [
+            13.9185,
+            45.151
+          ],
+          "category": "square",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zeit für ein letztes Eis vor der Abfahrt.",
+            "hu": "Idő egy utolsó fagyira az indulás előtt.",
+            "ro": "Timp pentru o ultimă înghețată înainte de plecare.",
+            "en": "Time for one last gelato before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Reisen Sie mit dem Regionalbus nach Žminj und entdecken Sie den Ort ganz entschleunigt. Vom Busbahnhof aus erreichen Sie in wenigen Gehminuten den historischen Kern. Besuchen Sie die beeindruckende Michaelskirche und das mittelalterliche Kaštel. Ein kulturelles Highlight ist die Čakavska kuća, die Einblicke in den lokalen Dialekt gibt. Nach einem ausgiebigen Mittagessen in einer Konoba bleibt genügend Zeit für einen entspannten Bummel durch die schmalen Gassen, bevor Sie am späten Nachmittag wieder Ihre Heimreise mit dem Bus antreten.",
+        "hu": "Utazzon Žminjbe regionális busszal, és fedezze fel a várost komótosan. A buszmegállótól pár perces sétával elérhető a történelmi mag. Látogassa meg az impozáns Szent Mihály-templomot és a középkori várat. Kulturális fénypont a Csakavics Ház, amely betekintést nyújt a helyi nyelvjárásba. Egy kiadós konobai ebéd után bőven marad idő egy pihentető sétára a szűk utcákon, mielőtt késő délután visszaindulna a busszal.",
+        "ro": "Călătoriți la Žminj cu autobuzul regional și descoperiți localitatea într-un ritm lent. De la stația de autobuz, ajungeți în câteva minute de mers pe jos în nucleul istoric. Vizitați biserica Sf. Mihail și castelul medieval. Un punct de atracție culturală este Casa Chakaviană, care oferă informații despre dialectul local. După un prânz copios într-o 'konoba', rămâne suficient timp pentru o plimbare relaxantă pe străduțele înguste, înainte de a pleca înapoi cu autobuzul spre seară.",
+        "en": "Travel to Žminj by regional bus and discover the town at a slow pace. From the bus station, the historic core is just a few minutes' walk away. Visit the impressive St. Michael’s church and the medieval Kaštel. A cultural highlight is the Chakavian House, providing insight into the local dialect. After a hearty lunch in a konoba, there’s plenty of time for a relaxed stroll through the narrow streets before heading back by bus in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Žminj",
+            "tip": "Schneller Snack oder Kaffee nahe der Haltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Žminj",
+            "tip": "Gyors snack vagy kávé a megálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Žminj",
+            "tip": "O gustare rapidă sau o cafea lângă stație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Žminj",
+            "tip": "Quick snack or coffee near the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchgarten",
+            "tip": "Ein ruhiger Platz zum Warten auf den Bus.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templomkert",
+            "tip": "Csendes hely a buszra való várakozáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina bisericii",
+            "tip": "Un loc liniștit pentru a aștepta autobuzul.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Garden",
+            "tip": "A quiet spot to wait for your bus.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Nehmen Sie Proviant für die Busfahrt mit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Vásároljon útravalót a buszútra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria locală",
+            "tip": "Cumpărați provizii pentru drumul cu autobuzul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Buy some snacks for the bus ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busfahrpläne vorab, da die Verbindungen am Wochenende seltener sind.",
+          "Die Busse verbinden Žminj meist mit Pula, Rovinj und Pazin.",
+          "Kaufen Sie Tickets idealerweise direkt beim Fahrer oder online.",
+          "Die Haltestelle ist nicht überdacht, nehmen Sie einen Schirm mit."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, mert hétvégén ritkábbak a járatok.",
+          "A buszok többnyire Pulával, Rovinjjal és Pazinnal kötik össze Žminjt.",
+          "A jegyeket ideális esetben a sofőrnél vagy online vásárolja meg.",
+          "A megálló nem fedett, vigyen magával esernyőt."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece legăturile sunt mai rare în weekend.",
+          "Autobuzele fac legătura între Žminj și Pula, Rovinj sau Pazin.",
+          "Cumpărați biletele de la șofer sau online.",
+          "Stația nu este acoperită, luați o umbrelă cu voi."
+        ],
+        "en": [
+          "Check the bus schedules in advance, as connections are less frequent on weekends.",
+          "Buses mostly connect Žminj with Pula, Rovinj, and Pazin.",
+          "Buy tickets directly from the driver or online if possible.",
+          "The bus stop is not covered, so bring an umbrella for shade or rain."
+        ]
+      }
+    }
+  }
+}

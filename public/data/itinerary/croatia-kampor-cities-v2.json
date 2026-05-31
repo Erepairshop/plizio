@@ -1,0 +1,1100 @@
+{
+  "city_id": "croatia-kampor-cities-v2",
+  "anchor": {
+    "name": "Kampor",
+    "coords": [
+      44.79,
+      14.7103
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4.0,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Samostan sv. Eufemije",
+          "coords": [
+            44.7772,
+            14.7341
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Klosterbibliothek mit alten Handschriften.",
+            "hu": "Nézze meg a kolostor könyvtárának régi kéziratait.",
+            "ro": "Vizitați biblioteca mănăstirii cu manuscrise vechi.",
+            "en": "Visit the monastery library with ancient manuscripts."
+          }
+        },
+        {
+          "name": "Riva-Spaziergang",
+          "coords": [
+            44.783,
+            14.722
+          ],
+          "category": "harbor",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Fischerboote am frühen Morgen.",
+            "hu": "Élvezze a kilátást a halászhajókra kora reggel.",
+            "ro": "Bucurați-vă de vederea bărcii de pescuit dimineața devreme.",
+            "en": "Enjoy the view of the fishing boats in the early morning."
+          }
+        },
+        {
+          "name": "Spomen-park Kampor",
+          "coords": [
+            44.8051,
+            14.7082
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein Ort der Stille und des Gedenkens in der Natur.",
+            "hu": "A csend és az emlékezés helyszíne a természetben.",
+            "ro": "Un loc de liniște și amintire în natură.",
+            "en": "A place of silence and remembrance in nature."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            44.7925,
+            14.711
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 85,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch aus der Adria mit Mangold.",
+            "hu": "Kóstolja meg a friss adriai halat mángolddal.",
+            "ro": "Încercați pește proaspăt din Adria cu mangold.",
+            "en": "Try fresh Adriatic fish with Swiss chard."
+          }
+        },
+        {
+          "name": "Plaža Mel",
+          "coords": [
+            44.7918,
+            14.7095
+          ],
+          "category": "beach",
+          "arrive_at": "14:25",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ideal für Familien wegen des sehr flachen Wassers.",
+            "hu": "Ideális családoknak a nagyon sekély víz miatt.",
+            "ro": "Ideal pentru familii datorită apei foarte puțin adânci.",
+            "en": "Ideal for families due to the very shallow water."
+          }
+        },
+        {
+          "name": "Sonnenuntergang am Meer",
+          "coords": [
+            44.792,
+            14.708
+          ],
+          "category": "sunset",
+          "arrive_at": "17:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der schönste Blick auf die Bucht im Abendlicht.",
+            "hu": "A legszebb kilátás az öbölre az esti fényekben.",
+            "ro": "Cea mai frumoasă vedere a golfului în lumina serii.",
+            "en": "The best view of the bay in the evening light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Kampor beginnt kulturell am Kloster der Heiligen Eufemia, das stolz am Ende der Bucht wacht. Nach einem ruhigen Spaziergang entlang der Uferpromenade führt der Weg zum eindrucksvollen Gedenkpark. Den Nachmittag verbringen Sie entspannt am Sandstrand Mel, berühmt für sein seichtes Wasser, bevor Sie den Tag bei einem Glas lokalem Wein und dem Blick auf das glitzernde Meer ausklingen lassen.",
+        "hu": "A nap Kamporban kulturális élménnyel indul a Szent Eufémia kolostornál, amely büszkén őrzi az öböl bejáratát. A vízparti sétányon tett nyugodt séta után az út a megrendítő Emlékparkhoz vezet. A délutánt a Mel homokos strandján töltheti, amely sekély vizéről híres, majd a napot egy pohár helyi borral és a csillogó tenger látványával zárhatja a kikötőben.",
+        "ro": "Ziua în Kampor începe cultural la mănăstirea Sfânta Eufemia, care veghează mândră la capătul golfului. După o plimbare liniștită pe faleză, drumul duce la impresionantul Parc Memorial. După-amiaza o veți petrece relaxat pe plaja cu nisip Mel, faimoasă pentru apa sa puțin adâncă, înainte de a încheia ziua cu un pahar de vin local și vederea mării sclipitoare.",
+        "en": "Your day in Kampor begins culturally at the Monastery of St. Euphemia, standing guard at the end of the bay. After a quiet stroll along the waterfront promenade, the path leads to the moving Memorial Park. Spend the afternoon relaxing on the sandy Mel Beach, famous for its shallow water, before ending the day with a glass of local wine and the view of the glittering sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rabska torta",
+            "tip": "Traditionelle Mandeltorte der Insel Rab."
+          },
+          {
+            "name": "Frische Scampi",
+            "tip": "In einer Konoba direkt am Hafen genießen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rab-szigeti torta",
+            "tip": "Hagyományos mandulás sütemény a szigetről."
+          },
+          {
+            "name": "Friss skampi",
+            "tip": "Élvezze egy konobában közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tort de Rab",
+            "tip": "Tort tradițional cu migdale de pe insulă."
+          },
+          {
+            "name": "Scampi proaspeți",
+            "tip": "Savurați la o konoba direct în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rab Cake",
+            "tip": "Traditional almond cake from Rab island."
+          },
+          {
+            "name": "Fresh Scampi",
+            "tip": "Enjoy at a local konoba by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Ein Ort der Ruhe hinter alten Mauern.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mel-Bucht",
+            "tip": "Perfekt für einen meditativen Strandspaziergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "A béke szigete a régi falak mögött.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mel-öböl",
+            "tip": "Tökéletes egy meditatív tengerparti sétához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Un loc de liniște în spatele zidurilor vechi.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Golful Mel",
+            "tip": "Perfect pentru o plimbare meditativă pe plajă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Garden",
+            "tip": "A place of peace behind old walls.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Mel Bay",
+            "tip": "Perfect for a meditative beach walk.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Honig",
+            "tip": "Von lokalen Imkern aus Kampor."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Direkt von den Bauern der Insel Rab."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Háziméz",
+            "tip": "Helyi méhészektől Kamporból."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "Közvetlenül a Rab-szigeti gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de casă",
+            "tip": "De la apicultorii locali din Kampor."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Direct de la fermierii de pe insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Honey",
+            "tip": "From local beekeepers in Kampor."
+          },
+          {
+            "name": "Olive Oil",
+            "tip": "Directly from the farmers of Rab island."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kampor ist sehr flach, ideal für bequeme Spaziergänge.",
+          "Tragen Sie am Strand Mel Badeschuhe wegen kleiner Steine am Rand.",
+          "Das Kloster schließt oft über Mittag, kommen Sie früh.",
+          "Parken Sie im Dorfzentrum, wenn Sie zu Fuß weitergehen."
+        ],
+        "hu": [
+          "Kampor nagyon sík terület, ideális kényelmes sétákhoz.",
+          "A Mel strandon viseljen úszócipőt a széleken lévő kövek miatt.",
+          "A kolostor gyakran bezár délben, érkezzen korán.",
+          "Parkoljon a falu központjában, ha gyalog megy tovább."
+        ],
+        "ro": [
+          "Kampor este foarte plat, ideal pentru plimbări confortabile.",
+          "Purtați pantofi de apă pe plaja Mel din cauza pietrelor mici.",
+          "Mănăstirea se închide adesea la prânz, veniți devreme.",
+          "Parcați în centrul satului dacă mergeți pe jos."
+        ],
+        "en": [
+          "Kampor is very flat, ideal for comfortable walks.",
+          "Wear water shoes at Mel beach due to small stones at the edges.",
+          "The monastery often closes at noon, so arrive early.",
+          "Park in the village center if you plan to continue on foot."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12.0,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Samostan sv. Eufemije",
+          "coords": [
+            44.7772,
+            14.7341
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sicherer Fahrradständer vor dem Klostereingang.",
+            "hu": "Biztonságos biciklitároló a kolostor bejárata előtt.",
+            "ro": "Suport de biciclete securizat în fața mănăstirii.",
+            "en": "Secure bike rack in front of the monastery entrance."
+          }
+        },
+        {
+          "name": "Šuma Kalifront",
+          "coords": [
+            44.785,
+            14.675
+          ],
+          "category": "forest",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Wunderbare Waldwege im Schatten der Pinien.",
+            "hu": "Csodálatos erdei utak a fenyők árnyékában.",
+            "ro": "Trasee forestiere minunate la umbra pinilor.",
+            "en": "Wonderful forest trails in the shade of pines."
+          }
+        },
+        {
+          "name": "Espresso-Pause am Hafen",
+          "coords": [
+            44.792,
+            14.712
+          ],
+          "category": "cafe",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp vor dem nächsten Sight.",
+            "hu": "Rövid megálló a következő látnivaló előtt.",
+            "ro": "Scurtă oprire înainte de următoarea atracție.",
+            "en": "Short stop before the next sight."
+          }
+        },
+        {
+          "name": "Spomen-park Kampor",
+          "coords": [
+            44.8051,
+            14.7082
+          ],
+          "category": "historical",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Das Denkmal ist auch per Rad gut erreichbar.",
+            "hu": "Az emlékmű kerékpárral is könnyen megközelíthető.",
+            "ro": "Monumentul este ușor accesibil și cu bicicleta.",
+            "en": "The monument is easily accessible by bike."
+          }
+        },
+        {
+          "name": "Mittagessen in Kampor",
+          "coords": [
+            44.7925,
+            14.711
+          ],
+          "category": "gastro",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Kohlenhydrate tanken mit Pasta und Meeresfrüchten.",
+            "hu": "Töltődjön fel szénhidráttal: tészta és tenger gyümölcsei.",
+            "ro": "Reîncărcați cu carbohidrați: paste și fructe de mare.",
+            "en": "Refuel with carbs: pasta and seafood."
+          }
+        },
+        {
+          "name": "Plaža Mel",
+          "coords": [
+            44.7918,
+            14.7095
+          ],
+          "category": "beach",
+          "arrive_at": "14:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannung pur nach der Waldtour.",
+            "hu": "Tiszta relaxáció az erdei túra után.",
+            "ro": "Relaxare pură după turul pădurii.",
+            "en": "Pure relaxation after the forest tour."
+          }
+        },
+        {
+          "name": "Naplemente-pihenő",
+          "coords": [
+            44.792,
+            14.708
+          ],
+          "category": "sunset",
+          "arrive_at": "17:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Goldene Stunde am Rand der Bucht.",
+            "hu": "Aranyóra az öböl szélén.",
+            "ro": "Ora de aur la marginea golfului.",
+            "en": "Golden hour at the edge of the bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Kampor und die Halbinsel Kalifront auf zwei Rädern. Nach dem Start am Kloster radeln Sie tief in den geschützten Wald von Kalifront, wo kühle Luft und schattige Wege warten. Über den historischen Gedenkpark geht es zurück ins Dorf zum Mittagessen. Der Nachmittag gehört dem Strand Mel, bevor die goldene Stunde die Bucht in ein magisches Licht taucht.",
+        "hu": "Fedezze fel Kamport és a Kalifront-félszigetet két keréken. A kolostortól indulva tekerjen be a Kalifront védett erdejébe, ahol hűvös levegő és árnyas utak várják. A történelmi Emlékparkon keresztül térjen vissza a faluba ebédelni. A délután a Mel strandé, mielőtt az aranyóra mágikus fénybe öltözteti az öblöt.",
+        "ro": "Explorați Kampor și peninsula Kalifront pe două roți. După startul la mănăstire, pedalați adânc în pădurea protejată Kalifront, unde vă așteaptă aer răcoros și poteci umbrite. Prin Parcul Memorial istoric reveniți în sat pentru prânz. După-amiaza aparține plajei Mel, înainte ca ora de aur să scalde golful într-o lumină magică.",
+        "en": "Explore Kampor and the Kalifront peninsula on two wheels. Starting at the monastery, cycle deep into the protected Kalifront forest, where cool air and shaded paths await. Return to the village via the historical Memorial Park for lunch. The afternoon is dedicated to Mel Beach before the golden hour bathes the bay in magical light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hausgemachte Gnocchi",
+            "tip": "Mit Salbei und Butter, sehr nahrhaft."
+          },
+          {
+            "name": "Frischer Käse",
+            "tip": "Lokaler Schafskäse der Insel Rab."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi gnocchi",
+            "tip": "Zsályával és vajjal, nagyon tápláló."
+          },
+          {
+            "name": "Friss sajt",
+            "tip": "Helyi juhsajt Rab szigetéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gnocchi de casă",
+            "tip": "Cu salvie și unt, foarte nutritiv."
+          },
+          {
+            "name": "Brânză proaspătă",
+            "tip": "Brânză de oaie locală de pe insula Rab."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Gnocchi",
+            "tip": "With sage and butter, very nourishing."
+          },
+          {
+            "name": "Fresh Cheese",
+            "tip": "Local sheep cheese from Rab island."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kalifront-Wald",
+            "tip": "Absolute Stille unter uralten Eichen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Gedenkpark-Lichtung",
+            "tip": "Ein Ort zum Innehalten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kalifront-erdő",
+            "tip": "Teljes csend az ősi tölgyek alatt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Emlékpark tisztás",
+            "tip": "Egy hely az elmélyüléshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Kalifront",
+            "tip": "Liniște absolută sub stejari antici.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poiana Parcului Memorial",
+            "tip": "Un loc pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kalifront Forest",
+            "tip": "Absolute silence under ancient oaks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Memorial Park Clearing",
+            "tip": "A place for reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Getrocknete Feigen",
+            "tip": "Ein gesunder Snack für die Weiterfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szárított füge",
+            "tip": "Egészséges nasi a továbbúthoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smochine uscate",
+            "tip": "O gustare sănătoasă pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dried Figs",
+            "tip": "A healthy snack for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege im Kalifront-Wald sind teilweise schotterig.",
+          "Nehmen Sie genug Wasser mit, im Wald gibt es keine Kioske.",
+          "Fahrradverleih ist im Zentrum von Kampor möglich.",
+          "Achten Sie auf Wanderer in den engen Waldpassagen."
+        ],
+        "hu": [
+          "A Kalifront-erdő útjai részben kavicsosak.",
+          "Vigyen elég vizet, az erdőben nincsenek büfék.",
+          "Kerékpárkölcsönzés Kampor központjában lehetséges.",
+          "Ügyeljen a gyalogosokra a szűk erdei szakaszokon."
+        ],
+        "ro": [
+          "Potecile din pădurea Kalifront sunt parțial cu pietriș.",
+          "Luați suficientă apă, nu există chioșcuri în pădure.",
+          "Închirierea de biciclete este posibilă în centrul orașului Kampor.",
+          "Atenție la drumeți în pasajele înguste din pădure."
+        ],
+        "en": [
+          "Trails in Kalifront forest are partially gravelled.",
+          "Take enough water, there are no kiosks in the forest.",
+          "Bike rental is available in Kampor center.",
+          "Watch out for hikers in narrow forest sections."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Samostan sv. Eufemije",
+          "coords": [
+            44.7772,
+            14.7341
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt vor dem Kloster vorhanden.",
+            "hu": "Nagy parkoló közvetlenül a kolostor előtt.",
+            "ro": "Parcare mare disponibilă chiar în fața mănăstirii.",
+            "en": "Large parking lot available right in front of the monastery."
+          }
+        },
+        {
+          "name": "Küstenpanorama-Fahrt",
+          "coords": [
+            44.785,
+            14.72
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurzer Fotostopp mit Blick auf die Kampor-Bucht.",
+            "hu": "Rövid fotómegálló kilátással a Kampor-öbölre.",
+            "ro": "Scurtă oprire foto cu vedere la golful Kampor.",
+            "en": "Short photo stop with a view of Kampor bay."
+          }
+        },
+        {
+          "name": "Spomen-park Kampor",
+          "coords": [
+            44.8051,
+            14.7082
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bequemes Parken am Eingang des Parks.",
+            "hu": "Kényelmes parkolás a park bejáratánál.",
+            "ro": "Parcare convenabilă la intrarea în parc.",
+            "en": "Convenient parking at the park entrance."
+          }
+        },
+        {
+          "name": "Plaža Mel",
+          "coords": [
+            44.7918,
+            14.7095
+          ],
+          "category": "beach",
+          "arrive_at": "11:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto auf dem Strandparkplatz stehen.",
+            "hu": "Hagyja az autót a strand parkolójában.",
+            "ro": "Lăsați mașina în parcarea plajei.",
+            "en": "Leave your car in the beach parking lot."
+          }
+        },
+        {
+          "name": "Mittagessen in Strandnähe",
+          "coords": [
+            44.7925,
+            14.711
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Strand aus erreichbar.",
+            "hu": "Gyalogosan elérhető a strandtól.",
+            "ro": "Accesibil pe jos de la plajă.",
+            "en": "Accessible on foot from the beach."
+          }
+        },
+        {
+          "name": "Šuma Kalifront (Eingang)",
+          "coords": [
+            44.782,
+            14.685
+          ],
+          "category": "forest",
+          "arrive_at": "15:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Waldrand für einen Spaziergang.",
+            "hu": "Parkoljon az erdő szélén egy sétához.",
+            "ro": "Parcați la marginea pădurii pentru o plimbare.",
+            "en": "Park at the forest edge for a walk."
+          }
+        },
+        {
+          "name": "Abendessen im Dorf",
+          "coords": [
+            44.79,
+            14.71
+          ],
+          "category": "gastro",
+          "arrive_at": "17:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Abschluss des Tages in einer lokalen Taverne.",
+            "hu": "A nap zárása egy helyi tavernban.",
+            "ro": "Încheierea zilei într-o tavernă locală.",
+            "en": "Closing the day in a local tavern."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die Highlights von Kampor mühelos. Beginnen Sie am geschichtsträchtigen Kloster Eufemia, fahren Sie entlang der Panoramastraße zum Gedenkpark und verbringen Sie die Mittagszeit am Strand Mel. Ein Ausflug zum Rand des Kalifront-Waldes bietet Natur pur, bevor Sie bequem zurück ins Dorfzentrum für ein authentisches Abendessen fahren.",
+        "hu": "Autóval könnyedén felfedezheti Kampor legfontosabb látnivalóit. Kezdjen a patinás Eufémia kolostornál, autózzon végig a panorámaúton az Emlékparkig, és töltse a delet a Mel strandon. Egy kirándulás a Kalifront-erdő széléhez tiszta természetet kínál, mielőtt kényelmesen visszahajtana a falu központjába egy hiteles vacsorára.",
+        "ro": "Cu mașina veți explora atracțiile din Kampor fără efort. Începeți la mănăstirea istorică Eufemia, conduceți pe drumul panoramic spre Parcul Memorial și petreceți timpul prânzului pe plaja Mel. O excursie la marginea pădurii Kalifront oferă natură pură, înainte de a reveni confortabil în centrul satului pentru o cină autentică.",
+        "en": "By car, you can explore the highlights of Kampor effortlessly. Start at the historic Eufemia Monastery, drive along the panoramic road to the Memorial Park, and spend midday at Mel Beach. A trip to the edge of the Kalifront forest offers pure nature before driving back to the village center for an authentic dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lammfleisch unter der Peka",
+            "tip": "Spezialität der Insel, im Ofen gegart."
+          },
+          {
+            "name": "Hauswein",
+            "tip": "Probieren Sie den Weißwein der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bárányhús peka alatt",
+            "tip": "A sziget specialitása, kemencében sütve."
+          },
+          {
+            "name": "Ház bora",
+            "tip": "Kóstolja meg a régió fehérborát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel sub peka",
+            "tip": "Specialitate a insulei, gătită la cuptor."
+          },
+          {
+            "name": "Vinul casei",
+            "tip": "Încercați vinul alb al regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lamb under Peka",
+            "tip": "Island specialty, slow-cooked in the oven."
+          },
+          {
+            "name": "House Wine",
+            "tip": "Try the local white wine of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kalifront-Eingang",
+            "tip": "Ruhiger Parkplatz im Grünen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eufemia-Bucht",
+            "tip": "Stilles Wasser am Morgen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kalifront bejárat",
+            "tip": "Csendes parkoló a zöldben.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eufémia-öböl",
+            "tip": "Csendes víz reggelente.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Intrare Kalifront",
+            "tip": "Parcare liniștită în verdeață.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Golful Eufemia",
+            "tip": "Apă liniștită dimineața.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kalifront Entrance",
+            "tip": "Quiet parking in the green.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Eufemia Bay",
+            "tip": "Still water in the morning.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lavendel-Produkte",
+            "tip": "Duftsäckchen und Öle von der Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendula termékek",
+            "tip": "Illatzsákok és olajok a szigetről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse de lavandă",
+            "tip": "Săculeți parfumați și uleiuri de pe insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender Products",
+            "tip": "Scented bags and oils from the island."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen in Kampor sind eng, fahren Sie vorsichtig.",
+          "Parkgebühren am Strand Mel sind im Sommer üblich.",
+          "Tanken Sie in Rab Stadt, in Kampor gibt es keine Tankstelle.",
+          "Nutzen Sie Google Maps, einige Hausnummern sind verwirrend."
+        ],
+        "hu": [
+          "Az utak Kamporban szűkek, vezessen óvatosan.",
+          "A Mel strandon nyáron megszokott a parkolási díj.",
+          "Rab városában tankoljon, Kamporban nincs kút.",
+          "Használja a Google Maps-et, néhány házszám zavaró lehet."
+        ],
+        "ro": [
+          "Drumurile în Kampor sunt înguste, conduceți cu atenție.",
+          "Taxele de parcare pe plaja Mel sunt obișnuite vara.",
+          "Alimentați în orașul Rab, nu există benzinărie în Kampor.",
+          "Folosiți Google Maps, unele numere de casă sunt confuze."
+        ],
+        "en": [
+          "Roads in Kampor are narrow, so drive carefully.",
+          "Parking fees at Mel beach are common in summer.",
+          "Refuel in Rab town; there is no gas station in Kampor.",
+          "Use Google Maps as some house numbers can be confusing."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Samostan sv. Eufemije",
+          "coords": [
+            44.7772,
+            14.7341
+          ],
+          "category": "religious",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bushaltestelle ist ca. 5 Minuten Fußweg entfernt.",
+            "hu": "A buszmegálló kb. 5 perc sétára van.",
+            "ro": "Stația de autobuz este la aproximativ 5 minute de mers pe jos.",
+            "en": "The bus stop is about a 5-minute walk away."
+          }
+        },
+        {
+          "name": "Kampor Zentrum (Riva)",
+          "coords": [
+            44.79,
+            14.71
+          ],
+          "category": "harbor",
+          "arrive_at": "10:20",
+          "stay_min": 35,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Zentraler Knotenpunkt für den Inselbus.",
+            "hu": "A szigeti buszközlekedés központi csomópontja.",
+            "ro": "Nod central pentru autobuzul insulei.",
+            "en": "Central hub for the island bus."
+          }
+        },
+        {
+          "name": "Spomen-park Kampor",
+          "coords": [
+            44.8051,
+            14.7082
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fragen Sie den Fahrer nach dem Ausstieg am Park.",
+            "hu": "Kérdezze a sofőrt a parknál való leszállásról.",
+            "ro": "Întrebați șoferul despre coborârea la parc.",
+            "en": "Ask the driver for the park stop."
+          }
+        },
+        {
+          "name": "Mittagessen im Hafen",
+          "coords": [
+            44.7925,
+            14.711
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Viele Restaurants in Gehweite der Haltestelle.",
+            "hu": "Számos étterem sétatávolságra a megállótól.",
+            "ro": "Multe restaurante la mică distanță de stație.",
+            "en": "Many restaurants within walking distance of the stop."
+          }
+        },
+        {
+          "name": "Plaža Mel",
+          "coords": [
+            44.7918,
+            14.7095
+          ],
+          "category": "beach",
+          "arrive_at": "13:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bester Badestopp der Tour.",
+            "hu": "A túra legjobb fürdőhelye.",
+            "ro": "Cea mai bună oprire pentru înot din tur.",
+            "en": "Best swimming stop of the tour."
+          }
+        },
+        {
+          "name": "Souvenir-Stopp",
+          "coords": [
+            44.79,
+            14.71
+          ],
+          "category": "shopping",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kaufen Sie Postkarten vor der Rückfahrt.",
+            "hu": "Vásároljon képeslapokat a visszautazás előtt.",
+            "ro": "Cumpărați vederi înainte de plecare.",
+            "en": "Buy postcards before the return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den Inselbus von Rab, um die Schätze Kampors zu entdecken. Vom Kloster Eufemia führt Sie der Weg zum Hafen und weiter zum Gedenkpark. Nach einem gemütlichen Mittagessen verbringen Sie den Nachmittag am Sandstrand Mel. Diese stressfreie Variante ermöglicht es Ihnen, die Aussicht zu genießen, ohne sich um das Parken kümmern zu müssen.",
+        "hu": "Használja a Rab-szigeti buszt Kampor kincseinek felfedezéséhez. Az Eufémia kolostortól az út a kikötőbe, majd tovább az Emlékparkhoz vezet. Egy hangulatos ebéd után töltse a délutánt a Mel homokos strandján. Ez a stresszmentes változat lehetővé teszi, hogy élvezze a kilátást anélkül, hogy a parkolás miatt kellene aggódnia.",
+        "ro": "Folosiți autobuzul insulei din Rab pentru a descoperi comorile din Kampor. De la mănăstirea Eufemia, drumul vă duce la port și mai departe la Parcul Memorial. După un prânz plăcut, petreceți după-amiaza pe plaja cu nisip Mel. Această variantă fără stres vă permite să vă bucurați de priveliște fără să vă faceți griji pentru parcare.",
+        "en": "Use the Rab island bus to discover the treasures of Kampor. From the Eufemia Monastery, the path leads to the harbor and on to the Memorial Park. After a pleasant lunch, spend the afternoon at the sandy Mel Beach. This stress-free option allows you to enjoy the views without worrying about parking."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte-Salat",
+            "tip": "Leichtes Mittagessen für heiße Tage."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei saláta",
+            "tip": "Könnyű ebéd forró napokra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată de fructe de mare",
+            "tip": "Prânz ușor pentru zilele fierbinți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Salad",
+            "tip": "A light lunch for hot days."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Riva-Bänke",
+            "tip": "Hinsetzen und das Meer beobachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riva-padok",
+            "tip": "Üljön le és figyelje a tengert.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci pe faleză",
+            "tip": "Stați și observați marea.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riva Benches",
+            "tip": "Sit down and watch the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "In kleinen Läden nahe der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Kis boltokban a buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "În mici magazine lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Crafts",
+            "tip": "In small shops near the bus stop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Fahrplan des Inselbusses ändert sich je nach Saison.",
+          "Kaufen Sie Fahrkarten direkt beim Busfahrer.",
+          "In der Hochsaison können die Busse sehr voll sein.",
+          "Taxis sind eine gute Alternative, wenn der Bus nicht fährt."
+        ],
+        "hu": [
+          "A szigeti busz menetrendje évszakonként változik.",
+          "Vásároljon jegyet közvetlenül a sofőrnél.",
+          "Főszezonban a buszok nagyon zsúfoltak lehetnek.",
+          "A taxi jó alternatíva, ha a busz nem közlekedik."
+        ],
+        "ro": [
+          "Orarele autobuzelor se schimbă în funcție de sezon.",
+          "Cumpărați bilete direct de la șofer.",
+          "Autobuzele pot fi foarte aglomerate în plin sezon.",
+          "Taxiurile sunt o alternativă bună dacă autobuzul nu circulă."
+        ],
+        "en": [
+          "The island bus schedule changes according to the season.",
+          "Buy tickets directly from the bus driver.",
+          "Buses can be very crowded during high season.",
+          "Taxis are a good alternative if the bus is not running."
+        ]
+      }
+    }
+  }
+}

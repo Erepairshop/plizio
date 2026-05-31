@@ -1,0 +1,999 @@
+{
+  "city_id": "croatia-fazana-cities-v2",
+  "anchor": {
+    "name": "Fažana",
+    "coords": [
+      13.8042,
+      44.9281
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Stara jezgra Fažane",
+          "coords": [
+            13.8042,
+            44.9281
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Achten Sie auf die engen Gassen, die typisch für istrische Fischerdörfer sind.",
+            "hu": "Figyeljük meg a halászfalu szűk, középkori hangulatú sikátorait.",
+            "ro": "Observați străzile înguste specifice satelor de pescari din Istria.",
+            "en": "Notice the narrow alleys typical of Istrian fishing villages."
+          }
+        },
+        {
+          "name": "Crkva sv. Kuzme i Damjana",
+          "coords": [
+            13.8035,
+            44.9285
+          ],
+          "category": "religious",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Kirche liegt fast auf Meereshöhe direkt am Hafen.",
+            "hu": "A templom szinte a tengerszinten, közvetlenül a kikötőben áll.",
+            "ro": "Biserica se află aproape la nivelul mării, chiar lângă port.",
+            "en": "The church stands almost at sea level, right by the harbour."
+          }
+        },
+        {
+          "name": "Riva",
+          "coords": [
+            13.8028,
+            44.9275
+          ],
+          "category": "harbor",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hier legen die Boote zum Nationalpark Brijuni ab.",
+            "hu": "Innen indulnak a hajók a Brijuni Nemzeti Parkba.",
+            "ro": "De aici pleacă bărci către Parcul Național Brijuni.",
+            "en": "Boats to Brijuni National Park depart from this waterfront."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            13.8032,
+            44.9278
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie die berühmten gesalzenen Sardinen von Fažana.",
+            "hu": "Kóstolja meg a híres fažanai sózott szardíniát.",
+            "ro": "Gustați celebrele sardine sărate din Fažana.",
+            "en": "Try the famous salted sardines of Fažana."
+          }
+        },
+        {
+          "name": "Park skulptura",
+          "coords": [
+            13.8065,
+            44.9325
+          ],
+          "category": "park",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang im Schatten der Pinien mit moderner Kunst.",
+            "hu": "Kellemes séta a fenyőárnyékban modern művészeti alkotások között.",
+            "ro": "O plimbare plăcută la umbra pinilor printre sculpturi moderne.",
+            "en": "A pleasant walk in the pine shade among modern art sculptures."
+          }
+        },
+        {
+          "name": "Strandpause am Meer",
+          "coords": [
+            13.8075,
+            44.935
+          ],
+          "category": "beach",
+          "arrive_at": "15:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Wasser hier ist besonders klar und flach abfallend.",
+            "hu": "A víz itt különösen tiszta és lassan mélyül.",
+            "ro": "Apa este foarte limpede și se adâncește treptat aici.",
+            "en": "The water here is exceptionally clear and shallow."
+          }
+        },
+        {
+          "name": "Abendlicher Sonnenuntergang",
+          "coords": [
+            13.8025,
+            44.927
+          ],
+          "category": "sunset",
+          "arrive_at": "18:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Der Blick auf die Brijuni-Inseln bei Sonnenuntergang ist magisch.",
+            "hu": "A Brijuni-szigetek látványa naplementekor lenyűgöző.",
+            "ro": "Vedere asupra insulelor Brijuni la apus este spectaculoasă.",
+            "en": "The view of the Brijuni Islands at sunset is spectacular."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag gehört dem historischen Kern und der gotischen Kirche direkt am Meer. Mittags genießen wir die Fischertradition an der Riva bei einem Glas Malvazija. Der Nachmittag bietet Entspannung im Skulpturenpark und an den Kiesstränden mit Blick auf den Archipel. Den Tag lassen wir mit einem Gelato am Hafen ausklingen, während die Sonne hinter den Inseln versinkt.",
+        "hu": "A délelőttöt a történelmi óvárosban és a tengerparti gótikus templomnál töltjük. Ebédre a helyi halászati hagyományokat élvezzük a kikötőben egy pohár Malvazija mellett. Délután a szoborpark és a kavicsos strandok várnak, kilátással a szigetvilágra. A napot a parton fagylaltozva zárjuk, miközben a nap eltűnik a Brijuni-szigetek mögött.",
+        "ro": "Dimineața este dedicată centrului istoric și bisericii gotice de lângă mare. La prânz, ne bucurăm de tradiția pescuitului pe faleză, cu un pahar de Malvazija. După-amiaza oferă relaxare în parcul de sculpturi și pe plajele cu pietriș, cu vedere la arhipelag. Încheiem ziua cu o înghețată în port, urmărind cum soarele apune în spatele insulelor.",
+        "en": "Morning is dedicated to the historical core and the Gothic church by the sea. For lunch, enjoy the fishing traditions on the Riva with a glass of Malvazija. The afternoon offers relaxation in the sculpture park and on pebble beaches with views of the archipelago. End the day with gelato at the harbour as the sun sinks behind the Brijuni Islands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sardelle",
+            "tip": "Probieren Sie marinierte oder gegrillte Sardinen in einer lokalen Konoba."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szardínia",
+            "tip": "Kóstolja meg a marinált vagy sült szardíniát egy helyi konobában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sardine",
+            "tip": "Încercați sardinele marinate sau la grătar într-o konoba locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sardines",
+            "tip": "Try marinated or grilled sardines in a local konoba."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nordküste",
+            "tip": "Die Küste Richtung Peroj bietet ruhige Abschnitte.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Északi part",
+            "tip": "A Peroj felé vezető parti sétány csendesebb részeket kínál.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coasta de nord",
+            "tip": "Faleza spre Peroj oferă secțiuni liniștite.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "North Coast",
+            "tip": "The waterfront path towards Peroj offers quiet sections.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl",
+            "tip": "Fažana ist bekannt für erstklassiges istrisches Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj",
+            "tip": "Fažana híres a kiváló minőségű isztriai olívaolajáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline",
+            "tip": "Fažana este cunoscută pentru uleiul de măsline de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil",
+            "tip": "Fažana is known for its high-quality Istrian olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Buchen Sie die Brijuni-Fähre im Voraus, falls Sie einen Abstecher planen.",
+          "Parken Sie auf dem großen öffentlichen Parkplatz am nördlichen Ortseingang."
+        ],
+        "hu": [
+          "Foglalja le előre a Brijuni-kompot, ha át szeretne látogatni a szigetre.",
+          "Használja az északi bejáratnál található nagy nyilvános parkolót."
+        ],
+        "ro": [
+          "Rezervați feribotul către Brijuni în avans dacă plănuiți o vizită.",
+          "Parcați în marea parcare publică de la intrarea de nord în sat."
+        ],
+        "en": [
+          "Book the Brijuni ferry in advance if you plan a side trip.",
+          "Park in the large public parking lot at the northern entrance."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Stara jezgra Fažane",
+          "coords": [
+            13.8042,
+            44.9281
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahrräder müssen in den engsten Gassen geschoben werden.",
+            "hu": "A legszűkebb utcákban tolni kell a kerékpárt.",
+            "ro": "Bicicletele trebuie împinse pe străzile cele mai înguste.",
+            "en": "Bicycles must be pushed in the narrowest alleys."
+          }
+        },
+        {
+          "name": "Crkva sv. Kuzme i Damjana",
+          "coords": [
+            13.8035,
+            44.9285
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Parken Sie das Rad sicher vor der Kirche.",
+            "hu": "Zárja le biztonságosan a bringát a templom előtt.",
+            "ro": "Parcați bicicleta în siguranță în fața bisericii.",
+            "en": "Park the bike safely in front of the church."
+          }
+        },
+        {
+          "name": "Küstenradweg nach Valbandon",
+          "coords": [
+            13.815,
+            44.915
+          ],
+          "category": "nature",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Wunderschöner Weg entlang des Pinienwaldes.",
+            "hu": "Gyönyörű út a fenyőerdő mentén.",
+            "ro": "Traseu minunat de-a lungul pădurii de pini.",
+            "en": "Beautiful path along the pine forest."
+          }
+        },
+        {
+          "name": "Lunch am Strand",
+          "coords": [
+            13.818,
+            44.912
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Viele Strandbars bieten leichte Fischgerichte.",
+            "hu": "Sok strandbár kínál könnyű halételeket.",
+            "ro": "Multe baruri de plajă oferă preparate ușoare din pește.",
+            "en": "Many beach bars offer light fish dishes."
+          }
+        },
+        {
+          "name": "Park skulptura",
+          "coords": [
+            13.8065,
+            44.9325
+          ],
+          "category": "park",
+          "arrive_at": "13:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Einfach per Rad von der Hauptstraße erreichbar.",
+            "hu": "Kerékpárral könnyen elérhető a főútról.",
+            "ro": "Ușor accesibil cu bicicleta de la drumul principal.",
+            "en": "Easily accessible by bike from the main road."
+          }
+        },
+        {
+          "name": "Fahrt Richtung Peroj",
+          "coords": [
+            13.795,
+            44.945
+          ],
+          "category": "nature",
+          "arrive_at": "14:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Flacher Weg direkt am Meer entlang.",
+            "hu": "Sík terep közvetlenül a tengerparton.",
+            "ro": "Traseu plat chiar de-a lungul mării.",
+            "en": "Flat path directly along the seashore."
+          }
+        },
+        {
+          "name": "Badepause Pineta",
+          "coords": [
+            13.792,
+            44.948
+          ],
+          "category": "beach",
+          "arrive_at": "15:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ruhigerer Strandabschnitt nördlich von Fažana.",
+            "hu": "Csendesebb strand szakasz Fažanától északra.",
+            "ro": "Secțiune de plajă mai liniștită la nord de Fažana.",
+            "en": "Quieter beach section north of Fažana."
+          }
+        },
+        {
+          "name": "Riva",
+          "coords": [
+            13.8028,
+            44.9275
+          ],
+          "category": "harbor",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Geben Sie das Mietrad hier ab und genießen Sie den Hafen.",
+            "hu": "Adja le a bérelt bringát és élvezze a kikötőt.",
+            "ro": "Predați bicicleta închiriată și bucurați-vă de port.",
+            "en": "Return the rental bike here and enjoy the harbour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden wir die gesamte Küstenlinie von Valbandon bis Peroj. Morgens besuchen wir den Ortskern, fahren dann südwärts durch Pinienwälder zum Mittagessen. Der Nachmittag führt uns nach Norden zum Skulpturenpark und zu einsameren Stränden. Perfekt für aktive Reisende, die mehr als nur das Dorfzentrum sehen möchten.",
+        "hu": "Kerékpárral felfedezzük a teljes partvonalat Valbandontól Perojig. Reggel az óvárost látogatjuk meg, majd délnek tekerünk a fenyveseken át ebédelni. Délután észak felé vesszük az irányt a szoborparkhoz és az eldugottabb strandokhoz. Ideális azoknak, akik a faluközpontnál többet szeretnének látni.",
+        "ro": "Cu bicicleta explorăm întreaga linie de coastă de la Valbandon la Peroj. Dimineața vizităm centrul, apoi pedalăm spre sud prin păduri de pini pentru prânz. După-amiaza ne îndreptăm spre nord către parcul de sculpturi și plaje mai izolate. Perfect pentru călătorii activi care vor să vadă mai mult decât centrul satului.",
+        "en": "By bike, explore the entire coastline from Valbandon to Peroj. Visit the old town in the morning, then pedal south through pine forests for lunch. The afternoon leads north to the sculpture park and more secluded beaches. Perfect for active travellers wanting to see more than just the village centre."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Strandbars",
+            "tip": "Leichte Snacks und Eiskaffee in Valbandon."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beach bárok",
+            "tip": "Könnyű snackek és jegeskávé Valbandonban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Baruri de plajă",
+            "tip": "Gustări ușoare și cafea cu gheață în Valbandon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Bars",
+            "tip": "Light snacks and iced coffee in Valbandon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Peroj-Weg",
+            "tip": "Wenig Fußgänger am späten Nachmittag.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peroji út",
+            "tip": "Késő délután kevés a gyalogos.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul Peroj",
+            "tip": "Puțini pietoni după-amiaza târziu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Peroj Path",
+            "tip": "Few pedestrians in the late afternoon.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "In den umliegenden Weingütern per Rad erreichbar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "A környező borászatok bringával is elérhetők."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Vinării din jur accesibile cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wines",
+            "tip": "Wineries in the surroundings accessible by bike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Küstenweg ist flach und sehr einfach zu befahren.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Quellen unterwegs."
+        ],
+        "hu": [
+          "A parti út sík és nagyon könnyen járható.",
+          "Vigyen magával elég vizet, kevés a forrás az út mentén."
+        ],
+        "ro": [
+          "Traseul de coastă este plat și foarte ușor de parcurs.",
+          "Luați suficientă apă, sunt puține cișmele pe drum."
+        ],
+        "en": [
+          "The coastal path is flat and very easy to ride.",
+          "Bring enough water, as there are few fountains along the way."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Stara jezgra Fažane (Cluster A)",
+          "coords": [
+            13.8042,
+            44.9281
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Hauptparkplatz.",
+            "hu": "Parkoljon a nagy központi parkolóban.",
+            "ro": "Parcați în marea parcare centrală.",
+            "en": "Park in the large central parking lot."
+          }
+        },
+        {
+          "name": "Crkva sv. Kuzme i Damjana (Cluster A)",
+          "coords": [
+            13.8035,
+            44.9285
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolóból.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Accessible on foot from the parking lot."
+          }
+        },
+        {
+          "name": "Riva (Cluster A)",
+          "coords": [
+            13.8028,
+            44.9275
+          ],
+          "category": "harbor",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Boote.",
+            "hu": "Élvezze a hajók látványát.",
+            "ro": "Bucurați-vă de vederea bărcilor.",
+            "en": "Enjoy the view of the boats."
+          }
+        },
+        {
+          "name": "Mittagessen in Fažana",
+          "coords": [
+            13.803,
+            44.9275
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Meerblick.",
+            "hu": "Válasszon tengerre néző éttermet.",
+            "ro": "Alegeți un restaurant cu vedere la mare.",
+            "en": "Choose a restaurant with a sea view."
+          }
+        },
+        {
+          "name": "Park skulptura (Cluster B)",
+          "coords": [
+            13.8065,
+            44.9325
+          ],
+          "category": "park",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt nach Norden, Parkplätze vor Ort.",
+            "hu": "Rövid autózás északra, parkolás a helyszínen.",
+            "ro": "Scurtă călătorie spre nord, parcare la fața locului.",
+            "en": "Short drive north, parking available on site."
+          }
+        },
+        {
+          "name": "Aussichtspunkt Vodnjan (Cluster C)",
+          "coords": [
+            13.85,
+            44.96
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Panoramablick über die gesamte Küste und Inseln.",
+            "hu": "Panoráma kilátás az egész partra és szigetekre.",
+            "ro": "Vedere panoramică asupra întregii coaste și insule.",
+            "en": "Panoramic view over the entire coast and islands."
+          }
+        },
+        {
+          "name": "Strand Valbandon (Cluster D)",
+          "coords": [
+            13.815,
+            44.915
+          ],
+          "category": "beach",
+          "arrive_at": "15:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Großer Strand mit viel Schatten und Parkplätzen.",
+            "hu": "Tágas strand sok árnyékkal és parkolóval.",
+            "ro": "Plajă spațioasă cu multă umbră și parcare.",
+            "en": "Spacious beach with plenty of shade and parking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Auto ermöglicht uns einen Besuch der Highlights von Fažana sowie einen Abstecher ins hügelige Hinterland nach Vodnjan für einen Panoramablick. Vormittags erkunden wir den Ortskern zu Fuß, mittags speisen wir am Hafen. Der Nachmittag kombiniert Kunst im Skulpturenpark mit einer entspannten Badepause im nahegelegenen Valbandon.",
+        "hu": "Az autó lehetővé teszi Fažana látnivalóinak megtekintését és egy kitérőt a dombos hátországba, Vodnjanba a panoráma kedvéért. Délelőtt gyalogosan fedezzük fel az óvárost, ebéd a kikötőben. Délután a szoborpark művészetét és egy pihentető strandolást kombinálunk a közeli Valbandonban.",
+        "ro": "Mașina ne permite să vizităm punctele forte din Fažana și să facem o incursiune în hinterlandul deluros la Vodnjan pentru o panoramă. Dimineața explorăm centrul pe jos, prânzul este în port. După-amiaza combină arta din parcul de sculpturi cu o pauză relaxantă de plajă în Valbandonul apropiat.",
+        "en": "The car allows us to visit Fažana's highlights and take a detour to the hilly hinterland of Vodnjan for a panorama. Explore the town centre on foot in the morning, with lunch at the harbour. The afternoon combines art in the sculpture park with a relaxing beach break in nearby Valbandon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agroturizam",
+            "tip": "Besuchen Sie ein Landgut in Vodnjan für istrischen Schinken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agroturizmus",
+            "tip": "Látogasson el egy birtokra Vodnjanban isztriai sonkáért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agroturism",
+            "tip": "Vizitați o fermă în Vodnjan pentru prosciuto istriano."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agrotourism",
+            "tip": "Visit an estate in Vodnjan for Istrian prosciutto."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vodnjan Hügel",
+            "tip": "Ruhiger Blick fernab der Touristenströme.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vodnjani domb",
+            "tip": "Csendes kilátás távol a turisták tömegétől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Vodnjan",
+            "tip": "Vedere liniștită departe de masele de turiști.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vodnjan Hill",
+            "tip": "Quiet view away from the tourist crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ölmühlen",
+            "tip": "Direktverkauf von Olivenöl in Vodnjan."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olajütők",
+            "tip": "Közvetlen olívaolaj vásárlás Vodnjanban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Prese de ulei",
+            "tip": "Vânzare directă de ulei de măsline în Vodnjan."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oil Mills",
+            "tip": "Direct olive oil sales in Vodnjan."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Hochsaison sind Parkplätze direkt am Hafen schnell belegt.",
+          "Die Straßen im Hinterland sind schmal, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Főszezonban a kikötői parkolók hamar megtelnek.",
+          "A hátországi utak szűkek, vezessen óvatosan."
+        ],
+        "ro": [
+          "În sezonul de vârf, parcările din port se umplu rapid.",
+          "Drumurile din interior sunt înguste, conduceți cu atenție."
+        ],
+        "en": [
+          "In peak season, parking lots by the harbour fill up quickly.",
+          "Hinterland roads are narrow, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Ankunft Fažana Riva (Cluster A)",
+          "coords": [
+            13.8028,
+            44.9275
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentrale Haltestelle für Busse aus Pula.",
+            "hu": "Központi megálló a Pulából érkező buszoknak.",
+            "ro": "Stație centrală pentru autobuzele din Pula.",
+            "en": "Central stop for buses from Pula."
+          }
+        },
+        {
+          "name": "Stara jezgra Fažane (Cluster A)",
+          "coords": [
+            13.8042,
+            44.9281
+          ],
+          "category": "historical",
+          "arrive_at": "09:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Haltestelle entfernt.",
+            "hu": "Csak pár lépésre a megállótól.",
+            "ro": "La doar câțiva pași de stație.",
+            "en": "Just a few steps from the bus stop."
+          }
+        },
+        {
+          "name": "Crkva sv. Kuzme i Damjana (Cluster A)",
+          "coords": [
+            13.8035,
+            44.9285
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigung der gotischen Fresken.",
+            "hu": "Gótikus freskók megtekintése.",
+            "ro": "Vizitarea frescelor gotice.",
+            "en": "Viewing the Gothic frescoes."
+          }
+        },
+        {
+          "name": "Mittagessen am Hafen",
+          "coords": [
+            13.803,
+            44.9275
+          ],
+          "category": "gastro",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Frischer Fisch direkt von den Booten.",
+            "hu": "Friss hal közvetlenül a hajókról.",
+            "ro": "Pește proaspăt direct de pe bărci.",
+            "en": "Fresh fish directly from the boats."
+          }
+        },
+        {
+          "name": "Park skulptura (Cluster B)",
+          "coords": [
+            13.8065,
+            44.9325
+          ],
+          "category": "park",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schöner Spazierweg entlang der Küste.",
+            "hu": "Szép sétaút a part mentén.",
+            "ro": "Drum frumos de plimbare pe coastă.",
+            "en": "Nice walking path along the coast."
+          }
+        },
+        {
+          "name": "Badepause Pineta (Cluster B)",
+          "coords": [
+            13.792,
+            44.948
+          ],
+          "category": "beach",
+          "arrive_at": "14:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Strandshuttle falls vorhanden.",
+            "hu": "Használja a helyi strandbuszt, ha elérhető.",
+            "ro": "Folosiți microbuzul de plajă local dacă este disponibil.",
+            "en": "Use the local beach shuttle if available."
+          }
+        },
+        {
+          "name": "Rückfahrt von Riva",
+          "coords": [
+            13.8028,
+            44.9275
+          ],
+          "category": "transit",
+          "arrive_at": "17:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Fahrplan der Linie 21.",
+            "hu": "Ellenőrizze a 21-es busz menetrendjét.",
+            "ro": "Verificați mersul autobuzului linia 21.",
+            "en": "Check the schedule of line 21."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fažana ist hervorragend mit dem Bus 21 von Pula aus erreichbar. Vom Hafen-Terminal aus erkunden wir den historischen Kern und die Kirche. Nach einem ausgiebigen Mittagessen spazieren wir gemütlich am Meer entlang zum Skulpturenpark und genießen den Nachmittag am Strand von Pineta, bevor es per Transit zurückgeht.",
+        "hu": "Fažana kiválóan elérhető a 21-es busszal Pulából. A kikötői megállótól felfedezzük a történelmi magot és a templomot. Egy kiadós ebéd után kényelmesen elsétálunk a tenger mentén a szoborparkhoz, és a délutánt a Pineta strandon élvezzük, mielőtt visszaindulnánk.",
+        "ro": "Fažana este ușor accesibilă cu autobuzul 21 din Pula. De la terminalul din port, explorăm nucleul istoric și biserica. După un prânz copios, ne plimbăm lejer pe malul mării spre parcul de sculpturi și ne bucurăm de după-amiază pe plaja Pineta înainte de întoarcere.",
+        "en": "Fažana is easily accessible by bus 21 from Pula. From the harbour terminal, explore the historical core and the church. After a hearty lunch, take a leisurely stroll along the sea to the sculpture park and enjoy the afternoon at Pineta beach before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eisdielen",
+            "tip": "Viele gute Gelaterias direkt an der Riva."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fagylaltozók",
+            "tip": "Sok jó gelateria közvetlenül a Riván."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelaterii",
+            "tip": "Multe gelaterii bune chiar pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ice Cream",
+            "tip": "Many good gelaterias right on the Riva."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkbank am Hafen",
+            "tip": "Beobachten Sie das Treiben der Fischerboote.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői padok",
+            "tip": "Figyelje a halászhajók forgalmát.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci în port",
+            "tip": "Urmăriți activitatea bărcilor de pescuit.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbour Benches",
+            "tip": "Watch the activity of the fishing boats.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktstände",
+            "tip": "Lokale Produkte an der Riva am Abend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piaci standok",
+            "tip": "Helyi termékek a Riván esténként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standuri de piață",
+            "tip": "Local products on the Riva in the evening.",
+            "en": "Market Stalls"
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Stalls",
+            "tip": "Local products on the Riva in the evening."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten können direkt beim Fahrer gekauft werden.",
+          "Die Busse fahren im Sommer bis spät in die Nacht."
+        ],
+        "hu": [
+          "A jegyeket közvetlenül a sofőrnél lehet megvásárolni.",
+          "A buszok nyáron késő éjszakáig közlekednek."
+        ],
+        "ro": [
+          "Biletele pot fi cumpărate direct de la șofer.",
+          "Autobuzele circulă până târziu în noapte vara."
+        ],
+        "en": [
+          "Tickets can be purchased directly from the driver.",
+          "Buses run until late at night in the summer."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1012 @@
+{
+  "city_id": "croatia-visnjan-cities-v2",
+  "anchor": {
+    "name": "Višnjan",
+    "coords": [
+      13.72,
+      45.2761
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Gradska loža",
+          "coords": [
+            13.7198,
+            45.2763
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf das venezianische Löwenrelief.",
+            "hu": "Figyeld meg a velencei oroszlános domborművet.",
+            "ro": "Observați relieful leului venețian.",
+            "en": "Look for the Venetian lion relief."
+          }
+        },
+        {
+          "name": "Stari trg",
+          "coords": [
+            13.7202,
+            45.2762
+          ],
+          "category": "square",
+          "arrive_at": "09:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee unter den alten Platanen.",
+            "hu": "Igyál egy kávét az öreg platánok alatt.",
+            "ro": "Savurați o cafea sub platanii vechi.",
+            "en": "Enjoy a coffee under the old plane trees."
+          }
+        },
+        {
+          "name": "Crkva sv. Kvirika i Julite",
+          "coords": [
+            13.7205,
+            45.2758
+          ],
+          "category": "religious",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade aus dem 19. Jahrhundert.",
+            "hu": "Csodáld meg a 19. századi homlokzatot.",
+            "ro": "Admirați fațada din secolul al XIX-lea.",
+            "en": "Admire the 19th-century facade."
+          }
+        },
+        {
+          "name": "Ebéd egy konobában",
+          "coords": [
+            13.7215,
+            45.2755
+          ],
+          "category": "gastro",
+          "arrive_at": "11:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie Fuži mit Trüffeln.",
+            "hu": "Kóstold meg a szarvasgombás fuzit.",
+            "ro": "Încercați Fuži cu trufe.",
+            "en": "Try Fuži pasta with truffles."
+          }
+        },
+        {
+          "name": "Zvjezdarnica Višnjan",
+          "coords": [
+            13.722,
+            45.275
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Historisches Observatorium im Stadtzentrum.",
+            "hu": "Történelmi csillagvizsgáló a központban.",
+            "ro": "Observatorul istoric din centrul orașului.",
+            "en": "Historical observatory in the town center."
+          }
+        },
+        {
+          "name": "Borkóstoló egy helyi pincében",
+          "coords": [
+            13.718,
+            45.274
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestellen Sie eine Glas Malvazija.",
+            "hu": "Kérj egy pohár helyi malvaziját.",
+            "ro": "Comandați un pahar de Malvazija locală.",
+            "en": "Order a glass of local Malvazija wine."
+          }
+        },
+        {
+          "name": "Naplemente a városfalnál",
+          "coords": [
+            13.719,
+            45.276
+          ],
+          "category": "sunset",
+          "arrive_at": "15:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Panoramablick über die istrischen Weinberge.",
+            "hu": "Panoráma az isztriai szőlőültetvényekre.",
+            "ro": "Vedere panoramică asupra podgoriilor istriene.",
+            "en": "Panoramic view over Istrian vineyards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Višnjan empfängt Sie mit Ruhe und istrischem Charme. Der Morgen beginnt an der historischen Loggia und auf dem Hauptplatz, wo das venezianische Erbe in den Steinstrukturen lebendig ist. Mittags locken die herzhaften Düfte der lokalen Konobas mit Trüffeln und hausgemachter Pasta. Der Nachmittag ist der Wissenschaft gewidmet, mit einem Besuch des weltbekannten Observatoriums, bevor der Tag bei einem Glas Wein mit Blick auf die sanften Hügel Istriens ausklingt.",
+        "hu": "Višnjan nyugalommal és isztriai bájjal fogadja az utazót. A reggel a történelmi ložánál és a főtéren indul, ahol a kőépületekben ma is él a velencei örökség. Délben a helyi konobák szarvasgombás illata és a házi tészta csábít pihenőre. A délután a tudományé: látogatás a világhírű csillagvizsgálóban, majd a napot egy pohár borral zárjuk, miközben az isztriai dombok látványában gyönyörködünk.",
+        "ro": "Višnjan vă întâmpină cu liniște și farmec istrian. Dimineața începe la loja istorică și în piața principală, unde moștenirea venețiană este vizibilă în structurile de piatră. La prânz, aromele îmbietoare ale konobelor locale cu trufe și paste de casă vă invită la relaxare. După-amiaza este dedicată științei, cu o vizită la celebrul observator, înainte de a încheia ziua cu un pahar de vin privind dealurile blânde ale Istriei.",
+        "en": "Višnjan welcomes you with peace and Istrian charm. The morning starts at the historical loggia and the main square, where Venetian heritage lives on in the stone structures. At noon, the savory scents of local konobas with truffles and homemade pasta lure you for a break. The afternoon is dedicated to science with a visit to the world-renowned observatory, before ending the day with a glass of wine overlooking the rolling hills of Istria."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Borgonja",
+            "tip": "Hervorragende istrische Fleischgerichte."
+          },
+          {
+            "name": "Fuži mit Trüffeln",
+            "tip": "Die klassische Pastaspezialität der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Borgonja",
+            "tip": "Kiváló isztriai húsételek."
+          },
+          {
+            "name": "Szarvasgombás fuzi",
+            "tip": "A régió klasszikus tésztakülönlegessége."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Borgonja",
+            "tip": "Preparate din carne istriene excelente."
+          },
+          {
+            "name": "Fuži cu trufe",
+            "tip": "Specialitatea de paste clasică a regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Borgonja",
+            "tip": "Excellent Istrian meat dishes."
+          },
+          {
+            "name": "Fuži with truffles",
+            "tip": "The region's classic pasta specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Stadtmauer",
+            "tip": "Stiller Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Városfali kilátó",
+            "tip": "Csendes hely a naplemente nézéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere la zid",
+            "tip": "Loc liniștit pentru apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "City Wall Viewpoint",
+            "tip": "Quiet spot for watching the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Direkt bei den Erzeugern in der Umgebung kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásárolj közvetlenül a környékbeli termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați direct de la producătorii din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy directly from producers in the surrounding area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Višnjan ist klein, alles ist bequem zu Fuß erreichbar.",
+          "Parken Sie am Eingang der Altstadt.",
+          "Die Straßen sind gepflastert, tragen Sie bequeme Schuhe."
+        ],
+        "hu": [
+          "Višnjan kicsi, minden kényelmesen elérhető gyalog.",
+          "Parkolj az óváros bejáratánál.",
+          "Az utcák macskakövesek, viselj kényelmes cipőt."
+        ],
+        "ro": [
+          "Višnjan este mic, totul este ușor accesibil pe jos.",
+          "Parcați la intrarea în orașul vechi.",
+          "Străzile sunt pavate, purtați pantofi confortabili."
+        ],
+        "en": [
+          "Višnjan is small, everything is easily accessible on foot.",
+          "Park at the entrance to the old town.",
+          "The streets are cobbled, so wear comfortable shoes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Stari trg",
+          "coords": [
+            13.7202,
+            45.2762
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Startpunkt im Herzen des Dorfes.",
+            "hu": "Kiindulópont a falu szívében.",
+            "ro": "Punct de plecare în inima satului.",
+            "en": "Starting point in the heart of the village."
+          }
+        },
+        {
+          "name": "Gradska loža",
+          "coords": [
+            13.7198,
+            45.2763
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für Fotos der Loggia.",
+            "hu": "Rövid megálló a loža fotózásához.",
+            "ro": "Scurtă oprire pentru fotografii la lojă.",
+            "en": "Short stop for photos of the loggia."
+          }
+        },
+        {
+          "name": "Tekertetés a szőlőhegyen",
+          "coords": [
+            13.74,
+            45.28
+          ],
+          "category": "park",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ruhige Wege durch die Weinberge.",
+            "hu": "Csendes utak a szőlőültetvények között.",
+            "ro": "Poteci liniștite prin podgorii.",
+            "en": "Quiet paths through the vineyards."
+          }
+        },
+        {
+          "name": "Tičan - Új Csillagvizsgáló",
+          "coords": [
+            13.75,
+            45.29
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Das neue wissenschaftliche Zentrum von Višnjan.",
+            "hu": "Višnjan új tudományos központja.",
+            "ro": "Noul centru științific din Višnjan.",
+            "en": "The new scientific center of Višnjan."
+          }
+        },
+        {
+          "name": "Ebéd a faluban",
+          "coords": [
+            13.721,
+            45.275
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Energie tanken mit istrischer Küche.",
+            "hu": "Energiautánpótlás isztriai konyhával.",
+            "ro": "Reîncărcați-vă cu bucătăria istriană.",
+            "en": "Refuel with Istrian cuisine."
+          }
+        },
+        {
+          "name": "Crkva sv. Kvirika i Julite",
+          "coords": [
+            13.7205,
+            45.2758
+          ],
+          "category": "religious",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Abschlussbesuch der Pfarrkirche.",
+            "hu": "A plébániatemplom megtekintése zárásként.",
+            "ro": "Vizită finală la biserica parohială.",
+            "en": "Final visit to the parish church."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Višnjan und seine Umgebung auf zwei Rädern. Die Tour führt von den historischen Mauern hinaus in die grüne Landschaft Istriens. Sie radeln durch sanfte Weinberge bis zum neuen wissenschaftlichen Zentrum in Tičan. Nach der Rückkehr ins Dorf genießen Sie ein wohlverdientes Mittagessen und lassen die entspannte Atmosphäre der schmalen Gassen auf sich wirken.",
+        "hu": "Fedezd fel Višnjant és környékét két keréken. A túra a történelmi falaktól kivezet Isztria zöld tájaira. Szelíd szőlőültetvények között tekersz el a Tičan-i új tudományos központig. A faluba visszatérve egy jól megérdemelt ebéd vár, majd a szűk utcák nyugodt atmoszférája teszi teljessé a napot.",
+        "ro": "Explorați Višnjan și împrejurimile sale pe două roți. Turul duce de la zidurile istorice spre peisajele verzi ale Istriei. Veți pedala prin podgorii blânde până la noul centru științific din Tičan. După revenirea în sat, vă veți bucura de un prânz binemeritat și veți simți atmosfera relaxată a străzilor înguste.",
+        "en": "Explore Višnjan and its surroundings on two wheels. The tour leads from the historical walls out into the green landscapes of Istria. Cycle through gentle vineyards to the new scientific center in Tičan. Upon returning to the village, enjoy a well-deserved lunch and soak in the relaxed atmosphere of the narrow streets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agroturizam Selo",
+            "tip": "Hausgemachte Produkte vom Bauernhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agroturizam Selo",
+            "tip": "Házias termékek közvetlenül a farmról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agroturizam Selo",
+            "tip": "Produse de casă direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agroturizam Selo",
+            "tip": "Homemade products directly from the farm."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tičan Wald",
+            "tip": "Stille unter Eichen und Sternen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tičan-i erdő",
+            "tip": "Csend a tölgyek és csillagok alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea Tičan",
+            "tip": "Liniște sub stejari și stele.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tičan Forest",
+            "tip": "Silence under oaks and stars.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinboutique",
+            "tip": "Kaufen Sie eine Flasche Borgonja-Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borbolt",
+            "tip": "Vásárolj egy üveg Borgonja bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Boutique de vinuri",
+            "tip": "Cumpărați o sticlă de vin Borgonja."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine Boutique",
+            "tip": "Buy a bottle of Borgonja wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Hügel sind moderat, aber eine gute Kondition ist von Vorteil.",
+          "Nehmen Sie ausreichend Wasser für die Fahrt nach Tičan mit.",
+          "Die Wege sind teils geschottert, Mountainbike empfohlen."
+        ],
+        "hu": [
+          "A dombok lankásak, de a jó kondíció előny.",
+          "Vigyél elég vizet a Tičan-i útra.",
+          "Az utak néhol murvásak, mountainbike ajánlott."
+        ],
+        "ro": [
+          "Dealurile sunt moderate, dar o condiție fizică bună este un avantaj.",
+          "Luați suficientă apă pentru drumul spre Tičan.",
+          "Drumurile sunt parțial pietruite, se recomandă mountain bike."
+        ],
+        "en": [
+          "The hills are moderate, but good fitness is an advantage.",
+          "Take enough water for the ride to Tičan.",
+          "Some paths are gravel, so a mountain bike is recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 14.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Stari trg (Cluster Altstadt)",
+          "coords": [
+            13.7202,
+            45.2762
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Platz oder am Dorfeingang.",
+            "hu": "Parkolj a téren vagy a falu bejáratánál.",
+            "ro": "Parcați în piață sau la intrarea în sat.",
+            "en": "Park at the square or the village entrance."
+          }
+        },
+        {
+          "name": "Gradska loža",
+          "coords": [
+            13.7198,
+            45.2763
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Platz entfernt.",
+            "hu": "Csak egy rövid séta a tértől.",
+            "ro": "La doar o scurtă plimbare de piață.",
+            "en": "Just a short walk from the square."
+          }
+        },
+        {
+          "name": "Crkva sv. Kvirika i Julite",
+          "coords": [
+            13.7205,
+            45.2758
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigung des Kircheninneren.",
+            "hu": "A templombelső megtekintése.",
+            "ro": "Vizitarea interiorului bisericii.",
+            "en": "Visit the church interior."
+          }
+        },
+        {
+          "name": "Zvjezdarnica Višnjan (Zentrum)",
+          "coords": [
+            13.722,
+            45.275
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das alte Observatorium im historischen Kern.",
+            "hu": "A régi csillagvizsgáló a történelmi magban.",
+            "ro": "Vechiul observator din nucleul istoric.",
+            "en": "The old observatory in the historical core."
+          }
+        },
+        {
+          "name": "Mittagessen in der Altstadt",
+          "coords": [
+            13.721,
+            45.2755
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie istrische Spezialitäten.",
+            "hu": "Élvezd az isztriai specialitásokat.",
+            "ro": "Savurați specialități istriene.",
+            "en": "Enjoy Istrian specialties."
+          }
+        },
+        {
+          "name": "Tičan - Neues Observatorium (Cluster 2)",
+          "coords": [
+            13.75,
+            45.29
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Fahrt durch die malerische Landschaft.",
+            "hu": "Autózás a festői tájon keresztül.",
+            "ro": "Drum prin peisajul pitoresc.",
+            "en": "Drive through the picturesque landscape."
+          }
+        },
+        {
+          "name": "Aussichtspunkt Hügel",
+          "coords": [
+            13.752,
+            45.292
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Blick bis zur Adria bei klarem Wetter.",
+            "hu": "Tiszta időben az Adriáig látni.",
+            "ro": "Vedere până la Marea Adriatică pe vreme senină.",
+            "en": "View all the way to the Adriatic on a clear day."
+          }
+        },
+        {
+          "name": "Helyi borterasz",
+          "coords": [
+            13.73,
+            45.27
+          ],
+          "category": "gastro",
+          "arrive_at": "15:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Ein letztes Glas Wein vor der Rückreise.",
+            "hu": "Egy utolsó pohár bor a visszaindulás előtt.",
+            "ro": "Un ultim pahar de vin înainte de plecare.",
+            "en": "A final glass of wine before the return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die Highlights von Višnjan und das wissenschaftliche Umland. Der Vormittag gehört der Altstadt: Ein Cluster aus Platz, Loggia und dem historischen Observatorium lässt sich bequem zu Fuß erkunden. Nach einem traditionellen Mittagessen führt eine kurze Fahrt nach Tičan zum modernen Observatorium. Den Tag beenden Sie auf einem Borterasz mit Blick auf die Weinberge, die Višnjan wie ein grüner Gürtel umschließen.",
+        "hu": "Autóval fedezheted fel Višnjan látnivalóit és tudományos környezetét. A délelőtt az óvárosé: a főtér, a loža és a történelmi csillagvizsgáló egy kupacban, gyalogosan is bejárható. Egy hagyományos ebéd után rövid autózás következik Tičanba, a modern obszervatóriumhoz. A napot egy borteraszon zárjuk, rálátással a Višnjant zöld övként körülölelő szőlőültetvényekre.",
+        "ro": "Cu mașina veți descoperi punctele forte din Višnjan și împrejurimile științifice. Dimineața aparține orașului vechi: un cluster format din piață, lojă și observatorul istoric poate fi explorat ușor pe jos. După un prânz tradițional, o scurtă călătorie duce la Tičan, la observatorul modern. Ziua se încheie pe o terasă de vinuri cu vedere la podgoriile care înconjoară Višnjan ca o centură verde.",
+        "en": "By car, you will discover the highlights of Višnjan and its scientific surroundings. The morning is dedicated to the old town: a cluster consisting of the square, loggia, and the historical observatory can be easily explored on foot. After a traditional lunch, a short drive leads to Tičan to the modern observatory. You will end the day at a wine terrace overlooking the vineyards that surround Višnjan like a green belt."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Borgonja Višnjan",
+            "tip": "Probieren Sie den Ombolo (istrisches Schweinefilet)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borgonja Višnjan",
+            "tip": "Kóstold meg az ombolót (isztriai sertéskaraj)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Borgonja Višnjan",
+            "tip": "Încercați Ombolo (cotlet de porc istrian)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Borgonja Višnjan",
+            "tip": "Try the Ombolo (Istrian pork loin)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tičan Sternwarte",
+            "tip": "Sehr ruhige Umgebung weitab vom Verkehr.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tičan-i csillagvizsgáló",
+            "tip": "Nagyon csendes környezet távol a forgalomtól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Observatorul Tičan",
+            "tip": "Mediu foarte liniștit, departe de trafic.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tičan Observatory",
+            "tip": "Very quiet environment far from traffic.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Bekannt für Qualität in der Region Porečština."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Híres a minőségéről a Porečština régióban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Cunoscută pentru calitate în regiunea Porečština."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Known for quality in the Porečština region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße nach Tičan ist gut ausgebaut, aber schmal.",
+          "In der Altstadt von Višnjan ist das Parken begrenzt.",
+          "Kombinieren Sie den Besuch mit einer Weinprobe in der Nähe."
+        ],
+        "hu": [
+          "A Tičanba vezető út jól karbantartott, de keskeny.",
+          "Višnjan óvárosában korlátozott a parkolás.",
+          "Kombináld a látogatást egy közeli borkóstolóval."
+        ],
+        "ro": [
+          "Drumul către Tičan este bine întreținut, dar îngust.",
+          "Parcarea este limitată în orașul vechi din Višnjan.",
+          "Combinați vizita cu o degustare de vinuri în apropiere."
+        ],
+        "en": [
+          "The road to Tičan is well-maintained but narrow.",
+          "Parking is limited in the old town of Višnjan.",
+          "Combine the visit with a wine tasting nearby."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Višnjan Busbahnhof",
+          "coords": [
+            13.723,
+            45.274
+          ],
+          "category": "transport",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ankunft mit dem Bus aus Poreč.",
+            "hu": "Érkezés busszal Poreč felől.",
+            "ro": "Sosire cu autobuzul dinspre Poreč.",
+            "en": "Arrival by bus from Poreč."
+          }
+        },
+        {
+          "name": "Stari trg",
+          "coords": [
+            13.7202,
+            45.2762
+          ],
+          "category": "square",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das gesellschaftliche Zentrum des Ortes.",
+            "hu": "A település társadalmi központja.",
+            "ro": "Centrul social al localității.",
+            "en": "The social center of the village."
+          }
+        },
+        {
+          "name": "Gradska loža",
+          "coords": [
+            13.7198,
+            45.2763
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schattiger Ort mit Geschichte.",
+            "hu": "Árnyas hely nagy múlttal.",
+            "ro": "Loc umbros cu istorie bogată.",
+            "en": "Shady spot with history."
+          }
+        },
+        {
+          "name": "Crkva sv. Kvirika i Julite",
+          "coords": [
+            13.7205,
+            45.2758
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Friedliche Atmosphäre im Inneren.",
+            "hu": "Békés atmoszféra odabent.",
+            "ro": "Atmosferă pașnică în interior.",
+            "en": "Peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": "Közös ebéd egy étteremben",
+          "coords": [
+            13.721,
+            45.275
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fragen Sie nach dem Tagesmenü (Marenda).",
+            "hu": "Kérdezd a napi menüt (marenda).",
+            "ro": "Întrebați de meniul zilei (marenda).",
+            "en": "Ask for the daily menu (marenda)."
+          }
+        },
+        {
+          "name": "Zvjezdarnica Višnjan",
+          "coords": [
+            13.722,
+            45.275
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Asteroiden-Entdeckungen.",
+            "hu": "Tudj meg többet az aszteroida-felfedezésekről.",
+            "ro": "Aflați mai multe despre descoperirile de asteroizi.",
+            "en": "Learn about the asteroid discoveries."
+          }
+        },
+        {
+          "name": "Séta a falu szélére",
+          "coords": [
+            13.725,
+            45.273
+          ],
+          "category": "park",
+          "arrive_at": "15:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Blick auf die Olivenhaine vor der Abfahrt.",
+            "hu": "Kilátás az olajfaligetekre az indulás előtt.",
+            "ro": "Vedere asupra livezilor de măslini înainte de plecare.",
+            "en": "View of the olive groves before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Višnjan ist ideal für einen entspannten Tagesausflug mit öffentlichen Verkehrsmitteln. Nach der Ankunft mit dem Regionalbus liegt das kompakte historische Zentrum direkt vor Ihnen. Der Tag fließt ruhig dahin, zwischen den schattigen Steinmauern der Loggia, der neoklassizistischen Kirche und dem berühmten Observatorium. Ein langes Mittagessen in einer Konoba gehört ebenso dazu wie ein abschließender Spaziergang am Dorfrand, bevor der Bus zurück an die Küste fährt.",
+        "hu": "Višnjan ideális egy pihentető egynapos kiránduláshoz tömegközlekedéssel. A helyközi buszról leszállva a kompakt történelmi központ azonnal elérhető. A nap nyugodtan telik a loža hűvös kőfalai, a neoklasszicista templom és a híres csillagvizsgáló között. Egy hosszú ebéd a konobában éppúgy a program része, mint egy záró séta a falu szélén, mielőtt a busz visszaindul a part felé.",
+        "ro": "Višnjan este ideal pentru o excursie relaxantă de o zi cu transportul public. După sosirea cu autobuzul regional, centrul istoric compact este imediat accesibil. Ziua trece liniștit între zidurile de piatră ale lojei, biserica neoclasică și celebrul observator. Un prânz lung într-o konoba face parte din program, la fel ca o plimbare finală la marginea satului înainte ca autobuzul să plece înapoi spre coastă.",
+        "en": "Višnjan is ideal for a relaxing day trip by public transport. After arriving by regional bus, the compact historical center is immediately accessible. The day flows calmly between the cool stone walls of the loggia, the neoclassical church, and the famous observatory. A long lunch in a konoba is as much a part of the program as a final walk on the edge of the village before the bus departs back to the coast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Višnjan",
+            "tip": "Sehr gute Pizzen mit lokalem Belag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria Višnjan",
+            "tip": "Nagyon jó pizzák helyi feltétekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Višnjan",
+            "tip": "Pizza foarte bună cu ingrediente locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Višnjan",
+            "tip": "Very good pizzas with local toppings."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfarrgarten",
+            "tip": "Ruhiger Platz hinter der Kirche.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plébániakert",
+            "tip": "Csendes hely a templom mögött.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina parohială",
+            "tip": "Loc liniștit în spatele bisericii.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parish Garden",
+            "tip": "Quiet spot behind the church.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frisches Obst und Gemüse je nach Saison."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss gyümölcs és zöldség szezon szerint."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe și legume proaspete în funcție de sezon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fresh fruit and vegetables according to season."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan nach Poreč im Voraus.",
+          "Die Bushaltestelle ist nur wenige Gehminuten vom Zentrum entfernt.",
+          "Am Wochenende verkehren weniger Busse."
+        ],
+        "hu": [
+          "Előre ellenőrizd a Porečbe tartó busz menetrendjét.",
+          "A buszmegálló csak pár perc séta a központtól.",
+          "Hétvégén ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor spre Poreč în avans.",
+          "Stația de autobuz este la doar câteva minute de mers pe jos de centru.",
+          "Sunt mai puține autobuze în weekend."
+        ],
+        "en": [
+          "Check the bus schedule to Poreč in advance.",
+          "The bus stop is only a few minutes' walk from the center.",
+          "Buses run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1120 @@
+{
+  "city_id": "croatia-podbablje-cities-v2",
+  "anchor": {
+    "name": "Podbablje",
+    "coords": [
+      17.1761,
+      43.4169
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4.0,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Lokales Café im Zentrum",
+            "hu": "Helyi kávézó a központban",
+            "ro": "Cafenea locală în centru",
+            "en": "Local Café in the Center"
+          },
+          "coords": [
+            17.1761,
+            43.4169
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestellen Sie einen Espresso wie die Einheimischen.",
+            "hu": "Rendelj egy eszpresszót a helyiek módjára.",
+            "ro": "Comandă un espresso ca localnicii.",
+            "en": "Order an espresso like the locals do."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva sv. Luke",
+            "hu": "Szent Lukács-templom",
+            "ro": "Biserica Sf. Luca",
+            "en": "Church of St. Luke"
+          },
+          "coords": [
+            17.1765,
+            43.4175
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine ruhige Steinkirche mit lokaler Bedeutung.",
+            "hu": "Csendes kőtemplom helyi jelentőséggel.",
+            "ro": "O biserică de piatră liniștită, cu importanță locală.",
+            "en": "A quiet stone church with local significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfspaziergang durch Podbablje",
+            "hu": "Falusi séta Podbablje utcáin",
+            "ro": "Plimbare prin satul Podbablje",
+            "en": "Village Stroll through Podbablje"
+          },
+          "coords": [
+            17.178,
+            43.4185
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die traditionelle Architektur der Region.",
+            "hu": "Figyeld meg a régió hagyományos építészetét.",
+            "ro": "Observă arhitectura tradițională a regiunii.",
+            "en": "Observe the traditional architecture of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Konoba",
+            "hu": "Ebéd egy konobában",
+            "ro": "Prânz la o konoba",
+            "en": "Lunch in a Konoba"
+          },
+          "coords": [
+            17.181,
+            43.4205
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Probieren Sie Peka, falls im Voraus bestellt.",
+            "hu": "Kóstold meg a pekát, ha előre rendeltél.",
+            "ro": "Încearcă peka, dacă ai comandat în avans.",
+            "en": "Try peka if ordered in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamenmost",
+            "hu": "Kamenmost (Kőhíd)",
+            "ro": "Kamenmost (Podul de Piatră)",
+            "en": "Kamenmost (Stone Bridge)"
+          },
+          "coords": [
+            17.1983,
+            43.4285
+          ],
+          "category": "landmark",
+          "arrive_at": "14:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein historisches Bauwerk über dem Fluss.",
+            "hu": "Történelmi építmény a folyó felett.",
+            "ro": "O structură istorică peste râu.",
+            "en": "A historical structure over the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Rijeka Vrljika",
+            "hu": "Vrljika-folyó partja",
+            "ro": "Râul Vrljika",
+            "en": "Vrljika River Bank"
+          },
+          "coords": [
+            17.195,
+            43.425
+          ],
+          "category": "river",
+          "arrive_at": "14:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie das kühle, klare Wasser.",
+            "hu": "Élvezd a hűvös, tiszta vizet.",
+            "ro": "Bucură-te de apa rece și limpede.",
+            "en": "Enjoy the cool, clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Vidikovac",
+            "hu": "Vidikovac kilátópont",
+            "ro": "Punctul de belvedere Vidikovac",
+            "en": "Vidikovac Viewpoint"
+          },
+          "coords": [
+            17.165,
+            43.425
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Fotos vom Imotski-Feld.",
+            "hu": "Tökéletes hely fotózni az Imotski-mezőt.",
+            "ro": "Locul perfect pentru fotografii cu câmpul Imotski.",
+            "en": "Perfect spot for photos of the Imotski field."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschlusspause",
+            "hu": "Búcsúpihenő",
+            "ro": "Pauză de final",
+            "en": "Final Rest"
+          },
+          "coords": [
+            17.1761,
+            43.4169
+          ],
+          "category": "gastro",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein letztes Getränk vor der Abreise.",
+            "hu": "Egy utolsó ital indulás előtt.",
+            "ro": "O ultimă băutură înainte de plecare.",
+            "en": "One last drink before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Podbablje mit einem gemütlichen Kaffee im Dorfzentrum, bevor Sie die historische St.-Lukas-Kirche besuchen. Ein Spaziergang durch die traditionellen Gassen führt Sie zur Mittagszeit in eine lokale Konoba. Den Nachmittag verbringen Sie an der beeindruckenden Steinbrücke Kamenmost und am Ufer des glasklaren Flusses Vrljika. Zum Abschluss genießen Sie den weiten Blick vom Vidikovac über das fruchtbare Imotski-Feld.",
+        "hu": "Kezdje a napot Podbablje központjában egy kényelmes kávéval, majd látogasson el a Szent Lukács-templomba. Egy falusi séta után délben kóstolja meg a helyi ízeket egy konobában. A délutánt a történelmi Kamenmost kőhídnál és a Vrljika-folyó frissítő partján töltheti. A napot a Vidikovac kilátópontnál zárja, ahonnan lenyűgöző panoráma nyílik az egész Imotski-mezőre.",
+        "ro": "Începeți ziua în centrul localității Podbablje cu o cafea relaxantă, urmată de o vizită la Biserica Sf. Luca. După o plimbare prin sat, bucurați-vă de un prânz tradițional la o konoba. După-amiaza este dedicată podului istoric Kamenmost și malurilor limpezi ale râului Vrljika. Încheiați ziua la punctul de belvedere Vidikovac, admirând vederea panoramică asupra câmpului Imotski.",
+        "en": "Start your day in Podbablje with a leisurely coffee in the center, followed by a visit to the historic St. Luke's Church. After a village stroll, enjoy a traditional lunch at a local konoba. Spend the afternoon at the historic Kamenmost stone bridge and by the crystal-clear waters of the Vrljika River. Finish the day at the Vidikovac viewpoint, taking in the wide panorama of the Imotski field."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Konoba",
+            "tip": "Probieren Sie dalmatinischen Schinken und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi Konoba",
+            "tip": "Kóstold meg a dalmát sonkát és sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba locală",
+            "tip": "Încearcă șunca și brânza dalmată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Konoba",
+            "tip": "Try the Dalmatian prosciutto and cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vrljika Ufer",
+            "tip": "Ruhiger Ort am fließenden Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrljika-part",
+            "tip": "Csendes hely a folyóvíz mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Vrljika",
+            "tip": "Loc liniștit lângă apa curgătoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vrljika Riverbank",
+            "tip": "Quiet spot by the flowing water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Kaufen Sie lokales Olivenöl und Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásárolj helyi olívaolajat és bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpără ulei de măsline și vin local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy local olive oil and wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Dorfwege.",
+          "Die Region ist im Sommer sehr heiß, nehmen Sie Wasser mit."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt a falusi utakhoz.",
+          "A régió nyáron nagyon forró, vigyél magaddal vizet."
+        ],
+        "ro": [
+          "Poartă încălțăminte confortabilă pentru drumurile din sat.",
+          "Regiunea este foarte caldă vara, ia apă cu tine."
+        ],
+        "en": [
+          "Wear comfortable shoes for the village paths.",
+          "The region is very hot in summer, bring water with you."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12.0,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Frühstück im Dorf",
+            "hu": "Reggeli a faluban",
+            "ro": "Mic dejun în sat",
+            "en": "Breakfast in the Village"
+          },
+          "coords": [
+            17.1761,
+            43.4169
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie mit frischem Gebäck.",
+            "hu": "Kezd a napot friss pékáruval.",
+            "ro": "Începe ziua cu produse de patiserie proaspete.",
+            "en": "Start the day with fresh pastries."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva sv. Luke",
+            "hu": "Szent Lukács-templom",
+            "ro": "Biserica Sf. Luca",
+            "en": "Church of St. Luke"
+          },
+          "coords": [
+            17.1765,
+            43.4175
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sicherer Abstellplatz für Fahrräder vorhanden.",
+            "hu": "Biztonságos biciklitároló a közelben.",
+            "ro": "Loc sigur de parcare pentru biciclete în apropiere.",
+            "en": "Secure bike parking available nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Radfahrt entlang der Vrljika",
+            "hu": "Kerékpározás a Vrljika mentén",
+            "ro": "Ciclism de-a lungul râului Vrljika",
+            "en": "Cycling along the Vrljika"
+          },
+          "coords": [
+            17.185,
+            43.42
+          ],
+          "category": "river",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Flache Wege ideal für entspanntes Fahren.",
+            "hu": "Lapos utak, ideálisak a kényelmes tekeréshez.",
+            "ro": "Trasee plate, ideale pentru o plimbare relaxantă.",
+            "en": "Flat paths ideal for relaxed riding."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamenmost",
+            "hu": "Kamenmost (Kőhíd)",
+            "ro": "Kamenmost (Podul de Piatră)",
+            "en": "Kamenmost (Stone Bridge)"
+          },
+          "coords": [
+            17.1983,
+            43.4285
+          ],
+          "category": "landmark",
+          "arrive_at": "12:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Guter Fotostopp auf der Brücke.",
+            "hu": "Jó fotómegálló a hídon.",
+            "ro": "Un loc bun pentru fotografii pe pod.",
+            "en": "Good photo stop on the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen und Pause",
+            "hu": "Ebéd és pihenő",
+            "ro": "Prânz și odihnă",
+            "en": "Lunch and Rest"
+          },
+          "coords": [
+            17.181,
+            43.4205
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Füllen Sie Ihre Wasserflaschen auf.",
+            "hu": "Töltsd fel a vizeskulacsodat.",
+            "ro": "Umple-ți sticlele cu apă.",
+            "en": "Refill your water bottles."
+          }
+        },
+        {
+          "name": {
+            "de": "Auffahrt zum Vidikovac",
+            "hu": "Tekerés a Vidikovac kilátóhoz",
+            "ro": "Urcare către Vidikovac",
+            "en": "Ride to Vidikovac Viewpoint"
+          },
+          "coords": [
+            17.165,
+            43.425
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurzer, aber steiler Anstieg am Ende.",
+            "hu": "Rövid, de meredek emelkedő a végén.",
+            "ro": "Urcare scurtă dar abruptă la final.",
+            "en": "Short but steep climb at the end."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr ins Dorf",
+            "hu": "Visszatérés a faluba",
+            "ro": "Întoarcerea în sat",
+            "en": "Return to Village"
+          },
+          "coords": [
+            17.1761,
+            43.4169
+          ],
+          "category": "gastro",
+          "arrive_at": "15:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie nach der Tour.",
+            "hu": "Lazíts a túra után.",
+            "ro": "Relaxează-te după tur.",
+            "en": "Relax after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die Umgebung von Podbablje mit dem Fahrrad. Starten Sie im Zentrum und besuchen Sie die Kirche, bevor Sie auf flachen Wegen entlang des Flusses Vrljika fahren. Überqueren Sie die historische Steinbrücke Kamenmost und genießen Sie ein herzhaftes Mittagessen. Nach einem kurzen Anstieg zum Vidikovac werden Sie mit einem Panoramablick belohnt, bevor Sie entspannt ins Dorf zurückkehren.",
+        "hu": "Fedezze fel Podbablje környékét kerékpárral. Kezdjen a központban, látogassa meg a templomot, majd tekerjen a Vrljika-folyó menti sík utakon. Haladjon át a történelmi Kamenmost kőhídon, és élvezze a kiadós ebédet. Egy rövid emelkedő után a Vidikovac kilátópontnál panorámás kilátás lesz a jutalma, mielőtt visszatérne a faluba.",
+        "ro": "Explorați împrejurimile localității Podbablje cu bicicleta. Începeți în centru, vizitați biserica, apoi pedalați pe drumurile plate de-a lungul râului Vrljika. Traversați podul istoric de piatră Kamenmost și bucurați-vă de un prânz copios. După o scurtă urcare către Vidikovac, veți fi răsplătiți cu o vedere panoramică înainte de a reveni relaxați în sat.",
+        "en": "Explore the surroundings of Podbablje by bike. Start in the center, visit the church, then ride on flat paths along the Vrljika River. Cross the historic Kamenmost stone bridge and enjoy a hearty lunch. After a short climb to the Vidikovac viewpoint, you'll be rewarded with a panoramic view before returning to the village for a rest."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Wein",
+            "tip": "Probieren Sie die lokalen Sorten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi bor",
+            "tip": "Kóstold meg a helyi fajtákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de casă",
+            "tip": "Încearcă soiurile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Wine",
+            "tip": "Try the local varieties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flusspfade",
+            "tip": "Ideal für eine ruhige Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti ösvények",
+            "tip": "Ideális egy csendes pihenőhöz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci pe malul râului",
+            "tip": "Ideal pentru o pauză liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Paths",
+            "tip": "Ideal for a quiet break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte",
+            "tip": "Direkt bei den Bauern kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Vásárolj közvetlenül a gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Cumpără direct de la fermieri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Products",
+            "tip": "Buy directly from the farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Abfahrt.",
+          "Bleiben Sie auf den markierten Wegen im Feld."
+        ],
+        "hu": [
+          "Ellenőrizd a guminyomást indulás előtt.",
+          "Maradj a kijelölt utakon a mezőn."
+        ],
+        "ro": [
+          "Verifică presiunea pneurilor înainte de plecare.",
+          "Rămâi pe drumurile marcate din câmp."
+        ],
+        "en": [
+          "Check tire pressure before departure.",
+          "Stay on the marked paths in the field."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 18.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dorfzentrum Podbablje (Cluster A)",
+            "hu": "Podbablje központ (A-csoport)",
+            "ro": "Centrul Podbablje (Cluster A)",
+            "en": "Podbablje Village Center (Cluster A)"
+          },
+          "coords": [
+            17.1761,
+            43.4169
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Hauptplatz.",
+            "hu": "Parkolj a főtéren.",
+            "ro": "Parchează în piața principală.",
+            "en": "Park at the main square."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva sv. Luke (Cluster A)",
+            "hu": "Szent Lukács-templom (A-csoport)",
+            "ro": "Biserica Sf. Luca (Cluster A)",
+            "en": "Church of St. Luke (Cluster A)"
+          },
+          "coords": [
+            17.1765,
+            43.4175
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamenmost (Cluster B)",
+            "hu": "Kamenmost kőhíd (B-csoport)",
+            "ro": "Podul Kamenmost (Cluster B)",
+            "en": "Kamenmost Bridge (Cluster B)"
+          },
+          "coords": [
+            17.1983,
+            43.4285
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie direkt bei der Brücke.",
+            "hu": "Parkolj közvetlenül a hídnál.",
+            "ro": "Parchează direct lângă pod.",
+            "en": "Park directly near the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Rijeka Vrljika Spaziergang (Cluster B)",
+            "hu": "Séta a Vrljika mentén (B-csoport)",
+            "ro": "Plimbare pe râul Vrljika (Cluster B)",
+            "en": "Vrljika River Walk (Cluster B)"
+          },
+          "coords": [
+            17.195,
+            43.425
+          ],
+          "category": "river",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein schattiger Weg am Wasser.",
+            "hu": "Árnyékos út a víz mellett.",
+            "ro": "O potecă umbrită lângă apă.",
+            "en": "A shaded path by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Nähe (Cluster B)",
+            "hu": "Ebéd a közelben (B-csoport)",
+            "ro": "Prânz în apropiere (Cluster B)",
+            "en": "Lunch Nearby (Cluster B)"
+          },
+          "coords": [
+            17.181,
+            43.4205
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Regionale Spezialitäten genießen.",
+            "hu": "Élvezd a regionális különlegességeket.",
+            "ro": "Bucură-te de specialități regionale.",
+            "en": "Enjoy regional specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Vidikovac (Cluster C)",
+            "hu": "Vidikovac kilátó (C-csoport)",
+            "ro": "Vidikovac (Cluster C)",
+            "en": "Vidikovac (Cluster C)"
+          },
+          "coords": [
+            17.165,
+            43.425
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Bester Panoramablick der Region.",
+            "hu": "A régió legjobb panorámája.",
+            "ro": "Cea mai bună vedere panoramică din regiune.",
+            "en": "Best panoramic view in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergangs-Kaffee",
+            "hu": "Naplemente kávé",
+            "ro": "Cafea la apus",
+            "en": "Sunset Coffee"
+          },
+          "coords": [
+            17.1761,
+            43.4169
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Abschluss im Dorfzentrum.",
+            "hu": "Zárás a falu központjában.",
+            "ro": "Încheiere în centrul satului.",
+            "en": "Finish in the village center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Highlights von Podbablje. Beginnen Sie im Dorfzentrum und besichtigen Sie die Kirche (Cluster A). Fahren Sie dann zur historischen Kamenmost-Brücke und unternehmen Sie einen entspannten Spaziergang am Fluss Vrljika, gefolgt von einem Mittagessen (Cluster B). Den krönenden Abschluss bildet die Fahrt zum Vidikovac-Aussichtspunkt, von dem aus Sie das gesamte Tal überblicken können (Cluster C).",
+        "hu": "Autóval kényelmesen elérheti Podbablje legszebb pontjait. Kezdjen a falu központjában és nézze meg a templomot (A-csoport). Ezután hajtson a történelmi Kamenmost hídhoz, tegyen egy pihentető sétát a Vrljika-folyó partján, majd ebédeljen meg (B-csoport). A nap csúcspontja az út a Vidikovac kilátóhoz, ahonnan az egész völgyet beláthatja (C-csoport).",
+        "ro": "Cu mașina, puteți ajunge confortabil la cele mai frumoase puncte din Podbablje. Începeți în centrul satului și vizitați biserica (Cluster A). Apoi conduceți către podul istoric Kamenmost, faceți o plimbare relaxantă pe malul râului Vrljika și luați prânzul (Cluster B). Punctul culminant al zilei este drumul către belvederea Vidikovac, de unde puteți vedea întreaga vale (Cluster C).",
+        "en": "By car, you can easily reach the various highlights of Podbablje. Start in the village center and visit the church (Cluster A). Then drive to the historic Kamenmost bridge and take a relaxing walk along the Vrljika river, followed by lunch (Cluster B). The highlight of the day is the drive to the Vidikovac viewpoint, from where you can overlook the entire valley (Cluster C)."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Konoba",
+            "tip": "Hausgemachte Teigwaren probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi Konoba",
+            "tip": "Kóstold meg a házi tésztaféléket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba locală",
+            "tip": "Încearcă pastele făcute în casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Konoba",
+            "tip": "Try the homemade pasta dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vidikovac",
+            "tip": "Ruhiger Blick über das Feld.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidikovac",
+            "tip": "Csendes kilátás a mező felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vidikovac",
+            "tip": "Vedere liniștită peste câmp.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vidikovac",
+            "tip": "Quiet view over the field.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Winzer",
+            "tip": "Direktverkauf ab Hof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borászok",
+            "tip": "Vásárlás közvetlenül a pincénél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinificatori locali",
+            "tip": "Cumpărare direct de la cramă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Winemakers",
+            "tip": "Buy directly from the cellar."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind eng, fahren Sie vorsichtig.",
+          "Parken ist im Dorf meist kostenlos."
+        ],
+        "hu": [
+          "Az utak szűkek, vezess óvatosan.",
+          "A parkolás a faluban többnyire ingyenes."
+        ],
+        "ro": [
+          "Drumurile sunt înguste, condu cu atenție.",
+          "Parcarea în sat este de obicei gratuită."
+        ],
+        "en": [
+          "The roads are narrow, drive carefully.",
+          "Parking in the village is mostly free."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Zentrum",
+            "hu": "Központi buszmegálló",
+            "ro": "Stația de autobuz centru",
+            "en": "Center Bus Stop"
+          },
+          "coords": [
+            17.1761,
+            43.4169
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Fahrplan im Voraus.",
+            "hu": "Ellenőrizd előre a menetrendet.",
+            "ro": "Verifică programul în avans.",
+            "en": "Check the timetable in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva sv. Luke",
+            "hu": "Szent Lukács-templom",
+            "ro": "Biserica Sf. Luca",
+            "en": "Church of St. Luke"
+          },
+          "coords": [
+            17.1765,
+            43.4175
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß erreichbar.",
+            "hu": "Könnyen elérhető gyalog.",
+            "ro": "Ușor de ajuns pe jos.",
+            "en": "Easily reachable on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamenmost (Transit-Halt)",
+            "hu": "Kamenmost (buszos megálló)",
+            "ro": "Kamenmost (oprire tranzit)",
+            "en": "Kamenmost (Transit Stop)"
+          },
+          "coords": [
+            17.1983,
+            43.4285
+          ],
+          "category": "landmark",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Steigen Sie in der Nähe der Brücke aus.",
+            "hu": "Szállj le a híd közelében.",
+            "ro": "Coboară în apropierea podului.",
+            "en": "Get off near the bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Rijeka Vrljika Erholung",
+            "hu": "Pihenés a Vrljika-parton",
+            "ro": "Relaxare pe malul Vrljika",
+            "en": "Vrljika River Relaxation"
+          },
+          "coords": [
+            17.195,
+            43.425
+          ],
+          "category": "river",
+          "arrive_at": "11:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am kühlen Fluss.",
+            "hu": "Lazíts a hűvös folyónál.",
+            "ro": "Relaxează-te la râul răcoros.",
+            "en": "Relax by the cool river."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen im Dorf",
+            "hu": "Késői ebéd a faluban",
+            "ro": "Prânz târziu în sat",
+            "en": "Late Lunch in the Village"
+          },
+          "coords": [
+            17.181,
+            43.4205
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Fragen Sie nach dem Tagesmenü.",
+            "hu": "Kérdezd a napi menüt.",
+            "ro": "Întreabă de meniul zilei.",
+            "en": "Ask for the daily menu."
+          }
+        },
+        {
+          "name": {
+            "de": "Búcsúpihenő a központban",
+            "hu": "Búcsúpihenő a központban",
+            "ro": "Pauză de final în centru",
+            "en": "Final Rest in Center"
+          },
+          "coords": [
+            17.1761,
+            43.4169
+          ],
+          "category": "gastro",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Warten auf den Rückbus.",
+            "hu": "Várakozás a visszaútra.",
+            "ro": "Așteptarea autobuzului de retur.",
+            "en": "Waiting for the return bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Podbablje lässt sich auch mit öffentlichen Verkehrsmitteln erkunden, erfordert jedoch etwas Planung. Beginnen Sie im Zentrum mit einem Kaffee und besuchen Sie die nahegelegene Kirche. Mit dem lokalen Bus gelangen Sie zur historischen Steinbrücke Kamenmost und zum Fluss Vrljika, wo Sie die Natur genießen können. Nach der Rückkehr ins Dorf erwartet Sie ein traditionelles Mittagessen, bevor Sie den Tag entspannt ausklingen lassen.",
+        "hu": "Podbablje tömegközlekedéssel is felfedezhető, bár némi tervezést igényel. Kezdjen a központban egy kávéval, és látogassa meg a közeli templomot. A helyi busszal eljuthat a történelmi Kamenmost kőhídhoz és a Vrljika-folyóhoz, ahol élvezheti a természetet. A faluba való visszatérés után hagyományos ebéd várja, mielőtt nyugodtan befejezné a napot.",
+        "ro": "Podbablje poate fi explorat și cu transportul public, deși necesită puțină planificare. Începeți în centru cu o cafea și vizitați biserica din apropiere. Cu autobuzul local puteți ajunge la podul istoric Kamenmost și la râul Vrljika, unde vă puteți bucura de natură. După revenirea în sat, vă așteaptă un prânz tradițional înainte de a încheia ziua relaxat.",
+        "en": "Podbablje can also be explored by public transport, though it requires some planning. Start in the center with a coffee and visit the nearby church. Take the local bus to the historic Kamenmost stone bridge and the Vrljika river, where you can enjoy nature. After returning to the village, a traditional lunch awaits you before ending the day leisurely."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Konditorei",
+            "tip": "Probieren Sie süße Krapfen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi cukrászda",
+            "tip": "Kóstold meg az édes fánkokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cofetărie locală",
+            "tip": "Încearcă gogoșile dulci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Pastry Shop",
+            "tip": "Try the sweet doughnuts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchgarten",
+            "tip": "Ruhiger Platz zum Nachdenken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templomkert",
+            "tip": "Csendes hely az elmélkedésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina bisericii",
+            "tip": "Loc liniștit pentru meditație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Garden",
+            "tip": "Quiet place for reflection.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dorfgeschäft",
+            "tip": "Regionale Honigsorten finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falusi bolt",
+            "tip": "Keress helyi mézfajtákat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul din sat",
+            "tip": "Găsește tipuri locale de miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Village Shop",
+            "tip": "Find local honey varieties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fragen Sie Einheimische nach den aktuellen Buszeiten.",
+          "Bustickets können meist beim Fahrer gekauft werden."
+        ],
+        "hu": [
+          "Kérdezd a helyieket a pontos buszidőkről.",
+          "A buszjegyek többnyire a sofőrnél válthatók."
+        ],
+        "ro": [
+          "Întreabă localnicii despre orele exacte de autobuz.",
+          "Biletele de autobuz pot fi cumpărate de obicei de la șofer."
+        ],
+        "en": [
+          "Ask locals about current bus times.",
+          "Bus tickets can usually be bought from the driver."
+        ]
+      }
+    }
+  }
+}

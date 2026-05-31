@@ -1,0 +1,994 @@
+{
+  "city_id": "croatia-runovici-cities-v2",
+  "anchor": {
+    "name": "Runovići",
+    "coords": [
+      17.2167,
+      43.3833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Crkva Gospe od Karmela",
+          "coords": [
+            17.2185,
+            43.3825
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche am Morgen für die ruhige Atmosphäre.",
+            "hu": "Látogassa meg a templomot reggel a nyugodt légkörért.",
+            "ro": "Vizitați biserica dimineața pentru atmosfera liniștită.",
+            "en": "Visit the church in the morning for the peaceful atmosphere."
+          }
+        },
+        {
+          "name": "Dorfzentrum und Café-Pause",
+          "coords": [
+            17.216,
+            17.216
+          ],
+          "category": "square",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Kaffee mit den Einheimischen auf dem Hauptplatz.",
+            "hu": "Igyon meg egy kávét a helyiekkel a főtéren.",
+            "ro": "Beți o cafea cu localnicii în piața principală.",
+            "en": "Have a coffee with the locals in the main square."
+          }
+        },
+        {
+          "name": "Rijeka Vrljika",
+          "coords": [
+            17.224,
+            43.376
+          ],
+          "category": "river",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Das Wasser der Vrljika ist kristallklar und sehr erfrischend.",
+            "hu": "A Vrljika vize kristálytiszta és nagyon frissítő.",
+            "ro": "Apa râului Vrljika este cristalină și foarte răcoritoare.",
+            "en": "The Vrljika water is crystal clear and very refreshing."
+          }
+        },
+        {
+          "name": "Mittagessen in einer lokalen Konoba",
+          "coords": [
+            17.223,
+            43.375
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 85,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie die lokale Forelle oder hausgemachten Schinken.",
+            "hu": "Kóstolja meg a helyi pisztrángot vagy a házi sonkát.",
+            "ro": "Gustați păstrăvul local sau șunca de casă.",
+            "en": "Try the local trout or homemade prosciutto."
+          }
+        },
+        {
+          "name": "Brdo Mračaj",
+          "coords": [
+            17.208,
+            43.391
+          ],
+          "category": "mountain",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ein leichter Aufstieg mit herrlicher Aussicht auf das Imotski-Feld.",
+            "hu": "Könnyű emelkedő pazar kilátással az Imotski-mezőre.",
+            "ro": "O urcare ușoară cu o vedere splendidă asupra câmpului Imotski.",
+            "en": "A light climb with a splendid view over the Imotski field."
+          }
+        },
+        {
+          "name": "Vinogradi Runovići",
+          "coords": [
+            17.221,
+            43.386
+          ],
+          "category": "agriculture",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Die Sorte Kujundžuša ist die Spezialität dieser Weinberge.",
+            "hu": "A Kujundžuša fajta a szőlőültetvények különlegessége.",
+            "ro": "Soiul Kujundžuša este specialitatea acestor podgorii.",
+            "en": "The Kujundžuša variety is the specialty of these vineyards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Runovići mit einem Besuch der barocken Karmel-Kirche, gefolgt von einem entspannten Kaffee im Dorfzentrum. Der Vormittag führt Sie an das kühle Ufer der Vrljika, wo Sie die Natur genießen können. Nach einem herzhaften Mittagessen steigen Sie auf den Mračaj-Hügel für ein Panorama der Region und beenden den Tag bei einer Weinprobe inmitten der einheimischen Weinberge.",
+        "hu": "Kezdje a napot Runovićiben a barokk Karmel-hegyi Boldogasszony templomnál, majd kávézzon egyet a falu központjában. A délelőtt a Vrljika-folyó hűs partjára vezeti, ahol élvezheti a természetet. Egy kiadós ebéd után másszon fel a Mračaj-dombra a régió panorámájáért, a napot pedig zárja borkóstolóval a helyi szőlőültetvények között.",
+        "ro": "Începeți ziua în Runovići cu o vizită la biserica barocă Maica Domnului de pe Muntele Carmel, urmată de o cafea relaxantă în centrul satului. Dimineața vă poartă pe malul răcoros al râului Vrljika, unde vă puteți bucura de natură. După un prânz copios, urcați pe dealul Mračaj pentru o panoramă a regiunii și încheiați ziua cu o degustare de vinuri printre podgoriile locale.",
+        "en": "Start your day in Runovići with a visit to the Baroque Church of Our Lady of Carmel, followed by a relaxed coffee in the village center. The morning takes you to the cool banks of the Vrljika River, where you can enjoy nature. After a hearty lunch, climb Mračaj Hill for a panorama of the region, and end the day with a wine tasting amidst the local vineyards."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Runović",
+            "tip": "Traditionelle Peka und lokaler Käse."
+          },
+          {
+            "name": "Kujundžuša Wein",
+            "tip": "Die authentische Weißweinsorte der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Runović",
+            "tip": "Hagyományos peka és helyi sajt."
+          },
+          {
+            "name": "Kujundžuša bor",
+            "tip": "A régió autentikus fehérborfajtája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Runović",
+            "tip": "Peka tradițională și brânză locală."
+          },
+          {
+            "name": "Vin Kujundžuša",
+            "tip": "Soiul de vin alb autentic al regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Runović",
+            "tip": "Traditional peka and local cheese."
+          },
+          {
+            "name": "Kujundžuša wine",
+            "tip": "The region's authentic white wine variety."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vrljika Ufer",
+            "tip": "Ruhiges Rauschen des Flusses unter den Bäumen.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Brdo Mračaj Gipfel",
+            "tip": "Perfekter Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrljika part",
+            "tip": "A folyó csendes csobogása a fák alatt.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mračaj-domb tető",
+            "tip": "Tökéletes helyszín a naplementéhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Vrljika",
+            "tip": "Susurul liniștit al râului sub copaci.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Vârful Dealului Mračaj",
+            "tip": "Loc perfect pentru apusul soarelui.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vrljika Banks",
+            "tip": "Quiet sound of the river under the trees.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Mračaj Hill Top",
+            "tip": "Perfect spot for the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Winzer",
+            "tip": "Kaufen Sie Wein direkt im Weinkeller."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borászok",
+            "tip": "Vásároljon bort közvetlenül a pincészetből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinificatori locali",
+            "tip": "Cumpărați vin direct de la cramă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local winemakers",
+            "tip": "Buy wine directly from the cellar."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Aufstieg zum Mračaj.",
+          "Bringen Sie Badekleidung mit, wenn Sie sich im Fluss erfrischen möchten.",
+          "Die beste Zeit für die Weinberge ist der späte Nachmittag.",
+          "Runovići ist sehr sicher, aber achten Sie in der Natur auf die Sonne."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a Mračaj megmászásához.",
+          "Hozzon fürdőruhát, ha szeretne felfrissülni a folyóban.",
+          "A legjobb időpont a szőlőültetvényekhez a késő délután.",
+          "Runovići nagyon biztonságos, de a természetben ügyeljen a napra."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru urcarea pe Mračaj.",
+          "Aduceți costum de baie dacă doriți să vă răcoriți în râu.",
+          "Cel mai bun moment pentru podgorii este după-amiaza târziu.",
+          "Runovići este foarte sigur, dar aveți grijă la soare în natură."
+        ],
+        "en": [
+          "Wear comfortable shoes for the climb to Mračaj.",
+          "Bring swimwear if you want to refresh in the river.",
+          "The best time for the vineyards is late afternoon.",
+          "Runovići is very safe, but watch out for the sun in nature."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Crkva Gospe od Karmela",
+          "coords": [
+            17.2185,
+            43.3825
+          ],
+          "category": "religious",
+          "arrive_at": "09:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher vor dem Kircheneingang.",
+            "hu": "Parkolja le biciklijét biztonságosan a templom bejárata előtt.",
+            "ro": "Parcați bicicleta în siguranță în fața intrării în biserică.",
+            "en": "Park your bike safely in front of the church entrance."
+          }
+        },
+        {
+          "name": "Fahrt durch die Felder",
+          "coords": [
+            17.216,
+            43.383
+          ],
+          "category": "square",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die flachen Wege durch das Imotski-Feld.",
+            "hu": "Élvezze a lapos utakat az Imotski-mezőn keresztül.",
+            "ro": "Bucurați-vă de drumurile plate prin câmpul Imotski.",
+            "en": "Enjoy the flat paths through the Imotski field."
+          }
+        },
+        {
+          "name": "Rijeka Vrljika",
+          "coords": [
+            17.224,
+            43.376
+          ],
+          "category": "river",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang des Flussufers auf den Schotterwegen.",
+            "hu": "Biciklizzen a folyópart mentén a murvás utakon.",
+            "ro": "Pedalați de-a lungul malului râului pe drumurile de pietriș.",
+            "en": "Cycle along the river bank on the gravel paths."
+          }
+        },
+        {
+          "name": "Mittagspause in einer Konoba",
+          "coords": [
+            17.223,
+            43.375
+          ],
+          "category": "gastro",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Füllen Sie Ihre Wasserflaschen hier wieder auf.",
+            "hu": "Itt töltse fel újra a kulacsait.",
+            "ro": "Reumpleți-vă sticlele de apă aici.",
+            "en": "Refill your water bottles here."
+          }
+        },
+        {
+          "name": "Brdo Mračaj Aussichtspunkt",
+          "coords": [
+            17.208,
+            43.391
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein steilerer Abschnitt, aber die Aussicht lohnt sich.",
+            "hu": "Meredekebb szakasz, de a kilátás megéri.",
+            "ro": "O secțiune mai abruptă, dar vederea merită.",
+            "en": "A steeper section, but the view is worth it."
+          }
+        },
+        {
+          "name": "Vinogradi Runovići",
+          "coords": [
+            17.221,
+            43.386
+          ],
+          "category": "agriculture",
+          "arrive_at": "14:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Beenden Sie die Tour mit einem Glas Kujundžuša.",
+            "hu": "Zárja a túrát egy pohár Kujundžušával.",
+            "ro": "Încheiați turul cu un pahar de Kujundžuša.",
+            "en": "End the tour with a glass of Kujundžuša."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die kulturellen Highlights von Runovići mit der natürlichen Schönheit des Imotski-Feldes. Sie radeln auf meist flachen Wegen zwischen der Vrljika und den Weinbergen, mit einem kleinen sportlichen Aufstieg zum Mračaj für das beste Panorama. Ideal für aktive Entdecker, die den Duft der dalmatinischen Kräuter hautnah erleben möchten.",
+        "hu": "Ez a kerékpártúra összeköti Runovići kulturális látnivalóit az Imotski-mező természeti szépségével. Többnyire lapos utakon tekerhet a Vrljika és a szőlőültetvények között, egy kis sportos emelkedővel a Mračaj-ra a legjobb panorámáért. Ideális aktív felfedezőknek, akik közvetlenül szeretnék érezni a dalmát gyógynövények illatát.",
+        "ro": "Acest tur cu bicicleta combină atracțiile culturale din Runovići cu frumusețea naturală a câmpului Imotski. Veți pedala pe drumuri în mare parte plate între râul Vrljika și podgorii, cu o mică urcare sportivă pe Mračaj pentru cea mai bună panoramă. Ideal pentru exploratorii activi care doresc să simtă direct parfumul ierburilor dalmate.",
+        "en": "This bike tour combines the cultural highlights of Runovići with the natural beauty of the Imotski field. You will cycle on mostly flat paths between the Vrljika River and the vineyards, with a small sporty climb to Mračaj for the best panorama. Ideal for active explorers who want to experience the scent of Dalmatian herbs firsthand."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Käse",
+            "tip": "Perfekt als Snack während der Radtour."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi sajt",
+            "tip": "Tökéletes snack a biciklitúra alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de casă",
+            "tip": "Snack perfect în timpul turului cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade cheese",
+            "tip": "Perfect snack during the bike tour."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Feldwege",
+            "tip": "Stille und Weite im Hinterland.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mezei utak",
+            "tip": "Csend és tágasság a hátországban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumuri de câmp",
+            "tip": "Liniște și spațiu în interiorul țării.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Field paths",
+            "tip": "Quiet and vastness in the hinterland.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig vom Imker",
+            "tip": "Lokaler Honig aus den Hügeln von Runovići."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Méz a méhésztől",
+            "tip": "Helyi méz Runovići dombjairól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de la apicultor",
+            "tip": "Miere locală din dealurile Runovići."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honey from beekeeper",
+            "tip": "Local honey from the hills of Runovići."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Fahrt.",
+          "Die Wege sind teils Schotter, teils Asphalt.",
+          "Mittags kann es auf dem Feld sehr heiß werden.",
+          "Fahren Sie vorsichtig auf den schmalen Dorfstraßen."
+        ],
+        "hu": [
+          "Ellenőrizze a guminyomást indulás előtt.",
+          "Az utak részben murvásak, részben aszfaltozottak.",
+          "Délben nagyon meleg lehet a mezőn.",
+          "Vezessen óvatosan a szűk falusi utcákon."
+        ],
+        "ro": [
+          "Verificați presiunea în anvelope înainte de plecare.",
+          "Drumurile sunt parțial cu pietriș, parțial asfaltate.",
+          "La prânz poate fi foarte cald pe câmp.",
+          "Conduceți cu prudență pe străzile înguste ale satului."
+        ],
+        "en": [
+          "Check tire pressure before the ride.",
+          "Paths are partly gravel, partly asphalt.",
+          "It can get very hot in the field at noon.",
+          "Ride carefully on the narrow village streets."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Crkva Gospe od Karmela",
+          "coords": [
+            17.2185,
+            43.3825
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kostenlose Parkplätze befinden sich direkt bei der Kirche.",
+            "hu": "Ingyenes parkolás közvetlenül a templomnál.",
+            "ro": "Parcare gratuită direct lângă biserică.",
+            "en": "Free parking available right by the church."
+          }
+        },
+        {
+          "name": "Dorfspaziergang",
+          "coords": [
+            17.216,
+            43.383
+          ],
+          "category": "square",
+          "arrive_at": "10:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch das authentische dalmatinische Dorf.",
+            "hu": "Rövid séta az autentikus dalmát faluban.",
+            "ro": "O scurtă plimbare prin satul dalmat autentic.",
+            "en": "A short walk through the authentic Dalmatian village."
+          }
+        },
+        {
+          "name": "Rijeka Vrljika (Parkplatz)",
+          "coords": [
+            17.224,
+            43.376
+          ],
+          "category": "river",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Schatten der Weiden am Fluss.",
+            "hu": "Parkoljon a fűzfák árnyékában a folyónál.",
+            "ro": "Parcați la umbra sălciilor de lângă râu.",
+            "en": "Park in the shade of the willows by the river."
+          }
+        },
+        {
+          "name": "Traditionelles Mittagessen",
+          "coords": [
+            17.223,
+            43.375
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe am Wasser während des Essens.",
+            "hu": "Élvezze a vízparti nyugalmat ebéd közben.",
+            "ro": "Bucurați-vă de liniștea de lângă apă în timpul mesei.",
+            "en": "Enjoy the riverside peace during your meal."
+          }
+        },
+        {
+          "name": "Brdo Mračaj Auffahrt",
+          "coords": [
+            17.208,
+            43.391
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Die Straße nach oben ist schmal, fahren Sie vorsichtig.",
+            "hu": "Az út felfelé szűk, vezessen óvatosan.",
+            "ro": "Drumul spre vârf este îngust, conduceți cu atenție.",
+            "en": "The road up is narrow, drive carefully."
+          }
+        },
+        {
+          "name": "Vinogradi Runovići",
+          "coords": [
+            17.221,
+            43.386
+          ],
+          "category": "agriculture",
+          "arrive_at": "14:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie einen lokalen Keller für eine Weinverkostung.",
+            "hu": "Látogasson el egy helyi pincébe borkóstolóra.",
+            "ro": "Vizitați o cramă locală pentru o degustare de vinuri.",
+            "en": "Visit a local cellar for a wine tasting."
+          }
+        },
+        {
+          "name": "Panoramastraße Abschluss",
+          "coords": [
+            17.215,
+            43.385
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Letzter Fotostopp vor der Abfahrt.",
+            "hu": "Utolsó fotómegálló az indulás előtt.",
+            "ro": "Ultima oprire foto înainte de plecare.",
+            "en": "Last photo stop before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Runovići bequem mit dem Auto. Diese Tour führt Sie von der historischen Kirche über die idyllischen Flussufer der Vrljika bis hinauf zum Mračaj-Hügel. Die Route ist so konzipiert, dass Sie die wichtigsten Sehenswürdigkeiten mit minimalem Fußweg erreichen, während Sie die weitläufigen Weinberge und die typische Landschaft des Hinterlandes von Imotski durchqueren.",
+        "hu": "Fedezze fel Runovićit kényelmesen, autóval. Ez a túra a történelmi templomtól a Vrljika idilli folyópartjáig, majd fel a Mračaj-dombig vezet. Az útvonalat úgy terveztük, hogy minimális gyaloglással érje el a főbb látnivalókat, miközben átszeli a tágas szőlőültetvényeket és az Imotski-hátország jellegzetes tájait.",
+        "ro": "Descoperiți Runovići confortabil cu mașina. Acest tur vă poartă de la biserica istorică la malurile idilice ale râului Vrljika și apoi până pe dealul Mračaj. Traseul este conceput astfel încât să ajungeți la principalele atracții cu un minim de mers pe jos, în timp ce traversați podgoriile întinse și peisajul tipic din interiorul regiunii Imotski.",
+        "en": "Discover Runovići comfortably by car. This tour takes you from the historic church to the idyllic riverbanks of the Vrljika and then up to Mračaj Hill. The route is designed to reach the main sights with minimal walking, while crossing the vast vineyards and the typical landscape of the Imotski hinterland."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale OPGs",
+            "tip": "Besuchen Sie Bauernhöfe für Olivenöl und Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi OPG-k",
+            "tip": "Látogasson el családi gazdaságokba olívaolajért és borért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "OPG-uri locale",
+            "tip": "Vizitați fermele de familie pentru ulei de măsline și vin."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local OPGs",
+            "tip": "Visit family farms for olive oil and wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Mračaj",
+            "tip": "Panorama ohne Menschenmassen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mračaj kilátópont",
+            "tip": "Panoráma tömegek nélkül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Mračaj",
+            "tip": "Panoramă fără aglomerație.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mračaj Viewpoint",
+            "tip": "Panorama without the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein-Direktverkauf",
+            "tip": "Flaschenweise Kujundžuša für zu Hause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bor közvetlen értékesítés",
+            "tip": "Palackozott Kujundžuša elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare directă de vin",
+            "tip": "Sticle de Kujundžuša pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine direct sales",
+            "tip": "Bottled Kujundžuša to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Traktoren auf den Feldwegen.",
+          "Tanken Sie in Imotski, bevor Sie nach Runovići fahren.",
+          "Parken ist im Dorf meist unkompliziert.",
+          "Navigationsgeräte können auf Schotterwege führen, bleiben Sie auf Asphalt."
+        ],
+        "hu": [
+          "Ügyeljen a traktorokra a mezei utakon.",
+          "Tankoljon Imotskiban, mielőtt Runovićibe indul.",
+          "A parkolás a faluban általában egyszerű.",
+          "A navigáció murvás utakra viheti, maradjon az aszfalton."
+        ],
+        "ro": [
+          "Aveți grijă la tractoare pe drumurile de câmp.",
+          "Alimentați în Imotski înainte de a merge la Runovići.",
+          "Parcarea în sat este de obicei simplă.",
+          "Navigația vă poate duce pe drumuri de pietriș, rămâneți pe asfalt."
+        ],
+        "en": [
+          "Watch out for tractors on the field roads.",
+          "Refuel in Imotski before heading to Runovići.",
+          "Parking in the village is usually straightforward.",
+          "GPS might lead you to gravel paths, stay on asphalt."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Crkva Gospe od Karmela",
+          "coords": [
+            17.2185,
+            43.3825
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die Haltestelle ist nur wenige Gehminuten entfernt.",
+            "hu": "A megálló csak néhány perc sétára van.",
+            "ro": "Stația este la doar câteva minute de mers pe jos.",
+            "en": "The stop is just a few minutes' walk away."
+          }
+        },
+        {
+          "name": "Dorfplatz",
+          "coords": [
+            17.216,
+            43.383
+          ],
+          "category": "square",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Punkt für alle lokalen Busverbindungen.",
+            "hu": "Központi pont minden helyi buszjárat számára.",
+            "ro": "Punct central pentru toate conexiunile locale de autobuz.",
+            "en": "Central point for all local bus connections."
+          }
+        },
+        {
+          "name": "Rijeka Vrljika",
+          "coords": [
+            17.224,
+            43.376
+          ],
+          "category": "river",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Natur in der Nähe der Brücke.",
+            "hu": "Élvezze a természetet a híd közelében.",
+            "ro": "Bucurați-vă de natură în apropierea podului.",
+            "en": "Enjoy nature near the bridge."
+          }
+        },
+        {
+          "name": "Mittagessen in der Konoba",
+          "coords": [
+            17.223,
+            43.375
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fragen Sie den Wirt nach den Buszeiten für die Rückfahrt.",
+            "hu": "Kérdezze a házigazdát a visszaúti buszidőpontokról.",
+            "ro": "Întrebați gazda despre orele autobuzului de întoarcere.",
+            "en": "Ask the host about the return bus times."
+          }
+        },
+        {
+          "name": "Brdo Mračaj (Fuß des Hügels)",
+          "coords": [
+            17.208,
+            43.391
+          ],
+          "category": "mountain",
+          "arrive_at": "14:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein kurzes Stück zu Fuß von der Haltestelle zum Aussichtspunkt.",
+            "hu": "Rövid séta a megállótól a kilátópontig.",
+            "ro": "O scurtă plimbare de la stație până la punctul de belvedere.",
+            "en": "A short walk from the stop to the viewpoint."
+          }
+        },
+        {
+          "name": "Vinogradi Runovići",
+          "coords": [
+            17.221,
+            43.386
+          ],
+          "category": "agriculture",
+          "arrive_at": "15:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Letzte Station vor der Rückfahrt nach Imotski.",
+            "hu": "Utolsó állomás az Imotskiba való visszatérés előtt.",
+            "ro": "Ultima stație înainte de întoarcerea la Imotski.",
+            "en": "Last station before returning to Imotski."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Tour nutzt die lokalen Busverbindungen, um Runovići zu erkunden. Sie ist ideal für Reisende, die kein Auto haben und das authentische Dorfleben im Einklang mit dem lokalen Rhythmus erleben möchten. Die Route verbindet die kulturelle Mitte des Dorfes mit den erholsamen Ufern der Vrljika und den Panoramen vom Mračaj-Hügel.",
+        "hu": "Ez a túra a helyi buszjáratokat használja Runovići felfedezéséhez. Ideális autó nélküli utazóknak, akik a helyi ritmushoz igazodva szeretnék megtapasztalni az autentikus falusi életet. Az útvonal összeköti a falu kulturális központját a Vrljika pihentető partjaival és a Mračaj-domb panorámáival.",
+        "ro": "Acest tur folosește conexiunile locale de autobuz pentru a explora Runovići. Este ideal pentru călătorii fără mașină care doresc să experimenteze viața autentică de sat în ton cu ritmul local. Traseul conectează centrul cultural al satului cu malurile relaxante ale râului Vrljika și panoramele de pe dealul Mračaj.",
+        "en": "This tour uses local bus connections to explore Runovići. It is ideal for travelers without a car who want to experience authentic village life in harmony with the local rhythm. The route connects the cultural center of the village with the relaxing banks of the Vrljika and the panoramas from Mračaj Hill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Probieren Sie frisches Burek oder Krapfen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Kóstolja meg a friss bureket vagy fánkot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Gustați burek proaspăt sau gogoși."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakery",
+            "tip": "Try fresh burek or donuts."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vrljika Wiese",
+            "tip": "Grüne Oase fernab der Straße.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrljika-rét",
+            "tip": "Zöld oázis távol az úttól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pajiștea Vrljika",
+            "tip": "Oază verde departe de drum.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vrljika Meadow",
+            "tip": "Green oasis far from the road.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dorfgeschäft",
+            "tip": "Lokale Produkte und Grundnahrungsmittel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falusi bolt",
+            "tip": "Helyi termékek és alapvető élelmiszerek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul satului",
+            "tip": "Produse locale și alimente de bază."
+          }
+        ],
+        "en": [
+          {
+            "name": "Village store",
+            "tip": "Local products and basic groceries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan im Voraus, er ist oft begrenzt.",
+          "Sonntags fahren deutlich weniger Busse.",
+          "Haben Sie Bargeld in kleinen Scheinen für den Busfahrer bereit.",
+          "Warten Sie rechtzeitig an der Haltestelle."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet, gyakran korlátozott.",
+          "Vasárnap jelentősen kevesebb busz jár.",
+          "Készítsen elő készpénzt kis címletekben a buszsofőrnek.",
+          "Várjon időben a megállóban."
+        ],
+        "ro": [
+          "Verificați programul autobuzului în avans, este adesea limitat.",
+          "Duminica circulă semnificativ mai puține autobuze.",
+          "Aveți pregătit numerar în bancnote mici pentru șoferul de autobuz.",
+          "Așteptați în stație din timp."
+        ],
+        "en": [
+          "Check the bus schedule in advance, it is often limited.",
+          "Significantly fewer buses run on Sundays.",
+          "Have cash in small denominations ready for the bus driver.",
+          "Wait at the stop on time."
+        ]
+      }
+    }
+  }
+}

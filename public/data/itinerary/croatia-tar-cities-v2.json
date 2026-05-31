@@ -1,0 +1,958 @@
+{
+  "city_id": "croatia-tar-cities-v2",
+  "anchor": {
+    "name": "Tar",
+    "coords": [
+      13.6253,
+      45.3008
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Kaštel Papini",
+          "coords": [
+            13.6255,
+            45.3012
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Achten Sie auf das Wappen der Familie Papini am steinernen Tor.",
+            "hu": "Figyeld meg a Papini család címerét a kőkapu felett.",
+            "ro": "Observați blazonul familiei Papini pe poarta de piatră.",
+            "en": "Look for the Papini family crest above the stone gate."
+          }
+        },
+        {
+          "name": "Crkva sv. Martina",
+          "coords": [
+            13.6248,
+            45.3005
+          ],
+          "category": "religious",
+          "arrive_at": "10:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Kirche wurde 1800 an der Stelle einer mittelalterlichen Kapelle errichtet.",
+            "hu": "A templom 1800-ban épült egy középkori kápolna helyén.",
+            "ro": "Biserica a fost construită în 1800 pe locul unei capele medievale.",
+            "en": "The church was built in 1800 on the site of a medieval chapel."
+          }
+        },
+        {
+          "name": "Lokaler Bauernmarkt",
+          "coords": [
+            13.626,
+            45.3002
+          ],
+          "category": "market",
+          "arrive_at": "10:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Honig und die getrockneten Feigen.",
+            "hu": "Kóstolja meg a helyi mézet és a szárított fügét.",
+            "ro": "Gustați mierea locală și smochinele uscate.",
+            "en": "Try the local honey and dried figs."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            13.624,
+            45.2995
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fragen Sie nach dem Tagesgericht mit hausgemachten Fuži-Nudeln.",
+            "hu": "Kérdezze a napi ajánlatot házi fuži tésztával.",
+            "ro": "Întrebați de oferta zilei cu paste fuži de casă.",
+            "en": "Ask for the daily special with homemade fuži pasta."
+          }
+        },
+        {
+          "name": "Tarska vala",
+          "coords": [
+            13.6105,
+            45.3085
+          ],
+          "category": "nature",
+          "arrive_at": "14:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Der Ort, an dem der Fluss Mirna in die Adria mündet.",
+            "hu": "A hely, ahol a Mirna-folyó az Adriába torkollik.",
+            "ro": "Locul unde râul Mirna se varsă în Marea Adriatică.",
+            "en": "The spot where the Mirna River flows into the Adriatic Sea."
+          }
+        },
+        {
+          "name": "Uferpromenade Spaziergang",
+          "coords": [
+            13.615,
+            45.305
+          ],
+          "category": "harbor",
+          "arrive_at": "16:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischer beim Einholen ihrer Netze.",
+            "hu": "Nézze meg a halászokat, ahogy behúzzák a hálóikat.",
+            "ro": "Urmăriți pescarii cum își adună plasele.",
+            "en": "Watch the fishermen bringing in their nets."
+          }
+        },
+        {
+          "name": "Sonnenuntergang am Aussichtspunkt",
+          "coords": [
+            13.62,
+            45.302
+          ],
+          "category": "sunset",
+          "arrive_at": "17:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick über die Bucht von Novigrad.",
+            "hu": "Élvezze a kilátást a Novigradi-öbölre.",
+            "ro": "Bucurați-vă de priveliștea asupra golfului Novigrad.",
+            "en": "Enjoy the view over the Novigrad bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der Altstadt von Tar mit einem Besuch des Kaštel Papini, einem Zeugnis der venezianischen Architektur. Ein kurzer Spaziergang führt Sie zur St.-Martins-Kirche, deren Glockenturm das Stadtbild prägt.\n\nMittags tauchen Sie in die lokale Gastronomie ein. Der kleine Markt bietet frische istrische Produkte, bevor Sie in einer traditionellen Konoba einkehren, um handgemachte Pasta oder frischen Fisch zu genießen.\n\nAm Nachmittag führt der Weg hinunter zur Tarska vala. Diese Bucht ist bekannt für ihr Brackwasser und die reiche Vogelwelt. Es ist ein friedlicher Ort, weit weg vom Trubel der großen Ferienorte.\n\nLassen Sie den Tag bei einem entspannten Spaziergang entlang der Küste ausklingen und suchen Sie sich einen erhöhten Punkt, um den Sonnenuntergang über der Mirna-Mündung zu beobachten.",
+        "hu": "Kezdje a reggelt Tar óvárosában a Kaštel Papini megtekintésével, amely a velencei építészet egyik helyi emléke. Egy rövid séta után érheti el a Szent Márton-templomot, melynek harangtornya messziről látható.\n\nDélben merüljön el a helyi gasztronómiában. A kis helyi piacon friss isztriai termékeket talál, majd üljön be egy hagyományos konobába, ahol megkóstolhatja a házi tésztákat vagy a friss tengeri fogásokat.\n\nDélután ereszkedjen le a Tarska vala öbölhöz. Ez a terület híres a kevert vizéről és gazdag madárvilágáról, tökéletes hely a természet közeli kikapcsolódáshoz.\n\nZárja a napot egy kellemes sétával a parton, és keressen egy magaslati pontot, ahonnan megcsodálhatja a naplementét a Mirna-folyó torkolata felett.",
+        "ro": "Începeți dimineața în centrul vechi din Tar cu o vizită la Kaštel Papini, un monument al arhitecturii venețiene. O scurtă plimbare vă duce la Biserica Sf. Martin, al cărei clopotniță domină profilul orașului.\n\nLa prânz, explorați gastronomia locală. Piața mică oferă produse proaspete istriene, după care vă puteți așeza la o tavernă tradițională (konoba) pentru a savura paste făcute în casă sau pește proaspăt.\n\nDupă-amiaza, coborâți spre golful Tarska vala. Această zonă este cunoscută pentru apele sale salmastre și fauna bogată, oferind un cadru liniștit departe de agitația stațiunilor mari.\n\nÎncheiați ziua cu o plimbare relaxantă pe malul mării și căutați un punct de observație pentru a vedea apusul peste gura de vărsare a râului Mirna.",
+        "en": "Start your morning in Tar's old town with a visit to Kaštel Papini, a testament to local Venetian architecture. A short walk leads you to St. Martin's Church, whose bell tower marks the town's skyline.\n\nAt midday, dive into the local gastronomy. The small market offers fresh Istrian produce before you settle into a traditional tavern (konoba) to enjoy handmade pasta or fresh seafood.\n\nIn the afternoon, head down to Tarska vala cove. This bay is famous for its brackish waters and rich birdlife, offering a peaceful retreat away from the busy resorts.\n\nFinish the day with a relaxed coastal stroll and find a viewpoint to watch the sunset over the mouth of the Mirna River."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Stari Toranj",
+            "tip": "Probieren Sie die Fleischspezialitäten unter der Peka-Glocke."
+          },
+          {
+            "name": "Istrische Maneštra",
+            "tip": "Ein herzhafter Gemüseeintopf mit Mais und Trockenfleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Stari Toranj",
+            "tip": "Kóstolja meg a peka alatt sült húsételeket."
+          },
+          {
+            "name": "Isztriai Maneštra",
+            "tip": "Sűrű zöldségleves kukoricával és füstölt hússal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Stari Toranj",
+            "tip": "Gustați preparatele din carne gătite la peka."
+          },
+          {
+            "name": "Maneštra Istriană",
+            "tip": "O supă deasă de legume cu porumb și carne afumată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Stari Toranj",
+            "tip": "Try the meat dishes cooked under the baking bell (peka)."
+          },
+          {
+            "name": "Istrian Maneštra",
+            "tip": "A hearty vegetable soup with corn and cured meat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tarska vala Ufer",
+            "tip": "Ruhiger Platz zur Vogelbeobachtung am Abend.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tarska vala part",
+            "tip": "Csendes hely madármegfigyeléshez az esti órákban.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Țărmul Tarska vala",
+            "tip": "Loc liniștit pentru observarea păsărilor spre seară.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tarska vala shore",
+            "tip": "Quiet spot for birdwatching in the evening.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hausgemachtes Olivenöl",
+            "tip": "Direkt bei den kleinen Erzeugern im Dorf kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi olívaolaj",
+            "tip": "Vásároljon közvetlenül a falusi kistermelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline de casă",
+            "tip": "Cumpărați direct de la micii producători din sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Olive Oil",
+            "tip": "Buy directly from small producers in the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tar liegt auf einem Hügel, tragen Sie bequeme Schuhe für die Wege zur Bucht.",
+          "Die beste Zeit für die Tarska vala ist der späte Nachmittag.",
+          "Parkplätze im Zentrum sind begrenzt, nutzen Sie die markierten Flächen am Rand."
+        ],
+        "hu": [
+          "Tar dombtetőn fekszik, kényelmes cipőt viseljen az öbölhöz vezető úton.",
+          "A Tarska vala meglátogatására a késő délután a legalkalmasabb időpont.",
+          "A központban kevés a parkoló, használja a szélső kijelölt helyeket."
+        ],
+        "ro": [
+          "Tar este situat pe un deal, purtați încălțăminte comodă pentru drumul spre golf.",
+          "Cel mai bun moment pentru a vizita Tarska vala este după-amiaza târziu.",
+          "Parcările în centru sunt limitate, folosiți locurile marcate la periferie."
+        ],
+        "en": [
+          "Tar is on a hill, wear comfortable shoes for the walk down to the bay.",
+          "The best time to visit Tarska vala is late afternoon.",
+          "Parking in the center is limited, use the designated areas on the outskirts."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Crkva sv. Martina",
+          "coords": [
+            13.6248,
+            45.3005
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beginnen Sie die Tour am höchsten Punkt des Dorfes.",
+            "hu": "Kezdje a túrát a falu legmagasabb pontján.",
+            "ro": "Începeți turul din cel mai înalt punct al satului.",
+            "en": "Start your tour at the highest point of the village."
+          }
+        },
+        {
+          "name": "Uljara Larun",
+          "coords": [
+            13.615,
+            45.295
+          ],
+          "category": "industry",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Verkostung von preisgekröntem istrischen Olivenöl.",
+            "hu": "Díjnyertes isztriai olívaolaj kóstolása.",
+            "ro": "Degustare de ulei de măsline istrian premiat.",
+            "en": "Tasting of award-winning Istrian olive oil."
+          }
+        },
+        {
+          "name": "Lanterna Beach",
+          "coords": [
+            13.588,
+            45.306
+          ],
+          "category": "beach",
+          "arrive_at": "11:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser und Schatten unter Pinien.",
+            "hu": "Kristálytiszta víz és árnyék a fenyőfák alatt.",
+            "ro": "Apă cristalină și umbră sub pini.",
+            "en": "Crystal clear water and shade under the pine trees."
+          }
+        },
+        {
+          "name": "Picknick am Meer",
+          "coords": [
+            13.595,
+            45.302
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Snackpause mit Blick auf die Adria.",
+            "hu": "Uzsonnaszünet kilátással az Adriára.",
+            "ro": "Pauză de gustare cu vedere la Adriatica.",
+            "en": "Snack break with a view of the Adriatic."
+          }
+        },
+        {
+          "name": "Tarska vala",
+          "coords": [
+            13.6105,
+            45.3085
+          ],
+          "category": "nature",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Flacher Küstenweg, ideal zum gemütlichen Radeln.",
+            "hu": "Sík parti út, ideális kényelmes tekeréshez.",
+            "ro": "Drum de coastă plat, ideal pentru ciclism relaxat.",
+            "en": "Flat coastal path, ideal for easy cycling."
+          }
+        },
+        {
+          "name": "Kaštel Papini",
+          "coords": [
+            13.6255,
+            45.3012
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Historischer Abschluss im Zentrum von Tar.",
+            "hu": "Történelmi zárás Tar központjában.",
+            "ro": "Final istoric în centrul localității Tar.",
+            "en": "Historical finish in the center of Tar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Umgebung von Tar auf zwei Rädern. Nach einem kurzen Halt im Dorfzentrum geht es bergab zur Ölmühle Larun, wo Sie die Geheimnisse der istrischen Goldgewinnung erfahren. Die Route führt weiter zur Halbinsel Lanterna.\n\nDer Vormittag gehört dem Strand. Genießen Sie die Sonne und das Meer an der Lanterna, bevor Sie ein Picknick im Schatten der Bäume einlegen. Die Radwege hier sind gut ausgebaut und bieten tolle Ausblicke.\n\nNachmittags radeln Sie entlang der Küste zur Tarska vala. Der Weg ist eben und führt durch eine geschützte Landschaft. Beobachten Sie die Vögel in der Lagune, bevor der Anstieg zurück ins Dorf beginnt.\n\nDen Tag beenden Sie wieder im historischen Kern von Tar, beim Kaštel Papini, wo Sie die Anstrengung des Tages bei einem kühlen Getränk Revue passieren lassen können.",
+        "hu": "Fedezze fel Tar környékét két keréken. A falu központja után guruljon le a Larun olajütőhöz, ahol megismerheti az isztriai folyékony arany készítésének titkait. Az út tovább vezet a Lanterna-félsziget felé.\n\nA délelőtt a strandolásé. Élvezze a napsütést és a tengert Lanternán, majd tartson egy pikniket a fák árnyékában. A kerékpárutak itt jól kiépítettek és szép kilátást nyújtanak.\n\nDélután tekerjen a part mentén a Tarska vala öbölig. Az út sík és védett természeti területen vezet keresztül. Figyelje meg a lagúna madarait, mielőtt megkezdené a kapaszkodót vissza a faluba.\n\nA napot Tar történelmi magjában, a Kaštel Papininél zárja, ahol egy hűsítő ital mellett pihenheti ki a túra fáradalmait.",
+        "ro": "Explorați împrejurimile localității Tar pe două roți. După o scurtă oprire în centru, coborâți spre moara de ulei Larun, unde veți afla secretele aurului lichid istrian. Ruta continuă spre peninsula Lanterna.\n\nDimineața este dedicată plajei. Bucurați-vă de soare și mare la Lanterna, apoi faceți un picnic la umbra copacilor. Pistele de biciclete de aici sunt bine întreținute și oferă vederi spectaculoase.\n\nDupă-amiaza, pedalați de-a lungul coastei spre Tarska vala. Drumul este plat și traversează o zonă naturală protejată. Observați păsările din lagună înainte de a începe urcarea înapoi în sat.\n\nÎncheiați ziua în nucleul istoric din Tar, la Kaštel Papini, unde vă puteți relaxa după efortul depus cu o băutură răcoritoare.",
+        "en": "Explore the surroundings of Tar on two wheels. After a short stop in the village center, cycle down to the Larun oil mill to learn the secrets of Istrian liquid gold. The route continues towards the Lanterna peninsula.\n\nMorning is for the beach. Enjoy the sun and sea at Lanterna, then have a picnic in the shade of the trees. The bike paths here are well-maintained and offer great views.\n\nIn the afternoon, cycle along the coast to Tarska vala. The path is flat and passes through a protected natural area. Watch the lagoon's birds before starting the climb back into the village.\n\nEnd the day back in the historical heart of Tar at Kaštel Papini, where you can recap the day's journey over a cold drink."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Olivenöl Larun",
+            "tip": "Kaufen Sie eine Flasche direkt ab Werk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Larun olívaolaj",
+            "tip": "Vásároljon egy üveggel közvetlenül a készítőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline Larun",
+            "tip": "Cumpărați o sticlă direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Larun Olive Oil",
+            "tip": "Buy a bottle directly from the mill."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pinienwald Lanterna",
+            "tip": "Ruhige Wege abseits der Hauptstrände.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lanterna fenyőerdő",
+            "tip": "Csendes ösvények a fő strandoktól távol.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de pini Lanterna",
+            "tip": "Poteci liniștite departe de plajele principale.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lanterna pine forest",
+            "tip": "Quiet paths away from the main beaches.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih Lanterna",
+            "tip": "Gute Auswahl an E-Bikes für die Steigung nach Tar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lanterna kerékpárkölcsönző",
+            "tip": "Jó választék elektromos kerékpárokból a Tarba vezető emelkedőhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închirieri biciclete Lanterna",
+            "tip": "O selecție bună de e-bike-uri pentru urcarea spre Tar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lanterna Bike Rental",
+            "tip": "Good selection of e-bikes for the climb back to Tar."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Rückweg von der Küste nach Tar ist stetig ansteigend.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Schatten auf den Feldwegen.",
+          "Die Halbinsel Lanterna ist weitläufig, ein Fahrrad ist dort ideal."
+        ],
+        "hu": [
+          "A partról Tarba vezető út folyamatosan emelkedik.",
+          "Vigyen magával elég vizet, a mezei utakon kevés az árnyék.",
+          "A Lanterna-félsziget kiterjedt, a kerékpár ideális az itteni közlekedéshez."
+        ],
+        "ro": [
+          "Drumul de întoarcere de pe coastă spre Tar este în urcare constantă.",
+          "Luați suficientă apă, e puțină umbră pe drumurile de câmp.",
+          "Peninsula Lanterna este vastă, bicicleta fiind ideală pentru explorare."
+        ],
+        "en": [
+          "The way back from the coast to Tar is a steady climb.",
+          "Take enough water, there is little shade on the field paths.",
+          "The Lanterna peninsula is extensive; a bike is ideal for getting around."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Kaštel Papini (Cluster A)",
+          "coords": [
+            13.6255,
+            45.3012
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz am Ortseingang.",
+            "hu": "Parkoljon a falu szélén lévő nagy parkolóban.",
+            "ro": "Parcați în parcarea mare de la intrarea în localitate.",
+            "en": "Park in the large parking lot at the entrance of the village."
+          }
+        },
+        {
+          "name": "Crkva sv. Martina (Cluster A)",
+          "coords": [
+            13.6248,
+            45.3005
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Parkplatz aus bequem zu Fuß erreichbar.",
+            "hu": "A parkolótól könnyen elérhető gyalogosan.",
+            "ro": "Accesibil ușor pe jos din parcare.",
+            "en": "Easily accessible on foot from the parking lot."
+          }
+        },
+        {
+          "name": "Uljara Larun (Cluster B)",
+          "coords": [
+            13.615,
+            45.295
+          ],
+          "category": "industry",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zur Ölmühle am Ortsrand.",
+            "hu": "Rövid autóút az olajütőhöz a falu szélén.",
+            "ro": "Scurtă călătorie cu mașina până la moara de ulei.",
+            "en": "Short drive to the oil mill on the outskirts."
+          }
+        },
+        {
+          "name": "Lanterna (Cluster C)",
+          "coords": [
+            13.588,
+            45.306
+          ],
+          "category": "beach",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Großes Resortgelände mit vielen Parkmöglichkeiten.",
+            "hu": "Hatalmas üdülőterület sok parkolóhellyel.",
+            "ro": "Zonă vastă de resort cu multe locuri de parcare.",
+            "en": "Large resort area with plenty of parking."
+          }
+        },
+        {
+          "name": "Mittagessen in Lanterna (Cluster C)",
+          "coords": [
+            13.592,
+            45.303
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Restaurants mit Meerblick auf der Halbinsel.",
+            "hu": "Tengerre néző éttermek a félszigeten.",
+            "ro": "Restaurante cu vedere la mare pe peninsulă.",
+            "en": "Restaurants with sea views on the peninsula."
+          }
+        },
+        {
+          "name": "Tarska vala (Cluster D)",
+          "coords": [
+            13.6105,
+            45.3085
+          ],
+          "category": "nature",
+          "arrive_at": "15:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt am Ufer der Bucht.",
+            "hu": "Parkoljon közvetlenül az öböl partján.",
+            "ro": "Parcați chiar pe malul golfului.",
+            "en": "Park right on the shore of the bay."
+          }
+        },
+        {
+          "name": "Riva Spaziergang (Cluster D)",
+          "coords": [
+            13.612,
+            45.307
+          ],
+          "category": "harbor",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang zwischen den Booten.",
+            "hu": "Rövid séta a csónakok között.",
+            "ro": "Scurtă plimbare printre bărci.",
+            "en": "Short stroll among the boats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie bequem die Highlights von Tar und seiner Küste. Der Morgen beginnt im historischen Zentrum mit dem Kaštel Papini und der Kirche Sv. Martina. Die kurzen Wege im Ort lassen sich gut zu Fuß bewältigen, nachdem Sie das Auto geparkt haben.\n\nAnschließend fahren Sie zur Uljara Larun, um die berühmte istrische Olivenöl-Tradition kennenzulernen. Die Reise geht weiter zur Halbinsel Lanterna, wo Sie den Mittag am Strand verbringen und in einem der lokalen Restaurants mit Blick auf die Adria essen können.\n\nDer Nachmittag ist der Natur gewidmet. Eine kurze Fahrt führt Sie zur Tarska vala, einer ruhigen Bucht, die für ihre traditionelle Fischerei bekannt ist. Genießen Sie die friedliche Atmosphäre und die frische Meeresbrise.\n\nZum Abschluss des Tages bietet sich ein kurzer Spaziergang am kleinen Hafen der Bucht an, bevor Sie die kurze Rückreise antreten. Die Flexibilität des Autos erlaubt es Ihnen, die verschiedenen Facetten der Region stressfrei zu erleben.",
+        "hu": "Autóval kényelmesen fedezheti fel Tar és környéke látnivalóit. A reggel a történelmi központban indul a Kaštel Papini és a Szent Márton-templom megtekintésével. A faluban a távolságok kicsik, így a parkolás után gyalogosan is könnyen bejárható.\n\nEzt követően látogasson el a Larun olajütőhöz, hogy megismerje a híres isztriai olívaolaj-hagyományt. Az út a Lanterna-félszigetre folytatódik, ahol a delet a strandon töltheti, és ebédelhet egy helyi, tengerre néző étteremben.\n\nA délután a természeté. Rövid autóút vezet a Tarska vala öbölhöz, amely nyugodt környezetéről és hagyományos halászatáról ismert. Élvezze a békés hangulatot és a friss tengeri szellőt.\n\nA nap zárásaként tegyen egy rövid sétát az öböl kis kikötőjében, mielőtt visszaindulna. Az autó rugalmassága lehetővé teszi, hogy stresszmentesen tapasztalja meg a régió különböző arcait.",
+        "ro": "Cu mașina puteți explora confortabil punctele de atracție din Tar și de pe coastă. Dimineața începe în centrul istoric cu Kaštel Papini și Biserica Sf. Martin. Distanțele în sat sunt mici, permițând explorarea pe jos după parcare.\n\nUlterior, vizitați moara de ulei Larun pentru a cunoaște celebra tradiție a uleiului de măsline istrian. Călătoria continuă spre peninsula Lanterna, unde puteți petrece prânzul pe plajă și puteți mânca la un restaurant local cu vedere la Adriatica.\n\nDupă-amiaza este dedicată naturii. O scurtă plimbare cu mașina vă duce la Tarska vala, un golf liniștit, renumit pentru pescuitul tradițional. Bucurați-vă de atmosfera pașnică și de briza mării.\n\nÎn încheierea zilei, faceți o scurtă plimbare în micul port din golf înainte de a pleca. Flexibilitatea mașinii vă permite să experimentați diversele fațete ale regiunii fără stres.",
+        "en": "By car, you can comfortably explore the highlights of Tar and its coastline. The morning begins in the historical center with Kaštel Papini and St. Martin's Church. Distances in the village are small, allowing for easy exploration on foot once parked.\n\nNext, visit the Larun oil mill to experience the famous Istrian olive oil tradition. The journey continues to the Lanterna peninsula, where you can spend midday at the beach and dine at a local restaurant with sea views.\n\nIn the afternoon, dedicate your time to nature. A short drive takes you to Tarska vala, a quiet bay known for its traditional fishing. Enjoy the peaceful atmosphere and the fresh sea breeze.\n\nTo end the day, take a short stroll by the small harbor in the bay before heading back. The flexibility of the car allows you to experience the different facets of the region stress-free."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Santa Marina",
+            "tip": "Hervorragende Meeresfrüchte direkt an der Bucht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Santa Marina",
+            "tip": "Kiváló tengeri ételek közvetlenül az öböl partján."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Santa Marina",
+            "tip": "Fructe de mare excelente chiar pe malul golfului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Santa Marina",
+            "tip": "Excellent seafood right on the bay shore."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz Tarska vala",
+            "tip": "Idealer Ausgangspunkt für einen ruhigen Abendspaziergang.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tarska vala parkoló",
+            "tip": "Ideális kiindulópont egy csendes esti sétához.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcare Tarska vala",
+            "tip": "Punct de plecare ideal pentru o plimbare liniștită de seară.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tarska vala parking",
+            "tip": "Ideal starting point for a quiet evening walk.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vina Laguna Verkaufsstelle",
+            "tip": "Lokale Weine aus der Umgebung von Tar und Poreč."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vina Laguna szaküzlet",
+            "tip": "Helyi borok Tar és Poreč környékéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de vânzare Vina Laguna",
+            "tip": "Vinuri locale din zona Tar și Poreč."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vina Laguna Outlet",
+            "tip": "Local wines from the Tar and Poreč area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Zufahrt zur Lanterna kann in der Hochsaison kontrolliert sein.",
+          "Parken Sie im Dorfzentrum von Tar lieber am Rand, die Gassen sind sehr eng.",
+          "Die Straße hinunter zur Tarska vala bietet tolle Fotomöglichkeiten."
+        ],
+        "hu": [
+          "A Lanternára való behajtás főszezonban ellenőrzött lehet.",
+          "Tar központjában inkább a szélen parkoljon, a belső utcák nagyon szűkek.",
+          "A Tarska vala felé vezető út mentén kiváló fotótémákat talál."
+        ],
+        "ro": [
+          "Accesul la Lanterna poate fi controlat în plin sezon.",
+          "În centrul localității Tar parcați mai degrabă la periferie, străzile sunt înguste.",
+          "Drumul spre Tarska vala oferă oportunități excelente pentru fotografii."
+        ],
+        "en": [
+          "Access to Lanterna may be controlled during peak season.",
+          "In Tar's village center, it's better to park on the outskirts as streets are very narrow.",
+          "The road down to Tarska vala offers great photo opportunities."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Crkva sv. Martina",
+          "coords": [
+            13.6248,
+            45.3005
+          ],
+          "category": "religious",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle befindet sich an der Hauptstraße, 5 Min. Fußweg.",
+            "hu": "A buszmegálló a főúton van, 5 perc séta.",
+            "ro": "Stația de autobuz este pe drumul principal, la 5 min de mers pe jos.",
+            "en": "The bus stop is on the main road, a 5-min walk away."
+          }
+        },
+        {
+          "name": "Kaštel Papini",
+          "coords": [
+            13.6255,
+            45.3012
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Einfach zu Fuß vom Kirchplatz erreichbar.",
+            "hu": "Könnyen elérhető gyalog a templom térről.",
+            "ro": "Ușor de ajuns pe jos din piața bisericii.",
+            "en": "Easily reachable on foot from the church square."
+          }
+        },
+        {
+          "name": "Lanterna Beach",
+          "coords": [
+            13.588,
+            45.306
+          ],
+          "category": "beach",
+          "arrive_at": "11:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Shuttle-Bus vom Zentrum zur Lanterna.",
+            "hu": "Használja a helyi ingajáratot a központból Lanternára.",
+            "ro": "Folosiți autobuzul local din centru spre Lanterna.",
+            "en": "Use the local shuttle bus from the center to Lanterna."
+          }
+        },
+        {
+          "name": "Mittagessen in Lanterna",
+          "coords": [
+            13.592,
+            45.303
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Viele Cafés in Gehweite zum Strand.",
+            "hu": "Sok kávézó sétatávolságra a strandtól.",
+            "ro": "Multe cafenele la câțiva pași de plajă.",
+            "en": "Many cafes within walking distance of the beach."
+          }
+        },
+        {
+          "name": "Tarska vala Aussicht",
+          "coords": [
+            13.615,
+            45.305
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Steigen Sie an der Haltestelle 'Vabriga' aus für den besten Blick.",
+            "hu": "Szálljon le a 'Vabriga' megállónál a legjobb kilátásért.",
+            "ro": "Coborâți la stația 'Vabriga' pentru cea mai bună vedere.",
+            "en": "Get off at the 'Vabriga' stop for the best view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auch ohne Auto lässt sich Tar gut erkunden, vor allem durch die lokalen Shuttle-Verbindungen zur Küste. Der Tag beginnt im Zentrum von Tar mit der Besichtigung der historischen Gebäude. Die Wege im Dorf sind kurz und überschaubar.\n\nZur Mittagszeit nehmen Sie den Bus zur Halbinsel Lanterna. Dieses Gebiet ist touristisch bestens erschlossen und bietet alles für einen entspannten Strandtag. Genießen Sie die Sonne und kehren Sie in eines der Strandrestaurants ein.\n\nAm Nachmittag bietet sich auf dem Rückweg ein Stopp im benachbarten Vabriga an, von wo aus Sie einen herrlichen Blick auf die Tarska vala haben. Die Lagunenlandschaft ist von hier oben besonders beeindruckend.\n\nDer Tag endet mit der Rückkehr ins Dorfzentrum. Die Taktung der Busse erlaubt einen stressfreien Ablauf, solange man die Fahrpläne im Auge behält. Es ist eine umweltfreundliche Art, die Region kennenzulernen.",
+        "hu": "Autó nélkül is jól felfedezhető Tar, különösen a tengerpartra közlekedő helyi járatoknak köszönhetően. A nap Tar központjában indul a történelmi épületek megtekintésével. A faluban a távolságok rövidek és jól átláthatóak.\n\nDélidőben szálljon buszra a Lanterna-félsziget felé. Ez a terület turisztikailag kiválóan kiépített, és mindent megad egy pihentető strandnaphoz. Élvezze a napsütést és üljön be az egyik tengerparti étterembe.\n\nDélután a visszaúton érdemes megállni a szomszédos Vabrigában, ahonnan csodás kilátás nyílik a Tarska vala öbölre. A lagúna látványa fentről különösen lenyűgöző.\n\nA nap a faluközpontba való visszatéréssel zárul. A buszok menetrendje lehetővé teszi a stresszmentes programot, amíg figyelemmel kísérjük az időpontokat. Ez egy környezetbarát módja a régió megismerésének.",
+        "ro": "Tar poate fi explorat bine și fără mașină, mai ales datorită curselor locale spre coastă. Ziua începe în centrul localității cu vizitarea clădirilor istorice. Distanțele în sat sunt scurte și ușor de parcurs.\n\nLa prânz, luați autobuzul spre peninsula Lanterna. Această zonă este excelent dezvoltată turistic, oferind tot necesarul pentru o zi relaxantă la plajă. Bucurați-vă de soare și opriți-vă la unul dintre restaurantele de pe țărm.\n\nDupă-amiaza, la întoarcere, merită o oprire în localitatea vecină Vabriga, de unde aveți o vedere superbă asupra golfului Tarska vala. Peisajul lagunei este deosebit de impresionant de aici de sus.\n\nZiua se încheie cu revenirea în centrul satului. Frecvența autobuzelor permite un program fără stres, atâta timp cât urmăriți orarul. Este o modalitate ecologică de a cunoaște regiunea.",
+        "en": "Tar can be easily explored even without a car, especially thanks to the local shuttle services to the coast. The day starts in Tar's center with a visit to the historical buildings. Distances within the village are short and easy to manage.\n\nAt midday, take the bus to the Lanterna peninsula. This area is excellently developed for tourism and offers everything needed for a relaxing beach day. Enjoy the sun and dine at one of the seaside restaurants.\n\nIn the afternoon, on your way back, it's worth stopping in neighboring Vabriga, which offers a wonderful view of Tarska vala. The lagoon landscape is particularly impressive from up here.\n\nThe day ends with a return to the village center. The bus schedule allows for a stress-free experience as long as you keep an eye on the times. It's an eco-friendly way to get to know the region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buffet Lanterna",
+            "tip": "Schnelle und gute Snacks direkt am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buffet Lanterna",
+            "tip": "Gyors és jó harapnivalók közvetlenül a vízparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buffet Lanterna",
+            "tip": "Gustări rapide și bune chiar lângă apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buffet Lanterna",
+            "tip": "Quick and good snacks right by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Vabriga",
+            "tip": "Panoramablick auf die Mirna-Mündung.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vabrigai kilátópont",
+            "tip": "Panorámás kilátás a Mirna torkolatára.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Vabriga",
+            "tip": "Vedere panoramică asupra gurii de vărsare a râului Mirna.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vabriga Viewpoint",
+            "tip": "Panoramic view of the Mirna mouth.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk Lanterna",
+            "tip": "Strandutensilien und lokale Zeitschriften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lanterna kioszk",
+            "tip": "Strandeszközök és helyi újságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc Lanterna",
+            "tip": "Articole de plajă și reviste locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lanterna Kiosk",
+            "tip": "Beach gear and local magazines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan des Lanterna-Shuttles vorab online.",
+          "Die Busse verkehren in der Saison häufiger.",
+          "Kaufen Sie Tickets beim Fahrer oder am Kiosk im Zentrum."
+        ],
+        "hu": [
+          "Ellenőrizze előre online a Lanterna ingajárat menetrendjét.",
+          "A buszok főszezonban gyakrabban közlekednek.",
+          "Jegyet a sofőrnél vagy a központi kioszkban vásárolhat."
+        ],
+        "ro": [
+          "Verificați orarul shuttle-ului Lanterna online în prealabil.",
+          "Autobuzele circulă mai des în timpul sezonului.",
+          "Cumpărați bilete de la șofer sau de la chioșcul din centru."
+        ],
+        "en": [
+          "Check the Lanterna shuttle schedule online in advance.",
+          "Buses run more frequently during the peak season.",
+          "Buy tickets from the driver or at the central kiosk."
+        ]
+      }
+    }
+  }
+}

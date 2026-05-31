@@ -1,0 +1,940 @@
+{
+  "city_id": "croatia-cerovlje-cities-v2",
+  "anchor": {
+    "name": "Cerovlje",
+    "coords": [
+      14.0122,
+      45.2783
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 11.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Cerovlje Café & Center",
+          "coords": [
+            14.0125,
+            45.2785
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie mit einem Espresso am Bahnhof von Cerovlje.",
+            "hu": "Kezdje a napot egy eszpresszóval a cerovljei vasútállomásnál.",
+            "ro": "Începeți ziua cu un espresso lângă gara din Cerovlje.",
+            "en": "Start your day with an espresso near the Cerovlje train station."
+          }
+        },
+        {
+          "name": "Pazinčica",
+          "coords": [
+            14.008,
+            45.275
+          ],
+          "category": "nature",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein ruhiger Spaziergang entlang des Baches Pazinčica.",
+            "hu": "Egy csendes séta a Pazinčica-patak mentén.",
+            "ro": "O plimbare liniștită de-a lungul pârâului Pazinčica.",
+            "en": "A peaceful stroll along the Pazinčica stream."
+          }
+        },
+        {
+          "name": "Mittagessen in der Konoba",
+          "coords": [
+            14.013,
+            45.279
+          ],
+          "category": "gastro",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Probieren Sie Fuži mit Trüffeln, eine lokale Spezialität.",
+            "hu": "Kóstolja meg a szarvasgombás fuzit, a helyi specialitást.",
+            "ro": "Gustați Fuži cu trufe, o specialitate locală.",
+            "en": "Try Fuži with truffles, a local specialty."
+          }
+        },
+        {
+          "name": "Draguć",
+          "coords": [
+            14.016,
+            45.334
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 100,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das 'istrische Hollywood' mit seinen mittelalterlichen Gassen.",
+            "hu": "Látogasson el az 'isztriai Hollywoodba' és középkori utcáiba.",
+            "ro": "Vizitați „Hollywood-ul istrian” cu străzile sale medievale.",
+            "en": "Visit the 'Istrian Hollywood' with its medieval streets."
+          }
+        },
+        {
+          "name": "Crkva sv. Roka, Draguć",
+          "coords": [
+            14.017,
+            45.335
+          ],
+          "category": "religious",
+          "arrive_at": "16:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die berühmten Fresken in dieser kleinen Kapelle.",
+            "hu": "Csodálja meg a híres freskókat ebben a kis kápolnában.",
+            "ro": "Admirați frescele celebre din această mică capelă.",
+            "en": "Admire the famous frescoes in this small chapel."
+          }
+        },
+        {
+          "name": "Sonnenuntergang in Draguć",
+          "coords": [
+            14.018,
+            45.336
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick über die istrischen Hügel.",
+            "hu": "Élvezze a kilátást az isztriai dombokra.",
+            "ro": "Bucurați-vă de priveliștea peste dealurile istriene.",
+            "en": "Enjoy the view over the Istrian hills."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt sanft im Zentrum von Cerovlje, gefolgt von einer Naturwanderung am Bach Pazinčica. Mittags genießen Sie authentische istrische Küche in einer lokalen Konoba. Der Nachmittag führt Sie hinauf nach Draguć, einem malerischen Dorf, das oft als Filmkulisse dient. Dort entdecken Sie die kunstvollen Fresken von St. Rochus, bevor Sie den Tag mit einem weiten Panorama über die grüne Hügellandschaft ausklingen lassen.",
+        "hu": "A délelőtt Cerovlje központjában indul, majd természetközeli túrával folytatódik a Pazinčica-patak partján. Ebédre autentikus isztriai fogásokat kóstolhat egy helyi konobában. Délután Draguć falujába visz az út, amelyet filmforgatások helyszíneként is ismernek. Itt megcsodálhatja Szent Rókus templomának freskóit, végül pedig a dombtetőről nyíló panorámával zárhatja a napot.",
+        "ro": "Dimineața începe relaxat în centrul localității Cerovlje, urmată de o drumeție în natură pe lângă pârâul Pazinčica. La prânz, savurați preparate autentice istriene într-o konoba locală. După-amiaza vă poartă spre Draguć, un sat pitoresc folosit adesea ca decor de film. Aici veți descoperi frescele artistice de la biserica Sf. ROC, încheind ziua cu o panoramă spectaculoasă peste dealurile verzi.",
+        "en": "The morning starts gently in the center of Cerovlje, followed by a nature walk along the Pazinčica stream. At lunch, enjoy authentic Istrian cuisine in a local konoba. The afternoon leads you up to Draguć, a picturesque village often used as a film set. There you will discover the artistic frescoes of St. Roch, ending the day with a wide panorama over the green rolling hills."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba 2. Peron",
+            "tip": "Berühmt für hausgemachte Pasta und Fleischgerichte unter der Peka."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba 2. Peron",
+            "tip": "Híres a házi tésztákról és a harang alatt (peka) sült húsokról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba 2. Peron",
+            "tip": "Faimos pentru pastele de casă și carnea gătită sub peka."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba 2. Peron",
+            "tip": "Famous for homemade pasta and meat dishes cooked under the peka."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Draguć",
+            "tip": "Ein stiller Ort am Ende des Dorfes mit Blick auf den See Butoniga.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Draguć kilátópont",
+            "tip": "Csendes hely a falu végén, kilátással a Butoniga-tóra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Draguć",
+            "tip": "Un loc liniștit la marginea satului, cu vedere spre lacul Butoniga.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Draguć Viewpoint",
+            "tip": "A quiet spot at the edge of the village overlooking Butoniga lake.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig und Olivenöl",
+            "tip": "Direkt bei den Bauern in Cerovlje erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz és olívaolaj",
+            "tip": "Közvetlenül a cerovljei termelőktől vásárolható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere și ulei de măsline local",
+            "tip": "Disponibile direct de la producătorii din Cerovlje."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey and Olive Oil",
+            "tip": "Available directly from farmers in Cerovlje."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie feste Wanderschuhe für den Weg nach Draguć.",
+          "Die Fresken in St. Rochus sind oft verschlossen; fragen Sie im Ort nach dem Schlüssel.",
+          "Cerovlje ist gut mit dem Zug von Pula oder Buzet erreichbar.",
+          "Bringen Sie ausreichend Wasser mit, da es auf den Hügeln wenige Kioske gibt."
+        ],
+        "hu": [
+          "Viseljen kényelmes túrabakancsot a Dragućba vezető úthoz.",
+          "A Szent Rókus freskók gyakran zárva vannak; kérje el a kulcsot a helyiektől.",
+          "Cerovlje könnyen elérhető vonattal Póla vagy Buzet felől.",
+          "Vigyen magával elegendő vizet, mert a dombokon kevés a bolt."
+        ],
+        "ro": [
+          "Purtați încălțăminte de drumeție rezistentă pentru drumul spre Draguć.",
+          "Frescele de la Sf. Roc sunt adesea încuiate; întrebați în sat despre cheie.",
+          "Cerovlje este ușor accesibil cu trenul din Pula sau Buzet.",
+          "Luați suficientă apă, deoarece sunt puține chioșcuri pe dealuri."
+        ],
+        "en": [
+          "Wear sturdy hiking shoes for the path to Draguć.",
+          "The frescoes in St. Roch are often locked; ask locals for the key.",
+          "Cerovlje is easily accessible by train from Pula or Buzet.",
+          "Bring plenty of water, as there are few shops on the hills."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 24.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Cerovlje Espresso Stop",
+          "coords": [
+            14.0122,
+            45.2783
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Kurzer Koffein-Kick vor dem Aufstieg.",
+            "hu": "Gyors koffeinadag az emelkedő előtt.",
+            "ro": "O scurtă doză de cafeină înainte de urcare.",
+            "en": "Quick caffeine kick before the climb."
+          }
+        },
+        {
+          "name": "Pazinčica-Tal",
+          "coords": [
+            14.008,
+            45.275
+          ],
+          "category": "nature",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang des Baches im grünen Tal.",
+            "hu": "Kerékpározzon a patak mentén a zöld völgyben.",
+            "ro": "Pedalați de-a lungul pârâului în valea verde.",
+            "en": "Cycle along the stream in the green valley."
+          }
+        },
+        {
+          "name": "Grimalda",
+          "coords": [
+            13.985,
+            45.312
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Ein einsamer Aussichtspunkt auf einem steilen Hügel.",
+            "hu": "Egy magányos kilátópont egy meredek dombtetőn.",
+            "ro": "Un punct de belvedere solitar pe un deal abrupt.",
+            "en": "A lonely viewpoint on a steep hilltop."
+          }
+        },
+        {
+          "name": "Draguć",
+          "coords": [
+            14.016,
+            45.334
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Pause im schönsten Bergdorf der Gegend.",
+            "hu": "Pihenő a környék legszebb hegyi falujában.",
+            "ro": "Pauză în cel mai frumos sat de munte din zonă.",
+            "en": "Rest in the most beautiful mountain village in the area."
+          }
+        },
+        {
+          "name": "Crkva sv. Roka, Draguć",
+          "coords": [
+            14.017,
+            45.335
+          ],
+          "category": "religious",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besichtigung der Wandmalereien von Meister Anton aus Padua.",
+            "hu": "Padovai Anton mester falfestményeinek megtekintése.",
+            "ro": "Vizitarea picturilor murale ale maestrului Anton din Padova.",
+            "en": "Visit the wall paintings by Master Anton from Padua."
+          }
+        },
+        {
+          "name": "Radler-Mittagessen",
+          "coords": [
+            14.013,
+            45.279
+          ],
+          "category": "gastro",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Stärken Sie sich mit istrischem Schinken und Käse.",
+            "hu": "Erősödjön meg isztriai sonkával és sajttal.",
+            "ro": "Reîncărcați-vă cu șuncă și brânză istriană.",
+            "en": "Recharge with Istrian ham and cheese."
+          }
+        },
+        {
+          "name": "Panorama-Abschluss",
+          "coords": [
+            14.0122,
+            45.2783
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Letzter Blick auf die Hügel vor der Rückfahrt.",
+            "hu": "Utolsó pillantás a dombokra az indulás előtt.",
+            "ro": "O ultimă privire spre dealuri înainte de plecare.",
+            "en": "One last look at the hills before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese anspruchsvolle Radtour verbindet die Bergdörfer rund um Cerovlje. Nach dem Start im Tal klettern Sie hinauf nach Grimalda, von wo aus Sie eine spektakuläre Fernsicht genießen. Die Route führt weiter nach Draguć, wo Kunst und Geschichte auf Sie warten. Der Rückweg führt bergab zurück nach Cerovlje, wo ein herzhaftes Mittagessen die verdiente Belohnung für die Höhenmeter darstellt.",
+        "hu": "Ez a látványos kerékpártúra összeköti a Cerovlje környéki hegyi falvakat. A völgyből indulva felkapaszkodunk Grimaldába, ahonnan fantasztikus távoli kilátás nyílik. Az út továbbvezet Dragućba, ahol művészet és történelem várja. A visszaút lejtős szakasza Cerovlje felé visz, ahol egy bőséges ebéd lesz a jutalom a megtett szintkülönbségért.",
+        "ro": "Acest tur pitoresc cu bicicleta leagă satele de munte din jurul Cerovlje. După startul din vale, urcați spre Grimalda, de unde vă bucurați de o vedere spectaculoasă la distanță. Traseul continuă spre Draguć, unde vă așteaptă arta și istoria. Drumul de întoarcere coboară spre Cerovlje, unde un prânz copios reprezintă recompensa binemeritată pentru efort.",
+        "en": "This scenic bike tour connects the mountain villages around Cerovlje. After starting in the valley, you climb up to Grimalda, from where you enjoy spectacular distant views. The route continues to Draguć, where art and history await. The return path leads downhill back to Cerovlje, where a hearty lunch is the well-deserved reward for the elevation gain."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agroturizam Ograde",
+            "tip": "Hausgemachte Speisen in einer rustikalen Umgebung nahe Grimalda."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agroturizam Ograde",
+            "tip": "Házias ételek rusztikus környezetben Grimalda közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agroturizam Ograde",
+            "tip": "Mâncare de casă într-un cadru rustic lângă Grimalda."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agroturizam Ograde",
+            "tip": "Homemade food in a rustic setting near Grimalda."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grimalda Kirchplatz",
+            "tip": "Absolute Stille und ein 360-Grad-Blick über Zentralistrien.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grimalda templom tér",
+            "tip": "Teljes csend és 360 fokos kilátás Közép-Isztriára.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața bisericii din Grimalda",
+            "tip": "Liniște absolută și o vedere de 360 de grade peste Istria Centrală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grimalda Church Square",
+            "tip": "Absolute silence and a 360-degree view over Central Istria.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Istrischer Wein (Malvazija)",
+            "tip": "Kaufen Sie direkt bei den kleinen Winzern in der Gegend."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isztriai bor (Malvazija)",
+            "tip": "Vásároljon közvetlenül a környékbeli kis borászoktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin istrian (Malvazija)",
+            "tip": "Cumpărați direct de la micii viticultori din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Istrian Wine (Malvazija)",
+            "tip": "Buy directly from small winemakers in the area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind asphaltiert, aber sehr verkehrsarm.",
+          "Ein Mountainbike oder Gravelbike wird für die Waldwege empfohlen.",
+          "Achtung: Der Anstieg nach Grimalda ist kurz, aber steil.",
+          "Es gibt keine öffentlichen Fahrradverleihe in Cerovlje, bringen Sie Ihr eigenes Rad mit."
+        ],
+        "hu": [
+          "Az utak aszfaltozottak, de nagyon kis forgalmúak.",
+          "Hegyi vagy gravel kerékpár ajánlott az erdei utakhoz.",
+          "Figyelem: A Grimaldába vezető emelkedő rövid, de meredek.",
+          "Cerovlje-ben nincs nyilvános kerékpárkölcsönző, hozzon sajátot."
+        ],
+        "ro": [
+          "Drumurile sunt asfaltate, dar cu trafic foarte redus.",
+          "Se recomandă un mountain bike sau gravel bike pentru drumurile de pădure.",
+          "Atenție: Urcarea spre Grimalda este scurtă, dar abruptă.",
+          "Nu există închirieri publice de biciclete în Cerovlje, aduceți-vă propria bicicletă."
+        ],
+        "en": [
+          "The roads are paved but have very low traffic.",
+          "A mountain bike or gravel bike is recommended for forest paths.",
+          "Note: The climb to Grimalda is short but steep.",
+          "There are no public bike rentals in Cerovlje, bring your own."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 35,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 32.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Cerovlje Frühstück",
+          "coords": [
+            14.0122,
+            45.2783
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie bequem am Dorfplatz für einen ersten Kaffee.",
+            "hu": "Parkoljon kényelmesen a faluban egy reggeli kávéhoz.",
+            "ro": "Parcați confortabil în sat pentru o primă cafea.",
+            "en": "Park easily in the village for a morning coffee."
+          }
+        },
+        {
+          "name": "Pazinčica Naturstopp",
+          "coords": [
+            14.008,
+            45.275
+          ],
+          "category": "nature",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz zum Wasser.",
+            "hu": "Rövid séta a parkolótól a patakpartig.",
+            "ro": "Scurtă plimbare de la parcare până la apă.",
+            "en": "Short walk from the parking area to the water."
+          }
+        },
+        {
+          "name": "Grimalda",
+          "coords": [
+            13.985,
+            45.312
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Panorama-Hügel mit Blick bis zum Meer bei klarem Wetter.",
+            "hu": "Panorámás domb, ahonnan tiszta időben a tengerig látni.",
+            "ro": "Deal panoramic cu vedere până la mare pe timp senin.",
+            "en": "Panoramic hill with views to the sea in clear weather."
+          }
+        },
+        {
+          "name": "Mittagessen in der Konoba",
+          "coords": [
+            14.013,
+            45.279
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Spezialitäten der istrischen Inlandsgastronomie.",
+            "hu": "A belső-isztriai gasztronómia specialitásai.",
+            "ro": "Specialități din gastronomia Istriei interioare.",
+            "en": "Specialties of inland Istrian gastronomy."
+          }
+        },
+        {
+          "name": "Draguć Cluster",
+          "coords": [
+            14.016,
+            45.334
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Parken Sie am Dorfeingang und erkunden Sie den Ort zu Fuß.",
+            "hu": "Parkoljon a falu elején, és fedezze fel gyalog a környéket.",
+            "ro": "Parcați la intrarea în sat și explorați-l la pas.",
+            "en": "Park at the village entrance and explore on foot."
+          }
+        },
+        {
+          "name": "Crkva sv. Roka, Draguć",
+          "coords": [
+            14.017,
+            45.335
+          ],
+          "category": "religious",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zweiter Stopp im Draguć-Cluster: Die Fresken-Kapelle.",
+            "hu": "Második megálló Dragućban: a freskós kápolna.",
+            "ro": "A doua oprire în clusterul Draguć: capela cu fresce.",
+            "en": "Second stop in the Draguć cluster: the fresco chapel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie mühelos die entlegenen Schätze der Gemeinde Cerovlje. Der Tag beginnt mit Natur am Pazinčica-Bach, gefolgt von der einsamen Schönheit von Grimalda auf ihrem Hügel. Nach einem ausgiebigen Mittagessen im Tal widmen Sie den Nachmittag dem Draguć-Cluster. Hier parken Sie das Auto einmal und spazieren durch das historische Dorf bis zur berühmten Kirche des Heiligen Rochus, um die istrische Sakralkunst hautnah zu erleben.",
+        "hu": "Autóval könnyedén felfedezheti Cerovlje község rejtett kincseit. A nap a Pazinčica-pataknál kezdődik, majd Grimalda magányos szépségével folytatódik a dombtetőn. A völgyben elköltött bőséges ebéd után a délutánt Draguć felfedezésének szentelheti. Itt egyszer parkol le, majd gyalogosan járja be a történelmi falut és a híres Szent Rókus templomot, hogy közelebbről is megismerje az isztriai szakrális művészetet.",
+        "ro": "Cu mașina, explorați fără efort comorile ascunse ale comunei Cerovlje. Ziua începe cu natura la pârâul Pazinčica, urmată de frumusețea solitară a satului Grimalda de pe dealul său. După un prânz copios în vale, dedicați după-amiaza clusterului Draguć. Aici parcați mașina o singură dată și vă plimbați prin satul istoric până la celebra biserică Sf. Roc, pentru a vedea de aproape arta sacră istriană.",
+        "en": "By car, you can effortlessly explore the hidden treasures of the Cerovlje municipality. The day begins with nature at the Pazinčica stream, followed by the lonely beauty of Grimalda on its hilltop. After a hearty lunch in the valley, devote the afternoon to the Draguć cluster. Here, you park the car once and walk through the historical village to the famous Church of St. Roch to experience Istrian sacral art firsthand."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Tomaž",
+            "tip": "Hervorragendes Fleisch und lokale Weine in der Nähe von Cerovlje."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Tomaž",
+            "tip": "Kiváló húsételek és helyi borok Cerovlje közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Tomaž",
+            "tip": "Carne excelentă și vinuri locale lângă Cerovlje."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Tomaž",
+            "tip": "Excellent meat and local wines near Cerovlje."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Butoniga-Stausee Blick",
+            "tip": "Halten Sie an der Straße nach Draguć für einen Blick auf den See.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Butoniga-tó kilátás",
+            "tip": "Álljon meg a Dragućba vezető úton a tóra nyíló kilátásért.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere spre lacul Butoniga",
+            "tip": "Opriți pe drumul spre Draguć pentru o vedere asupra lacului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Butoniga Lake View",
+            "tip": "Stop along the road to Draguć for a view of the reservoir.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trüffelprodukte",
+            "tip": "In den lokalen Geschäften in Cerovlje oder Draguć erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szarvasgomba termékek",
+            "tip": "Kapható a cerovljei vagy dragući helyi boltokban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse cu trufe",
+            "tip": "Disponibile în magazinele locale din Cerovlje sau Draguć."
+          }
+        ],
+        "en": [
+          {
+            "name": "Truffle Products",
+            "tip": "Available in local shops in Cerovlje or Draguć."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind schmal und kurvenreich; fahren Sie vorsichtig.",
+          "In Draguć gibt es nur begrenzte Parkplätze im Dorfzentrum.",
+          "Tanken Sie in Pazin, da es in Cerovlje keine Tankstelle gibt.",
+          "Besuchen Sie das Gebiet im Herbst zur Trüffelsaison."
+        ],
+        "hu": [
+          "Az utak keskenyek és kanyargósak; vezessen óvatosan.",
+          "Draguć faluközpontjában korlátozott a parkolási lehetőség.",
+          "Tankoljon Pazinban, mert Cerovlje-ben nincs benzinkút.",
+          "Látogasson el ide ősszel, a szarvasgomba szezon idején."
+        ],
+        "ro": [
+          "Drumurile sunt înguste și șerpuite; conduceți cu atenție.",
+          "În Draguć locurile de parcare sunt limitate în centrul satului.",
+          "Alimentați în Pazin, deoarece nu există benzinărie în Cerovlje.",
+          "Vizitați zona toamna, în timpul sezonului de trufe."
+        ],
+        "en": [
+          "The roads are narrow and winding; drive carefully.",
+          "Parking in the center of Draguć is limited.",
+          "Fill up your tank in Pazin, as there is no gas station in Cerovlje.",
+          "Visit in autumn during the truffle season."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 20,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 15.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Cerovlje Bahnhof-Café",
+          "coords": [
+            14.0125,
+            45.2785
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Gemütlicher Start direkt nach der Ankunft mit dem Zug.",
+            "hu": "Hangulatos kezdés közvetlenül a vonattal érkezés után.",
+            "ro": "Un început plăcut imediat după sosirea cu trenul.",
+            "en": "Cosy start right after arriving by train."
+          }
+        },
+        {
+          "name": "Pazinčica Spaziergang",
+          "coords": [
+            14.008,
+            45.275
+          ],
+          "category": "nature",
+          "arrive_at": "10:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Vom Bahnhof aus leicht zu Fuß erreichbar.",
+            "hu": "A vasútállomástól könnyen elérhető gyalog.",
+            "ro": "Ușor accesibil pe jos de la gară.",
+            "en": "Easily accessible on foot from the station."
+          }
+        },
+        {
+          "name": "Mittagessen in Cerovlje",
+          "coords": [
+            14.013,
+            45.279
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Produkte direkt im Ort.",
+            "hu": "Élvezze a helyi termékeket közvetlenül a faluban.",
+            "ro": "Savurați produse locale chiar în localitate.",
+            "en": "Enjoy local products right in the village."
+          }
+        },
+        {
+          "name": "Draguć (lokaler Shuttle)",
+          "coords": [
+            14.016,
+            45.334
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie ein lokales Taxi oder den seltenen Bus.",
+            "hu": "Használjon helyi taxit vagy a ritka buszjáratot.",
+            "ro": "Folosiți un taxi local sau autobuzul ocazional.",
+            "en": "Use a local taxi or the infrequent bus."
+          }
+        },
+        {
+          "name": "Crkva sv. Roka, Draguć",
+          "coords": [
+            14.017,
+            45.335
+          ],
+          "category": "religious",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Letzter Höhepunkt vor der Rückfahrt nach Cerovlje.",
+            "hu": "Utolsó fénypont a Cerovlje-be való visszatérés előtt.",
+            "ro": "Ultimul punct culminant înainte de întoarcerea la Cerovlje.",
+            "en": "Final highlight before returning to Cerovlje."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Zug erreichen Sie Cerovlje entspannt. Der Vormittag gehört dem Zentrum und einem Naturspaziergang zum Pazinčica-Bach. Nach einem herzhaften Mittagessen im Dorf nehmen Sie ein lokales Transportmittel nach Draguć. In diesem historischen Cluster besuchen Sie das malerische Bergdorf und die Freskenkapelle St. Rochus, bevor Sie pünktlich für Ihren Rückzug wieder am Bahnhof von Cerovlje eintreffen.",
+        "hu": "Vonattal kényelmesen elérhető Cerovlje. A délelőtt a falu központjáé és egy természetközeli sétáé a Pazinčica-patakhoz. Egy bőséges helyi ebéd után vegyen igénybe helyi fuvart Dragućba. Ebben a történelmi környezetben meglátogathatja a festői hegyi falut és a Szent Rókus freskós kápolnát, mielőtt visszatérne a cerovljei állomásra a hazaúthoz.",
+        "ro": "Puteți ajunge relaxat la Cerovlje cu trenul. Dimineața este dedicată centrului și unei plimbări în natură la pârâul Pazinčica. După un prânz copios în sat, luați un mijloc de transport local spre Draguć. În acest cluster istoric, vizitați satul pitoresc de munte și capela cu fresce Sf. Roc, înainte de a reveni la gara din Cerovlje pentru drumul de întoarcere.",
+        "en": "You can reach Cerovlje in a relaxed way by train. The morning is dedicated to the center and a nature walk to the Pazinčica stream. After a hearty lunch in the village, take local transport to Draguć. In this historical cluster, visit the picturesque mountain village and the frescoed chapel of St. Roch, before returning to Cerovlje station for your journey back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Buffet Rock",
+            "tip": "Ein einfacher Ort für einen schnellen Snack nahe dem Bahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buffet Rock",
+            "tip": "Egyszerű hely egy gyors harapnivalóhoz az állomás közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Buffet Rock",
+            "tip": "Un loc simplu pentru o gustare rapidă lângă gară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Buffet Rock",
+            "tip": "A simple place for a quick snack near the station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bahnhof Cerovlje",
+            "tip": "Ein ruhiger, nostalgischer Ort, wenn kein Zug einfährt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cerovlje vasútállomás",
+            "tip": "Csendes, nosztalgikus hely, amikor épp nem jön vonat.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gara Cerovlje",
+            "tip": "Un loc liniștit și nostalgic atunci când nu sosesc trenuri.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cerovlje Train Station",
+            "tip": "A quiet, nostalgic place when no trains are arriving.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokalmarkt Cerovlje",
+            "tip": "Frisches Obst und Gemüse je nach Saison."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cerovljei helyi piac",
+            "tip": "Friss gyümölcs és zöldség az éppen aktuális szezonban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală Cerovlje",
+            "tip": "Fructe și legume proaspete în funcție de sezon."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cerovlje Local Market",
+            "tip": "Fresh fruit and vegetables depending on the season."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Fahrplan der Istrischen Staatsbahn (HŽ).",
+          "Busverbindungen nach Draguć sind selten, ein Taxi von Cerovlje ist ratsam.",
+          "Kaufen Sie die Fahrkarte am Schalter oder im Zug.",
+          "Die Züge sind oft altmodisch, bieten aber tolle Ausblicke auf die Landschaft."
+        ],
+        "hu": [
+          "Ellenőrizze az isztriai állami vasutak (HŽ) menetrendjét.",
+          "A buszjáratok Dragućba ritkák, tanácsos taxit hívni Cerovlje-ből.",
+          "Vásárolja meg a jegyet a pénztárnál vagy a vonaton.",
+          "A vonatok gyakran régimódiak, de remek kilátást nyújtanak a tájra."
+        ],
+        "ro": [
+          "Verificați mersul trenurilor căilor ferate istriene (HŽ).",
+          "Conexiunile de autobuz spre Draguć sunt rare, se recomandă un taxi din Cerovlje.",
+          "Cumpărați biletul de la ghișeu sau din tren.",
+          "Trenurile sunt adesea vechi, dar oferă vederi superbe asupra peisajului."
+        ],
+        "en": [
+          "Check the schedule of the Istrian state railways (HŽ).",
+          "Bus connections to Draguć are rare; a taxi from Cerovlje is advisable.",
+          "Buy your ticket at the counter or on the train.",
+          "The trains are often old-fashioned but offer great views of the landscape."
+        ]
+      }
+    }
+  }
+}

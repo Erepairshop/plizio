@@ -1,0 +1,1129 @@
+{
+  "city_id": "croatia-liznjan-cities-v2",
+  "anchor": {
+    "name": "Ližnjan",
+    "coords": [
+      13.9564,
+      44.8286
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche des Hl. Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Church of St. Martin"
+          },
+          "coords": [
+            13.9562,
+            44.8291
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beachten Sie die neoklassizistische Fassade im Herzen des Dorfes.",
+            "hu": "Figyelje meg a neoklasszicista homlokzatot a falu szívében.",
+            "ro": "Observați fațada neoclasică din inima satului.",
+            "en": "Note the neoclassical facade in the heart of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Morgenkaffee am Dorfplatz",
+            "hu": "Reggeli kávé a faluban",
+            "ro": "Cafeaua de dimineață în sat",
+            "en": "Morning Coffee at the Village Square"
+          },
+          "coords": [
+            13.957,
+            44.8285
+          ],
+          "category": "gastro",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe bevor Sie zur Küste aufbrechen.",
+            "hu": "Élvezze a nyugalmat, mielőtt elindulna a tengerpartra.",
+            "ro": "Bucurați-vă de liniște înainte de a pleca spre coastă.",
+            "en": "Enjoy the peace before heading to the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Muttergottes von Kuj",
+            "hu": "Kuji Boldogasszony-templom",
+            "ro": "Biserica Maicii Domnului din Kuj",
+            "en": "Church of Mother of God from Kuj"
+          },
+          "coords": [
+            13.9715,
+            44.8242
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Eine kleine Kapelle mit wunderschönen Mosaikresten.",
+            "hu": "Kis kápolna gyönyörű mozaikmaradványokkal.",
+            "ro": "O mică capelă cu frumoase resturi de mozaic.",
+            "en": "A small chapel with beautiful mosaic remains."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht Kuje",
+            "hu": "Kuje-öböl",
+            "ro": "Golful Kuje",
+            "en": "Kuje Bay"
+          },
+          "coords": [
+            13.9725,
+            44.8235
+          ],
+          "category": "beach",
+          "arrive_at": "12:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekt zum Schwimmen und für archäologische Entdeckungen.",
+            "hu": "Tökéletes úszáshoz és régészeti felfedezésekhez.",
+            "ro": "Perfect pentru înot și descoperiri arheologice.",
+            "en": "Perfect for swimming and archaeological discoveries."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Konoba",
+            "hu": "Ebéd egy konobában",
+            "ro": "Prânz la o konoba",
+            "en": "Lunch in a Konoba"
+          },
+          "coords": [
+            13.9585,
+            44.8275
+          ],
+          "category": "gastro",
+          "arrive_at": "15:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch oder istrischen Schinken.",
+            "hu": "Kóstolja meg a friss halat vagy az isztriai sonkát.",
+            "ro": "Încercați pește proaspăt sau șuncă istriană.",
+            "en": "Try fresh fish or Istrian ham."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafenspaziergang",
+            "hu": "Kikötői séta",
+            "ro": "Plimbare în port",
+            "en": "Harbour Walk"
+          },
+          "coords": [
+            13.965,
+            44.822
+          ],
+          "category": "harbor",
+          "arrive_at": "17:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie die kleinen Fischerboote im Abendlicht.",
+            "hu": "Nézze meg a kis halászhajókat az esti fényben.",
+            "ro": "Priviți micile bărci de pescuit în lumina serii.",
+            "en": "Watch the small fishing boats in the evening light."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Aussichtspunkt",
+            "hu": "Naplemente a kilátónál",
+            "ro": "Apus la punctul de belvedere",
+            "en": "Sunset at the Viewpoint"
+          },
+          "coords": [
+            13.96,
+            44.825
+          ],
+          "category": "sunset",
+          "arrive_at": "18:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss für einen entspannten Tag.",
+            "hu": "A tökéletes lezárása egy pihentető napnak.",
+            "ro": "Finalul perfect pentru o zi relaxantă.",
+            "en": "The perfect end to a relaxing day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im ruhigen Zentrum von Ližnjan mit dem Besuch der neoklassizistischen St. Martinskirche. Nach einem gemütlichen Kaffee schlendern Sie hinunter zur Küste zur geschichtsträchtigen Kuje-Bucht.\n\nMittags tauchen Sie in die antike Atmosphäre bei der kleinen Kapelle der Muttergottes von Kuj ein, bevor Sie den Nachmittag mit Schwimmen und Sonnenbaden im kristallklaren Wasser der Bucht verbringen.\n\nAm späten Nachmittag kehren Sie ins Dorf zurück, um in einer traditionellen Konoba lokale Spezialitäten zu genießen. Ein Spaziergang zum Hafen lässt Sie das authentische Fischerleben spüren.\n\nDen Abend lassen Sie bei einem malerischen Sonnenuntergang ausklingen, während der Blick über die Adria und die nahegelegenen Inseln schweift.",
+        "hu": "Kezdje a napot Ližnjan csendes központjában a neoklasszicista Szent Márton-templom meglátogatásával. Egy kellemes kávé után sétáljon le a tengerpartra a történelmi Kuje-öbölhöz.\n\nDélben merüljön el az antik hangulatban a Kuji Boldogasszony kis kápolnánál, majd töltse a délutánt úszással és napozással az öböl kristálytiszta vizében.\n\nKéső délután térjen vissza a faluba, hogy egy hagyományos konobában helyi specialitásokat kóstoljon. Egy séta a kikötőben segít átélni az autentikus halászéletet.\n\nAz estét zárja egy festői naplementével, miközben a kilátás az Adriára és a közeli szigetekre nyílik.",
+        "ro": "Începeți ziua în centrul liniștit al localității Ližnjan cu o vizită la biserica neoclasică Sfântul Martin. După o cafea relaxantă, coborâți spre coastă către golful istoric Kuje.\n\nLa prânz, scufundați-vă în atmosfera antică de la mica capelă a Maicii Domnului din Kuj, apoi petreceți după-amiaza înotând și făcând plajă în apele cristaline ale golfului.\n\nSpre seară, reveniți în sat pentru a savura specialități locale într-o konoba tradițională. O plimbare prin port vă va face să simțiți viața autentică de pescar.\n\nÎncheiați seara cu un apus pitoresc, în timp ce privirea alunecă peste Marea Adriatică și insulele din apropiere.",
+        "en": "Start your day in the quiet center of Ližnjan by visiting the neoclassical St. Martin's Church. After a cozy coffee, stroll down to the coast to the historic Kuje Bay.\n\nAt midday, immerse yourself in the ancient atmosphere at the small chapel of the Mother of God from Kuj, then spend the afternoon swimming and sunbathing in the bay's crystal-clear waters.\n\nIn the late afternoon, return to the village to enjoy local specialties in a traditional konoba. A walk to the harbour lets you experience the authentic fisherman's life.\n\nEnd the evening with a picturesque sunset, as the view stretches across the Adriatic and the nearby islands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Istrischer Schinken (Pršut)",
+            "tip": "An der Luft getrocknet und fein geschnitten."
+          },
+          {
+            "name": "Maneštra",
+            "tip": "Traditioneller istrischer Gemüseeintopf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isztriai sonka (Pršut)",
+            "tip": "Levegőn szárított, vékonyra szeletelt finomság."
+          },
+          {
+            "name": "Maneštra",
+            "tip": "Hagyományos isztriai zöldségleves."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șuncă istriană (Pršut)",
+            "tip": "Uscată la aer și tăiată fin."
+          },
+          {
+            "name": "Maneštra",
+            "tip": "Tocăniță tradițională istriană de legume."
+          }
+        ],
+        "en": [
+          {
+            "name": "Istrian Ham (Pršut)",
+            "tip": "Air-dried and thinly sliced delicacy."
+          },
+          {
+            "name": "Maneštra",
+            "tip": "Traditional Istrian vegetable stew."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uvala Kuje",
+            "tip": "Ruhiger Platz am Morgen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kuje-öböl",
+            "tip": "Csendes hely a reggeli órákban.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Kuje",
+            "tip": "Loc liniștit în orele dimineții.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kuje Bay",
+            "tip": "Quiet spot in the morning hours.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Direkt vom Erzeuger in Ližnjan."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Közvetlenül a termelőtől Ližnjanban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Direct de la producător din Ližnjan."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Directly from the producer in Ližnjan."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Weg zur Bucht.",
+          "Bringen Sie Badeschuhe für den Kiesstrand mit.",
+          "Reservieren Sie in der Hochsaison einen Tisch in der Konoba."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az öbölhöz vezető úton.",
+          "Vigyen úszócipőt a kavicsos strandhoz.",
+          "Főszezonban foglaljon asztalt a konobában."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru drumul spre golf.",
+          "Luați pantofi de apă pentru plaja cu pietriș.",
+          "Rezervați o masă la konoba în plin sezon."
+        ],
+        "en": [
+          "Wear comfortable shoes for the walk to the bay.",
+          "Bring water shoes for the pebble beach.",
+          "Reserve a table in the konoba during peak season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 14.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche des Hl. Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Church of St. Martin"
+          },
+          "coords": [
+            13.9562,
+            44.8291
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "Kiindulópont a központban.",
+            "ro": "Punct de plecare în centru.",
+            "en": "Starting point in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Halbinsel Marlera",
+            "hu": "Marlera-félsziget",
+            "ro": "Peninsula Marlera",
+            "en": "Marlera Peninsula"
+          },
+          "coords": [
+            13.99,
+            44.815
+          ],
+          "category": "park",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Unberührte Natur und Schotterwege entlang der Küste.",
+            "hu": "Érintetlen természet és kavicsos utak a part mentén.",
+            "ro": "Natură neatinsă și drumuri pietruite de-a lungul coastei.",
+            "en": "Untouched nature and gravel paths along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Marlera",
+            "hu": "Marlera világítótorony",
+            "ro": "Farul Marlera",
+            "en": "Marlera Lighthouse"
+          },
+          "coords": [
+            14.001,
+            44.811
+          ],
+          "category": "landmark",
+          "arrive_at": "11:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein einsamer Leuchtturm mit Blick auf die Insel Cres.",
+            "hu": "Magányos világítótorony kilátással Cres szigetére.",
+            "ro": "Un far singuratic cu vedere spre insula Cres.",
+            "en": "A lonely lighthouse with a view of Cres island."
+          }
+        },
+        {
+          "name": {
+            "de": "Versteckte Bucht Badepause",
+            "hu": "Rejtett öböl strandolás",
+            "ro": "Pauză de baie în golf ascuns",
+            "en": "Hidden Cove Swim Break"
+          },
+          "coords": [
+            13.985,
+            44.818
+          ],
+          "category": "beach",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Finden Sie Ihren eigenen Platz am felsigen Ufer.",
+            "hu": "Találja meg saját helyét a sziklás parton.",
+            "ro": "Găsiți-vă propriul loc pe țărmul stâncos.",
+            "en": "Find your own spot on the rocky shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Dorf",
+            "hu": "Ebéd a faluban",
+            "ro": "Prânz în sat",
+            "en": "Lunch in the Village"
+          },
+          "coords": [
+            13.958,
+            44.828
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Stärken Sie sich für den Rest der Tour.",
+            "hu": "Gyűjtsön erőt a túra hátralévő részéhez.",
+            "ro": "Primiți energie pentru restul turului.",
+            "en": "Get energy for the rest of the tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht Kuje",
+            "hu": "Kuje-öböl",
+            "ro": "Golful Kuje",
+            "en": "Kuje Bay"
+          },
+          "coords": [
+            13.9725,
+            44.8235
+          ],
+          "category": "beach",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp an der archäologischen Stätte.",
+            "hu": "Rövid megálló a régészeti lelőhelynél.",
+            "ro": "O scurtă oprire la situl arheologic.",
+            "en": "A short stop at the archaeological site."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Muttergottes von Kuj",
+            "hu": "Kuji Boldogasszony-templom",
+            "ro": "Biserica Maicii Domnului din Kuj",
+            "en": "Church of Mother of God from Kuj"
+          },
+          "coords": [
+            13.9715,
+            44.8242
+          ],
+          "category": "religious",
+          "arrive_at": "16:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Letzte Besichtigung vor der Rückkehr.",
+            "hu": "Utolsó látnivaló a visszatérés előtt.",
+            "ro": "Ultima vizită înainte de întoarcere.",
+            "en": "Last visit before returning."
+          }
+        },
+        {
+          "name": {
+            "de": "Gelato-Stopp",
+            "hu": "Fagylaltozás",
+            "ro": "Oprire pentru înghețată",
+            "en": "Gelato Stop"
+          },
+          "coords": [
+            13.957,
+            44.8285
+          ],
+          "category": "gastro",
+          "arrive_at": "17:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Verdiente Abkühlung nach der Fahrt.",
+            "hu": "Megérdemelt hűsítő a tekerés után.",
+            "ro": "Răcorire binemeritată după plimbare.",
+            "en": "Well-deserved cool down after the ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die wilde Schönheit von Ližnjan mit dem Fahrrad. Von der St. Martinskirche führt der Weg zur unberührten Halbinsel Marlera, wo Schotterwege und eine raue Küste auf Sie warten.\n\nBesuchen Sie den einsamen Leuchtturm am Ende der Halbinsel und genießen Sie die Stille. Eine Pause in einer der versteckten Buchten bietet die perfekte Erfrischung im Meer.\n\nNach einem stärkenden Mittagessen im Dorf radeln Sie zur Kuje-Bucht, um die archäologischen Schätze und die kleine Kapelle zu besichtigen.\n\nDer Tag endet entspannt mit einem hausgemachten Eis im Dorfzentrum, während Sie die Kilometer des Tages Revue passieren lassen.",
+        "hu": "Fedezze fel Ližnjan vad szépségét kerékpárral. A Szent Márton-templomtól az út az érintetlen Marlera-félszigetre vezet, ahol kavicsos utak és vadpart várja.\n\nLátogassa meg a magányos világítótornyot a félsziget végén, és élvezze a csendet. Egy pihenő az egyik rejtett öbölben tökéletes felfrissülést nyújt a tengerben.\n\nEgy laktató falusi ebéd után tekerjen el a Kuje-öbölhöz, hogy megtekintse a régészeti kincseket és a kis kápolnát.\n\nA napot egy házi fagyival zárhatja a falu központjában, miközben felidézi a nap során megtett kilométereket.",
+        "ro": "Explorați frumusețea sălbatică a localității Ližnjan cu bicicleta. De la biserica Sfântul Martin, drumul duce spre peninsula neatinsă Marlera, unde vă așteaptă drumuri de pietriș și o coastă aspră.\n\nVizitați farul singuratic de la capătul peninsulei și bucurați-vă de liniște. O pauză într-unul dintre golfurile ascunse oferă reîmprospătarea perfectă în mare.\n\nDupă un prânz consistent în sat, pedalați spre golful Kuje pentru a vedea comorile arheologice și mica capelă.\n\nZiua se încheie relaxat cu o înghețată artizanală în centrul satului, în timp ce treceți în revistă kilometrii parcurși.",
+        "en": "Explore the wild beauty of Ližnjan by bike. From St. Martin's Church, the path leads to the untouched Marlera Peninsula, where gravel paths and a rugged coast await you.\n\nVisit the lonely lighthouse at the end of the peninsula and enjoy the silence. A break in one of the hidden coves offers the perfect refreshment in the sea.\n\nAfter a hearty lunch in the village, cycle to Kuje Bay to see the archaeological treasures and the small chapel.\n\nThe day ends relaxedly with a homemade gelato in the village center, as you review the kilometers covered during the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Istrische Pasta (Fuži)",
+            "tip": "Häufig mit Trüffeln oder Gulasch serviert."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isztriai tészta (Fuži)",
+            "tip": "Gyakran szarvasgombával vagy vadhússal tálalják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste istriene (Fuži)",
+            "tip": "Servite adesea cu trufe sau gulaș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Istrian Pasta (Fuži)",
+            "tip": "Often served with truffles or goulash."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Svjetionik Marlera",
+            "tip": "Einsamkeit pur am Meer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marlera világítótorony",
+            "tip": "Tiszta magány a tengerparton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farul Marlera",
+            "tip": "Singurătate pură la mare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marlera Lighthouse",
+            "tip": "Pure solitude by the sea.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig aus der Region",
+            "tip": "Würziger Salbeihonig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Regionális méz",
+            "tip": "Fűszeres zsályaméz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere din regiune",
+            "tip": "Miere de salvie aromată."
+          }
+        ],
+        "en": [
+          {
+            "name": "Regional Honey",
+            "tip": "Spicy sage honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Reifendruck vor der Fahrt nach Marlera.",
+          "Nehmen Sie ausreichend Wasser mit, da es auf der Halbinsel keinen Schatten gibt.",
+          "Ein Mountainbike ist für die Schotterwege ideal."
+        ],
+        "hu": [
+          "Ellenőrizze a guminyomást a Marlera felé vezető út előtt.",
+          "Vigyen elegendő vizet, mert a félszigeten nincs árnyék.",
+          "A hegyi kerékpár (MTB) ideális a kavicsos utakhoz."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de drumul spre Marlera.",
+          "Luați suficientă apă, deoarece pe peninsulă nu există umbră.",
+          "O bicicletă de munte este ideală pentru drumurile pietruite."
+        ],
+        "en": [
+          "Check tire pressure before the ride to Marlera.",
+          "Take enough water, as there is no shade on the peninsula.",
+          "A mountain bike is ideal for the gravel paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche des Hl. Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Church of St. Martin"
+          },
+          "coords": [
+            13.9562,
+            44.8291
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Parken Sie im Dorfzentrum.",
+            "hu": "Parkoljon a falu központjában.",
+            "ro": "Parcați în centrul satului.",
+            "en": "Park in the village center."
+          }
+        },
+        {
+          "name": {
+            "de": "Morgenkaffee im Zentrum",
+            "hu": "Reggeli kávé a központban",
+            "ro": "Cafeaua de dimineață în centru",
+            "en": "Morning Coffee in the Center"
+          },
+          "coords": [
+            13.957,
+            44.8285
+          ],
+          "category": "gastro",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre des istrischen Alltags.",
+            "hu": "Élvezze az isztriai mindennapok hangulatát.",
+            "ro": "Bucurați-vă de atmosfera vieții cotidiene istriene.",
+            "en": "Enjoy the atmosphere of everyday Istrian life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Muttergottes von Kuj",
+            "hu": "Kuji Boldogasszony-templom",
+            "ro": "Biserica Maicii Domnului din Kuj",
+            "en": "Church of Mother of God from Kuj"
+          },
+          "coords": [
+            13.9715,
+            44.8242
+          ],
+          "category": "religious",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Einfache Anfahrt über die asphaltierte Straße zur Bucht.",
+            "hu": "Egyszerű megközelítés az öbölhöz vezető aszfaltozott úton.",
+            "ro": "Acces ușor prin drumul asfaltat spre golf.",
+            "en": "Easy access via the paved road to the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht Kuje & Archäologie",
+            "hu": "Kuje-öböl és régészet",
+            "ro": "Golful Kuje și arheologie",
+            "en": "Kuje Bay & Archaeology"
+          },
+          "coords": [
+            13.9725,
+            44.8235
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Überreste der römischen Villa.",
+            "hu": "Látogassa meg a római villa maradványait.",
+            "ro": "Vizitați resturile vilei romane.",
+            "en": "Visit the remains of the Roman villa."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Marlera",
+            "hu": "Marlera világítótorony",
+            "ro": "Farul Marlera",
+            "en": "Marlera Lighthouse"
+          },
+          "coords": [
+            14.001,
+            44.811
+          ],
+          "category": "landmark",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Vorsicht auf dem unbefestigten Weg, langsam fahren.",
+            "hu": "Vigyázat a nem szilárd burkolatú úton, vezessen lassan.",
+            "ro": "Atenție pe drumul neasfaltat, conduceți încet.",
+            "en": "Caution on the unpaved path, drive slowly."
+          }
+        },
+        {
+          "name": {
+            "de": "Spätes Mittagessen in der Konoba",
+            "hu": "Késői ebéd a konobában",
+            "ro": "Prânz târziu la konoba",
+            "en": "Late Lunch in the Konoba"
+          },
+          "coords": [
+            13.9585,
+            44.8275
+          ],
+          "category": "gastro",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag bei gutem Essen ausklingen.",
+            "hu": "Zárja a napot egy jó étkezéssel.",
+            "ro": "Încheiați ziua cu o masă bună.",
+            "en": "End the day with a good meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie Ližnjan komfortabel mit dem Auto. Starten Sie im Dorfzentrum bei der St. Martinskirche und genießen Sie einen Kaffee, bevor Sie zur geschichtsträchtigen Kuje-Bucht fahren.\n\nDort entdecken Sie die antiken Überreste einer römischen Villa und die charmante Kapelle der Muttergottes von Kuj. Die Bucht lädt auch zu einer entspannten Badepause ein.\n\nWeiter geht es zum südlichsten Punkt, dem Leuchtturm Marlera. Die Fahrt führt über unbefestigte Wege durch eine wilde Naturlandschaft mit weiten Ausblicken auf das Meer.\n\nZurück im Dorf erwartet Sie ein exzellentes Abendessen in einer der lokalen Konobas, wo Sie die Aromen Istriens genießen können.",
+        "hu": "Fedezze fel Ližnjant kényelmesen autóval. Kezdjen a falu központjában a Szent Márton-templomnál, és igyon meg egy kávét, mielőtt a történelmi Kuje-öbölhöz hajtana.\n\nOtt fedezze fel egy római villa antik maradványait és a Kuji Boldogasszony bájos kápolnáját. Az öböl pihentető fürdőzésre is csábít.\n\nFolytassa útját a legdélebbi pontig, a Marlera világítótoronyhoz. Az út nem aszfaltozott ösvényeken vezet keresztül a vad természeti tájon, tágas kilátással a tengerre.\n\nVisszatérve a faluba, kiváló vacsora várja az egyik helyi konobában, ahol élvezheti Isztria ízeit.",
+        "ro": "Experimentați Ližnjan confortabil cu mașina. Începeți în centrul satului la biserica Sfântul Martin și savurați o cafea înainte de a merge la golful istoric Kuje.\n\nAcolo veți descoperi resturile antice ale unei vile romane și fermecătoarea capelă a Maicii Domnului din Kuj. Golful vă invită, de asemenea, la o pauză de baie relaxantă.\n\nContinuați spre cel mai sudic punct, farul Marlera. Drumul duce pe poteci neasfaltate printr-un peisaj natural sălbatic, cu vederi largi spre mare.\n\nReveniți în sat pentru o cină excelentă la una dintre konobele locale, unde puteți savura aromele Istriei.",
+        "en": "Experience Ližnjan comfortably by car. Start in the village center at St. Martin's Church and enjoy a coffee before driving to the historic Kuje Bay.\n\nThere you will discover the ancient remains of a Roman villa and the charming chapel of the Mother of God from Kuj. The bay also invites you for a relaxing swim break.\n\nContinue to the southernmost point, the Marlera Lighthouse. The drive leads over unpaved paths through a wild natural landscape with wide views of the sea.\n\nBack in the village, an excellent dinner awaits you in one of the local konobas, where you can enjoy the flavors of Istria."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frische Meeresfrüchte",
+            "tip": "Direkt aus den Netzen der lokalen Fischer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss tenger gyümölcsei",
+            "tip": "Közvetlenül a helyi halászok hálóiból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fructe de mare proaspete",
+            "tip": "Direct din plasele pescarilor locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Seafood",
+            "tip": "Directly from the nets of local fishermen."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Poluotok Marlera",
+            "tip": "Weite Natur ohne Menschenmassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marlera-félsziget",
+            "tip": "Tágas természet tömegek nélkül.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peninsula Marlera",
+            "tip": "Natură vastă fără mulțimi.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marlera Peninsula",
+            "tip": "Wide nature without crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Malvazija oder Teran vom Weingut."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Malvazija vagy Teran a borászatból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Malvazija sau Teran de la cramă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Malvazija or Teran from the winery."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Leuchtturm ist steinig, fahren Sie vorsichtig.",
+          "Parken im Zentrum ist meist kostenlos.",
+          "Kombinieren Sie den Ausflug mit einem Besuch im nahen Medulin."
+        ],
+        "hu": [
+          "A világítótoronyhoz vezető út köves, vezessen óvatosan.",
+          "A központban a parkolás általában ingyenes.",
+          "Kombinálja a kirándulást a közeli Medulin meglátogatásával."
+        ],
+        "ro": [
+          "Drumul spre far este pietros, conduceți cu atenție.",
+          "Parcarea în centru este de obicei gratuită.",
+          "Combinați excursia cu o vizită în Medulinul din apropiere."
+        ],
+        "en": [
+          "The road to the lighthouse is stony, drive carefully.",
+          "Parking in the center is mostly free.",
+          "Combine the trip with a visit to nearby Medulin."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busstation Ližnjan",
+            "hu": "Ližnjan buszmegálló",
+            "ro": "Stația de autobuz Ližnjan",
+            "en": "Ližnjan Bus Station"
+          },
+          "coords": [
+            13.9555,
+            44.8295
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ankunft mit dem Bus aus Pula oder Medulin.",
+            "hu": "Érkezés busszal Pulából vagy Medulinból.",
+            "ro": "Sosire cu autobuzul din Pula sau Medulin.",
+            "en": "Arrival by bus from Pula or Medulin."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Martin",
+            "hu": "Szent Márton-templom",
+            "ro": "Biserica Sfântul Martin",
+            "en": "Church of St. Martin"
+          },
+          "coords": [
+            13.9562,
+            44.8291
+          ],
+          "category": "religious",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Fußweg von der Haltestelle.",
+            "hu": "Csak rövid séta a megállótól.",
+            "ro": "La doar o scurtă plimbare de stație.",
+            "en": "Just a short walk from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Muttergottes von Kuj",
+            "hu": "Kuji Boldogasszony-templom",
+            "ro": "Biserica Maicii Domnului din Kuj",
+            "en": "Church of Mother of God from Kuj"
+          },
+          "coords": [
+            13.9715,
+            44.8242
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Wanderung durch die Felder zur Küste.",
+            "hu": "Túra a mezőkön keresztül a tengerpartig.",
+            "ro": "Drumeție prin câmpuri spre coastă.",
+            "en": "Hike through the fields to the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht Kuje & Strandzeit",
+            "hu": "Kuje-öböl és strandolás",
+            "ro": "Golful Kuje și timp de plajă",
+            "en": "Kuje Bay & Beach Time"
+          },
+          "coords": [
+            13.9725,
+            44.8235
+          ],
+          "category": "beach",
+          "arrive_at": "11:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Nachmittag am Meer.",
+            "hu": "Élvezze a délutánt a tengerparton.",
+            "ro": "Bucurați-vă de după-amiază la mare.",
+            "en": "Enjoy the afternoon by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Dorf-Konoba",
+            "hu": "Ebéd a falusi konobában",
+            "ro": "Prânz la konoba din sat",
+            "en": "Lunch in the Village Konoba"
+          },
+          "coords": [
+            13.9585,
+            44.8275
+          ],
+          "category": "gastro",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Rückweg ins Dorf für eine Mahlzeit.",
+            "hu": "Visszaút a faluba egy étkezésre.",
+            "ro": "Întoarcere în sat pentru o masă.",
+            "en": "Way back to the village for a meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschiedsgetränk am Hafen",
+            "hu": "Búcsúital a kikötőben",
+            "ro": "Băutură de rămas bun în port",
+            "en": "Farewell Drink at the Harbour"
+          },
+          "coords": [
+            13.965,
+            44.822
+          ],
+          "category": "harbor",
+          "arrive_at": "17:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen vor der Rückfahrt mit dem Bus.",
+            "hu": "Pihenés a visszautazás előtt.",
+            "ro": "Relaxare înainte de întoarcerea cu autobuzul.",
+            "en": "Relax before the return bus trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Ližnjan nachhaltig mit öffentlichen Verkehrsmitteln. Nach der Ankunft an der Busstation ist es nur ein kurzer Sprung zur St. Martinskirche.\n\nEin schöner Spaziergang führt Sie durch die istrische Landschaft hinunter zur Kuje-Bucht, wo Sie die kleine Kapelle besichtigen und einen langen, entspannten Nachmittag am Strand verbringen können.\n\nSpäter wandern Sie zurück ins Dorf, um sich in einer traditionellen Konoba zu stärken. Den Tag beschließen Sie mit einem kühlen Getränk am Hafen, bevor Sie den Bus für die Rückreise nehmen.\n\nDieser Modus ermöglicht es Ihnen, das Tempo zu drosseln und die Umgebung zu Fuß zu genießen, während das Auto stehen bleibt.",
+        "hu": "Fedezze fel Ližnjant fenntartható módon, tömegközlekedéssel. A buszmegállóba érkezés után csak egy rövid ugrás a Szent Márton-templom.\n\nEgy szép séta vezet végig az isztriai tájon le a Kuje-öbölhöz, ahol megtekintheti a kis kápolnát, és egy hosszú, pihentető délutánt tölthet a strandon.\n\nKésőbb sétáljon vissza a faluba, hogy egy hagyományos konobában felfrissüljön. A napot egy hűsítő itallal zárja a kikötőben, mielőtt felszállna a visszainduló buszra.\n\nEz a mód lehetővé teszi, hogy lelassítsa a tempót és gyalogosan élvezze a környezetet, miközben az autó pihen.",
+        "ro": "Explorați Ližnjan în mod sustenabil cu transportul public. După sosirea la stația de autobuz, este doar o scurtă plimbare până la biserica Sfântul Martin.\n\nO plimbare frumoasă vă poartă prin peisajul istrian jos spre golful Kuje, unde puteți vizita mica capelă și puteți petrece o după-amiază lungă și relaxantă pe plajă.\n\nMai târziu, mergeți înapoi în sat pentru a vă reîmprospăta într-o konoba tradițională. Încheiați ziua cu o băutură rece în port înainte de a lua autobuzul înapoi.\n\nAcest mod vă permite să reduceți ritmul și să vă bucurați de împrejurimi pe jos, în timp ce mașina rămâne parcată.",
+        "en": "Explore Ližnjan sustainably using public transport. After arriving at the bus station, it's just a short hop to St. Martin's Church.\n\nA lovely walk takes you through the Istrian landscape down to Kuje Bay, where you can visit the small chapel and spend a long, relaxed afternoon on the beach.\n\nLater, hike back to the village to refresh in a traditional konoba. Conclude the day with a cool drink at the harbour before catching the return bus.\n\nThis mode allows you to slow down and enjoy the surroundings on foot while leaving the car behind."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Istrischer Käse",
+            "tip": "Schafs- oder Ziegenkäse mit Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isztriai sajt",
+            "tip": "Juh- vagy kecskesajt olívaolajjal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză istriană",
+            "tip": "Brânză de oaie sau capră cu ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Istrian Cheese",
+            "tip": "Sheep or goat cheese with olive oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche Majke Božje od Kuj",
+            "tip": "Stille und Einkehr nahe der Bucht.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kuji Boldogasszony-templom",
+            "tip": "Csend és elmélyülés az öböl közelében.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Maicii Domnului din Kuj",
+            "tip": "Liniște și reculegere lângă golf.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church of Mother of God from Kuj",
+            "tip": "Silence and contemplation near the bay.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Getrocknete Feigen",
+            "tip": "Ein gesunder Snack für die Wanderung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aszalt füge",
+            "tip": "Egészséges snack a túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smochine uscate",
+            "tip": "O gustare sănătoasă pentru drumeție."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dried Figs",
+            "tip": "A healthy snack for the hike."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den aktuellen Busfahrplan vorab online.",
+          "Nehmen Sie Sonnenschutz für den Fußweg zur Bucht mit.",
+          "Tragen Sie feste Schuhe für die unbefestigten Wege."
+        ],
+        "hu": [
+          "Előre ellenőrizze az aktuális buszmenetrendet online.",
+          "Vigyen naptejet az öbölhöz vezető sétához.",
+          "Viseljen zárt cipőt a nem aszfaltozott utakhoz."
+        ],
+        "ro": [
+          "Verificați în prealabil orarul actualizat al autobuzelor online.",
+          "Luați protecție solară pentru plimbarea spre golf.",
+          "Purtați pantofi închiși pentru drumurile neasfaltate."
+        ],
+        "en": [
+          "Check the current bus schedule online in advance.",
+          "Take sun protection for the walk to the bay.",
+          "Wear sturdy shoes for the unpaved paths."
+        ]
+      }
+    }
+  }
+}

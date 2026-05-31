@@ -1,0 +1,960 @@
+{
+  "city_id": "croatia-jasenice-cities-v2",
+  "anchor": {
+    "name": "Jasenice",
+    "coords": [
+      15.5777,
+      44.2286
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Kaffee am Meer",
+          "coords": [
+            15.541,
+            44.221
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Novigrad-Kanal.",
+            "hu": "Élvezze a kilátást a Novigradi-csatornára.",
+            "ro": "Bucurați-vă de priveliștea asupra canalului Novigrad.",
+            "en": "Enjoy the view over the Novigrad Channel."
+          }
+        },
+        {
+          "name": "Crkva sv. Jeronima",
+          "coords": [
+            15.543,
+            44.222
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine friedliche Kirche im Herzen von Maslenica.",
+            "hu": "Egy békés templom Maslenica szívében.",
+            "ro": "O biserică liniștită în inima Maslenica.",
+            "en": "A peaceful church in the heart of Maslenica."
+          }
+        },
+        {
+          "name": "Maslenički most",
+          "coords": [
+            15.545,
+            44.225
+          ],
+          "category": "landmark",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Die berühmte rote Brücke bietet fantastische Fotomotive.",
+            "hu": "A híres vörös híd fantasztikus fotótémát kínál.",
+            "ro": "Celebrul pod roșu oferă oportunități foto fantastice.",
+            "en": "The famous red bridge offers fantastic photo opportunities."
+          }
+        },
+        {
+          "name": "Strandpause in Maslenica",
+          "coords": [
+            15.542,
+            44.223
+          ],
+          "category": "beach",
+          "arrive_at": "11:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser lädt zum Schwimmen ein.",
+            "hu": "Kristálytiszta víz csábít úszásra.",
+            "ro": "Apa de cristal vă invită la înot.",
+            "en": "Crystal clear water invites for a swim."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            15.544,
+            44.224
+          ],
+          "category": "gastro",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch oder Peka.",
+            "hu": "Kóstolja meg a friss halat vagy a pekát.",
+            "ro": "Încercați peștele proaspăt sau peka.",
+            "en": "Try fresh fish or local peka."
+          }
+        },
+        {
+          "name": "Spaziergang an der Riva",
+          "coords": [
+            15.54,
+            44.221
+          ],
+          "category": "harbor",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss am kleinen Hafen.",
+            "hu": "Egy pihentető lezárás a kis kikötőben.",
+            "ro": "O încheiere relaxantă în micul port.",
+            "en": "A relaxing finish at the small harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Jasenice und den Ort Maslenica zu Fuß. Der Weg führt vom gemütlichen Hafenviertel zur historischen St.-Hieronymus-Kirche und weiter zur ikonischen roten Maslenica-Brücke. Genießen Sie den Vormittag mit Panoramablicken auf den Novigrad-Kanal, verbringen Sie entspannte Stunden am Kieselstrand und lassen Sie den Tag bei dalmatinischen Spezialitäten direkt am Wasser ausklingen.",
+        "hu": "Fedezze fel Jasenicét és Maslenicát gyalogosan. Az út a hangulatos kikötőtől a Szent Jeromos-templomig, majd az ikonikus vörös Maslenica-hídig vezet. Élvezze a délelőttöt a Novigradi-csatorna panorámájával, töltsön el pihentető órákat a kavicsos strandon, végül zárja a napot helyi dalmát specialitásokkal közvetlenül a vízparton.",
+        "ro": "Explorați Jasenice și localitatea Maslenica pe jos. Traseul duce de la zona portuară primitoare la biserica istorică Sf. Ieronim și mai departe la emblematicul pod roșu Maslenica. Bucurați-vă de dimineață cu vederi panoramice asupra canalului Novigrad, petreceți ore relaxante pe plaja cu pietriș și încheiați ziua cu specialități dalmate chiar lângă apă.",
+        "en": "Explore Jasenice and Maslenica on foot. The path leads from the cozy harbor to the historical St. Jerome Church and on to the iconic red Maslenica Bridge. Enjoy the morning with panoramic views of the Novigrad Channel, spend relaxing hours at the pebble beach, and finish the day with local Dalmatian specialties right by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dalmatinischer Schinken",
+            "tip": "Pršut aus dem Velebit-Hinterland."
+          },
+          {
+            "name": "Frische Meeresfrüchte",
+            "tip": "Direkt aus dem Novigrad-Meer gefangen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalmát sonka",
+            "tip": "Pršut a Velebit hátországából."
+          },
+          {
+            "name": "Friss tenger gyümölcsei",
+            "tip": "Közvetlenül a Novigradi-tengerből fogva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șuncă dalmată",
+            "tip": "Pršut din hinterlandul Velebit."
+          },
+          {
+            "name": "Fructe de mare proaspete",
+            "tip": "Prinse direct din Marea Novigrad."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalmatian Ham",
+            "tip": "Pršut from the Velebit hinterland."
+          },
+          {
+            "name": "Fresh Seafood",
+            "tip": "Caught directly from the Novigrad Sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Riva Maslenica",
+            "tip": "Ruhiger Spaziergang bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maslenica Riva",
+            "tip": "Csendes séta naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Riva Maslenica",
+            "tip": "Plimbare liniștită la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Maslenica Riva",
+            "tip": "Quiet stroll at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Direkt vom Erzeuger in Jasenice."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Közvetlenül a termelőtől Jasenicén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Direct de la producător în Jasenice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Directly from the producer in Jasenice."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Weg zur Brücke.",
+          "Die Strände in Maslenica sind kieselig, Badeschuhe sind ratsam."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a hídhoz vezető úton.",
+          "A maslenicai strandok kavicsosak, fürdőcipő ajánlott."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru drumul spre pod.",
+          "Plajele din Maslenica sunt cu pietriș, se recomandă încălțăminte de apă."
+        ],
+        "en": [
+          "Wear comfortable shoes for the walk to the bridge.",
+          "The beaches in Maslenica are pebbly, water shoes are advised."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Crkva sv. Jeronima",
+          "coords": [
+            15.543,
+            44.222
+          ],
+          "category": "religious",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Startpunkt der Tour in Maslenica.",
+            "hu": "A túra kezdőpontja Maslenicán.",
+            "ro": "Punctul de plecare al turului în Maslenica.",
+            "en": "Starting point of the tour in Maslenica."
+          }
+        },
+        {
+          "name": "Maslenički most",
+          "coords": [
+            15.545,
+            44.225
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Blick auf den Zrmanja-Canyon-Eingang.",
+            "hu": "Kilátás a Zrmanja-kanyon bejáratára.",
+            "ro": "Vedere spre intrarea în canionul Zrmanja.",
+            "en": "View of the Zrmanja canyon entrance."
+          }
+        },
+        {
+          "name": "Küste von Rovanjska",
+          "coords": [
+            15.535,
+            44.24
+          ],
+          "category": "harbor",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Pause am charmanten kleinen Hafen.",
+            "hu": "Pihenő a bájos kis kikötőben.",
+            "ro": "Pauză în micul port fermecător.",
+            "en": "Break at the charming small harbor."
+          }
+        },
+        {
+          "name": "Modrič špilja",
+          "coords": [
+            15.548,
+            44.25
+          ],
+          "category": "landmark",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Einzigartige Höhle direkt am Meer.",
+            "hu": "Egyedülálló barlang közvetlenül a tengerparton.",
+            "ro": "Peșteră unică chiar lângă mare.",
+            "en": "Unique cave located right by the sea."
+          }
+        },
+        {
+          "name": "Picknick am Meer",
+          "coords": [
+            15.546,
+            44.248
+          ],
+          "category": "beach",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ruhiger Platz für eine Stärkung.",
+            "hu": "Csendes hely a felfrissüléshez.",
+            "ro": "Loc liniștit pentru o gustare.",
+            "en": "Quiet spot for refreshment."
+          }
+        },
+        {
+          "name": "Mittagessen in Rovanjska",
+          "coords": [
+            15.536,
+            44.238
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Hervorragende Meeresfrüchte.",
+            "hu": "Kiváló tengeri ételek.",
+            "ro": "Fructe de mare excelente.",
+            "en": "Excellent seafood options."
+          }
+        },
+        {
+          "name": "Rückkehr nach Maslenica",
+          "coords": [
+            15.541,
+            44.221
+          ],
+          "category": "harbor",
+          "arrive_at": "16:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Abschluss der Küstentour.",
+            "hu": "A part menti túra lezárása.",
+            "ro": "Finalul turului de coastă.",
+            "en": "End of the coastal bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Biketour verbindet die Küstenlandschaft von Maslenica mit der mysteriösen Modrič-Höhle. Radeln Sie entlang der Adria-Magistrale (Vorsicht geboten) oder nutzen Sie die Nebenwege in Rovanjska. Die Strecke bietet spektakuläre Ausblicke auf das Meer und die imposanten Felsen des Velebit-Gebirges im Hintergrund, mit genügend Zeit für eine Höhlenführung und ein Mittagessen am Hafen.",
+        "hu": "Ez a kerékpártúra Maslenica tengerparti tájait köti össze a rejtélyes Modrič-barlanggal. Teerjen az Adria-menti úton (vigyázva!) vagy használja Rovanjska mellékutcáit. Az útvonal látványos kilátást nyújt a tengerre és a háttérben tornyosuló Velebit-hegység szikláira, elegendő időt hagyva egy barlangtúrára és egy kikötői ebédre.",
+        "ro": "Acest tur cu bicicleta combină peisajul de coastă din Maslenica cu misterioasa peșteră Modrič. Pedalați de-a lungul magistralei Adriatice (cu atenție!) sau folosiți drumurile secundare din Rovanjska. Traseul oferă vederi spectaculoase asupra mării și a stâncilor impunătoare ale munților Velebit în fundal, cu destul timp pentru un tur al peșterii și un prânz în port.",
+        "en": "This bike tour connects the coastal landscape of Maslenica with the mysterious Modrič Cave. Cycle along the Adriatic highway (with caution!) or use side roads in Rovanjska. The route offers spectacular views of the sea and the imposing rocks of the Velebit mountains in the background, with plenty of time for a cave tour and a harbor lunch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Velebit-Salbeihonig ist weltberühmt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "A velebiti zsályaméz világhírű."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Mierea de salvie din Velebit este celebră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Velebit sage honey is world-famous."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rovanjska Bucht",
+            "tip": "Perfekt für eine stille Pause.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rovanjska-öböl",
+            "tip": "Tökéletes egy csendes pihenőhöz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Rovanjska",
+            "tip": "Perfect pentru o pauză liniștită.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rovanjska Bay",
+            "tip": "Perfect for a quiet break.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Getrocknete Feigen",
+            "tip": "Eine gesunde lokale Delikatesse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szárított füge",
+            "tip": "Egészséges helyi csemege."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smochine uscate",
+            "tip": "O delicatesă locală sănătoasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dried Figs",
+            "tip": "A healthy local delicacy."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Für die Modrič-Höhle ist eine Voranmeldung oft nötig.",
+          "Ein Helm ist auf der Magistrale unerlässlich."
+        ],
+        "hu": [
+          "A Modrič-barlanghoz gyakran előzetes bejelentkezés szükséges.",
+          "A sisak elengedhetetlen a főúton."
+        ],
+        "ro": [
+          "Pentru peștera Modrič este necesară adesea rezervarea prealabilă.",
+          "Casca este esențială pe magistrală."
+        ],
+        "en": [
+          "Pre-booking is often necessary for Modrič Cave.",
+          "A helmet is essential on the main highway."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 42.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Maslenički most",
+          "coords": [
+            15.545,
+            44.225
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erster Stopp für den perfekten Panoramablick.",
+            "hu": "Első megálló a tökéletes panorámához.",
+            "ro": "Prima oprire pentru o vedere panoramică perfectă.",
+            "en": "First stop for the perfect panoramic view."
+          }
+        },
+        {
+          "name": "Crkva sv. Jeronima",
+          "coords": [
+            15.543,
+            44.222
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Besichtigung der Dorfkirche.",
+            "hu": "A falusi templom rövid megtekintése.",
+            "ro": "Scurtă vizită la biserica satului.",
+            "en": "Short visit to the village church."
+          }
+        },
+        {
+          "name": "Modrič špilja",
+          "coords": [
+            15.548,
+            44.25
+          ],
+          "category": "landmark",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die unterirdischen Wunder.",
+            "hu": "Fedezze fel a föld alatti csodákat.",
+            "ro": "Explorați minunile subterane.",
+            "en": "Explore the underground wonders."
+          }
+        },
+        {
+          "name": "Mittagessen in Jasenice",
+          "coords": [
+            15.578,
+            44.229
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Lamm am Spieß ist hier die Spezialität.",
+            "hu": "A sült bárány itt a specialitás.",
+            "ro": "Mielul la proțap este specialitatea aici.",
+            "en": "Spit-roasted lamb is the specialty here."
+          }
+        },
+        {
+          "name": "Tulove grede",
+          "coords": [
+            15.61,
+            44.265
+          ],
+          "category": "mountain",
+          "arrive_at": "14:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Spektakuläre Kalksteinfelsen im Velebit.",
+            "hu": "Látványos mészkősziklák a Velebitben.",
+            "ro": "Stânci de calcar spectaculoase în Velebit.",
+            "en": "Spectacular limestone peaks in Velebit."
+          }
+        },
+        {
+          "name": "Fotostopp Winnetou-Drehort",
+          "coords": [
+            15.605,
+            44.26
+          ],
+          "category": "historical",
+          "arrive_at": "16:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Berühmte Drehorte der Winnetou-Filme.",
+            "hu": "Híres Winnetou-filmek forgatási helyszíne.",
+            "ro": "Locații celebre de filmare pentru Winnetou.",
+            "en": "Famous filming locations for Winnetou movies."
+          }
+        },
+        {
+          "name": "Abendessen in Rovanjska",
+          "coords": [
+            15.536,
+            44.238
+          ],
+          "category": "gastro",
+          "arrive_at": "16:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Abfahrt.",
+            "hu": "Utolsó megálló az indulás előtt.",
+            "ro": "Ultima oprire înainte de plecare.",
+            "en": "Last stop before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autoroute bietet das ultimative Erlebnis zwischen Meer und Gebirge. Nach dem Besuch der Küstenhighlights wie der Maslenica-Brücke und der Modrič-Höhle führt die Fahrt hinauf in den Velebit zu den Tulove Grede. Die markanten Felsformationen sind nicht nur ein Naturwunder, sondern auch Kultstätte für Filmfans. Die Straße dorthin (Majstorska cesta) ist ein Abenteuer für sich mit unvergleichlichen Ausblicken.",
+        "hu": "Ez az autós útvonal a tenger és a hegyek közötti végső élményt nyújtja. A part menti látnivalók, mint a Maslenica-híd és a Modrič-barlang után az út felvezet a Velebitbe, a Tulove Grede szikláihoz. A markáns képződmények nemcsak természeti csodák, hanem a filmrajongók zarándokhelye is. Az odavezető út (Majstorska cesta) önmagában is kaland, páratlan kilátással.",
+        "ro": "Acest traseu auto oferă experiența supremă între mare și munte. După vizitarea punctelor de interes de pe coastă, cum ar fi podul Maslenica și peștera Modrič, drumul urcă în Velebit spre Tulove Grede. Formațiunile stâncoase marcante nu sunt doar o minune a naturii, ci și un loc de cult pentru fanii filmelor. Drumul până acolo (Majstorska cesta) este o aventură în sine, cu vederi de neegalat.",
+        "en": "This car route offers the ultimate experience between the sea and the mountains. After visiting coastal highlights like the Maslenica Bridge and Modrič Cave, the drive leads up into Velebit to Tulove Grede. The striking rock formations are not only a natural wonder but also a cult site for movie fans. The road there (Majstorska cesta) is an adventure in itself with unparalleled views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Velebit-Käse",
+            "tip": "Würziger Käse von den Berghängen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velebiti sajt",
+            "tip": "Fűszeres sajt a hegyoldalakról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză din Velebit",
+            "tip": "Brânză picantă de pe versanții muntelui."
+          }
+        ],
+        "en": [
+          {
+            "name": "Velebit Cheese",
+            "tip": "Spicy cheese from the mountain slopes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tulove grede Gipfel",
+            "tip": "Stille der Berge mit Meerblick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tulove grede csúcs",
+            "tip": "A hegyek csendje tengeri kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Tulove grede",
+            "tip": "Liniștea munților cu vedere la mare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tulove grede Peak",
+            "tip": "Mountain silence with sea views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kräuterlikör",
+            "tip": "Hergestellt aus Velebit-Wildkräutern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógynövénylikőr",
+            "tip": "Velebiti vadon termő füvekből készül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lichior de ierburi",
+            "tip": "Fabricat din ierburi sălbatice din Velebit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herbal Liqueur",
+            "tip": "Made from Velebit wild herbs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Majstorska cesta ist eine Schotterstraße, fahren Sie vorsichtig.",
+          "Parken an der Brücke ist auf der Südseite einfacher."
+        ],
+        "hu": [
+          "A Majstorska cesta murvás út, vezessen óvatosan.",
+          "A hídnál a parkolás a déli oldalon egyszerűbb."
+        ],
+        "ro": [
+          "Majstorska cesta este un drum neasfaltat, conduceți cu atenție.",
+          "Parcarea la pod este mai ușoară pe partea de sud."
+        ],
+        "en": [
+          "The Majstorska cesta is a gravel road, drive carefully.",
+          "Parking at the bridge is easier on the south side."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Maslenica Zentrum",
+          "coords": [
+            15.541,
+            44.221
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ankunft mit dem Lokalbus aus Zadar.",
+            "hu": "Érkezés a zadari helyi busszal.",
+            "ro": "Sosire cu autobuzul local din Zadar.",
+            "en": "Arrival by local bus from Zadar."
+          }
+        },
+        {
+          "name": "Crkva sv. Jeronima",
+          "coords": [
+            15.543,
+            44.222
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Busstopp.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "Scurtă plimbare de la stația de autobuz.",
+            "en": "Short walk from the bus stop."
+          }
+        },
+        {
+          "name": "Maslenički most",
+          "coords": [
+            15.545,
+            44.225
+          ],
+          "category": "landmark",
+          "arrive_at": "10:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beste Aussicht von der Fußgängerzone der Brücke.",
+            "hu": "A legjobb kilátás a híd gyalogos részéről.",
+            "ro": "Cea mai bună vedere din zona pietonală a podului.",
+            "en": "Best view from the bridge's pedestrian area."
+          }
+        },
+        {
+          "name": "Rovanjska Riva (Bus)",
+          "coords": [
+            15.536,
+            44.238
+          ],
+          "category": "harbor",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kurze Transitfahrt zum nächsten Dorf.",
+            "hu": "Rövid buszozás a következő faluba.",
+            "ro": "Scurtă călătorie cu tranzit către următorul sat.",
+            "en": "Short transit ride to the next village."
+          }
+        },
+        {
+          "name": "Mittagessen am Hafen",
+          "coords": [
+            15.535,
+            44.237
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lokale Spezialitäten genießen.",
+            "hu": "Helyi specialitások élvezete.",
+            "ro": "Savurați specialitățile locale.",
+            "en": "Enjoy local specialties."
+          }
+        },
+        {
+          "name": "Strand von Rovanjska",
+          "coords": [
+            15.534,
+            44.24
+          ],
+          "category": "beach",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannung vor der Rückfahrt.",
+            "hu": "Pihenés a visszaindulás előtt.",
+            "ro": "Relaxare înainte de întoarcere.",
+            "en": "Relaxation before the return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus lässt sich Jasenice bequem von Zadar aus erkunden. Der Fokus liegt auf den Küstenorten Maslenica und Rovanjska. In Maslenica besuchen Sie die Brücke und die Kirche zu Fuß, bevor Sie mit dem Linienbus ins benachbarte Rovanjska fahren. Dort erwarten Sie ein malerischer kleiner Hafen und ruhige Strände, die ideal für einen entspannten Tag am Novigrad-Meer sind.",
+        "hu": "Busszal Jasenice kényelmesen felfedezhető Zadar felől. A fókusz Maslenica és Rovanjska tengerparti településein van. Maslenicán gyalogosan keresheti fel a hidat és a templomot, mielőtt a menetrend szerinti busszal átmenne a szomszédos Rovanjskába. Ott egy festői kis kikötő és nyugodt strandok várják, amelyek ideálisak egy pihentető naphoz a Novigradi-tengeren.",
+        "ro": "Cu autobuzul, Jasenice poate fi explorat convenabil dinspre Zadar. Accentul este pus pe localitățile de coastă Maslenica și Rovanjska. În Maslenica vizitați podul și biserica pe jos, înainte de a merge cu autobuzul de linie în vecina Rovanjska. Acolo vă așteaptă un mic port pitoresc și plaje liniștite, ideale pentru o zi relaxantă la Marea Novigrad.",
+        "en": "By bus, Jasenice can be conveniently explored from Zadar. The focus is on the coastal villages of Maslenica and Rovanjska. In Maslenica, visit the bridge and the church on foot before taking the local bus to neighboring Rovanjska. There, a picturesque small harbor and quiet beaches await, ideal for a relaxed day at the Novigrad Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eis an der Riva",
+            "tip": "Hausgemachtes Eis in Rovanjska."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fagylalt a korzón",
+            "tip": "Házias fagylalt Rovanjskában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețată pe Riva",
+            "tip": "Înghețată de casă în Rovanjska."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gelato on the Riva",
+            "tip": "Homemade gelato in Rovanjska."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafen von Maslenica",
+            "tip": "Beobachten Sie die Fischerboote.",
+            "emoji": "⚓"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maslenica kikötő",
+            "tip": "Figyelje a halászhajókat.",
+            "emoji": "⚓"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul Maslenica",
+            "tip": "Observați bărcile de pescuit.",
+            "emoji": "⚓"
+          }
+        ],
+        "en": [
+          {
+            "name": "Maslenica Harbor",
+            "tip": "Watch the fishing boats.",
+            "emoji": "⚓"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten-Shop",
+            "tip": "Schöne Motive der Brücke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapbolt",
+            "tip": "Szép fotók a hídról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de vederi",
+            "tip": "Motive frumoase cu podul."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcard Shop",
+            "tip": "Beautiful motifs of the bridge."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan vorab, die Frequenz ist gering.",
+          "Die Bushaltestellen liegen an der Hauptstraße."
+        ],
+        "hu": [
+          "Ellenőrizze a buszmenetrendet előre, a járatok ritkák.",
+          "A buszmegállók a főút mentén találhatók."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, frecvența este redusă.",
+          "Stațiile de autobuz sunt situate la drumul principal."
+        ],
+        "en": [
+          "Check the bus schedule in advance, frequency is low.",
+          "The bus stops are located on the main road."
+        ]
+      }
+    }
+  }
+}

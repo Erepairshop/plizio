@@ -1,0 +1,962 @@
+{
+  "city_id": "croatia-glavice-cities-v2",
+  "anchor": {
+    "name": "Glavice",
+    "coords": [
+      16.6648,
+      43.7075
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Crkva svetog Ivana Krstitelja",
+          "coords": [
+            16.6645,
+            43.7078
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die lokale Kirche für einen Moment der Ruhe.",
+            "hu": "Látogasson el a helyi templomba egy csendes percre.",
+            "ro": "Vizitați biserica locală pentru un moment de liniște.",
+            "en": "Visit the local church for a moment of peace."
+          }
+        },
+        {
+          "name": "Lokales Café",
+          "coords": [
+            16.6662,
+            43.7065
+          ],
+          "category": "gastro",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen kroatischen Kaffee im Dorfzentrum.",
+            "hu": "Élvezzen egy horvát kávét a falu központjában.",
+            "ro": "Savurați o cafea croată în centrul satului.",
+            "en": "Enjoy a Croatian coffee in the village center."
+          }
+        },
+        {
+          "name": "Pripuzovica",
+          "coords": [
+            16.6715,
+            43.712
+          ],
+          "category": "landmark",
+          "arrive_at": "11:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die natürliche Umgebung dieses lokalen Punktes.",
+            "hu": "Fedezze fel a helyi pont természetes környezetét.",
+            "ro": "Explorați împrejurimile naturale ale acestui punct local.",
+            "en": "Explore the natural surroundings of this local spot."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            16.6655,
+            43.7082
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Spezialitäten aus dem Hinterland.",
+            "hu": "Kóstolja meg a hátország helyi specialitásait.",
+            "ro": "Gustați specialități locale din interiorul țării.",
+            "en": "Taste local specialties from the hinterland."
+          }
+        },
+        {
+          "name": "Sinjsko polje (Randbereich)",
+          "coords": [
+            16.675,
+            43.705
+          ],
+          "category": "nature",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick über das weite Sinjsko polje.",
+            "hu": "Élvezze a kilátást a tágas Sinjsko polje felé.",
+            "ro": "Bucurați-vă de priveliștea peste câmpia Sinjsko polje.",
+            "en": "Enjoy the view over the vast Sinjsko polje."
+          }
+        },
+        {
+          "name": "Aussichtspunkt bei Sonnenuntergang",
+          "coords": [
+            16.668,
+            43.709
+          ],
+          "category": "sunset",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein schöner Abschluss des Tages mit Blick auf das Dorf.",
+            "hu": "Szép befejezése a napnak kilátással a falura.",
+            "ro": "Un final frumos al zilei cu vedere spre sat.",
+            "en": "A beautiful end to the day with a view of the village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Spaziergang durch Glavice führt Sie zu historischen Sakralbauten und durch die ruhige Natur des dalmatinischen Hinterlands. Der Vormittag beginnt spirituell und setzt sich mit lokalem Kaffeegenuss fort. Nach einem herzhaften Mittagessen in einer traditionellen Konoba erkunden Sie die Ränder des weiten Sinjsko polje, bevor der Tag bei einem sanften Sonnenuntergang ausklingt.",
+        "hu": "Egy pihentető séta Glavicében elvezeti Önt a történelmi szakrális épületekhez és a dalmát hátország csendes természetébe. A délelőtt spirituálisan indul, majd helyi kávézással folytatódik. Egy kiadós ebéd után egy hagyományos konobában fedezze fel a tágas Sinjsko polje széleit, mielőtt a nap egy lágy naplementével véget érne.",
+        "ro": "O plimbare relaxantă prin Glavice vă poartă spre clădiri sacre istorice și prin natura liniștită a interiorului Dalmației. Dimineața începe spiritual și continuă cu savurarea unei cafele locale. După un prânz copios într-o konoba tradițională, explorați marginile câmpiei Sinjsko polje, înainte ca ziua să se încheie cu un apus blând.",
+        "en": "A relaxed walk through Glavice takes you to historical sacred buildings and through the quiet nature of the Dalmatian hinterland. The morning starts spiritually and continues with local coffee. After a hearty lunch in a traditional konoba, explore the edges of the vast Sinjsko polje before the day concludes with a soft sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pršut & Sir",
+            "tip": "Probieren Sie den luftgetrockneten Schinken und Käse der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pršut és sajt",
+            "tip": "Kóstolja meg a régió levegőn szárított sonkáját és sajtját."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pršut și brânză",
+            "tip": "Încercați șunca uscată la aer și brânza din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pršut & Cheese",
+            "tip": "Try the air-dried ham and cheese of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sinjsko polje Randweg",
+            "tip": "Ruhiger Weg mit weitem Horizont.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sinjsko polje szegélyút",
+            "tip": "Csendes út tágas horizonttal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de margine Sinjsko polje",
+            "tip": "Drum liniștit cu un orizont larg.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sinjsko polje Edge Path",
+            "tip": "Quiet path with a wide horizon.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Frischer Honig von lokalen Imkern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Friss méz helyi méhészektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Miere proaspătă de la apicultorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Fresh honey from local beekeepers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe.",
+          "Die Mittagssonne im Hinterland kann sehr intensiv sein."
+        ],
+        "hu": [
+          "Viseljen kényelmes sétacipőt.",
+          "A déli nap a hátországban nagyon erős lehet."
+        ],
+        "ro": [
+          "Purtați pantofi de mers confortabili.",
+          "Soarele de la amiază în interiorul țării poate fi foarte intens."
+        ],
+        "en": [
+          "Wear comfortable walking shoes.",
+          "The midday sun in the hinterland can be very intense."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Crkva svetog Ivana Krstitelja",
+          "coords": [
+            16.6645,
+            43.7078
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Startpunkt der Tour.",
+            "hu": "A túra kiindulópontja.",
+            "ro": "Punctul de plecare al turului.",
+            "en": "Starting point of the tour."
+          }
+        },
+        {
+          "name": "Pripuzovica",
+          "coords": [
+            16.6715,
+            43.712
+          ],
+          "category": "landmark",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp in der Natur.",
+            "hu": "Rövid megálló a természetben.",
+            "ro": "Scurtă oprire în natură.",
+            "en": "Short stop in nature."
+          }
+        },
+        {
+          "name": "Rijeka Cetina (Uferbereich)",
+          "coords": [
+            16.715,
+            43.725
+          ],
+          "category": "river",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Erfrischende Pause am Flussufer.",
+            "hu": "Frissítő pihenő a folyóparton.",
+            "ro": "Pauză revigorantă pe malul râului.",
+            "en": "Refreshing break by the riverbank."
+          }
+        },
+        {
+          "name": "Mittagspicknick am Fluss",
+          "coords": [
+            16.718,
+            43.723
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ideal für eine Pause im Schatten.",
+            "hu": "Ideális egy árnyékos pihenőhöz.",
+            "ro": "Ideal pentru o pauză la umbră.",
+            "en": "Ideal for a break in the shade."
+          }
+        },
+        {
+          "name": "Sinjsko polje (Durchquerung)",
+          "coords": [
+            16.695,
+            43.7
+          ],
+          "category": "nature",
+          "arrive_at": "13:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Flache Wege durch die landwirtschaftliche Ebene.",
+            "hu": "Lapos utak a mezőgazdasági síkságon át.",
+            "ro": "Drumuri plane prin câmpia agricolă.",
+            "en": "Flat paths through the agricultural plain."
+          }
+        },
+        {
+          "name": "Dorfplatz Glavice",
+          "coords": [
+            16.666,
+            43.707
+          ],
+          "category": "square",
+          "arrive_at": "14:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Kurze Rast im Zentrum.",
+            "hu": "Rövid pihenő a központban.",
+            "ro": "Scurt popas în centru.",
+            "en": "Short rest in the center."
+          }
+        },
+        {
+          "name": "Abschluss-Gelato",
+          "coords": [
+            16.665,
+            43.7085
+          ],
+          "category": "gastro",
+          "arrive_at": "15:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Belohnung nach der Tour.",
+            "hu": "Jutalom a túra után.",
+            "ro": "Răsplată după tur.",
+            "en": "Reward after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Biketour erkundet die weite Ebene des Sinjsko polje und führt bis an die erfrischenden Ufer der Cetina. Die Strecke ist überwiegend flach und bietet weite Ausblicke auf die umliegenden Berge. Nach einem Picknick am Wasser geht es durch die Felder zurück nach Glavice.",
+        "hu": "Ez a kerékpártúra felfedezi a Sinjsko polje tágas síkságát és elvezet a Cetina frissítő partjaihoz. Az útvonal főként sík, és tágas kilátást nyújt a környező hegyekre. Egy vízparti piknik után a mezőkön át vezet az út vissza Glavicébe.",
+        "ro": "Acest tur cu bicicleta explorează câmpia largă Sinjsko polje și duce până la malurile revigorante ale râului Cetina. Traseul este în mare parte plat și oferă vederi largi asupra munților din jur. După un picnic pe malul apei, drumul se întoarce prin câmpuri spre Glavice.",
+        "en": "This bike tour explores the vast plain of Sinjsko polje and leads to the refreshing banks of the Cetina. The route is mostly flat and offers wide views of the surrounding mountains. After a picnic by the water, the path returns through the fields to Glavice."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käse",
+            "tip": "Perfekt für das Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajt",
+            "tip": "Tökéletes a piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză locală",
+            "tip": "Perfectă pentru picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese",
+            "tip": "Perfect for the picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cetina Ufer",
+            "tip": "Ruhiger Platz am fließenden Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cetina part",
+            "tip": "Csendes hely a folyóvíz mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Cetinei",
+            "tip": "Loc liniștit lângă apa curgătoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cetina Bank",
+            "tip": "Quiet spot by the flowing water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hofladen",
+            "tip": "Regionale Produkte direkt vom Bauern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Háztáji bolt",
+            "tip": "Regionális termékek közvetlenül a gazdától."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de fermă",
+            "tip": "Produse regionale direct de la fermier."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farm Shop",
+            "tip": "Regional products directly from the farmer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie genug Wasser mit.",
+          "Sonnenschutz ist auf der freien Ebene wichtig."
+        ],
+        "hu": [
+          "Vigyen magával elég vizet.",
+          "A napszúrás elleni védelem fontos a nyílt síkságon."
+        ],
+        "ro": [
+          "Luați suficientă apă cu voi.",
+          "Protecția solară este importantă în câmpia deschisă."
+        ],
+        "en": [
+          "Take enough water with you.",
+          "Sun protection is important on the open plain."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 24.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Crkva svetog Ivana Krstitelja (Cluster A)",
+          "coords": [
+            16.6645,
+            43.7078
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Parken Sie hier im Dorfzentrum.",
+            "hu": "Parkoljon itt a falu központjában.",
+            "ro": "Parcați aici în centrul satului.",
+            "en": "Park here in the village center."
+          }
+        },
+        {
+          "name": "Pripuzovica (Cluster A)",
+          "coords": [
+            16.6715,
+            43.712
+          ],
+          "category": "landmark",
+          "arrive_at": "10:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Kurze Wanderung vom Parkplatz aus.",
+            "hu": "Rövid túra a parkolótól.",
+            "ro": "Scurtă drumeție de la parcare.",
+            "en": "Short hike from the parking lot."
+          }
+        },
+        {
+          "name": "Fahrt zum Sinjsko polje (Cluster B)",
+          "coords": [
+            16.7,
+            43.685
+          ],
+          "category": "nature",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Panoramafahrt durch die Ebene.",
+            "hu": "Panorámás autózás a síkságon át.",
+            "ro": "Călătorie panoramică prin câmpie.",
+            "en": "Scenic drive through the plain."
+          }
+        },
+        {
+          "name": "Mittagessen in Sinj (Zentrum)",
+          "coords": [
+            16.638,
+            43.702
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die nahegelegene Stadt für mehr Auswahl.",
+            "hu": "Látogasson el a közeli városba a nagyobb választékért.",
+            "ro": "Vizitați orașul din apropiere pentru mai multe opțiuni.",
+            "en": "Visit the nearby town for more choice."
+          }
+        },
+        {
+          "name": "Rijeka Cetina Brücke (Cluster C)",
+          "coords": [
+            16.715,
+            43.725
+          ],
+          "category": "river",
+          "arrive_at": "14:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Schöner Fotostopp am Fluss.",
+            "hu": "Szép fotómegálló a folyónál.",
+            "ro": "Loc frumos de fotografiat la râu.",
+            "en": "Nice photo stop by the river."
+          }
+        },
+        {
+          "name": "Spaziergang am Flussufer (Cluster C)",
+          "coords": [
+            16.717,
+            43.726
+          ],
+          "category": "nature",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg direkt am Wasser.",
+            "hu": "Rövid séta közvetlenül a víznél.",
+            "ro": "Scurtă plimbare direct pe malul apei.",
+            "en": "Short walk directly by the water."
+          }
+        },
+        {
+          "name": "Kaffeepause am Rückweg",
+          "coords": [
+            16.666,
+            43.707
+          ],
+          "category": "gastro",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Letzter Halt zurück in Glavice.",
+            "hu": "Utolsó megálló vissza Glavicében.",
+            "ro": "Ultima oprire înapoi în Glavice.",
+            "en": "Last stop back in Glavice."
+          }
+        },
+        {
+          "name": "Sunset Viewpoint",
+          "coords": [
+            16.668,
+            43.71
+          ],
+          "category": "sunset",
+          "arrive_at": "17:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Blick über das Tal zum Abschluss.",
+            "hu": "Kilátás a völgyre a befejezéshez.",
+            "ro": "Vedere peste vale la final.",
+            "en": "View over the valley to finish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto kombinieren Sie das lokale Flair von Glavice mit der Weite des Sinjsko polje und der Schönheit der Cetina. Nach dem Besuch der Dorfkirche fahren Sie in die Ebene und genießen die Natur, gefolgt von einem Abstecher in die nahegelegene Stadt Sinj zum Mittagessen. Den Nachmittag verbringen Sie am Fluss, bevor Sie pünktlich zum Sonnenuntergang nach Glavice zurückkehren.",
+        "hu": "Autóval kombinálhatja Glavice helyi hangulatát a Sinjsko polje tágasságával és a Cetina szépségével. A falusi templom meglátogatása után a síkságra autózik, élvezi a természetet, majd ebédre ellátogat a közeli Sinj városába. A délutánt a folyónál tölti, mielőtt pontosan a naplementére visszatérne Glavicébe.",
+        "ro": "Cu mașina, combinați farmecul local din Glavice cu întinderea câmpiei Sinjsko polje și frumusețea râului Cetina. După vizitarea bisericii din sat, conduceți în câmpie și vă bucurați de natură, urmată de o vizită în orașul Sinj din apropiere pentru prânz. Petreceți după-amiaza la râu, înainte de a vă întoarce în Glavice exact la timp pentru apus.",
+        "en": "By car, you combine the local flair of Glavice with the expanse of Sinjsko polje and the beauty of the Cetina. After visiting the village church, drive into the plain and enjoy nature, followed by a visit to the nearby town of Sinj for lunch. Spend the afternoon by the river before returning to Glavice just in time for sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Sinjski Arambaši",
+            "tip": "Traditionelles Fleischgericht aus Sinj."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sinjski Arambaši",
+            "tip": "Hagyományos húsétel Sinjből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sinjski Arambaši",
+            "tip": "Mâncare tradițională cu carne din Sinj."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sinjski Arambaši",
+            "tip": "Traditional meat dish from Sinj."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cetina Tal",
+            "tip": "Idyllische Plätze entlang des Flusslaufs.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cetina-völgy",
+            "tip": "Idilli helyek a folyó mentén.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Valea Cetinei",
+            "tip": "Locuri idilice de-a lungul cursului râului.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cetina Valley",
+            "tip": "Idyllic spots along the river course.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wochenmarkt Sinj",
+            "tip": "Falls Sie am Markttag dort sind."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sinji hetipiac",
+            "tip": "Ha piacnapon jár arra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața săptămânală din Sinj",
+            "tip": "Dacă sunteți acolo în ziua de piață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Weekly Market Sinj",
+            "tip": "If you are there on market day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Sinj gibt es gute Parkmöglichkeiten.",
+          "Die Straßen im Hinterland sind gut ausgebaut."
+        ],
+        "hu": [
+          "Sinjben jó parkolási lehetőségek vannak.",
+          "A hátországi utak jó állapotban vannak."
+        ],
+        "ro": [
+          "În Sinj există opțiuni bune de parcare.",
+          "Drumurile din interiorul țării sunt bine întreținute."
+        ],
+        "en": [
+          "There are good parking options in Sinj.",
+          "The roads in the hinterland are well maintained."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Glavice Haltestelle (Cluster A)",
+          "coords": [
+            16.666,
+            43.7065
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lokaler Bus nach Sinj.",
+            "hu": "Helyi busz Sinjbe.",
+            "ro": "Autobuz local spre Sinj.",
+            "en": "Local bus to Sinj."
+          }
+        },
+        {
+          "name": "Crkva svetog Ivana Krstitelja (Glavice)",
+          "coords": [
+            16.6645,
+            43.7078
+          ],
+          "category": "religious",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Vom Bus aus leicht zu Fuß erreichbar.",
+            "hu": "A busztól könnyen elérhető gyalog.",
+            "ro": "Ușor de ajuns pe jos de la autobuz.",
+            "en": "Easily accessible on foot from the bus."
+          }
+        },
+        {
+          "name": "Sinj Zentrum (Fahrt)",
+          "coords": [
+            16.639,
+            43.701
+          ],
+          "category": "transit",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Zentrum von Sinj.",
+            "hu": "Fedezze fel Sinj központját.",
+            "ro": "Explorați centrul orașului Sinj.",
+            "en": "Explore the center of Sinj."
+          }
+        },
+        {
+          "name": "Mittagessen in Sinj",
+          "coords": [
+            16.6385,
+            43.7015
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zentrale Restaurants am Hauptplatz.",
+            "hu": "Központi éttermek a főtéren.",
+            "ro": "Restaurante centrale în piața principală.",
+            "en": "Central restaurants at the main square."
+          }
+        },
+        {
+          "name": "Sinjsko polje Randspaziergang",
+          "coords": [
+            16.65,
+            43.695
+          ],
+          "category": "nature",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöner Weg zurück Richtung Glavice.",
+            "hu": "Szép út vissza Glavice felé.",
+            "ro": "Drum frumos înapoi spre Glavice.",
+            "en": "Nice path back towards Glavice."
+          }
+        },
+        {
+          "name": "Rückfahrt nach Glavice",
+          "coords": [
+            16.666,
+            43.7065
+          ],
+          "category": "transit",
+          "arrive_at": "15:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Letzte Busverbindung am Nachmittag.",
+            "hu": "Utolsó buszjárat délután.",
+            "ro": "Ultima legătură de autobuz după-amiaza.",
+            "en": "Last bus connection in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Busverbindungen, um Glavice und die benachbarte Stadt Sinj zu erkunden. Diese Tour konzentriert sich auf die kulturellen Highlights im Zentrum und bietet gleichzeitig Einblicke in die ländliche Umgebung. Der Tag ist entspannt gestaltet, mit genügend Zeit für kulinarische Entdeckungen.",
+        "hu": "Használja a helyi buszjáratokat Glavice és a szomszédos Sinj felfedezéséhez. Ez a túra a központ kulturális látnivalóira összpontosít, miközben betekintést nyújt a vidéki környezetbe is. A nap kényelmesen van kialakítva, elég időt hagyva a kulináris felfedezésekre.",
+        "ro": "Utilizați legăturile locale de autobuz pentru a explora Glavice și orașul vecin Sinj. Acest tur se concentrează pe atracțiile culturale din centru și oferă, în același timp, o privire asupra împrejurimilor rurale. Ziua este concepută relaxat, cu suficient timp pentru descoperiri culinare.",
+        "en": "Use the local bus connections to explore Glavice and the neighboring town of Sinj. This tour focuses on the cultural highlights in the center while also offering a glimpse into the rural surroundings. The day is designed to be relaxed, with plenty of time for culinary discoveries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kaffee in Sinj",
+            "tip": "Die Kaffeekultur am Hauptplatz ist lebendig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávé Sinjben",
+            "tip": "A kávékultúra a főtéren nagyon élénk."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafea în Sinj",
+            "tip": "Cultura cafelei în piața principală este vibrantă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coffee in Sinj",
+            "tip": "The coffee culture at the main square is vibrant."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark Sinj",
+            "tip": "Ruhiger Park im Stadtzentrum.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sinji városliget",
+            "tip": "Csendes park a városközpontban.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului Sinj",
+            "tip": "Parc liniștit în centrul orașului.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sinj City Park",
+            "tip": "Quiet park in the city center.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bäckerei",
+            "tip": "Frisches Brot und Gebäck für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség",
+            "tip": "Friss kenyér és péksütemény útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie",
+            "tip": "Pâine proaspătă și produse de patiserie pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery",
+            "tip": "Fresh bread and pastries for the way."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den aktuellen Busfahrplan.",
+          "Kleine Scheine für den Busfahrer bereithalten."
+        ],
+        "hu": [
+          "Ellenőrizze az aktuális buszmenetrendet.",
+          "Legyen kéznél aprópénz a buszvezetőnek."
+        ],
+        "ro": [
+          "Verificați orarul actual al autobuzelor.",
+          "Aveți pregătit mărunt pentru șoferul de autobuz."
+        ],
+        "en": [
+          "Check the current bus schedule.",
+          "Have small change ready for the bus driver."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1010 @@
+{
+  "city_id": "croatia-nova-mokosica-cities-v2",
+  "anchor": {
+    "name": "Nova Mokošica",
+    "coords": [
+      18.1169,
+      42.6742
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Morgendlicher Kaffee am Flussufer / Reggeli kávé a parton",
+          "coords": [
+            18.1185,
+            42.6745
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf das ruhige Wasser der Rijeka Dubrovačka.",
+            "hu": "Élvezze a kilátást a Rijeka Dubrovačka nyugodt vizére.",
+            "ro": "Bucurați-vă de priveliștea apelor liniștite din Rijeka Dubrovačka.",
+            "en": "Enjoy the view of the calm waters of Rijeka Dubrovačka."
+          }
+        },
+        {
+          "name": "Izvor Omble",
+          "coords": [
+            18.1271,
+            42.6755
+          ],
+          "category": "river",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Einer der kürzesten Flüsse der Welt entspringt direkt am Fuße des Berges.",
+            "hu": "A világ egyik legrövidebb folyója ered itt közvetlenül a hegy lábánál.",
+            "ro": "Unul dintre cele mai scurte râuri din lume izvorăște chiar la poalele muntelui.",
+            "en": "One of the shortest rivers in the world springs right at the foot of the mountain."
+          }
+        },
+        {
+          "name": "Ljetnikovac Gučetić-Đurđević",
+          "coords": [
+            18.1182,
+            42.6741
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein historisches Sommerhaus, das den Reichtum der Republik Ragusa widerspiegelt.",
+            "hu": "Történelmi nyaraló, amely a Raguzai Köztársaság gazdagságát tükrözi.",
+            "ro": "O casă de vară istorică care reflectă bogăția Republicii Ragusa.",
+            "en": "A historic summer house reflecting the wealth of the Republic of Ragusa."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba / Ebéd egy konobában",
+          "coords": [
+            18.1155,
+            42.6732
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch oder das lokale 'Peka'-Gericht.",
+            "hu": "Próbálja ki a friss halat vagy a helyi 'Peka' ételt.",
+            "ro": "Încercați peștele proaspăt sau preparatul local 'Peka'.",
+            "en": "Try the fresh fish or the local 'Peka' dish."
+          }
+        },
+        {
+          "name": "Riva-Spaziergang in Mokošica / Mokošica-i parti séta",
+          "coords": [
+            18.105,
+            42.671
+          ],
+          "category": "harbor",
+          "arrive_at": "14:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannter Spaziergang entlang der Promenade mit Blick auf die Segelboote.",
+            "hu": "Pihentető séta a sétányon, kilátással a vitorlásokra.",
+            "ro": "O plimbare relaxantă pe faleză, cu vedere la bărci.",
+            "en": "Relaxing walk along the promenade with a view of the sailboats."
+          }
+        },
+        {
+          "name": "Aussichtspunkt auf die Bucht / Kilátó az öbölre",
+          "coords": [
+            18.11,
+            42.673
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:40",
+          "stay_min": 65,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Fotos von der Rijeka Dubrovačka am Nachmittag.",
+            "hu": "Tökéletes hely a Rijeka Dubrovačka délutáni fotózásához.",
+            "ro": "Loc perfect pentru fotografii cu Rijeka Dubrovačka după-amiaza.",
+            "en": "Perfect spot for afternoon photos of Rijeka Dubrovačka."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der ruhigen Quelle der Ombla, wo kristallklares Wasser direkt aus dem Felsen bricht. Wandern Sie entlang des Ufers zu den prächtigen historischen Sommerhäusern des Dubrovniker Adels. Nach einem herzhaften Mittagessen in einer lokalen Konoba genießen Sie die entspannte Atmosphäre der Riva in Mokošica und beenden den Tag mit einem Blick auf die Bucht.",
+        "hu": "Kezdje a napot az Ombla csendes forrásánál, ahol kristálytiszta víz tör elő közvetlenül a sziklából. Sétáljon a part mentén a dubrovniki nemesség pompás történelmi nyaralóihoz. Egy kiadós ebéd után egy helyi konobában élvezze Mokošica partjának pihentető légkörét, és zárja a napot az öbölre nyíló kilátással.",
+        "ro": "Începeți ziua la izvorul liniștit al Ombla, unde apa cristalină țâșnește direct din stâncă. Plimbați-vă de-a lungul malului până la conacele istorice somptuoase ale nobilimii din Dubrovnik. După un prânz copios la o konoba locală, bucurați-vă de atmosfera relaxantă de pe malul apei în Mokošica și încheiați ziua cu o priveliște asupra golfului.",
+        "en": "Start your day at the quiet source of the Ombla, where crystal clear water bursts directly from the rock. Walk along the shore to the magnificent historic summer houses of the Dubrovnik nobility. After a hearty lunch in a local konoba, enjoy the relaxing atmosphere of the waterfront in Mokošica and end the day with a view over the bay."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Dubrovačka",
+            "tip": "Probieren Sie den hausgemachten Käse und Schinken."
+          },
+          {
+            "name": "Restaurant Vimbula",
+            "tip": "Berühmt für frische Meeresfrüchte direkt an der Quelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Dubrovačka",
+            "tip": "Kóstolja meg a házi sajtot és sonkát."
+          },
+          {
+            "name": "Restaurant Vimbula",
+            "tip": "Friss tengeri ételeiről híres közvetlenül a forrásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Dubrovačka",
+            "tip": "Încercați brânza și șunca de casă."
+          },
+          {
+            "name": "Restaurant Vimbula",
+            "tip": "Faimos pentru fructe de mare proaspete chiar lângă izvor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Dubrovačka",
+            "tip": "Try the homemade cheese and ham."
+          },
+          {
+            "name": "Restaurant Vimbula",
+            "tip": "Famous for fresh seafood right by the spring."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer von Rožat",
+            "tip": "Ein stiller Ort zum Beobachten von Enten.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kapelle am Weg",
+            "tip": "Kleine Momente der Ruhe zwischen den Villen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rožat partja",
+            "tip": "Csendes hely a kacsák megfigyelésére.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Kápolna az út mentén",
+            "tip": "Kis nyugodt pillanatok a villák között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul din Rožat",
+            "tip": "Un loc liniștit pentru a observa rațele.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Capela de pe drum",
+            "tip": "Mici momente de liniște între vile.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rožat Riverbank",
+            "tip": "A quiet spot for watching ducks.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Small Chapel",
+            "tip": "Quiet moments of peace between the villas.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Hausgemachtes Olivenöl und Feigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Házi olívaolaj és füge."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Ulei de măsline și smochine de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Homemade olive oil and figs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Uferweg.",
+          "Die Quelle ist auch an heißen Tagen sehr kühl.",
+          "Besuchen Sie die Sommerhäuser am Vormittag für das beste Licht.",
+          "Die Gegend ist viel ruhiger als die Altstadt von Dubrovnik."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a parti sétányhoz.",
+          "A forrás környéke a forró napokon is hűvös marad.",
+          "Látogassa meg a nyaralókat délelőtt a legjobb fényekért.",
+          "A környék sokkal nyugodtabb, mint Dubrovnik óvárosa."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru poteca de pe mal.",
+          "Zona izvorului rămâne răcoroasă chiar și în zilele toride.",
+          "Vizitați casele de vară dimineața pentru cea mai bună lumină.",
+          "Zona este mult más liniștită decât orașul vechi din Dubrovnik."
+        ],
+        "en": [
+          "Wear comfortable shoes for the riverside path.",
+          "The area around the spring stays cool even on hot days.",
+          "Visit the summer houses in the morning for the best light.",
+          "The area is much quieter than Dubrovnik's Old Town."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Izvor Omble",
+          "coords": [
+            18.1271,
+            42.6755
+          ],
+          "category": "river",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour an der kühlen Quelle.",
+            "hu": "Kezdje a túrát a hűvös forrásnál.",
+            "ro": "Începeți turul la izvorul răcoros.",
+            "en": "Start your tour at the cool spring."
+          }
+        },
+        {
+          "name": "Ljetnikovac Gučetić-Đurđević",
+          "coords": [
+            18.1182,
+            42.6741
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp zur Besichtigung der Architektur.",
+            "hu": "Rövid megálló az építészet megtekintéséhez.",
+            "ro": "Scurtă oprire pentru a vizita arhitectura.",
+            "en": "Short stop to view the architecture."
+          }
+        },
+        {
+          "name": "Rijeka Dubrovačka Küstenfahrt / Parti tekerés",
+          "coords": [
+            18.095,
+            42.669
+          ],
+          "category": "harbor",
+          "arrive_at": "10:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Flache Strecke mit fantastischem Blick auf das Wasser.",
+            "hu": "Lapos szakasz fantasztikus kilátással a vízre.",
+            "ro": "Traseu plat cu o vedere fantastică spre apă.",
+            "en": "Flat stretch with fantastic water views."
+          }
+        },
+        {
+          "name": "Franjo Tuđman most (Aussicht)",
+          "coords": [
+            18.0831,
+            42.6685
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Spektakuläre Aussicht auf den Hafen von Gruž und die Inseln.",
+            "hu": "Látványos kilátás a Gruž-kikötőre és a szigetekre.",
+            "ro": "Vedere spectaculoasă spre portul Gruž și insule.",
+            "en": "Spectacular view of Gruž harbor and the islands."
+          }
+        },
+        {
+          "name": "Gastro-Pause in Mokošica / Gasztro pihenő",
+          "coords": [
+            18.11,
+            42.672
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erholen Sie sich bei einem kühlen Getränk am Jachthafen.",
+            "hu": "Pihenjen meg egy hűvös itallal a jachtkikötőnél.",
+            "ro": "Relaxați-vă cu o băutură rece la portul de iahturi.",
+            "en": "Recover with a cool drink by the marina."
+          }
+        },
+        {
+          "name": "Entspannung am Wasser / Pihenés a víznél",
+          "coords": [
+            18.116,
+            42.674
+          ],
+          "category": "beach",
+          "arrive_at": "14:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Rückgabe der Fahrräder.",
+            "hu": "Utolsó megálló a biciklik leadása előtt.",
+            "ro": "Ultima oprire înainte de a returna bicicletele.",
+            "en": "Last stop before returning the bikes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das gesamte Gebiet der Rijeka Dubrovačka auf zwei Rädern. Von der kühlen Quelle der Ombla führt die flache Route entlang des Meeresarms bis zur beeindruckenden Franjo-Tuđman-Brücke. Genießen Sie den Wind und die ständig wechselnden Perspektiven auf die Bucht, die Jachthäfen und die alten Sommerhäuser, bevor Sie in Mokošica einkehren.",
+        "hu": "Fedezze fel a Rijeka Dubrovačka egész környékét két keréken. Az Ombla hűvös forrásától a lapos útvonal a tengeröböl mentén halad az impozáns Franjo Tuđman hídig. Élvezze a szelet és az öbölre, a jachtkikötőkre és a régi nyaralókra nyíló, folyamatosan változó tájat, mielőtt megállna Mokošicában.",
+        "ro": "Explorați întreaga zonă Rijeka Dubrovačka pe două roți. De la izvorul răcoros al Ombla, traseul plat duce de-a lungul brațului de mare până la impresionantul pod Franjo Tuđman. Bucurați-vă de vânt și de perspectivele mereu schimbătoare asupra golfului, porturilor și conacelor vechi înainte de a vă opri în Mokošica.",
+        "en": "Explore the entire Rijeka Dubrovačka area on two wheels. From the cool source of the Ombla, the flat route follows the sea inlet to the impressive Franjo Tuđman Bridge. Enjoy the breeze and the ever-changing perspectives of the bay, marinas, and old summer houses before stopping in Mokošica."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Izvor",
+            "tip": "Ideal für einen schnellen Snack nach der Quelle."
+          },
+          {
+            "name": "Caffe Bar Riva",
+            "tip": "Bester Platz für einen Eiskaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Izvor",
+            "tip": "Ideális egy gyors snackhez a forrás után."
+          },
+          {
+            "name": "Caffe Bar Riva",
+            "tip": "A legjobb hely egy jegeskávéhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Izvor",
+            "tip": "Ideal pentru o gustare rapidă după izvor."
+          },
+          {
+            "name": "Caffe Bar Riva",
+            "tip": "Cel mai bun loc pentru un cafea cu gheață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Izvor",
+            "tip": "Ideal for a quick snack after the spring."
+          },
+          {
+            "name": "Caffe Bar Riva",
+            "tip": "Best spot for an iced coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferweg Prijevor",
+            "tip": "Ruhiger Abschnitt mit wenig Verkehr.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prijevor-i parti út",
+            "tip": "Csendes szakasz kevés forgalommal.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de pe mal din Prijevor",
+            "tip": "Secțiune liniștită cu trafic puțin.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Prijevor Waterfront Path",
+            "tip": "Quiet section with little traffic.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk Mokošica",
+            "tip": "Kalte Getränke für die Weiterfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mokošica trafik",
+            "tip": "Hideg italok a folytatáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc Mokošica",
+            "tip": "Băuturi reci pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk Mokošica",
+            "tip": "Cold drinks for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke ist größtenteils flach und für alle geeignet.",
+          "Vermeiden Sie die Hauptstraße, nutzen Sie die Uferwege.",
+          "Auf der Brücke kann es sehr windig sein.",
+          "Nehmen Sie genügend Wasser mit."
+        ],
+        "hu": [
+          "Az útvonal nagy része lapos, mindenki számára alkalmas.",
+          "Kerülje a főutat, használja a parti utakat.",
+          "A hídon nagyon szeles lehet az idő.",
+          "Vigyen magával elegendő vizet."
+        ],
+        "ro": [
+          "Traseul este în mare parte plat și potrivit pentru toți.",
+          "Evitați drumul principal, folosiți potecile de pe mal.",
+          "Pe pod poate fi foarte vânt.",
+          "Luați destulă apă cu voi."
+        ],
+        "en": [
+          "The route is mostly flat and suitable for everyone.",
+          "Avoid the main road, use the waterfront paths.",
+          "It can be very windy on the bridge.",
+          "Take enough water with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Izvor Omble (Cluster A)",
+          "coords": [
+            18.1271,
+            42.6755
+          ],
+          "category": "river",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie nahe der Quelle für einen kurzen Spaziergang.",
+            "hu": "Parkoljon a forrás közelében egy rövid sétához.",
+            "ro": "Parcați lângă izvor pentru o scurtă plimbare.",
+            "en": "Park near the spring for a short walk."
+          }
+        },
+        {
+          "name": "Ljetnikovac Gučetić-Đurđević (Cluster A)",
+          "coords": [
+            18.1182,
+            42.6741
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Accessible on foot from the parking spot."
+          }
+        },
+        {
+          "name": "Mittagessen in Rožat (Cluster A) / Ebéd Rožatban",
+          "coords": [
+            18.117,
+            42.6735
+          ],
+          "category": "gastro",
+          "arrive_at": "11:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lokale Küche direkt am Ufer.",
+            "hu": "Helyi konyha közvetlenül a parton.",
+            "ro": "Bucătărie locală chiar pe mal.",
+            "en": "Local cuisine right on the riverbank."
+          }
+        },
+        {
+          "name": "Fahrt zum Franjo Tuđman most (Cluster B)",
+          "coords": [
+            18.0831,
+            42.6685
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Spektakulärer Stopp auf dem Weg nach Dubrovnik.",
+            "hu": "Látványos megálló Dubrovnik felé menet.",
+            "ro": "Oprire spectaculoasă în drum spre Dubrovnik.",
+            "en": "Spectacular stop on the way to Dubrovnik."
+          }
+        },
+        {
+          "name": "Hafenblick Gruž (Cluster B) / Kikötői kilátás",
+          "coords": [
+            18.084,
+            42.6675
+          ],
+          "category": "harbor",
+          "arrive_at": "13:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die großen Kreuzfahrtschiffe aus der Ferne.",
+            "hu": "Figyelje meg a nagy skandináv hajókat a távolból.",
+            "ro": "Observați marile nave de croazieră din depărtare.",
+            "en": "Watch the large cruise ships from a distance."
+          }
+        },
+        {
+          "name": "Kaffee-Pause in Mokošica / Kávészünet Mokošicában",
+          "coords": [
+            18.11,
+            42.6725
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Bequemes Parken direkt am Café.",
+            "hu": "Kényelmes parkolás közvetlenül a kávézónál.",
+            "ro": "Parcare convenabilă chiar la cafenea.",
+            "en": "Convenient parking right at the cafe."
+          }
+        },
+        {
+          "name": "Uferpromenade Mokošica / Parti korzó",
+          "coords": [
+            18.112,
+            42.673
+          ],
+          "category": "harbor",
+          "arrive_at": "14:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Ausklang am Wasser.",
+            "hu": "Rövid levezetés a víznél.",
+            "ro": "Scurtă relaxare la apă.",
+            "en": "Short wind-down by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die wichtigsten Punkte rund um die Rijeka Dubrovačka. Starten Sie an der Ombla-Quelle und besichtigen Sie die historischen Sommerhäuser, bevor Sie zur beeindruckenden Franjo-Tuđman-Brücke fahren. Die Route bietet großartige Panoramaausblicke und verbindet Naturerlebnisse mit der Architektur des alten Dubrovnik.",
+        "hu": "Autóval kényelmesen elérheti a Rijeka Dubrovačka környékének legfontosabb pontjait. Kezdje az Ombla-forrásnál és nézze meg a történelmi nyaralókat, mielőtt a lenyűgöző Franjo Tuđman hídhoz hajtana. Az útvonal nagyszerű panorámát kínál, ötvözve a természetet a régi Dubrovnik építészetével.",
+        "ro": "Cu mașina puteți ajunge confortabil la cele mai importante puncte din jurul Rijeka Dubrovačka. Începeți la izvorul Ombla și vizitați conacele istorice înainte de a conduce spre impresionantul pod Franjo Tuđman. Traseul oferă panorame grozave, îmbinând experiențele naturale cu arhitectura vechiului Dubrovnik.",
+        "en": "By car, you can comfortably reach the most important spots around Rijeka Dubrovačka. Start at the Ombla spring and see the historic summer houses before driving to the impressive Franjo Tuđman Bridge. The route offers great panoramic views, combining nature experiences with the architecture of old Dubrovnik."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Bimbula",
+            "tip": "Sehr gute lokale Fischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bimbula étterem",
+            "tip": "Nagyon jó helyi halételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Bimbula",
+            "tip": "Preparate locale din pește foarte bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Bimbula",
+            "tip": "Very good local fish dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Quelle der Ombla",
+            "tip": "Am frühen Morgen besonders friedlich.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ombla-forrás",
+            "tip": "Kora reggel különösen békés.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Izvorul Ombla",
+            "tip": "Deosebit de liniștit dimineața devreme.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ombla Source",
+            "tip": "Particularly peaceful in the early morning.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt Pemo",
+            "tip": "Für alle täglichen Besorgungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pemo szupermarket",
+            "tip": "Minden napi bevásárláshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Pemo",
+            "tip": "Pentru cumpărături zilnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pemo Supermarket",
+            "tip": "For all daily supplies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie nur auf markierten Flächen.",
+          "Die Straße entlang der Bucht ist eng, fahren Sie vorsichtig.",
+          "Nutzen Sie den Aussichtspunkt an der Brücke für Fotos.",
+          "Die Fahrt von Mokošica nach Dubrovnik dauert nur 10-15 Minuten."
+        ],
+        "hu": [
+          "Csak a kijelölt helyeken parkoljon.",
+          "Az öböl menti út szűk, vezessen óvatosan.",
+          "Használja a híd melletti kilátót fotózáshoz.",
+          "Az út Mokošicából Dubrovnikba mindössze 10-15 perc."
+        ],
+        "ro": [
+          "Parcați doar în zonele marcate.",
+          "Drumul de-a lungul golfului este îngust, conduceți cu atenție.",
+          "Folosiți punctul de belvedere de la pod pentru fotografii.",
+          "Drumul de la Mokošica la Dubrovnik durează doar 10-15 minute."
+        ],
+        "en": [
+          "Park only in marked areas.",
+          "The road along the bay is narrow, drive carefully.",
+          "Use the viewpoint at the bridge for photos.",
+          "The drive from Mokošica to Dubrovnik takes only 10-15 minutes."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 10.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Busfahrt zum Izvor Omble",
+          "coords": [
+            18.1271,
+            42.6755
+          ],
+          "category": "river",
+          "arrive_at": "09:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus 1A oder 1B bis zur Endstation in Rožat.",
+            "hu": "Szálljon fel az 1A vagy 1B buszra a Rožat-i végállomásig.",
+            "ro": "Luați autobuzul 1A sau 1B până la capătul de linie din Rožat.",
+            "en": "Take bus 1A or 1B to the terminus in Rožat."
+          }
+        },
+        {
+          "name": "Ljetnikovac Gučetić-Đurđević",
+          "coords": [
+            18.1182,
+            42.6741
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Bushaltestelle.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "Scurtă plimbare de la stația de autobuz.",
+            "en": "Short walk from the bus stop."
+          }
+        },
+        {
+          "name": "Mittagessen am Wasser / Ebéd a víznél",
+          "coords": [
+            18.114,
+            42.673
+          ],
+          "category": "gastro",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die lokale Gastronomie vor der Weiterfahrt.",
+            "hu": "Élvezze a helyi gasztronómiát a továbbút előtt.",
+            "ro": "Bucurați-vă de gastronomia locală înainte de a continua.",
+            "en": "Enjoy the local gastronomy before continuing."
+          }
+        },
+        {
+          "name": "Rijeka Dubrovačka (Bus-Panorama)",
+          "coords": [
+            18.1,
+            42.67
+          ],
+          "category": "river",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Blick aus dem Bus auf die gesamte Bucht.",
+            "hu": "Kilátás a buszból az egész öbölre.",
+            "ro": "Vedere din autobuz spre întregul golf.",
+            "en": "View from the bus over the entire bay."
+          }
+        },
+        {
+          "name": "Franjo Tuđman most (Busstopp)",
+          "coords": [
+            18.0831,
+            42.6685
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Steigen Sie an der Brücke aus für ein Panoramafoto.",
+            "hu": "Szálljon le a hídnál egy panorámafotóért.",
+            "ro": "Coborâți la pod pentru o fotografie panoramică.",
+            "en": "Get off at the bridge for a panoramic photo."
+          }
+        },
+        {
+          "name": "Rückfahrt nach Mokošica / Visszaút",
+          "coords": [
+            18.11,
+            42.672
+          ],
+          "category": "harbor",
+          "arrive_at": "15:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entspannter Abschluss des Tages.",
+            "hu": "A nap pihentető lezárása.",
+            "ro": "Încheiere relaxantă a zilei.",
+            "en": "Relaxing end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das ausgezeichnete Bussystem von Dubrovnik, um Nova Mokošica und die Umgebung zu erkunden. Die Linien 1A und 1B verbinden alle wichtigen Punkte, von der Quelle der Ombla bis zur großen Brücke. Erleben Sie die lokale Lebensweise fernab der touristischen Massen und genießen Sie die Ausblicke aus dem Fenster.",
+        "hu": "Használja Dubrovnik kiváló buszhálózatát Nova Mokošica és környéke felfedezéséhez. Az 1A és 1B vonalak összekötik az összes fontos pontot, az Ombla-forrástól a nagy hídig. Tapasztalja meg a helyi életmódot távol a turistaáradattól, és élvezze a kilátást az ablakból.",
+        "ro": "Folosiți sistemul excelent de autobuze din Dubrovnik pentru a explora Nova Mokošica și împrejurimile. Liniile 1A și 1B conectează toate punctele importante, de la izvorul Ombla până la podul cel mare. Experimentați modul de viață local departe de mulțimile de turiști și bucurați-vă de priveliștile de pe geam.",
+        "en": "Use Dubrovnik's excellent bus system to explore Nova Mokošica and its surroundings. Lines 1A and 1B connect all the major spots, from the source of the Ombla to the great bridge. Experience the local way of life away from the tourist crowds and enjoy the views from the window."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokales Café in Nova Mokošica",
+            "tip": "Treffpunkt der Einheimischen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kávézó Nova Mokošicában",
+            "tip": "A helyiek találkozóhelye."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenea locală în Nova Mokošica",
+            "tip": "Loc de întâlnire pentru localnici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cafe in Nova Mokošica",
+            "tip": "Meeting point for locals."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof von Rožat",
+            "tip": "Historischer Ort mit schöner Aussicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rožat-i temető",
+            "tip": "Történelmi hely szép kilátással.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul din Rožat",
+            "tip": "Loc istoric cu o priveliște frumoasă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rožat Cemetery",
+            "tip": "Historic spot with a beautiful view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pekara Mokošica",
+            "tip": "Frisches Burek und Gebäck."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mokošica pékség",
+            "tip": "Friss burek és pékáru."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Mokošica",
+            "tip": "Burek și produse de patiserie proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Mokošica Bakery",
+            "tip": "Fresh burek and pastries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets am Kiosk, sie sind dort günstiger.",
+          "Die Busse fahren sehr häufig (alle 15-20 Minuten).",
+          "Behalten Sie den Fahrplan für die Rückfahrt im Auge.",
+          "Die Haltestelle an der Brücke ist ein Muss für Panorama-Fans."
+        ],
+        "hu": [
+          "Vegye meg a buszjegyet trafikban, ott olcsóbb.",
+          "A buszok nagyon gyakran járnak (15-20 percenként).",
+          "Figyelje a menetrendet a visszaúthoz.",
+          "A hídnál lévő megálló kötelező a panoráma kedvelőinek."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz de la chioșc, sunt mai ieftine.",
+          "Autobuzele circulă foarte des (la fiecare 15-20 de minute).",
+          "Aveți în vedere orarul pentru drumul de întoarcere.",
+          "Stația de la pod este obligatorie pentru fanii panoramelor."
+        ],
+        "en": [
+          "Buy bus tickets at the kiosk, they are cheaper there.",
+          "Buses run very frequently (every 15-20 minutes).",
+          "Keep an eye on the schedule for the return trip.",
+          "The stop at the bridge is a must for panorama fans."
+        ]
+      }
+    }
+  }
+}

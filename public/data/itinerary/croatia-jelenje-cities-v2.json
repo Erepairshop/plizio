@@ -1,0 +1,1097 @@
+{
+  "city_id": "croatia-jelenje-cities-v2",
+  "anchor": {
+    "name": "Jelenje",
+    "coords": [
+      14.45,
+      45.38
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dražice Hauptplatz & Kovačija Dražice",
+            "hu": "Dražice főtér és Kovačija Dražice",
+            "ro": "Piața Dražice și Kovačija Dražice",
+            "en": "Dražice Square & Kovačija Dražice"
+          },
+          "coords": [
+            14.448,
+            45.378
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die alte Schmiede in Dražice.",
+            "hu": "Látogasson el a régi drazicei kovácsműhelybe.",
+            "ro": "Vizitați vechea fierărie din Dražice.",
+            "en": "Visit the traditional blacksmith shop in Dražice."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaffeepause im Dorf",
+            "hu": "Kávészünet a faluban",
+            "ro": "Pauză de cafea în sat",
+            "en": "Coffee break in the village"
+          },
+          "coords": [
+            14.449,
+            45.379
+          ],
+          "category": "gastro",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee mit den Einheimischen.",
+            "hu": "Igyon meg egy kávét a helyiekkel.",
+            "ro": "Savurați o cafea alături de localnici.",
+            "en": "Enjoy a coffee with the locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Michael (Crkva sv. Mihovila)",
+            "hu": "Szent Mihály-templom (Crkva sv. Mihovila)",
+            "ro": "Biserica Sf. Mihail (Crkva sv. Mihovila)",
+            "en": "Church of St. Michael (Crkva sv. Mihovila)"
+          },
+          "coords": [
+            14.445,
+            45.381
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Eine schöne Barockkirche im Zentrum von Jelenje.",
+            "hu": "Egy szép barokk templom Jelenje központjában.",
+            "ro": "O frumoasă biserică barocă în centrul localității Jelenje.",
+            "en": "A beautiful baroque church in the center of Jelenje."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer lokalen Konoba",
+            "hu": "Ebéd egy helyi konobában",
+            "ro": "Prânz la o konoba locală",
+            "en": "Lunch in a local konoba"
+          },
+          "coords": [
+            14.446,
+            45.382
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie hausgemachte Pasta (Šurlice).",
+            "hu": "Kóstolja meg a házi tésztát (Šurlice).",
+            "ro": "Încercați pastele de casă (Šurlice).",
+            "en": "Try the homemade pasta (Šurlice)."
+          }
+        },
+        {
+          "name": {
+            "de": "Gašparov mlin (Martinovo Selo)",
+            "hu": "Gašparov mlin (Martinovo Selo)",
+            "ro": "Gašparov mlin (Martinovo Selo)",
+            "en": "Gašpar's Mill (Martinovo Selo)"
+          },
+          "coords": [
+            14.435,
+            45.395
+          ],
+          "category": "historical",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Die einzige funktionierende Wassermühle am Fluss Rječina.",
+            "hu": "Az egyetlen működő vízimalom a Rječina folyón.",
+            "ro": "Singura moară de apă funcțională de pe râul Rječina.",
+            "en": "The only working watermill on the Rječina river."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Flussufer",
+            "hu": "Séta a folyóparton",
+            "ro": "Plimbare pe malul râului",
+            "en": "Riverside walk"
+          },
+          "coords": [
+            14.438,
+            45.392
+          ],
+          "category": "park",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe am klaren Wasser der Rječina.",
+            "hu": "Élvezze a nyugalmat a Rječina tiszta vize mellett.",
+            "ro": "Bucurați-vă de liniște lângă apa limpede a râului Rječina.",
+            "en": "Enjoy the peace by the clear waters of the Rječina."
+          }
+        },
+        {
+          "name": {
+            "de": "Nachmittagspause & Ausklang",
+            "hu": "Délutáni pihenő és befejezés",
+            "ro": "Pauză de după-amiază și final",
+            "en": "Afternoon break & farewell"
+          },
+          "coords": [
+            14.448,
+            45.378
+          ],
+          "category": "sunset",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in der ländlichen Atmosphäre ausklingen.",
+            "hu": "Zárja a napot a vidéki hangulatban.",
+            "ro": "Încheiați ziua în atmosfera rurală relaxantă.",
+            "en": "Finish the day in the relaxing rural atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt in Dražice, wo Sie die traditionelle Schmiede besuchen und das Erbe des Handwerks spüren. Nach einem Kaffee im Dorf besichtigen Sie die Kirche des Hl. Michael in Jelenje. Mittags genießen Sie die authentische Küche der Region. Am Nachmittag führt der Weg zum Gašparov mlin, einer historischen Wassermühle, gefolgt von einem entspannenden Spaziergang am Ufer der Rječina.",
+        "hu": "A napot Dražice-ben kezdjük, ahol megismerkedünk a hagyományos kovácsműhely örökségével. Egy helyi kávé után meglátogatjuk a Szent Mihály-templomot Jelenje szívében. Az ebéd során megkóstoljuk a környék ízeit. Délután ellátogatunk a Gašpar-malomba, amely a Rječina folyó utolsó működő vízimalma, majd egy kellemes folyóparti sétával zárjuk az aktív napot.",
+        "ro": "Ziua începe în Dražice, unde vizitați fierăria tradițională și simțiți moștenirea meșteșugului local. După o cafea în sat, descoperiți Biserica Sf. Mihail din Jelenje. La prânz, savurați preparate autentice. După-amiaza este dedicată morii lui Gašpar (Gašparov mlin), o moară de apă istorică, urmată de o plimbare relaxantă pe malul râului Rječina.",
+        "en": "Start your day in Dražice by visiting the traditional blacksmith workshop to feel the local heritage. After a coffee in the village, explore the Church of St. Michael in the center of Jelenje. Enjoy a traditional lunch at midday. The afternoon is dedicated to Gašpar's Mill, a historic working watermill, followed by a peaceful stroll along the banks of the Rječina river."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Jelenje",
+            "tip": "Hausgemachte Šurlice mit Gulasch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Jelenje",
+            "tip": "Házi šurlice tészta vadhúsos gulyással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Jelenje",
+            "tip": "Paste Šurlice de casă cu gulaș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Jelenje",
+            "tip": "Homemade šurlice pasta with venison goulash."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ufer der Rječina",
+            "tip": "Ruhiger Ort am fließenden Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rječina-part",
+            "tip": "Csendes pihenőhely a folyó mellett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Rječinei",
+            "tip": "Loc liniștit lângă apa curgătoare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rječina Riverbank",
+            "tip": "Quiet spot by the flowing water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Kaufen Sie frischen Honig direkt von den Bauern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Vásároljon friss mézet közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Cumpărați miere proaspătă direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Buy fresh honey directly from local farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Gutes Schuhwerk für den Weg zur Mühle wird empfohlen.",
+          "Besuchen Sie das Infocenter für die Öffnungszeiten der Schmiede."
+        ],
+        "hu": [
+          "Kényelmes cipő ajánlott a malomhoz vezető sétához.",
+          "Érdeklődjön a kovácsműhely nyitvatartásáról a helyi információs irodában."
+        ],
+        "ro": [
+          "Se recomandă încălțăminte comodă pentru drumul spre moară.",
+          "Verificați programul fierăriei la centrul de informare local."
+        ],
+        "en": [
+          "Comfortable shoes are recommended for the walk to the mill.",
+          "Check the opening hours of the blacksmith shop at the local info center."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kovačija Dražice",
+            "hu": "Kovačija Dražice",
+            "ro": "Kovačija Dražice",
+            "en": "Kovačija Dražice"
+          },
+          "coords": [
+            14.448,
+            45.378
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt der Tour mit historischem Einblick.",
+            "hu": "A túra kezdőpontja történelmi betekintéssel.",
+            "ro": "Punctul de plecare cu o incursiune istorică.",
+            "en": "Starting point with a historical insight."
+          }
+        },
+        {
+          "name": {
+            "de": "Gašparov mlin (Wasserpause)",
+            "hu": "Gašparov mlin (vízszünet)",
+            "ro": "Gašparov mlin (pauză de apă)",
+            "en": "Gašpar's Mill (water break)"
+          },
+          "coords": [
+            14.435,
+            45.395
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Füllen Sie Ihre Trinkflasche am frischen Bach.",
+            "hu": "Töltse meg kulacsát a friss patakvíznél.",
+            "ro": "Umpleți sticla cu apă proaspătă de izvor.",
+            "en": "Refill your water bottle at the fresh stream."
+          }
+        },
+        {
+          "name": {
+            "de": "Izvor Rječine (Quelle der Rječina)",
+            "hu": "Rječina-forrás (Izvor Rječine)",
+            "ro": "Izvorul Rječinei (Izvor Rječine)",
+            "en": "Source of Rječina (Izvor Rječine)"
+          },
+          "coords": [
+            14.412,
+            45.415
+          ],
+          "category": "lake",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein spektakulärer Ort unter den Klippen.",
+            "hu": "Látványos hely a sziklafalak alatt.",
+            "ro": "Un loc spectaculos la poalele stâncilor.",
+            "en": "A spectacular spot under the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Picknick im Grünen",
+            "hu": "Piknik a zöldben",
+            "ro": "Picnic în natură",
+            "en": "Picnic in the green"
+          },
+          "coords": [
+            14.425,
+            45.405
+          ],
+          "category": "park",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie mitgebrachte lokale Spezialitäten.",
+            "hu": "Élvezze a hozott helyi finomságokat.",
+            "ro": "Savurați specialități locale luate la pachet.",
+            "en": "Enjoy local specialties you brought along."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva sv. Mihovila",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sf. Mihail",
+            "en": "Church of St. Michael"
+          },
+          "coords": [
+            14.445,
+            45.381
+          ],
+          "category": "religious",
+          "arrive_at": "14:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp vor der Rückkehr.",
+            "hu": "Rövid megálló a visszatérés előtt.",
+            "ro": "Scurt popas înainte de întoarcere.",
+            "en": "Short stop before heading back."
+          }
+        },
+        {
+          "name": {
+            "de": "Erfrischung in Dražice",
+            "hu": "Frissítő Dražice-ben",
+            "ro": "Răcoritoare în Dražice",
+            "en": "Refreshment in Dražice"
+          },
+          "coords": [
+            14.448,
+            45.378
+          ],
+          "category": "gastro",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kaltes Getränk nach der Radtour.",
+            "hu": "Egy hideg ital a bringázás után.",
+            "ro": "O băutură rece după tura cu bicicleta.",
+            "en": "A cold drink after the bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour beginnt in Dražice und führt Sie tiefer in das Rječina-Tal. Sie passieren den Gašparov mlin und radeln weiter zum beeindruckenden Izvor Rječine, der Quelle des Flusses. Nach einem Picknick in der unberührten Natur kehren Sie über Jelenje zurück, wo Sie die Michaelskirche besuchen, bevor Sie die Tour gemütlich bei einem Erfrischungsgetränk beenden.",
+        "hu": "A kerékpártúra Dražice-ből indul és a Rječina-völgy mélyére vezet. Elhaladunk a Gašpar-malom mellett, majd eltekerünk a lenyűgöző Rječina-forráshoz. A természetben eltöltött piknik után Jelenjén keresztül térünk vissza, érintve a Szent Mihály-templomot, végül egy hűsítő itallal pihenjük ki a túra fáradalmait.",
+        "ro": "Turul cu bicicleta pornește din Dražice și vă poartă în inima văii Rječina. Treceți pe lângă moara lui Gašpar și pedalați până la impresionantul Izvor Rječine, sursa râului. După un picnic în natură, vă întoarceți prin Jelenje, vizitând biserica locală și încheind excursia cu o băutură răcoritoare binemeritată.",
+        "en": "The bike tour starts in Dražice and leads you deep into the Rječina valley. Pass by Gašpar's Mill and cycle up to the impressive Izvor Rječine, the source of the river. After a picnic in pure nature, return through Jelenje to visit the local church and finish the ride with a refreshing drink in the village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei in Dražice",
+            "tip": "Holen Sie sich Burek für das Picknick."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség Dražice-ben",
+            "tip": "Vigyen magával friss bureket a piknikhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria din Dražice",
+            "tip": "Luați un burek proaspăt pentru picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in Dražice",
+            "tip": "Pick up some fresh burek for the picnic."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Izvor Rječine",
+            "tip": "Wunderschöne Naturquelle unter Felsen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rječina-forrás",
+            "tip": "Csodás természetes forrás sziklák alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Izvorul Rječinei",
+            "tip": "Izvor natural superb sub stânci.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Source of Rječina",
+            "tip": "Beautiful natural spring under the rocks.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käse",
+            "tip": "Käse von Bauernhöfen im Tal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajt",
+            "tip": "Sajt a völgy gazdaságaiból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză locală",
+            "tip": "Brânză de la fermele din vale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese",
+            "tip": "Cheese from farms in the valley."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke zur Quelle ist teilweise geschottert.",
+          "Nehmen Sie ausreichend Wasser mit, da es unterwegs kaum Kioske gibt."
+        ],
+        "hu": [
+          "A forráshoz vezető út részben murvás.",
+          "Vigyen elegendő vizet, mert útközben kevés a bolt."
+        ],
+        "ro": [
+          "Drumul spre izvor este parțial neasfaltat.",
+          "Luați destulă apă, deoarece sunt puține magazine pe traseu."
+        ],
+        "en": [
+          "The path to the source is partly gravel.",
+          "Take enough water with you as there are few shops along the way."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Dražice Zentrum (Cluster A)",
+            "hu": "Dražice központ (A klaszter)",
+            "ro": "Dražice Centru (Cluster A)",
+            "en": "Dražice Center (Cluster A)"
+          },
+          "coords": [
+            14.448,
+            45.378
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den ersten Cluster.",
+            "hu": "Parkoljon le itt az első részhez.",
+            "ro": "Parcați aici pentru primul segment.",
+            "en": "Park here for the first cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Kovačija Dražice",
+            "hu": "Kovačija Dražice",
+            "ro": "Kovačija Dražice",
+            "en": "Kovačija Dražice"
+          },
+          "coords": [
+            14.449,
+            45.378
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Parkplatz.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Walkable from the parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva sv. Mihovila (Jelenje)",
+            "hu": "Szent Mihály-templom (Jelenje)",
+            "ro": "Biserica Sf. Mihail (Jelenje)",
+            "en": "Church of St. Michael (Jelenje)"
+          },
+          "coords": [
+            14.445,
+            45.381
+          ],
+          "category": "religious",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrt zum nächsten Dorfcluster.",
+            "hu": "Autózás a következő faluhoz.",
+            "ro": "Deplasare spre următorul segment.",
+            "en": "Drive to the next village cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfplatz Jelenje",
+            "hu": "Jelenje falutér",
+            "ro": "Piața satului Jelenje",
+            "en": "Jelenje Village Square"
+          },
+          "coords": [
+            14.446,
+            45.381
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang im Ortskern.",
+            "hu": "Rövid séta a településmagban.",
+            "ro": "Scurtă plimbare în centrul satului.",
+            "en": "Short walk in the village core."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Jelenje",
+            "hu": "Ebéd Jelenjén",
+            "ro": "Prânz în Jelenje",
+            "en": "Lunch in Jelenje"
+          },
+          "coords": [
+            14.447,
+            45.382
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Wildgerichte.",
+            "hu": "Élvezze a helyi vadhúsételeket.",
+            "ro": "Savurați preparate locale din vânat.",
+            "en": "Enjoy local game dishes."
+          }
+        },
+        {
+          "name": {
+            "de": "Gašparov mlin (Martinovo Selo)",
+            "hu": "Gašparov mlin (Martinovo Selo)",
+            "ro": "Gašparov mlin (Martinovo Selo)",
+            "en": "Gašpar's Mill (Martinovo Selo)"
+          },
+          "coords": [
+            14.435,
+            45.395
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahrt zur historischen Mühle.",
+            "hu": "Autózás a történelmi malomhoz.",
+            "ro": "Deplasare spre moara istorică.",
+            "en": "Drive to the historic mill."
+          }
+        },
+        {
+          "name": {
+            "de": "Rječina Uferpromenade",
+            "hu": "Rječina folyóparti sétány",
+            "ro": "Promenada Rječina",
+            "en": "Rječina Riverside Promenade"
+          },
+          "coords": [
+            14.436,
+            45.396
+          ],
+          "category": "park",
+          "arrive_at": "14:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spaziergang direkt am Wasser.",
+            "hu": "Séta közvetlenül a vízparton.",
+            "ro": "Plimbare chiar pe malul apei.",
+            "en": "Stroll right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausklang am Fluss",
+            "hu": "Befejezés a folyónál",
+            "ro": "Final de zi la râu",
+            "en": "Farewell by the river"
+          },
+          "coords": [
+            14.437,
+            45.397
+          ],
+          "category": "sunset",
+          "arrive_at": "15:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein ruhiger Abschluss des Tages.",
+            "hu": "Csendes befejezése a napnak.",
+            "ro": "Un final de zi liniștit.",
+            "en": "A quiet end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Auto-Tag kombiniert kurze Fahrten mit Erkundungen zu Fuß. In Dražice besuchen Sie die alte Kovačija. Danach fahren Sie nach Jelenje, um die barocke Kirche zu besichtigen und ein herzhaftes Mittagessen einzunehmen. Der Nachmittag gehört dem Gašparov mlin in Martinovo Selo, wo Sie das Auto parken und die friedliche Flusslandschaft der Rječina zu Fuß genießen.",
+        "hu": "Ez az autós nap rövid utazásokat és gyalogos felfedezéseket ötvöz. Dražice-ben a régi kovácsműhelyt nézzük meg, majd átgurulunk Jelenjére a templom és egy finom ebéd kedvéért. Délután Martinovo Selo és a Gašpar-malom következik, ahol leparkolunk, és gyalogosan fedezzük fel a Rječina folyó békés partvidékét.",
+        "ro": "Această zi auto combină deplasări scurte cu explorări pe jos. În Dražice vizitați vechea fierărie, apoi conduceți spre Jelenje pentru biserica barocă și un prânz copios. După-amiaza este dedicată morii lui Gašpar din Martinovo Selo, unde parcați și vă bucurați de peisajul liniștit al râului Rječina la pas.",
+        "en": "This car tour combines short drives with walking explorations. In Dražice, visit the old blacksmith shop, then drive to Jelenje for the baroque church and a hearty lunch. The afternoon is spent at Gašpar's Mill in Martinovo Selo, where you park and enjoy the peaceful riverside landscape of the Rječina on foot."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Rječina",
+            "tip": "Hausgemachtes Brot und Grillgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rječina Étterem",
+            "tip": "Házi kenyér és sültek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Rječina",
+            "tip": "Pâine de casă și preparate la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Rječina",
+            "tip": "Homemade bread and grilled dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Martinovo Selo Wehr",
+            "tip": "Beruhigendes Rauschen des Wassers.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Martinovo Selo gát",
+            "tip": "A víz nyugtató csobogása.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stăvilarul Martinovo Selo",
+            "tip": "Sunetul liniștitor al apei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Martinovo Selo Weir",
+            "tip": "Soothing sound of the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt Dražice",
+            "tip": "Frisches Gemüse am Samstagmorgen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dražicei piac",
+            "tip": "Friss zöldség szombat reggelenként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Dražice",
+            "tip": "Legume proaspete în diminețile de sâmbătă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dražice Farmer's Market",
+            "tip": "Fresh vegetables on Saturday mornings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Dražice gibt es ausreichend kostenlose Parkplätze.",
+          "Die Straßen zwischen den Dörfern sind schmal, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Dražice-ben bőven van ingyenes parkoló.",
+          "A falvak közti utak keskenyek, vezessen óvatosan."
+        ],
+        "ro": [
+          "În Dražice există suficiente locuri de parcare gratuite.",
+          "Drumurile între sate sunt înguste, conduceți cu atenție."
+        ],
+        "en": [
+          "There is plenty of free parking in Dražice.",
+          "The roads between villages are narrow, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dražice Bushaltestelle (Zentrum)",
+            "hu": "Dražice buszmegálló (központ)",
+            "ro": "Stația de autobuz Dražice (Centru)",
+            "en": "Dražice Bus Stop (Center)"
+          },
+          "coords": [
+            14.448,
+            45.378
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ankunft mit der Linie 12 aus Rijeka.",
+            "hu": "Érkezés a rijekai 12-es busszal.",
+            "ro": "Sosire cu linia 12 din Rijeka.",
+            "en": "Arrival with line 12 from Rijeka."
+          }
+        },
+        {
+          "name": {
+            "de": "Kovačija Dražice",
+            "hu": "Kovačija Dražice",
+            "ro": "Kovačija Dražice",
+            "en": "Kovačija Dražice"
+          },
+          "coords": [
+            14.449,
+            45.378
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten vom Bus entfernt.",
+            "hu": "Csak pár perc séta a busztól.",
+            "ro": "La doar câteva minute de mers pe jos de autobuz.",
+            "en": "Only a few minutes walk from the bus."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva sv. Mihovila (Jelenje)",
+            "hu": "Szent Mihály-templom (Jelenje)",
+            "ro": "Biserica Sf. Mihail (Jelenje)",
+            "en": "Church of St. Michael (Jelenje)"
+          },
+          "coords": [
+            14.445,
+            45.381
+          ],
+          "category": "religious",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spaziergang ins Nachbardorf.",
+            "hu": "Séta a szomszédos faluba.",
+            "ro": "Plimbare spre satul vecin.",
+            "en": "Walk to the neighboring village."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Jelenje",
+            "hu": "Ebéd Jelenjén",
+            "ro": "Prânz în Jelenje",
+            "en": "Lunch in Jelenje"
+          },
+          "coords": [
+            14.447,
+            45.382
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die lokale Gastfreundschaft.",
+            "hu": "Élvezze a helyi vendégszeretetet.",
+            "ro": "Bucurați-vă de ospitalitatea locală.",
+            "en": "Enjoy the local hospitality."
+          }
+        },
+        {
+          "name": {
+            "de": "Gašparov mlin (Busfahrt)",
+            "hu": "Gašparov mlin (buszozás)",
+            "ro": "Gašparov mlin (cu autobuzul)",
+            "en": "Gašpar's Mill (by bus)"
+          },
+          "coords": [
+            14.435,
+            45.395
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt nach Martinovo Selo.",
+            "hu": "Rövid buszozás Martinovo Selóba.",
+            "ro": "Scurtă călătorie cu autobuzul până la Martinovo Selo.",
+            "en": "Short bus ride to Martinovo Selo."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt ab Dražice",
+            "hu": "Visszautazás Dražice-ből",
+            "ro": "Întoarcere din Dražice",
+            "en": "Return from Dražice"
+          },
+          "coords": [
+            14.448,
+            45.378
+          ],
+          "category": "transit",
+          "arrive_at": "15:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Kontrollieren Sie den Busfahrplan im Voraus.",
+            "hu": "Ellenőrizze a buszmenetrendet előre.",
+            "ro": "Verificați mersul autobuzelor în avans.",
+            "en": "Check the bus schedule in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Bus aus Rijeka erreichen Sie Dražice, den idealen Ausgangspunkt. Nach dem Besuch der Schmiede spazieren Sie nach Jelenje zur Michaelskirche. Ein authentisches Mittagessen stärkt Sie für den Nachmittag, an dem Sie per Bus oder kurzem Fußweg zum Gašparov mlin gelangen. Die historische Mühle am Flussufer ist der perfekte Abschluss Ihrer ländlichen Entdeckungstour.",
+        "hu": "A Rijekából érkező busszal Dražice-be érkezünk, ami tökéletes kiindulópont. A kovácsműhely után átgyalogolunk Jelenjére a templomhoz. Egy autentikus ebéd után busszal vagy rövid sétával érjük el a Gašpar-malmot. A folyóparti történelmi malom méltó befejezése a vidéki kalandozásnak, mielőtt visszatérnénk a városba.",
+        "ro": "Cu autobuzul public din Rijeka ajungeți în Dražice, punctul ideal de plecare. După fierărie, mergeți pe jos până în Jelenje la Biserica Sf. Mihail. Un prânz autentic vă va da energie pentru după-amiaza în care ajungeți cu autobuzul sau pe jos la Gašparov mlin. Moara istorică de pe malul râului este finalul perfect al incursiunii rurale.",
+        "en": "Take the public bus from Rijeka to reach Dražice, the perfect starting point. After visiting the blacksmith shop, walk to Jelenje to see St. Michael's Church. An authentic lunch prepares you for the afternoon, when you reach Gašpar's Mill by bus or a short walk. The historic mill by the river is the perfect finish to your rural discovery tour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Konditorei",
+            "tip": "Probieren Sie Kremeš (Cremeschnitte)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi cukrászda",
+            "tip": "Kóstolja meg a krémes süteményt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cofetărie locală",
+            "tip": "Încercați prăjitura Kremeš (cremșnit)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Patisserie",
+            "tip": "Try the Kremeš (cream cake)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Garten der Kirche",
+            "tip": "Friedlicher Platz zum Verweilen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templomkert",
+            "tip": "Békés hely a megálláshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina bisericii",
+            "tip": "Un loc liniștit pentru popas.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Garden",
+            "tip": "Peaceful spot to linger.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleiner Dorfladen",
+            "tip": "Lokale Produkte und Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis falusi bolt",
+            "tip": "Helyi termékek és emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mic magazin sătesc",
+            "tip": "Produse locale și suveniruri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small Village Shop",
+            "tip": "Local products and souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Linie 12 fährt regelmäßig ab dem Hauptbusbahnhof Rijeka.",
+          "Kaufen Sie die Fahrkarten am Kiosk für einen günstigeren Preis."
+        ],
+        "hu": [
+          "A 12-es busz rendszeresen indul Rijeka főpályaudvaráról.",
+          "Vegye meg a jegyet előre a pavilonokban a kedvezőbb árért."
+        ],
+        "ro": [
+          "Linia 12 circulă regulat din autogara centrală din Rijeka.",
+          "Cumpărați biletele de la chioșcuri pentru un preț mai bun."
+        ],
+        "en": [
+          "Bus line 12 runs regularly from the main Rijeka bus station.",
+          "Buy tickets at the kiosk beforehand for a better price."
+        ]
+      }
+    }
+  }
+}

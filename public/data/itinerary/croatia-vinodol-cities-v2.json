@@ -1,0 +1,944 @@
+{
+  "city_id": "croatia-vinodol-cities-v2",
+  "anchor": {
+    "name": "Vinodol",
+    "coords": [
+      14.7647,
+      45.1611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Kula Turan (Bribir)",
+          "coords": [
+            14.7632,
+            45.1612
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Turm für eine Aussicht über das Tal.",
+            "hu": "Mássz fel a toronyba a völgyre nyíló kilátásért.",
+            "ro": "Urcați în turn pentru o panoramă asupra văii.",
+            "en": "Climb the tower for a view over the valley."
+          }
+        },
+        {
+          "name": "Historischer Ortskern Bribir",
+          "coords": [
+            14.7645,
+            45.1605
+          ],
+          "category": "square",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur der Frankopanen-Zeit.",
+            "hu": "Csodáld meg a Frangepán-korszak építészetét.",
+            "ro": "Admirați arhitectura din epoca Frankopan.",
+            "en": "Admire the architecture from the Frankopan era."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            14.7655,
+            45.1615
+          ],
+          "category": "gastro",
+          "arrive_at": "11:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie Schinken und lokalen Käse.",
+            "hu": "Kóstold meg a helyi sonkát és sajtot.",
+            "ro": "Încercați șunca și brânza locală.",
+            "en": "Try the local prosciutto and cheese."
+          }
+        },
+        {
+          "name": "Oči Vinodola (Aussichtspunkt)",
+          "coords": [
+            14.7785,
+            45.1725
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:30",
+          "stay_min": 35,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Einer der 'Augen von Vinodol' mit Blick auf das Meer.",
+            "hu": "Az egyik 'Vinodol szeme' kilátó tengeri panorámával.",
+            "ro": "Unul dintre 'Ochii Vinodolului' cu vedere la mare.",
+            "en": "One of the 'Eyes of Vinodol' with sea views."
+          }
+        },
+        {
+          "name": "Kaffee-Pause am Berg",
+          "coords": [
+            14.775,
+            45.168
+          ],
+          "category": "gastro",
+          "arrive_at": "14:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe in der Natur.",
+            "hu": "Élvezd a csendet a természetben.",
+            "ro": "Bucurați-vă de liniște în natură.",
+            "en": "Enjoy the peace in nature."
+          }
+        },
+        {
+          "name": "Abendlicher Rückweg",
+          "coords": [
+            14.7647,
+            45.1611
+          ],
+          "category": "sunset",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Sonnenuntergang färbt die Kalkfelsen golden.",
+            "hu": "A naplemente aranyba borítja a mészkősziklákat.",
+            "ro": "Apusul colorează stâncile de calcar în auriu.",
+            "en": "The sunset turns the limestone cliffs golden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Bribir, wo der mächtige Turm an die Frankopanen erinnert. Nach einem gemütlichen Spaziergang durch die alten Gassen stärken Sie sich in einer traditionellen Konoba. Der Nachmittag führt Sie hinauf zu einem der spektakulären Aussichtspunkte 'Oči Vinodola', von wo aus Sie das Tal und die Adria gleichzeitig im Blick haben.",
+        "hu": "A napot a történelmi Bribirben indítod, ahol a hatalmas torony a Frangepánok dicsőségét hirdeti. Az ódon utcák felfedezése után egy hagyományos konobában kóstolhatod meg a völgy ízeit. Délután egy meredekebb séta vár a 'Vinodol szemei' egyik kilátójához, ahonnan lélegzetelállító panoráma nyílik a tengerre és a hegyekre.",
+        "ro": "Ziua începe în Bribirul istoric, unde turnul masiv amintește de familia Frankopan. După o plimbare prin străzile vechi, vă veți delecta cu aromele locale la o konoba tradițională. După-amiaza vă conduce către unul dintre punctele de belvedere 'Ochii Vinodolului', oferind o priveliște spectaculoasă asupra văii și a Mării Adriatice.",
+        "en": "Your day starts in historic Bribir, where the mighty tower recalls the Frankopan era. After exploring the old streets, enjoy local flavors in a traditional konoba. The afternoon takes you up to one of the spectacular 'Eyes of Vinodol' viewpoints, offering a breathtaking panorama of both the valley and the Adriatic Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Lucija",
+            "tip": "Probieren Sie den hausgemachten Bribirski Prisnac."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Lucija",
+            "tip": "Kóstold meg a házi Bribirski Prisnacot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Lucija",
+            "tip": "Încercați preparatul tradițional Bribirski Prisnac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Lucija",
+            "tip": "Try the homemade Bribirski Prisnac specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Mahavica",
+            "tip": "Absolute Stille über dem Tal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mahavica kilátó",
+            "tip": "Tökéletes csend a völgy felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvederea Mahavica",
+            "tip": "Liniște absolută deasupra văii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mahavica Viewpoint",
+            "tip": "Absolute silence above the valley.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Waldhonig direkt vom Imker im Tal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Erdei méz közvetlenül a völgy méhészeitől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Miere de pădure direct de la apicultori."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Forest honey directly from valley beekeepers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Wanderschuhe sind für die Wege zu den Aussichtspunkten Pflicht.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Schatten im Sommer."
+        ],
+        "hu": [
+          "Kényelmes túracipő kötelező a kilátókhoz vezető utakon.",
+          "Vigyél magaddal elég vizet, nyáron kevés az árnyék."
+        ],
+        "ro": [
+          "Pantofii de drumeție sunt obligatorii pentru potecile spre belvedere.",
+          "Luați suficientă apă, există puțină umbră în timpul verii."
+        ],
+        "en": [
+          "Comfortable hiking shoes are mandatory for the paths to the viewpoints.",
+          "Take plenty of water, as there is little shade in summer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 26.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Kaštel Drivenik",
+          "coords": [
+            14.6835,
+            45.2415
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die gut erhaltene Festungsanlage.",
+            "hu": "Nézd meg a jól megőrzött erődrendszert.",
+            "ro": "Vizitați complexul fortificat bine conservat.",
+            "en": "Visit the well-preserved fortress complex."
+          }
+        },
+        {
+          "name": "Dorfspaziergang Drivenik",
+          "coords": [
+            14.6855,
+            45.2425
+          ],
+          "category": "square",
+          "arrive_at": "10:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die alte Kirche St. Dujam.",
+            "hu": "Fedezd fel a Szent Dujam régi templomot.",
+            "ro": "Descoperiți vechea biserică Sf. Dujam.",
+            "en": "Discover the old St. Dujam church."
+          }
+        },
+        {
+          "name": "Tribaljsko jezero",
+          "coords": [
+            14.7215,
+            45.2135
+          ],
+          "category": "park",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Perfekt für einen Spaziergang am Seeufer.",
+            "hu": "Tökéletes egy sétához a tóparton.",
+            "ro": "Perfect pentru o plimbare pe malul lacului.",
+            "en": "Perfect for a stroll along the lakeshore."
+          }
+        },
+        {
+          "name": "Mittagessen in Tribalj",
+          "coords": [
+            14.723,
+            45.212
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 85,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hausgemachte Pasta ist hier sehr zu empfehlen.",
+            "hu": "A házi tészta itt kifejezetten ajánlott.",
+            "ro": "Pastele de casă sunt foarte recomandate aici.",
+            "en": "Homemade pasta is highly recommended here."
+          }
+        },
+        {
+          "name": "Kula Turan (Bribir)",
+          "coords": [
+            14.7632,
+            45.1612
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Zentrum der frankopanischen Herrschaft.",
+            "hu": "A Frangepán uralom központja.",
+            "ro": "Centrul stăpânirii familiei Frankopan.",
+            "en": "Center of the Frankopan rule."
+          }
+        },
+        {
+          "name": "Altstadt-Rundgang Bribir",
+          "coords": [
+            14.7645,
+            45.1605
+          ],
+          "category": "square",
+          "arrive_at": "16:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp am alten Stadttor.",
+            "hu": "Rövid megálló a régi városkapunál.",
+            "ro": "Scurtă oprire la vechea poartă a orașului.",
+            "en": "Short stop at the old city gate."
+          }
+        },
+        {
+          "name": "Oči Vinodola (Aussichtspunkt)",
+          "coords": [
+            14.7825,
+            45.1785
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Panorama-Blick über das gesamte Tal bis nach Krk.",
+            "hu": "Panoráma az egész völgyre, egészen Krk szigetéig.",
+            "ro": "Panoramă peste întreaga vale până la insula Krk.",
+            "en": "Panoramic view over the entire valley to Krk island."
+          }
+        },
+        {
+          "name": "Sonnenuntergang am Hang",
+          "coords": [
+            14.775,
+            45.17
+          ],
+          "category": "sunset",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie das goldene Licht über dem Vinodol.",
+            "hu": "Élvezd az arany fényeket a Vinodol felett.",
+            "ro": "Bucurați-vă de lumina aurie deasupra Vinodolului.",
+            "en": "Enjoy the golden light over Vinodol."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die gesamte Vielfalt des Vinodol-Tals. Sie starten im Nordwesten an der beeindruckenden Burg Drivenik und fahren dann entlang des ruhigen Tribalj-Sees. Nach einem regionalen Mittagessen führt die Reise nach Bribir zum Kula Turan. Den krönenden Abschluss bildet die Fahrt zu den 'Augen von Vinodol', wo Sie den Sonnenuntergang mit Blick auf die Kvarner-Bucht erleben.",
+        "hu": "Autóval a Vinodol-völgy teljes sokszínűségét felfedezheted. Északnyugaton kezdesz a lenyűgöző Drivenik váránál, majd a nyugodt Tribalji-tó partján haladsz tovább. Egy regionális ebéd után Bribirbe látogatsz a Turan-toronyhoz. A napot a 'Vinodol szemei' kilátóknál zárod, ahonnan a Kvarner-öböl feletti naplementében gyönyörködhetsz.",
+        "ro": "Cu mașina, veți explora întreaga diversitate a Văii Vinodol. Începeți în nord-vest la impresionantul castel Drivenik, apoi continuați pe lângă liniștitul lac Tribalj. După un prânz regional, călătoria vă duce la Bribir, la Turnul Turan. Punctul culminant este drumul către 'Ochii Vinodolului', unde veți admira apusul deasupra golfului Kvarner.",
+        "en": "By car, you will explore the full diversity of the Vinodol Valley. Start in the northwest at the impressive Drivenik Castle, then drive along the tranquil Tribalj Lake. After a regional lunch, the journey leads to Bribir and the Turan Tower. The highlight is the drive to the 'Eyes of Vinodol', where you will witness the sunset overlooking the Kvarner Bay."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Vagabundo",
+            "tip": "Bekannt für Wildgerichte und Kräuterküche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Vagabundo",
+            "tip": "Vadhúsételeiről és fűszerkonyhájáról híres."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Vagabundo",
+            "tip": "Cunoscută pentru preparate din vânat și plante aromatice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Vagabundo",
+            "tip": "Famous for game dishes and herbal cuisine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tribaljsko jezero",
+            "tip": "Angeln oder einfach nur die Ruhe am Wasser genießen.",
+            "emoji": "🎣"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tribalji-tó",
+            "tip": "Horgászat vagy csak a vízparti nyugalom élvezete.",
+            "emoji": "🎣"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Tribalj",
+            "tip": "Pescuit sau pur și simplu bucuria liniștii de lângă apă.",
+            "emoji": "🎣"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tribalj Lake",
+            "tip": "Fishing or just enjoying the tranquility by the water.",
+            "emoji": "🎣"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vinodol Wein",
+            "tip": "Besuchen Sie ein Weingut im Tal für lokalen Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vinodol bor",
+            "tip": "Látogass el egy helyi borászatba a völgyben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Vinodol",
+            "tip": "Vizitați o cramă din vale pentru vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vinodol Wine",
+            "tip": "Visit a local winery in the valley for regional wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen zu den Aussichtspunkten sind eng und kurvenreich.",
+          "Parken Sie in Drivenik direkt unterhalb der Burg."
+        ],
+        "hu": [
+          "A kilátókhoz vezető utak szűkek és kanyargósak.",
+          "Drivenikben parkolj közvetlenül a vár alatt."
+        ],
+        "ro": [
+          "Drumurile spre belvedere sunt înguste și șerpuite.",
+          "Parcați în Drivenik direct sub castel."
+        ],
+        "en": [
+          "The roads to the viewpoints are narrow and winding.",
+          "In Drivenik, park directly below the castle."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Kaštel Drivenik",
+          "coords": [
+            14.6835,
+            45.2415
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöner Anstieg zur Burg als Aufwärmtraining.",
+            "hu": "Szép emelkedő a várhoz bemelegítésnek.",
+            "ro": "O urcare frumoasă spre castel ca încălzire.",
+            "en": "Nice climb to the castle as a warm-up."
+          }
+        },
+        {
+          "name": "Tribaljsko jezero",
+          "coords": [
+            14.7215,
+            45.2135
+          ],
+          "category": "park",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Radeln Sie entspannt einmal um den See.",
+            "hu": "Kerekezz kényelmesen körbe a tó körül.",
+            "ro": "Pedalați relaxat în jurul lacului.",
+            "en": "Cycle leisurely around the lake."
+          }
+        },
+        {
+          "name": "Picknick am See",
+          "coords": [
+            14.7235,
+            45.2115
+          ],
+          "category": "gastro",
+          "arrive_at": "11:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Energieschub für die Weiterfahrt nach Bribir.",
+            "hu": "Energialöket a Bribir felé vezető úthoz.",
+            "ro": "Pauză de energie pentru drumul spre Bribir.",
+            "en": "Energy boost for the ride to Bribir."
+          }
+        },
+        {
+          "name": "Kula Turan (Bribir)",
+          "coords": [
+            14.7632,
+            45.1612
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Das Ziel der Tour im Herzen des Tals.",
+            "hu": "A túra célpontja a völgy szívében.",
+            "ro": "Destinația turului în inima văii.",
+            "en": "The destination of the tour in the heart of the valley."
+          }
+        },
+        {
+          "name": "Eispause im Zentrum",
+          "coords": [
+            14.7645,
+            45.1615
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Verdiente Abkühlung nach den Anstiegen.",
+            "hu": "Megérdemelt hűsítő az emelkedők után.",
+            "ro": "Răcoritoare meritată după urcări.",
+            "en": "Well-deserved cooling off after the climbs."
+          }
+        },
+        {
+          "name": "Ausklang am Dorfplatz",
+          "coords": [
+            14.764,
+            45.161
+          ],
+          "category": "sunset",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie das lokale Treiben.",
+            "hu": "Figyeld a helyi forgatagot.",
+            "ro": "Observați agitația locală.",
+            "en": "Watch the local bustle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour durch das Vinodol-Tal verbindet sportliche Aktivität mit kulturellen Highlights. Von der Burg Drivenik geht es über flache Etappen zum See von Tribalj, der ideal für eine Pause ist. Der abschließende Anstieg nach Bribir wird mit dem Besuch des historischen Turms und einer entspannten Atmosphäre auf dem Dorfplatz belohnt.",
+        "hu": "A Vinodol-völgyi kerékpártúra a sportot ötvözi a kulturális élményekkel. Drivenik várától síkabb szakaszokon jutsz el a Tribalji-tóig, ami ideális egy pihenőhöz. A Bribirbe vezető utolsó emelkedőt a történelmi torony látványa és a falusi főtér nyugodt hangulata feledteti.",
+        "ro": "Turul cu bicicleta prin Valea Vinodol îmbină activitatea sportivă cu momentele culturale. De la castelul Drivenik, parcurgeți etape plane până la lacul Tribalj, ideal pentru o pauză. Urcarea finală spre Bribir este răsplătită cu vizitarea turnului istoric și atmosfera relaxată din piața satului.",
+        "en": "The bike tour through the Vinodol Valley combines sporting activity with cultural highlights. From Drivenik Castle, ride through flat sections to Tribalj Lake, perfect for a break. The final climb to Bribir is rewarded with a visit to the historic tower and the relaxed atmosphere of the village square."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Jezero",
+            "tip": "Direkt am See, ideal für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Jezero",
+            "tip": "Közvetlenül a tónál, ideális bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Jezero",
+            "tip": "Chiar lângă lac, ideal pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Jezero",
+            "tip": "Right by the lake, ideal for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Seeufer-Pfad",
+            "tip": "Weg abseits der Hauptstraße.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tóparti ösvény",
+            "tip": "Út a főúttól távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca de pe malul lacului",
+            "tip": "Drum departe de șoseaua principală.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lakeshore Path",
+            "tip": "Path away from the main road.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Oft an kleinen Ständen am Straßenrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Gyakran az út menti kis standoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Adesea la standuri mici pe marginea drumului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Often at small roadside stands."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor den Abfahrten ins Tal.",
+          "Die Strecke im Talboden ist weitgehend flach."
+        ],
+        "hu": [
+          "Ellenőrizd a fékeidet a völgybe vezető lejtők előtt.",
+          "A völgy alján futó szakasz nagyrészt sík."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârile în vale.",
+          "Traseul de pe fundul văii este în mare parte plat."
+        ],
+        "en": [
+          "Check your brakes before the descents into the valley.",
+          "The route along the valley floor is mostly flat."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Ankunft in Bribir",
+          "coords": [
+            14.7645,
+            45.1615
+          ],
+          "category": "square",
+          "arrive_at": "09:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle liegt zentral im Ort.",
+            "hu": "A buszmegálló központi helyen van.",
+            "ro": "Stația de autobuz este situată central.",
+            "en": "The bus stop is centrally located."
+          }
+        },
+        {
+          "name": "Kula Turan (Bribir)",
+          "coords": [
+            14.7632,
+            45.1612
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Hauptattraktion des Ortes, nur 5 min zu Fuß.",
+            "hu": "A falu fő látványossága, csak 5 perc séta.",
+            "ro": "Principala atracție, la doar 5 min de mers pe jos.",
+            "en": "Main attraction of the village, just 5 min walk."
+          }
+        },
+        {
+          "name": "Ebéd a centrumban",
+          "coords": [
+            14.765,
+            45.161
+          ],
+          "category": "gastro",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Spezialitäten ohne Zeitdruck.",
+            "hu": "Élvezd a helyi specialitásokat sietség nélkül.",
+            "ro": "Bucurați-vă de specialități locale fără grabă.",
+            "en": "Enjoy local specialties without time pressure."
+          }
+        },
+        {
+          "name": "Tribaljsko jezero",
+          "coords": [
+            14.7215,
+            45.2135
+          ],
+          "category": "park",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Fahrt mit dem Regionalbus zum See.",
+            "hu": "Utazás a helyi busszal a tóhoz.",
+            "ro": "Călătorie cu autobuzul regional spre lac.",
+            "en": "Ride the regional bus to the lake."
+          }
+        },
+        {
+          "name": "Pauză de cafea la Tribalj",
+          "coords": [
+            14.723,
+            45.212
+          ],
+          "category": "gastro",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Warten auf den Rückbus bei einem Kaffee.",
+            "hu": "Várd a buszt egy kávé mellett.",
+            "ro": "Așteptați autobuzul de retur la o cafea.",
+            "en": "Wait for the return bus with a coffee."
+          }
+        },
+        {
+          "name": "Rückfahrt Vorbereitung",
+          "coords": [
+            14.724,
+            45.213
+          ],
+          "category": "sunset",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Checken Sie den Fahrplan rechtzeitig.",
+            "hu": "Ellenőrizd a menetrendet időben.",
+            "ro": "Verificați programul din timp.",
+            "en": "Check the schedule in time."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auch mit öffentlichen Verkehrsmitteln lässt sich das Vinodol-Tal erleben. Sie konzentrieren sich auf den Hauptort Bribir mit seiner Turmanlage und der historischen Altstadt. Ein Abstecher mit dem lokalen Bus führt Sie zum Tribalj-See, wo Sie die Natur genießen können, bevor es am späten Nachmittag zurück an die Küste geht.",
+        "hu": "A Vinodol-völgy tömegközlekedéssel is felfedezhető. A középpontban Bribir áll a Turan-toronnyal és történelmi óvárosával. Egy rövid buszos kitérő a Tribalji-tóhoz vezet, ahol élvezheted a természetet, mielőtt késő délután visszatérnél a partvidékre.",
+        "ro": "Valea Vinodol poate fi experimentată și cu transportul public. Vă veți concentra pe localitatea principală, Bribir, cu turnul său și centrul istoric. O scurtă deplasare cu autobuzul local vă duce la lacul Tribalj, unde vă puteți bucura de natură înainte de a reveni la coastă spre seară.",
+        "en": "The Vinodol Valley can also be experienced by public transport. Focus on the main village of Bribir with its tower complex and historic old town. A side trip by local bus takes you to Tribalj Lake, where you can enjoy nature before heading back to the coast in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bribirska Gostiona",
+            "tip": "Hausmannskost im Zentrum von Bribir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bribirska Gostiona",
+            "tip": "Házias konyha Bribir központjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bribirska Gostiona",
+            "tip": "Mâncare gătită în centrul orașului Bribir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bribirska Gostiona",
+            "tip": "Home-style cooking in Bribir center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pfarrkirche Bribir",
+            "tip": "Ein kühler und stiller Ort.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bribiri plébániatemplom",
+            "tip": "Hűvös és csendes menedék.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica parohială Bribir",
+            "tip": "Un loc răcoros și liniștit.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bribir Parish Church",
+            "tip": "A cool and quiet place.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Bribir",
+            "tip": "Frisches Brot und Gebäck für den Tag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bribiri pékség",
+            "tip": "Friss kenyér és péksütemények a napra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Bribir",
+            "tip": "Pâine proaspătă și produse de patiserie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bribir Bakery",
+            "tip": "Fresh bread and pastries for the day."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busverbindungen sind am Wochenende eingeschränkt.",
+          "Fragen Sie den Fahrer nach der Haltestelle 'Tribalj Centar'."
+        ],
+        "hu": [
+          "A buszjáratok hétvégén korlátozottak.",
+          "Kérdezd a sofőrt a 'Tribalj Centar' megállóról."
+        ],
+        "ro": [
+          "Conexiunile de autobuz sunt limitate în weekend.",
+          "Întrebați șoferul despre stația 'Tribalj Centar'."
+        ],
+        "en": [
+          "Bus connections are limited on weekends.",
+          "Ask the driver for the 'Tribalj Centar' stop."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,924 @@
+{
+  "city_id": "croatia-konavle-cities-v2",
+  "anchor": {
+    "name": "Konavle",
+    "coords": [
+      18.3681,
+      42.5186
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Stari grad Cavtat",
+          "coords": [
+            18.2192,
+            42.5811
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die engen Gassen der Halbinsel Rat.",
+            "hu": "Sétáljon végig a Rat-félsziget hangulatos sikátorain.",
+            "ro": "Plimbați-vă pe străduțele înguste ale peninsulei Rat.",
+            "en": "Stroll through the narrow stone alleys of the Rat peninsula."
+          }
+        },
+        {
+          "name": "Crkva svetog Nikole",
+          "coords": [
+            18.2205,
+            42.5808
+          ],
+          "category": "religious",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wertvollen Altarbilder im Inneren.",
+            "hu": "Csodálja meg a templom belső értékes oltárképeit.",
+            "ro": "Admirați picturile valoroase de pe altarul din interior.",
+            "en": "Admire the precious altarpieces inside the church."
+          }
+        },
+        {
+          "name": "Uferpromenade Riva",
+          "coords": [
+            18.2225,
+            42.5795
+          ],
+          "category": "harbor",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Perfekt für einen Espresso direkt am türkisfarbenen Wasser.",
+            "hu": "Tökéletes hely egy eszpresszóhoz a türkizkék víz partján.",
+            "ro": "Locul perfect pentru un espresso lângă apa turcoaz.",
+            "en": "Perfect spot for an espresso right by the turquoise water."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            18.2218,
+            42.5802
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch oder schwarzen Risotto.",
+            "hu": "Kóstolja meg a friss halat vagy a fekete rizottót.",
+            "ro": "Încercați peștele proaspăt sau risottoul negru.",
+            "en": "Try fresh fish or the traditional black risotto."
+          }
+        },
+        {
+          "name": "Strandpause an der Bucht",
+          "coords": [
+            18.2155,
+            42.5835
+          ],
+          "category": "beach",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Klares Wasser und Schatten unter den Pinien.",
+            "hu": "Kristálytiszta víz és árnyas fenyőfák a parton.",
+            "ro": "Apă limpede și umbră sub pinii de pe mal.",
+            "en": "Crystal clear water and shade under the pine trees."
+          }
+        },
+        {
+          "name": "Aussichtspunkt auf Dubrovnik",
+          "coords": [
+            18.2235,
+            42.5785
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Adria zum Abschluss.",
+            "hu": "Élvezze az adriai panorámát a nap végén.",
+            "ro": "Bucurați-vă de panorama Adriaticii la finalul zilei.",
+            "en": "Enjoy the Adriatic panorama as you end your walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie das elegante Cavtat zu Fuß. Der Morgen beginnt im historischen Zentrum und bei der St. Nikolaus Kirche. Nach einem entspannten Spaziergang an der Riva folgt ein authentisches Mittagessen. Den Nachmittag verbringen Sie gemütlich am Strand, bevor der Tag mit einem Panoramablick endet.",
+        "hu": "Fedezze fel az elegáns Cavtatot gyalogosan. A reggel a történelmi óvárosban és a Szent Miklós templomnál indul. A parti sétányon tett pihentető séta után autentikus ebéd következik. A délutánt a strandon töltheti, majd a napot egy csodás panorámával zárhatja.",
+        "ro": "Descoperiți elegantul Cavtat la pas. Dimineața începe în centrul istoric și la biserica Sf. Nicolae. După o plimbare relaxantă pe faleză, urmează un prânz autentic. După-amiaza este dedicată plajei, iar ziua se încheie cu o vedere panoramică superbă.",
+        "en": "Explore elegant Cavtat on foot. Your morning starts in the historical center and at St. Nicholas Church. After a relaxing stroll along the Riva, enjoy an authentic lunch. Spend the afternoon by the sea before concluding your day with a breathtaking panorama."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Toranj",
+            "tip": "Traditionelle Peka in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Toranj",
+            "tip": "Hagyományos peka történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Toranj",
+            "tip": "Peka tradițională într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Toranj",
+            "tip": "Traditional peka in a charming historical setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Halbinsel Rat",
+            "tip": "Ruhige Waldwege direkt über dem Meer.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rat-félsziget",
+            "tip": "Csendes erdei ösvények közvetlenül a tenger felett.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peninsula Rat",
+            "tip": "Poteci liniștite prin pădure deasupra mării.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rat Peninsula",
+            "tip": "Quiet forest paths right above the sea.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Konavle-Stickereien",
+            "tip": "Handgefertigte Seidenstickerei als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konavlei hímzés",
+            "tip": "Kézzel hímzett selyem dísztárgyak szuvenírnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Broderii Konavle",
+            "tip": "Obiecte din mătase brodate manual ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konavle Embroidery",
+            "tip": "Handmade silk embroidery, a unique local souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Badesachen nicht vergessen, das Wasser ist kristallklar.",
+          "Die Riva ist am Vormittag am ruhigsten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Ne felejtse el a fürdőruhát, a víz kristálytiszta.",
+          "A kikötői sétány délelőtt a legnyugodtabb."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite.",
+          "Nu uitați costumul de baie, apa este incredibil de curată.",
+          "Faleza este cea mai liniștită în timpul dimineții."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Don't forget your swimwear; the water is crystal clear.",
+          "The waterfront promenade is quietest in the morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Cavtat Riva",
+          "coords": [
+            18.2225,
+            42.5795
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt für die Fahrt entlang der Küste.",
+            "hu": "Kiindulópont a tengerparti tekeréshez.",
+            "ro": "Punctul de plecare pentru tura pe coastă.",
+            "en": "The starting point for your coastal ride."
+          }
+        },
+        {
+          "name": "Stari grad Cavtat",
+          "coords": [
+            18.2192,
+            42.5811
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad durch die Altstadtgassen.",
+            "hu": "Tolja a biciklit az óváros szűk utcáin.",
+            "ro": "Mergeți pe lângă bicicletă în centrul vechi.",
+            "en": "Walk your bike through the old town alleys."
+          }
+        },
+        {
+          "name": "Küstenspaziergang Tiha",
+          "coords": [
+            18.2325,
+            42.5855
+          ],
+          "category": "park",
+          "arrive_at": "11:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schöner Radweg im Schatten der Pinien am Meer.",
+            "hu": "Szép kerékpárút a tengerparti fenyvesek árnyékában.",
+            "ro": "Traseu frumos prin pini, la umbră, pe malul mării.",
+            "en": "Scenic path under the shade of pines by the sea."
+          }
+        },
+        {
+          "name": "Mittagessen am Meer",
+          "coords": [
+            18.2355,
+            42.5832
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Leichte mediterrane Kost für aktive Radler.",
+            "hu": "Könnyű mediterrán ételek aktív kerékpárosoknak.",
+            "ro": "Mâncare mediteraneană ușoară pentru bicicliști.",
+            "en": "Light Mediterranean fare for active cyclists."
+          }
+        },
+        {
+          "name": "Strandpause Žal",
+          "coords": [
+            18.2385,
+            42.5815
+          ],
+          "category": "beach",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erfrischung im flachen Kieselstrand.",
+            "hu": "Frissítő csobbanás a lassan mélyülő kavicsos strandon.",
+            "ro": "O baie răcoritoare la plaja cu pietriș.",
+            "en": "A refreshing dip at the pebbly beach."
+          }
+        },
+        {
+          "name": "Sonnenuntergang am Kap",
+          "coords": [
+            18.2125,
+            42.5865
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bester Platz für Fotos der untergehenden Sonne.",
+            "hu": "A legjobb hely a lemenő nap fotózásához.",
+            "ro": "Cel mai bun loc pentru poze la apus.",
+            "en": "The best spot for sunset photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie entlang der malerischen Küstenwege von Cavtat. Nach einem Start am Hafen erkunden Sie die Altstadt und radeln dann weiter in die Tiha-Bucht. Nach einem Mittagessen und einer ausgiebigen Badepause am Strand Žal kehren Sie pünktlich zum goldenen Licht ans Kap zurück.",
+        "hu": "Ez a kerékpártúra Cavtat festői tengerparti útjain vezet végig. A kikötői rajt után felfedezheti az óvárost, majd a Tiha-öböl felé tekerhet. Ebéd és a Žal strandon tett fürdőzés után pont a legszebb fényekben ér vissza a félsziget csúcsához.",
+        "ro": "Acest tur cu bicicleta vă poartă pe drumurile de coastă pitorești din Cavtat. După plecarea din port, explorați orașul vechi și pedalați spre golful Tiha. După prânz și o baie lungă la plaja Žal, reveniți la capătul peninsulei pentru lumina apusului.",
+        "en": "This bike tour takes you along Cavtat's scenic coastal paths. Starting from the harbor, explore the old town before cycling toward Tiha Bay. After lunch and a long swimming break at Žal beach, return to the cape just in time for the golden hour."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bugenvila",
+            "tip": "Moderne Küche mit regionalen Zutaten am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bugenvila",
+            "tip": "Modern konyha helyi alapanyagokkal a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bugenvila",
+            "tip": "Bucătărie modernă cu ingrediente locale în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bugenvila",
+            "tip": "Modern cuisine using regional ingredients by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bucht Tiha",
+            "tip": "Ruhigerer Küstenabschnitt abseits des Trubels.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tiha-öböl",
+            "tip": "Csendesebb part szakasz a nyüzsgéstől távol.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Tiha",
+            "tip": "O zonă de coastă mai liniștită, departe de agitație.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tiha Bay",
+            "tip": "A quieter stretch of coastline away from the crowds.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Kaufen Sie Salbeihonig aus dem Konavle-Tal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Vásároljon zsályamézet a Konavle-völgyből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Cumpărați miere de salvie din valea Konavle."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Buy sage honey produced in the Konavle valley."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Mieten Sie ein E-Bike für die Hügel im Hinterland.",
+          "Viel Wasser mitnehmen, es gibt wenig Schatten auf der Strecke.",
+          "Achten Sie auf Fußgänger auf der Promenade."
+        ],
+        "hu": [
+          "Béreljen elektromos biciklit a dombosabb részekhez.",
+          "Vigyen sok vizet, az úton kevés az árnyék.",
+          "Figyeljen a gyalogosokra a sétányon."
+        ],
+        "ro": [
+          "Închiriați o bicicletă electrică pentru dealurile din zonă.",
+          "Luați multă apă, este puțină umbră pe traseu.",
+          "Atenție la pietonii de pe faleză."
+        ],
+        "en": [
+          "Rent an e-bike if you plan to explore the hills.",
+          "Carry plenty of water; there is little shade on the route.",
+          "Watch out for pedestrians on the promenade."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 42.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Stari grad Cavtat",
+          "coords": [
+            18.2192,
+            42.5811
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Ortseingang und erkunden Sie die Gassen.",
+            "hu": "Parkoljon a bejáratnál, és fedezze fel a szűk utcákat.",
+            "ro": "Parcați la intrare și explorați străduțele vechi.",
+            "en": "Park at the entrance and explore the historic alleys."
+          }
+        },
+        {
+          "name": "Crkva svetog Nikole",
+          "coords": [
+            18.2205,
+            42.5808
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Hafen zum Sakralbau.",
+            "hu": "Rövid séta a kikötőtől a szakrális épületig.",
+            "ro": "Scurtă plimbare din port până la biserică.",
+            "en": "A short walk from the harbor to the church."
+          }
+        },
+        {
+          "name": "Plaža Pasjača",
+          "coords": [
+            18.3285,
+            42.5182
+          ],
+          "category": "beach",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 14.5,
+          "tip_5lang": {
+            "de": "Steile Treppen führen zu einem der schönsten Strände.",
+            "hu": "Meredek lépcsők vezetnek az egyik legszebb strandra.",
+            "ro": "Scări abrupte duc spre una dintre cele mai frumoase plaje.",
+            "en": "Steep stairs lead down to one of the most stunning beaches."
+          }
+        },
+        {
+          "name": "Rijeka Luta",
+          "coords": [
+            18.3855,
+            42.5312
+          ],
+          "category": "park",
+          "arrive_at": "13:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Kühles Wasser und alte Mühlen im grünen Tal.",
+            "hu": "Hűsítő víz és régi malmok a zöld völgyben.",
+            "ro": "Apă rece și mori vechi în valea verde.",
+            "en": "Cool water and old mills in the lush green valley."
+          }
+        },
+        {
+          "name": "Mittagessen in Luta",
+          "coords": [
+            18.3865,
+            42.5325
+          ],
+          "category": "gastro",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Forellen oder Lammfleisch direkt am Flussufer.",
+            "hu": "Pisztráng vagy báránysült közvetlenül a folyóparton.",
+            "ro": "Păstrăv sau miel fript chiar pe malul râului.",
+            "en": "Enjoy trout or roast lamb right by the riverbank."
+          }
+        },
+        {
+          "name": "Tvrđava Sokol Grad",
+          "coords": [
+            18.4255,
+            42.5535
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Imposante Festung mit Blick über das ganze Tal.",
+            "hu": "Impozáns erőd kilátással az egész völgyre.",
+            "ro": "Cetate impunătoare cu vedere peste întreaga vale.",
+            "en": "Imposing fortress with a view over the entire valley."
+          }
+        },
+        {
+          "name": "Aussichtspunkt Konavle",
+          "coords": [
+            18.3555,
+            42.5455
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Letzter Stopp für ein Panoramafoto des Tales.",
+            "hu": "Utolsó megálló egy panorámafotóhoz a völgyről.",
+            "ro": "Ultima oprire pentru o poză panoramică cu valea.",
+            "en": "Final stop for a panoramic photo of the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erleben Sie das Beste von Konavle: vom mondänen Cavtat über den versteckten Strand Pasjača bis zur mächtigen Sokol Grad Festung. Genießen Sie die Fahrt durch Weinberge und Olivenhaine, unterbrochen von einem erfrischenden Mittagessen am Fluss Luta.",
+        "hu": "Autóval Konavle legjavát láthatja: a patinás Cavtattól a rejtett Pasjača strandig és a hatalmas Sokol Grad erődig. Élvezze az utazást a szőlőskertek és olajfaligetek között, megállva egy hűsítő ebédre a Luta-folyó partján.",
+        "ro": "Cu mașina veți experimenta tot ce e mai bun în Konavle: de la elegantul Cavtat la plaja ascunsă Pasjača și fortăreața masivă Sokol Grad. Bucurați-vă de drumul printre podgorii și livezi de măslini, cu o pauză de prânz răcoritoare pe malul râului Luta.",
+        "en": "By car, experience the very best of Konavle: from sophisticated Cavtat to the hidden Pasjača beach and the mighty Sokol Grad fortress. Enjoy the drive through vineyards and olive groves, including a refreshing lunch by the Luta River."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konavoski Dvori",
+            "tip": "Traditionelle Küche in einer alten Mühle am Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konavoski Dvori",
+            "tip": "Hagyományos konyha egy régi malomban a folyóparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konavoski Dvori",
+            "tip": "Bucătărie tradițională într-o moară veche pe râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konavoski Dvori",
+            "tip": "Traditional cuisine set in an old mill by the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sokol Grad",
+            "tip": "Stille und Geschichte hoch über den Bergen.",
+            "emoji": "🏰"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sokol Grad",
+            "tip": "Csend és történelem magasan a hegyek felett.",
+            "emoji": "🏰"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sokol Grad",
+            "tip": "Liniște și istorie sus, deasupra munților.",
+            "emoji": "🏰"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sokol Grad",
+            "tip": "Quiet history high above the mountain peaks.",
+            "emoji": "🏰"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Konavle-Wein",
+            "tip": "Besuchen Sie ein Weingut und kaufen Sie Malvasia."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konavlei bor",
+            "tip": "Látogasson el egy borászatba Malvazija borért."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Konavle",
+            "tip": "Vizitați o cramă și cumpărați vin Malvasia."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konavle Wine",
+            "tip": "Visit a local winery and pick up a bottle of Malvasia."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind schmal, fahren Sie vorsichtig.",
+          "Parken in Cavtat kann im Sommer schwierig sein.",
+          "Für den Strand Pasjača sind gute Schuhe nötig."
+        ],
+        "hu": [
+          "Az utak keskenyek, vezessen óvatosan.",
+          "Cavtatban a parkolás nyáron nehézkes lehet.",
+          "A Pasjača strandhoz kényelmes cipő ajánlott."
+        ],
+        "ro": [
+          "Drumurile sunt înguste, conduceți cu atenție.",
+          "Parcarea în Cavtat poate fi dificilă vara.",
+          "Pentru plaja Pasjača aveți nevoie de încălțăminte bună."
+        ],
+        "en": [
+          "The roads are narrow, so drive carefully.",
+          "Parking in Cavtat can be challenging during summer.",
+          "Sturdy shoes are recommended for the descent to Pasjača."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Stari grad Cavtat",
+          "coords": [
+            18.2192,
+            42.5811
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt mit dem lokalen Bus.",
+            "hu": "Központi érkezési pont a helyi busszal.",
+            "ro": "Punctul central de sosire cu autobuzul local.",
+            "en": "Central arrival point by local bus."
+          }
+        },
+        {
+          "name": "Crkva svetog Nikole",
+          "coords": [
+            18.2205,
+            42.5808
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Leicht erreichbar vom Busbahnhof zu Fuß.",
+            "hu": "Könnyen elérhető gyalog a buszállomástól.",
+            "ro": "Ușor accesibil pe jos de la autogară.",
+            "en": "Easily accessible on foot from the bus station."
+          }
+        },
+        {
+          "name": "Mittagessen am Hafen",
+          "coords": [
+            18.2215,
+            42.5798
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht auf die Yachten.",
+            "hu": "Élvezze a kilátást a luxusjachtokra.",
+            "ro": "Bucurați-vă de vederea spre iahturi.",
+            "en": "Enjoy the view of the yachts in the harbor."
+          }
+        },
+        {
+          "name": "Strand Žal",
+          "coords": [
+            18.2385,
+            42.5815
+          ],
+          "category": "beach",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erreichbar mit dem Shuttle-Boot oder zu Fuß.",
+            "hu": "Elérhető kishajóval vagy gyalogosan.",
+            "ro": "Accesibil cu barca sau pe jos.",
+            "en": "Accessible by shuttle boat or a nice walk."
+          }
+        },
+        {
+          "name": "Kaffee-Pause an der Riva",
+          "coords": [
+            18.2225,
+            42.5795
+          ],
+          "category": "gastro",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Rückreise mit dem Bus.",
+            "hu": "Utolsó megálló a buszos hazautazás előtt.",
+            "ro": "Ultima oprire înainte de plecarea cu autobuzul.",
+            "en": "Final stop before heading back by bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Bus (Linie 10) erreichen Sie Cavtat bequem von Dubrovnik aus. Dieser Tag konzentriert sich auf die Sehenswürdigkeiten im Ort, kombiniert mit gutem Essen am Hafen und einer entspannten Zeit am Strand Žal, bevor es am Nachmittag zurückgeht.",
+        "hu": "A 10-es számú helyi busszal kényelmesen elérheti Cavtatot Dubrovnikból. Ez a nap a városi látnivalókra koncentrál, kiegészítve egy jó ebéddel a kikötőben és pihenéssel a Žal strandon a délutáni visszautazás előtt.",
+        "ro": "Cu autobuzul public (linia 10) ajungeți ușor în Cavtat din Dubrovnik. Această zi se concentrează pe atracțiile din oraș, combinate cu o masă bună în port și relaxare la plaja Žal, înainte de plecarea spre casă.",
+        "en": "Take the local bus (Line 10) for a comfortable trip to Cavtat from Dubrovnik. This day focuses on the town's highlights, combining sightseeing with harbor dining and a relaxing time at Žal beach before your afternoon departure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dalmatino",
+            "tip": "Hervorragende Meeresfrüchte direkt an der Riva."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalmatino",
+            "tip": "Kiváló tengeri ételek közvetlenül a korzón."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dalmatino",
+            "tip": "Fructe de mare excelente chiar pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalmatino",
+            "tip": "Excellent seafood served right on the Riva."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof am Kap",
+            "tip": "Ein Ort der Stille mit weitem Meerblick.",
+            "emoji": "⛪"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Temető a félszigeten",
+            "tip": "Csendes hely csodás kilátással a tengerre.",
+            "emoji": "⛪"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul din capătul peninsulei",
+            "tip": "Un loc liniștit cu vedere spre mare.",
+            "emoji": "⛪"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cape Cemetery",
+            "tip": "A peaceful spot with wide-reaching sea views.",
+            "emoji": "⛪"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kleine Stände mit Olivenöl und Feigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Kis standok olívaolajjal és fügével."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Tarabe mici cu ulei de măsline și smochine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Small stalls selling olive oil and dried figs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan der Linie 10 vorab.",
+          "Boote nach Dubrovnik fahren regelmäßig vom Hafen.",
+          "Kaufen Sie Bustickets beim Fahrer oder am Kiosk."
+        ],
+        "hu": [
+          "Indulás előtt ellenőrizze a 10-es busz menetrendjét.",
+          "Dubrovnikba rendszeresen indulnak hajók a kikötőből.",
+          "Vegye meg a jegyet a sofőrnél vagy az újságárusnál."
+        ],
+        "ro": [
+          "Verificați orarul autobuzului 10 înainte de plecare.",
+          "Bărcile spre Dubrovnik pleacă regulat din port.",
+          "Cumpărați bilete de la șofer sau de la chioșc."
+        ],
+        "en": [
+          "Check the timetable for bus Line 10 in advance.",
+          "Boats to Dubrovnik depart regularly from the harbor.",
+          "Buy bus tickets from the driver or at a kiosk."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1234 @@
+{
+  "city_id": "croatia-sukosan-cities-v2",
+  "anchor": {
+    "name": "Sukošan",
+    "coords": [
+      15.312,
+      44.049
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Gornja vrata",
+            "hu": "Gornja vrata (Felső kapu)",
+            "ro": "Gornja vrata",
+            "en": "Gornja vrata"
+          },
+          "coords": [
+            15.315,
+            44.047
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Überreste der alten Stadtmauer aus der Zeit der venezianischen Herrschaft.",
+            "hu": "A velencei időkben emelt városfal egyik megmaradt bejárata.",
+            "ro": "Rămășițe ale zidurilor vechi din perioada dominației venețiene.",
+            "en": "Remains of the old city walls from the period of Venetian rule."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva sv. Kasijana",
+            "hu": "Szent Cassianus-templom",
+            "ro": "Biserica Sf. Casian",
+            "en": "Church of St. Cassian"
+          },
+          "coords": [
+            15.313,
+            44.048
+          ],
+          "category": "religious",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Pfarrkirche beeindruckt mit romanischen und barocken Details.",
+            "hu": "A plébániatemplom román és barokk stílusjegyeket ötvöz.",
+            "ro": "Biserica parohială îmbină elemente romanice și baroce.",
+            "en": "The parish church features a blend of Romanesque and Baroque styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaffee an der Riva",
+            "hu": "Kávészünet a Riván",
+            "ro": "Pauză de cafea pe Riva",
+            "en": "Coffee break on the Riva"
+          },
+          "coords": [
+            15.311,
+            44.047
+          ],
+          "category": "gastro",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Bucht bei einem Espresso.",
+            "hu": "Élvezze az öbölre néző kilátást egy jó presszókávé mellett.",
+            "ro": "Bucurați-vă de vederea spre golf cu un espresso local.",
+            "en": "Enjoy the bay view with a classic local espresso."
+          }
+        },
+        {
+          "name": {
+            "de": "Palac",
+            "hu": "Palac (Érseki nyári rezidencia)",
+            "ro": "Palac",
+            "en": "Palac"
+          },
+          "coords": [
+            15.31,
+            44.045
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Ruinen der Sommerresidenz ragen direkt aus dem Meer empor.",
+            "hu": "A 15. századi érseki nyaraló romjai közvetlenül a tengerből emelkednek ki.",
+            "ro": "Ruinele reședinței de vară a arhiepiscopilor ies direct din mare.",
+            "en": "Ruins of the 15th-century archbishop's summer villa rising from the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Konoba",
+            "hu": "Ebéd egy helyi konobában",
+            "ro": "Prânz la o konoba",
+            "en": "Lunch in a local Konoba"
+          },
+          "coords": [
+            15.312,
+            44.046
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch oder schwarzen Risotto.",
+            "hu": "Kóstolja meg a friss halakat vagy a fekete rizottót.",
+            "ro": "Încercați peștele proaspăt sau risottoul negru.",
+            "en": "Try fresh grilled fish or the traditional black risotto."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandzeit am Dječji raj",
+            "hu": "Strandidő a Dječji raj parton",
+            "ro": "Timp de plajă la Dječji raj",
+            "en": "Beach time at Dječji raj"
+          },
+          "coords": [
+            15.318,
+            44.044
+          ],
+          "category": "beach",
+          "arrive_at": "13:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Flaches Wasser, ideal zum Entspannen und Schwimmen.",
+            "hu": "Sekély víz és homokos aljzat, tökéletes a pihenéshez.",
+            "ro": "Apă puțin adâncă, ideală pentru relaxare și înot.",
+            "en": "Shallow water and sandy seabed, perfect for relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Dalmacija Spaziergang",
+            "hu": "Séta a Marina Dalmacija kikötőben",
+            "ro": "Plimbare în Marina Dalmacija",
+            "en": "Stroll in Marina Dalmacija"
+          },
+          "coords": [
+            15.305,
+            44.055
+          ],
+          "category": "harbor",
+          "arrive_at": "17:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Einer der größten Yachthäfen an der Adria mit beeindruckenden Booten.",
+            "hu": "Az Adria egyik legnagyobb jachtkikötője lenyűgöző hajókkal.",
+            "ro": "Una dintre cele mai mari marine de la Marea Adriatică.",
+            "en": "One of the largest marinas on the Adriatic with luxury yachts."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Kai",
+            "hu": "Naplemente a parton",
+            "ro": "Apus de soare pe faleză",
+            "en": "Sunset at the waterfront"
+          },
+          "coords": [
+            15.302,
+            44.053
+          ],
+          "category": "sunset",
+          "arrive_at": "18:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss für einen Tag in Sukošan.",
+            "hu": "A nap tökéletes zárása a csillogó tengerparton.",
+            "ro": "Încheierea perfectă pentru o zi în Sukošan.",
+            "en": "The perfect end to a relaxing day in Sukošan."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Kern von Sukošan. Sie besichtigen das Gornja vrata und die charmante St. Kasijan Kirche, bevor Sie das maritime Erbe am Palac, einer im Meer liegenden Ruine, entdecken. Der Nachmittag steht ganz im Zeichen der Entspannung am beliebten Strand Dječji raj, gefolgt von einem Besuch in der modernen Marina Dalmacija.",
+        "hu": "Kezdje a napot Sukošan történelmi központjában a Felső kapunál és a Szent Cassianus-templomnál. Fedezze fel a Palac különleges, tengerben álló romjait, majd élvezze a napsütést a Dječji raj strandon. A napot az Adria egyik legnagyobb jachtkikötőjében, a Marina Dalmacijában fejezheti be egy hangulatos sétával.",
+        "ro": "Ziua începe în centrul istoric din Sukošan, vizitând Poarta de Sus și biserica Sf. Casian. Descoperiți ruinele Palac, care răsar direct din apele golfului, oferind un decor unic. După-amiaza este dedicată relaxării pe plaja Dječji raj, iar seara puteți admira iahturile luxoase în Marina Dalmacija la apus.",
+        "en": "Start your day in the historic heart of Sukošan by visiting the Upper Gate and St. Cassian Church. Explore the unique Palac ruins standing in the sea before heading to the popular Dječji raj beach for a swim. Conclude your day with a scenic stroll through Marina Dalmacija, one of the largest and most modern marinas in Croatia."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Griblja",
+            "tip": "Hervorragende Meeresfrüchte in traditionellem Ambiente."
+          },
+          {
+            "name": "Crni rižot",
+            "tip": "Schwarzes Tintenfisch-Risotto ist ein Muss in Dalmatien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Griblja",
+            "tip": "Kiváló tengeri ételek tradicionális környezetben."
+          },
+          {
+            "name": "Crni rižot",
+            "tip": "A tintahal-rizottó kötelező dalmát specialitás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Griblja",
+            "tip": "Fructe de mare excelente într-un cadru tradițional."
+          },
+          {
+            "name": "Risotto negru",
+            "tip": "O specialitate dalmată autentică cu cerneală de sepie."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Griblja",
+            "tip": "Excellent seafood served in a traditional stone setting."
+          },
+          {
+            "name": "Black Risotto",
+            "tip": "A signature Dalmatian dish made with cuttlefish ink."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Palac Ruinen",
+            "tip": "Besonders ruhig am frühen Vormittag.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Barbir Strand",
+            "tip": "Etwas abseits der Hauptmassen gelegen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Palac romok",
+            "tip": "Kora délelőtt a legcsendesebb a környék.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Barbir strand",
+            "tip": "A központi résznél nyugodtabb szakasz.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele Palac",
+            "tip": "Foarte liniștit în primele ore ale dimineții.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Plaja Barbir",
+            "tip": "O zonă mai retrasă, departe de aglomerație.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Palac Ruins",
+            "tip": "Especially peaceful in the early morning hours.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Barbir Beach",
+            "tip": "A bit further from the crowds for a quiet swim.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frisches Obst und Olivenöl direkt von Erzeugern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss gyümölcsök és házi olívaolaj a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe proaspete și ulei de măsline de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fresh fruit and homemade olive oil from local farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Sukošan ist sehr flach, ideal für gemütliche Spaziergänge.",
+          "Tragen Sie Badeschuhe wegen der Kieselstrände.",
+          "Die Riva ist besonders am Abend belebt und stimmungsvoll.",
+          "Versuchen Sie, den Palac bei Ebbe zu besuchen."
+        ],
+        "hu": [
+          "Sukošan sík terep, így gyalogosan is könnyen bejárható.",
+          "Érdemes úszócipőt vinni a kavicsos tengerpart miatt.",
+          "A Riva este a leghangulatosabb a helyi élet miatt.",
+          "A Palac romjait apály idején érdemes közelebbről megnézni."
+        ],
+        "ro": [
+          "Sukošan este o zonă plată, ideală pentru plimbări lungi.",
+          "Purtați încălțăminte de apă pentru plajele cu pietriș.",
+          "Faleza Riva este foarte animată și plăcută seara.",
+          "Vizitați ruinele Palac în timpul refluxului pentru acces mai bun."
+        ],
+        "en": [
+          "Sukošan is flat, making it perfect for easy walking tours.",
+          "Water shoes are recommended for the pebble beaches.",
+          "The Riva comes alive in the evening with local activity.",
+          "Check the tides to see the Palac ruins more clearly."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Crkva sv. Kasijana",
+            "hu": "Szent Cassianus-templom",
+            "ro": "Biserica Sf. Casian",
+            "en": "Church of St. Cassian"
+          },
+          "coords": [
+            15.313,
+            44.048
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um die Radtour ruhig zu beginnen.",
+            "hu": "Remek hely a kerékpártúra nyugodt megkezdéséhez.",
+            "ro": "Un loc frumos pentru a începe turul cu bicicleta.",
+            "en": "A peaceful place to start your cycling tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Palac Ruinen",
+            "hu": "Palac romok",
+            "ro": "Ruinele Palac",
+            "en": "Palac Ruins"
+          },
+          "coords": [
+            15.31,
+            44.045
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Gut mit dem Fahrrad über die Küstenstraße erreichbar.",
+            "hu": "Kerékpárral könnyen megközelíthető a parti úton.",
+            "ro": "Ușor accesibil cu bicicleta pe drumul de coastă.",
+            "en": "Easily accessible by bike via the coastal road."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Dalmacija Erkundung",
+            "hu": "A Marina Dalmacija bejárása",
+            "ro": "Explorarea Marina Dalmacija",
+            "en": "Exploring Marina Dalmacija"
+          },
+          "coords": [
+            15.305,
+            44.055
+          ],
+          "category": "harbor",
+          "arrive_at": "10:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Das Gelände ist weitläufig und ideal für Fahrräder.",
+            "hu": "A terület tágas, így kerékpárral kényelmesen bejárható.",
+            "ro": "Zona este vastă și ideală pentru a fi explorată pe bicicletă.",
+            "en": "The area is spacious and perfect for exploring on two wheels."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstenradweg-Pause",
+            "hu": "Partmenti pihenő",
+            "ro": "Pauză pe drumul de coastă",
+            "en": "Coastal path break"
+          },
+          "coords": [
+            15.295,
+            44.062
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Inseln des Zadar-Archipels.",
+            "hu": "Gyönyörködjön a zadari szigetvilág látványában.",
+            "ro": "Admirați vederea spre arhipelagul Zadar.",
+            "en": "Enjoy the view of the Zadar archipelago islands."
+          }
+        },
+        {
+          "name": {
+            "de": "Fisch-Mittagessen",
+            "hu": "Halas ebéd",
+            "ro": "Prânz cu pește",
+            "en": "Fish lunch"
+          },
+          "coords": [
+            15.312,
+            44.047
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kräftigen Sie sich mit regionaler Küche.",
+            "hu": "Töltődjön fel a helyi konyha finomságaival.",
+            "ro": "Reîncărcați-vă cu preparate din bucătăria locală.",
+            "en": "Recharge with delicious local seafood specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Strandruhe Tustica",
+            "hu": "Tustica strand - pihenő",
+            "ro": "Relaxare pe plaja Tustica",
+            "en": "Beach rest at Tustica"
+          },
+          "coords": [
+            15.328,
+            44.038
+          ],
+          "category": "beach",
+          "arrive_at": "14:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ein natürlicherer Strandabschnitt, ideal nach der Fahrt.",
+            "hu": "Természetközeli strandrész, ideális a tekerés után.",
+            "ro": "O zonă de plajă mai naturală, ideală după mersul cu bicicleta.",
+            "en": "A more natural beach area, perfect for a swim after cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschluss im Zentrum",
+            "hu": "Zárás a központban",
+            "ro": "Final în centru",
+            "en": "Wrap up in the center"
+          },
+          "coords": [
+            15.315,
+            44.047
+          ],
+          "category": "park",
+          "arrive_at": "17:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Geben Sie die Fahrräder ab und genießen Sie ein Gelato.",
+            "hu": "Adja le a bringát és fagyizzon egyet a központban.",
+            "ro": "Predați bicicletele și bucurați-vă de o înghețată.",
+            "en": "Return the bikes and enjoy a local gelato."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Sukošan und seine Umgebung aktiv mit dem Fahrrad. Die flache Küstenlinie bietet perfekte Bedingungen für eine entspannte Tour. Sie besuchen die wichtigsten Sehenswürdigkeiten wie die St. Kasijan Kirche und den Palac, fahren durch die weitläufige Marina Dalmacija und entdecken ruhigere Strandabschnitte wie Tustica, die zu einer längeren Badepause einladen.",
+        "hu": "Fedezze fel Sukošant és környékét aktívan, kerékpárral. A lapos tengerparti terep tökéletes egy kényelmes túrához. Érintse a fő látnivalókat, mint a Szent Cassianus-templom és a Palac, tekerjen végig a tágas Marina Dalmacija jachtkikötőn, és fedezze fel a Tustica strandot, ahol távolabb a tömegtől pihenhet meg.",
+        "ro": "Explorați Sukošan și împrejurimile sale într-un mod activ, cu bicicleta. Coasta plată oferă condiții perfecte pentru un tur relaxat. Vizitați atracțiile principale, pedalați prin Marina Dalmacija și descoperiți zone de plajă mai liniștite, precum Tustica, ideale pentru o pauză prelungită de înot.",
+        "en": "Explore Sukošan and its coastline actively on two wheels. The flat terrain is perfect for a relaxed cycling tour. Visit the key sights like St. Cassian Church and Palac ruins, ride through the vast Marina Dalmacija, and find your own spot for a break at the natural Tustica beach before heading back to the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Matanovi dvori",
+            "tip": "Perfekt für eine herzhafte Mahlzeit nach dem Radfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Matanovi dvori étterem",
+            "tip": "Kiváló hely egy kiadós ebédre a tekerés után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Matanovi dvori",
+            "tip": "Perfect pentru o masă copioasă după ciclism."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Matanovi dvori",
+            "tip": "A great spot for a hearty meal after your bike ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tustica Waldweg",
+            "tip": "Ruhiger Weg unter Pinien.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tustica erdei út",
+            "tip": "Csendes ösvény a fenyők árnyékában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul prin pădurea Tustica",
+            "tip": "Potecă liniștită sub pini.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tustica Forest Path",
+            "tip": "Quiet path under the shade of pine trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Kaufen Sie Honig direkt bei den Straßenverkäufern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Vásároljon mézet közvetlenül az út menti árusoktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Cumpărați miere direct de la vânzătorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Buy honey directly from local roadside sellers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen in Sukošan sind meist verkehrsarm und sicher.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Schatten.",
+          "Parken Sie Ihr Fahrrad an der Marina nur an ausgewiesenen Stellen.",
+          "Ein Abstecher in die Olivenhaine im Hinterland lohnt sich."
+        ],
+        "hu": [
+          "Sukošan utcái többnyire kis forgalmúak és biztonságosak.",
+          "Vigyen magával elég vizet, mert kevés az árnyék a parton.",
+          "A Marina területén csak a kijelölt helyeken tárolja a bringát.",
+          "Érdemes egy rövid kitérőt tenni a közeli olajfaligetek felé."
+        ],
+        "ro": [
+          "Străzile din Sukošan sunt în general sigure și puțin circulate.",
+          "Luați suficientă apă, deoarece există puțină umbră pe coastă.",
+          "Parcați bicicleta în Marina doar în locurile special amenajate.",
+          "O mică abatere spre livezile de măslini din interior merită efortul."
+        ],
+        "en": [
+          "The streets in Sukošan are mostly quiet and safe for cycling.",
+          "Bring plenty of water as shade is limited along the shore.",
+          "In the Marina area, only park your bike in designated spots.",
+          "A short detour to the nearby olive groves is highly recommended."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 12.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Gornja vrata (Cluster A)",
+            "hu": "Gornja vrata (A klaszter)",
+            "ro": "Gornja vrata (Cluster A)",
+            "en": "Gornja vrata (Cluster A)"
+          },
+          "coords": [
+            15.315,
+            44.047
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am historischen Stadttor.",
+            "hu": "Kezdje a napot a történelmi városkapunál.",
+            "ro": "Începeți la poarta istorică a orașului.",
+            "en": "Start your tour at the historic city gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva sv. Kasijana (Cluster A)",
+            "hu": "Szent Cassianus-templom (A klaszter)",
+            "ro": "Biserica Sf. Casian (Cluster A)",
+            "en": "Church of St. Cassian (Cluster A)"
+          },
+          "coords": [
+            15.313,
+            44.048
+          ],
+          "category": "religious",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Tor zur Kirche.",
+            "hu": "Rövid séta a kaputól a templomig.",
+            "ro": "O scurtă plimbare de la poartă la biserică.",
+            "en": "A short walk from the gate to the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Riva Promenade (Cluster A)",
+            "hu": "Riva sétány (A klaszter)",
+            "ro": "Promenada Riva (Cluster A)",
+            "en": "Riva Promenade (Cluster A)"
+          },
+          "coords": [
+            15.311,
+            44.047
+          ],
+          "category": "park",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Flanieren Sie am Wasser, bevor Sie weiterfahren.",
+            "hu": "Sétáljon a parton, mielőtt továbbautózna.",
+            "ro": "Plimbați-vă pe faleză înainte de a pleca mai departe.",
+            "en": "Stroll along the waterfront before driving further."
+          }
+        },
+        {
+          "name": {
+            "de": "Palac (Cluster B)",
+            "hu": "Palac (B klaszter)",
+            "ro": "Palac (Cluster B)",
+            "en": "Palac (Cluster B)"
+          },
+          "coords": [
+            15.31,
+            44.045
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der Bucht für dieses Fotomotiv.",
+            "hu": "Parkoljon az öböl közelében ennél a látványosságnál.",
+            "ro": "Parcați lângă golf pentru această oportunitate foto.",
+            "en": "Park near the bay for this iconic photo spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Konoba Mittagessen (Cluster B)",
+            "hu": "Ebéd egy konobában (B klaszter)",
+            "ro": "Prânz la konoba (Cluster B)",
+            "en": "Konoba Lunch (Cluster B)"
+          },
+          "coords": [
+            15.312,
+            44.046
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Palac.",
+            "hu": "Gyalogosan elérhető a Palactól.",
+            "ro": "Accesibil pe jos de la Palac.",
+            "en": "Within walking distance from the Palac ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Dalmacija (Cluster C)",
+            "hu": "Marina Dalmacija (C klaszter)",
+            "ro": "Marina Dalmacija (Cluster C)",
+            "en": "Marina Dalmacija (Cluster C)"
+          },
+          "coords": [
+            15.305,
+            44.055
+          ],
+          "category": "harbor",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parkplätze sind innerhalb der Marina vorhanden.",
+            "hu": "A kikötő területén belül van parkolási lehetőség.",
+            "ro": "Există locuri de parcare în interiorul marinei.",
+            "en": "Parking is available inside the marina complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Dječji raj Strand (Cluster C)",
+            "hu": "Dječji raj strand (C klaszter)",
+            "ro": "Plaja Dječji raj (Cluster C)",
+            "en": "Dječji raj Beach (Cluster C)"
+          },
+          "coords": [
+            15.318,
+            44.044
+          ],
+          "category": "beach",
+          "arrive_at": "14:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Drive zum Hauptstrand des Ortes.",
+            "hu": "Rövid autózás a település fő strandjáig.",
+            "ro": "O scurtă călătorie cu mașina până la plaja principală.",
+            "en": "A short drive to the town's main beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset Drink am Hafen",
+            "hu": "Naplemente a kikötőben",
+            "ro": "Băutură la apus în port",
+            "en": "Sunset drink at the harbor"
+          },
+          "coords": [
+            15.313,
+            44.048
+          ],
+          "category": "sunset",
+          "arrive_at": "17:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag entspannt ausklingen.",
+            "hu": "Zárja a napot egy frissítővel a parton.",
+            "ro": "Încheiați ziua relaxat cu o băutură pe faleză.",
+            "en": "End your day with a relaxing drink by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lässt sich Sukošan flexibel erkunden. Sie besuchen zuerst das historische Zentrum mit der St. Kasijan Kirche, bevor Sie zum beeindruckenden Palac in der Bucht fahren. Nach einem traditionellen Mittagessen erkunden Sie die weitläufige Marina Dalmacija und verbringen den Nachmittag am Strand Dječji raj. Das Auto ermöglicht es Ihnen, mühelos zwischen den verschiedenen Ortsteilen zu wechseln.",
+        "hu": "Autóval rugalmasan fedezheti fel Sukošan minden szegletét. Kezdje a történelmi központban a Szent Cassianus-templommal, majd hajtson el az öbölben álló Palac romjaihoz. Egy ízletes ebéd után látogassa meg a Marina Dalmacija kikötőt, a délutánt pedig töltse a Dječji raj strandon. Az autó kényelmessé teszi a váltást a látnivalók és a tengerpart között.",
+        "ro": "Cu mașina, puteți explora Sukošan într-un mod flexibil. Vizitați centrul istoric cu biserica Sf. Casian, apoi conduceți până la ruinele Palac din golf. După un prânz tradițional, explorați vasta Marina Dalmacija și relaxați-vă pe plaja Dječji raj. Mașina vă permite să treceți rapid între diferitele zone de interes ale stațiunii.",
+        "en": "Exploring Sukošan by car gives you the freedom to move easily between its main clusters. Start in the historic center with the Upper Gate and Church, then drive to the iconic Palac ruins. After a local lunch, visit the impressive Marina Dalmacija and finish your day with a long swim at Dječji raj beach, enjoying the convenience of your own transport."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Piazzetta",
+            "tip": "Hervorragende Pizza und Fleischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Piazzetta",
+            "tip": "Kiváló pizzák és húsételek várják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Piazzetta",
+            "tip": "Pizza și preparate din carne de calitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Piazzetta",
+            "tip": "Excellent pizzas and meat dishes in a cozy setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sukošan Hinterland",
+            "tip": "Ruhige Gassen abseits der Küste.",
+            "emoji": "🚜"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sukošan hátországa",
+            "tip": "Csendes utcák távolabb a parttól.",
+            "emoji": "🚜"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Interiorul Sukošan",
+            "tip": "Străzi liniștite departe de coastă.",
+            "emoji": "🚜"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sukošan Hinterland",
+            "tip": "Quiet alleys away from the busy coastline.",
+            "emoji": "🚜"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt Konzum",
+            "tip": "Größter Markt für den täglichen Bedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konzum szupermarket",
+            "tip": "A legnagyobb bolt a napi szükségletekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Konzum",
+            "tip": "Cel mai mare magazin pentru necesitățile zilnice."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konzum Supermarket",
+            "tip": "The largest grocery store for daily needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum kann im Sommer schwierig sein.",
+          "In der Marina gibt es ausreichend kostenpflichtige Parkplätze.",
+          "Nutzen Sie das Auto, um auch die abgelegeneren Buchten zu erreichen.",
+          "Die Küstenstraße bietet schöne Aussichtspunkte."
+        ],
+        "hu": [
+          "A központban a parkolás nyáron nehézkes lehet.",
+          "A kikötő területén bőséges fizetős parkoló áll rendelkezésre.",
+          "Használja az autót a távolabb eső, eldugottabb öblök eléréséhez.",
+          "A parti úton haladva szép kilátópontokat találhat."
+        ],
+        "ro": [
+          "Parcarea în centru poate fi dificilă în timpul verii.",
+          "Există locuri de parcare cu plată suficiente în incinta marinei.",
+          "Folosiți mașina pentru a ajunge la golfurile mai retrase.",
+          "Drumul de coastă oferă câteva puncte de belvedere frumoase."
+        ],
+        "en": [
+          "Parking in the center can be challenging during peak season.",
+          "There are plenty of paid parking spots within the Marina area.",
+          "Use the car to reach more secluded coves along the coast.",
+          "The coastal road offers several scenic viewpoints for a quick stop."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum Sukošan (Bushaltestelle)",
+            "hu": "Sukošan központ (buszmegálló)",
+            "ro": "Centru Sukošan (stație de autobuz)",
+            "en": "Sukošan Center (bus stop)"
+          },
+          "coords": [
+            15.315,
+            44.048
+          ],
+          "category": "city",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ankunft mit dem Bus aus Zadar.",
+            "hu": "Érkezés a Zadar felől érkező busszal.",
+            "ro": "Sosire cu autobuzul din Zadar.",
+            "en": "Arrival by bus from the direction of Zadar."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva sv. Kasijana (Fußweg)",
+            "hu": "Szent Cassianus-templom (gyalog)",
+            "ro": "Biserica Sf. Casian (pe jos)",
+            "en": "Church of St. Cassian (on foot)"
+          },
+          "coords": [
+            15.313,
+            44.048
+          ],
+          "category": "religious",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen des Ortes, direkt im Zentrum.",
+            "hu": "A település jelképe, közvetlenül a központban.",
+            "ro": "Simbolul localității, situat chiar în centru.",
+            "en": "The landmark of the town, located in the very center."
+          }
+        },
+        {
+          "name": {
+            "de": "Palac (Fußweg)",
+            "hu": "Palac (gyalog)",
+            "ro": "Palac (pe jos)",
+            "en": "Palac (on foot)"
+          },
+          "coords": [
+            15.31,
+            44.045
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Einzigartige Ruinen im seichten Wasser.",
+            "hu": "Különleges romok a sekély vízben.",
+            "ro": "Ruine unice în apa puțin adâncă.",
+            "en": "Unique ruins located in the shallow coastal water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Ort",
+            "hu": "Ebéd a faluban",
+            "ro": "Prânz în sat",
+            "en": "Lunch in the village"
+          },
+          "coords": [
+            15.312,
+            44.046
+          ],
+          "category": "gastro",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale dalmatinische Spezialitäten.",
+            "hu": "Élvezze a helyi dalmát specialitásokat.",
+            "ro": "Bucurați-vă de specialități locale dalmate.",
+            "en": "Enjoy traditional local Dalmatian specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Dječji raj Strand (Fußweg)",
+            "hu": "Dječji raj strand (gyalog)",
+            "ro": "Plaja Dječji raj (pe jos)",
+            "en": "Dječji raj Beach (on foot)"
+          },
+          "coords": [
+            15.318,
+            44.044
+          ],
+          "category": "beach",
+          "arrive_at": "13:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Der beliebteste Strand, gut zu Fuß erreichbar.",
+            "hu": "A legnépszerűbb strand, könnyen elérhető gyalog.",
+            "ro": "Cea mai populară plajă, ușor accesibilă pe jos.",
+            "en": "The most popular beach, easily accessible on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Dalmacija (Transit-Hopp)",
+            "hu": "Marina Dalmacija (busszal)",
+            "ro": "Marina Dalmacija (cu autobuzul)",
+            "en": "Marina Dalmacija (by bus)"
+          },
+          "coords": [
+            15.305,
+            44.055
+          ],
+          "category": "harbor",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Kurze Busfahrt oder längerer Spaziergang.",
+            "hu": "Rövid buszozás vagy egy hosszabb séta.",
+            "ro": "O scurtă călătorie cu autobuzul sau o plimbare mai lungă.",
+            "en": "A short bus ride or a slightly longer walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt Bushaltestelle",
+            "hu": "Buszmegálló - hazautazás",
+            "ro": "Stație de autobuz - întoarcere",
+            "en": "Bus stop - return trip"
+          },
+          "coords": [
+            15.315,
+            44.048
+          ],
+          "category": "city",
+          "arrive_at": "17:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Busse nach Zadar verkehren regelmäßig.",
+            "hu": "Rendszeres buszjáratok indulnak Zadarba.",
+            "ro": "Autobuzele spre Zadar circulă regulat.",
+            "en": "Buses to Zadar run on a regular schedule."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der guten Busverbindung nach Zadar ist Sukošan ideal mit öffentlichen Verkehrsmitteln erreichbar. Vom zentralen Halt aus erkunden Sie die St. Kasijan Kirche und den geschichtsträchtigen Palac zu Fuß. Der Nachmittag gehört dem Strandvergnügen am Dječji raj, bevor Sie mit dem lokalen Bus zur Marina Dalmacija weiterfahren und schließlich die Rückreise antreten.",
+        "hu": "Zadarral való kiváló buszösszeköttetésének köszönhetően Sukošan tömegközlekedéssel is remekül felfedezhető. A központi megállótól gyalogosan érheti el a Szent Cassianus-templomot és a tengerben álló Palac romjait. A délutáni strandolás után a helyi járatot használva látogathat el a Marina Dalmacija kikötőbe a hazautazás előtt.",
+        "ro": "Datorită conexiunilor bune cu Zadar, Sukošan este ușor de explorat cu transportul public. De la stația centrală, puteți ajunge pe jos la biserica Sf. Casian și la ruinele Palac. După o după-amiază la plajă, folosiți autobuzul local pentru a vizita Marina Dalmacija înainte de a lua cursa de întoarcere.",
+        "en": "Sukošan is easily accessible via public transport thanks to regular bus links with Zadar. From the main stop, take a short walk to visit the local church and the Palac ruins. After enjoying the beach, you can use the local bus to reach the expansive Marina Dalmacija area before catching your bus back, making for a stress-free day trip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Joso",
+            "tip": "Gute Lage und faire Preise für Touristen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Joso bisztró",
+            "tip": "Jó elhelyezkedés és korrekt árak várják."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Joso",
+            "tip": "Locație bună și prețuri corecte pentru turiști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Joso",
+            "tip": "A convenient location with fair prices and good food."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kleine Bucht Barbir",
+            "tip": "Weniger Transitlärm und sehr entspannt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barbir öböl",
+            "tip": "Kevesebb zaj és nagyon nyugodt légkör.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Barbir",
+            "tip": "Mai puțin zgomot și o atmosferă relaxată.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Barbir Cove",
+            "tip": "Less transit noise and a very relaxed vibe.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk im Zentrum",
+            "tip": "Postkarten und kleine Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi kioszk",
+            "tip": "Képeslapok és apró emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc în centru",
+            "tip": "Vederi și mici suveniruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Kiosk",
+            "tip": "Postcards and small local souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den aktuellen Busfahrplan (Liburnija Zadar).",
+          "Kaufen Sie Tickets direkt beim Fahrer oder am Kiosk.",
+          "Die Bushaltestelle bietet wenig Schatten beim Warten.",
+          "Alles im Ortsteil Sukošan ist in Gehweite vom Bus."
+        ],
+        "hu": [
+          "Mindig ellenőrizze a buszmenetrendet (Liburnija Zadar).",
+          "A jegyet a sofőrnél vagy a kioszkban veheti meg.",
+          "A buszmegállóban kevés az árnyék, készüljön fel a várakozásra.",
+          "Sukošan fő látnivalói gyalogosan is kényelmesen elérhetők."
+        ],
+        "ro": [
+          "Verificați orarul actualizat al autobuzelor (Liburnija Zadar).",
+          "Cumpărați biletele direct de la șofer sau de la chioșc.",
+          "Stația de autobuz oferă puțină umbră în timp ce așteptați.",
+          "Toate punctele de interes din Sukošan sunt la mică distanță de stație."
+        ],
+        "en": [
+          "Always check the latest bus schedule (Liburnija Zadar).",
+          "Tickets can be purchased directly from the driver or at a kiosk.",
+          "The bus stop has limited shade, so be prepared while waiting.",
+          "The main parts of Sukošan are within easy walking distance of the bus stop."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,970 @@
+{
+  "city_id": "croatia-drazice-cities-v2",
+  "anchor": {
+    "name": "Dražice",
+    "coords": [
+      14.4667,
+      45.3833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 9.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Lokales Café im Zentrum",
+          "coords": [
+            14.4665,
+            45.3835
+          ],
+          "category": "gastro",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Beginnen Sie mit einem starken Espresso unter Einheimischen.",
+            "hu": "Kezdje a napot egy erős kávéval a helyiek körében.",
+            "ro": "Începeți ziua cu un espresso tare alături de localnici.",
+            "en": "Start your day with a strong espresso among the locals."
+          }
+        },
+        {
+          "name": "Crkva sv. Bartola",
+          "coords": [
+            14.4678,
+            45.3842
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Bewundern Sie die Architektur der Pfarrkirche aus dem 19. Jahrhundert.",
+            "hu": "Csodálja meg a 19. századi plébániatemplom építészetét.",
+            "ro": "Admirați arhitectura bisericii parohiale din secolul al XIX-lea.",
+            "en": "Admire the architecture of the 19th-century parish church."
+          }
+        },
+        {
+          "name": "Grobnički mlin",
+          "coords": [
+            14.4615,
+            45.3875
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Besuchen Sie die alte Wassermühle an der Rječina.",
+            "hu": "Látogassa meg a Rječina partján álló régi vízimalmot.",
+            "ro": "Vizitați vechea moară de apă de pe râul Rječina.",
+            "en": "Visit the old water mill on the Rječina river."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            14.465,
+            45.384
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 85,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_4lang": {
+            "de": "Probieren Sie Jota, einen typischen lokalen Eintopf.",
+            "hu": "Kóstolja meg a jotát, a jellegzetes helyi egytálételt.",
+            "ro": "Gustați jota, o mâncare tradițională locală.",
+            "en": "Try jota, a typical local stew."
+          }
+        },
+        {
+          "name": "Wanderung entlang der Rječina",
+          "coords": [
+            14.45,
+            45.395
+          ],
+          "category": "park",
+          "arrive_at": "13:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Genießen Sie die Frische des Waldes und des Flusses.",
+            "hu": "Élvezze az erdő és a folyó frissességét.",
+            "ro": "Bucurați-vă de prospețimea pădurii și a râului.",
+            "en": "Enjoy the freshness of the forest and the river."
+          }
+        },
+        {
+          "name": "Izvor Rječine",
+          "coords": [
+            14.4365,
+            45.4122
+          ],
+          "category": "river",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 3.2,
+          "tip_4lang": {
+            "de": "Der Ursprung des Flusses unterhalb hoher Felsen.",
+            "hu": "A folyó forrása a magas sziklák alatt.",
+            "ro": "Izvorul râului de sub stâncile înalte.",
+            "en": "The source of the river beneath high cliffs."
+          }
+        },
+        {
+          "name": "Kurze Rast am Flussufer",
+          "coords": [
+            14.455,
+            45.392
+          ],
+          "category": "rest",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Hören Sie dem Rauschen des Wassers zu.",
+            "hu": "Hallgassa a víz csobogását.",
+            "ro": "Ascultați susurul apei.",
+            "en": "Listen to the sound of the rushing water."
+          }
+        },
+        {
+          "name": "Grobničko polje",
+          "coords": [
+            14.475,
+            45.378
+          ],
+          "category": "nature",
+          "arrive_at": "18:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.8,
+          "tip_4lang": {
+            "de": "Blick über die weite Ebene bei Sonnenuntergang.",
+            "hu": "Kilátás a tágas síkságra naplementekor.",
+            "ro": "Vedere asupra câmpiei întinse la apus.",
+            "en": "View over the wide plain at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Dražice beginnt entspannt im Dorfzentrum mit einem Kaffee, gefolgt vom Besuch der historischen Bartolomäus-Kirche. Am späten Vormittag wandern Sie zur Grobnik-Mühle, wo Sie das traditionelle Handwerk erahnen können. Nach einem herzhaften Mittagessen führt der Weg tief in die Natur entlang des Rječina-Flusses bis zu seinem spektakulären Ursprung unter den Felsen. Der Tag endet mit einem weiten Blick über das Grobnik-Feld im sanften Abendlicht.",
+        "hu": "A Dražice-i nap reggeli kávéval indul a falu központjában, majd a Szent Bertalan-templom megtekintésével folytatódik. Délelőtt ellátogatunk a Grobnik-malomhoz, amely a régi idők ipari örökségét őrzi. Egy bőséges helyi ebéd után a természeté a főszerep: a Rječina-folyó mentén túrázunk egészen a sziklák alatt megbújó forrásig. A napot a Grobnik-mező feletti panoráma és a békés naplemente zárja.",
+        "ro": "Ziua în Dražice începe relaxat în centrul satului cu o cafea, urmată de vizitarea bisericii istorice Sf. Bartolomeu. Spre prânz, pornim către moara Grobnik, un simbol al meșteșugurilor vechi. După un prânz copios, traseul ne poartă în inima naturii, de-a lungul râului Rječina, până la izvorul său spectaculos de sub stânci. Ziua se încheie cu o privire panoramică asupra câmpiei Grobnik în lumina caldă a apusului.",
+        "en": "Your day in Dražice starts with a relaxed coffee in the village center, followed by a visit to the historic St. Bartholomew's Church. In the late morning, walk to the Grobnik Mill to see a piece of traditional local heritage. After a hearty lunch, the path leads deep into nature along the Rječina River to its spectacular source beneath the cliffs. The day concludes with a wide view over the Grobnik Field in the gentle evening light."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Jelen",
+            "tip": "Probieren Sie hausgemachte Pasta mit Gulasch."
+          },
+          {
+            "name": "Grobnička Jota",
+            "tip": "Ein herzhafter Eintopf aus Sauerkraut und Bohnen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Jelen",
+            "tip": "Kóstolja meg a házi tésztát vadhúsos gulyással."
+          },
+          {
+            "name": "Grobnička Jota",
+            "tip": "Hagyományos savanyú káposztás-babos egytálétel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Jelen",
+            "tip": "Încercați pastele de casă cu gulaș."
+          },
+          {
+            "name": "Grobnička Jota",
+            "tip": "O tocană sățioasă din varză murată și fasole."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Jelen",
+            "tip": "Try the homemade pasta with goulash."
+          },
+          {
+            "name": "Grobnička Jota",
+            "tip": "A hearty traditional stew with sauerkraut and beans."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Izvor Rječine",
+            "tip": "Tiefe Ruhe direkt an der kühlen Quelle.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grobničko polje",
+            "tip": "Weite und Stille in der Natur.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Izvor Rječine",
+            "tip": "Mély nyugalom közvetlenül a hűvös forrásnál.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grobničko polje",
+            "tip": "Csend és tágas tér a természetben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Izvor Rječine",
+            "tip": "Liniște deplină chiar lângă izvorul răcoros.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grobničko polje",
+            "tip": "Spațiu deschis și liniște în natură.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Izvor Rječine",
+            "tip": "Deep peace right by the cool source.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Grobničko polje",
+            "tip": "Vastness and silence in nature.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Frisch von den Imkern der Grobnik-Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Frissen a grobniki méhészektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Proaspătă de la apicultorii din regiunea Grobnik."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Fresh from the beekeepers of the Grobnik region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Gute Wanderschuhe sind für den Weg zur Quelle unerlässlich.",
+          "Nehmen Sie ausreichend Wasser für die Wanderung mit.",
+          "Besuchen Sie das Dorfzentrum für authentische Begegnungen.",
+          "Die Quelle kann nach starken Regenfällen besonders beeindruckend sein."
+        ],
+        "hu": [
+          "A forráshoz vezető úthoz kényelmes túracipő szükséges.",
+          "Vigyen magával elegendő ivóvizet a gyalogtúrához.",
+          "Látogasson el a falu központjába az autentikus hangulatért.",
+          "A forrás nagy esőzések után különösen látványos."
+        ],
+        "ro": [
+          "Încălțămintea de drumeție este esențială pentru drumul spre izvor.",
+          "Luați suficientă apă pentru drumeție.",
+          "Vizitați centrul satului pentru o experiență autentică.",
+          "Izvorul poate fi deosebit de spectaculos după ploi abundente."
+        ],
+        "en": [
+          "Good hiking shoes are essential for the path to the source.",
+          "Bring plenty of water for the hike.",
+          "Visit the village center for authentic local interactions.",
+          "The source can be particularly impressive after heavy rains."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Crkva sv. Bartola",
+          "coords": [
+            14.4678,
+            45.3842
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Klassizistische Kirche im Herzen von Dražice.",
+            "hu": "Klasszicista templom Dražice szívében.",
+            "ro": "Biserică clasicistă în inima localității Dražice.",
+            "en": "Classicist church in the heart of Dražice."
+          }
+        },
+        {
+          "name": "Grobnički mlin",
+          "coords": [
+            14.4615,
+            45.3875
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Ideal für eine kurze Pause am Wasser.",
+            "hu": "Ideális egy rövid pihenőhöz a víznél.",
+            "ro": "Ideal pentru o scurtă pauză lângă apă.",
+            "en": "Ideal for a short break by the water."
+          }
+        },
+        {
+          "name": "Izvor Rječine",
+          "coords": [
+            14.4365,
+            45.4122
+          ],
+          "category": "river",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_4lang": {
+            "de": "Die Auffahrt zur Quelle ist leicht ansteigend.",
+            "hu": "A forráshoz vezető út enyhén emelkedik.",
+            "ro": "Urcarea spre izvor este ușor înclinată.",
+            "en": "The ride to the source is slightly uphill."
+          }
+        },
+        {
+          "name": "Mittagessen in Dražice",
+          "coords": [
+            14.466,
+            45.383
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.2,
+          "tip_4lang": {
+            "de": "Stärken Sie sich für die restliche Tour.",
+            "hu": "Gyűjtsön erőt a túra hátralévő részéhez.",
+            "ro": "Refaceți-vă forțele pentru restul turului.",
+            "en": "Refuel for the rest of the tour."
+          }
+        },
+        {
+          "name": "Grobničko polje Runde",
+          "coords": [
+            14.49,
+            45.37
+          ],
+          "category": "nature",
+          "arrive_at": "14:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.1,
+          "tip_4lang": {
+            "de": "Flache Wege ideal zum Radfahren.",
+            "hu": "Lapos utak, ideálisak kerékpározáshoz.",
+            "ro": "Drumuri plate, ideale pentru ciclism.",
+            "en": "Flat paths ideal for cycling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das Grobnik-Tal auf zwei Rädern. Von der Kirche in Dražice führt der Weg zur historischen Mühle und weiter bergauf zum idyllischen Rječina-Ursprung. Nach einer rasanten Abfahrt zurück ins Dorf genießen Sie ein lokales Mittagessen, bevor Sie den Tag mit einer entspannten Runde über das weite Grobnik-Feld ausklingen lassen.",
+        "hu": "Fedezze fel a Grobnik-völgyet két keréken. Dražice templomától az út a történelmi malomhoz, majd tovább felfelé a Rječina idilli forrásához vezet. Egy gyors gurulás után a faluban ebédelünk, majd a napot a tágas Grobnik-mezőn tett pihentető körrel zárjuk.",
+        "ro": "Explorați valea Grobnik pe două roți. De la biserica din Dražice, drumul duce la moara istorică și apoi urcă spre izvorul idilic al Rječinei. După o coborâre rapidă înapoi în sat, savurați un prânz local înainte de a încheia ziua cu o tură relaxantă prin câmpia Grobnik.",
+        "en": "Explore the Grobnik valley on two wheels. From the church in Dražice, the path leads to the historic mill and further uphill to the idyllic Rječina source. After a swift descent back to the village, enjoy a local lunch before ending the day with a relaxed ride across the vast Grobnik Field."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Jelen",
+            "tip": "Hausgemachte Strudel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Jelen",
+            "tip": "Házi rétesek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Jelen",
+            "tip": "Ștrudel de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Jelen",
+            "tip": "Homemade strudels."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer-Radweg",
+            "tip": "Ruhige Momente im Wald.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti kerékpárút",
+            "tip": "Csendes pillanatok az erdőben.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pistă de biciclete pe malul râului",
+            "tip": "Momente liniștite în pădure.",
+            "emoji": "🌲"
+          }
+        ],
+        "en": [
+          {
+            "name": "River bank bike path",
+            "tip": "Quiet moments in the forest.",
+            "emoji": "🌲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz Dražice",
+            "tip": "Lokale Produkte am Vormittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dražice piac",
+            "tip": "Helyi termékek délelőttönként."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Dražice",
+            "tip": "Produse locale în timpul dimineții."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dražice Market",
+            "tip": "Local products in the morning."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf Wanderer auf den kombinierten Wegen.",
+          "Ein Mountainbike ist für Waldwege von Vorteil."
+        ],
+        "hu": [
+          "Figyeljen a gyalogosokra a közös utakon.",
+          "A mountain bike előnyösebb az erdei utakon."
+        ],
+        "ro": [
+          "Atenție la drumeți pe potecile comune.",
+          "O bicicletă mountain bike este recomandată pentru potecile din pădure."
+        ],
+        "en": [
+          "Watch out for hikers on combined trails.",
+          "A mountain bike is advantageous for forest paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 22.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Cluster A: Dražice Zentrum",
+          "coords": [
+            14.4667,
+            45.3833
+          ],
+          "category": "city",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Parken Sie zentral für den ersten Spaziergang.",
+            "hu": "Parkoljon a központban az első sétához.",
+            "ro": "Parcați în centru pentru prima plimbare.",
+            "en": "Park centrally for the first walk."
+          }
+        },
+        {
+          "name": "Crkva sv. Bartola (Cluster A)",
+          "coords": [
+            14.4678,
+            45.3842
+          ],
+          "category": "religious",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Besichtigung der Kirche zu Fuß.",
+            "hu": "A templom megtekintése gyalogosan.",
+            "ro": "Vizitarea bisericii pe jos.",
+            "en": "Visit the church on foot."
+          }
+        },
+        {
+          "name": "Grobnički mlin (Cluster A)",
+          "coords": [
+            14.4615,
+            45.3875
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_4lang": {
+            "de": "Kurzer Fußweg am Fluss zur Mühle.",
+            "hu": "Rövid séta a folyó mentén a malomhoz.",
+            "ro": "Scurtă plimbare pe râu până la moară.",
+            "en": "Short walk along the river to the mill."
+          }
+        },
+        {
+          "name": "Cluster B: Izvor Rječine Parkplatz",
+          "coords": [
+            14.445,
+            45.405
+          ],
+          "category": "park",
+          "arrive_at": "11:15",
+          "stay_min": 10,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_4lang": {
+            "de": "Fahrt zum Startpunkt des Quellpfads.",
+            "hu": "Autózás a forráshoz vezető ösvény kezdetéhez.",
+            "ro": "Conducerea până la punctul de start al potecii spre izvor.",
+            "en": "Drive to the starting point of the source path."
+          }
+        },
+        {
+          "name": "Izvor Rječine (Cluster B)",
+          "coords": [
+            14.4365,
+            45.4122
+          ],
+          "category": "river",
+          "arrive_at": "11:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Wanderung zur eigentlichen Quelle.",
+            "hu": "Túra a tényleges forráshoz.",
+            "ro": "Drumeție până la izvorul propriu-zis.",
+            "en": "Hike to the actual source."
+          }
+        },
+        {
+          "name": "Mittagessen in Dražice",
+          "coords": [
+            14.465,
+            45.384
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 85,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_4lang": {
+            "de": "Rückfahrt für die Mittagspause.",
+            "hu": "Visszatérés ebédszünetre.",
+            "ro": "Întoarcerea pentru pauza de prânz.",
+            "en": "Drive back for lunch break."
+          }
+        },
+        {
+          "name": "Cluster C: Grobničko polje",
+          "coords": [
+            14.485,
+            45.375
+          ],
+          "category": "nature",
+          "arrive_at": "15:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_4lang": {
+            "de": "Fahrt auf das Feld für weite Ausblicke.",
+            "hu": "Autózás a mezőre a tágas kilátásért.",
+            "ro": "Conducerea pe câmpie pentru vederi panoramice.",
+            "en": "Drive to the field for wide views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Natur-Cluster von Dražice. Beginnen Sie im Dorfzentrum mit der Kirche und der Mühle. Danach führt eine kurze Fahrt zum Rječina-Ursprung, wo eine kleine Wanderung zur Quelle wartet. Den Nachmittag verbringen Sie entspannt auf dem weiten Grobnik-Feld, das bequem per Fahrzeug erschlossen werden kann.",
+        "hu": "Autóval kényelmesen elérheti Dražice különböző természeti pontjait. Kezdje a falu központjában a templommal és a malommal. Ezután egy rövid autózás következik a Rječina-forráshoz, ahol egy kisebb gyalogtúra vár ránk. A délutánt a tágas Grobnik-mezőn tölthetjük, amely járművel is könnyen bejárható.",
+        "ro": "Cu mașina puteți ajunge confortabil la diferitele puncte naturale din Dražice. Începeți în centrul satului cu biserica și moara. Apoi, o scurtă călătorie vă duce la izvorul Rječinei, unde vă așteaptă o mică drumeție până la sursă. Petreceți după-amiaza relaxați pe câmpia Grobnik, care este ușor accesibilă cu vehiculul.",
+        "en": "By car, you can comfortably reach the various nature clusters of Dražice. Start in the village center with the church and the mill. Then, a short drive leads to the Rječina source, where a small hike to the spring awaits. Spend the afternoon relaxed on the vast Grobnik Field, which is easily accessible by vehicle."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Aerosteak",
+            "tip": "Direkt am Flugplatz Grobnik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Aerosteak",
+            "tip": "Közvetlenül a grobniki repülőtér mellett."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Aerosteak",
+            "tip": "Chiar lângă aerodromul Grobnik."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Aerosteak",
+            "tip": "Right next to the Grobnik airfield."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Grobničko polje Aussichtspunkt",
+            "tip": "Stille der weiten Ebene.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grobničko polje kilátó",
+            "tip": "A tágas síkság csendje.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Grobničko polje",
+            "tip": "Liniștea câmpiei întinse.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grobničko polje viewpoint",
+            "tip": "Silence of the wide plain.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt Dražice",
+            "tip": "Regionale Spezialitäten im Regal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dražice szupermarket",
+            "tip": "Regionális különlegességek a polcokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Dražice",
+            "tip": "Specialități regionale la raft."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dražice Supermarket",
+            "tip": "Regional specialties on the shelves."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen auf dem Feld können staubig sein.",
+          "Kostenlose Parkplätze sind im Zentrum vorhanden."
+        ],
+        "hu": [
+          "A mezőn vezető utak porosak lehetnek.",
+          "A központban ingyenes parkolók állnak rendelkezésre."
+        ],
+        "ro": [
+          "Drumurile de pe câmpie pot fi prăfuite.",
+          "Parcarea gratuită este disponibilă în centru."
+        ],
+        "en": [
+          "The roads on the field can be dusty.",
+          "Free parking is available in the center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Busstation Dražice Zentrum",
+          "coords": [
+            14.4667,
+            45.3833
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Ankunft mit der Linie aus Rijeka.",
+            "hu": "Érkezés a rijekai busszal.",
+            "ro": "Sosirea cu linia din Rijeka.",
+            "en": "Arrival with the bus from Rijeka."
+          }
+        },
+        {
+          "name": "Crkva sv. Bartola",
+          "coords": [
+            14.4678,
+            45.3842
+          ],
+          "category": "religious",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Nur wenige Schritte von der Haltestelle entfernt.",
+            "hu": "Csak pár lépés a buszmegállótól.",
+            "ro": "La doar câțiva pași de stație.",
+            "en": "Just a few steps from the bus stop."
+          }
+        },
+        {
+          "name": "Grobnički mlin",
+          "coords": [
+            14.4615,
+            45.3875
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Gemütlicher Spaziergang durch den Ort.",
+            "hu": "Kellemes séta a falun keresztül.",
+            "ro": "Plimbare plăcută prin localitate.",
+            "en": "Pleasant walk through the village."
+          }
+        },
+        {
+          "name": "Mittagessen in lokaler Konoba",
+          "coords": [
+            14.465,
+            45.384
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Genießen Sie lokale Hausmannskost.",
+            "hu": "Élvezze a helyi házias kosztot.",
+            "ro": "Bucurați-vă de mâncarea locală gătită ca acasă.",
+            "en": "Enjoy local home-cooked food."
+          }
+        },
+        {
+          "name": "Spaziergang zur Rječina",
+          "coords": [
+            14.455,
+            45.39
+          ],
+          "category": "park",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_4lang": {
+            "de": "Naturgenuss ohne weite Anreise.",
+            "hu": "Természetközeli élmény távoli utazás nélkül.",
+            "ro": "Bucurați-vă de natură fără a călători departe.",
+            "en": "Enjoy nature without traveling far."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dražice ist gut an das Nahverkehrsnetz von Rijeka angebunden. Der Tag konzentriert sich auf das Dorfzentrum und die umliegenden Naturpfade am Fluss. Nach der Besichtigung der Kirche und der Mühle bleibt viel Zeit für ein entspanntes Mittagessen und einen ausgiebigen Spaziergang am Ufer der Rječina, bevor der Bus Sie zurückbringt.",
+        "hu": "Dražice jól kapcsolódik Fiume (Rijeka) tömegközlekedési hálózatához. A nap a falu központjára és a folyó menti természetvédelmi ösvényekre összpontosít. A templom és a malom megtekintése után bőven jut idő egy pihentető ebédre és egy nagy sétára a Rječina partján, mielőtt a busz visszavinné önöket.",
+        "ro": "Dražice este bine conectat la rețeaua de transport public din Rijeka. Ziua se concentrează pe centrul satului și pe potecile naturale de pe malul râului. După vizitarea bisericii și a morii, rămâne suficient timp pentru un prânz relaxat și o plimbare lungă pe malul Rječinei înainte ca autobuzul să vă ducă înapoi.",
+        "en": "Dražice is well connected to the public transport network of Rijeka. The day focuses on the village center and the surrounding nature trails by the river. After visiting the church and the mill, there is plenty of time for a relaxed lunch and a long walk along the banks of the Rječina before the bus takes you back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Frisches Burek probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Kóstolja meg a friss bureket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Încercați burek proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Try fresh burek."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer",
+            "tip": "Entspannung direkt am Wasser.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyópart",
+            "tip": "Pihenés közvetlenül a víznél.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului",
+            "tip": "Relaxare chiar lângă apă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "River Bank",
+            "tip": "Relaxation right by the water.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus Rijeka",
+            "tip": "In den Kiosken erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rijekai szuvenírek",
+            "tip": "Kaphatók az újságosnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din Rijeka",
+            "tip": "Disponibile la chioșcuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rijeka Souvenirs",
+            "tip": "Available at the kiosks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan vorab online.",
+          "Die Fahrkarten können beim Fahrer gekauft werden."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet online.",
+          "A jegyek a sofőrnél is megvásárolhatók."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor online în prealabil.",
+          "Biletele pot fi cumpărate de la șofer."
+        ],
+        "en": [
+          "Check the bus schedule online in advance.",
+          "Tickets can be purchased from the driver."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,985 @@
+{
+  "city_id": "croatia-vir-cities-v2",
+  "anchor": {
+    "name": "Vir",
+    "coords": [
+      15.09,
+      44.3
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:10",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Crkva sv. Jurja",
+          "coords": [
+            15.085,
+            44.3
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Bewundern Sie die schlichte dalmatinische Architektur im Ortskern.",
+            "hu": "Csodálja meg a központban található letisztult dalmát építészetet.",
+            "ro": "Admirați arhitectura dalmată simplă din centrul localității.",
+            "en": "Admire the simple Dalmatian architecture in the town center."
+          }
+        },
+        {
+          "name": "Frühstück am Hafen",
+          "coords": [
+            15.086,
+            44.299
+          ],
+          "category": "gastro",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Genießen Sie einen Kaffee mit Blick auf die Fischerboote.",
+            "hu": "Élvezzen egy kávét a halászhajókra nyíló kilátással.",
+            "ro": "Savurați o cafea cu vedere la bărcile de pescuit.",
+            "en": "Enjoy a coffee with a view of the fishing boats."
+          }
+        },
+        {
+          "name": "Plaža Jadro",
+          "coords": [
+            15.088,
+            44.298
+          ],
+          "category": "beach",
+          "arrive_at": "11:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Der Hauptstrand der Insel mit flachem Wasser und Kies.",
+            "hu": "A sziget fő strandja sekély vízzel és kavicsos parttal.",
+            "ro": "Plaja principală a insulei, cu apă puțin adâncă și pietriș.",
+            "en": "The island's main beach with shallow water and pebbles."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            15.089,
+            44.297
+          ],
+          "category": "gastro",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Probieren Sie frischen Fisch oder Oktopussalat.",
+            "hu": "Kóstoljon friss halat vagy polipsalátát.",
+            "ro": "Încercați pește proaspăt sau salată de caracatiță.",
+            "en": "Try fresh fish or octopus salad."
+          }
+        },
+        {
+          "name": "Mletačka utvrda Kaštelina",
+          "coords": [
+            15.092,
+            44.292
+          ],
+          "category": "historical",
+          "arrive_at": "15:50",
+          "stay_min": 80,
+          "hop_at": "15:50",
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_4lang": {
+            "de": "Historische venezianische Festung direkt am Meer.",
+            "hu": "Történelmi velencei erőd közvetlenül a tengerparton.",
+            "ro": "Fortăreață venețiană istorică chiar pe malul mării.",
+            "en": "Historical Venetian fortress right on the seaside."
+          }
+        },
+        {
+          "name": "Plaža Sapavac",
+          "coords": [
+            15.09,
+            44.291
+          ],
+          "category": "beach",
+          "arrive_at": "17:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Bekannt für den Heilschlamm und die ruhige Lage im Pinienwald.",
+            "hu": "Gyógyiszapjáról és a fenyőerdő melletti nyugalmáról ismert.",
+            "ro": "Cunoscută pentru nămolul terapeutic și liniștea de lângă pădurea de pini.",
+            "en": "Known for its healing mud and tranquility by the pine forest."
+          }
+        },
+        {
+          "name": "Sonnenuntergang an der Riva",
+          "coords": [
+            15.088,
+            44.295
+          ],
+          "category": "sunset",
+          "arrive_at": "18:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Der perfekte Ort, um den Tag bei einem Eis ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárására egy fagylalt mellett.",
+            "ro": "Locul perfect pentru a încheia ziua cu o înghețată.",
+            "en": "Perfect spot to end the day with a gelato."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Zentrum von Vir an der Kirche St. Georg, gefolgt von einem gemütlichen Kaffee am Hafen. Den Vormittag verbringen Sie am belebten Jadro-Strand, bevor Sie in einer lokalen Konoba die dalmatinische Küche genießen. Am Nachmittag erkunden Sie die beeindruckende venezianische Festung Kaštelina und entspannen anschließend am Sapavac-Strand, der für seinen Heilschlamm berühmt ist. Der Tag endet mit einem malerischen Sonnenuntergang an der Uferpromenade.",
+        "hu": "A napot Vir történelmi központjában, a Szent György-templomnál kezdjük, majd egy kellemes kávé következik a kikötőben. A délelőttöt a nyüzsgő Jadro strandon töltjük, mielőtt egy helyi konobában megkóstolnánk a dalmát konyhát. Délután felfedezzük a lenyűgöző velencei Kaštelina erődöt, végül a gyógyiszapjáról híres Sapavac strandon pihenünk. A napot egy festői naplemente zárja a tengerparti sétányon.",
+        "ro": "Ziua începe în centrul istoric din Vir, la Biserica Sf. Gheorghe, urmată de o cafea relaxantă în port. Petreceți dimineața pe plaja animată Jadro, înainte de a savura bucătăria dalmată într-o konoba locală. După-amiaza explorăm impresionanta fortăreață venețiană Kaštelina și ne relaxăm pe plaja Sapavac, faimoasă pentru nămolul terapeutic. Ziua se încheie cu un apus pitoresc pe faleză.",
+        "en": "Your day starts in Vir's historical center at St. George's Church, followed by a cozy coffee at the harbor. Spend the morning at the lively Jadro beach before enjoying Dalmatian cuisine in a local konoba. In the afternoon, explore the impressive Venetian Kaštelina fortress and relax at Sapavac beach, famous for its healing mud. The day ends with a picturesque sunset on the waterfront promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Kod Spavalice",
+            "tip": "Hervorragende Meeresfrüchte und lokale Weine."
+          },
+          {
+            "name": "Restaurant Kotarina",
+            "tip": "Probieren Sie das traditionelle Peka-Gericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Kod Spavalice",
+            "tip": "Kiváló tengeri gyümölcsök és helyi borok."
+          },
+          {
+            "name": "Restaurant Kotarina",
+            "tip": "Próbálja ki a tradicionális peka ételt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Kod Spavalice",
+            "tip": "Fructe de mare excelente și vinuri locale."
+          },
+          {
+            "name": "Restaurant Kotarina",
+            "tip": "Încercați preparatul tradițional peka."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Kod Spavalice",
+            "tip": "Excellent seafood and local wines."
+          },
+          {
+            "name": "Restaurant Kotarina",
+            "tip": "Try the traditional peka dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pinienwald bei Sapavac",
+            "tip": "Schattiger Rückzugsort für heiße Stunden.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Blick von der Kaštelina",
+            "tip": "Stille Aussicht auf das Meer.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sapavac fenyőerdő",
+            "tip": "Árnyas menedék a forró órákban.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kilátás a Kaštelináról",
+            "tip": "Csendes kilátás a tengerre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de pini Sapavac",
+            "tip": "Refugiu umbros pentru orele fierbinți.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Vedere de la Kaštelina",
+            "tip": "Priveliște liniștită asupra mării.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sapavac Pine Forest",
+            "tip": "Shady retreat for hot hours.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "View from Kaštelina",
+            "tip": "Quiet view over the sea.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frisches Obst, Gemüse und lokaler Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss gyümölcs, zöldség és helyi méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe proaspete, legume și miere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fresh fruit, vegetables, and local honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Sandalen für die Kiesstrände.",
+          "Besuchen Sie den Markt früh am Morgen für die beste Auswahl.",
+          "Die Festung ist ein großartiger Fotospot am späten Nachmittag."
+        ],
+        "hu": [
+          "Viseljen kényelmes szandált a kavicsos strandokhoz.",
+          "Látogassa meg a piacot kora reggel a legjobb választékért.",
+          "Az erőd nagyszerű fotóhelyszín késő délután."
+        ],
+        "ro": [
+          "Purtați sandale confortabile pentru plajele cu pietriș.",
+          "Vizitați piața dimineața devreme pentru cea mai bună selecție.",
+          "Fortăreața este un loc minunat pentru fotografii după-amiaza târziu."
+        ],
+        "en": [
+          "Wear comfortable sandals for the pebble beaches.",
+          "Visit the market early in the morning for the best selection.",
+          "The fortress is a great photo spot in the late afternoon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Virski most",
+          "coords": [
+            15.145,
+            44.293
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Die Brücke bietet einen tollen Blick auf das Festland und die Insel.",
+            "hu": "A híd nagyszerű kilátást nyújt a szárazföldre és a szigetre.",
+            "ro": "Podul oferă o vedere minunată asupra continentului și a insulei.",
+            "en": "The bridge offers a great view of the mainland and the island."
+          }
+        },
+        {
+          "name": "Küstenradweg-Pause",
+          "coords": [
+            15.1,
+            44.31
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_4lang": {
+            "de": "Genießen Sie den Wind und die Aussicht auf die Adria.",
+            "hu": "Élvezze a szelet és az Adriai-tenger látványát.",
+            "ro": "Bucurați-vă de vânt și de vederea spre Marea Adriatică.",
+            "en": "Enjoy the wind and the view of the Adriatic Sea."
+          }
+        },
+        {
+          "name": "Crkva sv. Jurja",
+          "coords": [
+            15.085,
+            44.3
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_4lang": {
+            "de": "Kleiner Stopp im Herzen von Vir.",
+            "hu": "Rövid megálló Vir szívében.",
+            "ro": "Scurtă oprire în inima localității Vir.",
+            "en": "Brief stop in the heart of Vir."
+          }
+        },
+        {
+          "name": "Plaža Jadro",
+          "coords": [
+            15.088,
+            44.298
+          ],
+          "category": "beach",
+          "arrive_at": "11:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Perfekt für ein schnelles Bad.",
+            "hu": "Tökéletes egy gyors fürdőzéshez.",
+            "ro": "Perfect pentru o baie rapidă.",
+            "en": "Perfect for a quick swim."
+          }
+        },
+        {
+          "name": "Mittagessen im Zentrum",
+          "coords": [
+            15.086,
+            44.298
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Stärken Sie sich mit Grillgerichten.",
+            "hu": "Frissüljön fel grillételekkel.",
+            "ro": "Reîncărcați-vă cu preparate la grătar.",
+            "en": "Recharge with grilled dishes."
+          }
+        },
+        {
+          "name": "Mletačka utvrda Kaštelina",
+          "coords": [
+            15.092,
+            44.292
+          ],
+          "category": "historical",
+          "arrive_at": "15:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Parken Sie Ihr Rad und erkunden Sie die Ruinen.",
+            "hu": "Parkolja le a bringát és fedezze fel a romokat.",
+            "ro": "Parcați bicicleta și explorați ruinele.",
+            "en": "Park your bike and explore the ruins."
+          }
+        },
+        {
+          "name": "Plaža Sapavac",
+          "coords": [
+            15.09,
+            44.291
+          ],
+          "category": "beach",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Entspannung vor der Rückfahrt.",
+            "hu": "Pihenés a visszaút előtt.",
+            "ro": "Relaxare înainte de drumul de întoarcere.",
+            "en": "Relaxation before the ride back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Fahrradtour führt Sie einmal quer über die Insel, startend an der beeindruckenden Vir-Brücke. Nach einer Fahrt entlang der Küste erreichen Sie das Zentrum mit der St. Georgs-Kirche und dem Jadro-Strand. Nach einem stärkenden Mittagessen radeln Sie zur historischen Festung Kaštelina und beenden die Tour am ruhigen Sapavac-Strand, bevor es zurück zum Ausgangspunkt geht.",
+        "hu": "Ez a kerékpártúra a szigeten vezet keresztül, kezdve a lenyűgöző Viri híddal. A part menti tekerés után érjük el a központot a Szent György-templommal és a Jadro stranddal. Egy bőséges ebéd után a történelmi Kaštelina erődhöz biciklizünk, majd a túrát a nyugodt Sapavac strandon zárjuk, mielőtt visszatérnénk a kiindulópontra.",
+        "ro": "Acest tur cu bicicleta vă poartă peste insulă, începând de la impresionantul pod Vir. După o plimbare de-a lungul coastei, ajungeți în centru la Biserica Sf. Gheorghe și plaja Jadro. După un prânz consistent, pedalați spre fortăreața istorică Kaštelina și încheiați turul pe plaja liniștită Sapavac, înainte de a reveni la punctul de plecare.",
+        "en": "This bike tour takes you across the island, starting at the impressive Vir Bridge. After a ride along the coast, you reach the center with St. George's Church and Jadro beach. After a hearty lunch, cycle to the historical Kaštelina fortress and end the tour at the quiet Sapavac beach before heading back to the starting point."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Vagabundo",
+            "tip": "Schnelle und leckere Gerichte für Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Vagabundo",
+            "tip": "Gyors és finom ételek kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Vagabundo",
+            "tip": "Preparate rapide și gustoase pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Vagabundo",
+            "tip": "Quick and tasty dishes for cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nordküste Vir",
+            "tip": "Abgelegene Wege für Naturfreunde.",
+            "emoji": "🚲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vir északi partja",
+            "tip": "Félreeső utak a természet kedvelőinek.",
+            "emoji": "🚲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coasta de nord a insulei Vir",
+            "tip": "Drumuri retrase pentru iubitorii de natură.",
+            "emoji": "🚲"
+          }
+        ],
+        "en": [
+          {
+            "name": "North Coast of Vir",
+            "tip": "Remote paths for nature lovers.",
+            "emoji": "🚲"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Olivenöl-Verkauf",
+            "tip": "Direkt vom Erzeuger an der Straße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj árusok",
+            "tip": "Közvetlenül a termelőtől az út mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzători locali de ulei de măsline",
+            "tip": "Direct de la producător, pe marginea drumului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil Stands",
+            "tip": "Directly from producers along the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf den Wind, der auf der Insel stark sein kann.",
+          "Nehmen Sie ausreichend Wasser mit, da es auf den Küstenwegen wenig Schatten gibt."
+        ],
+        "hu": [
+          "Figyeljen a szélre, ami a szigeten erős lehet.",
+          "Vigyen elegendő vizet, mert a part menti utakon kevés az árnyék."
+        ],
+        "ro": [
+          "Fiți atenți la vânt, care poate fi puternic pe insulă.",
+          "Luați suficientă apă, deoarece există puțină umbră pe drumurile de coastă."
+        ],
+        "en": [
+          "Be mindful of the wind, which can be strong on the island.",
+          "Take enough water, as there is little shade on the coastal paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Virski most",
+          "coords": [
+            15.145,
+            44.293
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Kurzer Fotostopp bei der Einfahrt auf die Insel.",
+            "hu": "Rövid fotómegálló a szigetre való behajtáskor.",
+            "ro": "Scurtă oprire pentru fotografii la intrarea pe insulă.",
+            "en": "Short photo stop upon entering the island."
+          }
+        },
+        {
+          "name": "Crkva sv. Jurja",
+          "coords": [
+            15.085,
+            44.3
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_4lang": {
+            "de": "Parken Sie im Zentrum und spazieren Sie zur Kirche.",
+            "hu": "Parkoljon a központban és sétáljon el a templomhoz.",
+            "ro": "Parcați în centru și mergeți pe jos la biserică.",
+            "en": "Park in the center and walk to the church."
+          }
+        },
+        {
+          "name": "Plaža Jadro",
+          "coords": [
+            15.088,
+            44.298
+          ],
+          "category": "beach",
+          "arrive_at": "10:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_4lang": {
+            "de": "Der belebteste Strand mit vielen Parkmöglichkeiten in der Nähe.",
+            "hu": "A legnépszerűbb strand sok közeli parkolóhellyel.",
+            "ro": "Cea mai populară plajă, cu multe locuri de parcare în apropiere.",
+            "en": "The most popular beach with plenty of parking nearby."
+          }
+        },
+        {
+          "name": "Mittagessen am Meer",
+          "coords": [
+            15.087,
+            44.297
+          ],
+          "category": "gastro",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Dalmatinische Fischgerichte sind hier ein Muss.",
+            "hu": "A dalmát halételek itt kötelezőek.",
+            "ro": "Preparatele dalmate din pește sunt un must aici.",
+            "en": "Dalmatian fish dishes are a must here."
+          }
+        },
+        {
+          "name": "Mletačka utvrda Kaštelina",
+          "coords": [
+            15.092,
+            44.292
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_4lang": {
+            "de": "Die Ruine ist gut mit dem Auto erreichbar.",
+            "hu": "A rom könnyen megközelíthető autóval.",
+            "ro": "Ruina este ușor accesibilă cu mașina.",
+            "en": "The ruin is easily accessible by car."
+          }
+        },
+        {
+          "name": "Plaža Sapavac",
+          "coords": [
+            15.09,
+            44.291
+          ],
+          "category": "beach",
+          "arrive_at": "16:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Entspannen Sie im Heilschlamm vor der Abfahrt.",
+            "hu": "Lazítson a gyógyiszapban az indulás előtt.",
+            "ro": "Relaxați-vă în nămolul terapeutic înainte de plecare.",
+            "en": "Relax in the healing mud before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour kombiniert die Highlights von Vir mit maximalem Komfort. Sie starten an der Brücke und fahren ins Zentrum zur St. Georgs-Kirche. Der Vormittag gehört dem Jadro-Strand, gefolgt von einem köstlichen Mittagessen. Am Nachmittag besuchen Sie die Festung Kaštelina und den Sapavac-Strand, bevor Sie die Insel wieder verlassen.",
+        "hu": "Ez az autós túra Vir legfontosabb látnivalóit ötvözi maximális kényelemmel. A hídnál kezdünk, majd a központba hajtunk a Szent György-templomhoz. A délelőtt a Jadro strandé, amit egy fenséges ebéd követ. Délután a Kaštelina erődöt és a Sapavac strandot látogatjuk meg az elutazás előtt.",
+        "ro": "Acest tur cu mașina combină punctele forte din Vir cu un confort maxim. Începeți la pod și conduceți spre centru la Biserica Sf. Gheorghe. Dimineața este dedicată plajei Jadro, urmată de un prânz delicios. După-amiaza vizitați fortăreața Kaštelina și plaja Sapavac înainte de plecare.",
+        "en": "This car tour combines Vir's highlights with maximum comfort. Start at the bridge and drive to the center for St. George's Church. The morning is dedicated to Jadro beach, followed by a delicious lunch. In the afternoon, visit the Kaštelina fortress and Sapavac beach before departing."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Kunjka",
+            "tip": "Berühmt für frische Muscheln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Kunjka",
+            "tip": "Friss kagylóiról híres."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Kunjka",
+            "tip": "Faimoasă pentru scoici proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Kunjka",
+            "tip": "Famous for fresh mussels."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klippen von Vir",
+            "tip": "Ein kurzer Drive in den Norden bietet tolle Klippenaussichten.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Viri sziklák",
+            "tip": "Egy rövid autózás északra lenyűgöző sziklafalakat tár elénk.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stâncile din Vir",
+            "tip": "O scurtă plimbare cu mașina spre nord oferă vederi superbe asupra stâncilor.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vir Cliffs",
+            "tip": "A short drive north offers great cliff views.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt Plodine",
+            "tip": "Große Auswahl an kroatischen Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plodine Szupermarket",
+            "tip": "Horvát különlegességek széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Plodine",
+            "tip": "O selecție largă de specialități croate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plodine Supermarket",
+            "tip": "Large selection of Croatian specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Hochsaison kann die Parkplatzsuche im Zentrum schwierig sein.",
+          "Die Straße zur Brücke ist zur Stoßzeit oft verstopft."
+        ],
+        "hu": [
+          "Főszezonban nehéz lehet parkolóhelyet találni a központban.",
+          "A hídhoz vezető út csúcsidőben gyakran zsúfolt."
+        ],
+        "ro": [
+          "În plin sezon, găsirea unui loc de parcare în centru poate fi dificilă.",
+          "Drumul spre pod este adesea aglomerat la orele de vârf."
+        ],
+        "en": [
+          "Finding parking in the center can be difficult during high season.",
+          "The road to the bridge is often congested during rush hour."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Hauptbushaltestelle Vir",
+          "coords": [
+            15.086,
+            44.3
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_4lang": {
+            "de": "Zentraler Ankunftspunkt für Busse aus Zadar.",
+            "hu": "Központi érkezési pont a zadari buszok számára.",
+            "ro": "Punct central de sosire pentru autobuzele din Zadar.",
+            "en": "Central arrival point for buses from Zadar."
+          }
+        },
+        {
+          "name": "Crkva sv. Jurja",
+          "coords": [
+            15.085,
+            44.3
+          ],
+          "category": "religious",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_4lang": {
+            "de": "Nur ein kurzer Spaziergang von der Haltestelle.",
+            "hu": "Csak egy rövid séta a megállótól.",
+            "ro": "Doar o scurtă plimbare de la stație.",
+            "en": "Just a short walk from the stop."
+          }
+        },
+        {
+          "name": "Plaža Jadro",
+          "coords": [
+            15.088,
+            44.298
+          ],
+          "category": "beach",
+          "arrive_at": "10:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_4lang": {
+            "de": "Vom Zentrum aus leicht zu Fuß erreichbar.",
+            "hu": "A központból gyalogosan is könnyen elérhető.",
+            "ro": "Ușor accesibil pe jos din centru.",
+            "en": "Easily accessible on foot from the center."
+          }
+        },
+        {
+          "name": "Mittagspause in einer Konoba",
+          "coords": [
+            15.087,
+            44.297
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_4lang": {
+            "de": "Genießen Sie lokale Spezialitäten im Ortskern.",
+            "hu": "Élvezze a helyi különlegességeket a városközpontban.",
+            "ro": "Bucurați-vă de specialități locale în centrul localității.",
+            "en": "Enjoy local specialties in the town center."
+          }
+        },
+        {
+          "name": "Mletačka utvrda Kaštelina",
+          "coords": [
+            15.092,
+            44.292
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_4lang": {
+            "de": "Ein schöner Spaziergang entlang der Küste führt hierher.",
+            "hu": "Egy szép tengerparti séta vezet ide.",
+            "ro": "O plimbare frumoasă pe malul mării duce aici.",
+            "en": "A beautiful seaside walk leads here."
+          }
+        },
+        {
+          "name": "Plaža Sapavac",
+          "coords": [
+            15.09,
+            44.291
+          ],
+          "category": "beach",
+          "arrive_at": "16:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_4lang": {
+            "de": "Perfekt zum Entspannen vor dem letzten Bus.",
+            "hu": "Tökéletes a kikapcsolódásra az utolsó busz előtt.",
+            "ro": "Perfect pentru relaxare înainte de ultimul autobuz.",
+            "en": "Perfect for relaxing before the last bus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ideal für Besucher aus Zadar: Dieser Plan nutzt die zentrale Bushaltestelle als Basis. Sie erkunden die St. Georgs-Kirche und verbringen den Mittag am Jadro-Strand. Nach einem Essen im Zentrum spazieren Sie zur Kaštelina-Festung und genießen den Sapavac-Strand, bevor es pünktlich zur Haltestelle zurückgeht.",
+        "hu": "Ideális a Zadar felől érkezőknek: ez a terv a központi buszmegállót használja bázisként. Felfedezzük a Szent György-templomot, a délutánt pedig a Jadro strandon töltjük. A központi ebéd után elgyalogolunk a Kaštelina erődhöz és élvezzük a Sapavac strandot, mielőtt visszatérnénk a megállóhoz.",
+        "ro": "Ideal pentru vizitatorii din Zadar: acest plan folosește stația centrală de autobuz ca bază. Explorați Biserica Sf. Gheorghe și petreceți amiaza pe plaja Jadro. După un prânz în centru, mergeți pe jos la fortăreața Kaštelina și bucurați-vă de plaja Sapavac înainte de a reveni la stație.",
+        "en": "Ideal for visitors from Zadar: this plan uses the central bus stop as a base. Explore St. George's Church and spend midday at Jadro beach. After a lunch in the center, walk to the Kaštelina fortress and enjoy Sapavac beach before returning to the stop on time."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Toni",
+            "tip": "Beliebte Pizza direkt in der Nähe der Haltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria Toni",
+            "tip": "Népszerű pizza a megálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Toni",
+            "tip": "Pizza populară chiar lângă stație."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Toni",
+            "tip": "Popular pizza right near the stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafendamm",
+            "tip": "Ruhe mit Blick auf die Fähren.",
+            "emoji": "⚓"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői gát",
+            "tip": "Csendes megálló a kompok látványával.",
+            "emoji": "⚓"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul portului",
+            "tip": "Liniște cu vedere la feriboturi.",
+            "emoji": "⚓"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Pier",
+            "tip": "Quiet spot with views of the ferries.",
+            "emoji": "⚓"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop im Zentrum",
+            "tip": "Lokale Handwerkskunst und Postkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírbolt a központban",
+            "tip": "Helyi kézműves termékek és képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri în centru",
+            "tip": "Artizanat local și cărți poștale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shop in Center",
+            "tip": "Local crafts and postcards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den aktuellen Busfahrplan vorab online.",
+          "Kaufen Sie Rückfahrkarten direkt beim Fahrer."
+        ],
+        "hu": [
+          "Ellenőrizze előre online az aktuális buszmenetrendet.",
+          "Vásárolja meg a retúrjegyet közvetlenül a sofőrnél."
+        ],
+        "ro": [
+          "Verificați programul actual al autobuzelor online în prealabil.",
+          "Cumpărați biletele dus-întors direct de la șofer."
+        ],
+        "en": [
+          "Check the current bus schedule online beforehand.",
+          "Buy return tickets directly from the driver."
+        ]
+      }
+    }
+  }
+}

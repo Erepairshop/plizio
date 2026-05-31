@@ -1,0 +1,940 @@
+{
+  "city_id": "croatia-dugopolje-cities-v2",
+  "anchor": {
+    "name": "Dugopolje",
+    "coords": [
+      16.5969,
+      43.5803
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Kaffeepause am Hauptplatz / Kávé a főtéren",
+          "coords": [
+            16.5971,
+            43.5801
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Trinken Sie einen starken Espresso wie die Einheimischen.",
+            "hu": "Igyon egy erős eszpresszót a helyiekkel.",
+            "ro": "Savurați un espresso tare alături de localnici.",
+            "en": "Enjoy a strong espresso with the locals."
+          }
+        },
+        {
+          "name": "Crkva svetog Mihovila",
+          "coords": [
+            16.5965,
+            43.5805
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur der Pfarrkirche.",
+            "hu": "Csodálja meg a plébániatemplom építészetét.",
+            "ro": "Admirați arhitectura bisericii parohiale.",
+            "en": "Admire the architecture of the parish church."
+          }
+        },
+        {
+          "name": "Uferpromenade-Spaziergang / Falusi séta",
+          "coords": [
+            16.5985,
+            43.5785
+          ],
+          "category": "park",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang durch die ruhigen Gassen.",
+            "hu": "Pihentető séta a csendes utcákon.",
+            "ro": "O plimbare relaxantă pe străzile liniștite.",
+            "en": "A relaxing stroll through the quiet streets."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba / Ebéd egy konobában",
+          "coords": [
+            16.595,
+            43.581
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Rohschinken (Pršut).",
+            "hu": "Kóstolja meg a helyi pršutot (sonkát).",
+            "ro": "Gustați faimosul pršut (șuncă locală).",
+            "en": "Try the local pršut (prosciutto)."
+          }
+        },
+        {
+          "name": "Panoramablick am Fuße des Berges / Kilátópont a hegy lábánál",
+          "coords": [
+            16.605,
+            43.575
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Blick auf das Hinterland von Dalmatien.",
+            "hu": "Kilátás a dalmát hátországra.",
+            "ro": "Vedere panoramică asupra hinterlandului dalmațian.",
+            "en": "View of the Dalmatian hinterland."
+          }
+        },
+        {
+          "name": "Sonnenuntergangs-Pause / Naplemente-pihenő",
+          "coords": [
+            16.597,
+            43.58
+          ],
+          "category": "sunset",
+          "arrive_at": "14:45",
+          "stay_min": 65,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe vor der Abfahrt.",
+            "hu": "Élvezze a nyugalmat az indulás előtt.",
+            "ro": "Bucurați-vă de liniște înainte de plecare.",
+            "en": "Enjoy the peace before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Herzen von Dugopolje bei der St.-Michael-Kirche, wo Sie die lokale Atmosphäre bei einem Kaffee genießen. Ein gemütlicher Spaziergang führt Sie durch das Dorf, vorbei an traditionellen Steinhäusern.\n\nMittags kehren Sie in eine Konoba ein, um die deftige Küche des Hinterlandes zu kosten. Der Nachmittag steht im Zeichen der Natur, während Sie sich den Ausläufern des Mosor-Gebirges nähern und das Panorama genießen.\n\nDer Tag endet entspannt im Zentrum mit Blick auf die umliegenden Gipfel.",
+        "hu": "A nap Dugopolje szívében, a Szent Mihály-templomnál indul, ahol egy kávé mellett ismerkedhet a helyi légkörrel. Egy kényelmes séta során felfedezheti a falu csendes utcáit és hagyományos kőházait.\n\nEbédre térjen be egy helyi konobába, és kóstolja meg a dalmát hátország jellegzetes ízeit. Délután a természeté a főszerep, a Mosor-hegység lábánál élvezheti a tiszta hegyi levegőt.\n\nA napot a központban zárjuk, ahonnan csodás kilátás nyílik a környező hegycsúcsokra.",
+        "ro": "Ziua începe în inima orașului Dugopolje, lângă biserica Sf. Mihail, unde puteți simți atmosfera locală la o cafea. O plimbare ușoară vă poartă prin sat, printre casele tradiționale din piatră.\n\nLa prânz, opriți-vă la o konoba pentru a gusta bucătăria consistentă a hinterlandului. După-amiaza este dedicată naturii, explorând poalele muntelui Mosor și admirând peisajul.\n\nZiua se încheie relaxat în centru, cu o vedere superbă asupra vârfurilor înconjurătoare.",
+        "en": "Your day starts in the heart of Dugopolje at St. Michael's Church, where you can soak in the local atmosphere over a coffee. A leisurely stroll takes you through the village past traditional stone houses.\n\nAt lunch, visit a local tavern to taste the hearty cuisine of the Dalmatian hinterland. The afternoon is dedicated to nature, as you approach the foothills of the Mosor mountain and enjoy the panorama.\n\nThe day ends peacefully in the center with views of the surrounding peaks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Dodoja",
+            "tip": "Hausgemachter Pršut und Käse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Dodoja",
+            "tip": "Helyi pršut (sonka) és házi sajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Dodoja",
+            "tip": "Prșut de casă și brânzeturi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Dodoja",
+            "tip": "Homemade prosciutto and regional cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ausläufer des Mosor",
+            "tip": "Stille unter den Felsen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mosor-láb",
+            "tip": "Csend a sziklák alatt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poalele Mosor",
+            "tip": "Liniște sub stânci.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mosor foothills",
+            "tip": "Silence under the rocks.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Produkte",
+            "tip": "Olivenöl und Honig direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termékek",
+            "tip": "Olívaolaj és méz közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse locale",
+            "tip": "Ulei de măsline și miere direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local products",
+            "tip": "Olive oil and honey directly from producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Spaziergang zum Mosor.",
+          "Dugopolje ist oft kühler als Split, nehmen Sie eine leichte Jacke mit.",
+          "Die Einheimischen sind sehr gastfreundlich, scheuen Sie sich nicht zu grüßen.",
+          "Am Vormittag ist der Marktplatz am belebtesten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a Mosor-hegy lábához vezető sétához.",
+          "Dugopolje gyakran hűvösebb Splitnél, legyen nálad egy könnyű dzseki.",
+          "A helyiek nagyon vendégszeretőek, bátran köszönj előre.",
+          "A délelőtti órákban a legélénkebb a főtér."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru plimbarea spre poalele Mosor.",
+          "Dugopolje este adesea mai răcoros decât Split, luați o jachetă ușoară.",
+          "Localnicii sunt foarte primitori, nu ezitați să salutați.",
+          "Piața este cea mai animată în timpul dimineții."
+        ],
+        "en": [
+          "Wear comfortable shoes for the walk to the Mosor foothills.",
+          "Dugopolje is often cooler than Split, bring a light jacket.",
+          "Locals are very hospitable, don't be afraid to say hello.",
+          "The town square is most lively during the morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 24.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Dugopolje Zentrum / Központ",
+          "coords": [
+            16.5969,
+            43.5803
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Checken Sie Ihre Ausrüstung vor der Fahrt.",
+            "hu": "Ellenőrizze a felszerelését indulás előtt.",
+            "ro": "Verificați echipamentul înainte de plecare.",
+            "en": "Check your equipment before starting."
+          }
+        },
+        {
+          "name": "Crkva svetog Mihovila",
+          "coords": [
+            16.5965,
+            43.5805
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schöner Orientierungspunkt im Dorf.",
+            "hu": "Szép tájékozódási pont a faluban.",
+            "ro": "Un punct de reper frumos în sat.",
+            "en": "A beautiful landmark in the village."
+          }
+        },
+        {
+          "name": "Landschaftsfahrt nach Kotlenice / Bringázás Kotlenice felé",
+          "coords": [
+            16.63,
+            43.57
+          ],
+          "category": "park",
+          "arrive_at": "10:50",
+          "stay_min": 20,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Wenig befahrenen Straßen mit toller Aussicht.",
+            "hu": "Kis forgalmú utak, remek kilátással.",
+            "ro": "Drumuri puțin circulate, cu priveliști minunate.",
+            "en": "Low-traffic roads with great views."
+          }
+        },
+        {
+          "name": "Špilja Vranjača",
+          "coords": [
+            16.648,
+            43.562
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab.",
+            "hu": "Zárja le biztonságosan a biciklit.",
+            "ro": "Încuiați bicicleta în siguranță.",
+            "en": "Lock your bike securely."
+          }
+        },
+        {
+          "name": "Kotlenice (Dorfbesichtigung) / Kotlenicei pihenő",
+          "coords": [
+            16.645,
+            43.564
+          ],
+          "category": "landmark",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für eine Trinkpause.",
+            "hu": "Csendes hely egy vizes frissítőhöz.",
+            "ro": "Un loc liniștit pentru o pauză de apă.",
+            "en": "A quiet place for a water break."
+          }
+        },
+        {
+          "name": "Abschluss-Gelato / Gelato-zárás",
+          "coords": [
+            16.598,
+            43.579
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Verdiente Belohnung nach der Tour.",
+            "hu": "Megérdemelt jutalom a túra után.",
+            "ro": "Recompensa binemeritată după tur.",
+            "en": "Well-deserved reward after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Dugopolje und seine Umgebung auf zwei Rädern. Die Route führt Sie vom Dorfzentrum durch die unberührte Karstlandschaft in das kleine Kotlenice.\n\nDas Highlight ist der Besuch der Vranjača-Höhle, die spektakulärste Schauhöhle Dalmatiens. Nach der kühlen Erfrischung unter Tage radeln Sie zurück durch das malerische Hinterland.\n\nDie Tour ist körperlich fordernd, aber die weiten Ausblicke auf das Mosor-Gebirge entschädigen für jede Anstrengung.",
+        "hu": "Fedezze fel Dugopoljét és környékét két keréken. Az útvonal a falu központjából indul, és az érintetlen karsztvidéken át vezet a kis Kotlenice felé.\n\nA nap fénypontja a Vranjača-barlang meglátogatása, amely Dalmácia leglátványosabb cseppkőbarlangja. A hűvös földalatti kaland után tekerjen vissza a festői hátországon keresztül.\n\nA túra fizikailag aktív, de a Mosor-hegységre nyíló tágas kilátás minden erőfeszítést megér.",
+        "ro": "Explorați Dugopolje și împrejurimile sale pe două roți. Traseul vă poartă din centrul satului prin peisajul carstic neatins spre mica localitate Kotlenice.\n\nPunctul culminant este vizitarea Peșterii Vranjača, cea mai spectaculoasă peșteră din Dalmația. După răcoarea din subteran, pedalați înapoi prin hinterlandul pitoresc.\n\nTurul este activ din punct de vedere fizic, dar priveliștile largi asupra muntelui Mosor compensează orice efort.",
+        "en": "Explore Dugopolje and its surroundings on two wheels. The route leads from the village center through the pristine karst landscape to the small village of Kotlenice.\n\nThe highlight is the visit to the Vranjača Cave, Dalmatia's most spectacular show cave. After the cool underground adventure, cycle back through the scenic hinterland.\n\nThe tour is physically demanding, but the wide views of the Mosor mountain reward every effort."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Holen Sie sich Burek für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi pékség",
+            "tip": "Vegyél egy bureket az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria din centru",
+            "tip": "Luați un burek pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Bakery",
+            "tip": "Get a burek for the road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Landstraße nach Kotlenice",
+            "tip": "Vogelgezwitscher und Einsamkeit.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kotlenicei út",
+            "tip": "Madárcsicsergés és magány.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul spre Kotlenice",
+            "tip": "Cântecul păsărilor și liniște.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Road to Kotlenice",
+            "tip": "Birdsong and solitude.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Obststand",
+            "tip": "Saisonale Früchte am Straßenrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyümölcsös stand",
+            "tip": "Szezonális gyümölcsök az út szélén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand de fructe",
+            "tip": "Fructe de sezon la marginea drumului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fruit stand",
+            "tip": "Seasonal fruits by the roadside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Schatten.",
+          "In der Höhle sind es konstant 15 Grad Celsius.",
+          "Die Straße hat einige Anstiege, gute Kondition erforderlich.",
+          "Prüfen Sie den Reifendruck vor der Abfahrt."
+        ],
+        "hu": [
+          "Vigyél magaddal elég vizet, kevés az árnyék.",
+          "A barlangban állandó 15 fok van.",
+          "Az úton van néhány emelkedő, jó kondíció kell.",
+          "Indulás előtt ellenőrizd a guminyomást."
+        ],
+        "ro": [
+          "Luați destulă apă, există puțină umbră.",
+          "În peșteră sunt constant 15 grade Celsius.",
+          "Drumul are câteva urcușuri, este necesară condiție fizică.",
+          "Verificați presiunea în pneuri înainte de plecare."
+        ],
+        "en": [
+          "Take enough water, there is little shade.",
+          "The cave is constantly 15 degrees Celsius.",
+          "The road has some climbs, good fitness required.",
+          "Check tire pressure before departure."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 35,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 32.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Crkva svetog Mihovila (Cluster A)",
+          "coords": [
+            16.5965,
+            43.5805
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie beim Gemeindehaus.",
+            "hu": "Parkoljon a községháza mellett.",
+            "ro": "Parcați lângă primărie.",
+            "en": "Park near the municipal building."
+          }
+        },
+        {
+          "name": "Zentrum Kaffee / Központi kávé (Cluster A)",
+          "coords": [
+            16.597,
+            43.58
+          ],
+          "category": "gastro",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking lot."
+          }
+        },
+        {
+          "name": "Špilja Vranjača (Cluster B)",
+          "coords": [
+            16.648,
+            43.562
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.5,
+          "tip_5lang": {
+            "de": "Die Führung dauert ca. 60 Minuten.",
+            "hu": "A vezetés kb. 60 percig tart.",
+            "ro": "Turul ghidat durează aproximativ 60 de minute.",
+            "en": "The guided tour lasts about 60 minutes."
+          }
+        },
+        {
+          "name": "Kotlenice Spaziergang (Cluster B)",
+          "coords": [
+            16.646,
+            43.564
+          ],
+          "category": "landmark",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto bei der Höhle stehen.",
+            "hu": "Hagyja az autót a barlangnál.",
+            "ro": "Lăsați mașina la peșteră.",
+            "en": "Leave the car at the cave."
+          }
+        },
+        {
+          "name": "Regionales Mittagessen / Helyi ebéd",
+          "coords": [
+            16.6,
+            43.582
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Probieren Sie Peka (unter der Glocke gegart).",
+            "hu": "Kóstolja meg a pekát (harang alatt sült étel).",
+            "ro": "Încercați peka (mâncare gătită sub capac).",
+            "en": "Try peka (slow-cooked under a bell)."
+          }
+        },
+        {
+          "name": "Planina Mosor (Cluster C)",
+          "coords": [
+            16.62,
+            43.57
+          ],
+          "category": "mountain",
+          "arrive_at": "15:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Aussichtspunkt leicht erreichbar vom Parkplatz.",
+            "hu": "Kilátópont könnyen elérhető a parkolótól.",
+            "ro": "Punct de belvedere ușor accesibil de la parcare.",
+            "en": "Viewpoint easily accessible from the parking area."
+          }
+        },
+        {
+          "name": "Panorama-Abschied / Búcsú-panoráma",
+          "coords": [
+            16.618,
+            43.572
+          ],
+          "category": "sunset",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Fotos.",
+            "hu": "Tökéletes hely fotózáshoz.",
+            "ro": "Locul perfect pentru fotografii.",
+            "en": "Perfect spot for photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie die Highlights von Dugopolje ganz flexibel. Wir beginnen im ruhigen Ortskern bei der St.-Michael-Kirche.\n\nDie Fahrt führt uns weiter in den Weiler Kotlenice zur beeindruckenden Vranjača-Höhle. Das Naturdenkmal bietet zwei riesige Säle voller Stalaktiten. Danach erkunden wir das Dorf zu Fuß, bevor wir zum Mittagessen zurückkehren.\n\nDen Nachmittag verbringen wir an den Hängen des Mosor-Massivs, von wo aus man bis zum Meer und den Inseln blicken kann.",
+        "hu": "Autóval rugalmasan fedezheti fel Dugopolje legszebb részeit. A napot a csendes falu központjában, a Szent Mihály-templomnál kezdjük.\n\nEzután Kotlenice felé vesszük az irányt, a lenyűgöző Vranjača-barlanghoz. Ez a természeti emlékhely két hatalmas, cseppkövekkel teli teremből áll. A barlanglátogatás után gyalogosan is felfedezzük a kis falut.\n\nA délutánt a Mosor-hegység lejtőin töltjük, ahonnan tiszta időben egészen a tengerig és a szigetekig ellátni.",
+        "ro": "Cu mașina, descoperiți punctele de atracție din Dugopolje cu maximă flexibilitate. Începem în centrul liniștit, la biserica Sf. Mihail.\n\nDrumul ne poartă apoi spre cătunul Kotlenice, la impresionanta Peșteră Vranjača. Monumentul natural oferă două săli uriașe pline de stalactite. După vizită, explorăm satul pe jos înainte de prânz.\n\nDupă-amiaza o petrecem pe versanții masivului Mosor, de unde puteți vedea marea și insulele în depărtare.",
+        "en": "By car, you can explore the highlights of Dugopolje with maximum flexibility. We start in the quiet village center at St. Michael's Church.\n\nThe drive continues to the hamlet of Kotlenice to the impressive Vranjača Cave. This natural monument offers two huge halls full of stalactites. After the visit, we explore the village on foot before returning for lunch.\n\nWe spend the afternoon on the slopes of the Mosor massif, from where you can see all the way to the sea and the islands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Lesnina",
+            "tip": "Bekannt für Grillgerichte und Lammfleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Lesnina",
+            "tip": "Grillételekről és a sült bárányról híres."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Lesnina",
+            "tip": "Cunoscut pentru preparatele la grătar și miel."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Lesnina",
+            "tip": "Famous for grilled dishes and lamb."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Mosor",
+            "tip": "Ruhe hoch über dem Tal.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mosor kilátópont",
+            "tip": "Csend magasan a völgy felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvedere Mosor",
+            "tip": "Liniște deasupra văii.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mosor viewpoint",
+            "tip": "Quiet spot high above the valley.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie frischen hausgemachten Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vegyél friss házi sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați brânză proaspătă de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy fresh homemade cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zur Höhle ist schmal, fahren Sie vorsichtig.",
+          "Jacke für die Höhle nicht vergessen.",
+          "Besuchen Sie Dugopolje an Markttagen (oft Samstag).",
+          "Kombinieren Sie den Ausflug mit einem Besuch in Klis."
+        ],
+        "hu": [
+          "A barlanghoz vezető út keskeny, vezess óvatosan.",
+          "Ne felejts el kabátot vinni a barlangba.",
+          "Látogass el Dugopoljéba piaci napokon (gyakran szombat).",
+          "Kombináld a kirándulást a közeli Klisszel."
+        ],
+        "ro": [
+          "Drumul spre peșteră este îngust, conduceți cu atenție.",
+          "Nu uitați jacheta pentru peșteră.",
+          "Vizitați Dugopolje în zilele de piață (adesea sâmbăta).",
+          "Combinați excursia cu o vizită la cetatea Klis."
+        ],
+        "en": [
+          "The road to the cave is narrow, drive carefully.",
+          "Don't forget a jacket for the cave.",
+          "Visit Dugopolje on market days (often Saturday).",
+          "Combine the trip with a visit to Klis fortress."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Dugopolje (Busstation) / Buszmegálló",
+          "coords": [
+            16.5975,
+            43.58
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Rückfahrplan sofort.",
+            "hu": "Azonnal ellenőrizze a visszautat.",
+            "ro": "Verificați programul de întoarcere imediat.",
+            "en": "Check the return schedule immediately."
+          }
+        },
+        {
+          "name": "Crkva svetog Mihovila",
+          "coords": [
+            16.5965,
+            43.5805
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "5 Minuten Fußweg von der Haltestelle.",
+            "hu": "5 perc séta a megállótól.",
+            "ro": "5 minute de mers de la stație.",
+            "en": "5-minute walk from the stop."
+          }
+        },
+        {
+          "name": "Dorf-Rundgang / Falusi körséta",
+          "coords": [
+            16.598,
+            43.579
+          ],
+          "category": "park",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die alten Steinhäuser.",
+            "hu": "Fedezze fel a régi kőházakat.",
+            "ro": "Descoperiți vechile case de piatră.",
+            "en": "Discover the old stone houses."
+          }
+        },
+        {
+          "name": "Mittagessen in der Konoba / Ebéd konobában",
+          "coords": [
+            16.595,
+            43.581
+          ],
+          "category": "gastro",
+          "arrive_at": "11:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dalmatinische Spezialitäten genießen.",
+            "hu": "Élvezze a dalmát specialitásokat.",
+            "ro": "Savurați specialitățile dalmațiene.",
+            "en": "Enjoy Dalmatian specialties."
+          }
+        },
+        {
+          "name": "Kaffeepause vor der Abfahrt / Kávé indulás előtt",
+          "coords": [
+            16.597,
+            43.58
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Warten auf den Bus im Café.",
+            "hu": "Buszra várás a kávézóban.",
+            "ro": "Așteptați autobuzul la cafenea.",
+            "en": "Wait for the bus at the café."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dugopolje ist gut mit dem Bus von Split aus erreichbar. Dieser Plan konzentriert sich auf den historischen Kern und die lokale Gastronomie.\n\nNach der Ankunft besuchen Sie die Pfarrkirche und schlendern durch die alten Gassen, die einen authentischen Einblick in das Leben im Hinterland bieten.\n\nEin ausgiebiges Mittagessen in einer der hervorragenden Konobas ist das Highlight, bevor es mit dem Bus zurück nach Split geht.",
+        "hu": "Dugopolje jól megközelíthető busszal Splitből. Ez a terv a történelmi magra és a helyi gasztronómiára összpontosít.\n\nÉrkezés után látogassa meg a plébániatemplomot, és sétáljon a régi utcákon, amelyek hiteles betekintést nyújtanak a hátországi életbe.\n\nEgy bőséges ebéd az egyik kiváló konobában a nap fénypontja, mielőtt visszautazna busszal Splitbe.",
+        "ro": "Dugopolje este ușor accesibil cu autobuzul din Split. Acest plan se concentrează pe nucleul istoric și pe gastronomia locală.\n\nDupă sosire, vizitați biserica parohială și plimbați-vă pe străzile vechi care oferă o privire autentică asupra vieții din hinterland.\n\nUn prânz copios la una dintre excelentele konobe este punctul culminant, înainte de a lua autobuzul înapoi spre Split.",
+        "en": "Dugopolje is easily accessible by bus from Split. This plan focuses on the historical core and local gastronomy.\n\nAfter arrival, visit the parish church and stroll through the old streets, which offer an authentic glimpse into life in the hinterland.\n\nA hearty lunch in one of the excellent taverns is the highlight before heading back to Split by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokalni Caffe",
+            "tip": "Perfekter Ort für Menschenbeobachtung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lokalni Caffe",
+            "tip": "Tökéletes hely a bámészkodásra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lokalni Caffe",
+            "tip": "Locul perfect pentru a observa localnicii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lokalni Caffe",
+            "tip": "Perfect spot for people-watching."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchenhof",
+            "tip": "Ein friedlicher Rückzugsort.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templomudvar",
+            "tip": "Békés menedék.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea bisericii",
+            "tip": "Un refugiu liniștit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church courtyard",
+            "tip": "A peaceful retreat.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Nahversorger",
+            "tip": "Holen Sie sich lokale Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bolt",
+            "tip": "Vegyél helyi rágcsálnivalót."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin local",
+            "tip": "Cumpărați gustări locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Store",
+            "tip": "Get some local snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Busse fahren regelmäßig von der Autobusstation Split.",
+          "Sonntags sind die Busverbindungen seltener.",
+          "Die Fahrt dauert etwa 20-30 Minuten.",
+          "Tickets können meist beim Fahrer gekauft werden."
+        ],
+        "hu": [
+          "A buszok rendszeresen indulnak a spliti buszpályaudvarról.",
+          "Vasárnap ritkábbak a járatok.",
+          "Az út körülbelül 20-30 percig tart.",
+          "A jegyeket általában a sofőrnél lehet megvenni."
+        ],
+        "ro": [
+          "Autobuzele pleacă regulat din autogara Split.",
+          "Duminica, conexiunile sunt mai rare.",
+          "Călătoria durează aproximativ 20-30 de minute.",
+          "Biletele pot fi cumpărate de obicei de la șofer."
+        ],
+        "en": [
+          "Buses run regularly from Split main bus station.",
+          "Bus connections are less frequent on Sundays.",
+          "The journey takes about 20-30 minutes.",
+          "Tickets can usually be bought from the driver."
+        ]
+      }
+    }
+  }
+}

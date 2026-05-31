@@ -1,0 +1,1012 @@
+{
+  "city_id": "croatia-lumbarda-cities-v2",
+  "anchor": {
+    "name": "Lumbarda",
+    "coords": [
+      17.1714,
+      42.9286
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Lumbarda Harbor Promenade",
+          "coords": [
+            17.1714,
+            42.9286
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den ersten Kaffee direkt am Wasser mit Blick auf die Fischerboote.",
+            "hu": "Igya meg az első kávét közvetlenül a parton, figyelve a halászhajókat.",
+            "ro": "Savurați prima cafea chiar pe malul apei, admirând bărcile de pescuit.",
+            "en": "Enjoy your first coffee right by the water, watching the fishing boats."
+          }
+        },
+        {
+          "name": "Crkva sv. Roka",
+          "coords": [
+            17.1721,
+            42.9295
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kleine Barockkirche im Dorfzentrum mit lokalem Charme.",
+            "hu": "Kis barokk templom a falu központjában, igazi helyi bájjal.",
+            "ro": "O mică biserică barocă în centrul satului, cu farmec local.",
+            "en": "Small Baroque church in the village center with local charm."
+          }
+        },
+        {
+          "name": "Lumbardska psefizma",
+          "coords": [
+            17.1735,
+            42.9302
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Ort, an dem eine der ältesten griechischen Inschriften Kroatiens gefunden wurde.",
+            "hu": "A hely, ahol Horvátország egyik legrégebbi görög feliratát találták.",
+            "ro": "Locul unde a fost găsită una dintre cele mai vechi inscripții grecești din Croația.",
+            "en": "The spot where one of the oldest Greek inscriptions in Croatia was found."
+          }
+        },
+        {
+          "name": "Lunch in a Local Konoba",
+          "coords": [
+            17.1745,
+            42.9315
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie unbedingt hausgemachte Pasta 'Zrnovski makaruni'.",
+            "hu": "Mindenképpen kóstolja meg a házi készítésű 'Zrnovski makaruni' tésztát.",
+            "ro": "Încercați neapărat pastele de casă 'Zrnovski makaruni'.",
+            "en": "Be sure to try the homemade 'Zrnovski makaruni' pasta."
+          }
+        },
+        {
+          "name": "Bilin Žal",
+          "coords": [
+            17.1852,
+            42.9348
+          ],
+          "category": "beach",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein seltener Sandstrand mit flachem Wasser, ideal zum Entspannen.",
+            "hu": "Ritka homokos strand sekély vízzel, ideális a pihenéshez.",
+            "ro": "O plajă rară cu nisip și apă puțin adâncă, ideală pentru relaxare.",
+            "en": "A rare sandy beach with shallow water, ideal for relaxing."
+          }
+        },
+        {
+          "name": "Grk Wine Tasting",
+          "coords": [
+            17.1812,
+            42.9298
+          ],
+          "category": "gastro",
+          "arrive_at": "16:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Lumbarda ist berühmt für die Weißweinsorte Grk, die nur hier wächst.",
+            "hu": "Lumbarda híres a Grk fehérborról, amely csak itt terem.",
+            "ro": "Lumbarda este faimoasă pentru soiul de vin alb Grk, care crește doar aici.",
+            "en": "Lumbarda is famous for the Grk white wine variety that only grows here."
+          }
+        },
+        {
+          "name": "Seaside Sunset Point",
+          "coords": [
+            17.1755,
+            42.9275
+          ],
+          "category": "sunset",
+          "arrive_at": "17:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie die Sonne hinter den Hügeln von Peljesac untergeht.",
+            "hu": "Nézze meg, ahogy a nap lemegy a Peljesac-félsziget dombjai mögött.",
+            "ro": "Urmăriți cum soarele apune în spatele dealurilor din Peljesac.",
+            "en": "Watch the sun go down behind the hills of Peljesac."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen in Lumbarda beginnt am malerischen Hafen, wo die Zeit langsamer zu vergehen scheint. Nach einem kurzen Besuch der historischen St. Rochus-Kirche und der antiken Psefizma-Stätte tauchen Sie in die lokalen Aromen ein. Der Mittag gehört dem Genuss in einer traditionellen Konoba, gefolgt von erholsamen Stunden am sandigen Bilin Žal. Den krönenden Abschluss bildet eine Weinverkostung des einzigartigen Grk-Weins direkt im Weinberg.",
+        "hu": "A lumbardai reggel a festői kikötőben indul, ahol az idő mintha megállt volna. A Szent Rókus templom és az ókori pszephizma megtekintése után elmerülhet a helyi ízekben. A délutánt a homokos Bilin Žal strandon töltheti, majd a napot az egyedülálló Grk bor kóstolásával zárhatja, miközben a szőlőtőkék között sétál a naplementében.",
+        "ro": "Dimineața în Lumbarda începe în portul pitoresc, unde timpul pare să stea în loc. După o scurtă vizită la biserica istorică Sf. Roch și la situl antic Psefizma, vă veți delecta cu aromele locale. Amiaza este dedicată răsfățului într-o konoba tradițională, urmată de ore relaxante pe plaja cu nisip Bilin Žal. Finalul zilei este marcat de o degustare a unicului vin Grk, chiar în mijlocul podgoriilor.",
+        "en": "Your morning in Lumbarda starts at the picturesque harbor, where time seems to slow down. After a short visit to the historical St. Roch church and the ancient Psefizma site, you'll dive into local flavors. Midday is for indulging in a traditional konoba, followed by relaxing hours at the sandy Bilin Zal beach. The day concludes with a tasting of the unique Grk wine right among the vineyards at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Skafetin",
+            "tip": "Hervorragende Meeresfrüchte und hausgemachte Makaroni."
+          },
+          {
+            "name": "Weingut Bire",
+            "tip": "Beste Adresse für eine Grk-Weinverkostung mit Häppchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Skafetin",
+            "tip": "Kiváló tengeri ételek és házi készítésű makaróni."
+          },
+          {
+            "name": "Bire Borászat",
+            "tip": "A legjobb hely egy Grk borkóstolóra helyi falatkákkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Skafetin",
+            "tip": "Fructe de mare excelente și macaroane de casă."
+          },
+          {
+            "name": "Vinăria Bire",
+            "tip": "Cea mai bună locație pentru o degustare de vin Grk cu gustări."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Skafetin",
+            "tip": "Excellent seafood and homemade macaroni pasta."
+          },
+          {
+            "name": "Bire Winery",
+            "tip": "Best spot for a Grk wine tasting with local snacks."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberge von Lumbarda",
+            "tip": "Ein Spaziergang durch die Sandböden bei Dämmerung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Kap Ražnjić",
+            "tip": "Die einsame Ostspitze der Insel für totale Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lumbardai szőlőskertek",
+            "tip": "Séta a homokos talajú tőkék között szürkületkor.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ražnjić-fok",
+            "tip": "A sziget magányos keleti csücske a teljes nyugalomért.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgoriile din Lumbarda",
+            "tip": "O plimbare printre vițele de vie pe sol nisipos la amurg.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Capul Ražnjić",
+            "tip": "Extremitatea estică solitară a insulei pentru liniște totală.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Lumbarda Vineyards",
+            "tip": "A walk through the sandy-soil vines at dusk.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cape Raznjic",
+            "tip": "The lonely eastern tip of the island for total peace.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie Honig und Olivenöl direkt von den Bauern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon mézet és olívaolajat közvetlenül a termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați miere și ulei de măsline direct de la fermieri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy honey and olive oil directly from the farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Lumbarda ist sehr fußgängerfreundlich, tragen Sie bequeme Sandalen.",
+          "Buchen Sie Weinproben im Sommer im Voraus.",
+          "Die Sandstrände sind ideal für Familien mit kleinen Kindern.",
+          "Nehmen Sie genug Wasser für die Wanderung zwischen den Stränden mit."
+        ],
+        "hu": [
+          "Lumbarda gyalogosan könnyen bejárható, viseljen kényelmes szandált.",
+          "Nyáron érdemes előre foglalni a borkóstolókra.",
+          "A homokos strandok ideálisak kisgyermekes családoknak.",
+          "Vigyen magával elég vizet a strandok közötti sétához."
+        ],
+        "ro": [
+          "Lumbarda este ușor de explorat pe jos, purtați sandale confortabile.",
+          "Rezervați degustările de vin în avans în timpul verii.",
+          "Plajele cu nisip sunt ideale pentru familiile cu copii mici.",
+          "Luați suficientă apă pentru plimbarea între plaje."
+        ],
+        "en": [
+          "Lumbarda is very pedestrian-friendly, wear comfortable sandals.",
+          "Book wine tastings in advance during the summer season.",
+          "The sandy beaches are ideal for families with small children.",
+          "Take enough water for the walk between the beaches."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Lumbarda Harbor",
+          "coords": [
+            17.1714,
+            42.9286
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Fahrrad direkt im Zentrum beim Hafen.",
+            "hu": "Béreljen kerékpárt közvetlenül a központban, a kikötőnél.",
+            "ro": "Închiriați o bicicletă chiar în centru, lângă port.",
+            "en": "Rent a bike right in the center by the harbor."
+          }
+        },
+        {
+          "name": "Lumbardska psefizma",
+          "coords": [
+            17.1735,
+            42.9302
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für Geschichte vor der Fahrt zu den Stränden.",
+            "hu": "Rövid történelmi megálló a strandok felé vezető úton.",
+            "ro": "O scurtă oprire istorică înainte de drumul spre plaje.",
+            "en": "Short historical stop before heading to the beaches."
+          }
+        },
+        {
+          "name": "Bilin Žal",
+          "coords": [
+            17.1852,
+            42.9348
+          ],
+          "category": "beach",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Radweg entlang der Küste bietet tolle Ausblicke.",
+            "hu": "A part menti kerékpárút remek kilátást nyújt.",
+            "ro": "Pista de biciclete de-a lungul coastei oferă priveliști superbe.",
+            "en": "The coastal bike path offers great views."
+          }
+        },
+        {
+          "name": "Vela Pržina",
+          "coords": [
+            17.1885,
+            42.9252
+          ],
+          "category": "beach",
+          "arrive_at": "12:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der größte Sandstrand der Insel, perfekt für eine lange Mittagspause.",
+            "hu": "A sziget legnagyobb homokos strandja, tökéletes a hosszú ebédszünethez.",
+            "ro": "Cea mai mare plajă cu nisip de pe insulă, perfectă pentru o pauză lungă de prânz.",
+            "en": "The island's largest sandy beach, perfect for a long midday break."
+          }
+        },
+        {
+          "name": "Vineyard Tour & Grk Tasting",
+          "coords": [
+            17.1812,
+            42.9298
+          ],
+          "category": "gastro",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radeln Sie durch die Weinreben, die auf purem Sand wachsen.",
+            "hu": "Tekerjen át a szőlőültetvényeken, amelyek tiszta homokon nőnek.",
+            "ro": "Pedalați printre viile care cresc pe nisip pur.",
+            "en": "Cycle through the vineyards that grow on pure sand."
+          }
+        },
+        {
+          "name": "Lumbarda Waterfront Stroll",
+          "coords": [
+            17.1725,
+            42.9282
+          ],
+          "category": "harbor",
+          "arrive_at": "16:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Geben Sie die Fahrräder ab und genießen Sie ein Eis an der Riva.",
+            "hu": "Adja le a bicikliket, és fogyasszon el egy fagyit a riván.",
+            "ro": "Predați bicicletele și savurați o înghețată pe rivă.",
+            "en": "Return the bikes and enjoy a gelato on the riva."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Lumbarda am intensivsten. Von der Hafenpromenade geht es vorbei an antiken Fundstätten zu den beiden berühmten Sandstränden Bilin Žal und Vela Pržina. Die flache Landschaft zwischen den Weinreben ist ideal zum Radeln. Nach einem ausgiebigen Badetag führt der Weg durch die Grk-Weinberge zurück zum Zentrum, wo Sie den Tag gemütlich ausklingen lassen.",
+        "hu": "Kerékpárral fedezheti fel Lumbardát a legintenzívebben. A kikötőtől az ókori leletek mellett elhaladva juthat el a két híres homokos strandhoz, a Bilin Žalhoz és a Vela Pržinához. A szőlőültetvények közötti sík vidék ideális a tekeréshez. Egy kiadós fürdőzés után az út a Grk-szőlőskerteken keresztül vezet vissza a központba egy esti fagyizásra.",
+        "ro": "Explorarea Lumbardei cu bicicleta este cea mai intensă experiență. De la faleză, treceți pe lângă situri antice către cele două plaje faimoase cu nisip, Bilin Žal și Vela Pržina. Peisajul plat printre viile de vin este ideal pentru ciclism. După o zi lungă de plajă, drumul vă poartă înapoi prin podgoriile de Grk spre centru, pentru o seară relaxantă.",
+        "en": "Cycling is the most intense way to explore Lumbarda. From the harbor, ride past ancient sites to the two famous sandy beaches, Bilin Zal and Vela Przina. The flat landscape between the vines is ideal for easy cycling. After a long day of swimming, the path leads back through the Grk vineyards to the center for a relaxing evening gelato."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba More",
+            "tip": "Direkt am Strand Vela Pržina, ideal für einen Snack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba More",
+            "tip": "Közvetlenül a Vela Pržina strandon, ideális egy falatozáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba More",
+            "tip": "Chiar pe plaja Vela Pržina, ideală pentru o gustare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba More",
+            "tip": "Right on Vela Przina beach, ideal for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Tatinja Bucht",
+            "tip": "Ruhigerer Küstenabschnitt abseits der Hauptstrände.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tatinja-öböl",
+            "tip": "Csendesebb partszakasz a fő strandoktól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Tatinja",
+            "tip": "O zonă de coastă mai liniștită, departe de plajele principale.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Tatinja Bay",
+            "tip": "Quieter coastal stretch away from the main beaches.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weingut Cebalo",
+            "tip": "Holen Sie sich eine Flasche Grk als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cebalo Borászat",
+            "tip": "Vigyen haza egy üveg Grk bort szuvenírnek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinăria Cebalo",
+            "tip": "Luați o sticlă de vin Grk ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cebalo Winery",
+            "tip": "Pick up a bottle of Grk wine as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen in Lumbarda sind meist verkehrsarm und sicher.",
+          "Parken Sie Ihr Rad immer an den dafür vorgesehenen Ständern.",
+          "Nutzen Sie den Schatten der Pinienwälder bei der Fahrt.",
+          "Sonnenschutz ist beim Radfahren am Meer ein Muss."
+        ],
+        "hu": [
+          "Lumbarda utcái többnyire forgalommentesek és biztonságosak.",
+          "Mindig a kijelölt tárolókban parkolja le a kerékpárt.",
+          "Használja ki a fenyőerdők árnyékát tekerés közben.",
+          "A napvédelem kötelező a tengerparti biciklizésnél."
+        ],
+        "ro": [
+          "Străzile din Lumbarda sunt în general puțin circulate și sigure.",
+          "Parcați întotdeauna bicicleta în locurile special amenajate.",
+          "Profitați de umbra pădurilor de pini în timpul deplasării.",
+          "Protecția solară este obligatorie când pedalați pe malul mării."
+        ],
+        "en": [
+          "Lumbarda's streets are mostly traffic-free and safe.",
+          "Always park your bike at designated stands.",
+          "Take advantage of the pine forest shade while riding.",
+          "Sun protection is a must when cycling by the sea."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Center Cluster: Harbor Walk",
+          "coords": [
+            17.1714,
+            42.9286
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am großen Parkplatz beim Ortseingang.",
+            "hu": "Parkoljon a falu bejáratánál lévő nagy parkolóban.",
+            "ro": "Parcați în parcarea mare de la intrarea în sat.",
+            "en": "Park at the large parking lot at the village entrance."
+          }
+        },
+        {
+          "name": "Center Cluster: Crkva sv. Roka",
+          "coords": [
+            17.1721,
+            42.9295
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spaziergang vom Parkplatz durch die engen Gassen.",
+            "hu": "Séta a parkolótól a szűk utcácskákon keresztül.",
+            "ro": "Plimbare de la parcare prin străduțele înguste.",
+            "en": "Walk from the parking lot through the narrow alleys."
+          }
+        },
+        {
+          "name": "Center Cluster: Lumbardska psefizma",
+          "coords": [
+            17.1735,
+            42.9302
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Der Park bietet guten Schatten und Infotafeln.",
+            "hu": "A park jó árnyékot és információs táblákat kínál.",
+            "ro": "Parcul oferă umbră și panouri informative.",
+            "en": "The park offers good shade and info boards."
+          }
+        },
+        {
+          "name": "Beach Cluster: Vela Pržina",
+          "coords": [
+            17.1885,
+            42.9252
+          ],
+          "category": "beach",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz direkt hinter dem Strand (gebührenpflichtig).",
+            "hu": "Hajtson a közvetlenül a strand mögötti parkolóba (fizetős).",
+            "ro": "Conduceți până la parcarea din spatele plajei (cu plată).",
+            "en": "Drive to the parking lot right behind the beach (paid)."
+          }
+        },
+        {
+          "name": "Beach Cluster: Bilin Žal Lunch",
+          "coords": [
+            17.1852,
+            42.9348
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Essen mit Blick auf die Inseln des Archipels.",
+            "hu": "Ebéd kilátással a szigetvilágra.",
+            "ro": "Prânz cu vedere la insulele arhipelagului.",
+            "en": "Lunch with a view of the archipelago islands."
+          }
+        },
+        {
+          "name": "Vineyard Cluster: Grk Tasting",
+          "coords": [
+            17.1812,
+            42.9298
+          ],
+          "category": "gastro",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Kurze Fahrt ins Herz der Weinberge.",
+            "hu": "Rövid autózás a szőlőskertek szívébe.",
+            "ro": "Scurtă deplasare în inima podgoriilor.",
+            "en": "Short drive into the heart of the vineyards."
+          }
+        },
+        {
+          "name": "Vineyard Cluster: Sunset View",
+          "coords": [
+            17.1755,
+            42.9275
+          ],
+          "category": "sunset",
+          "arrive_at": "16:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein ruhiger Platz am Rande der Weinfelder.",
+            "hu": "Csendes hely a szőlőmezők szélén.",
+            "ro": "Un loc liniștit la marginea câmpurilor de viță de vie.",
+            "en": "A quiet spot at the edge of the vine fields."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto nutzen Sie die Cluster-Philosophie: Parken Sie im Zentrum für einen Rundgang zu St. Rochus und der antiken Psefizma. Danach führt eine kurze Fahrt zum Strand-Cluster, wo Sie zwischen Vela Pržina und Bilin Žal wählen können. Den Nachmittag verbringen Sie im Wein-Cluster bei einer exklusiven Verkostung, bevor Sie den Tag mit einem Blick über die sonnenübergossenen Felder von Lumbarda beenden.",
+        "hu": "Autóval a klaszter-filozófiát követve fedezheti fel a környéket: parkoljon a központban a Szent Rókus templom és az ókori pszephizma megtekintéséhez. Ezután egy rövid autózás következik a strand-klaszterhez, ahol Vela Pržina és Bilin Žal várja. A délutánt a bor-klaszterben töltheti egy exkluzív kóstolón, majd a napot a Lumbarda feletti naplementével zárhatja.",
+        "ro": "Cu mașina, urmați filozofia clusterelor: parcați în centru pentru un tur la Sf. Roch și situl antic Psefizma. Apoi, o scurtă călătorie vă duce la clusterul de plaje, unde puteți alege între Vela Pržina și Bilin Žal. După-amiaza este dedicată clusterului viticol pentru o degustare exclusivă, înainte de a încheia ziua cu o priveliște asupra câmpurilor însorite din Lumbarda.",
+        "en": "By car, follow the cluster philosophy: park in the center for a walk to St. Roch and the ancient Psefizma. Then, a short drive takes you to the beach cluster, where you can enjoy Vela Przina and Bilin Zal. Spend the afternoon in the wine cluster with an exclusive tasting, before ending the day with a stunning view over the sun-drenched fields of Lumbarda."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agroturizam Zure",
+            "tip": "Hausgemachte Produkte und fangfrischer Fisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zure Agroturizmus",
+            "tip": "Házias termékek és frissen fogott halak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agroturism Zure",
+            "tip": "Produse de casă și pește proaspăt prins."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agroturizam Zure",
+            "tip": "Homemade products and fresh catch of the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pinienwald bei Vela Pržina",
+            "tip": "Schattige Plätze für eine Siesta im Auto oder daneben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fenyőerdő Vela Pržina mellett",
+            "tip": "Árnyékos helyek egy sziesztához az autó mellett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de pini de lângă Vela Pržina",
+            "tip": "Locuri umbrite pentru o siestă lângă mașină.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pine forest near Vela Przina",
+            "tip": "Shady spots for a siesta near your car.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Vinum Bonum",
+            "tip": "Gute Auswahl an lokalen Weinen und Likören."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vinum Bonum",
+            "tip": "Helyi borok és likőrök széles választéka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinum Bonum",
+            "tip": "O selecție bună de vinuri și lichioruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vinum Bonum",
+            "tip": "Great selection of local wines and liqueurs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze an den Stränden können im Hochsommer schnell voll sein.",
+          "Die Straßen in den Weinbergen sind teilweise sehr eng.",
+          "Don't drink and drive – die Weinverkostung lieber am Ende planen.",
+          "Ein Mietwagen ermöglicht auch Ausflüge ins nahegelegene Korčula-Stadt."
+        ],
+        "hu": [
+          "A strandok melletti parkolók nyáron hamar megtelnek.",
+          "A szőlőskertek közötti utak néhol nagyon szűkek.",
+          "Ne vezessen alkoholos befolyásoltság alatt – a borkóstolót a nap végére tegye.",
+          "A bérautó lehetővé teszi a közeli Korčula városának meglátogatását is."
+        ],
+        "ro": [
+          "Parcările de lângă plaje se pot umple repede în plin sezon.",
+          "Drumurile dintre podgorii sunt uneori foarte înguste.",
+          "Nu conduceți după ce ați băut – planificați degustarea la finalul zilei.",
+          "O mașină închiriată permite și excursii în orașul Korčula din apropiere."
+        ],
+        "en": [
+          "Parking lots near beaches can fill up quickly in peak summer.",
+          "Roads through the vineyards are sometimes very narrow.",
+          "Don't drink and drive – plan your wine tasting at the end of the day.",
+          "A rental car also allows for quick trips to nearby Korcula Town."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Lumbarda Central Bus Stop",
+          "coords": [
+            17.1714,
+            42.9286
+          ],
+          "category": "harbor",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der Bus von Korčula hält direkt im Zentrum beim Hafen.",
+            "hu": "A Korčulából érkező busz közvetlenül a központban, a kikötőnél áll meg.",
+            "ro": "Autobuzul din Korčula oprește chiar în centru, lângă port.",
+            "en": "The bus from Korcula stops right in the center by the harbor."
+          }
+        },
+        {
+          "name": "Crkva sv. Roka",
+          "coords": [
+            17.1721,
+            42.9295
+          ],
+          "category": "religious",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Leichter Spaziergang von der Bushaltestelle bergauf.",
+            "hu": "Könnyű séta a buszmegállótól felfelé.",
+            "ro": "O plimbare ușoară de la stația de autobuz în sus.",
+            "en": "Easy walk uphill from the bus stop."
+          }
+        },
+        {
+          "name": "Lumbardska psefizma",
+          "coords": [
+            17.1735,
+            42.9302
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte in Lumbarda.",
+            "hu": "Történelemkedvelőknek kötelező látnivaló Lumbardában.",
+            "ro": "O vizită obligatorie pentru pasionații de istorie din Lumbarda.",
+            "en": "A must-see for history buffs in Lumbarda."
+          }
+        },
+        {
+          "name": "Local Gastronomy Break",
+          "coords": [
+            17.1745,
+            42.9315
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Viele Restaurants liegen in Gehentfernung zum Zentrum.",
+            "hu": "Számos étterem található sétatávolságra a központtól.",
+            "ro": "Multe restaurante se află la câțiva pași de centru.",
+            "en": "Many restaurants are within walking distance of the center."
+          }
+        },
+        {
+          "name": "Bilin Žal Beach (via Shuttle)",
+          "coords": [
+            17.1852,
+            42.9348
+          ],
+          "category": "beach",
+          "arrive_at": "13:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "In der Saison gibt es kleine Shuttle-Busse zu den Stränden.",
+            "hu": "A szezonban kis transzferbuszok járnak a strandokhoz.",
+            "ro": "În sezon, există mici microbuze către plaje.",
+            "en": "In season, there are small shuttle buses to the beaches."
+          }
+        },
+        {
+          "name": "Lumbarda Riva Evening",
+          "coords": [
+            17.1714,
+            42.9286
+          ],
+          "category": "harbor",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre vor der Rückfahrt nach Korčula.",
+            "hu": "Élvezze a hangulatot a Korčulába való visszautazás előtt.",
+            "ro": "Bucurați-vă de atmosferă înainte de întoarcerea în Korčula.",
+            "en": "Enjoy the atmosphere before your bus ride back to Korcula."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln erreichen Sie Lumbarda bequem von Korčula-Stadt aus. Ihr Tag konzentriert sich auf das Dorfzentrum mit der St. Rochus-Kirche und der Psefizma-Stätte. Nach einem gemütlichen Mittagessen bringt Sie ein lokaler Shuttle oder ein kurzer Spaziergang zum Sandstrand Bilin Žal. Der Tag endet wieder an der Bushaltestelle am Hafen, wo Sie das mediterrane Flair in vollen Zügen genießen können.",
+        "hu": "Tömegközlekedéssel kényelmesen elérheti Lumbardát Korčula városából. A nap a falu központjára összpontosít: a Szent Rókus templomra és a pszephizmára. Egy kellemes ebéd után helyi járattal vagy rövid sétával juthat el a homokos Bilin Žal strandra. A nap ismét a kikötői buszmegállónál zárul, ahol kiélvezheti a mediterrán hangulatot a visszaindulás előtt.",
+        "ro": "Cu transportul public, ajungeți ușor în Lumbarda din orașul Korčula. Ziua se concentrează pe centrul satului, cu biserica Sf. Roch și situl Psefizma. După un prânz relaxat, un shuttle local sau o scurtă plimbare vă duce la plaja cu nisip Bilin Žal. Ziua se încheie din nou la stația de autobuz din port, unde vă puteți bucura de atmosfera mediteraneană.",
+        "en": "By public transit, you can easily reach Lumbarda from Korcula Town. Your day focuses on the village center with St. Roch church and the Psefizma site. After a leisurely lunch, a local shuttle or a short walk takes you to the sandy Bilin Zal beach. The day ends back at the harbor bus stop, where you can soak up the Mediterranean flair before heading back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Torkul",
+            "tip": "Gute Pizzen und lokale Gerichte im Herzen des Ortes."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Torkul Pizzéria",
+            "tip": "Jó pizzák és helyi ételek a falu szívében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Torkul",
+            "tip": "Pizza bună și preparate locale în inima satului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Torkul",
+            "tip": "Good pizzas and local dishes in the heart of the village."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Hafen",
+            "tip": "Kleiner Park mit Bänken zum Warten auf den Bus.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői park",
+            "tip": "Kis park padokkal, ideális a buszra várva.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul din port",
+            "tip": "Un mic parc cu bănci, ideal pentru așteptarea autobuzului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Park",
+            "tip": "Small park with benches, ideal while waiting for the bus.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop Lumbarda",
+            "tip": "Postkarten und kleine handgemachte Geschenke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Lumbarda Szuvenírbolt",
+            "tip": "Képeslapok és apró, kézzel készített ajándékok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri Lumbarda",
+            "tip": "Vederi și mici cadouri lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lumbarda Souvenir Shop",
+            "tip": "Postcards and small handmade gifts."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan genau, besonders am Wochenende.",
+          "Die Fahrkarten können meist direkt beim Busfahrer gekauft werden.",
+          "In der Hochsaison können die Busse sehr voll sein.",
+          "Der Fußweg vom Zentrum zum Strand dauert etwa 15-20 Minuten."
+        ],
+        "hu": [
+          "Ellenőrizze pontosan a buszmenetrendet, különösen hétvégén.",
+          "A jegyeket általában közvetlenül a sofőrnél lehet megvásárolni.",
+          "A főszezonban a buszok nagyon zsúfoltak lehetnek.",
+          "A séta a központtól a strandig kb. 15-20 percet vesz igénybe."
+        ],
+        "ro": [
+          "Verificați cu atenție orarul autobuzelor, mai ales în weekend.",
+          "Biletele pot fi cumpărate de obicei direct de la șofer.",
+          "În plin sezon, autobuzele pot fi foarte aglomerate.",
+          "Drumul pe jos de la centru la plajă durează aproximativ 15-20 de minute."
+        ],
+        "en": [
+          "Check the bus schedule carefully, especially on weekends.",
+          "Tickets can usually be purchased directly from the driver.",
+          "Buses can be very crowded during high season.",
+          "The walk from the center to the beach takes about 15-20 minutes."
+        ]
+      }
+    }
+  }
+}

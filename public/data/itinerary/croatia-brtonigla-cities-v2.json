@@ -1,0 +1,1070 @@
+{
+  "city_id": "croatia-brtonigla-cities-v2",
+  "anchor": {
+    "name": "Brtonigla",
+    "coords": [
+      13.6333,
+      45.3833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 5.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Župna crkva sv. Zenona",
+          "coords": [
+            13.6351,
+            45.3812
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den 36 Meter hohen Glockenturm aus dem 19. Jahrhundert.",
+            "hu": "Csodálja meg a 19. századi, 36 méter magas harangtornyot.",
+            "ro": "Admirați clopotnița de 36 de metri înălțime, construită în secolul al XIX-lea.",
+            "en": "Admire the 19th-century bell tower standing 36 meters tall."
+          }
+        },
+        {
+          "name": "Altstadtspaziergang",
+          "coords": [
+            13.6345,
+            45.3815
+          ],
+          "category": "square",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charmanten Steinhäuser in den engen Gassen.",
+            "hu": "Fedezze fel a szűk utcák bájos kőházait.",
+            "ro": "Descoperiți casele de piatră fermecătoare de pe străzile înguste.",
+            "en": "Discover the charming stone houses in the narrow streets."
+          }
+        },
+        {
+          "name": "Park prirode Škarline",
+          "coords": [
+            13.651,
+            45.388
+          ],
+          "category": "park",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Folgen Sie dem Bachlauf zu den kleinen Wasserfällen im grünen Canyon.",
+            "hu": "Kövesse a patak menti ösvényt a kis vízesésekhez a zöld kanyonban.",
+            "ro": "Urmați poteca de-a lungul pârâului către micile cascade din canionul verde.",
+            "en": "Follow the stream path to the small waterfalls in the green canyon."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            13.634,
+            45.382
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Probieren Sie istrische Nudeln (Fuži) mit frischen Trüffeln.",
+            "hu": "Kóstolja meg az isztriai tésztát (fuži) friss szarvasgombával.",
+            "ro": "Gustați pastele istriene (fuži) cu trufe proaspete.",
+            "en": "Try Istrian pasta (fuži) with fresh truffles."
+          }
+        },
+        {
+          "name": "Špilja Mramornica",
+          "coords": [
+            13.618,
+            45.378
+          ],
+          "category": "historical",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine der größten Höhlen Istriens mit beeindruckenden Stalaktiten.",
+            "hu": "Isztria egyik legnagyobb barlangja, lenyűgöző cseppkövekkel.",
+            "ro": "Una dintre cele mai mari peșteri din Istria, cu stalactite impresionante.",
+            "en": "One of the largest caves in Istria with impressive stalactites."
+          }
+        },
+        {
+          "name": "Helyi bor- és olívaolaj bolt",
+          "coords": [
+            13.6335,
+            45.381
+          ],
+          "category": "market",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kaufen Sie lokales Olivenöl und Malvasia-Wein direkt beim Erzeuger.",
+            "hu": "Vásároljon helyi olívaolajat és malvaziját közvetlenül a termelőtől.",
+            "ro": "Cumpărați ulei de măsline local și vin Malvasia direct de la producător.",
+            "en": "Buy local olive oil and Malvasia wine directly from the producer."
+          }
+        },
+        {
+          "name": "San Rocco",
+          "coords": [
+            13.633,
+            45.3805
+          ],
+          "category": "gastro",
+          "arrive_at": "17:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Aperitif in diesem preisgekrönten Gourmet-Hotel.",
+            "hu": "Élvezzen egy aperitífet ebben a díjnyertes gourmet hotelben.",
+            "ro": "Savurați un aperitiv în acest hotel gourmet premiat.",
+            "en": "Enjoy an aperitif in this award-winning gourmet hotel."
+          }
+        },
+        {
+          "name": "Sonnenuntergang über den Weinbergen",
+          "coords": [
+            13.632,
+            45.383
+          ],
+          "category": "sunset",
+          "arrive_at": "18:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie die Sonne hinter den istrischen Hügeln versinkt.",
+            "hu": "Nézze végig, ahogy a nap eltűnik az isztriai dombok mögött.",
+            "ro": "Priviți cum soarele apune în spatele dealurilor istriene.",
+            "en": "Watch the sun disappear behind the Istrian hills."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das spirituelle Herz von Brtonigla in der Zenon-Kirche und schlendern durch die historischen Gassen. Danach führt ein kurzer Marsch in die unberührte Natur des Škarline-Parks, wo Sie am Bach entspannen können. Mittags genießen Sie die weltberühmte istrische Küche in einer gemütlichen Konoba. Der Nachmittag steht im Zeichen der geheimnisvollen Mramornica-Höhle, gefolgt von einer exklusiven Weinverkostung im San Rocco, bevor der Tag mit einem goldenen Sonnenuntergang über den Weinreben endet.",
+        "hu": "Reggel Brtonigla spirituális központját, a Zenon-templomot ismerheti meg, majd barangolhat a történelmi óvárosban. Ezután egy rövid séta vezet a Škarline natúrpark érintetlen természetébe, ahol a patakparton pihenhet meg. Ebédre kóstolja meg a világhírű isztriai konyhát egy hangulatos konobában. A délután a titokzatos Mramornica-barlang felfedezésével telik, amit egy exkluzív borkóstoló követ a San Rocco kertjében, végül pedig a szőlőültetvények feletti aranyló naplemente zárja a napot.",
+        "ro": "Dimineața veți explora inima spirituală a localității Brtonigla la Biserica Sf. Zenon și vă veți plimba pe străzile istorice. Apoi, o scurtă drumeție vă duce în natura virgină a parcului Škarline, unde vă puteți relaxa lângă pârâu. La prânz, savurați faimoasa bucătărie istriană într-o konoba primitoare. După-amiaza este dedicată explorării misterioasei peșteri Mramornica, urmată de o degustare exclusivă de vinuri la San Rocco, înainte ca ziua să se încheie cu un apus auriu peste podgorii.",
+        "en": "In the morning, explore the spiritual heart of Brtonigla at St. Zenon Church and wander through the historic alleys. Then, a short walk leads you to the untouched nature of Škarline Park, where you can relax by the stream. For lunch, savor world-famous Istrian cuisine in a cozy konoba. The afternoon is spent discovering the mysterious Mramornica Cave, followed by an exclusive wine tasting at San Rocco, before the day concludes with a golden sunset over the vineyards."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Istrische Trüffel",
+            "tip": "Brtonigla ist bekannt für seine hochwertigen weißen und schwarzen Trüffel."
+          },
+          {
+            "name": "Konoba Astarea",
+            "tip": "Traditionelle Gerichte unter der 'Peka' (Glocke) zubereitet."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isztriai szarvasgomba",
+            "tip": "Brtonigla híres a kiváló minőségű fehér és fekete szarvasgombájáról."
+          },
+          {
+            "name": "Konoba Astarea",
+            "tip": "Hagyományos ételek 'peka' (harang) alatt sütve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trufe istriene",
+            "tip": "Brtonigla este renumită pentru trufele sale albe și negre de înaltă calitate."
+          },
+          {
+            "name": "Konoba Astarea",
+            "tip": "Mâncăruri tradiționale gătite sub 'peka' (clopot)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Istrian Truffles",
+            "tip": "Brtonigla is famous for its high-quality white and black truffles."
+          },
+          {
+            "name": "Konoba Astarea",
+            "tip": "Traditional dishes cooked under the 'peka' (iron bell)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Škarline Naturpark",
+            "tip": "Ein ruhiger Canyon, ideal zum Meditieren am Wasser.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Škarline natúrpark",
+            "tip": "Csendes kanyon, ideális meditációhoz a vízparton.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Natural Škarline",
+            "tip": "Un canion liniștit, ideal pentru meditație lângă apă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Škarline Nature Park",
+            "tip": "A quiet canyon, ideal for meditating by the water.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Veralda Weingut",
+            "tip": "Hervorragende lokale Weine und erstklassiges Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Veralda borászat",
+            "tip": "Kiváló helyi borok és prémium olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama Veralda",
+            "tip": "Vinuri locale excelente și ulei de măsline premium."
+          }
+        ],
+        "en": [
+          {
+            "name": "Veralda Winery",
+            "tip": "Excellent local wines and premium olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Brtonigla ist klein, Sie können alles bequem zu Fuß erreichen.",
+          "Tragen Sie für den Škarline-Park bequeme Schuhe.",
+          "Die Höhle Mramornica hat konstante 14 Grad, nehmen Sie eine Jacke mit.",
+          "Reservieren Sie für das Abendessen im San Rocco im Voraus."
+        ],
+        "hu": [
+          "Brtonigla kicsi, mindent kényelmesen elérhet gyalog.",
+          "Viseljen kényelmes cipőt a Škarline natúrparkhoz.",
+          "A Mramornica-barlangban állandó 14 fok van, vigyen kabátot.",
+          "Foglaljon asztalt előre, ha a San Rocco-ban vacsorázna."
+        ],
+        "ro": [
+          "Brtonigla este mică, puteți ajunge peste tot pe jos.",
+          "Purtați încălțăminte confortabilă pentru parcul Škarline.",
+          "Peștera Mramornica are o temperatură constantă de 14 grade, luați o jachetă.",
+          "Rezervați din timp pentru cină la San Rocco."
+        ],
+        "en": [
+          "Brtonigla is small, everything is easily accessible on foot.",
+          "Wear comfortable shoes for the Škarline Nature Park.",
+          "Mramornica Cave is a constant 14 degrees, bring a jacket.",
+          "Book a table in advance for dinner at San Rocco."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Župna crkva sv. Zenona",
+          "coords": [
+            13.6351,
+            45.3812
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum mit Blick auf den Kirchturm.",
+            "hu": "Központi indulópont kilátással a templomtoronyra.",
+            "ro": "Punct de plecare central cu vedere la clopotniță.",
+            "en": "Central starting point with a view of the church tower."
+          }
+        },
+        {
+          "name": "Altstadt-Rundfahrt",
+          "coords": [
+            13.634,
+            45.382
+          ],
+          "category": "square",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radeln Sie entspannt durch die alten Gassen.",
+            "hu": "Kerekezzen kényelmesen a régi utcákon keresztül.",
+            "ro": "Pedalați relaxat prin străzile vechi.",
+            "en": "Cycle leisurely through the old streets."
+          }
+        },
+        {
+          "name": "Park prirode Škarline",
+          "coords": [
+            13.651,
+            45.388
+          ],
+          "category": "park",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie die Räder am Eingang ab und erkunden Sie den Canyon zu Fuß.",
+            "hu": "Hagyja a bicikliket a bejáratnál, és fedezze fel a kanyont gyalog.",
+            "ro": "Lăsați bicicletele la intrare și explorați canionul pe jos.",
+            "en": "Leave the bikes at the entrance and explore the canyon on foot."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            13.634,
+            45.382
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Energieschub mit istrischen Spezialitäten.",
+            "hu": "Energialöket isztriai specialitásokkal.",
+            "ro": "Prânz energizant cu specialități istriene.",
+            "en": "Energy boost with Istrian specialties."
+          }
+        },
+        {
+          "name": "Špilja Mramornica",
+          "coords": [
+            13.618,
+            45.378
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine kühle Pause während der Fahrradtour.",
+            "hu": "Hűsítő pihenő a kerékpártúra során.",
+            "ro": "O pauză răcoroasă în timpul turului cu bicicleta.",
+            "en": "A cool break during the bike tour."
+          }
+        },
+        {
+          "name": "Rundfahrt durch die Weinberge",
+          "coords": [
+            13.625,
+            45.395
+          ],
+          "category": "park",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Fahrt durch die 'vier Erden' von Brtonigla.",
+            "hu": "Élvezze a biciklizést Brtonigla 'négy földjén' keresztül.",
+            "ro": "Bucurați-vă de plimbarea prin cele 'patru pământuri' din Brtonigla.",
+            "en": "Enjoy the ride through the 'four earths' of Brtonigla."
+          }
+        },
+        {
+          "name": "San Rocco",
+          "coords": [
+            13.633,
+            45.3805
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Belohnung nach der Tour im schönen Garten.",
+            "hu": "Jutalom a túra után a gyönyörű kertben.",
+            "ro": "Răsplată după tur în grădina frumoasă.",
+            "en": "Reward after the tour in the beautiful garden."
+          }
+        },
+        {
+          "name": "Aussichtspunkt-Finale",
+          "coords": [
+            13.632,
+            45.383
+          ],
+          "category": "sunset",
+          "arrive_at": "17:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für das letzte Urlaubsfoto.",
+            "hu": "A tökéletes hely az utolsó nyaralási fotóhoz.",
+            "ro": "Locul perfect pentru ultima fotografie de vacanță.",
+            "en": "The perfect spot for the last holiday photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie Brtonigla auf zwei Rädern. Die Tour beginnt im historischen Zentrum und führt Sie schnell in den grünen Škarline-Naturpark. Nach einer kräftigen Mahlzeit radeln Sie zur Mramornica-Höhle und erkunden anschließend die malerischen Weinberge, für die die Region berühmt ist. Den Abschluss bildet ein entspannter Drink im San Rocco und ein atemberaubender Ausblick auf die istrische Hügellandschaft.",
+        "hu": "Fedezze fel Brtoniglát két keréken. A túra a történelmi központban indul, majd gyorsan eléri a zöldellő Škarline natúrparkot. Egy bőséges ebéd után a Mramornica-barlanghoz kerekezhet, majd felfedezheti a festői szőlőültetvényeket, amelyekről a régió híres. A napot egy pihentető ital zárja a San Rocco-ban, csodálatos kilátással az isztriai dombokra.",
+        "ro": "Experimentați Brtonigla pe două roți. Turul începe în centrul istoric și vă duce rapid în parcul natural verde Škarline. După o masă copioasă, pedalați spre peștera Mramornica și explorați apoi podgoriile pitorești pentru care regiunea este faimoasă. Finalul este marcat de o băutură relaxantă la San Rocco și o priveliște uluitoare asupra dealurilor istriene.",
+        "en": "Experience Brtonigla on two wheels. The tour begins in the historic center and quickly takes you to the lush Škarline Nature Park. After a hearty meal, cycle to the Mramornica Cave and then explore the picturesque vineyards for which the region is famous. The day ends with a relaxing drink at San Rocco and a breathtaking view of the Istrian hills."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Malvasia und Teran sind die Stars der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "A Malvazija és a Teran a régió sztárjai."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Malvasia și Teran sunt vedetele regiunii."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Malvasia and Teran are the stars of the region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Weinberge",
+            "tip": "Suchen Sie sich einen ruhigen Platz zwischen den Reben.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szőlőültetvények",
+            "tip": "Keressen egy csendes helyet a tőkék között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Podgorii",
+            "tip": "Găsiți un loc liniștit printre rândurile de viță de vie.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vineyards",
+            "tip": "Find a quiet spot between the vines.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Imker",
+            "tip": "Probieren Sie den erstklassigen istrischen Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méhészek",
+            "tip": "Kóstolja meg a kiváló isztriai mézet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Apicultori locali",
+            "tip": "Gustați mierea istriană de primă clasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Beekeepers",
+            "tip": "Try the top-quality Istrian honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind meist verkehrsarm und ideal für Radfahrer.",
+          "Es gibt einige Steigungen, ein E-Bike ist empfehlenswert.",
+          "Nehmen Sie ausreichend Wasser mit, besonders im Sommer."
+        ],
+        "hu": [
+          "Az utak forgalma csekély, ideális a kerékpárosoknak.",
+          "Vannak emelkedők, egy elektromos kerékpár ajánlott.",
+          "Vigyen magával elég vizet, különösen nyáron."
+        ],
+        "ro": [
+          "Drumurile au trafic redus, fiind ideale pentru bicicliști.",
+          "Există câteva pante, o bicicletă electrică este recomandată.",
+          "Luați suficientă apă cu voi, mai ales vara."
+        ],
+        "en": [
+          "The roads are mostly quiet and ideal for cyclists.",
+          "There are some climbs, an e-bike is recommended.",
+          "Take enough water with you, especially in summer."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Župna crkva sv. Zenona (Cluster A)",
+          "coords": [
+            13.6351,
+            45.3812
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz im Ort nutzen.",
+            "hu": "Használja a faluközponti parkolót.",
+            "ro": "Folosiți parcarea centrală din localitate.",
+            "en": "Use the central parking in the village."
+          }
+        },
+        {
+          "name": "Altstadtbummel (Cluster A)",
+          "coords": [
+            13.634,
+            45.3815
+          ],
+          "category": "square",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß durch die historischen Gassen.",
+            "hu": "Gyalogosan a történelmi utcákon keresztül.",
+            "ro": "La pas prin străzile istorice.",
+            "en": "On foot through the historic streets."
+          }
+        },
+        {
+          "name": "Park prirode Škarline (Cluster B)",
+          "coords": [
+            13.651,
+            45.388
+          ],
+          "category": "park",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum Naturpark-Eingang.",
+            "hu": "Rövid autózás a natúrpark bejáratához.",
+            "ro": "Scurtă călătorie cu mașina până la intrarea în parcul natural.",
+            "en": "Short drive to the nature park entrance."
+          }
+        },
+        {
+          "name": "Mittagessen in Brtonigla (Cluster A)",
+          "coords": [
+            13.634,
+            45.382
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Rückkehr ins Dorfzentrum für das Mittagessen.",
+            "hu": "Visszatérés a falu központjába ebédre.",
+            "ro": "Revenire în centrul satului pentru prânz.",
+            "en": "Return to the village center for lunch."
+          }
+        },
+        {
+          "name": "Špilja Mramornica (Cluster C)",
+          "coords": [
+            13.618,
+            45.378
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt vor der Höhle vorhanden.",
+            "hu": "Parkoló közvetlenül a barlang előtt.",
+            "ro": "Parcare disponibilă chiar în fața peșterii.",
+            "en": "Parking available right in front of the cave."
+          }
+        },
+        {
+          "name": "San Rocco (Cluster A)",
+          "coords": [
+            13.633,
+            45.3805
+          ],
+          "category": "gastro",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die exklusive Atmosphäre.",
+            "hu": "Élvezze az exkluzív hangulatot.",
+            "ro": "Bucurați-vă de atmosfera exclusivistă.",
+            "en": "Enjoy the exclusive atmosphere."
+          }
+        },
+        {
+          "name": "Weinverkostung (Cluster A)",
+          "coords": [
+            13.632,
+            45.381
+          ],
+          "category": "market",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kaufen Sie ein paar Flaschen für zu Hause.",
+            "hu": "Vásároljon pár palackkal otthonra.",
+            "ro": "Cumpărați câteva sticle pentru acasă.",
+            "en": "Buy a few bottles for home."
+          }
+        },
+        {
+          "name": "Naplemente-kilátó",
+          "coords": [
+            13.632,
+            45.383
+          ],
+          "category": "sunset",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz zum Aussichtspunkt.",
+            "hu": "Rövid séta a parkolótól a kilátópontig.",
+            "ro": "Scurtă plimbare de la parcare la punctul de belvedere.",
+            "en": "Short walk from the parking to the viewpoint."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie Brtonigla und seine Umgebung flexibel. Beginnen Sie im Zentrum, besuchen Sie die Naturwunder des Škarline-Parks und kehren Sie für ein authentisches Mittagessen zurück. Am Nachmittag wartet die Mramornica-Höhle, bevor Sie den Tag luxuriös im San Rocco und bei einer Weinverkostung ausklingen lassen. Ein Tag voller Kontraste zwischen Unterwelt, Natur und Gourmet-Genuss.",
+        "hu": "Autóval rugalmasan fedezheti fel Brtoniglát és környékét. Kezdjen a központban, látogasson el a Škarline-park természeti csodáihoz, majd térjen vissza egy autentikus ebédre. Délután a Mramornica-barlang várja, mielőtt a napot luxuskörülmények között, a San Rocco-ban és egy borkóstolón zárná. Egy nap, amely tele van kontrasztokkal az alvilág, a természet és a gourmet élvezetek között.",
+        "ro": "Cu mașina, veți explora Brtonigla și împrejurimile sale într-un mod flexibil. Începeți în centru, vizitați minunile naturale ale parcului Škarline și reveniți pentru un prânz autentic. După-amiaza vă așteaptă peștera Mramornica, înainte de a încheia ziua luxos la San Rocco și la o degustare de vinuri. O zi plină de contraste între lumea subterană, natură și delicii gourmet.",
+        "en": "By car, you can flexibly explore Brtonigla and its surroundings. Start in the center, visit the natural wonders of Škarline Park, and return for an authentic lunch. In the afternoon, Mramornica Cave awaits, before concluding the day luxuriously at San Rocco and with a wine tasting. A day full of contrasts between the underworld, nature, and gourmet delights."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "San Rocco Restaurant",
+            "tip": "Eines der besten Restaurants Kroatiens."
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Rocco étterem",
+            "tip": "Horvátország egyik legjobb étterme."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul San Rocco",
+            "tip": "Unul dintre cele mai bune restaurante din Croația."
+          }
+        ],
+        "en": [
+          {
+            "name": "San Rocco Restaurant",
+            "tip": "One of the best restaurants in Croatia."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkplatz Škarline",
+            "tip": "Oft sehr ruhig, ideal für eine Pause in der Natur.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Škarline parkoló",
+            "tip": "Gyakran nagyon csendes, ideális egy erdei pihenőhöz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcarea Škarline",
+            "tip": "Aeseori foarte liniștită, ideală pentru o pauză în natură.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Škarline Parking",
+            "tip": "Often very quiet, ideal for a break in nature.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Cattunar Weingut",
+            "tip": "Nur eine kurze Autofahrt entfernt, tolle Verkostungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cattunar borászat",
+            "tip": "Csak egy rövid autóút, nagyszerű kóstolók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama Cattunar",
+            "tip": "La doar o scurtă călătorie cu mașina, degustări minunate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cattunar Winery",
+            "tip": "Just a short drive away, great tastings."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Das Parken im Zentrum ist meist kostenlos.",
+          "Die Straßen zum Naturpark sind eng, fahren Sie vorsichtig.",
+          "Kombinieren Sie den Besuch der Höhle mit einem Abstecher zu lokalen Winzern."
+        ],
+        "hu": [
+          "A központban a parkolás többnyire ingyenes.",
+          "A natúrparkhoz vezető utak szűkek, vezessen óvatosan.",
+          "Kösse össze a barlanglátogatást a helyi borászok felkeresésével."
+        ],
+        "ro": [
+          "Parcarea în centru este de cele mai multe ori gratuită.",
+          "Drumurile către parcul natural sunt înguste, conduceți cu atenție.",
+          "Combinați vizita la peșteră cu o oprire la vinificatorii locali."
+        ],
+        "en": [
+          "Parking in the center is mostly free.",
+          "The roads to the nature park are narrow, drive carefully.",
+          "Combine the cave visit with a stop at local winemakers."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Brtonigla Zentrum",
+          "coords": [
+            13.6351,
+            45.3812
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ankunft mit dem Regionalbus.",
+            "hu": "Érkezés helyközi autóbusszal.",
+            "ro": "Sosire cu autobuzul regional.",
+            "en": "Arrival by regional bus."
+          }
+        },
+        {
+          "name": "Altstadtspaziergang",
+          "coords": [
+            13.634,
+            45.3815
+          ],
+          "category": "square",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Alles im Dorf ist fußläufig erreichbar.",
+            "hu": "A faluban minden elérhető gyalogosan.",
+            "ro": "Totul în sat este accesibil la pas.",
+            "en": "Everything in the village is accessible on foot."
+          }
+        },
+        {
+          "name": "Park prirode Škarline",
+          "coords": [
+            13.651,
+            45.388
+          ],
+          "category": "park",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schöne Wanderung ab dem Zentrum.",
+            "hu": "Szép túra a központból indulva.",
+            "ro": "O drumeție frumoasă pornind din centru.",
+            "en": "Beautiful hike starting from the center."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            13.634,
+            45.382
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die lokale Gastfreundschaft.",
+            "hu": "Élvezze a helyi vendégszeretetet.",
+            "ro": "Bucurați-vă de hospitalitatea locală.",
+            "en": "Enjoy the local hospitality."
+          }
+        },
+        {
+          "name": "Špilja Mramornica",
+          "coords": [
+            13.618,
+            45.378
+          ],
+          "category": "historical",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wanderweg durch die Felder zur Höhle.",
+            "hu": "Gyalogút a mezőkön keresztül a barlanghoz.",
+            "ro": "Potecă prin câmpuri către peșteră.",
+            "en": "Walking path through the fields to the cave."
+          }
+        },
+        {
+          "name": "San Rocco Ausklang",
+          "coords": [
+            13.633,
+            45.3805
+          ],
+          "category": "gastro",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Letzte Pause vor der Rückfahrt.",
+            "hu": "Utolsó pihenő a visszaindulás előtt.",
+            "ro": "Ultima pauză înainte de plecare.",
+            "en": "Last break before departure."
+          }
+        },
+        {
+          "name": "Sonnenuntergang-Punkt",
+          "coords": [
+            13.632,
+            45.383
+          ],
+          "category": "sunset",
+          "arrive_at": "17:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nah an der Bushaltestelle.",
+            "hu": "Közel a buszmegállóhoz.",
+            "ro": "Aproape de stația de autobuz.",
+            "en": "Close to the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auch ohne eigenes Auto lässt sich Brtonigla wunderbar entdecken. Nach der Ankunft mit dem Bus erkunden Sie das Zentrum und wandern zum Škarline-Naturpark. Nach einem traditionellen Mittagessen führt ein gemütlicher Spaziergang zur Mramornica-Höhle. Den Nachmittag genießen Sie im exklusiven San Rocco, bevor Sie den Sonnenuntergang bewundern und entspannt die Rückreise antreten.",
+        "hu": "Saját autó nélkül is csodásan felfedezhető Brtonigla. A busszal való érkezés után fedezze fel a központot, majd túrázzon a Škarline natúrparkhoz. Egy hagyományos ebéd után kényelmes séta vezet a Mramornica-barlanghoz. A délutánt az exkluzív San Rocco-ban töltheti, mielőtt megcsodálná a naplementét, és nyugodtan elindulna visszafelé.",
+        "ro": "Chiar și fără mașină proprie, Brtonigla poate fi descoperită minunat. După sosirea cu autobuzul, explorați centrul și faceți o drumeție până la parcul natural Škarline. După un prânz tradițional, o plimbare relaxantă vă duce la peștera Mramornica. Savurați după-amiaza la exclusivistul San Rocco, înainte de a admira apusul și de a porni relaxat spre casă.",
+        "en": "Even without your own car, Brtonigla can be wonderfully discovered. After arriving by bus, explore the center and hike to the Škarline Nature Park. Following a traditional lunch, a leisurely walk leads to the Mramornica Cave. Enjoy the afternoon at the exclusive San Rocco before admiring the sunset and starting your journey back relaxed."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokalproduzenten",
+            "tip": "Fragen Sie im Dorf nach hausgemachtem Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelők",
+            "tip": "Kérdezzen a faluban a házi készítésű sajtokról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Producători locali",
+            "tip": "Întrebați în sat despre brânza de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Producers",
+            "tip": "Ask in the village about homemade cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Wanderwege",
+            "tip": "Die Pfade zwischen den Dörfern sind sehr friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyalogtúrák",
+            "tip": "A falvak közötti ösvények nagyon békések.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Trasee de drumeție",
+            "tip": "Potecile dintre sate sunt foarte liniștite.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hiking Trails",
+            "tip": "The paths between the villages are very peaceful.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Ein leichtes und köstliches Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Könnyű és finom szuvenír."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Un suvenir ușor și delicios."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "A light and delicious souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busfahrpläne (Arriva/Filils) vorab genau.",
+          "Die meisten Sehenswürdigkeiten im Dorf sind nah beieinander.",
+          "Planen Sie für die Wanderungen etwas mehr Zeit ein."
+        ],
+        "hu": [
+          "Előre pontosan ellenőrizze a buszmenetrendet (Arriva/Filils).",
+          "A falu legtöbb látnivalója közel van egymáshoz.",
+          "Tervezzen kicsit több időt a gyalogtúrákra."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor (Arriva/Filils) cu atenție în prealabil.",
+          "Majoritatea obiectivelor turistice din sat sunt aproape unele de altele.",
+          "Planificați ceva mai mult timp pentru drumeții."
+        ],
+        "en": [
+          "Check bus schedules (Arriva/Filils) carefully in advance.",
+          "Most sights in the village are close to each other.",
+          "Plan a bit more time for the hikes."
+        ]
+      }
+    }
+  }
+}

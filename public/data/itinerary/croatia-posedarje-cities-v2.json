@@ -1,0 +1,962 @@
+{
+  "city_id": "croatia-posedarje-cities-v2",
+  "anchor": {
+    "name": "Posedarje",
+    "coords": [
+      15.4833,
+      44.2167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:40",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Župna crkva Gospe od Ružarija",
+          "coords": [
+            15.4782,
+            44.2155
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das barocke Interieur der Pfarrkirche.",
+            "hu": "Tekintse meg a plébániatemplom barokk belső terét.",
+            "ro": "Vizitați interiorul baroc al bisericii parohiale.",
+            "en": "Visit the baroque interior of the parish church."
+          }
+        },
+        {
+          "name": "Kaffee an der Riva",
+          "coords": [
+            15.4795,
+            44.2148
+          ],
+          "category": "gastro",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf das Novigrad-Meer.",
+            "hu": "Élvezze a kilátást a Novigradi-tengerre.",
+            "ro": "Bucurați-vă de priveliștea spre marea Novigrad.",
+            "en": "Enjoy the view over the Novigrad Sea."
+          }
+        },
+        {
+          "name": "Crkva sv. Duha",
+          "coords": [
+            15.5132,
+            44.2312
+          ],
+          "category": "religious",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die kleine Kirche auf der Insel ist über einen Damm erreichbar.",
+            "hu": "A szigeten lévő kis templom egy töltésen át érhető el.",
+            "ro": "Mica biserică de pe insulă este accesibilă printr-un dig.",
+            "en": "The small church on the island is accessible via a causeway."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            15.5115,
+            44.2295
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie frische Muscheln aus der Region.",
+            "hu": "Kóstolja meg a helyi friss kagylót.",
+            "ro": "Gustați scoicile proaspete din regiune.",
+            "en": "Try fresh local mussels."
+          }
+        },
+        {
+          "name": "Plaža Sveti Duh",
+          "coords": [
+            15.5145,
+            44.2305
+          ],
+          "category": "beach",
+          "arrive_at": "14:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein flacher Sandstrand, ideal zum Entspannen.",
+            "hu": "Sekély homokos strand, ideális a pihenéshez.",
+            "ro": "O plajă de nisip cu apă puțin adâncă, ideală pentru relaxare.",
+            "en": "A shallow sandy beach, ideal for relaxing."
+          }
+        },
+        {
+          "name": "Maslenički most",
+          "coords": [
+            15.5335,
+            44.2245
+          ],
+          "category": "viewpoint",
+          "arrive_at": "18:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Spektakuläre rote Brücke mit Blick auf den Velebit.",
+            "hu": "Látványos piros híd kilátással a Velebitre.",
+            "ro": "Pod roșu spectaculos cu vedere spre Velebit.",
+            "en": "Spectacular red bridge with views of the Velebit."
+          }
+        },
+        {
+          "name": "Sonnenuntergang am Hafen",
+          "coords": [
+            15.4805,
+            44.2152
+          ],
+          "category": "sunset",
+          "arrive_at": "18:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein perfekter Abschluss am ruhigen Kai.",
+            "hu": "Tökéletes zárás a csendes rakparton.",
+            "ro": "O încheiere perfectă pe cheiul liniștit.",
+            "en": "A perfect ending on the quiet quay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Posedarje ist ein ruhiger Rückzugsort am Novigrad-Meer. Der Morgen beginnt im historischen Kern mit der Besichtigung der Pfarrkirche und einem entspannten Kaffee am Wasser. Mittags führt der Weg zur ikonischen Heilig-Geist-Kirche auf ihrer kleinen Insel. Nach Stunden am sonnigen Strand Sveti Duh bietet die Maslenica-Brücke zum Abschluss ein atemberaubendes Panorama vor dem Abendessen.",
+        "hu": "Posedarje egy csendes menedék a Novigradi-tenger partján. A reggel a történelmi magban kezdődik a plébániatemplom megtekintésével és egy kávéval a parton. Délben az út az ikonikus Szentlélek-templomhoz vezet a kis szigetén. A Sveti Duh strandon töltött órák után a Maslenicai-híd lélegzetelállító panorámát kínál a naplemente előtt.",
+        "ro": "Posedarje este un refugiu liniștit pe malul mării Novigrad. Dimineața începe în nucleul istoric cu vizitarea bisericii parohiale și o cafea relaxată pe malul apei. La prânz, drumul duce spre iconica biserică Sfântul Duh de pe mica sa insulă. După ore petrecute pe plaja însorită Sveti Duh, podul Maslenica oferă o panoramă uluitoare înainte de cină.",
+        "en": "Posedarje is a quiet retreat on the shores of the Novigrad Sea. The morning begins in the historical core with a visit to the parish church and a relaxed coffee by the water. At noon, the path leads to the iconic Holy Spirit church on its small island. After hours at the sunny Sveti Duh beach, the Maslenica bridge offers a breathtaking panorama before sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Kod Marka",
+            "tip": "Hausgemachter Pršut und frischer Fisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Kod Marka",
+            "tip": "Házi sonka (pršut) és friss halételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Kod Marka",
+            "tip": "Pršut de casă și pește proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Kod Marka",
+            "tip": "Homemade pršut and fresh fish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Insel Sveti Duh",
+            "tip": "Stille und spirituelle Atmosphäre am Meer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szentlélek-sziget",
+            "tip": "Csend és spirituális hangulat a tengeren.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Sfântul Duh",
+            "tip": "Liniște și atmosferă spirituală la malul mării.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Holy Spirit Island",
+            "tip": "Quiet and spiritual atmosphere by the sea.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Olivenöl und Honig direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Olívaolaj és méz közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Ulei de măsline și miere direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farmers Market",
+            "tip": "Olive oil and honey directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Weg zur Insel.",
+          "Die Brücke ist besonders bei Sonnenuntergang fotogen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a szigethez vezető úton.",
+          "A híd különösen naplementekor fotogén."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru drumul spre insulă.",
+          "Podul este deosebit de fotogenic la apus."
+        ],
+        "en": [
+          "Wear comfortable shoes for the path to the island.",
+          "The bridge is especially photogenic at sunset."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Župna crkva Gospe od Ružarija",
+          "coords": [
+            15.4782,
+            44.2155
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Historisches Zentrum von Posedarje.",
+            "hu": "Posedarje történelmi központja.",
+            "ro": "Centrul istoric din Posedarje.",
+            "en": "Historical center of Posedarje."
+          }
+        },
+        {
+          "name": "Frühstück am Meer",
+          "coords": [
+            15.4795,
+            44.2148
+          ],
+          "category": "gastro",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kraft tanken für die Tour.",
+            "hu": "Töltődjön fel a túra előtt.",
+            "ro": "Refaceți-vă forțele înainte de tur.",
+            "en": "Recharge before the tour."
+          }
+        },
+        {
+          "name": "Crkva sv. Duha",
+          "coords": [
+            15.5132,
+            44.2312
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Leichte Fahrt entlang der Küste.",
+            "hu": "Könnyű tekerés a part mentén.",
+            "ro": "O plimbare ușoară de-a lungul coastei.",
+            "en": "Easy ride along the coast."
+          }
+        },
+        {
+          "name": "Ebéd egy tengerparti Konobában",
+          "coords": [
+            15.5115,
+            44.2295
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dalmatinische Fischgerichte.",
+            "hu": "Dalmát halételek.",
+            "ro": "Preparate dalmate din pește.",
+            "en": "Dalmatian fish dishes."
+          }
+        },
+        {
+          "name": "Plaža Sveti Duh",
+          "coords": [
+            15.5145,
+            44.2305
+          ],
+          "category": "beach",
+          "arrive_at": "13:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Perfekter Ort für eine Abkühlung.",
+            "hu": "Tökéletes hely a hűsölésre.",
+            "ro": "Locul perfect pentru răcorire.",
+            "en": "Perfect place to cool off."
+          }
+        },
+        {
+          "name": "Maslenički most",
+          "coords": [
+            15.5335,
+            44.2245
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Panoramablick auf den Velebit-Kanal.",
+            "hu": "Panoráma a Velebit-csatornára.",
+            "ro": "Vedere panoramică asupra canalului Velebit.",
+            "en": "Panoramic view of the Velebit canal."
+          }
+        },
+        {
+          "name": "Rückfahrt und Hafenpromenade",
+          "coords": [
+            15.4805,
+            44.2152
+          ],
+          "category": "harbor",
+          "arrive_at": "18:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Ausklang im Fischerhafen.",
+            "hu": "Levezetés a halászkikötőben.",
+            "ro": "Relaxare în portul de pescuit.",
+            "en": "Wind down in the fishing port."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie die Küste von Posedarje besonders effizient. Nach einem kulturellen Start geht es zügig zur malerischen Sveti Duh Kirche und dem angrenzenden Sandstrand. Die Tour führt weiter zur beeindruckenden Maslenica-Brücke, wo Sie den Blick über den Kanal genießen können, bevor es zurück in den gemütlichen Hafen geht.",
+        "hu": "Kerékpárral különösen hatékonyan fedezheti fel Posedarje partvidékét. A kulturális kezdés után gyorsan elérheti a festői Sveti Duh templomot és a szomszédos homokos strandot. A túra a lenyűgöző Maslenicai-hídig folytatódik, ahol élvezheti a csatornára nyíló kilátást, mielőtt visszatérne a hangulatos kikötőbe.",
+        "ro": "Cu bicicleta explorați coasta Posedarje foarte eficient. După un început cultural, ajungeți rapid la pitoreasca biserică Sveti Duh și la plaja de nisip adiacentă. Turul continuă spre podul impresionant Maslenica, unde vă puteți bucura de vederea asupra canalului, înainte de a reveni în portul primitor.",
+        "en": "By bike, you can explore the coast of Posedarje very efficiently. After a cultural start, you quickly reach the picturesque Sveti Duh church and the adjacent sandy beach. The tour continues to the impressive Maslenica bridge, where you can enjoy the view over the canal before returning to the cozy harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Antonio",
+            "tip": "Gute Pasta und Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Antonio",
+            "tip": "Kiváló tésztaételek és tenger gyümölcsei."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Antonio",
+            "tip": "Paste bune și fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Antonio",
+            "tip": "Good pasta and seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bucht von Posedarje",
+            "tip": "Ruhige Ecken entlang des Radwegs.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Posedarjei-öböl",
+            "tip": "Csendes szegletek a kerékpárút mentén.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Posedarje",
+            "tip": "Colțuri liniștite de-a lungul pistei de biciclete.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Posedarje Bay",
+            "tip": "Quiet spots along the bike path.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Laden",
+            "tip": "Kaufen Sie Posedarje-Schinken als Souvenir."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bolt",
+            "tip": "Vásároljon posedarjei sonkát ajándékba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin local",
+            "tip": "Cumpărați șuncă de Posedarje ca suvenir."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Store",
+            "tip": "Buy Posedarje ham as a souvenir."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke ist meist flach und angenehm zu fahren.",
+          "Nehmen Sie ausreichend Wasser mit."
+        ],
+        "hu": [
+          "Az útvonal többnyire sík és kellemesen tekerhető.",
+          "Vigyen magával elegendő vizet."
+        ],
+        "ro": [
+          "Traseul este în mare parte plat și plăcut de parcurs.",
+          "Luați suficientă apă cu voi."
+        ],
+        "en": [
+          "The route is mostly flat and pleasant to ride.",
+          "Take enough water with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Ortszentrum Posedarje",
+          "coords": [
+            15.4785,
+            44.2158
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie zentral für den Stadtrundgang.",
+            "hu": "Parkoljon a központban a városnézéshez.",
+            "ro": "Parcați central pentru turul orașului.",
+            "en": "Park centrally for the town walk."
+          }
+        },
+        {
+          "name": "Župna crkva Gospe od Ružarija",
+          "coords": [
+            15.4782,
+            44.2155
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wichtige Barockkirche der Region.",
+            "hu": "A régió fontos barokk temploma.",
+            "ro": "Biserică barocă importantă din regiune.",
+            "en": "Important baroque church of the region."
+          }
+        },
+        {
+          "name": "Crkva sv. Duha",
+          "coords": [
+            15.5132,
+            44.2312
+          ],
+          "category": "religious",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt am Damm vorhanden.",
+            "hu": "Parkoló közvetlenül a töltésnél található.",
+            "ro": "Parcare disponibilă chiar lângă dig.",
+            "en": "Parking available right by the causeway."
+          }
+        },
+        {
+          "name": "Plaža Sveti Duh",
+          "coords": [
+            15.5145,
+            44.2305
+          ],
+          "category": "beach",
+          "arrive_at": "11:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ideal für Familien dank Sandstrand.",
+            "hu": "Ideális családoknak a homokos part miatt.",
+            "ro": "Ideal pentru familii datorită plajei de nisip.",
+            "en": "Ideal for families thanks to the sandy beach."
+          }
+        },
+        {
+          "name": "Ebéd egy helyi Konobában",
+          "coords": [
+            15.4812,
+            44.2145
+          ],
+          "category": "gastro",
+          "arrive_at": "15:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Traditionelle dalmatinische Küche.",
+            "hu": "Hagyományos dalmát konyha.",
+            "ro": "Bucătărie tradițională dalmată.",
+            "en": "Traditional Dalmatian cuisine."
+          }
+        },
+        {
+          "name": "Maslenički most",
+          "coords": [
+            15.5335,
+            44.2245
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die alte rote Maslenica-Brücke.",
+            "hu": "Látogasson el a régi piros Maslenicai-hídhoz.",
+            "ro": "Vizitați vechiul pod roșu Maslenica.",
+            "en": "Visit the old red Maslenica bridge."
+          }
+        },
+        {
+          "name": "Sonnenuntergang am Novigrad-Meer",
+          "coords": [
+            15.4855,
+            44.2185
+          ],
+          "category": "sunset",
+          "arrive_at": "17:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe am Wasser.",
+            "hu": "Élvezze a nyugalmat a vízparton.",
+            "ro": "Bucurați-vă de liniște la malul apei.",
+            "en": "Enjoy the peace by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem alle Highlights rund um Posedarje. Starten Sie im Zentrum und fahren Sie dann zur malerischen Inselkirche Sveti Duh. Nach einem entspannten Nachmittag am Sandstrand führt die Fahrt zur Maslenica-Brücke, die für ihre markante rote Farbe und die Aussicht auf die Berge bekannt ist.",
+        "hu": "Autóval kényelmesen elérheti Posedarje környékének összes látnivalóját. Kezdjen a központban, majd hajtson a festői Szentlélek-szigettemplomhoz. Egy pihentető délután után a homokos strandon az út a Maslenicai-hídhoz vezet, amely jellegzetes piros színéről és a hegyi kilátásról ismert.",
+        "ro": "Cu mașina ajungeți confortabil la toate punctele de interes din jurul Posedarje. Începeți în centru și apoi conduceți spre pitoreasca biserică de pe insula Sveti Duh. După o după-amiază relaxantă pe plaja de nisip, drumul duce la podul Maslenica, cunoscut pentru culoarea sa roșie distinctivă și vederea spre munți.",
+        "en": "By car, you can comfortably reach all the highlights around Posedarje. Start in the center and then drive to the picturesque Holy Spirit island church. After a relaxing afternoon at the sandy beach, the drive leads to the Maslenica bridge, known for its striking red color and mountain views."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Pece",
+            "tip": "Hervorragende Meeresfrüchte-Platten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Pece",
+            "tip": "Kiváló tenger gyümölcsei tálak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Pece",
+            "tip": "Platouri cu fructe de mare excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Pece",
+            "tip": "Excellent seafood platters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Maslenica",
+            "tip": "Panoramablick ohne Menschenmassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maslenicai kilátópont",
+            "tip": "Panoráma tömeg nélkül.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Maslenica",
+            "tip": "Vedere panoramică fără mulțime.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Maslenica Viewpoint",
+            "tip": "Panoramic view without the crowds.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Posedarje Markt",
+            "tip": "Frisches Obst und lokale Spezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Posedarjei piac",
+            "tip": "Friss gyümölcsök és helyi specialitások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața Posedarje",
+            "tip": "Fructe proaspete și specialități locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Posedarje Market",
+            "tip": "Fresh fruit and local specialties."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Hochsaison kann das Parken am Strand knapp sein.",
+          "Die Maslenica-Brücke ist ein Muss für Fotografen."
+        ],
+        "hu": [
+          "Főszezonban a strandnál kevés lehet a parkolóhely.",
+          "A Maslenicai-híd kötelező látnivaló a fotósoknak."
+        ],
+        "ro": [
+          "În plin sezon, parcarea la plajă poate fi limitată.",
+          "Podul Maslenica este obligatoriu pentru fotografi."
+        ],
+        "en": [
+          "In high season, parking at the beach can be limited.",
+          "The Maslenica bridge is a must for photographers."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 14.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Župna crkva Gospe od Ružarija",
+          "coords": [
+            15.4782,
+            44.2155
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentrum von Posedarje.",
+            "hu": "Posedarje központja.",
+            "ro": "Centrul Posedarje.",
+            "en": "Center of Posedarje."
+          }
+        },
+        {
+          "name": "Crkva sv. Duha",
+          "coords": [
+            15.5132,
+            44.2312
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Erreichbar mit lokalem Taxi oder Bus-Stopp.",
+            "hu": "Helyi taxival vagy buszmegállótól elérhető.",
+            "ro": "Accesibil cu taxi local sau de la stația de autobuz.",
+            "en": "Accessible via local taxi or bus stop."
+          }
+        },
+        {
+          "name": "Plaža Sveti Duh",
+          "coords": [
+            15.5145,
+            44.2305
+          ],
+          "category": "beach",
+          "arrive_at": "11:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sandstrand.",
+            "hu": "Élvezze a homokos partot.",
+            "ro": "Bucurați-vă de plaja de nisip.",
+            "en": "Enjoy the sandy beach."
+          }
+        },
+        {
+          "name": "Ebéd Posedarjében",
+          "coords": [
+            15.4815,
+            44.2142
+          ],
+          "category": "gastro",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Frische dalmatinische Küche.",
+            "hu": "Friss dalmát konyha.",
+            "ro": "Bucătărie dalmată proaspătă.",
+            "en": "Fresh Dalmatian cuisine."
+          }
+        },
+        {
+          "name": "Maslenički most",
+          "coords": [
+            15.5335,
+            44.2245
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Aussichtspunkt an der roten Brücke.",
+            "hu": "Kilátópont a piros hídnál.",
+            "ro": "Punct de belvedere la podul roșu.",
+            "en": "Viewpoint at the red bridge."
+          }
+        },
+        {
+          "name": "Hafen-Spaziergang",
+          "coords": [
+            15.4805,
+            44.2152
+          ],
+          "category": "harbor",
+          "arrive_at": "18:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Abendlicher Ausklang.",
+            "hu": "Esti levezetés.",
+            "ro": "Relaxare de seară.",
+            "en": "Evening wind down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank lokaler Verbindungen können Sie Posedarje auch ohne eigenes Auto erleben. Der Tag kombiniert Kultur im Ortskern mit der spirituellen Ruhe der Inselkirche Sveti Duh. Der Nachmittag gehört dem Strandvergnügen, gefolgt von einem Besuch der markanten Maslenica-Brücke, bevor Sie den Tag im Fischerhafen ausklingen lassen.",
+        "hu": "A helyi járatoknak köszönhetően Posedarjét autó nélkül is megtapasztalhatja. A nap ötvözi a központ kultúráját a Szentlélek-szigettemplom spirituális nyugalmával. A délután a strandolásé, majd látogatás a jellegzetes Maslenicai-hídhoz, mielőtt a napot a halászkikötőben zárná.",
+        "ro": "Datorită conexiunilor locale, puteți experimenta Posedarje și fără mașină personală. Ziua combină cultura din centru cu liniștea spirituală a bisericii de pe insula Sveti Duh. După-amiaza este dedicată plajei, urmată de o vizită la podul Maslenica, înainte de a încheia ziua în portul pescăresc.",
+        "en": "Thanks to local connections, you can experience Posedarje even without your own car. The day combines culture in the town center with the spiritual peace of the Holy Spirit island church. The afternoon is for beach fun, followed by a visit to the striking Maslenica bridge, before ending the day in the fishing harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Posedarje",
+            "tip": "Schnelle und gute Mahlzeiten im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Posedarje Pizzeria",
+            "tip": "Gyors és finom ételek a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Posedarje",
+            "tip": "Mese rapide și bune în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Posedarje Pizzeria",
+            "tip": "Fast and good meals in the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Sveti Duh",
+            "tip": "Ruhiger Platz abseits des Zentrums.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szentlélek-strand",
+            "tip": "Csendes hely távol a központtól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Sveti Duh",
+            "tip": "Loc liniștit departe de centru.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Sveti Duh Beach",
+            "tip": "Quiet spot away from the center.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kioske",
+            "tip": "Postkarten und lokale Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bódék",
+            "tip": "Képeslapok és helyi szuvenírek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri locale",
+            "tip": "Vederi și suveniruri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Kiosks",
+            "tip": "Postcards and local souvenirs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die lokalen Busfahrpläne vorab.",
+          "Ein Taxi kann für kurze Strecken praktisch sein."
+        ],
+        "hu": [
+          "Előre ellenőrizze a helyi buszmenetrendet.",
+          "A taxi praktikus lehet rövid távolságokra."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor locale în prealabil.",
+          "Un taxi poate fi practic pentru distanțe scurte."
+        ],
+        "en": [
+          "Check local bus schedules in advance.",
+          "A taxi can be practical for short distances."
+        ]
+      }
+    }
+  }
+}

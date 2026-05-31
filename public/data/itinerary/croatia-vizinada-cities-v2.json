@@ -1,0 +1,1044 @@
+{
+  "city_id": "croatia-vizinada-cities-v2",
+  "anchor": {
+    "name": "Vižinada",
+    "coords": [
+      13.7667,
+      45.3333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hauptplatz mit venezianischer Zisterne",
+            "hu": "Főtér a velencei ciszternával",
+            "ro": "Piața Centrală cu cisternă venețiană",
+            "en": "Main Square with Venetian Cistern"
+          },
+          "coords": [
+            13.7667,
+            45.3333
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das venezianische Wappen auf der Zisterne.",
+            "hu": "Nézd meg a ciszternán látható velencei címert.",
+            "ro": "Admirați blazonul venețian de pe cisternă.",
+            "en": "Check out the Venetian coat of arms on the cistern."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Hieronymus",
+            "hu": "Szt. Jeromos-templom",
+            "ro": "Biserica Sf. Ieronim",
+            "en": "Church of St. Jerome"
+          },
+          "coords": [
+            13.7662,
+            45.3335
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Klassizistische Architektur am Rande des Platzes.",
+            "hu": "Klasszicista stílusú épület a tér szélén.",
+            "ro": "Arhitectură neoclasică la marginea pieței.",
+            "en": "Neoclassical architecture at the edge of the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaffee- und Gelatopause",
+            "hu": "Kávé és fagylalt szünet",
+            "ro": "Pauză de cafea și gelato",
+            "en": "Coffee and Gelato Break"
+          },
+          "coords": [
+            13.766,
+            45.333
+          ],
+          "category": "gastro",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die grünen Hügel Istriens.",
+            "hu": "Élvezd a kilátást az isztriai dombokra.",
+            "ro": "Bucurați-vă de priveliștea dealurilor Istriene.",
+            "en": "Enjoy the view of the Istrian hills."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Ballerina Carlotta Grisi",
+            "hu": "Carlotta Grisi balerina háza",
+            "ro": "Casa balerinei Carlotta Grisi",
+            "en": "House of Ballerina Carlotta Grisi"
+          },
+          "coords": [
+            13.7672,
+            45.3338
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Geburtsort der berühmten Ballerina aus dem 19. Jahrhundert.",
+            "hu": "A híres 19. századi balerina szülőháza.",
+            "ro": "Locul de naștere al celebrei balerine din secolul XIX.",
+            "en": "Birthplace of the famous 19th-century ballerina."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Hl. Barnabas",
+            "hu": "Szent Barnabás-templom",
+            "ro": "Biserica Sf. Barnaba",
+            "en": "Church of St. Barnabas"
+          },
+          "coords": [
+            13.768,
+            45.334
+          ],
+          "category": "religious",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Berühmt für ihre mittelalterlichen Fresken.",
+            "hu": "Híres a középkori freskóiról.",
+            "ro": "Faimoasă pentru frescele sale medievale.",
+            "en": "Famous for its medieval frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer lokalen Konoba",
+            "hu": "Ebéd egy helyi konobában",
+            "ro": "Prânz la o konoba locală",
+            "en": "Lunch in a Local Konoba"
+          },
+          "coords": [
+            13.7665,
+            45.3325
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie istrische Trüffel-Pasta (Fuži).",
+            "hu": "Kóstold meg az isztriai szarvasgombás tésztát (Fuži).",
+            "ro": "Încercați pastele istriene cu trufe (Fuži).",
+            "en": "Try Istrian truffle pasta (Fuži)."
+          }
+        },
+        {
+          "name": {
+            "de": "Parenzana Aussichtspunkt",
+            "hu": "Parenzana kilátópont",
+            "ro": "Punct de belvedere Parenzana",
+            "en": "Parenzana Viewpoint"
+          },
+          "coords": [
+            13.77,
+            45.335
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spaziergang auf der ehemaligen Eisenbahnstrecke.",
+            "hu": "Séta az egykori vasútvonal nyomvonalán.",
+            "ro": "Plimbare pe traseul fostei căi ferate.",
+            "en": "Walk along the former railway line."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittags erkunden wir den historischen Kern von Vižinada rund um den venezianischen Platz und die markanten Kirchen. Nach einem gemütlichen Mittagessen mit lokalen Spezialitäten führt uns der Weg zur Parenzana, der legendären Eisenbahnstrecke, die heute ein malerischer Wanderweg ist. Hier genießen wir die Ruhe der istrischen Landschaft und das Panorama der Weinberge.",
+        "hu": "A délelőttöt Vižinada történelmi központjában töltjük, felfedezve a velencei stílusú főteret és a hangulatos templomokat. Egy finom, helyi alapanyagokból készült ebéd után a Parenzana útvonal felé vesszük az irányt, amely egykor vasútvonal volt, ma pedig festői túraútvonal. Itt az isztriai táj nyugalmát és a szőlőültetvények látványát élvezhetjük.",
+        "ro": "Dimineața explorăm centrul istoric din Vižinada în jurul pieței venețiene și bisericile remarcabile. După un prânz relaxat cu specialități locale, drumul ne poartă spre Parenzana, legendara rută feroviară transformată astăzi într-o cărare pitorească. Aici ne bucurăm de liniștea peisajului istrian și de panorama podgoriilor.",
+        "en": "In the morning, we explore the historical core of Vižinada around the Venetian square and the prominent churches. After a leisurely lunch featuring local specialties, our path leads to the Parenzana, the legendary railway route that is now a picturesque hiking trail. Here, we enjoy the tranquility of the Istrian landscape and the panorama of the vineyards."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Selo",
+            "tip": "Hausgemachte Pasta mit Trüffeln oder Wildspargel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Selo",
+            "tip": "Házi tészta szarvasgombával vagy vadspárgával."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Selo",
+            "tip": "Paste de casă cu trufe sau sparanghel sălbatic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Selo",
+            "tip": "Homemade pasta with truffles or wild asparagus."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parenzana Trail",
+            "tip": "Stille Momente inmitten von Olivenhainen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parenzana ösvény",
+            "tip": "Csendes pillanatok az olajfaligetek között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traseul Parenzana",
+            "tip": "Momente de liniște printre livezile de măslini.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Parenzana Trail",
+            "tip": "Quiet moments amidst olive groves.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Winzer",
+            "tip": "Kaufen Sie hochwertiges Olivenöl oder Malvazija-Wein direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borászok",
+            "tip": "Vásárolj prémium olívaolajat vagy Malvazija bort közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinificatori locali",
+            "tip": "Cumpărați ulei de măsline de calitate sau vin Malvazija direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Winemakers",
+            "tip": "Buy high-quality olive oil or Malvazija wine directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vižinada ist klein, fast alles ist fußläufig erreichbar.",
+          "Tragen Sie bequeme Schuhe für die Parenzana.",
+          "Besuchen Sie den Ort während des 'Sweet Istria' Festivals im August."
+        ],
+        "hu": [
+          "Vižinada kicsi, szinte minden gyalogosan is elérhető.",
+          "Viselj kényelmes cipőt a Parenzana útvonalhoz.",
+          "Látogass el ide az augusztusi 'Édes Isztria' fesztivál idején."
+        ],
+        "ro": [
+          "Vižinada este mică, aproape totul este accesibil pe jos.",
+          "Purtați încălțăminte confortabilă pentru Parenzana.",
+          "Vizitați localitatea în timpul festivalului 'Istria Dulce' din august."
+        ],
+        "en": [
+          "Vižinada is small, almost everything is reachable on foot.",
+          "Wear comfortable shoes for the Parenzana trail.",
+          "Visit during the 'Sweet Istria' festival in August."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vižinada Rundfahrt Start",
+            "hu": "Vižinada körtúra rajt",
+            "ro": "Start circuit Vižinada",
+            "en": "Vižinada Loop Start"
+          },
+          "coords": [
+            13.7667,
+            45.3333
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp an der Zisterne vor der Abfahrt.",
+            "hu": "Rövid megálló a ciszternánál indulás előtt.",
+            "ro": "Scurt popas la cisternă înainte de plecare.",
+            "en": "Quick stop at the cistern before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "Parenzana (ehemalige Bahnstrecke)",
+            "hu": "Parenzana (egykori vasútvonal)",
+            "ro": "Parenzana (fosta cale ferată)",
+            "en": "Parenzana (Former Railway)"
+          },
+          "coords": [
+            13.785,
+            45.345
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Die beste Radstrecke Istriens mit toller Aussicht.",
+            "hu": "Isztria legjobb kerékpáros útvonala remek kilátással.",
+            "ro": "Cea mai bună rută de bicicletă din Istria cu vederi superbe.",
+            "en": "Istria's best cycling route with great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramapause im Grünen",
+            "hu": "Panoráma pihenő a zöldben",
+            "ro": "Pauză panoramică în natură",
+            "en": "Panorama Break in the Green"
+          },
+          "coords": [
+            13.8,
+            45.35
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Blick über das Mirna-Tal.",
+            "hu": "Kilátás a Mirna-völgyre.",
+            "ro": "Vedere asupra văii Mirna.",
+            "en": "View over the Mirna Valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückkehr nach Vižinada & Mittagessen",
+            "hu": "Visszatérés Vižinadába & Ebéd",
+            "ro": "Revenire la Vižinada și prânz",
+            "en": "Return to Vižinada & Lunch"
+          },
+          "coords": [
+            13.7665,
+            45.3325
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 85,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Verdiente Pause in einer Konoba.",
+            "hu": "Megérdemelt pihenő egy konobában.",
+            "ro": "Pauză pelustrată la o konoba.",
+            "en": "Well-deserved break in a konoba."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva sv. Barnabe (Fresken)",
+            "hu": "Szent Barnabás-templom (Freskók)",
+            "ro": "Biserica Sf. Barnaba (Fresce)",
+            "en": "Church of St. Barnabas (Frescoes)"
+          },
+          "coords": [
+            13.768,
+            45.334
+          ],
+          "category": "religious",
+          "arrive_at": "14:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kulturelles Juwel zum Abschluss.",
+            "hu": "Kulturális ékszerdoboz a túra végére.",
+            "ro": "O bijuterie culturală la finalul turului.",
+            "en": "A cultural gem to finish the trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour kombiniert Geschichte mit Natur. Wir starten im Dorfzentrum und fahren dann auf die Parenzana, die uns durch Tunnel und über Viadukte führt. Die Strecke bietet spektakuläre Ausblicke auf das Mirna-Tal. Zurück im Ort stärken wir uns mit istrischer Küche und besuchen die freskenverzierte Barnabas-Kirche.",
+        "hu": "Ez a kerékpártúra ötvözi a történelmet a természettel. A falu központjából indulunk, majd a Parenzana útvonalra hajtunk, amely alagutakon és viaduktokon vezet át. Az út látványos kilátást nyújt a Mirna-völgyre. A faluba visszatérve isztriai ételekkel frissülünk fel, és meglátogatjuk a freskókkal díszített Barnabás-templomot.",
+        "ro": "Acest tur pe bicicletă combină istoria cu natura. Pornim din centrul satului și apoi intrăm pe Parenzana, care ne conduce prin tuneluri și peste viaducte. Traseul oferă vederi spectaculoase asupra văii Mirna. Reveniți în localitate, ne refacem forțele cu bucătăria istriană și vizităm biserica Sf. Barnaba, decorată cu fresce.",
+        "en": "This bike tour combines history with nature. We start in the village center and then ride onto the Parenzana, which leads us through tunnels and over viaducts. The route offers spectacular views of the Mirna Valley. Back in town, we recharge with Istrian cuisine and visit the frescoed Church of St. Barnabas."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agroturizam Ritossa",
+            "tip": "Authentische Bauernküche mit eigenem Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agroturizam Ritossa",
+            "tip": "Autentikus paraszti konyha saját borral."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agroturizam Ritossa",
+            "tip": "Bucătărie rurală autentică cu vin propriu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agroturizam Ritossa",
+            "tip": "Authentic farm-to-table cuisine with their own wine."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirna-Tal Blick",
+            "tip": "Weiter Blick über die Weinberge.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirna-völgyi kilátás",
+            "tip": "Tágas kilátás a szőlőültetvényekre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere spre Valea Mirna",
+            "tip": "Vedere panoramică peste podgorii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirna Valley View",
+            "tip": "Wide view over the vineyards.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinstraße Vižinada",
+            "tip": "Direktverkauf von Teran und Malvazija."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vižinadai borút",
+            "tip": "Teran és Malvazija közvetlen vásárlása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul Vinului Vižinada",
+            "tip": "Vânzare directă de Teran și Malvazija."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vižinada Wine Road",
+            "tip": "Direct sale of Teran and Malvazija wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike oder Gravelbike ist für die Parenzana ideal.",
+          "Nehmen Sie genügend Wasser mit.",
+          "Die Strecke ist meist flach, aber unbefestigt."
+        ],
+        "hu": [
+          "A Parenzana útvonalra egy mountainbike vagy gravel kerékpár ideális.",
+          "Vigyél magaddal elég vizet.",
+          "Az útvonal többnyire sík, de nem aszfaltozott."
+        ],
+        "ro": [
+          "O bicicletă de munte sau gravel este ideală pentru Parenzana.",
+          "Luați suficientă apă cu voi.",
+          "Traseul este în mare parte plat, dar neasfaltat."
+        ],
+        "en": [
+          "A mountain bike or gravel bike is ideal for the Parenzana trail.",
+          "Bring enough water with you.",
+          "The route is mostly flat but unpaved."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ankunft Vižinada (Cluster A)",
+            "hu": "Érkezés Vižinadába (A klaszter)",
+            "ro": "Sosire Vižinada (Cluster A)",
+            "en": "Arrival Vižinada (Cluster A)"
+          },
+          "coords": [
+            13.7667,
+            45.3333
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie nahe dem Zentrum.",
+            "hu": "Parkolj a központ közelében.",
+            "ro": "Parcați aproape de centru.",
+            "en": "Park near the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianische Zisterne",
+            "hu": "Velencei ciszterna",
+            "ro": "Cisterna venețiană",
+            "en": "Venetian Cistern"
+          },
+          "coords": [
+            13.7668,
+            45.3334
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein Wahrzeichen der venezianischen Herrschaft.",
+            "hu": "A velencei fennhatóság egyik jelképe.",
+            "ro": "Un simbol al stăpânirii venețiene.",
+            "en": "A symbol of Venetian rule."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche sv. Jeronima",
+            "hu": "Szt. Jeromos-templom",
+            "ro": "Biserica Sf. Ieronim",
+            "en": "Church of St. Jerome"
+          },
+          "coords": [
+            13.7662,
+            45.3335
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigung der Kirche am Platz.",
+            "hu": "A téren álló templom megtekintése.",
+            "ro": "Vizitarea bisericii din piață.",
+            "en": "Visit the church on the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Fahrt zum Parenzana Viadukt (Cluster B)",
+            "hu": "Autózás a Parenzana viadukthoz (B klaszter)",
+            "ro": "Drum spre viaductul Parenzana (Cluster B)",
+            "en": "Drive to Parenzana Viaduct (Cluster B)"
+          },
+          "coords": [
+            13.795,
+            45.34
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein kurzes Stück Fahrt für eine tolle Aussicht.",
+            "hu": "Rövid autózás a nagyszerű kilátásért.",
+            "ro": "O scurtă călătorie pentru o vedere excelentă.",
+            "en": "A short drive for a great view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Umgebung",
+            "hu": "Ebéd a környéken",
+            "ro": "Prânz în zonă",
+            "en": "Lunch in the Vicinity"
+          },
+          "coords": [
+            13.77,
+            45.325
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Lokale Konobas bieten hausgemachte Kost.",
+            "hu": "A helyi konobák házias ételeket kínálnak.",
+            "ro": "Konobele locale oferă mâncare de casă.",
+            "en": "Local konobas offer homemade food."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva sv. Barnabe",
+            "hu": "Szent Barnabás-templom",
+            "ro": "Biserica Sf. Barnaba",
+            "en": "Church of St. Barnabas"
+          },
+          "coords": [
+            13.768,
+            45.334
+          ],
+          "category": "religious",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Verpassen Sie nicht die Fresken im Inneren.",
+            "hu": "Ne hagyd ki a belső freskókat.",
+            "ro": "Nu ratați frescele din interior.",
+            "en": "Don't miss the frescoes inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Weinverkostung & Ausklang",
+            "hu": "Borkóstoló & Búcsú",
+            "ro": "Degustare de vin și final",
+            "en": "Wine Tasting & Farewell"
+          },
+          "coords": [
+            13.766,
+            45.332
+          ],
+          "category": "gastro",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuch bei einem lokalen Winzer.",
+            "hu": "Látogatás egy helyi borásznál.",
+            "ro": "Vizită la un vinificator local.",
+            "en": "Visit to a local winemaker."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken wir sowohl das Dorfzentrum als auch die malerische Umgebung von Vižinada. Nach der Besichtigung des venezianischen Erbes im Ort fahren wir zu einem nahegelegenen Aussichtspunkt an der Parenzana. Ein traditionelles Mittagessen und der Besuch der berühmten Barnabas-Kirche runden den Tag ab, bevor wir bei einer Weinverkostung die lokalen Tropfen genießen.",
+        "hu": "Autóval felfedezzük Vižinada falu központját és a festői környéket is. A velencei örökség megtekintése után a közeli Parenzana egyik kilátópontjához autózunk. Egy tradicionális ebéd és a híres Barnabás-templom meglátogatása teszi teljessé a napot, mielőtt egy borkóstoló keretében megismerkednénk a helyi borokkal.",
+        "ro": "Cu mașina descoperim atât centrul satului, cât și împrejurimile pitorești din Vižinada. După vizitarea moștenirii venețiene din localitate, conducem spre un punct de belvedere apropiat de pe Parenzana. Un prânz tradițional și vizitarea faimoasei biserici Sf. Barnaba completează ziua, înainte de a savura vinurile locale la o degustare.",
+        "en": "By car, we discover both the village center and the picturesque surroundings of Vižinada. After viewing the Venetian heritage in town, we drive to a nearby viewpoint on the Parenzana. A traditional lunch and a visit to the famous Church of St. Barnabas complete the day before we enjoy local wines at a tasting."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vinarija Rossi",
+            "tip": "Exzellente Weine und Gin aus lokaler Produktion."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vinarija Rossi",
+            "tip": "Kiváló borok és gin helyi termelésből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinarija Rossi",
+            "tip": "Vinuri excelente și gin din producție locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vinarija Rossi",
+            "tip": "Excellent wines and gin from local production."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vižinada Friedhofsblick",
+            "tip": "Ruhiger Ort mit weiter Fernsicht.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vižinadai temetői kilátás",
+            "tip": "Nyugodt hely tágas panorámával.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere de la cimitirul Vižinada",
+            "tip": "Loc liniștit cu o vedere îndepărtată.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vižinada Cemetery View",
+            "tip": "Quiet spot with a wide distant view.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "OPG Geržinić",
+            "tip": "Hervorragendes Olivenöl direkt ab Hof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "OPG Geržinić",
+            "tip": "Kiváló olívaolaj közvetlenül a gazdaságból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "OPG Geržinić",
+            "tip": "Ulei de măsline excelent direct de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "OPG Geržinić",
+            "tip": "Excellent olive oil directly from the farm."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind eng, parken Sie nur auf markierten Flächen.",
+          "Kombinieren Sie den Besuch mit einem Abstecher nach Motovun.",
+          "Trinken Sie verantwortungsbewusst bei Weinverkostungen."
+        ],
+        "hu": [
+          "Az utak szűkek, csak a kijelölt helyeken parkolj.",
+          "Kombináld a látogatást egy kitérővel Motovunba.",
+          "Vezetőként csak mértékkel kóstolj bort."
+        ],
+        "ro": [
+          "Drumurile sunt înguste, parcați doar în locurile marcate.",
+          "Combinați vizita cu o excursie la Motovun.",
+          "Consumați responsabil la degustările de vin."
+        ],
+        "en": [
+          "Streets are narrow, park only in designated areas.",
+          "Combine the visit with a detour to Motovun.",
+          "Drink responsibly during wine tastings."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bushaltestelle Vižinada & Zentrum",
+            "hu": "Vižinada buszmegálló & Központ",
+            "ro": "Stația de autobuz Vižinada și Centru",
+            "en": "Vižinada Bus Stop & Center"
+          },
+          "coords": [
+            13.7667,
+            45.3333
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Startpunkt im Herzen des Dorfes.",
+            "hu": "Kiindulópont a falu szívében.",
+            "ro": "Punct de plecare în inima satului.",
+            "en": "Starting point in the heart of the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Vormittagsspaziergang zu den Kirchen",
+            "hu": "Délelőtti séta a templomokhoz",
+            "ro": "Plimbare de dimineață la biserici",
+            "en": "Morning Walk to the Churches"
+          },
+          "coords": [
+            13.7675,
+            45.334
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuch von St. Jeronimus und St. Barnabas.",
+            "hu": "Szt. Jeromos és Szt. Barnabás templomok felkeresése.",
+            "ro": "Vizitarea bisericilor Sf. Ieronim și Sf. Barnaba.",
+            "en": "Visit St. Jerome and St. Barnabas churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Ort",
+            "hu": "Ebéd a faluban",
+            "ro": "Prânz în localitate",
+            "en": "Lunch in the Village"
+          },
+          "coords": [
+            13.7665,
+            45.3325
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Spezialitäten ohne Zeitdruck.",
+            "hu": "Élvezd a helyi specialitásokat sietség nélkül.",
+            "ro": "Bucurați-vă de specialități locale fără grabă.",
+            "en": "Enjoy local specialties without time pressure."
+          }
+        },
+        {
+          "name": {
+            "de": "Wanderung zum Parenzana Pfad",
+            "hu": "Séta a Parenzana ösvényhez",
+            "ro": "Drumeție spre cărarea Parenzana",
+            "en": "Hike to Parenzana Path"
+          },
+          "coords": [
+            13.775,
+            45.338
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Leichte Wanderung mit schöner Aussicht.",
+            "hu": "Könnyű túra szép kilátással.",
+            "ro": "Drumeție ușoară cu o vedere frumoasă.",
+            "en": "Easy hike with a beautiful view."
+          }
+        },
+        {
+          "name": {
+            "de": "Letzter Kaffee am Hauptplatz",
+            "hu": "Utolsó kávé a főtéren",
+            "ro": "Ultima cafea în piața centrală",
+            "en": "Last Coffee at the Main Square"
+          },
+          "coords": [
+            13.7667,
+            45.3333
+          ],
+          "category": "gastro",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannung vor der Rückfahrt.",
+            "hu": "Pihenés a visszautazás előtt.",
+            "ro": "Relaxare înainte de plecare.",
+            "en": "Relaxation before the return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vižinada ist ideal für einen entschleunigten Tag mit öffentlichen Verkehrsmitteln. Wir erkunden die historischen Schätze wie die venezianische Zisterne und die Kirchen zu Fuß. Ein ausgiebiges Mittagessen und eine kleine Wanderung auf der Parenzana-Strecke lassen uns tief in die istrisches Atmosphäre eintauchen, bevor uns der Bus wieder zurückbringt.",
+        "hu": "Vižinada ideális egy lassú, tömegközlekedéssel töltött naphoz. Gyalogosan fedezzük fel a történelmi kincseket, mint a velencei ciszterna és a templomok. Egy kiadós ebéd és egy kis túra a Parenzana útvonalon segít elmélyedni az isztriai hangulatban, mielőtt a busz visszavinne minket.",
+        "ro": "Vižinada este ideală pentru o zi relaxată cu transportul public. Explorăm pe jos comorile istorice, precum cisterna venețiană și bisericile. Un prânz copios și o mică drumeție pe traseul Parenzana ne permit să ne cufundăm în atmosfera istriană, înainte ca autobuzul să ne ducă înapoi.",
+        "en": "Vižinada is ideal for a slow-paced day using public transport. We explore the historical treasures like the Venetian cistern and the churches on foot. A hearty lunch and a short hike on the Parenzana route allow us to immerse ourselves deeply in the Istrian atmosphere before the bus takes us back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caffe Bar Circolo",
+            "tip": "Treffpunkt der Einheimischen für einen Espresso."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caffe Bar Circolo",
+            "tip": "A helyiek találkozóhelye egy jó eszpresszóra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caffe Bar Circolo",
+            "tip": "Loc de întâlnire al localnicilor pentru un espresso."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caffe Bar Circolo",
+            "tip": "Meeting spot for locals for an espresso."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Platz hinter der Kirche",
+            "tip": "Ein schattiger, ruhiger Ort zum Lesen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templom mögöti tér",
+            "tip": "Árnyékos, nyugodt hely olvasáshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din spatele bisericii",
+            "tip": "Un loc umbrit și liniștit pentru citit.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Square behind the Church",
+            "tip": "A shaded, quiet spot for reading.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleiner Dorfladen",
+            "tip": "Kaufen Sie hausgemachten Honig oder Marmelade."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kisbolt",
+            "tip": "Vásárolj házi mézet vagy lekvárt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin local",
+            "tip": "Cumpărați miere de casă sau gem."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small Village Shop",
+            "tip": "Buy homemade honey or jam."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busfahrpläne vorab, sie sind selten.",
+          "Die meisten Busse fahren von Poreč aus.",
+          "Vižinada ist sehr sicher und friedlich."
+        ],
+        "hu": [
+          "Ellenőrizd előre a buszmenetrendet, ritkán járnak járatok.",
+          "A legtöbb busz Poreč irányából érkezik.",
+          "Vižinada nagyon biztonságos és békés hely."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, sunt rare.",
+          "Majoritatea autobuzelor vin dinspre Poreč.",
+          "Vižinada este foarte sigură și liniștită."
+        ],
+        "en": [
+          "Check bus schedules in advance, services are infrequent.",
+          "Most buses run from Poreč.",
+          "Vižinada is very safe and peaceful."
+        ]
+      }
+    }
+  }
+}

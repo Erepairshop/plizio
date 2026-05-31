@@ -1,0 +1,906 @@
+{
+  "city_id": "croatia-trilj-cities-v2",
+  "anchor": {
+    "name": "Trilj",
+    "coords": [
+      43.6167,
+      16.7167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Muzej triljskog kraja",
+          "coords": [
+            43.6185,
+            16.7215
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie römische Artefakte aus dem nahegelegenen Lager Tilurium.",
+            "hu": "Fedezze fel a közeli Tilurium római táborból származó leleteket.",
+            "ro": "Descoperiți artefacte romane din tabăra Tilurium din apropiere.",
+            "en": "Explore Roman artifacts from the nearby Tilurium camp."
+          }
+        },
+        {
+          "name": "Most na Cetini",
+          "coords": [
+            43.6172,
+            16.7228
+          ],
+          "category": "monument",
+          "arrive_at": "11:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den smaragdgrünen Fluss Cetina.",
+            "hu": "Élvezze a kilátást a smaragdzöld Cetina-folyóra.",
+            "ro": "Bucurați-vă de priveliștea râului Cetina de culoarea smaraldului.",
+            "en": "Enjoy the view of the emerald-green Cetina river."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            43.6165,
+            16.7235
+          ],
+          "category": "gastro",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie die berühmten Cetina-Forellen oder lokale Arambaši.",
+            "hu": "Kóstolja meg a híres cetinai pisztrángot vagy a helyi arambašit.",
+            "ro": "Gustați păstrăvul faimos din Cetina sau arambași locali.",
+            "en": "Try the famous Cetina trout or local Arambaši."
+          }
+        },
+        {
+          "name": "Spaziergang am Fluss Cetina",
+          "coords": [
+            43.6145,
+            16.7185
+          ],
+          "category": "park",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein entspannender Weg entlang des kühlen Flussufers.",
+            "hu": "Pihentető séta a hűvös folyópart mentén.",
+            "ro": "O plimbare relaxantă de-a lungul malului răcoros al râului.",
+            "en": "A relaxing walk along the cool riverbank."
+          }
+        },
+        {
+          "name": "Tvrđava Nutjak",
+          "coords": [
+            43.6045,
+            16.7025
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Wanderung zu den Ruinen mit Blick auf den Canyon.",
+            "hu": "Túra a romokhoz, ahonnan kilátás nyílik a kanyonra.",
+            "ro": "Drumeție spre ruine cu vedere la canion.",
+            "en": "Hike to the ruins overlooking the canyon."
+          }
+        },
+        {
+          "name": "Naplemente-pihenő a kanyon felett",
+          "coords": [
+            43.605,
+            16.703
+          ],
+          "category": "sunset",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spektakuläre Farben über der Cetina-Schlucht.",
+            "hu": "Látványos színek a Cetina-szurdok felett.",
+            "ro": "Culori spectaculoase deasupra defileului Cetina.",
+            "en": "Spectacular colors over the Cetina canyon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Trilj ist das Herz des dalmatinischen Hinterlandes. Ihr Vormittag beginnt im Lokalmuseum mit antiken Schätzen. Nach einem Spaziergang über die Brücke genießen Sie die berühmte Gastronomie am Fluss. Der Nachmittag führt Sie zu den Ruinen der Festung Nutjak, wo die wilde Cetina-Schlucht zu Ihren Füßen liegt.",
+        "hu": "Trilj a dalmát hátország szíve. A délelőtt a helyi múzeumban indul antik kincsekkel. A hídon tett séta után élvezze a híres folyóparti gasztronómiát. A délután a Nutjak-erőd romjaihoz vezet, ahol a vad Cetina-szurdok terül el a lábai előtt.",
+        "ro": "Trilj este inima hinterlandului dalmat. Dimineața începe la muzeul local cu comori antice. După o plimbare pe pod, savurați gastronomia faimoasă de pe malul râului. După-amiaza vă duce la ruinele cetății Nutjak, unde defileul sălbatic al Cetinei se întinde la picioarele voastre.",
+        "en": "Trilj is the heart of the Dalmatian hinterland. Your morning begins at the local museum with ancient treasures. After a stroll across the bridge, enjoy the famous riverside gastronomy. The afternoon leads you to the ruins of Nutjak fortress, where the wild Cetina canyon lies at your feet."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Cetina",
+            "tip": "Hausgemachter Käse und frischer Fisch direkt vom Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Cetina",
+            "tip": "Házi sajt és friss hal közvetlenül a folyóból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Cetina",
+            "tip": "Brânză de casă și pește proaspăt direct din râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Cetina",
+            "tip": "Homemade cheese and fresh fish directly from the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cetina Ufer",
+            "tip": "Ruhiger Platz im Schatten der Weiden.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cetina part",
+            "tip": "Csendes hely a fűzfák árnyékában.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Cetinei",
+            "tip": "Loc liniștit la umbra sălciilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cetina Bank",
+            "tip": "Quiet spot in the shade of willow trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Honig und Olivenöl aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Méz és olívaolaj a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Miere și ulei de măsline din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Honey and olive oil from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Wanderschuhe für den Weg nach Nutjak tragen.",
+          "Die Wassertemperatur der Cetina ist auch im Sommer sehr erfrischend.",
+          "Besuchen Sie Trilj im September für lokale Feste."
+        ],
+        "hu": [
+          "Viseljen kényelmes túrabakancsot a Nutjak felé vezető úton.",
+          "A Cetina vízhőmérséklete még nyáron is nagyon frissítő.",
+          "Látogasson el Triljbe szeptemberben a helyi ünnepekre."
+        ],
+        "ro": [
+          "Purtați bocanci de drumeție confortabili pentru drumul spre Nutjak.",
+          "Temperatura apei Cetinei este foarte revigorantă chiar și vara.",
+          "Vizitați Trilj în septembrie pentru festivalurile locale."
+        ],
+        "en": [
+          "Wear comfortable hiking boots for the path to Nutjak.",
+          "The water temperature of Cetina is very refreshing even in summer.",
+          "Visit Trilj in September for local festivals."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 15.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Grabski mlinovi",
+          "coords": [
+            43.6425,
+            16.7645
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die jahrhundertealten Wassermühlen am Fluss Grab.",
+            "hu": "Csodálja meg az évszázados vízimalmokat a Grab-folyónál.",
+            "ro": "Admirați morile de apă vechi de secole de pe râul Grab.",
+            "en": "Admire the centuries-old water mills on the Grab river."
+          }
+        },
+        {
+          "name": "Rimski logor Tilurium",
+          "coords": [
+            43.6215,
+            16.7115
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Historische Ausgrabungen auf dem Hügel von Gardun.",
+            "hu": "Történelmi ásatások a Gardun-dombon.",
+            "ro": "Săpături istorice pe dealul Gardun.",
+            "en": "Historical excavations on the hill of Gardun."
+          }
+        },
+        {
+          "name": "Ebéd a folyóparton",
+          "coords": [
+            43.6165,
+            16.7235
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Eine wohlverdiente Pause nach dem Aufstieg nach Gardun.",
+            "hu": "Megérdemelt pihenő a garduni emelkedő után.",
+            "ro": "O pauză binemeritată după urcarea spre Gardun.",
+            "en": "A well-deserved break after the climb to Gardun."
+          }
+        },
+        {
+          "name": "Most na Cetini",
+          "coords": [
+            43.6172,
+            16.7228
+          ],
+          "category": "monument",
+          "arrive_at": "14:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Stadt Trilj.",
+            "hu": "Trilj városának jelképe.",
+            "ro": "Simbolul orașului Trilj.",
+            "en": "The landmark of Trilj city."
+          }
+        },
+        {
+          "name": "Muzej triljskog kraja",
+          "coords": [
+            43.6185,
+            16.7215
+          ],
+          "category": "museum",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schließen Sie die historische Reise hier ab.",
+            "hu": "Zárja itt a történelmi utazást.",
+            "ro": "Încheiați călătoria istorică aici.",
+            "en": "Complete the historical journey here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die Naturquellen von Grab mit der römischen Geschichte von Tilurium. Die Route nach Grab ist flach und idyllisch, während der Aufstieg nach Gardun Ihre Ausdauer fordert, aber mit einem atemberaubenden Panorama belohnt.",
+        "hu": "Ez a kerékpártúra összeköti Grab természeti forrásait Tilurium római történelmével. Az út Grab felé sík és idilli, míg a Gardunra való feljutás próbára teszi az állóképességét, de lélegzetelállító panorámával jutalmaz.",
+        "ro": "Acest tur cu bicicleta combină izvoarele naturale din Grab cu istoria romană din Tilurium. Traseul spre Grab este plat și idilic, în timp ce urcarea spre Gardun vă testează rezistența, dar vă răsplătește cu o panoramă uluitoare.",
+        "en": "This bike tour connects the natural springs of Grab with the Roman history of Tilurium. The route to Grab is flat and idyllic, while the climb to Gardun tests your endurance but rewards you with a breathtaking panorama."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Premijer",
+            "tip": "Bekannt für lokale Wildgerichte und Pasteten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Premijer",
+            "tip": "Helyi vadételekről és pástétomokról ismert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Premijer",
+            "tip": "Cunoscut pentru preparate din vânat local și pateuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Premijer",
+            "tip": "Known for local game dishes and pâtés."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Izvor Graba",
+            "tip": "Magische Quelle umgeben von alten Mühlen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grab-forrás",
+            "tip": "Varázslatos forrás régi malmokkal körülvéve.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Izvorul Graba",
+            "tip": "Sursă magică înconjurată de mori vechi.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Grab Source",
+            "tip": "Magical spring surrounded by old mills.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Mühle in Grab",
+            "tip": "Kaufen Sie frisch gemahlenes Mehl direkt in der Mühle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grabi malom",
+            "tip": "Vásároljon frissen őrölt lisztet közvetlenül a malomból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moara din Grab",
+            "tip": "Cumpărați făină proaspăt măcinată direct de la moară."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grab Mill",
+            "tip": "Buy freshly ground flour directly from the mill."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt von Gardun.",
+          "In Grab gibt es viele schattige Picknickplätze.",
+          "Die Straßen sind meist verkehrsarm."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a Gardunról való leereszkedés előtt.",
+          "Grabban sok árnyékos piknikezőhely található.",
+          "Az utak többnyire forgalommentesek."
+        ],
+        "ro": [
+          "Verificați frânele înainte de a coborî de pe Gardun.",
+          "În Grab există multe locuri de picnic umbrite.",
+          "Drumurile sunt în mare parte ferite de trafic."
+        ],
+        "en": [
+          "Check your brakes before descending from Gardun.",
+          "There are many shaded picnic spots in Grab.",
+          "The roads are mostly low-traffic."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 22.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Tvrđava Nutjak",
+          "coords": [
+            43.6045,
+            16.7025
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Parken Sie an der Hauptstraße und gehen Sie den Pfad zur Festung.",
+            "hu": "Parkoljon a főúton, és sétáljon az ösvényen az erődhöz.",
+            "ro": "Parcați pe drumul principal și mergeți pe potecă spre cetate.",
+            "en": "Park on the main road and walk the path to the fortress."
+          }
+        },
+        {
+          "name": "Rimski logor Tilurium",
+          "coords": [
+            43.6215,
+            16.7115
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Die antike Militärbasis bietet einen weiten Blick über das Feld.",
+            "hu": "Az ókori katonai bázis tágas kilátást nyújt a mezőre.",
+            "ro": "Baza militară antică oferă o vedere largă asupra câmpului.",
+            "en": "The ancient military base offers a wide view over the field."
+          }
+        },
+        {
+          "name": "Most na Cetini",
+          "coords": [
+            43.6172,
+            16.7228
+          ],
+          "category": "monument",
+          "arrive_at": "12:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt in Trilj.",
+            "hu": "Trilj központi találkozóhelye.",
+            "ro": "Loc de întâlnire central în Trilj.",
+            "en": "Central meeting point in Trilj."
+          }
+        },
+        {
+          "name": "Ebéd a városban",
+          "coords": [
+            43.6165,
+            16.7235
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Spezialitäten am Flussufer.",
+            "hu": "Élvezze a helyi specialitásokat a folyóparton.",
+            "ro": "Savurați specialități locale pe malul râului.",
+            "en": "Enjoy local specialties by the riverbank."
+          }
+        },
+        {
+          "name": "Muzej triljskog kraja",
+          "coords": [
+            43.6185,
+            16.7215
+          ],
+          "category": "museum",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vertiefen Sie Ihr Wissen über die lokale Geschichte.",
+            "hu": "Mélyítse el tudását a helyi történelemről.",
+            "ro": "Aprofundați-vă cunoștințele despre istoria locală.",
+            "en": "Deepen your knowledge of local history."
+          }
+        },
+        {
+          "name": "Grabski mlinovi",
+          "coords": [
+            43.6425,
+            16.7645
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die funktionstüchtigen Mühlen am Ende des Tages.",
+            "hu": "Látogassa meg a működő malmokat a nap végén.",
+            "ro": "Vizitați morile funcționale la sfârșitul zilei.",
+            "en": "Visit the working mills at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie mühelos alle Highlights von Trilj. Beginnen Sie bei der Festung Nutjak und dem römischen Tilurium, bevor Sie ins Zentrum für ein Mittagessen am Fluss einkehren. Den Abschluss bildet die idyllische Siedlung Grab mit ihren historischen Wassermühlen.",
+        "hu": "Autóval könnyedén elérheti Trilj összes látnivalóját. Kezdje a Nutjak-erődnél és a római Tiluriumnál, mielőtt a központba térne egy folyóparti ebédre. A napot Grab idilli települése és történelmi vízimalmai zárják.",
+        "ro": "Cu mașina puteți ajunge fără efort la toate atracțiile din Trilj. Începeți la cetatea Nutjak și Tiluriumul roman, înainte de a reveni în centru pentru un prânz pe malul râului. Ziua se încheie cu așezarea idilică Grab și morile sale de apă istorice.",
+        "en": "By car, you can effortlessly reach all the highlights of Trilj. Start at Nutjak fortress and Roman Tilurium before heading to the center for a riverside lunch. The day concludes with the idyllic settlement of Grab and its historical water mills."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gostionica Dalmacija",
+            "tip": "Traditionelle Arambaši und hausgemachte Pasta."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gostionica Dalmacija",
+            "tip": "Hagyományos arambaši és házi tészta."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gostionica Dalmacija",
+            "tip": "Arambași tradiționali și paste de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gostionica Dalmacija",
+            "tip": "Traditional Arambaši and homemade pasta."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gardun Aussichtspunkt",
+            "tip": "Blick über das gesamte Cetina-Feld.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gardun kilátópont",
+            "tip": "Kilátás az egész Cetina-mezőre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Gardun",
+            "tip": "Vedere peste întregul câmp Cetina.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gardun Viewpoint",
+            "tip": "View over the entire Cetina field.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "OPG-Stände in Trilj",
+            "tip": "Kaufen Sie Käse und Wurstwaren direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "OPG árusok Triljben",
+            "tip": "Vásároljon sajtot és felvágottat közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabele OPG din Trilj",
+            "tip": "Cumpărați brânză și mezeluri direct de la producători."
+          }
+        ],
+        "en": [
+          {
+            "name": "OPG Stalls in Trilj",
+            "tip": "Buy cheese and cured meats directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Stadtzentrum ist meist einfach.",
+          "Die Straße nach Grab ist schmal, fahren Sie vorsichtig.",
+          "In Tilurium gibt es wenig Schatten, Sonnenhut mitnehmen."
+        ],
+        "hu": [
+          "A parkolás a városközpontban általában egyszerű.",
+          "A Grab felé vezető út keskeny, vezessen óvatosan.",
+          "Tiluriumban kevés az árnyék, vigyen szalmakalapot."
+        ],
+        "ro": [
+          "Parcarea în centrul orașului este de obicei ușoară.",
+          "Drumul spre Grab este îngust, conduceți cu atenție.",
+          "În Tilurium este puțină umbră, luați o pălărie de soare."
+        ],
+        "en": [
+          "Parking in the city center is usually easy.",
+          "The road to Grab is narrow, drive carefully.",
+          "There is little shade in Tilurium, bring a sun hat."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Most na Cetini",
+          "coords": [
+            43.6172,
+            16.7228
+          ],
+          "category": "monument",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ankunft mit dem Bus aus Split oder Sinj.",
+            "hu": "Érkezés busszal Splitből vagy Sinjből.",
+            "ro": "Sosire cu autobuzul din Split sau Sinj.",
+            "en": "Arrival by bus from Split or Sinj."
+          }
+        },
+        {
+          "name": "Muzej triljskog kraja",
+          "coords": [
+            43.6185,
+            16.7215
+          ],
+          "category": "museum",
+          "arrive_at": "09:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur wenige Gehminuten von der Bushaltestelle entfernt.",
+            "hu": "Csak pár perc séta a buszmegállótól.",
+            "ro": "La doar câteva minute de mers pe jos de stația de autobuz.",
+            "en": "Just a few minutes' walk from the bus stop."
+          }
+        },
+        {
+          "name": "Kávé a központi téren",
+          "coords": [
+            43.617,
+            16.7225
+          ],
+          "category": "gastro",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie das lokale Leben bei einem Kaffee.",
+            "hu": "Figyelje a helyi életet egy kávé mellett.",
+            "ro": "Observați viața locală la o cafea.",
+            "en": "Observe local life over a coffee."
+          }
+        },
+        {
+          "name": "Rimski logor Tilurium",
+          "coords": [
+            43.6215,
+            16.7115
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein lokales Taxi oder ein kurzer Aufstieg bringt Sie hierher.",
+            "hu": "Helyi taxi vagy egy rövid kaptató visz fel ide.",
+            "ro": "Un taxi local sau o scurtă urcare vă aduce aici.",
+            "en": "A local taxi or a short climb brings you here."
+          }
+        },
+        {
+          "name": "Folyóparti ebéd",
+          "coords": [
+            43.6165,
+            16.7235
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Frische Produkte aus der Region.",
+            "hu": "Friss termékek a régióból.",
+            "ro": "Produse proaspete din regiune.",
+            "en": "Fresh products from the region."
+          }
+        },
+        {
+          "name": "Cetina-folyó korzó",
+          "coords": [
+            43.615,
+            16.72
+          ],
+          "category": "park",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie vor der Rückreise.",
+            "hu": "Pihenjen a visszautazás előtt.",
+            "ro": "Relaxați-vă înainte de drumul de întoarcere.",
+            "en": "Relax before the journey back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Bus aus Split erreichen Sie Trilj bequem. Dieser Tag konzentriert sich auf das Stadtzentrum und den historischen Hügel Gardun. Genießen Sie die entspannte Atmosphäre am Fluss und die tiefen Einblicke in die römische Vergangenheit der Region.",
+        "hu": "Splitből busszal kényelmesen elérheti Triljt. Ez a nap a városközpontra és a történelmi Gardun-dombra összpontosít. Élvezze a folyóparti nyugodt légkört és a régió római múltjába való mély betekintést.",
+        "ro": "Puteți ajunge confortabil în Trilj cu autobuzul din Split. Această zi se concentrează pe centrul orașului și dealul istoric Gardun. Bucurați-vă de atmosfera relaxată de pe malul râului și de incursiunea în trecutul roman al regiunii.",
+        "en": "You can easily reach Trilj by bus from Split. This day focuses on the city center and the historical Gardun hill. Enjoy the relaxed riverside atmosphere and deep insights into the region's Roman past."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caffe Bar Bridge",
+            "tip": "Bester Platz für einen Espresso mit Blick auf die Cetina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caffe Bar Bridge",
+            "tip": "A legjobb hely egy eszpresszóhoz, kilátással a Cetinára."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caffe Bar Bridge",
+            "tip": "Cel mai bun loc pentru un espresso cu vedere la Cetina."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caffe Bar Bridge",
+            "tip": "Best spot for an espresso with a view of the Cetina."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark Trilj",
+            "tip": "Kleine grüne Oase im Zentrum.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trilj városi park",
+            "tip": "Kis zöld oázis a központban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului Trilj",
+            "tip": "Mică oază verde în centru.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Trilj City Park",
+            "tip": "Small green oasis in the center.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Probieren Sie Burek oder lokale Gebäcksorten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Kóstolja meg a bureket vagy a helyi süteményeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria locală",
+            "tip": "Gustați burek sau produse de patiserie locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bakery",
+            "tip": "Try burek or local pastries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Busfahrpläne sind oft flexibel, planen Sie Pufferzeit ein.",
+          "Alles im Zentrum ist fußläufig erreichbar.",
+          "Fragen Sie Einheimische nach dem Weg nach Gardun."
+        ],
+        "hu": [
+          "A buszmenetrendek gyakran rugalmasak, tervezzen be időt.",
+          "A központban minden sétatávolságra van.",
+          "Kérdezze a helyieket a Gardun felé vezető útról."
+        ],
+        "ro": [
+          "Orarele autobuzelor sunt adesea flexibile, planificați timp suplimentar.",
+          "Totul în centru este la mică distanță de mers pe jos.",
+          "Întrebați localnicii despre drumul spre Gardun."
+        ],
+        "en": [
+          "Bus schedules are often flexible, plan buffer time.",
+          "Everything in the center is within walking distance.",
+          "Ask locals for the way to Gardun."
+        ]
+      }
+    }
+  }
+}

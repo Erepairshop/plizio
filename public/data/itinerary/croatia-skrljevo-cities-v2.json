@@ -1,0 +1,976 @@
+{
+  "city_id": "croatia-skrljevo-cities-v2",
+  "anchor": {
+    "name": "Škrljevo",
+    "coords": [
+      14.5342,
+      45.3211
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Željeznički kolodvor Škrljevo",
+          "coords": [
+            14.533,
+            45.3235
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Historisches Bahnhofsgebäude aus der Zeit der Monarchie.",
+            "hu": "Történelmi vasútállomás az Osztrák-Magyar Monarchia idejéből.",
+            "ro": "Gara istorică din perioada Austro-Ungariei.",
+            "en": "Historic railway station building from the Austro-Hungarian era."
+          }
+        },
+        {
+          "name": "Crkva Presvetog Srca Isusova",
+          "coords": [
+            14.534,
+            45.3216
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neobarocke Architektur im Dorfzentrum.",
+            "hu": "Csodálja meg a falu központjában álló neobarokk templomot.",
+            "ro": "Admirați arhitectura neobarocă din centrul satului.",
+            "en": "Admire the neo-baroque architecture in the village center."
+          }
+        },
+        {
+          "name": "Suhozidi",
+          "coords": [
+            14.538,
+            45.316
+          ],
+          "category": "landmark",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "UNESCO-Weltkulturerbe: traditionelle Trockenmauern erkunden.",
+            "hu": "Fedezze fel a hagyományos szárazon rakott kőfalakat.",
+            "ro": "Explorați zidurile tradiționale din piatră uscată.",
+            "en": "Explore the traditional dry stone walls, a UNESCO heritage."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            14.535,
+            45.319
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Spezialitäten wie Maneštra.",
+            "hu": "Kóstolja meg a helyi specialitásokat, például a Maneštrát.",
+            "ro": "Gustați specialități locale, cum ar fi supa Maneštra.",
+            "en": "Try local specialties like the hearty Maneštra stew."
+          }
+        },
+        {
+          "name": "Vidikovac Bakarski zaljev",
+          "coords": [
+            14.5422,
+            45.3188
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spektakulärer Blick auf die Bucht von Bakar.",
+            "hu": "Lenyűgöző kilátás a Bakari-öbölre.",
+            "ro": "Vedere spectaculoasă asupra golfului Bakar.",
+            "en": "Spectacular view overlooking the Bakar Bay."
+          }
+        },
+        {
+          "name": "Kaffee- und Gelatopause",
+          "coords": [
+            14.5345,
+            45.3205
+          ],
+          "category": "gastro",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannung bei einem Espresso unter Einheimischen.",
+            "hu": "Pihenjen egy eszpresszó mellett a helyiek körében.",
+            "ro": "Relaxați-vă cu un espresso alături de localnici.",
+            "en": "Relax with an espresso among the locals."
+          }
+        },
+        {
+          "name": "Dorfplatz-Bummel",
+          "coords": [
+            14.5342,
+            45.3211
+          ],
+          "category": "square",
+          "arrive_at": "15:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ausklang des Tages im Ortskern.",
+            "hu": "A nap csendes lezárása a falu központjában.",
+            "ro": "Un final liniștit de zi în centrul satului.",
+            "en": "A quiet end to the day in the village center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Škrljevo bietet einen authentischen Einblick in das Leben im kroatischen Hinterland. Ihr Tag beginnt am historischen Bahnhof, gefolgt von einem Besuch der Herz-Jesu-Kirche. Der Vormittag steht im Zeichen der Suhozidi, der faszinierenden Trockenmauern, die die Landschaft prägen. Nach einem herzhaften Mittagessen in einer lokalen Konoba genießen Sie den weiten Blick vom Aussichtspunkt über die Bucht von Bakar, bevor Sie den Tag gemütlich im Dorf ausklingen lassen.",
+        "hu": "Škrljevo autentikus bepillantást nyújt a horvát hátország életébe. Napja a történelmi vasútállomáson kezdődik, majd a Jézus Szíve-templom megtekintésével folytatódik. A délelőtt a tájat meghatározó lenyűgöző suhozidi kőfalak felfedezésével telik. Egy helyi konobában elfogyasztott kiadós ebéd után élvezze a Bakari-öbölre nyíló tágas kilátást, mielőtt a napot kényelmesen zárná a faluban.",
+        "ro": "Škrljevo oferă o privire autentică asupra vieții din hinterlandul croat. Ziua începe la gara istorică, urmată de o vizită la Biserica Inima lui Isus. Dimineața este dedicată explorării fascinantelor ziduri de piatră uscată (suhozidi). După un prânz copios la o tavernă locală, bucurați-vă de priveliștea panoramică asupra golfului Bakar, înainte de a încheia ziua relaxat în sat.",
+        "en": "Škrljevo offers an authentic glimpse into life in the Croatian hinterland. Your day starts at the historic railway station, followed by a visit to the Church of the Sacred Heart of Jesus. The morning is spent exploring the fascinating dry stone walls (suhozidi) that define the landscape. After a hearty lunch in a local tavern, enjoy the panoramic view from the viewpoint over Bakar Bay before ending the day quietly in the village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokalni Specijaliteti",
+            "tip": "Probieren Sie Schinken und Käse aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi ínyencségek",
+            "tip": "Kóstolja meg a környékbeli sonkát és sajtokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Specialități locale",
+            "tip": "Încercați șunca și brânzeturile din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Delights",
+            "tip": "Try the regional prosciutto and artisan cheeses."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bakarski prezidi",
+            "tip": "Stille zwischen den alten Steinmauern genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bakari kőfalak",
+            "tip": "Csend és nyugalom a régi kőfalak között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile din Bakar",
+            "tip": "Bucurați-vă de liniște printre vechile ziduri de piatră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakar Stone Walls",
+            "tip": "Enjoy the silence among the ancient stone structures.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Frischer Salbeihonig direkt vom Imker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Friss zsályaméz közvetlenül a méhésztől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Miere proaspătă de salvie direct de la apicultor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Fresh sage honey directly from the beekeeper."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie feste Schuhe für die Wanderung zu den Trockenmauern.",
+          "Die Aussichtspunkte sind besonders am späten Nachmittag fotogen.",
+          "Der Ort ist hügelig, planen Sie ausreichend Zeit für die Anstiege ein.",
+          "Fragen Sie in der Konoba nach dem Hauswein der Region."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a kőfalakhoz vezető sétához.",
+          "A kilátópontok különösen késő délután fotogének.",
+          "A környék dombos, számoljon elegendő idővel az emelkedőkre.",
+          "Kérdezzen rá a konobában a helyi házi borra."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru plimbarea la zidurile de piatră.",
+          "Punctele de belvedere sunt extrem de fotogenice după-amiaza târziu.",
+          "Zona este deluroasă, rezervați-vă timp pentru urcușuri.",
+          "Întrebați la tavernă despre vinul casei din regiune."
+        ],
+        "en": [
+          "Wear sturdy shoes for the walk to the dry stone walls.",
+          "The viewpoints are especially photogenic in the late afternoon.",
+          "The area is hilly, so allow enough time for the inclines.",
+          "Ask at the tavern for the local house wine."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Željeznički kolodvor Škrljevo",
+          "coords": [
+            14.533,
+            45.3235
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt mit guter Anbindung.",
+            "hu": "Kiváló közlekedési kapcsolatokkal rendelkező kiindulópont.",
+            "ro": "Punct de plecare cu conexiuni bune.",
+            "en": "Starting point with good connections."
+          }
+        },
+        {
+          "name": "Crkva Presvetog Srca Isusova",
+          "coords": [
+            14.534,
+            45.3216
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Stopp im historischen Zentrum.",
+            "hu": "Rövid megálló a történelmi központban.",
+            "ro": "Scurtă oprire în centrul istoric.",
+            "en": "Short stop in the historic center."
+          }
+        },
+        {
+          "name": "Suhozidi",
+          "coords": [
+            14.538,
+            45.316
+          ],
+          "category": "landmark",
+          "arrive_at": "10:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Mit dem Rad entlang der Steinmauern fahren.",
+            "hu": "Kerékpározás a kőfalak mentén.",
+            "ro": "Ciclism de-a lungul zidurilor de piatră.",
+            "en": "Cycling along the ancient stone walls."
+          }
+        },
+        {
+          "name": "Vidikovac Bakarski zaljev",
+          "coords": [
+            14.5422,
+            45.3188
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Anspruchsvoller Anstieg, belohnt durch Aussicht.",
+            "hu": "Kihívást jelentő emelkedő, csodás kilátással jutalmazva.",
+            "ro": "Urcuș provocator, răsplătit cu o vedere superbă.",
+            "en": "Challenging climb rewarded with a great view."
+          }
+        },
+        {
+          "name": "Ebéd egy konobában",
+          "coords": [
+            14.535,
+            45.319
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Stärken Sie sich für die Weiterfahrt.",
+            "hu": "Töltődjön fel a folytatáshoz.",
+            "ro": "Reîncărcați-vă bateriile pentru drum.",
+            "en": "Refuel for the rest of your ride."
+          }
+        },
+        {
+          "name": "Panoramastraße-Rundfahrt",
+          "coords": [
+            14.53,
+            45.315
+          ],
+          "category": "landmark",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die karstigen Landschaften.",
+            "hu": "Élvezze a karsztvidéki tájat.",
+            "ro": "Bucurați-vă de peisajele carstice.",
+            "en": "Enjoy the rugged karst landscapes."
+          }
+        },
+        {
+          "name": "Sonnenuntergangspause",
+          "coords": [
+            14.5342,
+            45.3211
+          ],
+          "category": "sunset",
+          "arrive_at": "15:10",
+          "stay_min": 35,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Abschluss im Dorf vor der Rückkehr.",
+            "hu": "A túra zárása a faluban az indulás előtt.",
+            "ro": "Finalul turului în sat înainte de plecare.",
+            "en": "End of the tour in the village before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour durch Škrljevo kombiniert sportliche Herausforderung mit kulturellen Entdeckungen. Ausgehend vom Bahnhof führt der Weg zur Kirche und weiter in die Karstlandschaft der Suhozidi. Der Anstieg zum Aussichtspunkt Bakar fordert die Waden, bietet aber ein unvergleichliches Panorama. Nach einer Rast bei lokaler Küche erkunden Sie die gewundenen Straßen des Hinterlandes, bevor die Tour im Ortskern endet.",
+        "hu": "A Škrljevón átvezető kerékpártúra a sportos kihívást ötvözi a kulturális felfedezésekkel. Az állomásról indulva az út a templomhoz, majd tovább a suhozidi karsztvidékre vezet. A Bakari-kilátóhoz vezető emelkedő megdolgoztatja a lábakat, de páratlan panorámát kínál. A helyi konyha mellett tartott pihenő után fedezze fel a hátország kanyargós útjait, mielőtt a túra a falu központjában véget érne.",
+        "ro": "Turul cu bicicleta prin Škrljevo combină provocarea sportivă cu descoperirile culturale. Plecând de la gară, traseul duce la biserică și apoi în peisajul carstic al zidurilor suhozidi. Urcușul către punctul de belvedere Bakar solicită picioarele, dar oferă o panoramă inegalabilă. După o pauză cu preparate locale, explorați drumurile șerpuite ale hinterlandului înainte de a încheia turul în centrul satului.",
+        "en": "The bike tour through Škrljevo combines physical challenge with cultural discovery. Starting from the station, the route leads to the church and further into the karst landscape of the suhozidi stone walls. The climb to the Bakar viewpoint tests your legs but offers an unparalleled panorama. After a break with local cuisine, explore the winding roads of the hinterland before the tour ends in the village center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pršut",
+            "tip": "Luftgetrockneter Schinken der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pršut",
+            "tip": "A régió levegőn szárított sonkája."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pršut",
+            "tip": "Șuncă maturată în aer liber din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pršut",
+            "tip": "Air-dried ham from the local region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Karst-Pfade",
+            "tip": "Abgelegene Wege für Radfahrer.",
+            "emoji": "🚴"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Karszt-ösvények",
+            "tip": "Elszigetelt utak kerékpárosoknak.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci carstice",
+            "tip": "Drumuri izolate pentru bicicliști.",
+            "emoji": "🚵"
+          }
+        ],
+        "en": [
+          {
+            "name": "Karst Paths",
+            "tip": "Secluded paths for cyclists.",
+            "emoji": "🚴"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl",
+            "tip": "Kaltgepresstes Öl von lokalen Hainen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj",
+            "tip": "Hidegen sajtolt olaj helyi ligetekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline",
+            "tip": "Ulei presat la rece din livezi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil",
+            "tip": "Cold-pressed oil from local groves."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor den steilen Abfahrten zum Meer.",
+          "Nehmen Sie ausreichend Wasser mit, im Karst gibt es wenig Schatten.",
+          "Ein Mountainbike ist für die unbefestigten Wege ideal.",
+          "Achten Sie auf Wanderer auf den schmalen Pfaden."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeit a tenger felé vezető meredek lejtők előtt.",
+          "Vigyen magával elegendő vizet, a karszton kevés az árnyék.",
+          "A hegyi kerékpár ideális a nem aszfaltozott utakhoz.",
+          "Figyeljen a gyalogosokra a keskeny ösvényeken."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârile abrupte spre mare.",
+          "Luați suficientă apă, deoarece în zona carstică este puțină umbră.",
+          "O bicicletă montană este ideală pentru drumurile neasfaltate.",
+          "Fiți atenți la excursioniști pe potecile înguste."
+        ],
+        "en": [
+          "Check your brakes before the steep descents toward the sea.",
+          "Bring plenty of water, as there is little shade in the karst area.",
+          "A mountain bike is ideal for the unpaved paths.",
+          "Be mindful of hikers on the narrow trails."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Crkva Presvetog Srca Isusova",
+          "coords": [
+            14.534,
+            45.3216
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie bequem am zentralen Platz.",
+            "hu": "Parkoljon kényelmesen a központi téren.",
+            "ro": "Parcați confortabil în piața centrală.",
+            "en": "Park conveniently at the central square."
+          }
+        },
+        {
+          "name": "Željeznički kolodvor Škrljevo",
+          "coords": [
+            14.533,
+            45.3235
+          ],
+          "category": "transit",
+          "arrive_at": "10:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum historischen Bahnhof.",
+            "hu": "Rövid autózás a történelmi vasútállomáshoz.",
+            "ro": "Scurtă călătorie până la gara istorică.",
+            "en": "Short drive to the historic railway station."
+          }
+        },
+        {
+          "name": "Vidikovac Bakarski zaljev",
+          "coords": [
+            14.5422,
+            45.3188
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Direkte Zufahrt zum Aussichtspunkt möglich.",
+            "hu": "Közvetlen autós feljutás a kilátóhoz.",
+            "ro": "Acces auto direct la punctul de belvedere.",
+            "en": "Direct car access possible to the viewpoint."
+          }
+        },
+        {
+          "name": "Suhozidi (Cluster)",
+          "coords": [
+            14.538,
+            45.316
+          ],
+          "category": "landmark",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Parken und zu Fuß durch die Mauern wandern.",
+            "hu": "Parkolás után sétáljon a kőfalak között.",
+            "ro": "Parcați și mergeți pe jos printre ziduri.",
+            "en": "Park and walk among the stone walls."
+          }
+        },
+        {
+          "name": "Prânz la o tavernă",
+          "coords": [
+            14.535,
+            45.319
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Lokale Küche genießen ohne Parkplatzsuche.",
+            "hu": "Élvezze a helyi konyhát parkolási gondok nélkül.",
+            "ro": "Bucurați-vă de bucătăria locală fără grija parcării.",
+            "en": "Enjoy local cuisine without parking worries."
+          }
+        },
+        {
+          "name": "Panorama-Ausklang",
+          "coords": [
+            14.5342,
+            45.3211
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letzter Blick über die Kvarner-Region.",
+            "hu": "Utolsó pillantás a Kvarner-régióra.",
+            "ro": "O ultimă privire asupra regiunii Kvarner.",
+            "en": "Final look over the Kvarner region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lässt sich Škrljevo und seine hügelige Umgebung bequem erkunden. Sie beginnen im Ortskern an der Kirche und dem Bahnhof, zwei Zeugen der lokalen Geschichte. Ein kurzer Transfer bringt Sie zum spektakulären Aussichtspunkt über Bakar. Der Nachmittag gehört dem 'Cluster-Walking' bei den Suhozidi-Mauern, wo Sie das Fahrzeug abstellen und in die Natur eintauchen, gefolgt von einem entspannten Mittagessen.",
+        "hu": "Autóval kényelmesen felfedezhető Škrljevo és dombos környéke. A falu központjában, a templomnál és az állomásnál kezd, melyek a helyi történelem tanúi. Egy rövid autózás után eljut a Bakar feletti látványos kilátóhoz. A délután a 'klaszter-sétáé' a suhozidi kőfalaknál: hagyja ott az autót és merüljön el a természetben, majd élvezzen egy pihentető ebédet.",
+        "ro": "Cu mașina, puteți explora confortabil Škrljevo și împrejurimile sale deluroase. Începeți în centrul satului, la biserică și gară, două mărturii ale istoriei locale. O scurtă călătorie vă duce la punctul de belvedere spectaculos de deasupra Bakarului. După-amiaza este dedicată plimbării în jurul zidurilor suhozidi: lăsați mașina și intrați în natură, urmată de un prânz relaxant.",
+        "en": "By car, you can comfortably explore Škrljevo and its hilly surroundings. Start in the village center at the church and station, two witnesses to local history. A short drive takes you to the spectacular viewpoint above Bakar. The afternoon is dedicated to 'cluster-walking' near the suhozidi walls: leave the car and immerse yourself in nature, followed by a relaxed lunch."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bakar-Wein",
+            "tip": "Spezialitäten aus den umliegenden Weinbergen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bakari bor",
+            "tip": "Különlegességek a környező szőlőültetvényekről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Bakar",
+            "tip": "Specialități din podgoriile învecinate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakar Wine",
+            "tip": "Specialties from the surrounding vineyards."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bucht-Panorama",
+            "tip": "Ruhiger Halt am Straßenrand.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Öböl-panoráma",
+            "tip": "Csendes megálló az út mentén.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panorama golfului",
+            "tip": "Popas liniștit pe marginea drumului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bay Panorama",
+            "tip": "Quiet stop along the roadside.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Käse",
+            "tip": "Direkt bei lokalen Bauern kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi sajt",
+            "tip": "Vásároljon közvetlenül a helyi gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de casă",
+            "tip": "Cumpărați direct de la fermierii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Cheese",
+            "tip": "Purchase directly from local farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind eng und kurvig, fahren Sie vorsichtig.",
+          "Parkplätze sind im Ortskern begrenzt, nutzen Sie die markierten Flächen.",
+          "Kombinieren Sie die Fahrt mit einem Besuch im nahen Rijeka.",
+          "Tanken Sie vor den Bergfahrten im Küstenbereich auf."
+        ],
+        "hu": [
+          "Az utak szűkek és kanyargósak, vezessen óvatosan.",
+          "A parkolóhelyek száma korlátozott, használja a kijelölt helyeket.",
+          "Kombinálja az utat a közeli Fiume (Rijeka) meglátogatásával.",
+          "Tankoljon a tengerparti részen a hegyi utak előtt."
+        ],
+        "ro": [
+          "Drumurile sunt înguste și șerpuite, conduceți cu atenție.",
+          "Locurile de parcare sunt limitate, folosiți zonele marcate.",
+          "Combinați călătoria cu o vizită în apropierea orașului Rijeka.",
+          "Alimentați cu combustibil pe coastă înainte de drumurile montane."
+        ],
+        "en": [
+          "The roads are narrow and winding, drive with care.",
+          "Parking is limited in the village center, use designated areas.",
+          "Combine the trip with a visit to nearby Rijeka.",
+          "Fuel up at the coast before heading into the mountains."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Željeznički kolodvor Škrljevo",
+          "coords": [
+            14.533,
+            45.3235
+          ],
+          "category": "transit",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ankunft mit dem Regionalzug aus Rijeka.",
+            "hu": "Érkezés a Fiuméből induló személyvonattal.",
+            "ro": "Sosire cu trenul regional din Rijeka.",
+            "en": "Arrival by regional train from Rijeka."
+          }
+        },
+        {
+          "name": "Crkva Presvetog Srca Isusova",
+          "coords": [
+            14.534,
+            45.3216
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Bahnhof.",
+            "hu": "Rövid séta a vasútállomástól.",
+            "ro": "Scurtă plimbare de la gară.",
+            "en": "Short walk from the railway station."
+          }
+        },
+        {
+          "name": "Suhozidi",
+          "coords": [
+            14.538,
+            45.316
+          ],
+          "category": "landmark",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wanderung zu den historischen Steinmauern.",
+            "hu": "Túra a történelmi kőfalakhoz.",
+            "ro": "Drumeție către zidurile istorice de piatră.",
+            "en": "Hike to the historic stone walls."
+          }
+        },
+        {
+          "name": "Lunch in a tavern",
+          "coords": [
+            14.535,
+            45.319
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Traditionelles Mittagessen im Ort.",
+            "hu": "Hagyományos ebéd a faluban.",
+            "ro": "Prânz tradițional în sat.",
+            "en": "Traditional lunch in the village."
+          }
+        },
+        {
+          "name": "Vidikovac Bakarski zaljev",
+          "coords": [
+            14.5422,
+            45.3188
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar, herrliche Aussicht.",
+            "hu": "Gyalogosan elérhető, csodás kilátás.",
+            "ro": "Accesibil pe jos, priveliște minunată.",
+            "en": "Accessible on foot, magnificent view."
+          }
+        },
+        {
+          "name": "Dorfplatz-Ausklang",
+          "coords": [
+            14.5342,
+            45.3211
+          ],
+          "category": "square",
+          "arrive_at": "15:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Gemütliches Warten auf den Rückzug.",
+            "hu": "Kellemes várakozás a visszainduló vonatra.",
+            "ro": "Așteptare plăcută pentru trenul de întoarcere.",
+            "en": "Pleasant wait for the return train."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Zug ist Škrljevo perfekt für einen stressfreien Tagesausflug erreichbar. Vom Bahnhof aus erkunden Sie das Dorf zu Fuß. Die Wanderung zu den Suhozidi und dem Aussichtspunkt über die Bucht von Bakar lässt sich wunderbar mit einem traditionellen Mittagessen verbinden. Genießen Sie die Ruhe abseits der Touristenströme, bevor Sie bequem mit dem Regionalzug die Heimreise antreten.",
+        "hu": "Vonattal Škrljevo tökéletesen elérhető egy stresszmentes egynapos kiránduláshoz. Az állomásról gyalogosan fedezheti fel a falut. A suhozidi kőfalakhoz és a Bakari-öbölre néző kilátóhoz vezető séta kiválóan összeköthető egy hagyományos ebéddel. Élvezze a turisták áradatától távoli nyugalmat, mielőtt kényelmesen visszautazna a személyvonattal.",
+        "ro": "Cu trenul, Škrljevo este perfect accesibil pentru o excursie de o zi fără stres. De la gară, explorați satul pe jos. Drumeția către zidurile suhozidi și punctul de belvedere de deasupra golfului Bakar poate fi combinată minunat cu un prânz tradițional. Bucurați-vă de liniște departe de fluxurile de turiști înainte de a reveni confortabil cu trenul regional.",
+        "en": "By train, Škrljevo is perfectly accessible for a stress-free day trip. From the station, explore the village on foot. The walk to the suhozidi walls and the viewpoint overlooking Bakar Bay can be easily combined with a traditional lunch. Enjoy the peace away from the tourist crowds before heading back comfortably by regional train."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hauswein",
+            "tip": "Probieren Sie den Weißwein der Kvarner-Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi bor",
+            "tip": "Kóstolja meg a Kvarner-régió fehérborát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinul casei",
+            "tip": "Gustați vinul alb din regiunea Kvarner."
+          }
+        ],
+        "en": [
+          {
+            "name": "House Wine",
+            "tip": "Try the white wine of the Kvarner region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bahnhofsbank",
+            "tip": "Warten in historischem Ambiente.",
+            "emoji": "🚉"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vasúti pad",
+            "tip": "Várakozás történelmi környezetben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Banca gării",
+            "tip": "Așteptare într-o ambianță istorică.",
+            "emoji": "🚉"
+          }
+        ],
+        "en": [
+          {
+            "name": "Station Bench",
+            "tip": "Waiting in a historic ambiance.",
+            "emoji": "🚉"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigtes",
+            "tip": "Kleine Souvenirs von lokalen Handwerkern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves termékek",
+            "tip": "Apró ajándékok helyi kézművesektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse artizanale",
+            "tip": "Mici suveniruri de la artizanii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handcrafted items",
+            "tip": "Small souvenirs from local artisans."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan der Züge vorab (HŽ Putnički prijevoz).",
+          "Vom Bahnhof zum Ortskern ist es ein kleiner Anstieg.",
+          "Die Züge fahren unregelmäßig, planen Sie Pufferzeiten ein.",
+          "Nutzen Sie die App für den Ticketkauf."
+        ],
+        "hu": [
+          "Előre ellenőrizze a vonatmenetrendet (HŽ Putnički prijevoz).",
+          "Az állomástól a falu központjáig egy kis emelkedő vezet.",
+          "A vonatok ritkán járnak, számoljon némi várakozási idővel.",
+          "Használja az alkalmazást a jegyvásárláshoz."
+        ],
+        "ro": [
+          "Verificați orarul trenurilor în prealabil (HŽ Putnički prijevoz).",
+          "De la gară la centrul satului este un mic urcuș.",
+          "Trenurile circulă neregulat, planificați-vă timpul de rezervă.",
+          "Folosiți aplicația pentru achiziționarea biletelor."
+        ],
+        "en": [
+          "Check the train schedule in advance (HŽ Putnički prijevoz).",
+          "It's a small uphill walk from the station to the village center.",
+          "Trains run infrequently, so plan for some buffer time.",
+          "Use the app for ticket purchases."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,976 @@
+{
+  "city_id": "croatia-drnis-cities-v2",
+  "anchor": {
+    "name": "Drniš",
+    "coords": [
+      16.1569,
+      43.8606
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Kaffee-Pause am Hauptplatz",
+          "coords": [
+            16.1569,
+            43.8606
+          ],
+          "category": "gastro",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Probieren Sie den lokalen Kaffee im Schatten der Bäume.",
+            "hu": "Kóstolja meg a helyi kávét az árnyas fák alatt.",
+            "ro": "Gustați cafeaua locală la umbra copacilor.",
+            "en": "Try the local coffee under the shade of the trees."
+          }
+        },
+        {
+          "name": "Skulptura 'Vrelo života'",
+          "coords": [
+            16.1545,
+            43.8612
+          ],
+          "category": "monument",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein Meisterwerk von Ivan Meštrović im Stadtpark.",
+            "hu": "Ivan Meštrović mesterműve a városi parkban.",
+            "ro": "O capodoperă de Ivan Meštrović în parcul orașului.",
+            "en": "A masterpiece by Ivan Meštrović in the city park."
+          }
+        },
+        {
+          "name": "Crkva sv. Ante",
+          "coords": [
+            16.1522,
+            43.8625
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ehemals eine Moschee, heute eine barocke Kirche.",
+            "hu": "Egykor mecset volt, ma barokk templom.",
+            "ro": "Fostă moschee, astăzi o biserică barocă.",
+            "en": "Formerly a mosque, today a Baroque church."
+          }
+        },
+        {
+          "name": "Traditionelles Mittagessen (Pršut)",
+          "coords": [
+            16.1515,
+            43.8615
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Drnišer Rohschinken ist weltberühmt, ein Muss!",
+            "hu": "A drniši sonka világhírű, kötelező megkóstolni!",
+            "ro": "Șunca de Drniš este faimoasă în lume, un must-try!",
+            "en": "Drniš prosciutto is world-famous, a must-try!"
+          }
+        },
+        {
+          "name": "Utvrda Gradina",
+          "coords": [
+            16.1485,
+            43.8618
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf den Čikola-Canyon.",
+            "hu": "Élvezze a kilátást a Čikola-kanyonra.",
+            "ro": "Bucurați-vă de priveliștea asupra canionului Čikola.",
+            "en": "Enjoy the view over the Čikola canyon."
+          }
+        },
+        {
+          "name": "Panoramaspaziergang am Canyon",
+          "coords": [
+            16.1465,
+            43.8605
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Perfekter Ort für Naturfotos am Abgrund.",
+            "hu": "Tökéletes hely természetfotókhoz a szakadék szélén.",
+            "ro": "Locul perfect pentru fotografii de natură pe marginea prăpastiei.",
+            "en": "Perfect spot for nature photos by the precipice."
+          }
+        },
+        {
+          "name": "Gelato-Pause und Abschied",
+          "coords": [
+            16.1555,
+            43.8608
+          ],
+          "category": "gastro",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein süßer Abschluss des Tages im Zentrum.",
+            "hu": "A nap édes lezárása a központban.",
+            "ro": "O încheiere dulce a zilei în centru.",
+            "en": "A sweet conclusion to the day in the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das Herz von Drniš, beginnend mit Ivan Meštrovićs berühmter Skulptur und der faszinierenden Geschichte der St.-Antonius-Kirche. Der Vormittag steht ganz im Zeichen der Kunst und Architektur. Mittags tauchen Sie in die kulinarische Welt ein und probieren den legendären Drnišer Pršut in einer lokalen Konoba. Der Nachmittag führt Sie hinauf zur Festung Gradina, wo die Geschichte auf die spektakuläre Natur des Čikola-Canyons trifft. Den Tag lassen Sie entspannt bei einem Spaziergang und einem Eis ausklingen.",
+        "hu": "A reggelt Drniš szívének felfedezésével töltjük, kezdve Ivan Meštrović híres szobrával és a Szent Antal-templom lenyűgöző történetével. A délelőtt a művészet és az építészet jegyében telik. Délben elmerülünk a gasztronómiában, megkóstolva a legendás drniši sonkát egy helyi konobában. A délután a Gradina erődhöz vezet, ahol a történelem találkozik a Čikola-kanyon látványos természetével. A napot pihentető sétával és egy fagyival zárjuk.",
+        "ro": "Dimineața veți explora inima orașului Drniš, începând cu celebra sculptură a lui Ivan Meštrović și istoria fascinantă a bisericii Sf. Anton. Dimineața este dedicată artei și arhitecturii. La prânz, vă veți delecta cu gastronomia locală, gustând legendara șuncă de Drniš într-o konoba. După-amiaza vă duce la fortăreața Gradina, unde istoria se întâlnește cu natura spectaculoasă a canionului Čikola. Încheiați ziua relaxat, cu o plimbare și o înghețată.",
+        "en": "In the morning, explore the heart of Drniš, starting with Ivan Meštrović's famous sculpture and the fascinating history of St. Anthony's Church. The morning is dedicated to art and architecture. At noon, dive into the culinary world by tasting the legendary Drniš prosciutto in a local konoba. The afternoon leads you up to the Gradina fortress, where history meets the spectacular nature of the Čikola canyon. End the day with a relaxing stroll and a gelato."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Tomic",
+            "tip": "Probieren Sie den Drnišer Pršut und Schafskäse aus dem Sack."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Tomic",
+            "tip": "Kóstolja meg a drniši sonkát és a tömlős juhsajtot (sir iz mišine)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Tomic",
+            "tip": "Gustați șunca de Drniš și brânza de oaie din burduf."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Tomic",
+            "tip": "Try the Drniš prosciutto and sheep cheese from the sack (sir iz mišine)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gradina Aussichtspunkt",
+            "tip": "Ruhiger Blick über den Canyon bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gradina kilátó",
+            "tip": "Csendes kilátás a kanyonra naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Gradina",
+            "tip": "Vedere liniștită peste canion la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gradina Viewpoint",
+            "tip": "Quiet view over the canyon at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Kaufen Sie authentischen Honig und Wein aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Vásároljon autentikus mézet és helyi bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați miere autentică și vin local din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Buy authentic honey and local wine from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Aufstieg zur Festung.",
+          "Die Mittagshitze meidet man am besten im Stadtpark.",
+          "Drniš ist bekannt für seine Gastfreundschaft.",
+          "Ein Foto am 'Vrelo života' ist Pflicht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az erődbe való feljutáshoz.",
+          "A déli hőséget a legjobb a városi parkban átvészelni.",
+          "Drniš híres a vendégszeretetéről.",
+          "Egy fotó a 'Vrelo života' szobornál kötelező."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru urcarea la fortăreață.",
+          "Căldura de la prânz se evită cel mai bine în parcul orașului.",
+          "Drniš este cunoscut pentru ospitalitatea sa.",
+          "O fotografie la 'Vrelo života' este obligatorie."
+        ],
+        "en": [
+          "Wear comfortable shoes for the climb to the fortress.",
+          "The midday heat is best avoided in the city park.",
+          "Drniš is known for its hospitality.",
+          "A photo at 'Vrelo života' is a must."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Skulptura 'Vrelo života'",
+          "coords": [
+            16.1545,
+            43.8612
+          ],
+          "category": "monument",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Starten Sie im Park mit Meštrovićs Kunst.",
+            "hu": "Kezdje a napot a parkban Meštrović művészetével.",
+            "ro": "Începeți ziua în parc cu arta lui Meštrović.",
+            "en": "Start the day in the park with Meštrović's art."
+          }
+        },
+        {
+          "name": "Crkva sv. Ante",
+          "coords": [
+            16.1522,
+            43.8625
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Stopp bei der historischen Kirche.",
+            "hu": "Rövid megálló a történelmi templomnál.",
+            "ro": "Scurt popas la biserica istorică.",
+            "en": "Short stop at the historical church."
+          }
+        },
+        {
+          "name": "Meštrovićev mauzolej (Otavice)",
+          "coords": [
+            16.2165,
+            43.8635
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Ein beeindruckendes Bauwerk in der kargen Landschaft.",
+            "hu": "Lenyűgöző építmény a kietlen tájban.",
+            "ro": "O construcție impresionantă în peisajul arid.",
+            "en": "An impressive structure in the barren landscape."
+          }
+        },
+        {
+          "name": "Picknick-Pause in der Natur",
+          "coords": [
+            16.185,
+            43.858
+          ],
+          "category": "park",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe der dalmatinischen Zagora.",
+            "hu": "Élvezze a dalmát Zagora nyugalmát.",
+            "ro": "Bucurați-vă de liniștea din Zagora dalmată.",
+            "en": "Enjoy the peace of the Dalmatian Zagora."
+          }
+        },
+        {
+          "name": "Utvrda Gradina",
+          "coords": [
+            16.1485,
+            43.8618
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Der krönende Abschluss mit Blick auf Drniš.",
+            "hu": "A nap fénypontja kilátással Drnišre.",
+            "ro": "Punctul culminant al zilei cu vedere spre Drniš.",
+            "en": "The highlight of the day with a view over Drniš."
+          }
+        },
+        {
+          "name": "Rückkehr und Erfrischung",
+          "coords": [
+            16.1569,
+            43.8606
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kühles Getränk nach der Tour.",
+            "hu": "Hűsítő ital a túra után.",
+            "ro": "O băutură răcoritoare după tur.",
+            "en": "Cool drink after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Fahrradtour verbindet die Stadt Drniš mit dem Geburtsort von Ivan Meštrović in Otavice. Nachdem Sie die Kunstwerke in der Stadt bewundert haben, radeln Sie durch die flache, aber charakteristische Landschaft zum beeindruckenden Mausoleum. Die Strecke ist landschaftlich reizvoll und bietet weite Ausblicke. Auf dem Rückweg erklimmen Sie die Festung Gradina, um den Panoramablick über den Čikola-Canyon zu genießen, bevor Sie den Tag entspannt im Zentrum beenden.",
+        "hu": "Ez a kerékpártúra összeköti Drniš városát Ivan Meštrović szülőhelyével, Otavicével. Miután megcsodáltuk a városi műalkotásokat, a jellegzetes tájon át kerekezünk a lenyűgöző mauzóleumhoz. Az útvonal látványos és tágas kilátást nyújt. Visszaúton felkapaszkodunk a Gradina erődhöz, hogy élvezzük a Čikola-kanyon panorámáját, majd a napot a központban zárjuk pihenéssel.",
+        "ro": "Acest tur cu bicicleta leagă orașul Drniš de locul de naștere al lui Ivan Meštrović, Otavice. După ce ați admirat operele de artă din oraș, pedalați prin peisajul caracteristic către impresionantul mausoleu. Traseul este pitoresc și oferă vederi largi. La întoarcere, urcați la fortăreața Gradina pentru a vă bucura de panorama canionului Čikola, înainte de a încheia ziua relaxat în centru.",
+        "en": "This bike tour connects the city of Drniš with Ivan Meštrović's birthplace in Otavice. After admiring the artworks in the city, cycle through the characteristic landscape to the impressive mausoleum. The route is scenic and offers wide views. On the way back, climb to the Gradina fortress to enjoy the panorama of the Čikola canyon before ending the day relaxed in the center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agroturizam Kalpic",
+            "tip": "Hausgemachte Speisen in der Nähe von Drniš."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agroturizam Kalpic",
+            "tip": "Házias ételek Drniš közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agroturizam Kalpic",
+            "tip": "Mâncare de casă în apropiere de Drniš."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agroturizam Kalpic",
+            "tip": "Homemade food near Drniš."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Otavice-Ebene",
+            "tip": "Stille Weite zwischen den Bergen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Otavice-síkság",
+            "tip": "Csendes tágasság a hegyek között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Câmpia Otavice",
+            "tip": "Liniște deplină între munți.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Otavice Plain",
+            "tip": "Quiet expanse between the mountains.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Winzer",
+            "tip": "Kaufen Sie eine Flasche Debit-Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borászok",
+            "tip": "Vásároljon egy üveg Debit bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinificatori locali",
+            "tip": "Cumpărați o sticlă de vin Debit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Winemakers",
+            "tip": "Buy a bottle of Debit wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke nach Otavice ist flach und gut zu fahren.",
+          "Nehmen Sie genügend Wasser mit, es gibt wenig Schatten.",
+          "Prüfen Sie den Wind, er kann in der Ebene stark sein.",
+          "Besuchen Sie das Mausoleum unbedingt von innen."
+        ],
+        "hu": [
+          "Az út Otavicébe sík és jól biciklizhető.",
+          "Vigyen magával elég vizet, kevés az árnyék.",
+          "Ellenőrizze a szelet, a síkságon erős lehet.",
+          "Mindenképpen nézze meg a mauzóleumot belülről is."
+        ],
+        "ro": [
+          "Traseul spre Otavice este plat și ușor de parcurs.",
+          "Luați destulă apă, este puțină umbră.",
+          "Verificați vântul, poate fi puternic în câmpie.",
+          "Vizitați neapărat interiorul mausoleului."
+        ],
+        "en": [
+          "The road to Otavice is flat and easy to ride.",
+          "Take enough water, there is little shade.",
+          "Check the wind, it can be strong on the plain.",
+          "Be sure to visit the interior of the mausoleum."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 35,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 22.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Zentrum Drniš & Café",
+          "coords": [
+            16.1569,
+            43.8606
+          ],
+          "category": "gastro",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie im Zentrum für den Stadtrundgang.",
+            "hu": "Parkoljon a központban a városi sétához.",
+            "ro": "Parcați în centru pentru turul orașului.",
+            "en": "Park in the center for the city walk."
+          }
+        },
+        {
+          "name": "Skulptura 'Vrelo života'",
+          "coords": [
+            16.1545,
+            43.8612
+          ],
+          "category": "monument",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "Scurtă plimbare de la parcare.",
+            "en": "Short walk from the parking lot."
+          }
+        },
+        {
+          "name": "Crkva sv. Ante",
+          "coords": [
+            16.1522,
+            43.8625
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Einzigartige Architektur in Gehweite.",
+            "hu": "Egyedülálló építészet sétatávolságra.",
+            "ro": "Arhitectură unică la mică distanță de mers pe jos.",
+            "en": "Unique architecture within walking distance."
+          }
+        },
+        {
+          "name": "Utvrda Gradina",
+          "coords": [
+            16.1485,
+            43.8618
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahrt zur Festung, Parkmöglichkeit direkt davor.",
+            "hu": "Hajtás az erődhöz, parkolás közvetlenül előtte.",
+            "ro": "Conduceți spre fortăreață, parcare chiar în față.",
+            "en": "Drive to the fortress, parking available right in front."
+          }
+        },
+        {
+          "name": "Mittagessen in Drniš",
+          "coords": [
+            16.1515,
+            43.8615
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie Spezialitäten der Zagora.",
+            "hu": "Élvezze a Zagora specialitásait.",
+            "ro": "Bucurați-vă de specialitățile din Zagora.",
+            "en": "Enjoy specialties of the Zagora."
+          }
+        },
+        {
+          "name": "Meštrovićev mauzolej (Otavice)",
+          "coords": [
+            16.2165,
+            43.8635
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt nach Otavice zum Mausoleum.",
+            "hu": "Rövid autózás Otavicébe a mauzóleumhoz.",
+            "ro": "Scurtă plimbare cu mașina până la Otavice pentru mausoleu.",
+            "en": "Short drive to Otavice for the mausoleum."
+          }
+        },
+        {
+          "name": "Panoramablick & Abschied",
+          "coords": [
+            16.218,
+            43.865
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Letzter Blick über das Feld von Drniš.",
+            "hu": "Utolsó pillantás a drniši mezőre.",
+            "ro": "Ultima vedere peste câmpia Drniš.",
+            "en": "Last look over the Drniš field."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour bietet die perfekte Kombination aus Drnišs Stadtzentrum, seiner Festung und dem nahegelegenen Dorf Otavice. Sie beginnen mit einem entspannten Stadtrundgang zu den wichtigsten Skulpturen und Kirchen. Mittags genießen Sie die berühmte lokale Küche, bevor Sie zur Festung Gradina hinauffahren. Den Nachmittag verbringen Sie in Otavice, wo Sie das monumentale Mausoleum von Meštrović bewundern können, eingebettet in die weite Landschaft der Zagora.",
+        "hu": "Ez az autós túra tökéletes kombinációja Drniš városközpontjának, erődjének és a közeli Otavice falunak. Egy pihentető városi sétával kezdünk a legfontosabb szobrokhoz és templomokhoz. Délben élvezzük a híres helyi konyhát, majd felhajtunk a Gradina erődhöz. A délutánt Otavicében töltjük, ahol megcsodálhatjuk Meštrović monumentális mauzóleumát, amely a Zagora tágas tájába simul.",
+        "ro": "Acest tur cu mașina oferă combinația perfectă între centrul orașului Drniš, fortăreața sa și satul învecinat Otavice. Începeți cu o plimbare relaxantă prin oraș la cele mai importante sculpturi și biserici. La prânz, vă bucurați de faimoasa bucătărie locală, înainte de a urca la fortăreața Gradina. După-amiaza o petreceți în Otavice, unde puteți admira mausoleul monumental al lui Meštrović, integrat în peisajul vast al regiunii Zagora.",
+        "en": "This car tour offers the perfect combination of Drniš's city center, its fortress, and the nearby village of Otavice. Start with a relaxing city walk to the most important sculptures and churches. At noon, enjoy the famous local cuisine before driving up to the Gradina fortress. Spend the afternoon in Otavice, where you can admire Meštrović's monumental mausoleum, nestled in the vast landscape of the Zagora."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Kod Josipa",
+            "tip": "Hervorragendes gegrilltes Lammfleisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Kod Josipa",
+            "tip": "Kiváló sült bárányhús."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Kod Josipa",
+            "tip": "Miel la grătar excelent."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Kod Josipa",
+            "tip": "Excellent roasted lamb meat."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mausoleum Vorplatz",
+            "tip": "Absolute Stille in der Natur.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mauzóleum előtere",
+            "tip": "Abszolút csend a természetben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Esplanada mausoleului",
+            "tip": "Liniște absolută în natură.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mausoleum Forecourt",
+            "tip": "Absolute silence in nature.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Pršutoreznica Drniš",
+            "tip": "Kaufen Sie ganzen Schinken zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pršutoreznica Drniš",
+            "tip": "Vásároljon egész sonkát elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pršutoreznica Drniš",
+            "tip": "Cumpărați șuncă întreagă pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pršutoreznica Drniš",
+            "tip": "Buy a whole prosciutto to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind gut ausgebaut und leicht befahrbar.",
+          "Parken im Zentrum ist meist unkompliziert.",
+          "Kombinieren Sie den Besuch mit dem Krka Nationalpark (Roski Slap).",
+          "Achten Sie auf die Öffnungszeiten des Mausoleums."
+        ],
+        "hu": [
+          "Az utak jó állapotúak és könnyen járhatóak.",
+          "A központi parkolás általában egyszerű.",
+          "Kombinálja a látogatást a Krka Nemzeti Parkkal (Roski Slap).",
+          "Ügyeljen a mauzóleum nyitvatartási idejére."
+        ],
+        "ro": [
+          "Drumurile sunt bine întreținute și ușor de parcurs.",
+          "Parcarea în centru este de obicei simplă.",
+          "Combinați vizita cu Parcul Național Krka (Roski Slap).",
+          "Atenție la programul de vizitare al mausoleului."
+        ],
+        "en": [
+          "The roads are well-maintained and easy to drive.",
+          "Parking in the center is usually straightforward.",
+          "Combine the visit with Krka National Park (Roski Slap).",
+          "Check the opening hours of the mausoleum."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Ankunft Busbahnhof Drniš",
+          "coords": [
+            16.1569,
+            43.8606
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ausgangspunkt für alle Sehenswürdigkeiten.",
+            "hu": "Központi kiindulópont minden látnivalóhoz.",
+            "ro": "Punct central de plecare pentru toate atracțiile.",
+            "en": "Central starting point for all sights."
+          }
+        },
+        {
+          "name": "Skulptura 'Vrelo života'",
+          "coords": [
+            16.1545,
+            43.8612
+          ],
+          "category": "monument",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Busbahnhof.",
+            "hu": "Csak egy rövid séta a buszállomástól.",
+            "ro": "Doar o scurtă plimbare de la autogară.",
+            "en": "Just a short walk from the bus station."
+          }
+        },
+        {
+          "name": "Crkva sv. Ante",
+          "coords": [
+            16.1522,
+            43.8625
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Historisches Zentrum zu Fuß erkunden.",
+            "hu": "Fedezze fel a történelmi központot gyalog.",
+            "ro": "Explorați centrul istoric pe jos.",
+            "en": "Explore the historical center on foot."
+          }
+        },
+        {
+          "name": "Mittagspause im Zentrum",
+          "coords": [
+            16.153,
+            43.861
+          ],
+          "category": "gastro",
+          "arrive_at": "11:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Konobas befinden sich in der Nähe des Marktes.",
+            "hu": "A konobák a piac közelében találhatók.",
+            "ro": "Konobele se află în apropierea pieței.",
+            "en": "Konobas are located near the market."
+          }
+        },
+        {
+          "name": "Utvrda Gradina",
+          "coords": [
+            16.1485,
+            43.8618
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 95,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Etwas steiler Aufstieg, aber lohnenswert.",
+            "hu": "Kicsit meredek emelkedő, de megéri.",
+            "ro": "Urcare puțin abruptă, dar merită.",
+            "en": "Slightly steep climb, but worth it."
+          }
+        },
+        {
+          "name": "Rückkehr zum Busbahnhof",
+          "coords": [
+            16.1569,
+            43.8606
+          ],
+          "category": "transit",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Zeit für Souvenirs vor der Abfahrt.",
+            "hu": "Idő szuvenírekre az indulás előtt.",
+            "ro": "Timp pentru suveniruri înainte de plecare.",
+            "en": "Time for souvenirs before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Drniš lässt sich hervorragend mit öffentlichen Verkehrsmitteln erkunden, da alle wichtigen Sehenswürdigkeiten im Stadtzentrum fußläufig erreichbar sind. Nach der Ankunft am Busbahnhof tauchen Sie sofort in die Welt von Meštrović ein. Ein ausgiebiges Mittagessen mit lokalem Pršut stärkt Sie für den Aufstieg zur Festung Gradina, von der aus Sie den besten Blick auf die Region haben. Der Tag endet entspannt wieder am Knotenpunkt der Stadt.",
+        "hu": "Drniš kiválóan felfedezhető tömegközlekedéssel, mivel minden fontos látnivaló a városközpontban sétatávolságra van. A buszállomásra érkezés után azonnal elmerülhet Meštrović világában. Egy bőséges ebéd helyi sonkával erőt ad a Gradina erőd megmászásához, ahonnan a legjobb kilátás nyílik a régióra. A nap pihentetően zárul a város csomópontjánál.",
+        "ro": "Drniš poate fi explorat excelent cu transportul public, deoarece toate atracțiile importante din centrul orașului sunt accesibile pe jos. După sosirea la autogară, vă puteți scufunda imediat în lumea lui Meštrović. Un prânz copios cu șuncă locală vă va da energie pentru urcarea la fortăreața Gradina, de unde aveți cea mai bună vedere asupra regiunii. Ziua se încheie relaxat înapoi la nodul de transport al orașului.",
+        "en": "Drniš can be excellently explored by public transport, as all important sights in the city center are within walking distance. After arriving at the bus station, you can immediately immerse yourself in Meštrović's world. A hearty lunch with local prosciutto will give you energy for the climb to the Gradina fortress, from where you have the best view of the region. The day ends relaxingly back at the city's transport hub."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Drniš",
+            "tip": "Schnelle und leckere lokale Gerichte nahe dem Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Drniš",
+            "tip": "Gyors és finom helyi ételek a központ közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Drniš",
+            "tip": "Mâncăruri locale rapide și gustoase lângă centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Drniš",
+            "tip": "Quick and tasty local dishes near the center."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stadtpark Drniš",
+            "tip": "Schatten und Ruhe unter alten Bäumen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Drniši városi park",
+            "tip": "Árnyék és nyugalom az öreg fák alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul orașului Drniš",
+            "tip": "Umbră și liniște sub copaci bătrâni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Drniš City Park",
+            "tip": "Shade and peace under old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop im Zentrum",
+            "tip": "Kleine Skulptur-Repliken und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírbolt a központban",
+            "tip": "Kis szobormásolatok és olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri în centru",
+            "tip": "Mici replici de sculpturi și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shop in center",
+            "tip": "Small sculpture replicas and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busverbindungen nach Šibenik und Knin sind regelmäßig.",
+          "Fragen Sie am Bahnhof nach dem aktuellen Fahrplan.",
+          "Alles im Zentrum ist innerhalb von 15 Minuten zu Fuß erreichbar.",
+          "Drniš ist ein sicherer und fußgängerfreundlicher Ort."
+        ],
+        "hu": [
+          "A buszjáratok Šibenikbe és Kninbe rendszeresek.",
+          "Érdeklődjön az állomáson az aktuális menetrendről.",
+          "A központban minden elérhető 15 perces sétával.",
+          "Drniš biztonságos és gyalogosbarát hely."
+        ],
+        "ro": [
+          "Conexiunile de autobuz către Šibenik și Knin sunt regulate.",
+          "Întrebați la gară despre programul actualizat.",
+          "Totul în centru este accesibil în 15 minute de mers pe jos.",
+          "Drniš este un loc sigur și prietenos cu pietonii."
+        ],
+        "en": [
+          "Bus connections to Šibenik and Knin are regular.",
+          "Inquire at the station about the current timetable.",
+          "Everything in the center is accessible within a 15-minute walk.",
+          "Drniš is a safe and pedestrian-friendly place."
+        ]
+      }
+    }
+  }
+}

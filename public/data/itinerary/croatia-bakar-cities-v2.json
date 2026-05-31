@@ -1,0 +1,1048 @@
+{
+  "city_id": "croatia-bakar-cities-v2",
+  "anchor": {
+    "name": "Bakar",
+    "coords": [
+      45.3167,
+      14.5333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Bakar Riva & Harbour",
+          "coords": [
+            45.3158,
+            14.5325
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der historischen Uferpromenade.",
+            "hu": "Sétáljon végig a történelmi kikötői mólón.",
+            "ro": "Plimbați-vă pe faleza istorică a portului.",
+            "en": "Stroll along the historic waterfront promenade."
+          }
+        },
+        {
+          "name": "Turska kuća",
+          "coords": [
+            45.3175,
+            14.5338
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ungewöhnliche Architektur dieses Hauses.",
+            "hu": "Csodálja meg a ház különleges, keleti stílusát.",
+            "ro": "Admirați arhitectura neobișnuită a acestei clădiri.",
+            "en": "Admire the unusual Oriental architecture of this house."
+          }
+        },
+        {
+          "name": "Kaštel Frankopan",
+          "coords": [
+            45.3178,
+            14.5345
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Festung der Frankopanen-Adelsfamilie.",
+            "hu": "Látogasson el a Frankopan nemesi család várába.",
+            "ro": "Vizitați castelul familiei nobiliare Frankopan.",
+            "en": "Visit the fortress of the Frankopan noble family."
+          }
+        },
+        {
+          "name": "Crkva sv. Andrije",
+          "coords": [
+            45.3172,
+            14.5352
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie eine der größten Kirchen Kroatiens.",
+            "hu": "Tekintse meg Horvátország egyik legnagyobb templomát.",
+            "ro": "Vizitați una dintre cele mai mari biserici din Croația.",
+            "en": "Visit one of the largest churches in Croatia."
+          }
+        },
+        {
+          "name": "Rimski dom",
+          "coords": [
+            45.3165,
+            14.5348
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein interessantes Beispiel barocker Wohnarchitektur.",
+            "hu": "A barokk lakóépítészet egyik érdekes példája.",
+            "ro": "Un exemplu interesant de arhitectură rezidențială barocă.",
+            "en": "An interesting example of Baroque residential architecture."
+          }
+        },
+        {
+          "name": "Lunch in a local Konoba",
+          "coords": [
+            45.3155,
+            14.5335
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch aus der Bucht.",
+            "hu": "Kóstolja meg az öböl friss tengeri halait.",
+            "ro": "Gustați peștele proaspăt prins în golf.",
+            "en": "Try fresh seafood caught right in the bay."
+          }
+        },
+        {
+          "name": "Bakarske prezidi",
+          "coords": [
+            45.3125,
+            14.5425
+          ],
+          "category": "landmark",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Die Geburtsstätte des Bakarska vodica Schaumweins.",
+            "hu": "A híres Bakarszka vodicza pezsgő szülőhelye.",
+            "ro": "Locul de origine al spumantului Bakarska vodica.",
+            "en": "The birthplace of the Bakarska vodica sparkling wine."
+          }
+        },
+        {
+          "name": "Seaside Sunset Pause",
+          "coords": [
+            45.3152,
+            14.5365
+          ],
+          "category": "sunset",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe am Wasser zum Abschluss.",
+            "hu": "Zárja a napot a vízparti nyugalommal.",
+            "ro": "Încheiați ziua cu liniștea de pe malul apei.",
+            "en": "End your day with the peaceful vibes by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die historische Riva und das Frankopanen-Kastell in der Oberstadt. Nach der Besichtigung der beeindruckenden St. Andreas-Kirche genießen Sie ein traditionelles Mittagessen in einer Konoba. Der Nachmittag führt Sie zu den berühmten Trockenmauer-Weinbergen, den Prezidi, bevor der Tag friedlich am Meer ausklingt.",
+        "hu": "A délelőttöt a történelmi kikötőben és a felsővárosi Frankopan-várban töltjük. A hatalmas Szent András-templom megtekintése után egy helyi konobában ebédelünk. Délután felsétálunk a különleges Bakarske prezidi kőteraszos szőlőültetvényeihez, majd a naplementét az öböl partján élvezzük.",
+        "ro": "Dimineața este dedicată portului istoric și castelului Frankopan din orașul de sus. După vizitarea impunătoarei biserici Sf. Andrei, savurați un prânz tradițional la o tavernă locală. După-amiaza vă poartă spre celebrele podgorii terasate cu ziduri de piatră, Prezidi, încheind ziua pe malul golfului.",
+        "en": "Spend your morning exploring the historic waterfront and the Frankopan Castle in the upper town. After visiting the massive St. Andrew's Church, enjoy a traditional lunch in a seaside konoba. The afternoon takes you to the unique stone-walled vineyards of Prezidi, finishing with a peaceful sunset by the bay."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bakarska vodica",
+            "tip": "Ein lokaler Schaumwein aus den Hanglagen."
+          },
+          {
+            "name": "Konoba Vallis",
+            "tip": "Authentische Gerichte und frische Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bakarszka vodicza",
+            "tip": "Helyi pezsgő, amelyet a meredek teraszokon termelnek."
+          },
+          {
+            "name": "Konoba Vallis",
+            "tip": "Autentikus ételek és friss tengeri fogások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bakarska vodica",
+            "tip": "Un vin spumant local produs pe pantele abrupte."
+          },
+          {
+            "name": "Konoba Vallis",
+            "tip": "Mâncăruri autentice și fructe de mare proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakarska vodica",
+            "tip": "A unique local sparkling wine from the steep terraces."
+          },
+          {
+            "name": "Konoba Vallis",
+            "tip": "Authentic local dishes and fresh seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bakarske prezidi",
+            "tip": "Stille unter den Weinreben mit Blick auf die Bucht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bakarske prezidi",
+            "tip": "Csend a szőlőtőkék között, kilátással az öbölre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bakarske prezidi",
+            "tip": "Liniște printre viile terasate cu vedere la golf.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakarske prezidi",
+            "tip": "Quiet moments among the vines with a bay view.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Weinhandel",
+            "tip": "Kaufen Sie eine Flasche echten Bakarska vodica."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borbolt",
+            "tip": "Vásároljon egy üveggel az igazi Bakarszka vodiczából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de vinuri local",
+            "tip": "Cumpărați o sticlă de autentică Bakarska vodica."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wine shop",
+            "tip": "Buy a bottle of the authentic Bakarska vodica."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Oberstadt ist steil, tragen Sie bequeme Schuhe.",
+          "Bakar ist weniger touristisch und bietet echte lokale Atmosphäre.",
+          "Die Kirche hat wertvolle Kunstwerke in ihrer Krypta."
+        ],
+        "hu": [
+          "A felsőváros meredek, viseljen kényelmes cipőt.",
+          "Bakar kevésbé turistás, így igazi helyi élményt nyújt.",
+          "A templom kriptájában értékes műtárgyak találhatók."
+        ],
+        "ro": [
+          "Orașul de sus este abrupt, purtați încălțăminte comodă.",
+          "Bakar este mai puțin turistic, oferind o atmosferă autentică.",
+          "Biserica are obiecte de artă valoroase în criptă."
+        ],
+        "en": [
+          "The upper town is steep, so wear comfortable walking shoes.",
+          "Bakar is less touristy, offering a very authentic local vibe.",
+          "The church holds valuable artworks in its crypt."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Bakar Riva Start",
+          "coords": [
+            45.3158,
+            14.5325
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour am flachen Ufer.",
+            "hu": "Kezdje a túrát a sima part menti úton.",
+            "ro": "Începeți turul pe drumul lin de coastă.",
+            "en": "Start your ride on the flat coastal road."
+          }
+        },
+        {
+          "name": "Turska kuća",
+          "coords": [
+            45.3175,
+            14.5338
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp bei diesem markanten Gebäude.",
+            "hu": "Rövid megálló ennél a különleges épületnél.",
+            "ro": "Scurt popas la această clădire distinctivă.",
+            "en": "Short stop at this striking historic building."
+          }
+        },
+        {
+          "name": "Kaštel Frankopan",
+          "coords": [
+            45.3178,
+            14.5345
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad ab und erkunden Sie den Hof.",
+            "hu": "Támassza le a biciklit és nézze meg az udvart.",
+            "ro": "Lăsați bicicleta și explorați curtea castelului.",
+            "en": "Park your bike and explore the castle courtyard."
+          }
+        },
+        {
+          "name": "Crkva sv. Andrije",
+          "coords": [
+            45.3172,
+            14.5352
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die monumentale Fassade ist ein tolles Fotomotiv.",
+            "hu": "A monumentális homlokzat remek fotótéma.",
+            "ro": "Fațada monumentală este un loc excelent pentru poze.",
+            "en": "The monumental facade is a great photo opportunity."
+          }
+        },
+        {
+          "name": "Lunch Break",
+          "coords": [
+            45.3155,
+            14.5335
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Energieschub mit lokaler Pasta.",
+            "hu": "Energia-utánpótlás helyi tésztával.",
+            "ro": "Reîncărcați-vă cu paste locale.",
+            "en": "Re-energize with some local pasta dishes."
+          }
+        },
+        {
+          "name": "Bakarske prezidi Loop",
+          "coords": [
+            45.305,
+            14.555
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Eine sportliche Fahrt zu den Panoramahängen.",
+            "hu": "Sportos tekerés a panorámás lankákhoz.",
+            "ro": "O tură sportivă spre pantele panoramice.",
+            "en": "A sporty ride to the panoramic slopes."
+          }
+        },
+        {
+          "name": "Riva Relax",
+          "coords": [
+            45.3152,
+            14.5365
+          ],
+          "category": "harbor",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie nach der Fahrt am Meer.",
+            "hu": "Lazítson a tekerés után a tengerparton.",
+            "ro": "Relaxați-vă după tură pe malul mării.",
+            "en": "Relax by the sea after your bike ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour kombiniert die historischen Schätze von Bakar mit einer Fahrt entlang der Bucht zu den berühmten Trockenmauer-Weinbergen. Sie erleben sowohl die dichte Altstadt als auch die offene Küstenlandschaft der Kvarner-Bucht.",
+        "hu": "Ez a kerékpáros túra ötvözi Bakar történelmi kincseit egy öböl menti tekeréssel a híres kőfalas szőlőültetvényekig. Megismerheti az óváros szűk utcáit és a Kvarner-öböl nyitott partvidékét is.",
+        "ro": "Acest tur cu bicicleta combină comorile istorice din Bakar cu o plimbare de-a lungul golfului până la faimoasele podgorii terasate. Veți experimenta atât centrul vechi, cât și peisajul deschis de coastă al golfului Kvarner.",
+        "en": "This bike tour combines the historical treasures of Bakar with a scenic ride along the bay to the famous stone-walled vineyards. You will experience both the dense old town and the open coastal landscape of the Kvarner region."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte-Salat",
+            "tip": "Leichtes Mittagessen für aktive Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei saláta",
+            "tip": "Könnyű ebéd az aktív tekeréshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Salată de fructe de mare",
+            "tip": "Prânz ușor pentru bicicliști activi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood Salad",
+            "tip": "A light lunch perfect for active cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenstraße",
+            "tip": "Ruhige Abschnitte mit Blick auf das blaue Meer.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Part menti út",
+            "tip": "Csendes szakaszok kilátással a kék tengerre.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de coastă",
+            "tip": "Secțiuni liniștite cu vedere la marea albastră.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal road",
+            "tip": "Quiet sections with views of the blue sea.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weinkellerei",
+            "tip": "Ein edles Souvenir aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borászat",
+            "tip": "Nemes szuvenír a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cramă locală",
+            "tip": "Un suvenir rafinat din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local winery",
+            "tip": "A fine souvenir from the local region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf den Wind (Bura), der hier stark sein kann.",
+          "Die Straßen in der Altstadt sind teils sehr eng und steil.",
+          "Nehmen Sie genügend Wasser mit."
+        ],
+        "hu": [
+          "Figyeljen a szélre (Bura), amely itt igen erős lehet.",
+          "Az óvárosi utcák helyenként nagyon szűkek és meredekek.",
+          "Vigyen magával elegendő vizet."
+        ],
+        "ro": [
+          "Atenție la vântul (Bura) care poate fi foarte puternic aici.",
+          "Străzile din centrul vechi sunt uneori foarte înguste și abrupte.",
+          "Luați suficientă apă cu voi."
+        ],
+        "en": [
+          "Watch out for the wind (Bura), which can be quite strong here.",
+          "Old town streets are partly very narrow and steep.",
+          "Always carry enough water with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Bakar Waterfront Parking",
+          "coords": [
+            45.3158,
+            14.5325
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral an der Riva.",
+            "hu": "Parkoljon központilag a kikötőben.",
+            "ro": "Parcați central pe faleză.",
+            "en": "Park your car centrally at the waterfront."
+          }
+        },
+        {
+          "name": "Kaštel Frankopan (Cluster 1)",
+          "coords": [
+            45.3178,
+            14.5345
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spaziergang von der Riva hinauf zum Kastell.",
+            "hu": "Séta a kikötőtől fel a várig.",
+            "ro": "Plimbare de la faleză sus spre castel.",
+            "en": "Walk from the waterfront up to the castle."
+          }
+        },
+        {
+          "name": "Crkva sv. Andrije (Cluster 1)",
+          "coords": [
+            45.3172,
+            14.5352
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuch der Kirche zu Fuß vom Kastell aus.",
+            "hu": "A templom meglátogatása gyalog a vártól.",
+            "ro": "Vizitați biserica pe jos pornind de la castel.",
+            "en": "Visit the church on foot from the castle."
+          }
+        },
+        {
+          "name": "Rimski dom (Cluster 1)",
+          "coords": [
+            45.3165,
+            14.5348
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eines der architektonischen Highlights im Zentrum.",
+            "hu": "A központ egyik építészeti látványossága.",
+            "ro": "Un punct de atracție arhitectural în centru.",
+            "en": "One of the architectural highlights in the center."
+          }
+        },
+        {
+          "name": "Lunch at Waterfront",
+          "coords": [
+            45.3155,
+            14.5335
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Spezialitäten am Wasser.",
+            "hu": "Élvezze a helyi specialitásokat a víznél.",
+            "ro": "Savurați specialități locale lângă apă.",
+            "en": "Enjoy local specialties by the water."
+          }
+        },
+        {
+          "name": "Bakarske prezidi (Cluster 2)",
+          "coords": [
+            45.3105,
+            14.545
+          ],
+          "category": "landmark",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zu den spektakulären Weinbergen.",
+            "hu": "Rövid autózás a látványos szőlőültetvényekhez.",
+            "ro": "Scurtă cursă cu mașina spre podgoriile spectaculoase.",
+            "en": "Short drive to the spectacular vineyards."
+          }
+        },
+        {
+          "name": "Viewpoint Hreljin Road",
+          "coords": [
+            45.302,
+            14.565
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Panorama-Blick über die gesamte Bucht.",
+            "hu": "Panorámás kilátás az egész öbölre.",
+            "ro": "Vedere panoramică asupra întregului golf.",
+            "en": "Panoramic view over the entire bay."
+          }
+        },
+        {
+          "name": "Seaside Farewell",
+          "coords": [
+            45.3152,
+            14.5365
+          ],
+          "category": "harbor",
+          "arrive_at": "16:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Abschluss der Tour am Ufer.",
+            "hu": "A túra zárása a parton.",
+            "ro": "Încheierea turului pe malul apei.",
+            "en": "Conclusion of the tour at the shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie zunächst die Altstadt von Bakar in einem Wander-Cluster, bevor Sie zu den spektakulären terrassierten Weinbergen fahren. Ein Abstecher zu einem Aussichtspunkt oberhalb der Bucht bietet den perfekten Panoramablick auf diese einzigartige Industrielandschaft mit Geschichte.",
+        "hu": "Autóval először Bakar óvárosát fedezzük fel egy gyalogos klaszterben, majd elvezetünk a látványos teraszos szőlőültetvényekhez. Egy kitérő az öböl feletti kilátóhoz tökéletes panorámát nyújt erre az egyedülálló, történelmi ipari tájra.",
+        "ro": "Cu mașina, explorați mai întâi centrul vechi din Bakar într-un grup de obiective vizitate pe jos, înainte de a conduce spre spectaculoasele podgorii terasate. O oprire la un punct de belvedere deasupra golfului oferă panorama perfectă asupra acestui peisaj industrial istoric unic.",
+        "en": "By car, first explore Bakar's old town in a walking cluster before driving to the spectacular terraced vineyards. A detour to a viewpoint above the bay offers the perfect panoramic look at this unique historic industrial landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Frisch zubereitet in den lokalen Konobas."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett hal",
+            "tip": "Frissen készítve a helyi konobákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește la grătar",
+            "tip": "Proaspăt preparat în tavernele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Fish",
+            "tip": "Freshly prepared in the local konobas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Obere Altstadt-Gassen",
+            "tip": "Ruhige Ecken fernab der Hauptstraße.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Felsővárosi utcácskák",
+            "tip": "Csendes sarkok távol a főúttól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulițele din orașul de sus",
+            "tip": "Colțuri liniștite departe de drumul principal.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Upper Old Town Lanes",
+            "tip": "Quiet corners away from the main road.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenir-Honig",
+            "tip": "Häufig bei lokalen Erzeugern erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves méz",
+            "tip": "Gyakran kapható helyi termelőknél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere artizanală",
+            "tip": "Adesea disponibilă la producătorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Artisan Honey",
+            "tip": "Often available from local producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze an der Riva können im Sommer voll sein.",
+          "Die Fahrt zu den Prezidi ist kurz, aber kurvig.",
+          "Kombinieren Sie den Besuch mit einem Abstecher nach Rijeka."
+        ],
+        "hu": [
+          "A kikötői parkolók nyáron hamar megtelhetnek.",
+          "A szőlőültetvényekhez vezető út rövid, de kanyargós.",
+          "Érdemes összekötni a látogatást egy fiumei (Rijeka) kirándulással."
+        ],
+        "ro": [
+          "Parcările de pe faleză pot fi pline pe timpul verii.",
+          "Drumul spre Prezidi este scurt, dar sinuos.",
+          "Combinați vizita cu o excursie la Rijeka."
+        ],
+        "en": [
+          "Parking at the waterfront can be crowded in summer.",
+          "The drive to the Prezidi vineyards is short but winding.",
+          "Consider combining your visit with a trip to nearby Rijeka."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 10.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Bakar Bus Station",
+          "coords": [
+            45.3158,
+            14.5325
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für Busse aus Rijeka.",
+            "hu": "Központi érkezési pont a Rijekából érkező buszoknak.",
+            "ro": "Punct central de sosire pentru autobuzele din Rijeka.",
+            "en": "Central arrival point for buses from Rijeka."
+          }
+        },
+        {
+          "name": "Turska kuća",
+          "coords": [
+            45.3175,
+            14.5338
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Einzigartige Architektur in Laufnähe.",
+            "hu": "Egyedülálló építészet sétatávolságra.",
+            "ro": "Arhitectură unică la mică distanță de mers pe jos.",
+            "en": "Unique architecture within easy walking distance."
+          }
+        },
+        {
+          "name": "Kaštel Frankopan",
+          "coords": [
+            45.3178,
+            14.5345
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das historische Herz der Oberstadt.",
+            "hu": "A felsőváros történelmi szíve.",
+            "ro": "Inima istorică a orașului de sus.",
+            "en": "The historical heart of the upper town."
+          }
+        },
+        {
+          "name": "Crkva sv. Andrije",
+          "coords": [
+            45.3172,
+            14.5352
+          ],
+          "category": "religious",
+          "arrive_at": "11:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das prächtige Innere.",
+            "hu": "Tekintse meg a pompás belső teret.",
+            "ro": "Vizitați interiorul somptuos.",
+            "en": "Take a look at the magnificent interior."
+          }
+        },
+        {
+          "name": "Gastro Break at Riva",
+          "coords": [
+            45.3155,
+            14.5335
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannung bei einem guten Essen.",
+            "hu": "Lazítás egy jó ebéd mellett.",
+            "ro": "Relaxare în timpul unei mese bune.",
+            "en": "Relaxation over a good local meal."
+          }
+        },
+        {
+          "name": "Bakarske prezidi (Bus Trip)",
+          "coords": [
+            45.3105,
+            14.545
+          ],
+          "category": "landmark",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus in Richtung Osten.",
+            "hu": "Használja a helyi buszt kelet felé.",
+            "ro": "Luați autobuzul local spre est.",
+            "en": "Use the local bus heading east to reach the walls."
+          }
+        },
+        {
+          "name": "Farewell at Harbour",
+          "coords": [
+            45.3152,
+            14.5365
+          ],
+          "category": "harbor",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Letzter Blick auf die Bucht vor der Rückfahrt.",
+            "hu": "Utolsó pillantás az öbölre visszaindulás előtt.",
+            "ro": "Ultima privire spre golf înainte de plecare.",
+            "en": "Last look at the bay before your return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem öffentlichen Bus erreichen Sie Bakar bequem von Rijeka aus. Der Tag konzentriert sich auf die historischen Sehenswürdigkeiten im Zentrum, gefolgt von einer kurzen Busfahrt zu den beeindruckenden Weinberg-Terrassen, bevor Sie am späten Nachmittag zurückfahren.",
+        "hu": "Tömegközlekedéssel, autóbusszal kényelmesen elérhető Bakar Rijekából. A nap a központi történelmi látnivalókra összpontosít, majd egy rövid buszozással a lenyűgöző szőlőteraszokat is meglátogatjuk, mielőtt késő délután visszaindulnánk.",
+        "ro": "Cu autobuzul public, Bakar este ușor accesibil din Rijeka. Ziua se concentrează pe atracțiile istorice centrale, urmată de o scurtă călătorie cu autobuzul spre podgoriile terasate, înainte de a pleca înapoi spre seară.",
+        "en": "Bakar is easily accessible by public bus from Rijeka. The day focuses on the historical sights in the center, followed by a short bus ride to the impressive vineyard terraces, before heading back in the late afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Burek & Gebäck",
+            "tip": "Schneller Snack für Zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Burek és pékáruk",
+            "tip": "Gyors napközbeni harapnivaló."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Burek și produse de patiserie",
+            "tip": "O gustare rapidă în timpul zilei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Burek & Pastries",
+            "tip": "A quick snack for during the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchenvorplatz",
+            "tip": "Ein friedlicher Ort mit Geschichte.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templom előtti tér",
+            "tip": "Békés, történelmi hangulatú hely.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piațeta bisericii",
+            "tip": "Un loc pașnic cu istorie bogată.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Square",
+            "tip": "A peaceful place with a lot of history.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Lokale Spezialitäten zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi pékség",
+            "tip": "Helyi finomságok elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria din centru",
+            "tip": "Specialități locale de luat la pachet."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in center",
+            "tip": "Local specialties to take with you."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan (Linie 29) vorab.",
+          "Die Busse verkehren regelmäßig von Rijeka aus.",
+          "In Bakar lässt sich fast alles zu Fuß erreichen."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet (29-es vonal).",
+          "A buszok rendszeresen közlekednek Rijekából.",
+          "Bakaron belül szinte minden elérhető gyalog."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor (linia 29) în prealabil.",
+          "Autobuzele circulă regulat din Rijeka.",
+          "În Bakar, aproape totul este accesibil pe jos."
+        ],
+        "en": [
+          "Check the bus schedule (line 29) in advance.",
+          "Buses run regularly from Rijeka.",
+          "Almost everything within Bakar is reachable on foot."
+        ]
+      }
+    }
+  }
+}

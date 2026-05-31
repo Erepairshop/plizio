@@ -1,0 +1,1028 @@
+{
+  "city_id": "croatia-zupa-dubrovacka-cities-v2",
+  "anchor": {
+    "name": "Župa dubrovačka",
+    "coords": [
+      18.2167,
+      42.6167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Uvala Srebreno",
+          "coords": [
+            18.196,
+            42.62
+          ],
+          "category": "beach",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ruhige Bucht mit glasklarem Wasser, ideal für den Start.",
+            "hu": "Nyugodt öböl kristálytiszta vízzel, ideális kezdés.",
+            "ro": "Golf liniștit cu apă cristalină, ideal pentru început.",
+            "en": "Calm bay with crystal clear water, ideal for starting."
+          }
+        },
+        {
+          "name": "Kompleks Kupari",
+          "coords": [
+            18.188,
+            42.622
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Eindrucksvolle Ruinen ehemaliger Luxushotels direkt am Strand.",
+            "hu": "Egykori luxusszállodák lenyűgöző romjai közvetlenül a parton.",
+            "ro": "Ruine impresionante ale fostelor hoteluri de lux de pe plajă.",
+            "en": "Impressive ruins of former luxury hotels right on the beach."
+          }
+        },
+        {
+          "name": "Ebéd egy helyi Konobában",
+          "coords": [
+            18.204,
+            42.621
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch oder das berühmte schwarze Risotto.",
+            "hu": "Kóstolja meg a friss halat vagy a híres fekete rizottót.",
+            "ro": "Încercați peștele proaspăt sau celebrul risotto negru.",
+            "en": "Try the fresh fish or the famous black risotto."
+          }
+        },
+        {
+          "name": "Šetnica Mlini",
+          "coords": [
+            18.205,
+            42.621
+          ],
+          "category": "park",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wunderschöne Uferpromenade mit schattigen Plätzen unter Pinien.",
+            "hu": "Csodás tengerparti sétány árnyas fenyőkkel.",
+            "ro": "Promenadă superbă pe malul mării, cu umbră sub pini.",
+            "en": "Beautiful seaside promenade with shade under pine trees."
+          }
+        },
+        {
+          "name": "Crkva svetog Ilara",
+          "coords": [
+            18.209,
+            42.624
+          ],
+          "category": "religious",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Alte Kirche des Hl. Hilarion mit friedlichem Friedhof.",
+            "hu": "Szent Hilár régi temploma békés temetővel.",
+            "ro": "Biserica veche a Sf. Ilarion cu un cimitir liniștit.",
+            "en": "Old church of St. Hilarion with a peaceful cemetery."
+          }
+        },
+        {
+          "name": "Délutáni pihenő a parton",
+          "coords": [
+            18.212,
+            42.62
+          ],
+          "category": "beach",
+          "arrive_at": "16:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Perfekter Ort für ein Bad im Abendlicht.",
+            "hu": "Tökéletes hely egy fürdőzésre az esti fényekben.",
+            "ro": "Loc perfect pentru o baie în lumina serii.",
+            "en": "Perfect spot for a swim in the evening light."
+          }
+        },
+        {
+          "name": "Naplemente-pihenő",
+          "coords": [
+            18.214,
+            42.618
+          ],
+          "category": "sunset",
+          "arrive_at": "18:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf das Meer bei Sonnenuntergang.",
+            "hu": "Élvezze a tengeri kilátást naplementekor.",
+            "ro": "Bucurați-vă de vederea la mare la apus.",
+            "en": "Enjoy the sea view at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt in der malerischen Bucht von Srebreno, gefolgt von einer Erkundung der faszinierenden Ruinen von Kupari. Nach einem traditionellen Mittagessen in einer Konoba spazieren Sie entlang der Promenade von Mlini bis zur historischen Kirche des Hl. Hilarion. Den späten Nachmittag verbringen Sie entspannt am Strand, bevor Sie den Tag mit einem Blick auf den Sonnenuntergang abschließen.",
+        "hu": "A nap a festői Srebreno-öbölben indul, majd a Kupari-komplexum lenyűgöző romjait fedezheti fel. Egy hagyományos konobában elköltött ebéd után a Mlini-sétányon sétálhat a Szent Hilár-templomig. A késő délutánt pihenéssel töltheti a parton, végül pedig a tengerparti naplementében gyönyörködve zárhatja a napot.",
+        "ro": "Ziua începe în golful pitoresc Srebreno, urmată de o explorare a ruinelor fascinante de la Kupari. După un prânz tradițional la o konoba, vă veți plimba pe promenada Mlini până la biserica istorică Sf. Ilarion. Petreceți după-amiaza târzie relaxându-vă pe plajă, înainte de a încheia ziua cu priveliștea apusului peste mare.",
+        "en": "Your day starts in the picturesque Srebreno Bay, followed by an exploration of the fascinating ruins of Kupari. After a traditional lunch at a konoba, stroll along the Mlini promenade to the historic St. Hilarion Church. Spend the late afternoon relaxing on the beach before concluding the day with a view of the sunset over the Adriatic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crni rižot",
+            "tip": "Schwarzes Tintenfisch-Risotto, eine lokale Spezialität."
+          },
+          {
+            "name": "Konoba Lanterna",
+            "tip": "Authentische Atmosphäre mit frischen Meeresfrüchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Crni rižot",
+            "tip": "Fekete tintahal-rizottó, helyi különlegesség."
+          },
+          {
+            "name": "Konoba Lanterna",
+            "tip": "Autentikus hangulat friss tengeri ételekkel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crni rižot",
+            "tip": "Risotto negru cu sepie, o specialitate locală."
+          },
+          {
+            "name": "Konoba Lanterna",
+            "tip": "Atmosferă autentică cu fructe de mare proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Crni rižot",
+            "tip": "Black cuttlefish risotto, a local specialty."
+          },
+          {
+            "name": "Konoba Lanterna",
+            "tip": "Authentic atmosphere with fresh seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Šetnica Mlini",
+            "tip": "Ruhiger Spaziergang unter Pinien.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kupari-Strand",
+            "tip": "Oft weniger überlaufen als Srebreno.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mlini sétány",
+            "tip": "Csendes séta a fenyők alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kupari strand",
+            "tip": "Gyakran kevésbé zsúfolt, mint Srebreno.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada Mlini",
+            "tip": "Plimbare liniștită sub pini.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Plaja Kupari",
+            "tip": "Aesea mai puțin aglomerată decât Srebreno.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mlini promenade",
+            "tip": "Quiet walk under the pine trees.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Kupari beach",
+            "tip": "Often less crowded than Srebreno.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl",
+            "tip": "Lokales Öl aus der Region Župa."
+          },
+          {
+            "name": "Lavendel",
+            "tip": "Handgefertigte Duftsäckchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj",
+            "tip": "Helyi olaj a Župa régióból."
+          },
+          {
+            "name": "Levendula",
+            "tip": "Kézzel készített illatpárnák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline",
+            "tip": "Ulei local din regiunea Župa."
+          },
+          {
+            "name": "Levănțică",
+            "tip": "Săculeți parfumați lucrați manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive oil",
+            "tip": "Local oil from the Župa region."
+          },
+          {
+            "name": "Lavender",
+            "tip": "Handmade scented bags."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Schotterwege in Kupari.",
+          "Bringen Sie Badesachen mit, es gibt viele Einstiegspunkte.",
+          "Der Weg zwischen Srebreno und Mlini ist flach und sehr angenehm."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a kupari murvás utakhoz.",
+          "Hozzon fürdőruhát, rengeteg a fürdési lehetőség.",
+          "Srebreno és Mlini között az út sík és nagyon kellemes."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru drumurile pietruite din Kupari.",
+          "Aduceți costumul de baie, sunt multe puncte de acces la mare.",
+          "Drumul între Srebreno și Mlini este plat și foarte plăcut."
+        ],
+        "en": [
+          "Wear comfortable shoes for the gravel paths in Kupari.",
+          "Bring swimwear, as there are many access points to the sea.",
+          "The path between Srebreno and Mlini is flat and very pleasant."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Kompleks Kupari",
+          "coords": [
+            18.188,
+            42.622
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das weitläufige Gelände per Rad.",
+            "hu": "Fedezze fel a tágas területet kerékpárral.",
+            "ro": "Explorați terenul vast cu bicicleta.",
+            "en": "Explore the vast grounds by bike."
+          }
+        },
+        {
+          "name": "Uvala Srebreno",
+          "coords": [
+            18.196,
+            42.62
+          ],
+          "category": "beach",
+          "arrive_at": "10:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Längere Badepause im kristallklaren Wasser.",
+            "hu": "Hosszabb fürdőzés a kristálytiszta vízben.",
+            "ro": "Pauză lungă de baie în apa cristalină.",
+            "en": "Long swim break in the crystal clear water."
+          }
+        },
+        {
+          "name": "Ebéd Mlini kikötőjében",
+          "coords": [
+            18.205,
+            42.621
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Regionale Spezialitäten direkt am Wasser.",
+            "hu": "Regionális specialitások közvetlenül a víznél.",
+            "ro": "Specialități regionale chiar lângă apă.",
+            "en": "Regional specialties right by the water."
+          }
+        },
+        {
+          "name": "Plaža Plat",
+          "coords": [
+            18.228,
+            42.607
+          ],
+          "category": "beach",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ruhigere Strände am südlichen Ende der Gemeinde.",
+            "hu": "Csendesebb strandok a község déli végén.",
+            "ro": "Plaje mai liniștite la capătul sudic al comunei.",
+            "en": "Quieter beaches at the southern end of the municipality."
+          }
+        },
+        {
+          "name": "Šetnica Mlini pihenő",
+          "coords": [
+            18.206,
+            42.622
+          ],
+          "category": "park",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp im Schatten der alten Bäume.",
+            "hu": "Rövid megálló az öreg fák árnyékában.",
+            "ro": "Scurt popas la umbra copacilor bătrâni.",
+            "en": "Short stop in the shade of old trees."
+          }
+        },
+        {
+          "name": "Naplemente a parton",
+          "coords": [
+            18.198,
+            42.619
+          ],
+          "category": "sunset",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss einer aktiven Radtour.",
+            "hu": "Egy aktív kerékpártúra tökéletes lezárása.",
+            "ro": "Finalul perfect al unei ture active cu bicicleta.",
+            "en": "The perfect end to an active bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie entlang der Küste von Župa Dubrovačka. Starten Sie bei den Ruinen von Kupari, entspannen Sie in der Bucht von Srebreno und genießen Sie ein Mittagessen in Mlini. Der südlichste Punkt ist der Strand von Plat, bevor Sie für den Sonnenuntergang zurückkehren.",
+        "hu": "Ez a kerékpártúra végigvezet Župa Dubrovačka partvidékén. Kezdjen Kupari romjainál, pihenjen a Srebreno-öbölben, és élvezze az ebédet Mliniben. A legdélebbi pont Plat strandja, mielőtt visszafordulna a naplementére.",
+        "ro": "Acest tur cu bicicleta vă conduce de-a lungul coastei Župa Dubrovačka. Începeți la ruinele din Kupari, relaxați-vă în golful Srebreno și savurați un prânz în Mlini. Cel mai sudic punct este plaja Plat, înainte de a reveni pentru apus.",
+        "en": "This bike tour takes you along the coast of Župa Dubrovačka. Start at the Kupari ruins, relax in Srebreno Bay, and enjoy lunch in Mlini. The southernmost point is Plat beach before heading back for the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Fangfrisch in den Konobas von Mlini."
+          },
+          {
+            "name": "Lokaler Wein",
+            "tip": "Probieren Sie Weißweine aus der Region Konavle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett hal",
+            "tip": "Frissen fogva a mlini konobákban."
+          },
+          {
+            "name": "Helyi bor",
+            "tip": "Kóstolja meg a konavlei régió fehérborait."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește la grătar",
+            "tip": "Proaspăt prins în konobele din Mlini."
+          },
+          {
+            "name": "Vin local",
+            "tip": "Încercați vinurile albe din regiunea Konavle."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled fish",
+            "tip": "Freshly caught in the konobas of Mlini."
+          },
+          {
+            "name": "Local wine",
+            "tip": "Try the white wines from the Konavle region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Plaža Plat",
+            "tip": "Abgelegener und ruhiger als die Hauptbuchten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plat strand",
+            "tip": "Elszigeteltebb és csendesebb, mint a fő öblök.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Plat",
+            "tip": "Mai retrasă și liniștită decât golful principal.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Plat beach",
+            "tip": "More secluded and quieter than the main bays.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig",
+            "tip": "Hausgemachter Honig aus dem Hinterland."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Méz",
+            "tip": "Házias méz a hátországból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere",
+            "tip": "Miere de casă din hinterland."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honey",
+            "tip": "Homemade honey from the hinterland."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Küstenstraße kann eng sein, fahren Sie vorsichtig.",
+          "Nutzen Sie die Fußgängerwege nur im Schritttempo.",
+          "Genügend Wasser mitnehmen, besonders für die Strecke nach Plat."
+        ],
+        "hu": [
+          "A parti út keskeny lehet, óvatosan vezessen.",
+          "A gyalogutakat csak sétatempóban használja.",
+          "Vigyen elég vizet, főleg a Plat felé vezető szakaszra."
+        ],
+        "ro": [
+          "Drumul de coastă poate fi îngust, conduceți cu atenție.",
+          "Folosiți căile pietonale doar cu viteză redusă.",
+          "Luați destulă apă, mai ales pentru porțiunea spre Plat."
+        ],
+        "en": [
+          "The coastal road can be narrow, drive carefully.",
+          "Use pedestrian paths only at walking pace.",
+          "Take enough water, especially for the stretch to Plat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Kompleks Kupari (Cluster A)",
+          "coords": [
+            18.188,
+            42.622
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den ersten Cluster.",
+            "hu": "Parkoljon itt az első felfedezéshez.",
+            "ro": "Parcați aici pentru primul cluster.",
+            "en": "Park here for the first cluster."
+          }
+        },
+        {
+          "name": "Uvala Srebreno (Cluster A)",
+          "coords": [
+            18.196,
+            42.62
+          ],
+          "category": "beach",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von Kupari nach Srebreno.",
+            "hu": "Rövid séta Kupariból Srebrenóba.",
+            "ro": "Scurtă plimbare de la Kupari la Srebreno.",
+            "en": "Short walk from Kupari to Srebreno."
+          }
+        },
+        {
+          "name": "Ebéd Mliniben (Cluster B)",
+          "coords": [
+            18.205,
+            42.621
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrt zum nächsten Parkplatz in Mlini.",
+            "hu": "Vezetés a következő parkolóhoz Mliniben.",
+            "ro": "Conduceți spre următoarea parcare în Mlini.",
+            "en": "Drive to the next parking lot in Mlini."
+          }
+        },
+        {
+          "name": "Šetnica Mlini (Cluster B)",
+          "coords": [
+            18.206,
+            42.622
+          ],
+          "category": "park",
+          "arrive_at": "14:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkundung der Promenade zu Fuß.",
+            "hu": "A sétány felfedezése gyalogosan.",
+            "ro": "Explorarea promenadei pe jos.",
+            "en": "Explore the promenade on foot."
+          }
+        },
+        {
+          "name": "Crkva svetog Ilara (Cluster B)",
+          "coords": [
+            18.209,
+            42.624
+          ],
+          "category": "religious",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Historisches Zentrum von Mlini.",
+            "hu": "Mlini történelmi központja.",
+            "ro": "Centrul istoric din Mlini.",
+            "en": "Historic center of Mlini."
+          }
+        },
+        {
+          "name": "Plaža Plat (Cluster C)",
+          "coords": [
+            18.228,
+            42.607
+          ],
+          "category": "beach",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahrt zum südlichen Strandabschnitt.",
+            "hu": "Vezetés a déli strandrészhez.",
+            "ro": "Conduceți către secțiunea de plajă sudică.",
+            "en": "Drive to the southern beach section."
+          }
+        },
+        {
+          "name": "Naplemente panoráma",
+          "coords": [
+            18.21,
+            42.628
+          ],
+          "category": "sunset",
+          "arrive_at": "17:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stopp an einem Aussichtspunkt oberhalb der Bucht.",
+            "hu": "Megálló egy kilátópontnál az öböl felett.",
+            "ro": "Oprire la un punct de belvedere deasupra golfului.",
+            "en": "Stop at a viewpoint above the bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die Highlights von Župa Dubrovačka bequem mit dem Auto. Wir nutzen drei Cluster: Start in Kupari/Srebreno, dann ein kultureller Stopp in Mlini und schließlich Entspannung am Strand von Plat. Den Abschluss bildet ein Panoramablick von oben.",
+        "hu": "Fedezze fel Župa Dubrovačka fénypontjait kényelmesen, autóval. Három klasztert látogatunk meg: kezdés Kupari/Srebreno területén, kulturális megálló Mliniben, majd pihenés Plat strandján. A napot egy fentről nyíló panoráma zárja.",
+        "ro": "Descoperiți punctele forte ale Župa Dubrovačka confortabil cu mașina. Folosim trei clustere: început în Kupari/Srebreno, apoi o oprire culturală în Mlini și, în final, relaxare pe plaja Plat. Încheierea este oferită de o panoramă de sus.",
+        "en": "Discover the highlights of Župa Dubrovačka comfortably by car. We use three clusters: starting in Kupari/Srebreno, then a cultural stop in Mlini, and finally relaxation at Plat beach. The day concludes with a panoramic view from above."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Rozata",
+            "tip": "Traditionelles Dessert, ähnlich wie Crème brûlée."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rozata",
+            "tip": "Hagyományos desszert, hasonló a krém brüléhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rozata",
+            "tip": "Desert tradițional, similar cu crème brûlée."
+          }
+        ],
+        "en": [
+          {
+            "name": "Rozata",
+            "tip": "Traditional dessert, similar to crème brûlée."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Župa",
+            "tip": "Panoramablick ohne Menschenmassen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Župa kilátópont",
+            "tip": "Panoráma tömeg nélkül.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Župa",
+            "tip": "Vedere panoramică fără mulțime.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Župa viewpoint",
+            "tip": "Panoramic view without the crowds.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Sub City Mall",
+            "tip": "Einkaufszentrum in Srebreno für alles Nötige."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sub City Mall",
+            "tip": "Bevásárlóközpont Srebrenóban minden szükségeshez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sub City Mall",
+            "tip": "Centru comercial în Srebreno pentru necesități."
+          }
+        ],
+        "en": [
+          {
+            "name": "Sub City Mall",
+            "tip": "Shopping mall in Srebreno for all essentials."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze in Mlini sind im Sommer begrenzt, kommen Sie früh.",
+          "Die Fahrt zwischen den Orten ist kurz, ideal für Familien.",
+          "Nutzen Sie die Cluster, um Parkgebühren zu sparen."
+        ],
+        "hu": [
+          "A mlini parkolóhelyek korlátozottak nyáron, érkezzen korán.",
+          "A települések közötti út rövid, ideális családoknak.",
+          "Használja a klasztereket, hogy spóroljon a parkolási díjakon."
+        ],
+        "ro": [
+          "Locurile de parcare în Mlini sunt limitate vara, veniți devreme.",
+          "Drumul între localități este scurt, ideal pentru familii.",
+          "Folosiți clusterele pentru a economisi taxele de parcare."
+        ],
+        "en": [
+          "Parking spaces in Mlini are limited in summer, arrive early.",
+          "The drive between towns is short, ideal for families.",
+          "Use the clusters to save on parking fees."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Uvala Srebreno",
+          "coords": [
+            18.196,
+            42.62
+          ],
+          "category": "beach",
+          "arrive_at": "09:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Buslinie 10 verbindet Dubrovnik mit Srebreno.",
+            "hu": "A 10-es buszjárat köti össze Dubrovnikot Srebrenóval.",
+            "ro": "Linia de autobuz 10 conectează Dubrovnik de Srebreno.",
+            "en": "Bus line 10 connects Dubrovnik with Srebreno."
+          }
+        },
+        {
+          "name": "Kompleks Kupari",
+          "coords": [
+            18.188,
+            42.622
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Busstopp Srebreno.",
+            "hu": "Rövid gyalogút a srebrenói buszmegállótól.",
+            "ro": "Scurtă plimbare de la stația de autobuz Srebreno.",
+            "en": "Short walk from the Srebreno bus stop."
+          }
+        },
+        {
+          "name": "Ebéd Mlini központjában",
+          "coords": [
+            18.205,
+            42.621
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahrt mit dem lokalen Bus nach Mlini.",
+            "hu": "Utazás helyi busszal Mliniig.",
+            "ro": "Călătorie cu autobuzul local până la Mlini.",
+            "en": "Travel by local bus to Mlini."
+          }
+        },
+        {
+          "name": "Šetnica Mlini",
+          "coords": [
+            18.206,
+            42.622
+          ],
+          "category": "park",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannter Spaziergang zur Kirche.",
+            "hu": "Pihentető séta a templomhoz.",
+            "ro": "Plimbare relaxantă către biserică.",
+            "en": "Relaxing walk to the church."
+          }
+        },
+        {
+          "name": "Crkva svetog Ilara",
+          "coords": [
+            18.209,
+            42.624
+          ],
+          "category": "religious",
+          "arrive_at": "15:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nahe der Bushaltestelle Mlini.",
+            "hu": "Közel a mlini buszmegállóhoz.",
+            "ro": "Aproape de stația de autobuz Mlini.",
+            "en": "Near the Mlini bus stop."
+          }
+        },
+        {
+          "name": "Délutáni pihenő a parton",
+          "coords": [
+            18.212,
+            42.62
+          ],
+          "category": "beach",
+          "arrive_at": "16:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ausklang des Tages am Meer.",
+            "hu": "A nap lezárása a tengerparton.",
+            "ro": "Finalul zilei la malul mării.",
+            "en": "Ending the day at the seaside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Župa Dubrovačka ist hervorragend an das Busnetz von Dubrovnik angebunden. Beginnen Sie in Srebreno, erkunden Sie Kupari zu Fuß und fahren Sie dann weiter nach Mlini für Kultur und Entspannung. Ein stressfreier Tag ohne Parkplatzsuche.",
+        "hu": "Župa Dubrovačka kiválóan kapcsolódik Dubrovnik buszhálózatához. Kezdjen Srebrenóban, fedezze fel Kuparit gyalog, majd utazzon tovább Mlinibe kultúráért és pihenésért. Stresszmentes nap parkolási gondok nélkül.",
+        "ro": "Župa Dubrovačka este excelent conectată la rețeaua de autobuze din Dubrovnik. Începeți în Srebreno, explorați Kupari pe jos și apoi continuați spre Mlini pentru cultură și relaxare. O zi fără stres, fără grija parcării.",
+        "en": "Župa Dubrovačka is excellently connected to Dubrovnik's bus network. Start in Srebreno, explore Kupari on foot, and then travel further to Mlini for culture and relaxation. A stress-free day without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käse",
+            "tip": "Oft als Vorspeise in den Konobas angeboten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajt",
+            "tip": "Gyakran kínálják előételként a konobákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză locală",
+            "tip": "Adesea oferită ca aperitiv în konobe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local cheese",
+            "tip": "Often offered as an appetizer in konobas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mlini Park",
+            "tip": "Ruhiger Schattenplatz nahe der Kirche.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mlini park",
+            "tip": "Csendes, árnyékos hely a templom közelében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Mlini",
+            "tip": "Loc umbros și liniștit lângă biserică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mlini park",
+            "tip": "Quiet shaded spot near the church.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ansichtskarten",
+            "tip": "In den Kiosken von Mlini erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok",
+            "tip": "A mlini újságosoknál kapható."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi",
+            "tip": "Disponibile la chioșcurile din Mlini."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards",
+            "tip": "Available at the kiosks in Mlini."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets vorab am Kiosk, das ist günstiger.",
+          "Die Busse fahren im Sommer sehr regelmäßig.",
+          "Achten Sie auf die Fahrpläne für die Rückfahrt nach Dubrovnik."
+        ],
+        "hu": [
+          "Vegye meg a buszjegyet előre az újságosnál, úgy olcsóbb.",
+          "A buszok nyáron nagyon rendszeresen járnak.",
+          "Figyelje a menetrendet a Dubrovnikba való visszatéréshez."
+        ],
+        "ro": [
+          "Cumpărați biletele de autobuz în avans de la chioșc, este mai ieftin.",
+          "Autobuzele circulă foarte regulat în timpul verii.",
+          "Fiți atenți la orarul pentru întoarcerea spre Dubrovnik."
+        ],
+        "en": [
+          "Buy bus tickets in advance at the kiosk; it's cheaper.",
+          "Buses run very regularly during the summer.",
+          "Check the schedules for the return trip to Dubrovnik."
+        ]
+      }
+    }
+  }
+}

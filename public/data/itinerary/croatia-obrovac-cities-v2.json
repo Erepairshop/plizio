@@ -1,0 +1,1028 @@
+{
+  "city_id": "croatia-obrovac-cities-v2",
+  "anchor": {
+    "name": "Obrovac",
+    "coords": [
+      15.6817,
+      44.1992
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kaffee am Zrmanja-Ufer",
+            "hu": "Kávé a Zrmanja-parton",
+            "ro": "Cafea pe malul râului Zrmanja",
+            "en": "Coffee on the Zrmanja Bank"
+          },
+          "coords": [
+            15.6825,
+            44.1995
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf das smaragdgrüne Wasser.",
+            "hu": "Élvezze a smaragdzöld folyó látványát.",
+            "ro": "Bucurați-vă de vederea râului de smarald.",
+            "en": "Enjoy the view of the emerald green river."
+          }
+        },
+        {
+          "name": {
+            "de": "Utvrda Kurjakovića",
+            "hu": "Utvrda Kurjakovića",
+            "ro": "Utvrda Kurjakovića",
+            "en": "Utvrda Kurjakovića"
+          },
+          "coords": [
+            15.681,
+            44.2005
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Die Ruine bietet einen tollen Blick über die Stadt.",
+            "hu": "A romokról remek kilátás nyílik a városra.",
+            "ro": "Ruinele oferă o priveliște excelentă asupra orașului.",
+            "en": "The ruins offer a great view over the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanjon Zrmanje (Uferweg)",
+            "hu": "Zrmanja-kanyon (parti sétány)",
+            "ro": "Canionul Zrmanje (faleza)",
+            "en": "Zrmanja Canyon (Riverside Walk)"
+          },
+          "coords": [
+            15.683,
+            44.1985
+          ],
+          "category": "park",
+          "arrive_at": "11:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hier wurden Teile der Winnetou-Filme gedreht.",
+            "hu": "Itt forgatták a Winnetou-filmek több jelenetét.",
+            "ro": "Aici au fost filmate părți din filmele Winnetou.",
+            "en": "Parts of the Winnetou movies were filmed here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Konoba",
+            "hu": "Ebéd egy konobában",
+            "ro": "Prânz la o konoba",
+            "en": "Lunch in a Konoba"
+          },
+          "coords": [
+            15.682,
+            44.199
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie frische Forellen aus dem Fluss.",
+            "hu": "Kóstolja meg a friss folyami pisztrángot.",
+            "ro": "Încercați păstrăvul proaspăt de râu.",
+            "en": "Try fresh trout from the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke von Obrovac",
+            "hu": "Obrovaci öreg híd",
+            "ro": "Podul vechi din Obrovac",
+            "en": "Old Bridge of Obrovac"
+          },
+          "coords": [
+            15.6815,
+            44.1998
+          ],
+          "category": "monument",
+          "arrive_at": "14:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein perfekter Fotospot für den Flussverlauf.",
+            "hu": "Tökéletes fotóhelyszín a folyó kanyarulatához.",
+            "ro": "Un loc perfect pentru fotografii cu cursul râului.",
+            "en": "A perfect photo spot for the river bend."
+          }
+        },
+        {
+          "name": {
+            "de": "Flusspromenade",
+            "hu": "Folyóparti sétány",
+            "ro": "Promenada râului",
+            "en": "Riverside Promenade"
+          },
+          "coords": [
+            15.684,
+            44.198
+          ],
+          "category": "park",
+          "arrive_at": "15:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ruhiger Spaziergang flussabwärts.",
+            "hu": "Csendes séta a folyó mentén.",
+            "ro": "O plimbare liniștită în aval.",
+            "en": "Quiet walk downstream."
+          }
+        },
+        {
+          "name": {
+            "de": "Abendliche Ruhepause",
+            "hu": "Esti pihenő",
+            "ro": "Pauză de seară",
+            "en": "Evening Rest"
+          },
+          "coords": [
+            15.6822,
+            44.1993
+          ],
+          "category": "sunset",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie das Glitzern des Wassers.",
+            "hu": "Nézze a víz csillogását a lemenő napban.",
+            "ro": "Urmăriți strălucirea apei la apus.",
+            "en": "Watch the water sparkle in the setting sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im malerischen Obrovac direkt am Ufer der Zrmanja. Nach einem stärkenden Kaffee erklimmen Sie die historische Festung Kurjakovića, um den besten Überblick zu erhalten. Den Mittag verbringen Sie am Wasser, wo Sie in einer lokalen Konoba die kühle Brise des Canyons genießen, bevor Sie den Tag entspannt an der Uferpromenade ausklingen lassen.",
+        "hu": "Kezdje a napot a festői Obrovacban, közvetlenül a Zrmanja partján. Egy élénkítő kávé után másszon fel a történelmi Kurjakovića-erődhöz a legszebb kilátásért. A delet a vízparton töltse, ahol egy helyi konobában élvezheti a kanyon hűvös fuvallatát, mielőtt a napot egy pihentető sétával zárná a folyóparti korzón.",
+        "ro": "Începeți ziua în pitorescul Obrovac, chiar pe malul râului Zrmanja. După o cafea revigorantă, urcați la cetatea istorică Kurjakovića pentru cea mai bună panoramă. Petreceți amiaza lângă apă, unde vă puteți bucura de briza răcoroasă a canionului într-o konoba locală, înainte de a încheia ziua cu o plimbare relaxantă pe faleză.",
+        "en": "Start your day in picturesque Obrovac, right on the banks of the Zrmanja. After a refreshing coffee, climb up to the historic Kurjakovića fortress for the best views. Spend midday by the water, enjoying the canyon's cool breeze in a local konoba, before ending the day with a relaxing stroll along the riverside promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Zrmanja Forelle",
+            "tip": "Frisch gefangener Fisch direkt aus dem Fluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zrmanjai pisztráng",
+            "tip": "Frissen fogott hal közvetlenül a folyóból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Păstrăv de Zrmanja",
+            "tip": "Pește proaspăt prins direct din râu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zrmanja Trout",
+            "tip": "Freshly caught fish directly from the river."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpark",
+            "tip": "Stille Ecke abseits der Hauptbrücke.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti park",
+            "tip": "Csendes sarok a főhídtól távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de pe mal",
+            "tip": "Colț liniștit departe de podul principal.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverside Park",
+            "tip": "Quiet corner away from the main bridge.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Würziger Honig aus den Velebit-Kräutern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Fűszeres méz a Velebit gyógynövényeiből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Miere aromată din plantele de pe Velebit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Spicy honey from Velebit herbs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Aufstieg zur Festung.",
+          "Die Stadt ist mittags oft sehr ruhig und entspannt."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az erődbe való feljutáshoz.",
+          "A város délidőben gyakran nagyon csendes és nyugodt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru urcarea la cetate.",
+          "Orașul este adesea foarte liniștit și relaxat la prânz."
+        ],
+        "en": [
+          "Wear comfortable shoes for the climb to the fortress.",
+          "The town is often very quiet and relaxed at midday."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 65.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Utvrda Kurjakovića (Cluster A)",
+            "hu": "Utvrda Kurjakovića (A-klaszter)",
+            "ro": "Utvrda Kurjakovića (Cluster A)",
+            "en": "Utvrda Kurjakovića (Cluster A)"
+          },
+          "coords": [
+            15.681,
+            44.2005
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum und gehen Sie zu Fuß hoch.",
+            "hu": "Parkoljon a városközpontban, és sétáljon fel.",
+            "ro": "Parcați în centrul orașului și urcați pe jos.",
+            "en": "Park in the town center and walk up."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanjon Zrmanje Aussichtspunkt",
+            "hu": "Zrmanja-kanyon kilátó",
+            "ro": "Punct de belvedere Canionul Zrmanje",
+            "en": "Zrmanja Canyon Viewpoint"
+          },
+          "coords": [
+            15.615,
+            44.225
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Der berühmteste 'Pueblo Plateau' Blick.",
+            "hu": "A leghíresebb 'Pueblo Plateau' kilátás.",
+            "ro": "Cea mai faimoasă priveliște 'Pueblo Plateau'.",
+            "en": "The most famous 'Pueblo Plateau' view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in Obrovac",
+            "hu": "Ebéd Obrovacban",
+            "ro": "Prânz în Obrovac",
+            "en": "Lunch in Obrovac"
+          },
+          "coords": [
+            15.682,
+            44.199
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Kurze Rückkehr in die Stadt zur Stärkung.",
+            "hu": "Rövid visszatérés a városba ebédelni.",
+            "ro": "Scurtă întoarcere în oraș pentru masă.",
+            "en": "Short return to town for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Krupa (Kloster & Brücke)",
+            "hu": "Krupa (kolostor és híd)",
+            "ro": "Krupa (mănăstire și pod)",
+            "en": "Krupa (Monastery & Bridge)"
+          },
+          "coords": [
+            15.842,
+            44.192
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 18.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das alte serbisch-orthodoxe Kloster.",
+            "hu": "Látogassa meg a régi szerb ortodox kolostort.",
+            "ro": "Vizitați vechea mănăstire ortodoxă sârbă.",
+            "en": "Visit the old Serbian Orthodox monastery."
+          }
+        },
+        {
+          "name": {
+            "de": "Tulove Grede",
+            "hu": "Tulove Grede",
+            "ro": "Tulove Grede",
+            "en": "Tulove Grede"
+          },
+          "coords": [
+            15.645,
+            44.263
+          ],
+          "category": "mountain",
+          "arrive_at": "16:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 27.5,
+          "tip_5lang": {
+            "de": "Bizarre Felsformationen im Velebit-Gebirge.",
+            "hu": "Bizzar sziklaformációk a Velebitben.",
+            "ro": "Formațiuni stâncoase bizare în munții Velebit.",
+            "en": "Bizarre rock formations in the Velebit mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama-Abschluss",
+            "hu": "Panorámás búcsú",
+            "ro": "Final panoramic",
+            "en": "Panoramic Farewell"
+          },
+          "coords": [
+            15.655,
+            44.255
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Blick hinunter zur Adria bei klarem Wetter.",
+            "hu": "Kilátás az Adriára tiszta időben.",
+            "ro": "Vedere spre Adriatica pe vreme senină.",
+            "en": "View down to the Adriatic in clear weather."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie die dramatische Umgebung von Obrovac. Nach der Stadtfestung fahren Sie zum berühmten Zrmanja-Canyon-Aussichtspunkt, bekannt aus Filmen. Der Nachmittag führt Sie tief in das Hinterland zum idyllischen Kloster Krupa und schließlich hoch hinauf zu den spektakulären Felsnadeln der Tulove Grede im Velebit-Massiv.",
+        "hu": "Autóval fedezze fel Obrovac drámai környezetét. A várerőd után látogasson el a híres Zrmanja-kanyon kilátóhoz, amely filmekből lehet ismerős. A délután a hátország mélyére, az idilli Krupa-kolostorhoz vezet, végül pedig a Velebit-hegység látványos Tulove Grede sziklatűihez kanyarodik fel.",
+        "ro": "Cu mașina, explorați împrejurimile dramatice ale Obrovacului. După cetate, mergeți la celebrul punct de belvedere al canionului Zrmanja, cunoscut din filme. După-amiaza vă poartă adânc în hinterland, la idilica mănăstire Krupa, și în final sus, la spectaculoasele coloane de piatră Tulove Grede din masivul Velebit.",
+        "en": "Explore the dramatic surroundings of Obrovac by car. After the fortress, drive to the famous Zrmanja Canyon viewpoint, known from the movies. The afternoon takes you deep into the hinterland to the idyllic Krupa Monastery and finally high up to the spectacular rock needles of Tulove Grede in the Velebit massif."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm am Spieß",
+            "tip": "Spezialität im Hinterland von Obrovac."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült bárány",
+            "tip": "Obrovac környékének vidéki specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la proțap",
+            "tip": "Specialitate din zona rurală a Obrovacului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spit-roasted lamb",
+            "tip": "Specialty in the Obrovac hinterland."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Krupa Quellen",
+            "tip": "Ein Paradies der Ruhe am Gebirgsfluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Krupa-források",
+            "tip": "A nyugalom paradicsoma a hegyi folyónál.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Izvoarele Krupa",
+            "tip": "Un paradis al liniștii lângă râul de munte.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Krupa Springs",
+            "tip": "A paradise of peace by the mountain river.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Velebit Käse",
+            "tip": "Kräftiger Käse von lokalen Bauern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Velebiti sajt",
+            "tip": "Karakteres sajt helyi gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de Velebit",
+            "tip": "Brânză aromată de la producătorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Velebit Cheese",
+            "tip": "Strong cheese from local farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Achten Sie auf die engen Bergstraßen zu den Tulove Grede.",
+          "Tanken Sie in Obrovac voll, bevor Sie ins Hinterland fahren."
+        ],
+        "hu": [
+          "Vigyázzon a szűk hegyi utakra Tulove Grede felé.",
+          "Tankoljon tele Obrovacban, mielőtt a hátországba indul."
+        ],
+        "ro": [
+          "Atenție la drumurile montane înguste spre Tulove Grede.",
+          "Alimentați cu combustibil în Obrovac înainte de a pleca spre hinterland."
+        ],
+        "en": [
+          "Watch out for narrow mountain roads towards Tulove Grede.",
+          "Fill up your tank in Obrovac before heading into the hinterland."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zrmanja-Radweg Start",
+            "hu": "Zrmanja kerékpárút rajt",
+            "ro": "Start pistă de biciclete Zrmanja",
+            "en": "Zrmanja Bike Trail Start"
+          },
+          "coords": [
+            15.682,
+            44.1995
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie Reifendruck und Bremsen.",
+            "hu": "Ellenőrizze a guminyomást és a fékeket.",
+            "ro": "Verificați presiunea în pneuri și frânele.",
+            "en": "Check tire pressure and brakes."
+          }
+        },
+        {
+          "name": {
+            "de": "Utvrda Kurjakovića",
+            "hu": "Utvrda Kurjakovića",
+            "ro": "Utvrda Kurjakovića",
+            "en": "Utvrda Kurjakovića"
+          },
+          "coords": [
+            15.681,
+            44.2005
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stellen Sie das Rad unten sicher ab.",
+            "hu": "Zárja le a biciklit lent biztonságosan.",
+            "ro": "Parcați și încuiați bicicleta jos.",
+            "en": "Lock your bike securely at the bottom."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanjon Zrmanje (Oberer Pfad)",
+            "hu": "Zrmanja-kanyon (felső ösvény)",
+            "ro": "Canionul Zrmanje (poteca de sus)",
+            "en": "Zrmanja Canyon (Upper Path)"
+          },
+          "coords": [
+            15.66,
+            44.215
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:30",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Wunderschöne Aussichtspunkte entlang der Schotterwege.",
+            "hu": "Gyönyörű kilátópontok a murvás utak mentén.",
+            "ro": "Puncte de belvedere superbe de-a lungul drumurilor pietruite.",
+            "en": "Beautiful viewpoints along the gravel paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Picknick am Fluss",
+            "hu": "Piknik a folyónál",
+            "ro": "Picnic lângă râu",
+            "en": "Picnic by the River"
+          },
+          "coords": [
+            15.675,
+            44.205
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Schattenplatz unter Bäumen suchen.",
+            "hu": "Keressen egy árnyékos helyet a fák alatt.",
+            "ro": "Căutați un loc umbrit sub copaci.",
+            "en": "Find a shaded spot under the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Obrovac Ufertour",
+            "hu": "Obrovaci parti túra",
+            "ro": "Turul falezei Obrovac",
+            "en": "Obrovac Waterfront Tour"
+          },
+          "coords": [
+            15.6835,
+            44.1985
+          ],
+          "category": "harbor",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspanntes Ausrollen am Flussufer.",
+            "hu": "Pihentető gurulás a folyóparton.",
+            "ro": "Plimbare relaxată pe malul râului.",
+            "en": "Relaxing ride along the riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Abschlussgetränk",
+            "hu": "Búcsúital",
+            "ro": "Băutură de final",
+            "en": "Farewell Drink"
+          },
+          "coords": [
+            15.682,
+            44.1993
+          ],
+          "category": "gastro",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kühles Radler an der Riva.",
+            "hu": "Egy hűvös ital a Riván.",
+            "ro": "O băutură rece pe Riva.",
+            "en": "A cool drink on the Riva."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erleben Sie Obrovac und den Zrmanja-Canyon hautnah. Die Route führt Sie von der Stadtfestung über sanfte Anstiege zu Aussichtspunkten über dem Fluss. Genießen Sie die Freiheit auf zwei Rädern, während Sie die karstigen Hänge erkunden und zwischendurch ein gemütliches Picknick im Schatten der Bäume am Flussufer machen.",
+        "hu": "Kerékpárral testközelből élheti át Obrovacot és a Zrmanja-kanyont. Az útvonal a várerődtől indul, majd enyhe emelkedőkön vezet a folyó feletti kilátópontokhoz. Élvezze a szabadságot két keréken, miközben felfedezi a karsztos lejtőket, és közben tartson egy kellemes pikniket a fák árnyékában a folyóparton.",
+        "ro": "Cu bicicleta, veți experimenta Obrovacul și canionul Zrmanja de aproape. Traseul vă poartă de la cetate peste urcări ușoare către puncte de belvedere deasupra râului. Bucurați-vă de libertatea pe două roți în timp ce explorați pantele carstice și faceți un picnic plăcut la umbra copacilor de pe malul râului.",
+        "en": "Experience Obrovac and the Zrmanja Canyon firsthand by bike. The route takes you from the fortress via gentle climbs to viewpoints above the river. Enjoy the freedom on two wheels while exploring the karstic slopes and having a cozy picnic in the shade of trees on the riverbank."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Picknick-Korb",
+            "tip": "Lokales Brot, Schinken und Käse einpacken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piknikkosár",
+            "tip": "Csomagoljon helyi kenyeret, sonkát és sajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coș de picnic",
+            "tip": "Puneți pâine locală, șuncă și brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Picnic Basket",
+            "tip": "Pack local bread, ham, and cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Canyon-Pfad",
+            "tip": "Vogelgezwitscher und Flußrauschen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kanyon-ösvény",
+            "tip": "Madárcsicsergés és folyózúgás.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca canionului",
+            "tip": "Cântec de păsări și susurul râului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canyon Path",
+            "tip": "Birdsong and the sound of the river.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Getrocknete Feigen",
+            "tip": "Energieschub für die Weiterfahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Aszalt füge",
+            "tip": "Energialöket a további úthoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Smochine uscate",
+            "tip": "Plus de energie pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dried Figs",
+            "tip": "Energy boost for the ride."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Schatten.",
+          "Die Wege sind teils geschottert, Mountainbike empfohlen."
+        ],
+        "hu": [
+          "Vigyen elég vizet, kevés az árnyék.",
+          "Az utak részben murvásak, hegyi kerékpár ajánlott."
+        ],
+        "ro": [
+          "Luați destulă apă, este puțină umbră.",
+          "Drumurile sunt parțial cu pietriș, se recomandă mountain bike."
+        ],
+        "en": [
+          "Take enough water, there is little shade.",
+          "The paths are partly gravel, mountain bike recommended."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Platz (Haltestelle)",
+            "hu": "Központi tér (megálló)",
+            "ro": "Piața Centrală (stație)",
+            "en": "Central Square (Bus Stop)"
+          },
+          "coords": [
+            15.682,
+            44.1995
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über die lokalen Buszeiten.",
+            "hu": "Tájékozódjon a helyi buszjáratokról.",
+            "ro": "Informați-vă despre orarul autobuzelor locale.",
+            "en": "Check the local bus schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Utvrda Kurjakovića",
+            "hu": "Utvrda Kurjakovića",
+            "ro": "Utvrda Kurjakovića",
+            "en": "Utvrda Kurjakovića"
+          },
+          "coords": [
+            15.681,
+            44.2005
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Platz aus ein kurzer Fußweg bergauf.",
+            "hu": "A tértől rövid gyalogút felfelé.",
+            "ro": "O scurtă plimbare la deal de la piață.",
+            "en": "A short walk uphill from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            15.682,
+            44.199
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Hausgemachte Teigwaren sind hier beliebt.",
+            "hu": "A házi tésztafélék itt népszerűek.",
+            "ro": "Pastele de casă sunt populare aici.",
+            "en": "Homemade pasta is popular here."
+          }
+        },
+        {
+          "name": {
+            "de": "Zrmanja Bootsanleger (Wasser-Transit)",
+            "hu": "Zrmanja hajóállomás (vízi közlekedés)",
+            "ro": "Debarcader Zrmanja (tranzit naval)",
+            "en": "Zrmanja Boat Pier (Water Transit)"
+          },
+          "coords": [
+            15.683,
+            44.1985
+          ],
+          "category": "port",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie an einer Bootstour in den Canyon teil.",
+            "hu": "Vegyen részt egy hajókiránduláson a kanyonba.",
+            "ro": "Participați la o excursie cu barca în canion.",
+            "en": "Take a boat tour into the canyon."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade Ausklang",
+            "hu": "Parti sétány zárás",
+            "ro": "Final pe faleză",
+            "en": "Waterfront Finale"
+          },
+          "coords": [
+            15.6825,
+            44.1993
+          ],
+          "category": "harbor",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Warten auf den Bus bei einem Eis.",
+            "hu": "Várja a buszt egy fagylalt mellett.",
+            "ro": "Așteptați autobuzul cu o înghețată.",
+            "en": "Wait for the bus with an ice cream."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auch ohne eigenes Auto lässt sich Obrovac entdecken. Nutzen Sie den Bus, um ins Zentrum zu gelangen, und erkunden Sie die Festung zu Fuß. Das Highlight ist der Wasser-Transit: Eine Bootstour ab dem Anleger führt Sie direkt in den spektakulären Kanjon Zrmanje, wo Sie die steilen Felswände vom Wasser aus bewundern können, bevor Sie entspannt zur Haltestelle zurückkehren.",
+        "hu": "Saját autó nélkül is felfedezhető Obrovac. Használja a buszt a központba jutáshoz, majd gyalog fedezze fel az erődöt. A nap fénypontja a vízi közlekedés: egy hajótúra a mólótól közvetlenül a látványos Zrmanja-kanyonba visz, ahol a víztől csodálhatja meg a meredek sziklafalakat, mielőtt visszatérne a buszmegállóhoz.",
+        "ro": "Obrovacul poate fi descoperit și fără mașină proprie. Folosiți autobuzul pentru a ajunge în centru și explorați cetatea pe jos. Punctul culminant este tranzitul naval: o excursie cu barca de la debarcader vă duce direct în spectaculosul canion Zrmanja, unde puteți admira pereții stâncoși de pe apă, înainte de a reveni la stație.",
+        "en": "Obrovac can be discovered even without your own car. Use the bus to get to the center and explore the fortress on foot. The highlight is the water transit: a boat tour from the pier takes you directly into the spectacular Zrmanja Canyon, where you can admire the steep cliffs from the water before returning to the bus stop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eiscreme an der Riva",
+            "tip": "Erfrischung an heißen Tagen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fagylalt a Riván",
+            "tip": "Frissítő a forró napokon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețată pe Riva",
+            "tip": "Răcoritoare în zilele toride."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ice Cream on the Riva",
+            "tip": "Refreshment on hot days."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bootsterrasse",
+            "tip": "Blick auf das ruhige Wasser.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hajóterasz",
+            "tip": "Kilátás a nyugodt vízre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Terasa bărcii",
+            "tip": "Vedere asupra apei liniștite.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Boat Terrace",
+            "tip": "View of the calm water.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten",
+            "tip": "Motive vom Zrmanja-Canyon."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok",
+            "tip": "Zrmanja-kanyonos motívumok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi",
+            "tip": "Motive cu canionul Zrmanje."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards",
+            "tip": "Motifs from the Zrmanja Canyon."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fragen Sie im Café nach den aktuellen Abfahrtszeiten der Boote.",
+          "Der Busbahnhof ist klein und übersichtlich."
+        ],
+        "hu": [
+          "Kérdezze meg a kávézóban a hajók aktuális indulási idejét.",
+          "A buszmegálló kicsi és könnyen átlátható."
+        ],
+        "ro": [
+          "Întrebați la cafenea despre ora actuală de plecare a bărcilor.",
+          "Stația de autobuz este mică și ușor de găsit."
+        ],
+        "en": [
+          "Ask at the cafe for the current boat departure times.",
+          "The bus stop is small and easy to navigate."
+        ]
+      }
+    }
+  }
+}

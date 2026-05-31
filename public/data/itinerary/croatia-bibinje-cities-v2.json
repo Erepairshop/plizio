@@ -1,0 +1,1012 @@
+{
+  "city_id": "croatia-bibinje-cities-v2",
+  "anchor": {
+    "name": "Bibinje",
+    "coords": [
+      15.2878,
+      44.0717
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Staro selo",
+          "coords": [
+            15.286,
+            44.071
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die engen Gassen des historischen Kerns.",
+            "hu": "Sétáljon a történelmi mag szűk, kővel burkolt utcáin.",
+            "ro": "Plimbați-vă pe străzile înguste ale nucleului istoric.",
+            "en": "Stroll through the narrow stone streets of the historic core."
+          }
+        },
+        {
+          "name": "Crkva sv. Roka",
+          "coords": [
+            15.285,
+            44.072
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser Kirche aus dem 16. Jahrhundert.",
+            "hu": "Csodálja meg ennek a 16. századi templomnak az építészetét.",
+            "ro": "Admirați arhitectura acestei biserici din secolul al XVI-lea.",
+            "en": "Admire the architecture of this 16th-century church."
+          }
+        },
+        {
+          "name": "Crkva sv. Ivana Krstitelja",
+          "coords": [
+            15.284,
+            44.07
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche Johannes des Täufers im Zentrum.",
+            "hu": "Látogassa meg a Keresztelő Szent János-templomot a központban.",
+            "ro": "Vizitați Biserica Sfântului Ioan Botezătorul din centru.",
+            "en": "Visit the Church of St. John the Baptist in the center."
+          }
+        },
+        {
+          "name": "Uferpromenade Riva",
+          "coords": [
+            15.282,
+            44.069
+          ],
+          "category": "harbor",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang entlang der dalmatinischen Küste.",
+            "hu": "Egy pihentető séta a dalmát tengerpart mentén.",
+            "ro": "O plimbare relaxantă de-a lungul coastei dalmate.",
+            "en": "A relaxing walk along the Dalmatian coastline."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            15.283,
+            44.068
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch oder Peka in einer lokalen Taverne.",
+            "hu": "Kóstoljon friss halat vagy pekát egy helyi tavernábana.",
+            "ro": "Gustați pește proaspăt sau peka într-o tavernă locală.",
+            "en": "Taste fresh fish or peka in a local tavern."
+          }
+        },
+        {
+          "name": "Plaža Punta Rožica",
+          "coords": [
+            15.281,
+            44.068
+          ],
+          "category": "beach",
+          "arrive_at": "14:30",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie das klare Wasser und den Kieselstrand.",
+            "hu": "Élvezze a tiszta vizet és a kavicsos strandot.",
+            "ro": "Bucurați-vă de apa limpede și de plaja cu pietriș.",
+            "en": "Enjoy the clear water and the pebble beach."
+          }
+        },
+        {
+          "name": "Sonnenuntergang am Kai",
+          "coords": [
+            15.28,
+            44.067
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für Fotos vom Sonnenuntergang über dem Zadar-Archipel.",
+            "hu": "Tökéletes hely naplementés fotókhoz a zárai szigetvilág felett.",
+            "ro": "Locul perfect pentru fotografii cu apusul peste arhipelagul Zadar.",
+            "en": "The perfect spot for sunset photos over the Zadar archipelago."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Bibinje beginnt im Staro selo, dem alten Dorfzentrum mit seinen charakteristischen Steinhäusern. Besuchen Sie die historischen Kirchen St. Rochus und St. Johannes, bevor Sie die belebte Uferpromenade Riva erkunden. Nach einem authentischen dalmatinischen Mittagessen in einer Konoba verbringen Sie den Nachmittag am Kieselstrand Punta Rožica. Den Tag lassen Sie mit einem malerischen Sonnenuntergang am Meer ausklingen.",
+        "hu": "A bibinjei reggel a Staro selóban, az ófalu központjában kezdődik, jellegzetes kőházaival. Látogassa meg a Szent Rókus és Keresztelő Szent János történelmi templomokat, mielőtt felfedezné a nyüzsgő Riva sétányt. Egy autentikus dalmát ebéd után egy helyi konobában, töltse a délutánt a kavicsos Punta Rožica strandon. A napot egy festői naplementével zárja a tengerparton.",
+        "ro": "Dimineața în Bibinje începe în Staro selo, centrul vechi al satului, cu casele sale caracteristice din piatră. Vizitați bisericile istorice Sf. Rochus și Sf. Ioan Botezătorul înainte de a explora faleza animată Riva. După un prânz dalmat autentic într-o konoba locală, petreceți după-amiaza pe plaja cu pietriș Punta Rožica. Încheiați ziua cu un apus pitoresc pe malul mării.",
+        "en": "The morning in Bibinje begins in Staro selo, the old village center with its characteristic stone houses. Visit the historical churches of St. Roch and St. John the Baptist before exploring the lively Riva waterfront. After an authentic Dalmatian lunch in a local konoba, spend the afternoon at the pebble beach Punta Rožica. End the day with a picturesque sunset by the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dalmatinische Peka",
+            "tip": "Fleisch oder Tintenfisch unter der Glocke gegart."
+          },
+          {
+            "name": "Konoba u Ribara",
+            "tip": "Hervorragende Meeresfrüchte direkt am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalmát Peka",
+            "tip": "Hús vagy polip harang alatt sütve."
+          },
+          {
+            "name": "Konoba u Ribara",
+            "tip": "Kiváló tengeri ételek közvetlenül a vízparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peka dalmată",
+            "tip": "Carne sau caracatiță gătită sub capac de fontă."
+          },
+          {
+            "name": "Konoba u Ribara",
+            "tip": "Fructe de mare excelente direct pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalmatian Peka",
+            "tip": "Meat or octopus cooked under a bell lid."
+          },
+          {
+            "name": "Konoba u Ribara",
+            "tip": "Excellent seafood right by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenpromenade",
+            "tip": "Ruhiger Spaziergang am frühen Morgen.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Rochus Kirche",
+            "tip": "Ein Ort der Stille im historischen Kern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői sétány",
+            "tip": "Csendes séta kora reggel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szent Rókus templom",
+            "tip": "A nyugalom szigete a történelmi magban.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada portului",
+            "tip": "O plimbare liniștită dimineața devreme.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biserica Sf. Rochus",
+            "tip": "Un loc de liniște în centrul istoric.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor promenade",
+            "tip": "Quiet stroll early in the morning.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Roch Church",
+            "tip": "A place of silence in the historic core.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hausgemachtes Olivenöl",
+            "tip": "Direkt von lokalen Bauern im Dorf kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi olívaolaj",
+            "tip": "Vásároljon közvetlenül a helyi gazdáktól a faluban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline de casă",
+            "tip": "Cumpărați direct de la fermierii locali din sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade olive oil",
+            "tip": "Buy directly from local farmers in the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bibinje ist sehr fußgängerfreundlich, alle Sehenswürdigkeiten liegen nah beieinander.",
+          "Tragen Sie am Strand Punta Rožica Badeschuhe wegen der Kieselsteine.",
+          "In den lokalen Konobas wird oft nur Bargeld akzeptiert.",
+          "Die Riva ist abends der beste Ort, um Einheimische zu treffen."
+        ],
+        "hu": [
+          "Bibinje nagyon gyalogosbarát, minden látnivaló közel van egymáshoz.",
+          "Viseljen úszócipőt a Punta Rožica strandon a kavicsok miatt.",
+          "A helyi konobákban gyakran csak készpénzt fogadnak el.",
+          "A Riva este a legjobb hely a helyiekkel való találkozásra."
+        ],
+        "ro": [
+          "Bibinje este foarte prietenos cu pietonii, toate obiectivele sunt aproape unele de altele.",
+          "Purtați încălțăminte de apă pe plaja Punta Rožica din cauza pietrișului.",
+          "În konobele locale se acceptă adesea doar numerar.",
+          "Riva este cel mai bun loc seara pentru a întâlni localnicii."
+        ],
+        "en": [
+          "Bibinje is very pedestrian-friendly, all sights are close to each other.",
+          "Wear water shoes at Punta Rožica beach because of the pebbles.",
+          "Local konobas often accept cash only.",
+          "The Riva is the best place in the evening to meet locals."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Staro selo",
+          "coords": [
+            15.286,
+            44.071
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour im historischen Herzen des Dorfes.",
+            "hu": "Kezdje kerékpártúráját a falu történelmi szívében.",
+            "ro": "Începeți turul cu bicicleta în inima istorică a satului.",
+            "en": "Start your bike tour in the historic heart of the village."
+          }
+        },
+        {
+          "name": "Marina Dalmacija",
+          "coords": [
+            15.302,
+            44.058
+          ],
+          "category": "port",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie eine der größten Marinas an der Adria.",
+            "hu": "Látogasson el az Adria egyik legnagyobb jachtkikötőjébe.",
+            "ro": "Vizitați una dintre cele mai mari marine de la Marea Adriatică.",
+            "en": "Visit one of the largest marinas on the Adriatic Sea."
+          }
+        },
+        {
+          "name": "Mittagessen in der Marina",
+          "coords": [
+            15.298,
+            44.06
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie gehobene Küche mit Blick auf die Yachten.",
+            "hu": "Élvezze a finom ételeket a jachtokra nyíló kilátással.",
+            "ro": "Bucurați-vă de bucătărie rafinată cu vedere la iahturi.",
+            "en": "Enjoy fine dining with a view of the yachts."
+          }
+        },
+        {
+          "name": "Plaža Punta Rožica",
+          "coords": [
+            15.281,
+            44.068
+          ],
+          "category": "beach",
+          "arrive_at": "13:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der Küstenstraße bis zum Hauptstrand.",
+            "hu": "Tekerjen a tengerparti úton a fő strandig.",
+            "ro": "Pedalați de-a lungul drumului de coastă până la plaja principală.",
+            "en": "Ride along the coastal road to the main beach."
+          }
+        },
+        {
+          "name": "Crkva sv. Roka",
+          "coords": [
+            15.285,
+            44.072
+          ],
+          "category": "religious",
+          "arrive_at": "16:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kultureller Stopp am Nachmittag im Zentrum.",
+            "hu": "Délutáni kulturális megálló a központban.",
+            "ro": "O oprire culturală după-amiaza în centru.",
+            "en": "An afternoon cultural stop in the center."
+          }
+        },
+        {
+          "name": "Hafenpromenade Aussicht",
+          "coords": [
+            15.287,
+            44.073
+          ],
+          "category": "harbor",
+          "arrive_at": "17:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die ein- und ausfahrenden Fischerboote.",
+            "hu": "Figyelje a ki- és befutó halászhajókat.",
+            "ro": "Urmăriți bărcile de pescuit care intră și ies.",
+            "en": "Watch the fishing boats coming in and out."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Bibinje und seine Umgebung bequem mit dem Fahrrad. Von der Altstadt Staro selo führt die Tour zur beeindruckenden Marina Dalmacija, einem der modernsten Häfen Kroatiens. Genießen Sie dort ein exquisites Mittagessen, bevor Sie gemütlich zurück zur Punta Rožica radeln, um im Meer zu entspannen. Der Tag endet mit einem Besuch der St. Rochus Kirche und einem Blick auf den malerischen Fischerhafen.",
+        "hu": "Fedezze fel Bibinjét és környékét kényelmesen kerékpárral. Az óvárosból, a Staro selóból az út a lenyűgöző Marina Dalmacija felé vezet, amely Horvátország egyik legmodernebb kikötője. Élvezzen ott egy ízletes ebédet, majd tekerjen vissza a Punta Rožica strandra egy kis tengeri pihenésre. A napot a Szent Rókus templom meglátogatásával és a festői halászkikötő megtekintésével zárja.",
+        "ro": "Explorați Bibinje și împrejurimile sale confortabil cu bicicleta. Din centrul vechi, Staro selo, turul duce spre impresionanta Marina Dalmacija, unul dintre cele mai moderne porturi din Croația. Savurați acolo un prânz rafinat înainte de a pedala înapoi spre Punta Rožica pentru o relaxare în mare. Ziua se încheie cu o vizită la biserica Sf. Rochus și o privire asupra portului pitoresc de pescuit.",
+        "en": "Explore Bibinje and its surroundings comfortably by bike. From the old town, Staro selo, the tour leads to the impressive Marina Dalmacija, one of Croatia's most modern marinas. Enjoy an exquisite lunch there before cycling back to Punta Rožica to relax in the sea. The day ends with a visit to St. Roch Church and a view of the picturesque fishing harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Laguna",
+            "tip": "Gehobene Küche in der Marina Dalmacija."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Laguna",
+            "tip": "Színvonalas konyha a Marina Dalmacijában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Laguna",
+            "tip": "Bucătărie rafinată în Marina Dalmacija."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Laguna",
+            "tip": "Fine dining in Marina Dalmacija."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Marina Wellenbrecher",
+            "tip": "Spaziergang bis zum Ende des Wellenbrechers.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marina hullámtörő",
+            "tip": "Séta a hullámtörő gát végéig.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul marinei",
+            "tip": "Plimbare până la capătul digului.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marina breakwater",
+            "tip": "Walk to the end of the breakwater.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Yacht-Zubehör Shops",
+            "tip": "Maritime Mode und Ausrüstung in der Marina."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Jacht felszerelés boltok",
+            "tip": "Tengerészeti divat és felszerelés a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine de iahting",
+            "tip": "Modă maritimă și echipamente în marină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Yacht gear shops",
+            "tip": "Maritime fashion and equipment in the marina."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke zur Marina ist flach und sehr einfach zu fahren.",
+          "Nutzen Sie die Radwege entlang der Küste für die beste Aussicht.",
+          "In der Marina gibt es ausreichend Fahrradständer.",
+          "Ein Helm ist besonders auf den kurzen Straßenstücken empfohlen."
+        ],
+        "hu": [
+          "A kikötőhöz vezető út sík és nagyon könnyen tekerhető.",
+          "Használja a tengerparti kerékpárutakat a legjobb kilátásért.",
+          "A kikötőben bőségesen talál kerékpártárolót.",
+          "A bukósisak használata ajánlott, különösen a rövid utcai szakaszokon."
+        ],
+        "ro": [
+          "Traseul către marină este plat și foarte ușor de parcurs.",
+          "Folosiți pistele de biciclete de-a lungul coastei pentru cele mai bune priveliști.",
+          "În marină există suficiente locuri de parcare pentru biciclete.",
+          "Se recomandă purtarea căștii, mai ales pe porțiunile scurte de drum."
+        ],
+        "en": [
+          "The route to the marina is flat and very easy to ride.",
+          "Use the bike paths along the coast for the best views.",
+          "There are plenty of bike racks in the marina.",
+          "A helmet is recommended, especially on the short street sections."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Staro selo",
+          "coords": [
+            15.286,
+            44.071
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang des historischen Zentrums (Cluster A).",
+            "hu": "Parkoljon a történelmi központ bejáratánál (A klaszter).",
+            "ro": "Parcați la intrarea în centrul istoric (Cluster A).",
+            "en": "Park at the entrance of the historic center (Cluster A)."
+          }
+        },
+        {
+          "name": "Crkva sv. Roka",
+          "coords": [
+            15.285,
+            44.072
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Altstadt (Cluster A).",
+            "hu": "Rövid séta az óvárostól (A klaszter).",
+            "ro": "Scurtă plimbare de la orașul vechi (Cluster A).",
+            "en": "Short walk from the old town (Cluster A)."
+          }
+        },
+        {
+          "name": "Crkva sv. Ivana Krstitelja",
+          "coords": [
+            15.284,
+            44.07
+          ],
+          "category": "religious",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Letzter Stopp im Zentrum, bevor Sie zur Marina fahren.",
+            "hu": "Utolsó megálló a központban, mielőtt a kikötőbe hajtana.",
+            "ro": "Ultima oprire în centru înainte de a merge la marină.",
+            "en": "Last stop in the center before driving to the marina."
+          }
+        },
+        {
+          "name": "Marina Dalmacija",
+          "coords": [
+            15.302,
+            44.058
+          ],
+          "category": "port",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Cluster B und nutzen Sie den großen Parkplatz.",
+            "hu": "Hajtson a B klaszterhez, használja a nagy parkolót.",
+            "ro": "Conduceți spre Cluster B și folosiți parcarea mare.",
+            "en": "Drive to Cluster B and use the large parking lot."
+          }
+        },
+        {
+          "name": "Gastro-Pause in einer Konoba",
+          "coords": [
+            15.298,
+            44.061
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Dalmatinische Spezialitäten in der Nähe der Marina (Cluster B).",
+            "hu": "Dalmát specialitások a kikötő közelében (B klaszter).",
+            "ro": "Specialități dalmate lângă marină (Cluster B).",
+            "en": "Dalmatian specialties near the marina (Cluster B)."
+          }
+        },
+        {
+          "name": "Plaža Punta Rožica",
+          "coords": [
+            15.281,
+            44.068
+          ],
+          "category": "beach",
+          "arrive_at": "14:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Strandes für einen entspannten Nachmittag.",
+            "hu": "Parkoljon a strand közelében a pihentető délutánhoz.",
+            "ro": "Parcați lângă plajă pentru o după-amiază relaxantă.",
+            "en": "Park near the beach for a relaxed afternoon."
+          }
+        },
+        {
+          "name": "Küstenaussichtspunkt",
+          "coords": [
+            15.275,
+            44.075
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Ein letzter Stopp mit Panoramablick vor der Abfahrt.",
+            "hu": "Utolsó megálló panorámás kilátással távozás előtt.",
+            "ro": "O ultimă oprire cu vedere panoramică înainte de plecare.",
+            "en": "A last stop with panoramic views before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lässt sich Bibinje flexibel in Clustern erkunden. Beginnen Sie im historischen Zentrum (Cluster A), wo Sie die Kirchen zu Fuß besuchen. Danach fahren Sie zur Marina Dalmacija (Cluster B), um die beeindruckende Hafenanlage und die gastronomischen Angebote zu genießen. Den Nachmittag verbringen Sie am beliebten Strand Punta Rožica, bevor Sie mit dem Wagen einen höher gelegenen Aussichtspunkt für den perfekten Blick über die Adria ansteuern.",
+        "hu": "Autóval Bibinje klaszterekben, rugalmasan fedezhető fel. Kezdjen a történelmi központban (A klaszter), ahol gyalog látogatja meg a templomokat. Ezután hajtson a Marina Dalmacijához (B klaszter), hogy élvezze a lenyűgöző kikötőt és a gasztronómiai kínálatot. A délutánt a népszerű Punta Rožica strandon töltse, majd autóval keressen fel egy magasabb kilátópontot a tökéletes adriai panorámáért.",
+        "ro": "Cu mașina, Bibinje poate fi explorat flexibil în clustere. Începeți în centrul istoric (Cluster A), unde vizitați bisericile pe jos. Apoi conduceți spre Marina Dalmacija (Cluster B) pentru a vă bucura de portul impresionant și de ofertele gastronomice. Petreceți după-amiaza pe populara plajă Punta Rožica, înainte de a merge cu mașina la un punct de belvedere mai înalt pentru panorama perfectă asupra Adriaticii.",
+        "en": "By car, Bibinje can be explored flexibly in clusters. Start in the historic center (Cluster A), where you visit the churches on foot. Then drive to Marina Dalmacija (Cluster B) to enjoy the impressive marina and gastronomic offerings. Spend the afternoon at the popular Punta Rožica beach, before driving to a higher viewpoint for the perfect view over the Adriatic."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Jaz",
+            "tip": "Familiäre Atmosphäre und erstklassiger Grillfisch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Jaz",
+            "tip": "Családias hangulat és kiváló grillezett halak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Jaz",
+            "tip": "Atmosferă familială și pește la grătar de primă clasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Jaz",
+            "tip": "Family atmosphere and top-notch grilled fish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel oberhalb Bibinje",
+            "tip": "Ruhiger Ort mit Blick auf Zadar und die Inseln.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bibinje feletti domb",
+            "tip": "Csendes hely kilátással Zárára és a szigetekre.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul de deasupra Bibinje",
+            "tip": "Loc liniștit cu vedere spre Zadar și insule.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hill above Bibinje",
+            "tip": "Quiet spot with a view of Zadar and the islands.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Direktverkauf in kleinen Weinkellern im Dorf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Közvetlen vásárlás a falu kis borospincéiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Vânzare directă în cramele mici din sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wines",
+            "tip": "Direct sale in small wine cellars in the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt mehrere kostenlose Parkplätze im Ort, besonders in der Nebensaison.",
+          "Die Straßen im alten Kern sind sehr eng, parken Sie lieber etwas außerhalb.",
+          "Nutzen Sie die Küstenstraße Richtung Sukošan für eine schöne Panoramafahrt.",
+          "Achten Sie auf die Einbahnstraßenregelung im Zentrum."
+        ],
+        "hu": [
+          "Több ingyenes parkoló is van a településen, különösen előszezonban.",
+          "Az ófalu utcái nagyon szűkek, érdemesebb kicsit kijjebb parkolni.",
+          "Használja a Sukošan felé vezető tengerparti utat egy szép panorámaúthoz.",
+          "Ügyeljen az egyirányú utcákra a központban."
+        ],
+        "ro": [
+          "Există mai multe parcări gratuite în localitate, mai ales în extrasezon.",
+          "Străzile din centrul vechi sunt foarte înguste, mai bine parcați puțin în exterior.",
+          "Folosiți drumul de coastă spre Sukošan pentru o plimbare panoramică frumoasă.",
+          "Atenție la reglementările privind străzile cu sens unic din centru."
+        ],
+        "en": [
+          "There are several free parking lots in the village, especially in the low season.",
+          "The streets in the old core are very narrow, better to park slightly outside.",
+          "Use the coastal road towards Sukošan for a beautiful panoramic drive.",
+          "Pay attention to one-way street regulations in the center."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Staro selo",
+          "coords": [
+            15.286,
+            44.071
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt mit dem Lokalbus aus Zadar.",
+            "hu": "Központi érkezési pont a Zárából érkező helyi busszal.",
+            "ro": "Punct central de sosire cu autobuzul local din Zadar.",
+            "en": "Central arrival point with the local bus from Zadar."
+          }
+        },
+        {
+          "name": "Kirchen-Spaziergang",
+          "coords": [
+            15.284,
+            44.072
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie St. Rochus und St. Johannes zu Fuß (Cluster A).",
+            "hu": "Látogassa meg gyalog a Szent Rókus és Szent János templomokat (A klaszter).",
+            "ro": "Vizitați pe jos Sf. Rochus și Sf. Ioan (Cluster A).",
+            "en": "Visit St. Roch and St. John churches on foot (Cluster A)."
+          }
+        },
+        {
+          "name": "Marina Dalmacija",
+          "coords": [
+            15.302,
+            44.058
+          ],
+          "category": "port",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie den Bus oder ein Taxi zum südlichen Cluster B.",
+            "hu": "Menjen busszal vagy taxival a déli B klaszterhez.",
+            "ro": "Luați autobuzul sau un taxi spre clusterul sudic B.",
+            "en": "Take the bus or a taxi to the southern Cluster B."
+          }
+        },
+        {
+          "name": "Mittagessen am Meer",
+          "coords": [
+            15.283,
+            44.068
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Rückkehr ins Zentrum für ein Mittagessen in einer Konoba.",
+            "hu": "Visszatérés a központba egy ebédre egy konobában.",
+            "ro": "Revenire în centru pentru un prânz într-o konoba.",
+            "en": "Return to the center for lunch in a konoba."
+          }
+        },
+        {
+          "name": "Plaža Punta Rožica",
+          "coords": [
+            15.281,
+            44.068
+          ],
+          "category": "beach",
+          "arrive_at": "14:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannung am Hauptstrand, nur wenige Gehminuten vom Zentrum.",
+            "hu": "Pihenés a fő strandon, pár perc sétára a központtól.",
+            "ro": "Relaxare pe plaja principală, la câteva minute de mers de centru.",
+            "en": "Relaxation at the main beach, just a few minutes walk from the center."
+          }
+        },
+        {
+          "name": "Riva-Spaziergang",
+          "coords": [
+            15.285,
+            44.073
+          ],
+          "category": "harbor",
+          "arrive_at": "17:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Gemütlicher Ausklang an der Uferpromenade vor der Rückfahrt.",
+            "hu": "Kellemes levezetés a tengerparti sétányon a visszautazás előtt.",
+            "ro": "Final relaxat pe faleză înainte de plecare.",
+            "en": "Leisurely end at the waterfront before the return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Bibinje ist durch lokale Busverbindungen gut an Zadar angebunden. Der Tag beginnt im Staro selo, gefolgt von einem kurzen Spaziergang zu den Kirchen im Zentrum. Ein Transit-Hop bringt Sie zur beeindruckenden Marina Dalmacija im Süden. Nach der Besichtigung kehren Sie für ein gemütliches Mittagessen ins Dorfzentrum zurück und genießen den Nachmittag am Strand Punta Rožica, bevor Sie von der Riva aus den Bus zurück nehmen.",
+        "hu": "Bibinje helyi buszjáratokkal jól kapcsolódik Zárához. A nap a Staro selóban kezdődik, majd egy rövid séta következik a központ templomaihoz. Egy rövid buszozással vagy taxival eljuthat a déli Marina Dalmacijához. A látogatás után térjen vissza a faluközpontba egy kényelmes ebédre, és töltse a délutánt a Punta Rožica strandon, mielőtt a Riváról induló busszal hazautazna.",
+        "ro": "Bibinje este bine conectat de Zadar prin linii de autobuz locale. Ziua începe în Staro selo, urmată de o scurtă plimbare la bisericile din centru. Un transfer rapid vă duce la impresionanta Marina Dalmacija din sud. După vizitare, reveniți în centrul satului pentru un prânz relaxat și petreceți după-amiaza pe plaja Punta Rožica, înainte de a lua autobuzul înapoi de pe faleză.",
+        "en": "Bibinje is well connected to Zadar by local bus lines. The day starts in Staro selo, followed by a short walk to the churches in the center. A transit hop takes you to the impressive Marina Dalmacija in the south. After the visit, return to the village center for a leisurely lunch and spend the afternoon at Punta Rožica beach, before taking the bus back from the Riva."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Holen Sie sich frisches Burek für zwischendurch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a központban",
+            "tip": "Vásároljon friss bureket útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie în centru",
+            "tip": "Luați un burek proaspăt pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery in the center",
+            "tip": "Get fresh burek for on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park am Meer",
+            "tip": "Kleine Grünanlage im Zentrum für eine Pause.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tengerparti park",
+            "tip": "Kis zöld terület a központban egy pihenőhöz.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de pe malul mării",
+            "tip": "Micul spațiu verde din centru pentru o pauză.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Seaside park",
+            "tip": "Small green area in the center for a break.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Wird oft an kleinen Ständen im Ort angeboten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Gyakran árulják a település kis standjainál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Se vinde adesea la micile standuri din localitate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local honey",
+            "tip": "Often sold at small stands in the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Buslinie 201 verbindet Zadar regelmäßig mit Bibinje.",
+          "Die Bushaltestellen befinden sich an der Hauptstraße oberhalb des Dorfes.",
+          "Kaufen Sie Fahrkarten direkt beim Busfahrer (Barzahlung).",
+          "In der Hochsaison können Busse oft Verspätung haben."
+        ],
+        "hu": [
+          "A 201-es buszjárat rendszeresen összeköti Zárát Bibinjével.",
+          "A buszmegállók a falu feletti főúton találhatók.",
+          "A jegyeket közvetlenül a buszvezetőnél vásárolhatja meg (készpénz).",
+          "Főszezonban a buszok gyakran késhetnek."
+        ],
+        "ro": [
+          "Linia de autobuz 201 leagă regulat Zadar de Bibinje.",
+          "Stațiile de autobuz se află pe drumul principal de deasupra satului.",
+          "Cumpărați bilete direct de la șofer (plată în numerar).",
+          "În plin sezon, autobuzele pot avea adesea întârzieri."
+        ],
+        "en": [
+          "The bus line 201 regularly connects Zadar with Bibinje.",
+          "The bus stops are located on the main road above the village.",
+          "Buy tickets directly from the bus driver (cash payment).",
+          "In high season, buses can often be delayed."
+        ]
+      }
+    }
+  }
+}

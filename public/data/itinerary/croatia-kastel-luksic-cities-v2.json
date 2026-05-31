@@ -1,0 +1,996 @@
+{
+  "city_id": "croatia-kastel-luksic-cities-v2",
+  "anchor": {
+    "name": "Kaštel Lukšić",
+    "coords": [
+      16.368,
+      43.555
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "20:15",
+      "total_km": 3.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Uferpromenade Riva",
+          "coords": [
+            16.3695,
+            43.5545
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Morgenkaffee mit Blick auf die Fischerboote.",
+            "hu": "Élvezze a reggeli kávét a halászhajók látványával.",
+            "ro": "Savurați cafeaua de dimineață cu vedere la bărcile de pescuit.",
+            "en": "Enjoy morning coffee with a view of the fishing boats."
+          }
+        },
+        {
+          "name": "Crkva sv. Ivana Krstitelja",
+          "coords": [
+            16.3692,
+            43.5548
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocken Altäre in dieser historischen Kirche.",
+            "hu": "Csodálja meg a történelmi templom barokk oltárait.",
+            "ro": "Admirați altarele baroce din această biserică istorică.",
+            "en": "Admire the baroque altars in this historic church."
+          }
+        },
+        {
+          "name": "Dvorac Vitturi",
+          "coords": [
+            16.3687,
+            43.5551
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Hören Sie die tragische Liebesgeschichte von Miljenko und Dobrila.",
+            "hu": "Ismerje meg Miljenko és Dobrila tragikus szerelmi történetét.",
+            "ro": "Aflați povestea tragică de dragoste a lui Miljenko și Dobrila.",
+            "en": "Hear the tragic love story of Miljenko and Dobrila."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            16.3682,
+            43.5549
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch oder das lokale 'Soparnik'.",
+            "hu": "Kóstolja meg a friss halat vagy a helyi soparnikot.",
+            "ro": "Încercați peștele proaspăt sau preparatul local soparnik.",
+            "en": "Try fresh fish or the local 'soparnik'."
+          }
+        },
+        {
+          "name": "Perivoj uz dvorac Vitturi",
+          "coords": [
+            16.3678,
+            43.5552
+          ],
+          "category": "park",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein schattiger Ort für einen entspannten Spaziergang am Meer.",
+            "hu": "Árnyas hely egy pihentető tengerparti sétához.",
+            "ro": "Un loc umbros pentru o plimbare relaxantă la malul mării.",
+            "en": "A shaded spot for a relaxing seaside stroll."
+          }
+        },
+        {
+          "name": "Strandpause Šoulavy",
+          "coords": [
+            16.3735,
+            43.5542
+          ],
+          "category": "beach",
+          "arrive_at": "15:35",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser und ein flacher Kiesstrand.",
+            "hu": "Kristálytiszta víz és lassan mélyülő kavicsos part.",
+            "ro": "Apă de cristal și o plajă cu pietriș fin.",
+            "en": "Crystal clear water and a shallow pebble beach."
+          }
+        },
+        {
+          "name": "Botanički vrt OŠ Ostrog",
+          "coords": [
+            16.3665,
+            43.5582
+          ],
+          "category": "garden",
+          "arrive_at": "18:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen einzigartigen Schulgarten mit über 1400 Pflanzenarten.",
+            "hu": "Nézze meg az egyedülálló iskolakertet 1400 növényfajjal.",
+            "ro": "Vizitați această grădină școlară unică cu peste 1400 de specii.",
+            "en": "Visit this unique school garden with over 1400 plant species."
+          }
+        },
+        {
+          "name": "Sonnenuntergang am Kai",
+          "coords": [
+            16.368,
+            43.5542
+          ],
+          "category": "sunset",
+          "arrive_at": "19:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss mit Blick auf die Insel Čiovo.",
+            "hu": "Tökéletes zárás kilátással Čiovo szigetére.",
+            "ro": "Finalul perfect cu vedere spre insula Čiovo.",
+            "en": "The perfect end with a view towards Čiovo island."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der sonnigen Riva von Kaštel Lukšić. Nach einem Besuch der barocken Kirche erkunden Sie das prächtige Schloss Vitturi, das die berühmteste Liebesgeschichte Dalmatiens hütet. Genießen Sie mittags mediterrane Köstlichkeiten in einer traditionellen Konoba. Der Nachmittag gehört dem botanischen Erbe Dalmatiens im preisgekrönten Schulgarten von Ostrog und einer entspannten Pause am kristallblauen Meer.",
+        "hu": "Kezdje a napot Kaštel Lukšić napsütötte partján. A barokk templom megtekintése után fedezze fel a Vitturi-kastélyt, amely Dalmácia leghíresebb szerelmi történetét őrzi. Ebédre kóstoljon mediterrán finomságokat egy hagyományos konobában. A délután az Ostrog iskola díjnyertes botanikus kertjének és a kristálytiszta tengerparti pihenésnek szentelt helyi élményeket kínál.",
+        "ro": "Începeți ziua pe malul însorit al localității Kaštel Lukšić. După o vizită la biserica barocă, explorați Castelul Vitturi, care păstrează cea mai faimoasă poveste de dragoste din Dalmația. La prânz, savurați delicii mediteraneene într-o konoba tradițională. După-amiaza este dedicată moștenirii botanice în grădina școlii Ostrog și unei pauze relaxante lângă marea de azur.",
+        "en": "Start your day on the sunny Riva of Kaštel Lukšić. After visiting the baroque church, explore the magnificent Vitturi Castle, home to Dalmatia's most famous love story. Enjoy Mediterranean delicacies in a traditional konoba for lunch. The afternoon is dedicated to Dalmatian botanical heritage in the award-winning Ostrog garden and a relaxed break by the crystal-blue sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Intrada",
+            "tip": "Hervorragende Meeresfrüchte direkt an der Riva."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Intrada",
+            "tip": "Kiváló tengeri ételek közvetlenül a parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Intrada",
+            "tip": "Fructe de mare excelente chiar pe faleză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Intrada",
+            "tip": "Excellent seafood right on the waterfront."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Perivoj Vitturi",
+            "tip": "Ein ruhiger Park mit altem Baumbestand.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perivoj Vitturi",
+            "tip": "Csendes park öreg fákkal a kastély mellett.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Perivoj Vitturi",
+            "tip": "Un parc liniștit cu arbori seculari.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Perivoj Vitturi",
+            "tip": "A quiet park with ancient trees next to the castle.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Olivenölverkauf",
+            "tip": "Frisches Öl aus den Hainen der Kaštela."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Friss olaj a Kaštela környéki ligetekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Ulei proaspăt din livezile din Kaštela."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Fresh oil from the groves around Kaštela."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für die Kopfsteinpflastergassen.",
+          "Besuchen Sie das Schlossmuseum für lokale Geschichte.",
+          "Die Riva ist am schönsten bei Sonnenuntergang."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Látogassa meg a kastélymúzeumot a helyi történelemért.",
+          "A Riva naplementekor a leghangulatosabb."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile cu piatră cubică.",
+          "Vizitați muzeul castelului pentru istoria locală.",
+          "Faleza este cea mai frumoasă la apus."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Visit the castle museum for local history insights.",
+          "The Riva is most atmospheric during sunset."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Küstenradweg Kaštela",
+          "coords": [
+            16.375,
+            43.554
+          ],
+          "category": "harbor",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der sieben Kaštelas am Meer.",
+            "hu": "Kerekezzen végig a hét Kaštela mentén a tengerparton.",
+            "ro": "Pedalați de-a lungul celor șapte Kaštela pe malul mării.",
+            "en": "Cycle along the seven Kaštelas by the sea."
+          }
+        },
+        {
+          "name": "Dvorac Vitturi",
+          "coords": [
+            16.3687,
+            43.5551
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Rad am Haupteingang des Schlosses ab.",
+            "hu": "Parkolja le a kerékpárt a kastély főbejáratánál.",
+            "ro": "Parcați bicicleta la intrarea principală a castelului.",
+            "en": "Park your bike at the main castle entrance."
+          }
+        },
+        {
+          "name": "Crkva sv. Ivana Krstitelja",
+          "coords": [
+            16.3692,
+            43.5548
+          ],
+          "category": "religious",
+          "arrive_at": "11:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp an der historischen Barockfassade.",
+            "hu": "Rövid megálló a történelmi barokk homlokzatnál.",
+            "ro": "Scurtă oprire la fațada barocă istorică.",
+            "en": "Short stop at the historic baroque facade."
+          }
+        },
+        {
+          "name": "Mittagspause am Hafen",
+          "coords": [
+            16.368,
+            43.5545
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Leichte mediterrane Kost für aktive Radfahrer.",
+            "hu": "Könnyű mediterrán étel aktív kerékpárosoknak.",
+            "ro": "Mâncare mediteraneană ușoară pentru bicicliști activi.",
+            "en": "Light Mediterranean fare for active cyclists."
+          }
+        },
+        {
+          "name": "Botanički vrt OŠ Ostrog",
+          "coords": [
+            16.3665,
+            43.5582
+          ],
+          "category": "garden",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein schöner Anstieg ins Grüne von Kaštel Lukšić.",
+            "hu": "Szép emelkedő Kaštel Lukšić zöldövezetébe.",
+            "ro": "O urcare frumoasă spre zona verde din Kaštel Lukšić.",
+            "en": "A nice climb into the green area of Kaštel Lukšić."
+          }
+        },
+        {
+          "name": "Strand von Kaštel Lukšić",
+          "coords": [
+            16.3735,
+            43.5542
+          ],
+          "category": "beach",
+          "arrive_at": "15:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich nach der Fahrt im Meer ab.",
+            "hu": "Hűtse le magát a tengerben a tekerés után.",
+            "ro": "Răcoriți-vă în mare după plimbare.",
+            "en": "Cool down in the sea after your ride."
+          }
+        },
+        {
+          "name": "Perivoj uz dvorac Vitturi",
+          "coords": [
+            16.3678,
+            43.5552
+          ],
+          "category": "park",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannter Ausklang im Schatten der Bäume.",
+            "hu": "Pihentető befejezés a fák árnyékában.",
+            "ro": "Final relaxant la umbra copacilor.",
+            "en": "Relaxing finish in the shade of the trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die Küstenlandschaft der Kaštela auf zwei Rädern. Diese Tour verbindet die historischen Festungen am Meer mit den grünen Oasen im Hinterland. Von der Riva in Lukšić führt der Weg zum berühmten Botanischen Garten und zurück zu den Stränden, die perfekt für eine Erfrischung zwischendurch sind.",
+        "hu": "Fedezze fel a Kaštela partvidékét két keréken. Ez a túra összeköti a tengerparti történelmi erődöket a hátország zöld oázisaival. A lukšići Rivától az út a híres botanikus kertbe vezet, majd vissza a strandokhoz, amelyek tökéletesek egy frissítő csobbanáshoz.",
+        "ro": "Descoperiți coasta Kaštela pe două roți. Acest tur combină fortărețele istorice de la malul mării cu oazele verzi din hinterland. De la faleza din Lukšić, drumul duce la faimoasa grădină botanică și înapoi la plaje, perfecte pentru o răcorire rapidă.",
+        "en": "Discover the Kaštela coastline on two wheels. This tour connects the historic seaside fortresses with the green oases of the hinterland. From the Lukšić Riva, the path leads to the famous botanical garden and back to the beaches, perfect for a refreshing swim."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei an der Riva",
+            "tip": "Holen Sie sich ein Burek für den schnellen Hunger unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pékség a parton",
+            "tip": "Vegyen egy bureket a gyors éhségcsillapításhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria de pe faleză",
+            "tip": "Luați un burek pentru o masă rapidă pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakery on the Riva",
+            "tip": "Grab a burek for a quick snack on the go."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Olivenhaine im Norden",
+            "tip": "Ruhige Wege abseits des Verkehrs.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Északi olajfaligetek",
+            "tip": "Csendes utak a forgalomtól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Livezile de măslini din nord",
+            "tip": "Drumuri liniștite departe de trafic.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Northern Olive Groves",
+            "tip": "Quiet paths away from the traffic.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fischmarkt am Morgen",
+            "tip": "Frisch gefangener Fisch direkt vom Boot."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Reggeli halpiac",
+            "tip": "Frissen fogott hal közvetlenül a hajóról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața de pește de dimineață",
+            "tip": "Pește proaspăt prins direct de pe barcă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Morning Fish Market",
+            "tip": "Freshly caught fish directly from the boat."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Strandpromenaden, aber achten Sie auf Fußgänger.",
+          "Nehmen Sie genügend Wasser mit, da es wenig Schatten auf den Wegen gibt.",
+          "Sperren Sie Ihr Rad an den Sehenswürdigkeiten sicher ab."
+        ],
+        "hu": [
+          "Használja a tengerparti sétányokat, de figyeljen a gyalogosokra.",
+          "Vigyen elég vizet, mert az utakon kevés az árnyék.",
+          "Zárja le biztonságosan a biciklit a látnivalóknál."
+        ],
+        "ro": [
+          "Folosiți falezele, dar fiți atenți la pietoni.",
+          "Luați suficientă apă, deoarece este puțină umbră pe drum.",
+          "Încuiați bine bicicleta la obiectivele turistice."
+        ],
+        "en": [
+          "Use the seaside promenades but be mindful of pedestrians.",
+          "Take enough water as there is little shade on the paths.",
+          "Lock your bike securely at the sights."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Cluster A: Altstadt Lukšić",
+          "coords": [
+            16.3687,
+            43.5551
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral und erkunden Sie das Schloss Vitturi zu Fuß.",
+            "hu": "Parkoljon a központban, és gyalog fedezze fel a Vitturi-kastélyt.",
+            "ro": "Parcați central și explorați Castelul Vitturi la pas.",
+            "en": "Park centrally and explore Vitturi Castle on foot."
+          }
+        },
+        {
+          "name": "Perivoj uz dvorac Vitturi",
+          "coords": [
+            16.3678,
+            43.5552
+          ],
+          "category": "park",
+          "arrive_at": "11:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Schloss in den angrenzenden Park.",
+            "hu": "Rövid séta a kastélytól a szomszédos parkba.",
+            "ro": "O scurtă plimbare de la castel în parcul adiacent.",
+            "en": "A short walk from the castle to the adjacent park."
+          }
+        },
+        {
+          "name": "Crkva sv. Ivana Krstitelja",
+          "coords": [
+            16.3692,
+            43.5548
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Teil des historischen Stadtkerns, nur wenige Schritte entfernt.",
+            "hu": "A történelmi városközpont része, pár lépésre a kastélytól.",
+            "ro": "Parte a centrului istoric, la câțiva pași distanță.",
+            "en": "Part of the historic center, just steps away."
+          }
+        },
+        {
+          "name": "Mittagessen an der Riva",
+          "coords": [
+            16.368,
+            43.5545
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie dalmatinische Spezialitäten direkt am Meer.",
+            "hu": "Élvezze a dalmát specialitásokat közvetlenül a tengerparton.",
+            "ro": "Savurați specialități dalmate chiar la malul mării.",
+            "en": "Enjoy Dalmatian specialties right by the sea."
+          }
+        },
+        {
+          "name": "Cluster B: Botanischer Garten",
+          "coords": [
+            16.3665,
+            43.5582
+          ],
+          "category": "garden",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt ins nördliche Wohngebiet zum botanischen Juwel.",
+            "hu": "Rövid autózás az északi lakóövezetbe a botanikai ékszerdobozhoz.",
+            "ro": "Scurtă călătorie spre zona de nord la bijuteria botanică.",
+            "en": "Short drive north to this botanical gem."
+          }
+        },
+        {
+          "name": "Cluster C: Strand Šoulavy",
+          "coords": [
+            16.3735,
+            43.5542
+          ],
+          "category": "beach",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkplatz am Strand für einen entspannten Nachmittag.",
+            "hu": "Hajtson a strand melletti parkolóhoz a pihentető délutánért.",
+            "ro": "Conduceți până la parcarea de lângă plajă pentru o după-amiază relaxantă.",
+            "en": "Drive to the beach parking for a relaxed afternoon."
+          }
+        },
+        {
+          "name": "Aussichtspunkt auf die Bucht",
+          "coords": [
+            16.378,
+            43.565
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Panoramablick über die Kastela-Bucht vor der Abfahrt.",
+            "hu": "Panorámakilátás a Kaštela-öbölre távozás előtt.",
+            "ro": "Vedere panoramică asupra golfului Kaštela înainte de plecare.",
+            "en": "Panoramic view of the Kaštela Bay before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autotour durch Kaštel Lukšić ermöglicht es Ihnen, sowohl das historische Erbe als auch die versteckten botanischen Gärten bequem zu erkunden. Beginnen Sie im Zentrum mit dem Schloss Vitturi, tauchen Sie ein in die lokale Geschichte und fahren Sie dann zu den üppigen Gärten und Stränden, die den Charakter dieses dalmatinischen Ortes prägen.",
+        "hu": "A Kaštel Lukšić-i autós túra lehetővé teszi a történelmi örökség és a rejtett botanikus kertek kényelmes felfedezését. Kezdje a központban a Vitturi-kastéllyal, merüljön el a helyi történelemben, majd autózzon el a buja kertekhez és strandokhoz, amelyek meghatározzák e dalmát település karakterét.",
+        "ro": "Turul cu mașina prin Kaštel Lukšić vă permite să explorați confortabil atât moștenirea istorică, cât și grădinile botanice ascunse. Începeți în centru cu Castelul Vitturi, pătrundeți în istoria locală și apoi conduceți spre grădinile luxuriante și plajele care definesc caracterul acestei localități dalmate.",
+        "en": "A car tour of Kaštel Lukšić allows you to comfortably explore both the historic heritage and hidden botanical gardens. Start in the center with Vitturi Castle, immerse yourself in local history, then drive to the lush gardens and beaches that define the character of this Dalmatian town."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Hajduk",
+            "tip": "Gute Parkmöglichkeiten und traditionelle Fleischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Hajduk",
+            "tip": "Jó parkolási lehetőség és hagyományos húsételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Hajduk",
+            "tip": "Parcare facilă și preparate tradiționale din carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Hajduk",
+            "tip": "Good parking and traditional meat dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Botanički vrt OŠ Ostrog",
+            "tip": "Oase der Ruhe etwas abseits der Küstenstraße.",
+            "emoji": "🌿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Botanički vrt OŠ Ostrog",
+            "tip": "A nyugalom oázisa a part menti úttól kicsit távolabb.",
+            "emoji": "🌿"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Botanički vrt OŠ Ostrog",
+            "tip": "Oază de liniște puțin retrasă față de drumul de coastă.",
+            "emoji": "🌿"
+          }
+        ],
+        "en": [
+          {
+            "name": "Botanički vrt OŠ Ostrog",
+            "tip": "An oasis of peace slightly away from the coastal road.",
+            "emoji": "🌿"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt Ribola",
+            "tip": "Ideal für lokale Snacks und Getränke für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ribola szupermarket",
+            "tip": "Ideális helyi snackek és italok beszerzéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Ribola",
+            "tip": "Ideal pentru gustări locale și băuturi pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ribola Supermarket",
+            "tip": "Ideal for picking up local snacks and drinks for the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind im Sommer im Zentrum begrenzt; kommen Sie früh.",
+          "Die Hauptstraße 'Magistrala' verbindet alle Kaštelas schnell.",
+          "Achten Sie auf die Einbahnstraßen in der Nähe der Riva."
+        ],
+        "hu": [
+          "A parkolóhelyek nyáron korlátozottak a központban; érkezzen korán.",
+          "A 'Magistrala' főút gyorsan összeköti az összes Kaštelát.",
+          "Ügyeljen az egyirányú utcákra a Riva közelében."
+        ],
+        "ro": [
+          "Locurile de parcare sunt limitate vara în centru; veniți devreme.",
+          "Drumul principal 'Magistrala' conectează rapid toate localitățile Kaštela.",
+          "Atenție la străzile cu sens unic din apropierea falezei."
+        ],
+        "en": [
+          "Parking spaces are limited in the center during summer; arrive early.",
+          "The 'Magistrala' main road connects all Kaštelas quickly.",
+          "Watch out for one-way streets near the Riva."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bushaltestelle Kaštel Lukšić",
+          "coords": [
+            16.368,
+            43.559
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Linie 37 verbindet Split und Trogir im 20-Minuten-Takt.",
+            "hu": "A 37-es busz 20 percenként jár Split és Trogir között.",
+            "ro": "Linia 37 face legătura între Split și Trogir la fiecare 20 de minute.",
+            "en": "Line 37 connects Split and Trogir every 20 minutes."
+          }
+        },
+        {
+          "name": "Dvorac Vitturi",
+          "coords": [
+            16.3687,
+            43.5551
+          ],
+          "category": "historical",
+          "arrive_at": "09:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vom Busbahnhof sind es ca. 10 Minuten Fußweg zum Meer.",
+            "hu": "A buszmegállótól kb. 10 perc séta a tengerpart.",
+            "ro": "De la stația de autobuz sunt aproximativ 10 minute de mers pe jos până la mare.",
+            "en": "It's about a 10-minute walk from the bus stop to the sea."
+          }
+        },
+        {
+          "name": "Crkva sv. Ivana Krstitelja",
+          "coords": [
+            16.3692,
+            43.5548
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben dem Schloss, bequem zu Fuß erreichbar.",
+            "hu": "Közvetlenül a kastély mellett, gyalogosan könnyen elérhető.",
+            "ro": "Chiar lângă castel, ușor accesibil pe jos.",
+            "en": "Right next to the castle, easily accessible on foot."
+          }
+        },
+        {
+          "name": "Konoba Mittagessen",
+          "coords": [
+            16.368,
+            43.5545
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Viele Restaurants befinden sich im Umkreis von 200m.",
+            "hu": "Sok étterem található 200 méteres körzeten belül.",
+            "ro": "Multe restaurante se află pe o rază de 200 m.",
+            "en": "Many restaurants are located within a 200m radius."
+          }
+        },
+        {
+          "name": "Botanički vrt OŠ Ostrog",
+          "coords": [
+            16.3665,
+            43.5582
+          ],
+          "category": "garden",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der Garten liegt direkt neben der Schule an der Hauptstraße.",
+            "hu": "A kert közvetlenül az iskola mellett van a főút mentén.",
+            "ro": "Grădina este chiar lângă școală, pe drumul principal.",
+            "en": "The garden is right next to the school on the main road."
+          }
+        },
+        {
+          "name": "Strand von Lukšić",
+          "coords": [
+            16.3735,
+            43.5542
+          ],
+          "category": "beach",
+          "arrive_at": "15:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der Küste zum Abschluss.",
+            "hu": "Záró séta a tengerpart mentén.",
+            "ro": "Plimbare pe faleză pentru final.",
+            "en": "Closing walk along the coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Kaštel Lukšić ist hervorragend an das regionale Bussystem angebunden. Diese Route führt Sie von der Hauptstraße direkt in das Herz der Altstadt zum Schloss Vitturi und zu den ruhigen botanischen Gärten. Genießen Sie die Flexibilität des öffentlichen Verkehrs und entdecken Sie die Schätze des Ortes ohne Parkplatzsorgen.",
+        "hu": "Kaštel Lukšić kiválóan csatlakozik a regionális buszhálózathoz. Ez az útvonal a főúttól közvetlenül az óváros szívébe, a Vitturi-kastélyhoz és a csendes botanikus kertekhez vezet. Élvezze a tömegközlekedés rugalmasságát, és fedezze fel a település kincseit parkolási gondok nélkül.",
+        "ro": "Kaštel Lukšić este excelent conectat la sistemul regional de autobuze. Această rută vă duce de la drumul principal direct în inima centrului vechi, la Castelul Vitturi și la grădinile botanice liniștite. Bucurați-vă de flexibilitatea transportului public și descoperiți comorile localității fără grija parcării.",
+        "en": "Kaštel Lukšić is excellently connected to the regional bus system. This route takes you from the main road directly into the heart of the old town to Vitturi Castle and the quiet botanical gardens. Enjoy the flexibility of public transport and discover the town's treasures without parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fast Food Meritum",
+            "tip": "Günstige und schnelle Option in der Nähe der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fast Food Meritum",
+            "tip": "Olcsó és gyors lehetőség a buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fast Food Meritum",
+            "tip": "Opțiune ieftină și rapidă lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fast Food Meritum",
+            "tip": "Affordable and quick option near the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Perivoj uz dvorac",
+            "tip": "Ein schattiger Rückzugsort nur wenige Schritte von der Riva.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Várpark",
+            "tip": "Árnyas menedék pár lépésre a tengerparti korzótól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de lângă castel",
+            "tip": "Un refugiu umbros la doar câțiva pași de faleză.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Castle Park",
+            "tip": "A shaded retreat just steps away from the waterfront promenade.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk an der Haltestelle",
+            "tip": "Kaufen Sie hier Ihr Busticket (gelber Bus)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Újságos a megállónál",
+            "tip": "Itt veheti meg a buszjegyet (sárga busz)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul din stație",
+            "tip": "Cumpărați biletul de autobuz de aici (autobuzul galben)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk at the bus stop",
+            "tip": "Buy your bus ticket here (yellow bus line)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie die 'Promet Split' App für Echtzeit-Businfos herunter.",
+          "Winken Sie dem Busfahrer, damit er sicher anhält.",
+          "Die Haltestellen an der Magistrala sind oft nur kleine Markierungen."
+        ],
+        "hu": [
+          "Töltse le a 'Promet Split' alkalmazást a valós idejű buszinfókért.",
+          "Intsen a buszsofőrnek, hogy biztosan megálljon.",
+          "A Magistrala menti megállók gyakran csak kis jelzések."
+        ],
+        "ro": [
+          "Descărcați aplicația 'Promet Split' pentru info autobuz în timp real.",
+          "Faceți semn șoferului pentru a vă asigura că oprește.",
+          "Stațiile de pe Magistrala sunt adesea doar niște marcaje mici."
+        ],
+        "en": [
+          "Download the 'Promet Split' app for real-time bus info.",
+          "Wave to the bus driver to ensure they stop for you.",
+          "Stops along the Magistrala road are often just small markings."
+        ]
+      }
+    }
+  }
+}

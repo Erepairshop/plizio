@@ -1,0 +1,960 @@
+{
+  "city_id": "croatia-klana-cities-v2",
+  "anchor": {
+    "name": "Klana",
+    "coords": [
+      14.3667,
+      45.45
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Kaffee und lokales Frühstück",
+          "coords": [
+            14.3672,
+            45.4505
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie das lokale Gebäck in der kleinen Bäckerei.",
+            "hu": "Kóstolja meg a helyi péksüteményeket a kis pékségben.",
+            "ro": "Încercați produsele de patiserie locale de la mica brutărie.",
+            "en": "Try the local pastries at the small bakery."
+          }
+        },
+        {
+          "name": "Crkva sv. Jeronima",
+          "coords": [
+            14.368,
+            45.4512
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur der Pfarrkirche aus dem 18. Jahrhundert.",
+            "hu": "Csodálja meg a 18. századi plébániatemplom építészetét.",
+            "ro": "Admirați arhitectura bisericii parohiale din secolul al XVIII-lea.",
+            "en": "Admire the 18th-century parish church architecture."
+          }
+        },
+        {
+          "name": "Gradina Klana",
+          "coords": [
+            14.3645,
+            45.4535
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kurzer Aufstieg zu den mittelalterlichen Ruinen mit Blick auf das Tal.",
+            "hu": "Rövid kaptató a középkori romokhoz, kilátással a völgyre.",
+            "ro": "Urcare scurtă spre ruinele medievale cu vedere spre vale.",
+            "en": "Short climb to the medieval ruins with valley views."
+          }
+        },
+        {
+          "name": "Mittagessen in einer lokalen Konoba",
+          "coords": [
+            14.3665,
+            45.4515
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestellen Sie Jota, einen traditionellen Eintopf der Region.",
+            "hu": "Rendeljen jotát, a környék hagyományos egytálételét.",
+            "ro": "Comandați jota, o tocană tradițională din regiune.",
+            "en": "Order jota, a traditional stew of the region."
+          }
+        },
+        {
+          "name": "Poučna staza 'Putevima rimskih legionara'",
+          "coords": [
+            14.375,
+            45.458
+          ],
+          "category": "park",
+          "arrive_at": "14:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Folgen Sie den Informationstafeln zur römischen Militärgeschichte.",
+            "hu": "Kövesse a római katonai múltról szóló információs táblákat.",
+            "ro": "Urmați panourile informative despre istoria militară romană.",
+            "en": "Follow the information boards about Roman military history."
+          }
+        },
+        {
+          "name": "Liburnijski limes",
+          "coords": [
+            14.382,
+            45.462
+          ],
+          "category": "historical",
+          "arrive_at": "16:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Sehen Sie die Überreste der antiken Verteidigungsmauer.",
+            "hu": "Nézze meg az antik védőfal maradványait.",
+            "ro": "Vedeți resturile vechiului zid de apărare.",
+            "en": "See the remains of the ancient defensive wall."
+          }
+        },
+        {
+          "name": "Ruhepause im Wald",
+          "coords": [
+            14.372,
+            45.455
+          ],
+          "category": "viewpoint",
+          "arrive_at": "18:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Waldluft vor der Abreise.",
+            "hu": "Élvezze a friss erdei levegőt távozás előtt.",
+            "ro": "Bucurați-vă de aerul curat de pădure înainte de plecare.",
+            "en": "Enjoy the fresh forest air before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Zentrum von Klana mit einem starken Kaffee, bevor Sie die Barockkirche des hl. Hieronymus besichtigen. Ein kurzer Spaziergang führt Sie hinauf zur Gradina, wo die Ruinen einer mittelalterlichen Festung über den Ort wachen. Nach einem herzhaften Mittagessen tauchen Sie in die antike Geschichte ein und folgen dem Lehrpfad der römischen Legionäre bis zu den beeindruckenden Resten des Liburnischen Limes tief im Wald.",
+        "hu": "Kezdje a napot Klana központjában egy erős kávéval, majd látogasson el a barokk Szent Jeromos templomba. Egy rövid séta felvezet a Gradina romjaihoz, ahol a középkori várfalak vigyázzák a települést. A kiadós ebéd után merüljön el az ókori történelemben: járja végig a római legionáriusok tanösvényét egészen a Liburniai limes lenyűgöző erdei falmaradványaiig.",
+        "ro": "Începeți ziua în centrul localității Klana cu o cafea tare, apoi vizitați biserica barocă Sf. Ieronim. O scurtă plimbare vă duce sus la Gradina, unde ruinele cetății medievale veghează asupra satului. După un prânz copios, scufundați-vă în istoria antică: parcurgeți traseul educațional al legionarilor romani până la impresionantele resturi ale Limesului Liburnic ascunse în pădure.",
+        "en": "Start your day in the center of Klana with a strong coffee before visiting the Baroque Church of St. Jerome. A short walk leads up to Gradina, where the ruins of a medieval fortress overlook the village. After a hearty lunch, dive into ancient history by following the Roman Legionnaires' educational trail all the way to the impressive forest remains of the Liburnian Limes."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gorski Kotar Wildgerichte",
+            "tip": "Wildschwein-Gulasch mit hausgemachten Gnocchi."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vadhús ételek",
+            "tip": "Vaddisznópörkölt házi gnocchival."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Preparate din vânat",
+            "tip": "Gulaș de mistreț cu gnocchi de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Game meat dishes",
+            "tip": "Wild boar goulash with homemade gnocchi."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Waldlichtung am Limes",
+            "tip": "Stille und historische Atmosphäre im Grünen.",
+            "emoji": "🌲"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erdei tisztás a Limesnél",
+            "tip": "Csend és történelmi hangulat a zöldben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poiana de lângă Limes",
+            "tip": "Liniște și atmosferă istorică în natură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest clearing near the Limes",
+            "tip": "Quiet and historical atmosphere in the greenery.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Waldhonig",
+            "tip": "Direkt von Imkern aus den umliegenden Wäldern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi erdei méz",
+            "tip": "Közvetlenül a környékbeli erdők méhészeitől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de pădure locală",
+            "tip": "Direct de la apicultorii din pădurile învecinate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local forest honey",
+            "tip": "Straight from beekeepers in the surrounding forests."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie feste Wanderschuhe für den Lehrpfad.",
+          "Das Wetter im Hinterland kann kühler sein als an der Küste.",
+          "Besuchen Sie Klana im Herbst wegen der wunderschönen Laubfärbung."
+        ],
+        "hu": [
+          "Viseljen kényelmes túrabakancsot a tanösvényhez.",
+          "A szárazföldi időjárás hűvösebb lehet, mint a tengerparton.",
+          "Ősszel látogasson el Klánába a csodálatos lombszíneződés miatt."
+        ],
+        "ro": [
+          "Purtați bocanci de drumeție pentru traseul educațional.",
+          "Vremea în interiorul țării poate fi mai răcoroasă decât pe coastă.",
+          "Vizitați Klana toamna pentru culorile superbe ale pădurii."
+        ],
+        "en": [
+          "Wear sturdy hiking boots for the educational trail.",
+          "The inland weather can be cooler than on the coast.",
+          "Visit Klana in autumn for the beautiful foliage colors."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Morgencafé in Klana",
+          "coords": [
+            14.3672,
+            45.4505
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bereiten Sie sich auf eine hügelige Fahrt vor.",
+            "hu": "Készüljön fel a dombos terepre.",
+            "ro": "Pregătiți-vă pentru un traseu deluros.",
+            "en": "Prepare for a hilly ride."
+          }
+        },
+        {
+          "name": "Crkva sv. Jeronima",
+          "coords": [
+            14.368,
+            45.4512
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt vor dem Aufstieg.",
+            "hu": "Központi találkozópont az emelkedő előtt.",
+            "ro": "Punct central de întâlnire înainte de urcare.",
+            "en": "Central meeting point before the climb."
+          }
+        },
+        {
+          "name": "Gradina Klana",
+          "coords": [
+            14.3645,
+            45.4535
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Parken Sie die Räder unten am Wegrand.",
+            "hu": "Parkolja le a bicikliket az út szélén.",
+            "ro": "Parcați bicicletele la marginea drumului.",
+            "en": "Park the bikes at the edge of the path."
+          }
+        },
+        {
+          "name": "Liburnijski limes (Erkundungsfahrt)",
+          "coords": [
+            14.39,
+            45.47
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Mountainbike erforderlich für die Waldwege.",
+            "hu": "Hegyi kerékpár szükséges az erdei utakhoz.",
+            "ro": "Este necesar mountain bike pentru drumurile de pădure.",
+            "en": "Mountain bike required for the forest paths."
+          }
+        },
+        {
+          "name": "Wild-Mittagessen",
+          "coords": [
+            14.3665,
+            45.4515
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Kalorienreiche Mahlzeit für den Rückweg.",
+            "hu": "Kalóriadús étkezés a visszaúthoz.",
+            "ro": "Masă bogată în calorii pentru drumul de întoarcere.",
+            "en": "Calorie-rich meal for the return journey."
+          }
+        },
+        {
+          "name": "Römer-Lehrpfad (Teilstrecke)",
+          "coords": [
+            14.375,
+            45.458
+          ],
+          "category": "park",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schattige Wege ideal für den Nachmittag.",
+            "hu": "Árnyas utak, ideálisak délutánra.",
+            "ro": "Drumuri umbrite, ideale pentru după-amiază.",
+            "en": "Shady paths, ideal for the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das hügelige Hinterland von Klana mit dem Mountainbike. Nach einer kurzen Besichtigung der Dorfkirche und der Gradina-Ruinen führt Sie eine anspruchsvolle Waldtour entlang der alten römischen Verteidigungslinien des Liburnischen Limes. Die schattigen Pfade bieten auch im Sommer angenehme Temperaturen und führen Sie schließlich zurück zu einer wohlverdienten Mahlzeit mit lokalen Spezialitäten im Dorfzentrum.",
+        "hu": "Fedezze fel Klána dombos hátországát hegyi kerékpárral. A falu templomának és a Gradina romjainak rövid megtekintése után egy kalandos erdei túra vár Önre a Liburniai limes ókori védvonalai mentén. Az árnyas ösvények nyáron is kellemes hőmérsékletet biztosítanak, és végül visszavezetnek a falu központjába egy jól megérdemelt, helyi különlegességekből álló ebédre.",
+        "ro": "Explorați hinterlandul deluros al localității Klana cu mountain bike-ul. După o scurtă vizită la biserica din sat și ruinele Gradina, vă așteaptă o tură forestieră aventuroasă de-a lungul vechilor linii de apărare ale Limesului Liburnic. Potecile umbrite oferă temperaturi plăcute chiar și vara, ducându-vă înapoi în centrul satului pentru o masă binemeritată cu specialități locale.",
+        "en": "Explore the hilly hinterland of Klana by mountain bike. After a brief visit to the village church and the Gradina ruins, an adventurous forest tour awaits you along the ancient defensive lines of the Liburnian Limes. The shady paths provide pleasant temperatures even in summer and finally lead you back to the village center for a well-deserved meal of local specialties."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Strudel",
+            "tip": "Mit Waldfrüchten aus der Region gefüllt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi rétes",
+            "tip": "Helyi erdei gyümölcsökkel töltve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ștrudel de casă",
+            "tip": "Umplut cu fructe de pădure locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade strudel",
+            "tip": "Filled with local forest fruits."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Alte Grenzsteine",
+            "tip": "Versteckte historische Marker im Wald.",
+            "emoji": "🗿"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Régi határkövek",
+            "tip": "Rejtett történelmi jelzők az erdőben.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vechile pietre de hotar",
+            "tip": "Marcaje istorice ascunse în pădure.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Old boundary stones",
+            "tip": "Hidden historical markers in the forest.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Holzartikel",
+            "tip": "Souvenirs aus heimischem Buchenholz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves fatermékek",
+            "tip": "Helyi bükkfából készült emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Articole din lemn lucrate manual",
+            "tip": "Suveniruri din lemn de fag local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade wooden items",
+            "tip": "Souvenirs made from local beech wood."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor den Abfahrten.",
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Brunnen im Wald.",
+          "Ein GPS-Gerät ist für die tieferen Waldwege nützlich."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a lejtők előtt.",
+          "Vigyen elég vizet, kevés a forrás az erdőben.",
+          "A GPS hasznos lehet a mélyebb erdei utakon."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborâri.",
+          "Luați destulă apă, sunt puține fântâni în pădure.",
+          "Un dispozitiv GPS este util pentru drumurile forestiere izolate."
+        ],
+        "en": [
+          "Check your brakes before the descents.",
+          "Take enough water, there are few fountains in the forest.",
+          "A GPS device is useful for the deeper forest paths."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Ankunft und Espresso",
+          "coords": [
+            14.3672,
+            45.4505
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kostenloses Parken im Ortskern möglich.",
+            "hu": "Ingyenes parkolás a falu központjában.",
+            "ro": "Parcare gratuită disponibilă în centrul satului.",
+            "en": "Free parking available in the village center."
+          }
+        },
+        {
+          "name": "Crkva sv. Jeronima",
+          "coords": [
+            14.368,
+            45.4512
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking lot."
+          }
+        },
+        {
+          "name": "Gradina Klana",
+          "coords": [
+            14.3645,
+            45.4535
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Region.",
+            "hu": "Élvezze a panorámát a környékre.",
+            "ro": "Bucurați-vă de panorama asupra regiunii.",
+            "en": "Enjoy the panoramic view of the region."
+          }
+        },
+        {
+          "name": "Fahrt zum Limes-Einstieg",
+          "coords": [
+            14.385,
+            45.465
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt auf befestigten Waldwegen.",
+            "hu": "Rövid autózás kiépített erdei utakon.",
+            "ro": "Scurtă călătorie pe drumuri forestiere amenajate.",
+            "en": "Short drive on paved forest roads."
+          }
+        },
+        {
+          "name": "Liburnijski limes & Römischer Weg",
+          "coords": [
+            14.382,
+            45.462
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie ein Stück auf der historischen Trasse.",
+            "hu": "Sétáljon egy szakaszt a történelmi nyomvonalon.",
+            "ro": "Mergeți pe o porțiune din traseul istoric.",
+            "en": "Walk a section of the historical route."
+          }
+        },
+        {
+          "name": "Spätes Mittagessen (Wildspezialitäten)",
+          "coords": [
+            14.3665,
+            45.4515
+          ],
+          "category": "gastro",
+          "arrive_at": "14:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fragen Sie nach dem Tagesgericht.",
+            "hu": "Kérdezze a napi ajánlatot.",
+            "ro": "Întrebați de meniul zilei.",
+            "en": "Ask for the daily special."
+          }
+        },
+        {
+          "name": "Poučna staza 'Putevima rimskih legionara'",
+          "coords": [
+            14.375,
+            45.458
+          ],
+          "category": "park",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein entspannter Ausklang des Tages in der Natur.",
+            "hu": "A nap pihentető lezárása a természetben.",
+            "ro": "O încheiere relaxantă a zilei în natură.",
+            "en": "A relaxing end to the day in nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen historischen Schauplätze von Klana. Nachdem Sie die Kirche und die Ruinen im Dorf besichtigt haben, bringt Sie eine kurze Fahrt tiefer in den Wald zu den versteckten Abschnitten des Liburnischen Limes. So kombinieren Sie mühelos kulturelle Besichtigungen im Zentrum mit Naturerlebnissen an den antiken Verteidigungswällen, bevor Sie den Tag bei einem traditionellen Abendessen ausklingen lassen.",
+        "hu": "Autóval kényelmesen elérheti Klána különböző történelmi helyszíneit. Miután megtekintette a falu templomát és romjait, egy rövid autózás beljebb viszi az erdőbe, a Liburniai limes rejtettebb szakaszaihoz. Így könnyedén kombinálhatja a központi kulturális látnivalókat a természetjárással az ókori védműveknél, mielőtt a napot egy hagyományos vacsorával zárná.",
+        "ro": "Cu mașina puteți ajunge confortabil la diferitele situri istorice din Klana. După ce vizitați biserica și ruinele din sat, o scurtă călătorie vă duce mai adânc în pădure, la secțiunile ascunse ale Limesului Liburnic. Astfel, combinați fără efort vizitarea obiectivelor culturale din centru cu natura de la vechile ziduri de apărare, înainte de a încheia ziua cu o cină tradițională.",
+        "en": "By car, you can comfortably reach the various historical sites of Klana. After visiting the church and the ruins in the village, a short drive takes you deeper into the forest to the hidden sections of the Liburnian Limes. This allows you to effortlessly combine central cultural sightseeing with nature walks at the ancient defensive walls before ending the day with a traditional dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokal produziertes Olivenöl",
+            "tip": "Suchen Sie nach Schildern an Privathäusern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Keresse a táblákat a magánházaknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Căutați semnele la casele private."
+          }
+        ],
+        "en": [
+          {
+            "name": "Locally produced olive oil",
+            "tip": "Look for signs at private houses."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Gradina",
+            "tip": "Besonders schön in der goldenen Stunde.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gradina kilátópont",
+            "tip": "Különösen szép az 'aranyórában'.",
+            "emoji": "🌄"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Gradina",
+            "tip": "Deosebit de frumos la ora de aur.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gradina viewpoint",
+            "tip": "Especially beautiful during the golden hour.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kräutertees aus dem Wald",
+            "tip": "Hausgemachte Mischungen lokaler Sammler."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Erdei gyógyteák",
+            "tip": "Helyi gyűjtők házi keverékei."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceaiuri de plante din pădure",
+            "tip": "Amestecuri de casă de la culegătorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Forest herbal teas",
+            "tip": "Homemade blends from local collectors."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen im Wald können schmal sein.",
+          "Tanken Sie in Rijeka, bevor Sie ins Hinterland fahren.",
+          "Parken ist im Ort unkompliziert."
+        ],
+        "hu": [
+          "Az erdei utak keskenyek lehetnek.",
+          "Tankoljon Fiumében (Rijeka), mielőtt a hátországba indul.",
+          "A parkolás egyszerű a településen."
+        ],
+        "ro": [
+          "Drumurile forestiere pot fi înguste.",
+          "Alimentați în Rijeka înainte de a pleca spre hinterland.",
+          "Parcarea este simplă în localitate."
+        ],
+        "en": [
+          "Forest roads can be narrow.",
+          "Refuel in Rijeka before heading into the hinterland.",
+          "Parking in the village is straightforward."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bushaltestelle Klana (Ankunft)",
+          "coords": [
+            14.3685,
+            45.4502
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Rückfahrplan sofort bei Ankunft.",
+            "hu": "Érkezéskor azonnal ellenőrizze a visszautat.",
+            "ro": "Verificați orarul de întoarcere imediat la sosire.",
+            "en": "Check the return schedule immediately upon arrival."
+          }
+        },
+        {
+          "name": "Crkva sv. Jeronima",
+          "coords": [
+            14.368,
+            45.4512
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Direkt neben der Haltestelle gelegen.",
+            "hu": "Közvetlenül a megálló mellett található.",
+            "ro": "Situată chiar lângă stație.",
+            "en": "Located right next to the stop."
+          }
+        },
+        {
+          "name": "Gradina Klana",
+          "coords": [
+            14.3645,
+            45.4535
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beschilderte Wanderwege ab dem Zentrum.",
+            "hu": "Kitáblázott gyalogutak a központból.",
+            "ro": "Trasee marcate din centru.",
+            "en": "Signed walking paths from the center."
+          }
+        },
+        {
+          "name": "Mittagessen im Dorfzentrum",
+          "coords": [
+            14.3665,
+            45.4515
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie hausgemachtes Brot.",
+            "hu": "Kóstolja meg a házi kenyeret.",
+            "ro": "Gustați pâinea de casă.",
+            "en": "Try the homemade bread."
+          }
+        },
+        {
+          "name": "Poučna staza 'Putevima rimskih legionara'",
+          "coords": [
+            14.375,
+            45.458
+          ],
+          "category": "park",
+          "arrive_at": "13:55",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Gut begehbarer Pfad, auch für Familien.",
+            "hu": "Jól járható ösvény családoknak is.",
+            "ro": "Traseu ușor de parcurs, și pentru familii.",
+            "en": "Easy walking path, also for families."
+          }
+        },
+        {
+          "name": "Liburnijski limes (Näherer Teil)",
+          "coords": [
+            14.38,
+            45.46
+          ],
+          "category": "historical",
+          "arrive_at": "16:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie Fotos von den massiven Steinquadern.",
+            "hu": "Készítsen fotókat a hatalmas kőtömbökről.",
+            "ro": "Faceți poze cu blocurile masive de piatră.",
+            "en": "Take photos of the massive stone blocks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erreichen Sie Klana mit dem lokalen Bus aus Rijeka und entdecken Sie den Charme dieses Bergdorfes zu Fuß. Vom Dorfplatz aus sind alle wichtigen Sehenswürdigkeiten gut erreichbar. Besichtigen Sie die Kirche und die Gradina-Ruinen, bevor Sie sich im lokalen Gasthaus stärken. Am Nachmittag führt Sie der Weg der römischen Legionäre in die umliegende Natur, wo Sie die antiken Limes-Mauern bewundern können, bevor Sie pünktlich zur Rückfahrt zur Bushaltestelle zurückkehren.",
+        "hu": "Érkezzen Klánába a Rijékából (Fiume) induló helyi autóbusszal, és fedezze fel gyalogosan a hegyi falu báját. A faluközpontból minden fontos látnivaló jól megközelíthető. Tekintse meg a templomot és a Gradina romjait, mielőtt a helyi fogadóban ebédelne. Délután a római legionáriusok útja a környező természetbe csalogatja, ahol megcsodálhatja az antik Limes falait, mielőtt visszatérne a buszmegállóba az induláshoz.",
+        "ro": "Ajungeți în Klana cu autobuzul local din Rijeka și descoperiți farmecul acestui sat de munte pe jos. Din centrul satului, toate obiectivele importante sunt ușor accesibile. Vizitați biserica și ruinele Gradina înainte de a lua masa la hanul local. După-amiaza, drumul legionarilor romani vă poartă în natura înconjurătoare, unde puteți admira zidurile antice ale Limesului, înainte de a reveni la stația de autobuz pentru plecare.",
+        "en": "Reach Klana by local bus from Rijeka and discover the charm of this mountain village on foot. From the village center, all major sights are easily accessible. Visit the church and the Gradina ruins before having lunch at the local inn. In the afternoon, the Roman Legionnaires' path leads you into the surrounding nature, where you can admire the ancient Limes walls before returning to the bus stop for departure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Klanjska Jota",
+            "tip": "Deftiger Eintopf, perfekt nach einer Wanderung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Klánai jota",
+            "tip": "Kiadós egytálétel, tökéletes túrázás után."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Jota de Klana",
+            "tip": "Tocană consistentă, perfectă după o drumeție."
+          }
+        ],
+        "en": [
+          {
+            "name": "Klana Jota",
+            "tip": "Hearty stew, perfect after a hike."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchplatz-Bänke",
+            "tip": "Beobachten Sie das ruhige Dorfleben.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templomtéri padok",
+            "tip": "Figyelje meg a nyugodt falusi életet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băncile din piața bisericii",
+            "tip": "Observați viața liniștită a satului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church square benches",
+            "tip": "Observe the quiet village life.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Käse",
+            "tip": "Von lokalen Kleinbauern in der Nähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi sajt",
+            "tip": "Helyi kistermelőktől a környéken."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de casă",
+            "tip": "De la micii producători locali din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade cheese",
+            "tip": "From local small farmers nearby."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Buslinie 20 verbindet Rijeka mit Klana.",
+          "Kaufen Sie Fahrkarten im Voraus oder beim Busfahrer.",
+          "Am Wochenende fahren weniger Busse."
+        ],
+        "hu": [
+          "A 20-as buszjárat köti össze Fiumét Klánával.",
+          "Vegye meg a jegyet előre vagy a sofőrnél.",
+          "Hétvégén ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Linia de autobuz 20 face legătura între Rijeka și Klana.",
+          "Cumpărați biletele în avans sau de la șofer.",
+          "În weekend autobuzele circulă mai rar."
+        ],
+        "en": [
+          "Bus line 20 connects Rijeka to Klana.",
+          "Buy tickets in advance or from the driver.",
+          "Buses run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}

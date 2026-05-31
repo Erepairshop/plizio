@@ -1,0 +1,980 @@
+{
+  "city_id": "croatia-marcana-cities-v2",
+  "anchor": {
+    "name": "Marčana",
+    "coords": [
+      44.9567,
+      13.955
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4.0,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 11.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Morgenkaffee im Zentrum / Reggeli kávé a központban",
+          "coords": [
+            44.9565,
+            13.9555
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Gebäck.",
+            "hu": "Kóstolja meg a helyi péksüteményeket.",
+            "ro": "Încercați o patiserie locală.",
+            "en": "Try a local pastry."
+          }
+        },
+        {
+          "name": "Crkva sv. Antuna Padovanskog",
+          "coords": [
+            44.957,
+            13.956
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte istrianische Architektur.",
+            "hu": "Csodálja meg az egyszerű isztriai építészetet.",
+            "ro": "Admirați arhitectura simplă istriană.",
+            "en": "Admire the simple Istrian architecture."
+          }
+        },
+        {
+          "name": "Mutvoran",
+          "coords": [
+            44.965,
+            13.985
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Eine mittelalterliche Festungsstadt mit toller Aussicht.",
+            "hu": "Középkori erődített falu pazar kilátással.",
+            "ro": "Un oraș fortificat medieval cu vedere panoramică.",
+            "en": "A medieval fortified town with great views."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba / Ebéd egy konobában",
+          "coords": [
+            44.9645,
+            13.984
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestellen Sie Fuži mit Trüffeln.",
+            "hu": "Rendeljen szarvasgombás fuzit.",
+            "ro": "Comandați fuzi cu trufe.",
+            "en": "Order fuzi with truffles."
+          }
+        },
+        {
+          "name": "Kava Marčana",
+          "coords": [
+            44.935,
+            13.97
+          ],
+          "category": "landmark",
+          "arrive_at": "16:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Der Steinbruch bietet eine surreale Landschaft.",
+            "hu": "A kőbánya szürreális tájat kínál.",
+            "ro": "Cariera de piatră oferă un peisaj ireal.",
+            "en": "The stone quarry offers a surreal landscape."
+          }
+        },
+        {
+          "name": "Crkva Marije Magdalene",
+          "coords": [
+            44.95,
+            13.95
+          ],
+          "category": "religious",
+          "arrive_at": "17:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für Besinnung am späten Nachmittag.",
+            "hu": "Csendes hely az elmélyüléshez késő délután.",
+            "ro": "Un loc liniștit pentru reflecție după-amiaza.",
+            "en": "A quiet spot for reflection in the late afternoon."
+          }
+        },
+        {
+          "name": "Abendlicher Spaziergang / Esti séta",
+          "coords": [
+            44.955,
+            13.955
+          ],
+          "category": "park",
+          "arrive_at": "18:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanfte Brise des Hinterlandes.",
+            "hu": "Élvezze a hátország lágy szellőjét.",
+            "ro": "Bucurați-vă de briza ușoară a interiorului.",
+            "en": "Enjoy the gentle breeze of the hinterland."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Marčana mit einem Kaffee unter Einheimischen, bevor Sie die charmante St.-Antonius-Kirche besuchen. Ein längerer Spaziergang führt Sie zur historischen Siedlung Mutvoran, einem wahren Geheimtipp auf einem Hügel. Nach einem herzhaften Mittagessen erkunden Sie den beeindruckenden Steinbruch Kava Marčana. Den Tag lassen Sie bei der idyllischen Kirche der Maria Magdalena ausklingen, während die Sonne hinter den istrianischen Hügeln versinkt.",
+        "hu": "Kezdje a napot Marčanában egy kávéval a helyiek körében, majd látogasson el a Szent Antal templomhoz. Egy hosszabb séta a dombtetőn fekvő, történelmi Mutvoranba vezet, amely igazi rejtett kincs. Egy bőséges ebéd után fedezze fel a Kava Marčana kőbánya lenyűgöző ipari táját. A napot a Mária Magdolna templomnál zárja, miközben a nap lassan eltűnik az isztriai dombok mögött.",
+        "ro": "Începeți ziua în Marčana cu o cafea printre localnici, înainte de a vizita biserica Sfântul Anton. O plimbare mai lungă vă va duce la așezarea istorică Mutvoran, o adevărată bijuterie ascunsă pe un deal. După un prânz copios, explorați peisajul impresionant al carierei Kava Marčana. Încheiați ziua la idilica biserică Maria Magdalena, în timp ce soarele apune peste dealurile istriene.",
+        "en": "Start your day in Marčana with a coffee among locals before visiting the charming St. Anthony's Church. A longer walk leads you to the historic settlement of Mutvoran, a true hidden gem on a hill. After a hearty lunch, explore the impressive landscape of the Kava Marčana quarry. End your day at the idyllic St. Mary Magdalene Church as the sun sets behind the Istrian hills."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Istrianischer Schinken",
+            "tip": "Hausgemachter Pršut in einer lokalen Konoba."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isztriai sonka",
+            "tip": "Házias pršut egy helyi konobában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șuncă de Istria",
+            "tip": "Pršut de casă la o konoba locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Istrian Ham",
+            "tip": "Homemade pršut in a local konoba."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mutvoran Mauern",
+            "tip": "Stille und Weitblick über das grüne Istrien.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mutvoran falai",
+            "tip": "Csend és kilátás a zöld Isztriára.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zidurile din Mutvoran",
+            "tip": "Liniște și vedere panoramică peste Istria verde.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mutvoran Walls",
+            "tip": "Silence and views over green Istria.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Direkt vom Erzeuger in Marčana kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon közvetlenül a termelőtől Marčanában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați direct de la producător în Marčana."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy directly from the producer in Marčana."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie feste Wanderschuhe für den Weg zum Steinbruch.",
+          "Nehmen Sie ausreichend Wasser für die Wanderung nach Mutvoran mit."
+        ],
+        "hu": [
+          "Viseljen stabil túracipőt a kőbányához vezető úton.",
+          "Vigyen magával elegendő vizet a Mutvoranba tartó sétához."
+        ],
+        "ro": [
+          "Purtați încălțăminte stabilă pentru drumul spre carieră.",
+          "Luați suficientă apă pentru drumeția spre Mutvoran."
+        ],
+        "en": [
+          "Wear sturdy walking shoes for the path to the quarry.",
+          "Take enough water for the hike to Mutvoran."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Café Start / Kávés kezdés",
+          "coords": [
+            44.9565,
+            13.9555
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein Espresso für den Energiekick.",
+            "hu": "Egy eszpresszó a napindításhoz.",
+            "ro": "Un espresso pentru energie.",
+            "en": "An espresso for an energy boost."
+          }
+        },
+        {
+          "name": "Crkva sv. Antuna Padovanskog",
+          "coords": [
+            44.957,
+            13.956
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Stopp im Ortskern.",
+            "hu": "Rövid megálló a falu központjában.",
+            "ro": "Scurtă oprire în centrul satului.",
+            "en": "Short stop in the village center."
+          }
+        },
+        {
+          "name": "Mutvoran",
+          "coords": [
+            44.965,
+            13.985
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Der Anstieg lohnt sich für das Panorama.",
+            "hu": "Az emelkedő megéri a panorámáért.",
+            "ro": "Urcarea merită pentru panoramă.",
+            "en": "The climb is worth it for the panorama."
+          }
+        },
+        {
+          "name": "Picknick im Grünen / Piknik a zöldben",
+          "coords": [
+            44.96,
+            13.98
+          ],
+          "category": "park",
+          "arrive_at": "12:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Holen Sie sich davor lokale Salami.",
+            "hu": "Vásároljon előtte helyi szalámit.",
+            "ro": "Cumpărați salam local înainte.",
+            "en": "Buy local salami beforehand."
+          }
+        },
+        {
+          "name": "Kava Marčana",
+          "coords": [
+            44.935,
+            13.97
+          ],
+          "category": "landmark",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Vorsicht auf den Schotterwegen.",
+            "hu": "Vigyázzon a kavicsos utakon.",
+            "ro": "Atenție pe drumurile cu pietriș.",
+            "en": "Be careful on the gravel paths."
+          }
+        },
+        {
+          "name": "Crkva Marije Magdalene",
+          "coords": [
+            44.95,
+            13.95
+          ],
+          "category": "religious",
+          "arrive_at": "14:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Eine Oase der Ruhe.",
+            "hu": "A nyugalom oázisa.",
+            "ro": "O oază de liniște.",
+            "en": "An oasis of calm."
+          }
+        },
+        {
+          "name": "Gelato-Stopp / Fagyi-szünet",
+          "coords": [
+            44.956,
+            13.955
+          ],
+          "category": "gastro",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die perfekte Belohnung nach der Tour.",
+            "hu": "Tökéletes jutalom a túra után.",
+            "ro": "Recompensa perfectă după tur.",
+            "en": "The perfect reward after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die sanften Hügel rund um Marčana mit dem Fahrrad. Von der St.-Antonius-Kirche radeln Sie hinauf zum mittelalterlichen Mutvoran, wo Sie eine Zeitreise erwartet. Nach einem entspannten Picknick geht es weiter zum monumentalen Steinbruch Kava Marčana, dessen weiße Felsen einen starken Kontrast zum Grün bilden. Der Rückweg führt über die Kirche der Maria Magdalene zurück ins Dorfzentrum für ein wohlverdientes Eis.",
+        "hu": "Fedezze fel Marčana környékének szelíd dombjait kerékpárral. A Szent Antal templomtól tekerjen fel a középkori Mutvoranba, ahol időutazás várja. Egy pihentető piknik után folytassa útját a monumentális Kava Marčana kőbányához, melynek fehér sziklái éles kontrasztban állnak a táj zöldjével. A visszaút a Mária Magdolna templomon keresztül vezet a falu központjába egy jól megérdemelt fagyira.",
+        "ro": "Explorați dealurile blânde din jurul Marčanei cu bicicleta. De la biserica Sfântul Anton, pedalați până la Mutvoranul medieval, unde vă așteaptă o călătorie în timp. După un picnic relaxant, continuați spre monumentala carieră Kava Marčana, ale cărei stânci albe creează un contrast puternic cu verdele peisajului. Drumul de întoarcere trece pe la biserica Maria Magdalena spre centrul satului pentru o înghețată binemeritată.",
+        "en": "Explore the gentle hills around Marčana by bike. From St. Anthony's Church, cycle up to medieval Mutvoran, where a journey back in time awaits. After a relaxing picnic, continue to the monumental Kava Marčana quarry, whose white rocks provide a sharp contrast to the greenery. The return path leads past St. Mary Magdalene's Church back to the village center for a well-deserved ice cream."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Energieschub für Radfahrer direkt vom Imker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Energiabomba kerékpárosoknak közvetlenül a méhésztől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Sursă de energie pentru bicicliști direct de la apicultor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Energy boost for cyclists directly from the beekeeper."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchgarten Marčana",
+            "tip": "Vogelgezwitscher und Schatten unter alten Bäumen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Marčanai templomkert",
+            "tip": "Madárcsicsergés és árnyék az öreg fák alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina bisericii Marčana",
+            "tip": "Cântecul păsărilor și umbră sub copacii bătrâni.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Marčana Church Garden",
+            "tip": "Birdsong and shade under old trees.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Isolierte Trinkflasche",
+            "tip": "Wichtig für die sonnigen Landstraßen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szigetelt kulacs",
+            "tip": "Fontos a napsütötte országutakon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Sticlă de apă izolată",
+            "tip": "Importantă pe drumurile însorite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Insulated Water Bottle",
+            "tip": "Essential for the sunny country roads."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor dem Abstieg von Mutvoran.",
+          "Die Straßen sind verkehrsarm, aber schmal."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a Mutvoranból való leereszkedés előtt.",
+          "Az utak gyér forgalmúak, de keskenyek."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea din Mutvoran.",
+          "Drumurile sunt puțin circulate, dar înguste."
+        ],
+        "en": [
+          "Check your brakes before the descent from Mutvoran.",
+          "The roads have little traffic but are narrow."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Marčana Zentrum (Cluster A)",
+          "coords": [
+            44.9565,
+            13.9555
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral für die ersten Stopps.",
+            "hu": "Parkoljon központilag az első megállókhoz.",
+            "ro": "Parcați central pentru primele opriri.",
+            "en": "Park centrally for the first stops."
+          }
+        },
+        {
+          "name": "Crkva sv. Antuna Padovanskog (Cluster A)",
+          "coords": [
+            44.957,
+            13.956
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Parkplatz.",
+            "hu": "Kellemes séta a parkolótól.",
+            "ro": "O plimbare plăcută de la parcare.",
+            "en": "A pleasant walk from the parking lot."
+          }
+        },
+        {
+          "name": "Lokaler Markt (Cluster A) / Helyi piac",
+          "coords": [
+            44.956,
+            13.957
+          ],
+          "category": "shopping",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Frisches Obst für die Fahrt.",
+            "hu": "Friss gyümölcs az útra.",
+            "ro": "Fructe proaspete pentru drum.",
+            "en": "Fresh fruit for the trip."
+          }
+        },
+        {
+          "name": "Mutvoran (Cluster B)",
+          "coords": [
+            44.965,
+            13.985
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Das Auto vor den Stadtmauern stehen lassen.",
+            "hu": "Hagyja az autót a városfalakon kívül.",
+            "ro": "Lăsați mașina în afara zidurilor orașului.",
+            "en": "Leave the car outside the city walls."
+          }
+        },
+        {
+          "name": "Mittagessen (Cluster B) / Ebéd",
+          "coords": [
+            44.964,
+            13.984
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Rustikale Küche in historischem Ambiente.",
+            "hu": "Rusztikus konyha történelmi környezetben.",
+            "ro": "Bucătărie rustică în ambianță istorică.",
+            "en": "Rustic cuisine in a historic setting."
+          }
+        },
+        {
+          "name": "Kava Marčana (Cluster C)",
+          "coords": [
+            44.935,
+            13.97
+          ],
+          "category": "landmark",
+          "arrive_at": "14:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ideal für dramatische Fotos.",
+            "hu": "Ideális drámai fotókhoz.",
+            "ro": "Ideal pentru fotografii dramatice.",
+            "en": "Ideal for dramatic photos."
+          }
+        },
+        {
+          "name": "Crkva Marije Magdalene (Cluster C)",
+          "coords": [
+            44.94,
+            13.965
+          ],
+          "category": "religious",
+          "arrive_at": "15:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nur eine kurze Fahrt vom Steinbruch entfernt.",
+            "hu": "Csak rövid autóút a kőbányától.",
+            "ro": "Doar o scurtă călătorie cu mașina de la carieră.",
+            "en": "Just a short drive from the quarry."
+          }
+        },
+        {
+          "name": "Ausblick-Stopp / Kilátó megálló",
+          "coords": [
+            44.95,
+            13.955
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:10",
+          "stay_min": 10,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kurzer Panoramastopp vor der Rückkehr.",
+            "hu": "Rövid panoráma megálló visszatérés előtt.",
+            "ro": "Scurtă oprire panoramică înainte de întoarcere.",
+            "en": "Short panoramic stop before returning."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie bequem die kulturellen Highlights Marčanas mit der wilden Schönheit des Hinterlandes. Starten Sie im Zentrum (Cluster A), erkunden Sie die Gassen und den Markt zu Fuß. Fahren Sie dann zum Hügeldorf Mutvoran (Cluster B) für Geschichte und Gastronomie. Der letzte Abschnitt führt Sie zum Steinbruch Kava Marčana und der Kirche Maria Magdalena (Cluster C), wo Sie die einzigartige Geologie und Stille Istriens erleben.",
+        "hu": "Autóval kényelmesen összekötheti Marčana kulturális fénypontjait a hátország vad szépségével. Kezdjen a központban (Cluster A), fedezze fel a sikátorokat és a piacot gyalog. Ezután autózzon el a dombtetőn fekvő Mutvoranba (Cluster B) a történelem és a gasztronómia kedvéért. Az utolsó szakasz a Kava Marčana kőbányához és a Mária Magdolna templomhoz vezet (Cluster C), ahol megtapasztalhatja Isztria egyedülálló geológiáját és csendjét.",
+        "ro": "Cu mașina, puteți combina confortabil punctele de atracție culturală din Marčana cu frumusețea sălbatică a interiorului. Începeți în centru (Cluster A), explorând străduțele și piața pe jos. Apoi conduceți către satul de deal Mutvoran (Cluster B) pentru istorie și gastronomie. Ultima etapă vă duce la cariera Kava Marčana și la biserica Maria Magdalena (Cluster C), unde veți experimenta geologia unică și liniștea Istriei.",
+        "en": "By car, you can comfortably combine Marčana's cultural highlights with the wild beauty of the hinterland. Start in the center (Cluster A), exploring the alleys and market on foot. Then drive to the hilltop village of Mutvoran (Cluster B) for history and gastronomy. The last leg takes you to the Kava Marčana quarry and St. Mary Magdalene Church (Cluster C), where you'll experience Istria's unique geology and silence."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Istrianischer Eintopf (Maneštra)",
+            "tip": "Perfekt für eine herzhafte Mittagspause."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Isztriai egytálétel (Maneštra)",
+            "tip": "Tökéletes egy bőséges ebédszünethez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maneštra istriană",
+            "tip": "Perfectă pentru o pauză de prânz copioasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Istrian Stew (Maneštra)",
+            "tip": "Perfect for a hearty lunch break."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St.-Magdalena-Hügel",
+            "tip": "Völlige Isolation und herrlicher Weitblick.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Magdolna-domb",
+            "tip": "Teljes elszigeteltség és csodás kilátás.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Sfânta Magdalena",
+            "tip": "Izolare totală și o vedere panoramică superbă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Magdalene Hill",
+            "tip": "Complete isolation and wonderful far-reaching views.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kräuterschnaps (Biska)",
+            "tip": "Ein traditionelles Souvenir aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógynövényes pálinka (Biska)",
+            "tip": "Hagyományos szuvenír a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Rachiu de ierburi (Biska)",
+            "tip": "Un suvenir tradițional din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herbal Grappa (Biska)",
+            "tip": "A traditional souvenir from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen nach Mutvoran sind schmal; fahren Sie vorsichtig.",
+          "In Marčana gibt es genügend kostenfreie Parkplätze."
+        ],
+        "hu": [
+          "A Mutvoranba vezető utak keskenyek, vezessen óvatosan.",
+          "Marčanában rengeteg ingyenes parkolóhely található."
+        ],
+        "ro": [
+          "Drumurile spre Mutvoran sunt înguste; conduceți cu atenție.",
+          "În Marčana există suficiente locuri de parcare gratuite."
+        ],
+        "en": [
+          "The roads to Mutvoran are narrow; drive carefully.",
+          "There are plenty of free parking spaces in Marčana."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bushaltestelle Marčana / Marčana buszmegálló",
+          "coords": [
+            44.9567,
+            13.955
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie die Rückfahrzeiten vorab.",
+            "hu": "Ellenőrizze előre a visszaindulási időpontokat.",
+            "ro": "Verificați orele de întoarcere în prealabil.",
+            "en": "Check the return times in advance."
+          }
+        },
+        {
+          "name": "Crkva sv. Antuna Padovanskog",
+          "coords": [
+            44.957,
+            13.956
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Haltestelle entfernt.",
+            "hu": "Csak pár lépésre a megállótól.",
+            "ro": "La doar câțiva pași de stație.",
+            "en": "Just a few steps from the stop."
+          }
+        },
+        {
+          "name": "Mutvoran",
+          "coords": [
+            44.965,
+            13.985
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 80,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein schöner, aber langer Fußmarsch oder lokales Taxi.",
+            "hu": "Szép, de hosszú séta vagy helyi taxi.",
+            "ro": "O plimbare frumoasă, dar lungă, sau un taxi local.",
+            "en": "A beautiful but long walk or a local taxi."
+          }
+        },
+        {
+          "name": "Mittagspause / Ebédszünet",
+          "coords": [
+            44.964,
+            13.984
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe im Dorf.",
+            "hu": "Élvezze a falu nyugalmát.",
+            "ro": "Bucurați-vă de liniștea din sat.",
+            "en": "Enjoy the quiet of the village."
+          }
+        },
+        {
+          "name": "Crkva Marije Magdalene",
+          "coords": [
+            44.95,
+            13.95
+          ],
+          "category": "religious",
+          "arrive_at": "16:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Auf dem Rückweg zur Bushaltestelle.",
+            "hu": "Visszaúton a buszmegálló felé.",
+            "ro": "În drumul de întoarcere spre stație.",
+            "en": "On the way back to the bus stop."
+          }
+        },
+        {
+          "name": "Kaffee vor der Abfahrt / Kávé indulás előtt",
+          "coords": [
+            44.956,
+            13.955
+          ],
+          "category": "gastro",
+          "arrive_at": "16:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie bis zur Ankunft des Busses.",
+            "hu": "Pihenjen a busz érkezéséig.",
+            "ro": "Relaxați-vă până la sosirea autobuzului.",
+            "en": "Relax until the bus arrives."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus nach Marčana für einen entschleunigten Tag. Nach der Besichtigung der Dorfkirche führt Sie ein ausgiebiger Spaziergang durch die istrianische Landschaft zum historischen Mutvoran. Nach einem entspannten Mittagessen kehren Sie zu Fuß zurück, besuchen die Kirche der Maria Magdalene und lassen den Tag gemütlich im Dorf ausklingen, während Sie auf den Bus warten.",
+        "hu": "Használja a helyi buszt Marčanába egy lassabb tempójú naphoz. A falusi templom megtekintése után egy kiadós séta vezet az isztriai tájon keresztül a történelmi Mutvoranba. Egy pihentető ebéd után gyalog térjen vissza, látogasson el a Mária Magdolna templomhoz, és zárja a napot hangulatosan a faluban, miközben a buszra vár.",
+        "ro": "Folosiți autobuzul local către Marčana pentru o zi relaxată. După vizitarea bisericii din sat, o plimbare lungă prin peisajul istrian vă va duce la Mutvoranul istoric. După un prânz relaxant, întoarceți-vă pe jos, vizitați biserica Maria Magdalena și încheiați ziua plăcut în sat în timp ce așteptați autobuzul.",
+        "en": "Use the local bus to Marčana for a slower-paced day. After visiting the village church, a substantial walk through the Istrian landscape leads you to historic Mutvoran. After a relaxing lunch, return on foot, visit St. Mary Magdalene's Church, and end the day cozily in the village while waiting for the bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Ein Glas Malvazija zum Abschluss."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Egy pohár Malvazija a nap végére."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Un pahar de Malvazija la finalul zilei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "A glass of Malvasia to end the day."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mutvoran Kirchplatz",
+            "tip": "Zeitlose Stille in den Gassen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mutvoran templomtere",
+            "tip": "Időtlen csend a sikátorokban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața bisericii din Mutvoran",
+            "tip": "Liniște atemporală pe străduțe.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mutvoran Church Square",
+            "tip": "Timeless silence in the alleys.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Handgefertigte Keramik",
+            "tip": "Kleine Kunstwerke aus lokalen Ateliers."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kézműves kerámia",
+            "tip": "Kis műalkotások helyi műhelyekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ceramică lucrată manual",
+            "tip": "Mici opere de artă din atelierele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Handmade Ceramics",
+            "tip": "Small artworks from local studios."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bustickets können beim Fahrer gekauft werden.",
+          "Die Busfrequenz ist am Wochenende geringer."
+        ],
+        "hu": [
+          "A buszjegyeket a sofőrnél is meg lehet vásárolni.",
+          "A buszok hétvégén ritkábban járnak."
+        ],
+        "ro": [
+          "Biletele de autobuz pot fi cumpărate de la șofer.",
+          "Frecvența autobuzelor este mai mică în weekend."
+        ],
+        "en": [
+          "Bus tickets can be purchased from the driver.",
+          "Bus frequency is lower on weekends."
+        ]
+      }
+    }
+  }
+}

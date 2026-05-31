@@ -1,0 +1,1006 @@
+{
+  "city_id": "croatia-preko-cities-v2",
+  "anchor": {
+    "name": "Preko",
+    "coords": [
+      15.1828,
+      44.0864
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:45",
+      "total_km": 6.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Marina Preko",
+          "coords": [
+            15.1852,
+            44.0855
+          ],
+          "category": "harbor",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Kaffee am Hafenbecken bei der Ankunft der Fähre.",
+            "hu": "Igyon egy kávét a kikötőben, miközben nézi az érkező kompokat.",
+            "ro": "Savurați o cafea în port în timp ce urmăriți sosirea feribotului.",
+            "en": "Enjoy a coffee at the harbor while watching the ferries arrive."
+          }
+        },
+        {
+          "name": "Stari Grad",
+          "coords": [
+            15.1878,
+            44.0832
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die steinernen Gassen des alten Ortskerns.",
+            "hu": "Fedezze fel az ófalu szűk, kőből épült sikátorait.",
+            "ro": "Explorați străduțele înguste de piatră ale centrului vechi.",
+            "en": "Explore the narrow stone alleys of the old village core."
+          }
+        },
+        {
+          "name": "Galevac (Školjić)",
+          "coords": [
+            15.1871,
+            44.0881
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein kleines Boot (Barkajol), um zum Inselfriedhof zu gelangen.",
+            "hu": "Szálljon egy kis bárkába (barkajol), hogy átjusson a kolostorszigetre.",
+            "ro": "Luați o barcă mică (barkajol) pentru a ajunge pe insula mănăstirii.",
+            "en": "Take a small traditional boat (barkajol) to reach the monastery islet."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            15.1845,
+            44.0862
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch mit Mangold und Kartoffeln.",
+            "hu": "Kóstolja meg a friss halat mángolddal és burgonyával.",
+            "ro": "Încercați peștele proaspăt cu mangold și cartofi.",
+            "en": "Try fresh grilled fish served with chard and potatoes."
+          }
+        },
+        {
+          "name": "Plaža Jaz",
+          "coords": [
+            15.1812,
+            44.0871
+          ],
+          "category": "beach",
+          "arrive_at": "14:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der flache Sandstrand ist ideal zum Entspannen im klaren Wasser.",
+            "hu": "A sekély, homokos tengerpart tökéletes a pihenéshez.",
+            "ro": "Plaja cu nisip puțin adâncă este ideală pentru relaxare.",
+            "en": "The shallow sandy beach is perfect for relaxing in clear water."
+          }
+        },
+        {
+          "name": "Tvrđava svetog Mihovila",
+          "coords": [
+            15.1632,
+            44.0655
+          ],
+          "category": "historical",
+          "arrive_at": "18:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 85,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für das 360-Grad-Panorama des Archipels.",
+            "hu": "A meredek kaptató végén a szigetvilág legszebb panorámája várja.",
+            "ro": "Urcarea merită pentru panorama de 360 de grade asupra arhipelagului.",
+            "en": "The steep climb is worth it for the 360-degree archipelago panorama."
+          }
+        },
+        {
+          "name": "Sonnenuntergang am Aussichtspunkt",
+          "coords": [
+            15.1635,
+            44.0658
+          ],
+          "category": "viewpoint",
+          "arrive_at": "19:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie die Sonne hinter den Kornaten im Meer versinkt.",
+            "hu": "Nézze végig, ahogy a nap lebukik a Kornati-szigetek mögött.",
+            "ro": "Priviți cum soarele apune în mare în spatele insulelor Kornati.",
+            "en": "Watch the sun dip into the sea behind the Kornati islands."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Preko ist das Tor zur Insel Ugljan. Ihr Tag beginnt entspannt am malerischen Hafen und führt Sie durch den alten Dorfkern. Ein absolutes Highlight ist die winzige Insel Galevac mit ihrem friedlichen Kloster. Nach einem ausgiebigen Badetag am Jaz-Strand wandern Sie am späten Nachmittag hinauf zur Michaelsfestung, um den spektakulärsten Sonnenuntergang der gesamten Zadar-Region zu erleben.",
+        "hu": "Preko Ugljan szigetének kapuja. A nap reggeli kávéval indul a kikötőben, majd az ófalu kövei között folytatódik. A Galevac-sziget kolostora igazi lelki béke, a Jaz strand pedig a tökéletes délutáni felfrissülés. A napot a Szent Mihály várba vezető túra koronázza meg, ahonnan belátni az egész zadari szigetvilágot a lenyugvó nap fényében.",
+        "ro": "Preko este poarta de intrare pe insula Ugljan. Ziua începe cu o cafea în port, urmată de o plimbare prin centrul vechi. Un punct forte este insula Galevac cu mănăstirea sa liniștită. După o după-amiază de relaxare pe plaja Jaz, veți urca spre fortăreața Sf. Mihail pentru a admira cel mai spectaculos apus de soare din regiunea Zadar.",
+        "en": "Preko is the gateway to Ugljan island. Your day begins at the charming marina and leads through the historic village core. A highlight is the tiny Galevac islet with its peaceful monastery. After a long swim at Jaz beach, take the afternoon hike up to St. Michael’s fortress to witness the most spectacular sunset in the entire Zadar archipelago."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Barbara",
+            "tip": "Traditionelle dalmatinische Küche direkt an der Uferpromenade."
+          },
+          {
+            "name": "Hausgemachtes Olivenöl",
+            "tip": "Ugljan ist berühmt für sein hervorragendes, lokales Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Barbara",
+            "tip": "Hagyományos dalmát konyha közvetlenül a tengerparti sétányon."
+          },
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Ugljan szigete híres a kiváló minőségű házi olívaolajáról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Barbara",
+            "tip": "Bucătărie tradițională dalmată chiar pe promenada de la malul mării."
+          },
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Insula Ugljan este faimoasă pentru uleiul de măsline artizanal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Barbara",
+            "tip": "Traditional Dalmatian cuisine located right on the waterfront promenade."
+          },
+          {
+            "name": "Local Olive Oil",
+            "tip": "Ugljan island is famous for its high-quality, locally produced olive oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kloster Galevac",
+            "tip": "Ein Ort der Stille inmitten üppiger Vegetation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Festung St. Michael",
+            "tip": "Atemberaubende Aussicht in ruhiger Höhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galevac kolostorkert",
+            "tip": "A béke szigete dús zöld növényzet között.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Szent Mihály vár",
+            "tip": "Lenyűgöző panoráma a magaslati csendben.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mănăstirea Galevac",
+            "tip": "Un loc de liniște în mijlocul vegetației luxuriante.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Cetatea Sf. Mihail",
+            "tip": "Panoramă uluitoare în liniștea de la înălțime.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Galevac Monastery",
+            "tip": "A place of complete silence surrounded by lush greenery.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "St. Michael's Fortress",
+            "tip": "Breathtaking panorama in the quiet heights.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frisches Obst und Gemüse direkt von den Inselfeldern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss gyümölcs és zöldség közvetlenül a szigeti földekről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe și legume proaspete direct de pe câmpurile insulei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fresh fruit and vegetables sourced directly from island gardens."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Fähre von Zadar verkehrt fast stündlich.",
+          "Tragen Sie feste Schuhe für den Aufstieg zur Festung.",
+          "Mieten Sie ein Fahrrad für die Erkundung der Nachbardörfer.",
+          "Nehmen Sie genug Wasser für die Wanderung mit."
+        ],
+        "hu": [
+          "A komp Zadarból szinte óránként közlekedik.",
+          "A várhoz vezető úthoz viseljen kényelmes túracipőt.",
+          "Érdemes biciklit bérelni a szomszédos falvak felfedezéséhez.",
+          "Vigyél magaddal elegendő vizet a meredek túrához."
+        ],
+        "ro": [
+          "Feribotul din Zadar circulă aproape la fiecare oră.",
+          "Purtați încălțăminte adecvată pentru urcarea la cetate.",
+          "Închiriați o bicicletă pentru a explora satele învecinate.",
+          "Luați suficientă apă pentru drumeția spre vârf."
+        ],
+        "en": [
+          "The ferry from Zadar runs almost every hour.",
+          "Wear sturdy shoes for the hike up to the fortress.",
+          "Consider renting a bike to explore the neighboring villages.",
+          "Bring plenty of water for the steep uphill walk."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 15.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Marina Preko",
+          "coords": [
+            15.1852,
+            44.0855
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Prüfen Sie Ihr Fahrrad vor der Abfahrt ins Hinterland.",
+            "hu": "Ellenőrizze a biciklit, mielőtt elindul a dombok felé.",
+            "ro": "Verificați bicicleta înainte de a pleca spre dealuri.",
+            "en": "Check your bike before heading into the island hills."
+          }
+        },
+        {
+          "name": "Stari Grad",
+          "coords": [
+            15.1878,
+            44.0832
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad durch die engsten Gassen.",
+            "hu": "A legszűkebb utcákban tolja a biciklit.",
+            "ro": "Împingeți bicicleta pe cele mai înguste străzi.",
+            "en": "Push your bike through the narrowest stone alleys."
+          }
+        },
+        {
+          "name": "Tvrđava svetog Mihovila",
+          "coords": [
+            15.1632,
+            44.0655
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein anspruchsvoller Anstieg auf asphaltierter Straße.",
+            "hu": "Kihívást jelentő emelkedő aszfaltozott úton.",
+            "ro": "O urcare solicitantă pe un drum asfaltat.",
+            "en": "A challenging climb on a paved road worth the effort."
+          }
+        },
+        {
+          "name": "Mittagspause im Inselinneren",
+          "coords": [
+            15.1755,
+            44.0722
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Ruhen Sie sich im Schatten der Olivenbäume aus.",
+            "hu": "Pihenjen meg az olajfák hűs árnyékában.",
+            "ro": "Odihniți-vă la umbra măslinilor.",
+            "en": "Rest in the cool shade of ancient olive trees."
+          }
+        },
+        {
+          "name": "Plaža Jaz",
+          "coords": [
+            15.1812,
+            44.0871
+          ],
+          "category": "beach",
+          "arrive_at": "14:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Kühlen Sie die Beine im Meer nach der Radtour.",
+            "hu": "Hűtse le a lábait a tengerben a tekerés után.",
+            "ro": "Răcoriți-vă picioarele în mare după turul cu bicicleta.",
+            "en": "Cool your legs in the sea after the bike ride."
+          }
+        },
+        {
+          "name": "Galevac (Školjić)",
+          "coords": [
+            15.1871,
+            44.0881
+          ],
+          "category": "historical",
+          "arrive_at": "17:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Lassen Sie das Rad sicher am Ufer stehen.",
+            "hu": "Hagyja a biciklit biztonságos helyen a parton.",
+            "ro": "Lăsați bicicleta într-un loc sigur pe mal.",
+            "en": "Leave your bike in a secure spot on the shore."
+          }
+        },
+        {
+          "name": "Riva-Fahrt bei Sonnenuntergang",
+          "coords": [
+            15.1835,
+            44.0865
+          ],
+          "category": "viewpoint",
+          "arrive_at": "18:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radeln Sie entspannt entlang der Küstenpromenade.",
+            "hu": "Tekerjen végig kényelmesen a tengerparti korzón.",
+            "ro": "Pedalați relaxat de-a lungul promenadei de pe țărm.",
+            "en": "Take a relaxed ride along the seaside promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Preko und sein bergiges Hinterland intensiver. Der Tag fordert Sie mit dem Anstieg zur Michaelsfestung heraus, belohnt aber mit unvergleichlichen Ausblicken. Danach gleiten Sie zurück zur Küste für eine wohlverdiente Abkühlung am Jaz-Strand und beenden den Tag mit einer ruhigen Fahrt entlang der Uferpromenade.",
+        "hu": "Biciklivel Preko és a hegyes háttérország is közelebb kerül. A nap legnehezebb része a Szent Mihály várba vezető emelkedő, de a látvány kárpótol mindenért. Ezután visszagurulhat a tengerpartra, hogy megmártózzon a Jaz strandon, a napot pedig egy kellemes tekeréssel zárhatja a parti sétányon.",
+        "ro": "Cu bicicleta veți explora Preko și interiorul său deluros mai intens. Ziua vă provoacă cu urcarea spre cetatea Sf. Mihail, dar vă răsplătește cu vederi de neegalat. Ulterior, coborâți spre coastă pentru o răcorire binemeritată pe plaja Jaz și încheiați ziua cu o plimbare liniștită de-a lungul promenadei.",
+        "en": "Exploring Preko by bike lets you conquer its hilly interior. The highlight is the challenging ascent to St. Michael’s fortress, offering rewarding views. Afterward, coast back down to the shore for a well-deserved swim at Jaz beach and end the day with a gentle ride along the waterfront promenade."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bura",
+            "tip": "Gute Pizzen und Snacks für aktive Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bura",
+            "tip": "Kiváló pizzák és falatok az aktív bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bura",
+            "tip": "Pizza și gustări excelente pentru bicicliști activi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bura",
+            "tip": "Great pizzas and snacks perfect for active cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Olivenhaine",
+            "tip": "Stille Pfade abseits der Hauptstraßen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olajfaligetek",
+            "tip": "Csendes ösvények a főúttól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Livezi de măslini",
+            "tip": "Cărări liniștite departe de drumul principal.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Groves",
+            "tip": "Quiet paths tucked away from the main roads.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lavender Shop",
+            "tip": "Duftende Souvenirs der Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Levendula bolt",
+            "tip": "Illatos szigeti emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de lavandă",
+            "tip": "Suveniruri parfumate de pe insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Lavender Shop",
+            "tip": "Fragrant island souvenirs to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ein Reparaturset mit.",
+          "Vermeiden Sie die Mittagshitze beim Aufstieg."
+        ],
+        "hu": [
+          "Vigyél magaddal defektjavító készletet.",
+          "Kerüld a déli hőséget a várhoz vezető emelkedőn."
+        ],
+        "ro": [
+          "Luați un kit de reparare a penelor.",
+          "Evitați căldura amiezii pentru urcarea spre cetate."
+        ],
+        "en": [
+          "Bring a puncture repair kit.",
+          "Avoid the midday heat for the steep uphill climb."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 14.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Marina Preko (Cluster A)",
+          "coords": [
+            15.1852,
+            44.0855
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Hafenbecken.",
+            "hu": "Parkoljon a kikötői medence mellett.",
+            "ro": "Parcați lângă bazinul portului.",
+            "en": "Park your car near the harbor basin."
+          }
+        },
+        {
+          "name": "Stari Grad (Cluster A)",
+          "coords": [
+            15.1878,
+            44.0832
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Hafen.",
+            "hu": "Rövid séta a kikötőtől.",
+            "ro": "O scurtă plimbare de la port.",
+            "en": "A short walk from the harbor parking."
+          }
+        },
+        {
+          "name": "Galevac (Cluster A)",
+          "coords": [
+            15.1871,
+            44.0881
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bootstransfer zur Insel.",
+            "hu": "Csónakos átkelés a szigetre.",
+            "ro": "Transfer cu barca pe insulă.",
+            "en": "Boat transfer to the islet."
+          }
+        },
+        {
+          "name": "Tvrđava svetog Mihovila (Cluster B)",
+          "coords": [
+            15.1632,
+            44.0655
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Bequeme Fahrt bis zum Gipfel.",
+            "hu": "Kényelmes autózás egészen a csúcsig.",
+            "ro": "O călătorie confortabilă până la vârf.",
+            "en": "A comfortable drive all the way to the top."
+          }
+        },
+        {
+          "name": "Mittagessen (Cluster B)",
+          "coords": [
+            15.1765,
+            44.0755
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick beim Essen.",
+            "hu": "Élvezze a kilátást ebéd közben.",
+            "ro": "Bucurați-vă de priveliște în timp ce mâncați.",
+            "en": "Enjoy the panoramic view while you dine."
+          }
+        },
+        {
+          "name": "Plaža Jaz (Cluster C)",
+          "coords": [
+            15.1812,
+            44.0871
+          ],
+          "category": "beach",
+          "arrive_at": "15:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Öffentlicher Parkplatz in Strandnähe.",
+            "hu": "Nyilvános parkoló a strand közelében.",
+            "ro": "Parcare publică în apropierea plajei.",
+            "en": "Public parking available near the beach area."
+          }
+        },
+        {
+          "name": "Abschied am Ufer (Cluster C)",
+          "coords": [
+            15.1835,
+            44.0865
+          ],
+          "category": "harbor",
+          "arrive_at": "18:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letzter Blick auf Zadar.",
+            "hu": "Utolsó pillantás Zadarra.",
+            "ro": "O ultimă privire spre Zadar.",
+            "en": "Final glance across the water to Zadar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie mühelos die Schätze von Preko. Beginnen Sie im Küstencluster mit dem Besuch des Galevac-Klosters und fahren Sie dann bequem hinauf zur Michaelsfestung, ohne den mühsamen Aufstieg. Der Tag endet entspannt am Jaz-Strand, wobei Sie flexibel zwischen den schönsten Spots der Insel wechseln können.",
+        "hu": "Autóval könnyedén összekötheti Preko legszebb pontjait. Kezdjen a kikötői negyedben a Galevac-sziget meglátogatásával, majd autózzon fel kényelmesen a Szent Mihály várba, megspórolva a gyalogos kaptatót. A nap végén a Jaz strandon pihenhet, miközben az autóval szabadon mozoghat a sziget partjai mentén.",
+        "ro": "Cu mașina veți conecta fără efort comorile din Preko. Începeți în zona de coastă cu vizitarea mănăstirii Galevac, apoi urcați confortabil spre cetatea Sf. Mihail, evitând urcarea obositoare pe jos. Ziua se încheie relaxat pe plaja Jaz, având flexibilitatea de a vă deplasa între cele mai frumoase puncte ale insulei.",
+        "en": "Traveling by car lets you easily connect Preko’s top attractions. Start in the coastal cluster with a visit to Galevac islet, then enjoy a scenic drive up to St. Michael’s fortress, skipping the steep hike. Finish your day relaxing at Jaz beach, benefiting from the freedom to move between the island's best spots at your own pace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Joso",
+            "tip": "Hervorragende Fleisch- und Fischgerichte vom Grill."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Joso",
+            "tip": "Kiváló hús- és halételek a rostélyról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Joso",
+            "tip": "Preparate excelente din carne și pește la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Joso",
+            "tip": "Excellent grilled meat and fish specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Sveti Mihovil",
+            "tip": "Leicht erreichbar mit dem Auto.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Mihály kilátó",
+            "tip": "Könnyen elérhető autóval.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvederea Sf. Mihail",
+            "tip": "Ușor accesibil cu mașina.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Michael's Viewpoint",
+            "tip": "Easily accessible by car for a quiet moment.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt Plodine",
+            "tip": "Große Auswahl für Inselfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Plodine szupermarket",
+            "tip": "Nagy választék a szigeten közlekedőknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket Plodine",
+            "tip": "O gamă largă de produse pentru călători."
+          }
+        ],
+        "en": [
+          {
+            "name": "Plodine Supermarket",
+            "tip": "Wide selection of supplies for island travelers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist im Sommer oft kostenpflichtig.",
+          "Die Straße zur Festung ist schmal."
+        ],
+        "hu": [
+          "A parkolás nyáron gyakran fizetős.",
+          "A várhoz vezető út keskeny, óvatosan vezessen."
+        ],
+        "ro": [
+          "Parcarea este adesea cu plată în timpul verii.",
+          "Drumul spre cetate este îngust, conduceți cu atenție."
+        ],
+        "en": [
+          "Parking often requires payment during summer.",
+          "The road to the fortress is narrow; drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Marina Preko (Fähre Ankunft)",
+          "coords": [
+            15.1852,
+            44.0855
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Direkte Verbindung von Zadar.",
+            "hu": "Közvetlen kompösszeköttetés Zadarból.",
+            "ro": "Legătură directă cu feribotul din Zadar.",
+            "en": "Direct ferry connection from Zadar old town or Gaženica."
+          }
+        },
+        {
+          "name": "Stari Grad",
+          "coords": [
+            15.1878,
+            44.0832
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Fähranleger erreichbar.",
+            "hu": "Gyalogosan elérhető a kompkikötőtől.",
+            "ro": "Accesibil pe jos de la terminalul de feribot.",
+            "en": "Easily reachable on foot from the ferry terminal."
+          }
+        },
+        {
+          "name": "Galevac (Školjić)",
+          "coords": [
+            15.1871,
+            44.0881
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bootsservice.",
+            "hu": "Vegye igénybe a helyi csónakos szolgáltatást.",
+            "ro": "Folosiți serviciul local de bărci.",
+            "en": "Use the local boat service to cross to the islet."
+          }
+        },
+        {
+          "name": "Mittagessen am Hafen",
+          "coords": [
+            15.1845,
+            44.0862
+          ],
+          "category": "gastro",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Viele Restaurants nahe der Bushaltestelle.",
+            "hu": "Számos étterem a buszmegálló közelében.",
+            "ro": "Multe restaurante în apropierea stației de autobuz.",
+            "en": "Plenty of restaurants located near the bus stop area."
+          }
+        },
+        {
+          "name": "Plaža Jaz",
+          "coords": [
+            15.1812,
+            44.0871
+          ],
+          "category": "beach",
+          "arrive_at": "14:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang entlang der Küste.",
+            "hu": "Csak egy rövid séta a part mentén.",
+            "ro": "Doar o scurtă plimbare de-a lungul coastei.",
+            "en": "Just a short walk along the coast from the center."
+          }
+        },
+        {
+          "name": "Insel-Busfahrt (Abschied)",
+          "coords": [
+            15.1855,
+            44.0858
+          ],
+          "category": "transit",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Bus verbindet Preko mit anderen Inselorten.",
+            "hu": "A busz összeköti Prekót a sziget többi településével.",
+            "ro": "Autobuzul conectează Preko de alte sate de pe insulă.",
+            "en": "The island bus connects Preko to other coastal villages."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Preko ist perfekt für Nutzer öffentlicher Verkehrsmittel erschlossen. Nach der Ankunft mit der Fähre aus Zadar liegt Ihnen das Zentrum zu Füßen. Besuchen Sie das Inselchen Galevac und entspannen Sie am Jaz-Strand, bevor Sie vielleicht mit dem Inselfahrrad oder dem Bus die Nachbarorte Kali oder Ugljan erkunden. Ein unkomplizierter Tag ohne Parkplatzsorgen.",
+        "hu": "Preko tökéletesen megközelíthető tömegközlekedéssel. A zadari komp megérkezése után a központ karnyújtásnyira van. Látogassa meg a Galevac-szigetet és pihenjen a Jaz strandon, mielőtt a helyi busszal felfedezné a szomszédos Kali vagy Ugljan településeket. Egy egyszerű, gondtalan nap parkolási nehézségek nélkül.",
+        "ro": "Preko este perfect accesibil cu transportul public. După sosirea cu feribotul din Zadar, centrul este la picioarele tale. Vizitați insula Galevac și relaxați-vă pe plaja Jaz, înainte de a explora eventual satele vecine Kali sau Ugljan cu autobuzul local. O zi simplă, fără grija parcării.",
+        "en": "Preko is perfectly accessible by public transit. Upon arrival by ferry from Zadar, the village center is right at your doorstep. Visit the Galevac islet and unwind at Jaz beach before potentially using the local island bus to explore nearby Kali or Ugljan villages. A hassle-free day with no parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Galeb",
+            "tip": "Schnelle und leckere Gerichte nahe der Fähre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Galeb",
+            "tip": "Gyors és finom ételek a komp közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Galeb",
+            "tip": "Preparate rapide și gustoase lângă feribot."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Galeb",
+            "tip": "Quick and tasty meals conveniently located near the ferry."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Friedhof Galevac",
+            "tip": "Ein stiller Ort der Besinnung.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Galevac temető",
+            "tip": "Csendes hely az elmélkedésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cimitirul Galevac",
+            "tip": "Un loc liniștit pentru reflecție.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Galevac Cemetery",
+            "tip": "A quiet place for peaceful reflection.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Hafen",
+            "tip": "Lokale Zeitungen und Ansichtskarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői trafik",
+            "tip": "Helyi újságok és képeslapok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc în port",
+            "tip": "Ziare locale și cărți poștale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Kiosk",
+            "tip": "Local newspapers and postcards of the island."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan der Inselfähre.",
+          "Tickets können am Terminal gekauft werden."
+        ],
+        "hu": [
+          "Ellenőrizze a szigeti komp menetrendjét.",
+          "Jegyek a terminálon válthatók."
+        ],
+        "ro": [
+          "Verificați programul feribotului insular.",
+          "Biletele pot fi cumpărate de la terminal."
+        ],
+        "en": [
+          "Check the local island ferry schedule.",
+          "Tickets can be purchased at the ferry terminal."
+        ]
+      }
+    }
+  }
+}

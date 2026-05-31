@@ -1,0 +1,1021 @@
+{
+  "city_id": "croatia-perusic-cities-v2",
+  "anchor": {
+    "name": "Perušić",
+    "coords": [
+      15.2346,
+      44.6076
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Morgenkaffee am Hauptplatz",
+            "hu": "Reggeli kávé a főtéren",
+            "ro": "Cafeaua de dimineață în piața centrală",
+            "en": "Morning Coffee at the Main Square"
+          },
+          "coords": [
+            15.2348,
+            44.6078
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Probieren Sie ein lokales Gebäck aus der Bäckerei.",
+            "hu": "Kóstoljon meg egy helyi péksüteményt a közeli pékségből.",
+            "ro": "Încercați un produs de patiserie local de la brutărie.",
+            "en": "Try a local pastry from the nearby bakery."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Kirche",
+            "hu": "Szent Kereszt felmagasztalása templom",
+            "ro": "Biserica Înălțarea Sfintei Cruci",
+            "en": "Church of the Holy Cross"
+          },
+          "coords": [
+            15.2355,
+            44.6082
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocken Details im Inneren.",
+            "hu": "Csodálja meg a belső tér barokk részleteit.",
+            "ro": "Admirați detaliile baroce din interior.",
+            "en": "Admire the baroque details inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Türkischer Turm (Turska kula)",
+            "hu": "Török torony (Turska kula)",
+            "ro": "Turnul Turcesc (Turska kula)",
+            "en": "Turkish Tower (Turska kula)"
+          },
+          "coords": [
+            15.2365,
+            44.6095
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das einzige erhaltene osmanische Gebäude in der Lika.",
+            "hu": "Az egyetlen épen maradt oszmán építmény Likában.",
+            "ro": "Singura structură otomană conservată din Lika.",
+            "en": "The only preserved Ottoman structure in Lika."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer lokalen Konoba",
+            "hu": "Ebéd egy helyi konobában",
+            "ro": "Prânz la o konoba locală",
+            "en": "Lunch in a local Konoba"
+          },
+          "coords": [
+            15.234,
+            44.6075
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fragen Sie nach dem berühmten Lika-Lamm.",
+            "hu": "Kérdezze a híres likai báránysültet.",
+            "ro": "Întrebați de faimosul miel de Lika.",
+            "en": "Ask for the famous Lika lamb."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang am Fluss Lika",
+            "hu": "Séta a Lika-folyó partján",
+            "ro": "Plimbare pe malul râului Lika",
+            "en": "Walk by the Lika River"
+          },
+          "coords": [
+            15.245,
+            44.605
+          ],
+          "category": "river",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein ruhiger Ort für Naturbeobachtungen.",
+            "hu": "Csendes hely a természet megfigyeléséhez.",
+            "ro": "Un loc liniștit pentru observarea naturii.",
+            "en": "A quiet spot for nature watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt bei Sonnenuntergang",
+            "hu": "Naplemente a dombtetőn",
+            "ro": "Apus de soare pe deal",
+            "en": "Sunset Viewpoint"
+          },
+          "coords": [
+            15.238,
+            44.611
+          ],
+          "category": "sunset",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Perfekter Blick über die Dächer von Perušić.",
+            "hu": "Tökéletes kilátás Perušić háztetőire.",
+            "ro": "Vedere perfectă peste acoperișurile din Perušić.",
+            "en": "Perfect view over the roofs of Perušić."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Zentrum von Perušić mit einem Kaffee, bevor Sie die prächtige Heilig-Kreuz-Kirche und den historischen Türkischen Turm erkunden. Nach einem herzhaften Mittagessen führt Sie ein entspannter Spaziergang zum Ufer des Flusses Lika, wo Sie die unberührte Natur genießen können. Der Tag endet mit einem weiten Blick über die sanften Hügel der Lika bei Sonnenuntergang.",
+        "hu": "Kezdje a napot Perušić központjában egy kávéval, majd fedezze fel a lenyűgöző Szent Kereszt templomot és a történelmi Török tornyot. Egy kiadós likai ebéd után tegyen egy pihentető sétát a Lika-folyó partján, élvezve az érintetlen természetet. A napot a város feletti dombról nyíló csodás naplemente zárja, ahonnan belátni az egész környéket.",
+        "ro": "Începeți ziua în centrul orașului Perušić cu o cafea, apoi explorați biserica barocă și Turnul Turcesc istoric. După un prânz copios cu specialități locale, o plimbare relaxantă pe malul râului Lika vă va permite să vă bucurați de natura curată. Ziua se încheie cu o vedere panoramică asupra dealurilor din Lika la apusul soarelui.",
+        "en": "Start your day in the center of Perušić with a coffee before exploring the grand Church of the Holy Cross and the historic Turkish Tower. After a hearty Lika lunch, a relaxed walk leads you to the banks of the Lika River, where you can enjoy untouched nature. The day ends with a vast view over the rolling hills of Lika at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Lika",
+            "tip": "Probieren Sie Lamm unter der Glocke (Peka)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Lika",
+            "tip": "Kóstolja meg a peka alatt sült bárányt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Lika",
+            "tip": "Încercați mielul la peka."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Lika",
+            "tip": "Try the lamb under the bell (peka)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "emoji": "🏞️",
+            "name": "Lika-Ufer",
+            "tip": "Vogelgezwitscher und Flussrauschen."
+          }
+        ],
+        "hu": [
+          {
+            "emoji": "🏞️",
+            "name": "Lika partja",
+            "tip": "Madárcsicsergés és folyózúgás."
+          }
+        ],
+        "ro": [
+          {
+            "emoji": "🏞️",
+            "name": "Malul râului Lika",
+            "tip": "Cântecul păsărilor și sunetul râului."
+          }
+        ],
+        "en": [
+          {
+            "emoji": "🏞️",
+            "name": "Lika River Bank",
+            "tip": "Birdsong and the sound of the river."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Echter Lika-Honig und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Valódi likai méz és sajt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Miere și brânză autentică de Lika."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Authentic Lika honey and cheese."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Wanderschuhe sind für die unbefestigten Wege am Fluss ratsam.",
+          "Die Einheimischen sind stolz auf ihre Kartoffeln (Lički krumpir) – unbedingt probieren!",
+          "Die Gegend kann abends auch im Sommer kühl werden, nehmen Sie eine Jacke mit."
+        ],
+        "hu": [
+          "A folyóparti ösvényekhez kényelmes túracipő ajánlott.",
+          "A helyiek büszkék a burgonyájukra (Lički krumpir) – ne hagyja ki!",
+          "Lika este nyáron is lehűlhet, legyen önnél egy vékony dzseki."
+        ],
+        "ro": [
+          "Se recomandă pantofi de drumeție pentru potecile de pe malul râului.",
+          "Localnicii sunt mândri de cartofii lor (Lički krumpir) – trebuie încercați!",
+          "Lika se poate răci seara chiar și vara, luați o jachetă cu voi."
+        ],
+        "en": [
+          "Comfortable walking shoes are advised for the unpaved paths by the river.",
+          "Locals are proud of their potatoes (Lički krumpir) – a must-try!",
+          "Lika can get cool in the evening even in summer, bring a light jacket."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Türkischer Turm",
+            "hu": "Török torony",
+            "ro": "Turnul Turcesc",
+            "en": "Turkish Tower"
+          },
+          "coords": [
+            15.2365,
+            44.6095
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer, steiler Anstieg mit dem Rad.",
+            "hu": "Rövid, meredek emelkedő kerékpárral.",
+            "ro": "Urcare scurtă și abruptă cu bicicleta.",
+            "en": "Short, steep climb by bike."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Kirche",
+            "hu": "Szent Kereszt templom",
+            "ro": "Biserica Înălțarea Sfintei Cruci",
+            "en": "Church of the Holy Cross"
+          },
+          "coords": [
+            15.2355,
+            44.6082
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Sicherer Abstellplatz für Räder vor dem Eingang.",
+            "hu": "Biztonságos biciklitároló a bejáratnál.",
+            "ro": "Loc sigur de parcare pentru biciclete la intrare.",
+            "en": "Safe bike parking at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Höhlenpark Grabovača",
+            "hu": "Pećinski park Grabovača",
+            "ro": "Parcul Peșterilor Grabovača",
+            "en": "Cave Park Grabovača"
+          },
+          "coords": [
+            15.215,
+            44.612
+          ],
+          "category": "park",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Höhle Samograd.",
+            "hu": "Látogassa meg a Samograd barlangot.",
+            "ro": "Vizitați peștera Samograd.",
+            "en": "Visit the Samograd cave."
+          }
+        },
+        {
+          "name": {
+            "de": "Natur-Picknick",
+            "hu": "Természeti piknik",
+            "ro": "Picnic în natură",
+            "en": "Nature Picnic"
+          },
+          "coords": [
+            15.22,
+            44.61
+          ],
+          "category": "gastro",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Brotzeit im Grünen.",
+            "hu": "Falatozás a zöldben.",
+            "ro": "Gustare în aer liber.",
+            "en": "Snack in the green."
+          }
+        },
+        {
+          "name": {
+            "de": "Rijeka Lika (Flussfahrt-Punkt)",
+            "hu": "Rijeka Lika (folyóparti pont)",
+            "ro": "Râul Lika (punct de observație)",
+            "en": "Lika River (Riverside point)"
+          },
+          "coords": [
+            15.245,
+            44.605
+          ],
+          "category": "river",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Schöne Wege entlang des Flusses.",
+            "hu": "Szép ösvények a folyó mentén.",
+            "ro": "Trasee frumoase de-a lungul râului.",
+            "en": "Beautiful paths along the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorfplatz Perušić",
+            "hu": "Perušić falu főtere",
+            "ro": "Piața satului Perušić",
+            "en": "Perušić Village Square"
+          },
+          "coords": [
+            15.2346,
+            44.6076
+          ],
+          "category": "square",
+          "arrive_at": "17:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein letztes Getränk nach der Tour.",
+            "hu": "Egy utolsó ital a túra után.",
+            "ro": "O ultimă băutură după tur.",
+            "en": "A final drink after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die historischen Schätze von Perušić mit den Naturwundern der Region. Nach dem Besuch des Türkischen Turms und der Kirche radeln Sie zum beeindruckenden Höhlenpark Grabovača. Ein Picknick im Grünen gibt Ihnen Energie für die Fahrt zum Fluss Lika, dessen Uferwege ideal für Radfahrer sind. Eine sportliche und erfrischende Art, die Lika-Landschaft zu erleben.",
+        "hu": "Ez a kerékpáros túra összeköti Perušić történelmi kincseit a régió természeti csodáival. A Török torony és a templom után tekerjen el a lenyűgöző Grabovača barlangparkhoz. Egy zöldben elköltött piknik ad energiát a Lika-folyóhoz vezető úthoz, melynek partja ideális a bringásoknak. Sportos és frissítő módja a likai táj felfedezésének.",
+        "ro": "Acest tur cu bicicleta combină comorile istorice din Perušić cu minunile naturale ale regiunii. După vizitarea Turnului Turcesc și a bisericii, pedalați spre impresionantul Parc al Peșterilor Grabovača. Un picnic în natură vă va oferi energie pentru drumul spre râul Lika, ale cărui cărări de mal sunt ideale pentru bicicliști. Un mod sportiv de a experimenta peisajul din Lika.",
+        "en": "This bike tour connects the historical treasures of Perušić with the natural wonders of the region. After visiting the Turkish Tower and the church, cycle to the impressive Grabovača Cave Park. A picnic in the green gives you energy for the ride to the Lika River, whose riverbank paths are ideal for cyclists. A sporty and refreshing way to experience the Lika landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Perušić",
+            "tip": "Hausgemachtes Brot und Burek."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perušić Pékség",
+            "tip": "Házias kenyér és burek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Perušić",
+            "tip": "Pâine de casă și burek."
+          }
+        ],
+        "en": [
+          {
+            "name": "Perušić Bakery",
+            "tip": "Homemade bread and burek."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "emoji": "🧘",
+            "name": "Grabovača Plateau",
+            "tip": "Frische Waldluft und Stille."
+          }
+        ],
+        "hu": [
+          {
+            "emoji": "🧘",
+            "name": "Grabovača fennsík",
+            "tip": "Friss erdei levegő és csend."
+          }
+        ],
+        "ro": [
+          {
+            "emoji": "🧘",
+            "name": "Platoul Grabovača",
+            "tip": "Aer curat de pădure și liniște."
+          }
+        ],
+        "en": [
+          {
+            "emoji": "🧘",
+            "name": "Grabovača Plateau",
+            "tip": "Fresh forest air and silence."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bauernmarkt",
+            "tip": "Lički krumpir (Kartoffeln) direkt vom Feld."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Termelői piac",
+            "tip": "Likai burgonya közvetlenül a földről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața producătorilor",
+            "tip": "Cartofi de Lika direct de la câmp."
+          }
+        ],
+        "en": [
+          {
+            "name": "Farmers Market",
+            "tip": "Lika potatoes directly from the field."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke nach Grabovača hat einige Steigungen.",
+          "Nehmen Sie ausreichend Wasser mit, in den Höhlen ist es kühl (ca. 10°C).",
+          "Achten Sie auf Waldwege, ein Mountainbike ist vorteilhaft."
+        ],
+        "hu": [
+          "A Grabovača felé vezető úton vannak emelkedők.",
+          "Vigyen elég vizet, a barlangokban hűvös van (kb. 10 fok).",
+          "Figyeljen az erdei utakra, a hegyi kerékpár előnyösebb."
+        ],
+        "ro": [
+          "Drumul spre Grabovača are câteva pante.",
+          "Luați suficientă apă, în peșteri este răcoare (aprox. 10°C).",
+          "Atenție la drumurile de pădure, o bicicletă de munte este avantajoasă."
+        ],
+        "en": [
+          "The route to Grabovača has some climbs.",
+          "Take enough water; it's cool inside the caves (approx. 10°C).",
+          "Watch for forest paths; a mountain bike is advantageous."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Perušić Zentrum (Cluster A)",
+            "hu": "Perušić központ (A klaszter)",
+            "ro": "Centrul Perušić (Cluster A)",
+            "en": "Perušić Center (Cluster A)"
+          },
+          "coords": [
+            15.2346,
+            44.6076
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie beim Gemeindehaus.",
+            "hu": "Parkoljon a községháza mellett.",
+            "ro": "Parcați lângă primărie.",
+            "en": "Park near the municipal building."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Kirche",
+            "hu": "Szent Kereszt templom",
+            "ro": "Biserica Înălțarea Sfintei Cruci",
+            "en": "Church of the Holy Cross"
+          },
+          "coords": [
+            15.2355,
+            44.6082
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Zentrum erreichbar.",
+            "hu": "Gyalogosan elérhető a központtól.",
+            "ro": "Accesibil pe jos din centru.",
+            "en": "Accessible on foot from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Türkischer Turm",
+            "hu": "Török torony",
+            "ro": "Turnul Turcesc",
+            "en": "Turkish Tower"
+          },
+          "coords": [
+            15.2365,
+            44.6095
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den historischen Rundgang.",
+            "hu": "Élvezze a történelmi körsétát.",
+            "ro": "Bucurați-vă de turul istoric.",
+            "en": "Enjoy the historical walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Höhlenpark Grabovača (Cluster B)",
+            "hu": "Pećinski park Grabovača (B klaszter)",
+            "ro": "Parcul Peșterilor Grabovača (Cluster B)",
+            "en": "Cave Park Grabovača (Cluster B)"
+          },
+          "coords": [
+            15.215,
+            44.612
+          ],
+          "category": "park",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parkplatz direkt beim Besucherzentrum.",
+            "hu": "Parkoló közvetlenül a látogatóközpontnál.",
+            "ro": "Parcare chiar lângă centrul de vizitare.",
+            "en": "Parking right by the visitor center."
+          }
+        },
+        {
+          "name": {
+            "de": "Gastronomisches Erlebnis Lika",
+            "hu": "Likai gasztro-élmény",
+            "ro": "Experiență gastronomică Lika",
+            "en": "Lika Gastronomic Experience"
+          },
+          "coords": [
+            15.234,
+            44.6075
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Traditionelle Lička trpeza (Lika-Tafel).",
+            "hu": "Hagyományos Lička trpeza (likai asztal).",
+            "ro": "Masă tradițională Lika (Lička trpeza).",
+            "en": "Traditional Lika table (Lička trpeza)."
+          }
+        },
+        {
+          "name": {
+            "de": "Rijeka Lika (Cluster C)",
+            "hu": "Rijeka Lika (C klaszter)",
+            "ro": "Râul Lika (Cluster C)",
+            "en": "Lika River (Cluster C)"
+          },
+          "coords": [
+            15.245,
+            44.605
+          ],
+          "category": "river",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum idyllischen Ufer.",
+            "hu": "Rövid autóút az idilli parthoz.",
+            "ro": "Scurtă călătorie până la malul idilic.",
+            "en": "Short drive to the idyllic riverbank."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem alle Highlights von Perušić. Nach der Erkundung des historischen Zentrums mit der Barockkirche und dem osmanischen Turm fahren Sie zum Grabovača-Höhlenpark, um die faszinierende Unterwelt zu entdecken. Ein Mittagessen mit regionalen Spezialitäten stärkt Sie für den Besuch am malerischen Fluss Lika. Diese Route bietet maximalen Komfort bei minimalem Zeitaufwand für die Transfers.",
+        "hu": "Autóval kényelmesen elérheti Perušić összes látnivalóját. A barokk templomot és oszmán tornyot érintő belvárosi séta után hajtson a Grabovača barlangparkhoz, hogy felfedezze a lenyűgöző földalatti világot. A regionális specialitásokat felvonultató ebéd után a festői Lika-folyó várja. Ez az útvonal maximális kényelmet nyújt minimális utazási idővel a pontok között.",
+        "ro": "Cu mașina puteți ajunge confortabil la toate atracțiile din Perušić. După explorarea centrului istoric cu biserica barocă și turnul otoman, conduceți spre Parcul Peșterilor Grabovača pentru a descoperi lumea subterană fascinantă. Un prânz cu specialități regionale vă va pregăti pentru vizita pe malul pitoresc al râului Lika. Această rută oferă confort maxim.",
+        "en": "By car, you can comfortably reach all the highlights of Perušić. After exploring the historical center with its baroque church and Ottoman tower, drive to the Grabovača Cave Park to discover the fascinating underworld. A lunch featuring regional specialties strengthens you for a visit to the picturesque Lika River. This route offers maximum comfort with minimal transfer time."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Maki",
+            "tip": "Bekannt für Forelle und Käse."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maki Étterem",
+            "tip": "Híres a pisztrángról és a sajtról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Maki",
+            "tip": "Cunoscut pentru păstrăv și brânză."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maki Restaurant",
+            "tip": "Famous for trout and cheese."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "emoji": "🏞️",
+            "name": "Naturpark-Parkplatz",
+            "tip": "Waldrand-Atmosphäre genießen."
+          }
+        ],
+        "hu": [
+          {
+            "emoji": "🏞️",
+            "name": "Natúrpark parkolója",
+            "tip": "Élvezze az erdőszéli hangulatot."
+          }
+        ],
+        "ro": [
+          {
+            "emoji": "🏞️",
+            "name": "Parcarea parcului natural",
+            "tip": "Bucurați-vă de atmosfera de la marginea pădurii."
+          }
+        ],
+        "en": [
+          {
+            "emoji": "🏞️",
+            "name": "Nature Park Parking",
+            "tip": "Enjoy the forest-edge atmosphere."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "OPG-Verkaufsstellen",
+            "tip": "Direktkauf von Schnaps (Rakija)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi gazdaságok",
+            "tip": "Házi pálinka (rakija) vásárlása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Puncte de vânzare locale",
+            "tip": "Cumpărare directă de rachiu (rakija)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Farms (OPG)",
+            "tip": "Direct purchase of rakija (brandy)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind gut ausgebaut, aber eng in den Dörfern.",
+          "Parkplätze sind in Perušić meist kostenlos.",
+          "In Lika gibt es viele Wildtiere, fahren Sie nachts vorsichtig."
+        ],
+        "hu": [
+          "Az utak jól kiépítettek, de a falvakban szűkek lehetnek.",
+          "A parkolás Perušićban többnyire ingyenes.",
+          "Likában sok a vadon élő állat, vezessen óvatosan éjszaka."
+        ],
+        "ro": [
+          "Drumurile sunt bine întreținute, dar înguste în sate.",
+          "Parcarea în Perušić este de obicei gratuită.",
+          "În Lika sunt multe animale sălbatice, conduceți cu atenție noaptea."
+        ],
+        "en": [
+          "Roads are well-maintained but narrow in villages.",
+          "Parking in Perušić is mostly free.",
+          "There is plenty of wildlife in Lika; drive carefully at night."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Perušić",
+            "hu": "Perušić vasútállomás",
+            "ro": "Gara Perušić",
+            "en": "Perušić Train Station"
+          },
+          "coords": [
+            15.23,
+            44.605
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Das Tor zur Lika mit der Bahn.",
+            "hu": "Likába vezető vasúti kapu.",
+            "ro": "Poarta feroviară către Lika.",
+            "en": "The railway gateway to Lika."
+          }
+        },
+        {
+          "name": {
+            "de": "Heilig-Kreuz-Kirche",
+            "hu": "Szent Kereszt templom",
+            "ro": "Biserica Înălțarea Sfintei Cruci",
+            "en": "Church of the Holy Cross"
+          },
+          "coords": [
+            15.2355,
+            44.6082
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang vom Bahnhof.",
+            "hu": "Kellemes séta az állomástól.",
+            "ro": "O plimbare frumoasă de la gară.",
+            "en": "A pleasant walk from the station."
+          }
+        },
+        {
+          "name": {
+            "de": "Türkischer Turm",
+            "hu": "Török torony",
+            "ro": "Turnul Turcesc",
+            "en": "Turkish Tower"
+          },
+          "coords": [
+            15.2365,
+            44.6095
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Folgen Sie der Beschilderung ab der Kirche.",
+            "hu": "Kövesse a jelzéseket a templomtól.",
+            "ro": "Urmați indicatoarele de la biserică.",
+            "en": "Follow the signs from the church."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen im Zentrum",
+            "hu": "Ebéd a központban",
+            "ro": "Prânz în centru",
+            "en": "Lunch in the Center"
+          },
+          "coords": [
+            15.234,
+            44.6075
+          ],
+          "category": "gastro",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Restaurants sind fußläufig erreichbar.",
+            "hu": "Az éttermek sétatávolságra vannak.",
+            "ro": "Restaurantele sunt la câțiva pași.",
+            "en": "Restaurants are within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Lika / Parkzeit",
+            "hu": "Lika-folyó / Pihenő",
+            "ro": "Râul Lika / Timp de relaxare",
+            "en": "Lika River / Park Time"
+          },
+          "coords": [
+            15.245,
+            44.605
+          ],
+          "category": "river",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannung vor der Abreise.",
+            "hu": "Kikapcsolódás indulás előtt.",
+            "ro": "Relaxare înainte de plecare.",
+            "en": "Relaxation before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Perušić ist einer der wenigen Orte in der Lika, der gut mit dem Zug erreichbar ist. Vom Bahnhof aus führt ein kurzer Spaziergang zu den wichtigsten Sehenswürdigkeiten: der Heilig-Kreuz-Kirche und dem Türkischen Turm. Ein Mittagessen im Zentrum und ein Abstecher zum Fluss Lika runden den Tag ab, bevor es mit der Bahn wieder zurückgeht. Eine stressfreie Art, das kroatische Hinterland zu besuchen.",
+        "hu": "Perušić azon kevés likai helyek egyike, amely vonattal is jól elérhető. Az állomástól rövid sétával elérhetők a főbb látnivalók: a Szent Kereszt templom és a Török torony. Egy központi ebéd és a Lika-folyó partján tett látogatás teszi teljessé a napot a vonatos hazaindulás előtt. Stresszmentes módja a horvát hátország felfedezésének.",
+        "ro": "Perušić este unul dintre puținele locuri din Lika care este bine accesibil cu trenul. De la gară, o scurtă plimbare duce la principalele atracții: Biserica Înălțarea Sfintei Cruci și Turnul Turcesc. Un prânz în centru și o vizită pe malul râului Lika completează ziua înainte de plecarea cu trenul. Un mod fără stres de a vizita hinterlandul croat.",
+        "en": "Perušić is one of the few places in Lika well-accessible by train. From the station, a short walk leads to the main sights: the Church of the Holy Cross and the Turkish Tower. A lunch in the center and a trip to the Lika River complete the day before heading back by rail. A stress-free way to visit the Croatian hinterland."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokalni Bistro",
+            "tip": "Hausgemachte Suppen und Eintöpfe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bisztró",
+            "tip": "Házias levesek és egytálételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro local",
+            "tip": "Supe și tocănițe de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Bistro",
+            "tip": "Homemade soups and stews."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "emoji": "🍃",
+            "name": "Bahnhofspark",
+            "tip": "Ruhiger Platz zum Warten."
+          }
+        ],
+        "hu": [
+          {
+            "emoji": "🍃",
+            "name": "Állomási park",
+            "tip": "Csendes hely a várakozáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "emoji": "🍃",
+            "name": "Parcul gării",
+            "tip": "Loc liniștit pentru așteptare."
+          }
+        ],
+        "en": [
+          {
+            "emoji": "🍃",
+            "name": "Station Park",
+            "tip": "Quiet place to wait."
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk Perušić",
+            "tip": "Lokale Souvenirkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perušić Kioszk",
+            "tip": "Helyi képeslapok és apróságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc Perušić",
+            "tip": "Cărți poștale locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk Perušić",
+            "tip": "Local postcards and small items."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan der kroatischen Bahn (HŽ) genau.",
+          "In Perušić ist fast alles zu Fuß vom Bahnhof erreichbar.",
+          "Taxis sind selten, reservieren Sie ggf. im Voraus für Grabovača."
+        ],
+        "hu": [
+          "Ellenőrizze pontosan a horvát vasút (HŽ) menetrendjét.",
+          "Perušićban szinte minden elérhető gyalog az állomástól.",
+          "A taxi ritka, Grabovačához érdemes előre foglalni."
+        ],
+        "ro": [
+          "Verificați cu atenție mersul trenurilor (HŽ).",
+          "În Perušić aproape totul este accesibil pe jos de la gară.",
+          "Taxiurile sunt rare, rezervați din timp pentru Grabovača."
+        ],
+        "en": [
+          "Check the Croatian Railways (HŽ) schedule carefully.",
+          "In Perušić, almost everything is accessible on foot from the station.",
+          "Taxis are rare; book in advance if planning to visit Grabovača."
+        ]
+      }
+    }
+  }
+}

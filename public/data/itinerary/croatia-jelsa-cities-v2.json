@@ -1,0 +1,974 @@
+{
+  "city_id": "croatia-jelsa-cities-v2",
+  "anchor": {
+    "name": "Jelsa",
+    "coords": [
+      16.7839,
+      43.1396
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.0,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Hafenpromenade (Riva)",
+          "coords": [
+            16.7839,
+            43.1396
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee am Wasser, während die Fischerboote einlaufen.",
+            "hu": "Igyon meg egy kávét a parton, miközben nézi a behajózó halászbárkákat.",
+            "ro": "Savurați o cafea lângă apă în timp ce bărcile de pescuit intră în port.",
+            "en": "Enjoy a coffee by the water as the fishing boats come into the harbor."
+          }
+        },
+        {
+          "name": "Perivoj",
+          "coords": [
+            16.7815,
+            43.1402
+          ],
+          "category": "garden",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Einer der größten und schönsten Parks in Dalmatien mit üppiger Vegetation.",
+            "hu": "Dalmácia egyik legnagyobb és legszebb parkja buja mediterrán növényzettel.",
+            "ro": "Unul dintre cele mai mari și frumoase parcuri din Dalmația, cu vegetație luxuriantă.",
+            "en": "One of the largest and most beautiful parks in Dalmatia with lush vegetation."
+          }
+        },
+        {
+          "name": "Trg svetog Ivana",
+          "coords": [
+            16.7842,
+            43.1388
+          ],
+          "category": "square",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein charmanter kleiner Platz mit Renaissance- und Barockelementen.",
+            "hu": "Bájos kis tér reneszánsz és barokk építészeti elemekkel.",
+            "ro": "O piață mică și fermecătoare cu elemente renascentiste și baroce.",
+            "en": "A charming small square featuring Renaissance and Baroque elements."
+          }
+        },
+        {
+          "name": "Crkva svete Marije",
+          "coords": [
+            16.7855,
+            43.1385
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine beeindruckende Wehrkirche, die im 16. Jahrhundert umgebaut wurde.",
+            "hu": "Lenyűgöző erődtemplom, amelyet a 16. században építettek át.",
+            "ro": "O biserică fortificată impresionantă, reconstruită în secolul al XVI-lea.",
+            "en": "An impressive fortified church, rebuilt in the 16th century."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            16.7865,
+            43.1392
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie lokalen Fisch mit hausgemachtem Olivenöl aus Hvar.",
+            "hu": "Kóstolja meg a helyi halételeket házi hvari olívaolajjal.",
+            "ro": "Gustați peștele local cu ulei de măsline de casă din Hvar.",
+            "en": "Try local fish with homemade Hvar olive oil."
+          }
+        },
+        {
+          "name": "Mina Strandpause",
+          "coords": [
+            16.795,
+            43.1375
+          ],
+          "category": "beach",
+          "arrive_at": "15:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein flacher Sandstrand, ideal für eine entspannte Pause im klaren Wasser.",
+            "hu": "Lassan mélyülő homokos strand, ideális egy pihentető fürdőzéshez.",
+            "ro": "O plajă cu nisip puțin adâncă, ideală pentru o pauză relaxantă în apă.",
+            "en": "A shallow sandy beach, ideal for a relaxing break in clear water."
+          }
+        },
+        {
+          "name": "Sonnenuntergang an der Riva",
+          "coords": [
+            16.7839,
+            43.1396
+          ],
+          "category": "sunset",
+          "arrive_at": "18:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie die Sonne hinter den Hügeln von Hvar untergeht.",
+            "hu": "Nézze végig, ahogy a nap eltűnik a hvari dombok mögött.",
+            "ro": "Urmăriți apusul soarelui în spatele dealurilor din Hvar.",
+            "en": "Watch the sun dip behind the Hvar hills."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt entspannt an der Riva von Jelsa, wo das mediterrane Flair sofort spürbar ist. Ein Spaziergang durch den Perivoj-Park bietet Schatten und Ruhe, bevor Sie die historischen Schätze wie den St.-Johannes-Platz und die beeindruckende Marienkirche erkunden. Der Nachmittag gehört dem Strand, gefolgt von einem authentischen Abendessen am Hafen.",
+        "hu": "A nap Jelsa hangulatos kikötőjében indul, ahol azonnal magával ragadja a mediterrán életérzés. A Perivoj park árnyas sétányai után felfedezzük a Szent János teret és az erődtemplomot. A délutánt a Mina-strandon töltjük mártózással, majd egy tengerparti vacsorával és naplementével zárjuk a napot.",
+        "ro": "Ziua începe relaxat pe faleza din Jelsa, unde atmosfera mediteraneană este imediat sesizabilă. O plimbare prin parcul Perivoj oferă umbră și liniște înainte de a explora comorile istorice, precum Piața Sfântul Ioan și biserica fortificată. După-amiaza este dedicată plajei, urmată de o cină autentică în port.",
+        "en": "The day starts peacefully on Jelsa's waterfront, where the Mediterranean vibe is instantly felt. A stroll through Perivoj park offers shade before exploring historical gems like St. John's Square and the fortified church. The afternoon is reserved for the beach, followed by an authentic harbor-side dinner at sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gregada",
+            "tip": "Traditioneller hvarer Eintopf aus Fisch und Kartoffeln."
+          },
+          {
+            "name": "Konoba Nono",
+            "tip": "Hervorragende Peka in rustikalem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gregada",
+            "tip": "Hagyományos hvari halragu burgonyával."
+          },
+          {
+            "name": "Konoba Nono",
+            "tip": "Kiváló peka (tűzálló tálban sült hús) rusztikus környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gregada",
+            "tip": "Tocăniță tradițională de pește și cartofi din Hvar."
+          },
+          {
+            "name": "Konoba Nono",
+            "tip": "Peka excelentă într-o ambianță rustică."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gregada",
+            "tip": "Traditional Hvar fish stew with potatoes."
+          },
+          {
+            "name": "Konoba Nono",
+            "tip": "Excellent 'peka' dishes in a rustic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Perivoj Park",
+            "tip": "Stiller Rückzugsort unter alten Bäumen.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "St. Johann Kapelle",
+            "tip": "Beschaulicher Ort abseits der Menge.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Perivoj park",
+            "tip": "Csendes menedék az öreg fák alatt.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Szent János kápolna",
+            "tip": "Nyugodt hely távol a tömegtől.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Perivoj",
+            "tip": "Refugiu liniștit sub copaci bătrâni.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "Capela Sf. Ioan",
+            "tip": "Loc liniștit departe de aglomerație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Perivoj Park",
+            "tip": "Quiet retreat under ancient trees.",
+            "emoji": "🌳"
+          },
+          {
+            "name": "St. John's Chapel",
+            "tip": "Peaceful spot away from the crowds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frisches Obst und lokales Olivenöl."
+          },
+          {
+            "name": "Lavendel-Stände",
+            "tip": "Handgemachte Lavendelbeutel aus Hvar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss gyümölcsök és helyi olívaolaj."
+          },
+          {
+            "name": "Levendula árusok",
+            "tip": "Kézműves hvari levendulazsákok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe proaspete și ulei de măsline local."
+          },
+          {
+            "name": "Standuri cu levănțică",
+            "tip": "Săculeți cu levănțică lucrați manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fresh fruit and local olive oil."
+          },
+          {
+            "name": "Lavender Stalls",
+            "tip": "Handmade lavender bags from Hvar."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster im Zentrum.",
+          "Die Mina-Bucht ist besonders windgeschützt und flach.",
+          "Probieren Sie den lokalen Weißwein Bogdanuša.",
+          "Besuchen Sie die Kirche am Vormittag für schönes Licht."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt az óváros macskaköves utcáihoz.",
+          "A Mina-öböl szélvédett és lassan mélyül.",
+          "Kóstolja meg a helyi Bogdanuša fehérbort.",
+          "A templomot délelőtt érdemes látogatni a fények miatt."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile pietruite din centru.",
+          "Golful Mina este protejat de vânt și are apă mică.",
+          "Gustați vinul alb local Bogdanuša.",
+          "Vizitați biserica dimineața pentru o lumină frumoasă."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets in the center.",
+          "Mina bay is well protected from wind and very shallow.",
+          "Try the local white wine called Bogdanuša.",
+          "Visit the church in the morning for the best light."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 24.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Jelsa Zentrum (Square/Church)",
+          "coords": [
+            16.7842,
+            43.1388
+          ],
+          "category": "city",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Hafen und erkunden Sie den Platz und die Marienkirche zu Fuß.",
+            "hu": "Parkoljon a kikötőben, és fedezze fel a teret és a templomot gyalog.",
+            "ro": "Parcați în port și explorați piața și biserica pe jos.",
+            "en": "Park at the harbor and explore the square and the church on foot."
+          }
+        },
+        {
+          "name": "Humac",
+          "coords": [
+            16.885,
+            43.132
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Ein fast verlassenes Steindorf aus dem 15. Jahrhundert mit Panoramablick.",
+            "hu": "Szinte elhagyatott 15. századi kőfalu panorámás kilátással.",
+            "ro": "Un sat de piatră din secolul al XV-lea, aproape abandonat, cu vedere panoramică.",
+            "en": "An almost abandoned 15th-century stone village with panoramic views."
+          }
+        },
+        {
+          "name": "Grapčeva špilja",
+          "coords": [
+            16.892,
+            43.125
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bedeutende prähistorische Fundstätte in einer faszinierenden Höhle.",
+            "hu": "Jelentős őskori leleteket rejtő barlang lenyűgöző cseppkövekkel.",
+            "ro": "Situl preistoric important situat într-o peșteră fascinantă.",
+            "en": "Significant prehistoric site located in a fascinating cave."
+          }
+        },
+        {
+          "name": "Mittagessen in Humac",
+          "coords": [
+            16.8855,
+            43.1325
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Authentische Agrotourismus-Küche in einem urigen Steinhaus.",
+            "hu": "Autentikus agroturizmus-konyha egy régi kőházban.",
+            "ro": "Bucătărie agroturistică autentică într-o casă de piatră veche.",
+            "en": "Authentic agritourism cuisine in a rustic stone house."
+          }
+        },
+        {
+          "name": "Mina Strand",
+          "coords": [
+            16.795,
+            43.1375
+          ],
+          "category": "beach",
+          "arrive_at": "16:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Kurzer Stopp zum Abkühlen im Meer nach der Besichtigungstour.",
+            "hu": "Gyors mártózás a tengerben a kirándulás után.",
+            "ro": "Oprire scurtă pentru răcorire în mare după turul de vizitare.",
+            "en": "Quick stop to cool off in the sea after the sightseeing tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden wir das Küstenflair von Jelsa mit der wilden Schönheit des Hinterlandes. Nach einem Vormittag in der Stadt fahren wir zum historischen Steindorf Humac und zur Grapčeva-Höhle, die einen Einblick in die prähistorische Zeit bietet. Ein spätes Mittagessen in Humac rundet das ländliche Erlebnis ab, bevor wir für ein Bad zurückkehren.",
+        "hu": "Autóval összekötjük Jelsa tengerparti hangulatát a belső területek vadregényes szépségével. A városi délelőtt után a 15. századi Humac kőfalujába és a Grapčeva-barlangba látogatunk, ahol őskori leleteket is találtak. Egy késői ebéd az agroturizmus keretében teszi teljessé az élményt a tengerparti visszatérés előtt.",
+        "ro": "Cu mașina conectăm farmecul de coastă al Jelsei cu frumusețea sălbatică a interiorului insulei. După o dimineață în oraș, mergem în satul istoric Humac și la peștera Grapčeva, care oferă o privire în epoca preistorică. Un prânz târziu în Humac completează experiența rurală înainte de a ne întoarce la mare.",
+        "en": "By car, we combine Jelsa's coastal vibe with the rugged beauty of the inland. After a morning in town, we drive to the historic stone village of Humac and Grapčeva Cave, offering a glimpse into prehistoric times. A late lunch in Humac completes the rural experience before returning for a quick swim."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Agroturizam Humac",
+            "tip": "Probieren Sie Lamm unter der Glocke (Peka)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Agroturizam Humac",
+            "tip": "Kóstolja meg a harang alatt sült bárányt (peka)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Agroturizam Humac",
+            "tip": "Gustați mielul la 'peka' (sub capac de fier)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Agroturizam Humac",
+            "tip": "Try the lamb prepared under the iron bell (peka)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Verlassenes Humac",
+            "tip": "Absolute Stille und weite Ausblicke auf die Adria.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Elhagyatott Humac",
+            "tip": "Abszolút csend és távoli kilátás az Adriára.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Satul Humac",
+            "tip": "Liniște absolută și vedere largă spre Adriatica.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Abandoned Humac",
+            "tip": "Absolute silence and wide views over the Adriatic.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Wein",
+            "tip": "Kaufen Sie Wein direkt bei den Produzenten in Humac."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi bor",
+            "tip": "Vásároljon bort közvetlenül a humaci termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de casă",
+            "tip": "Cumpărați vin direct de la producătorii din Humac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Wine",
+            "tip": "Buy wine directly from producers in Humac."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße nach Humac bietet tolle Fotopunkte.",
+          "Für die Grapčeva-Höhle ist festes Schuhwerk nötig.",
+          "Reservieren Sie das Essen in Humac vorab.",
+          "Achten Sie auf die schmalen Bergstraßen."
+        ],
+        "hu": [
+          "A Humac felé vezető út mentén több jó fotópont van.",
+          "A Grapčeva-barlang látogatásához zárt cipő szükséges.",
+          "Érdemes előre asztalt foglalni Humacban.",
+          "Vigyázzon a szűk hegyi utakon."
+        ],
+        "ro": [
+          "Drumul spre Humac oferă puncte foto deosebite.",
+          "Pentru peștera Grapčeva este nevoie de încălțăminte solidă.",
+          "Rezervați masa în Humac în prealabil.",
+          "Atenție la drumurile înguste de munte."
+        ],
+        "en": [
+          "The road to Humac offers great photo opportunities.",
+          "Sturdy footwear is required for Grapčeva Cave.",
+          "Book your meal in Humac in advance.",
+          "Be careful on the narrow mountain roads."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10.0,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 18.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Hafen Jelsa",
+          "coords": [
+            16.7839,
+            43.1396
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bereiten Sie sich am Hafen auf die Tour vor.",
+            "hu": "Készüljön fel a túrára a kikötőben.",
+            "ro": "Pregătiți-vă pentru tur în port.",
+            "en": "Get ready for the tour at the harbor."
+          }
+        },
+        {
+          "name": "Perivoj Park",
+          "coords": [
+            16.7815,
+            43.1402
+          ],
+          "category": "garden",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Radfahren durch die schattigen Alleen des Parks.",
+            "hu": "Kerékpározás a park árnyas sétányain.",
+            "ro": "Biciclat prin aleile umbrite ale parcului.",
+            "en": "Cycling through the shaded alleys of the park."
+          }
+        },
+        {
+          "name": "Humac Radtour",
+          "coords": [
+            16.885,
+            43.132
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Ein anstrengender, aber lohnender Anstieg zum alten Dorf.",
+            "hu": "Fárasztó, de megéri a kaptató az ódon faluig.",
+            "ro": "O urcare obositoare, dar care merită, până la satul vechi.",
+            "en": "A tiring but rewarding climb to the old village."
+          }
+        },
+        {
+          "name": "Lunch & Viewpoint",
+          "coords": [
+            16.8855,
+            43.1325
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erholung bei lokaler Kost mit Blick auf das Meer.",
+            "hu": "Pihenés helyi ételekkel és tengeri kilátással.",
+            "ro": "Odihnă cu mâncare locală și vedere la mare.",
+            "en": "Rest with local food and sea views."
+          }
+        },
+        {
+          "name": "Küstenweg zurück",
+          "coords": [
+            16.795,
+            43.1375
+          ],
+          "category": "beach",
+          "arrive_at": "16:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 8.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Abfahrt zurück zur Küste.",
+            "hu": "Élvezze a lejtőt visszafelé a tengerpartra.",
+            "ro": "Bucurați-vă de coborârea înapoi spre coastă.",
+            "en": "Enjoy the downhill ride back to the coast."
+          }
+        },
+        {
+          "name": "Jelsa Riva",
+          "coords": [
+            16.7839,
+            43.1396
+          ],
+          "category": "sunset",
+          "arrive_at": "18:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ausklang der Tour im belebten Hafen.",
+            "hu": "A túra lezárása a nyüzsgő kikötőben.",
+            "ro": "Finalul turului în portul plin de viață.",
+            "en": "Ending the tour in the lively harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt uns von der Küste in das authentische Hinterland von Hvar. Wir starten im Perivoj-Park und erklimmen dann die Hügel bis zum Steindorf Humac. Die Belohnung ist ein atemberaubender Blick auf die Adria und die Nachbarinseln. Nach einer Stärkung geht es bergab zurück nach Jelsa zu einer wohlverdienten Pause am Strand.",
+        "hu": "Ez a kerékpártúra a parttól a hvari hátország autentikus vidékére vezet. A Perivoj parktól indulunk, majd felkapaszkodunk a dombokon Humac kőfalujáig. A jutalom a lélegzetelállító kilátás az Adriára és a szomszédos szigetekre. Egy kiadós ebéd után legurulunk Jelsába, és a napot a strandon zárjuk.",
+        "ro": "Acest tur cu bicicleta ne duce de la coastă în interiorul autentic al insulei Hvar. Pornim din parcul Perivoj și apoi urcăm dealurile până la satul de piatră Humac. Răsplata este o vedere uluitoare asupra Adriaticii și a insulelor vecine. După o masă copioasă, coborâm înapoi în Jelsa pentru o pauză binemeritată la plajă.",
+        "en": "This bike tour takes us from the coast to the authentic inland of Hvar. We start at Perivoj park and then climb the hills to the stone village of Humac. The reward is a breathtaking view of the Adriatic and neighboring islands. After a hearty lunch, we head back down to Jelsa for a well-deserved beach break."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käse",
+            "tip": "Probieren Sie den Ziegenkäse in Öl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajt",
+            "tip": "Kóstolja meg az olajban tárolt kecskesajtot."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză locală",
+            "tip": "Gustați brânza de capră în ulei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese",
+            "tip": "Try the goat cheese stored in oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Höhenstraße",
+            "tip": "Panoramablicke ohne Verkehr.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hegyi út",
+            "tip": "Panorámás kilátás forgalom nélkül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul de pe creastă",
+            "tip": "Vederi panoramice fără trafic.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "High Road",
+            "tip": "Panoramic views with no traffic.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl",
+            "tip": "Frisch gepresstes Öl aus den Hainen um Humac."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj",
+            "tip": "Frissen préselt olaj a Humac környéki ligetekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline",
+            "tip": "Ulei proaspăt presat din livezile din jurul Humac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil",
+            "tip": "Freshly pressed oil from groves around Humac."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ausreichend Wasser für den Anstieg mit.",
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+          "Ein E-Bike macht die Tour deutlich entspannter.",
+          "Meiden Sie die Mittagshitze auf der Straße."
+        ],
+        "hu": [
+          "Vigyen magával elég vizet a kapaszkodóhoz.",
+          "Ellenőrizze a fékeket a lejtő előtt.",
+          "Az e-bike sokkal könnyebbé teszi ezt a túrát.",
+          "Kerülje a déli hőséget az utakon."
+        ],
+        "ro": [
+          "Luați suficientă apă pentru urcare.",
+          "Verificați frânele înainte de coborâre.",
+          "O bicicletă electrică face turul mult mai relaxant.",
+          "Evitați căldura de la amiază pe drum."
+        ],
+        "en": [
+          "Take plenty of water for the climb.",
+          "Check your brakes before the downhill section.",
+          "An e-bike makes this tour much more relaxed.",
+          "Avoid the midday heat on the road."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Busbahnhof Jelsa",
+          "coords": [
+            16.783,
+            43.139
+          ],
+          "category": "port",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für Busse aus Hvar und Stari Grad.",
+            "hu": "Központi érkezési pont a Hvarból és Stari Gradból érkező buszoknak.",
+            "ro": "Punct central de sosire pentru autobuzele din Hvar și Stari Grad.",
+            "en": "Central arrival point for buses from Hvar and Stari Grad."
+          }
+        },
+        {
+          "name": "Historischer Cluster",
+          "coords": [
+            16.7845,
+            43.1388
+          ],
+          "category": "city",
+          "arrive_at": "10:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie den St. Johann Platz und die Marienkirche zu Fuß.",
+            "hu": "Látogasson el a Szent János térre és az erődtemplomhoz gyalog.",
+            "ro": "Vizitați Piața Sf. Ioan și biserica fortificată pe jos.",
+            "en": "Visit St. John's Square and the fortified church on foot."
+          }
+        },
+        {
+          "name": "Perivoj & Riva",
+          "coords": [
+            16.7815,
+            43.1402
+          ],
+          "category": "garden",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang durch den Park zum Hafen.",
+            "hu": "Pihentető séta a parkon át a kikötőig.",
+            "ro": "O plimbare relaxantă prin parc până în port.",
+            "en": "A relaxed walk through the park to the harbor."
+          }
+        },
+        {
+          "name": "Konoba Mittagessen",
+          "coords": [
+            16.7865,
+            43.1392
+          ],
+          "category": "gastro",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie dalmatinische Spezialitäten in der Altstadt.",
+            "hu": "Élvezze a dalmát specialitásokat az óvárosban.",
+            "ro": "Savurați specialități dalmate în orașul vechi.",
+            "en": "Enjoy Dalmatian specialties in the old town."
+          }
+        },
+        {
+          "name": "Mina Bucht (Lokalbus)",
+          "coords": [
+            16.795,
+            43.1375
+          ],
+          "category": "beach",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Transfer oder Spaziergang zum beliebtesten Strand.",
+            "hu": "Rövid transzfer vagy séta a legnépszerűbb strandhoz.",
+            "ro": "Un transfer scurt sau o plimbare spre cea mai populară plajă.",
+            "en": "A short transfer or walk to the most popular beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den öffentlichen Bussen ist Jelsa hervorragend erreichbar. Wir erkunden die Stadt in Clustern: erst das historische Zentrum mit seinen Kirchen und Plätzen, dann den weitläufigen Park. Den Nachmittag verbringen wir in der Mina-Bucht, bevor der Bus uns wieder zurück zu anderen Teilen der Insel bringt.",
+        "hu": "Jelsa kiválóan elérhető menetrend szerinti buszokkal. A várost csoportosítva fedezzük fel: először a történelmi központot a templomokkal és terekkel, majd a tágas parkot. A délutánt a Mina-öbölben töltjük, mielőtt a busz visszavinne a sziget más részeire.",
+        "ro": "Jelsa este ușor accesibilă cu autobuzele publice. Explorăm orașul pe zone: mai întâi centrul istoric cu bisericile și piețele sale, apoi parcul spațios. Petrecem după-amiaza în golful Mina, înainte ca autobuzul să ne ducă înapoi spre alte părți ale insulei.",
+        "en": "Jelsa is easily accessible by public buses. We explore the town in clusters: first the historic center with its churches and squares, then the expansive park. We spend the afternoon at Mina Bay before taking the bus back to other parts of the island."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eisdiele an der Riva",
+            "tip": "Bestes Eis der Stadt direkt am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fagyizó a parton",
+            "tip": "A város legjobb fagyija közvetlenül a víznél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gelaterie pe faleză",
+            "tip": "Cea mai bună înghețată din oraș chiar lângă apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ice Cream Parlor",
+            "tip": "Best ice cream in town right by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Parkbänke im Perivoj",
+            "tip": "Ideal zum Lesen im Schatten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Padok a Perivoj parkban",
+            "tip": "Ideális olvasáshoz az árnyékban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bănci în Perivoj",
+            "tip": "Ideal pentru citit la umbră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park Benches",
+            "tip": "Ideal for reading in the shade.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop im Zentrum",
+            "tip": "Hvarer Wein und Honig zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Souvenir bolt",
+            "tip": "Hvari bor és méz elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri",
+            "tip": "Vin și miere din Hvar de luat acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shop",
+            "tip": "Hvar wine and honey to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den aktuellen Busfahrplan online.",
+          "Tickets können meist direkt beim Fahrer gekauft werden.",
+          "Der Busbahnhof liegt nur wenige Gehminuten vom Zentrum entfernt.",
+          "In der Hochsaison können Busse voll sein."
+        ],
+        "hu": [
+          "Ellenőrizze az aktuális buszmenetrendet online.",
+          "A jegyeket általában a buszvezetőnél lehet megvenni.",
+          "A buszmegálló pár perc sétára van a központtól.",
+          "Főszezonban a buszok zsúfoltak lehetnek."
+        ],
+        "ro": [
+          "Verificați orarul actualizat al autobuzelor online.",
+          "Biletele pot fi cumpărate de obicei direct de la șofer.",
+          "Stația de autobuz este la doar câteva minute de mers pe jos de centru.",
+          "În plin sezon, autobuzele pot fi aglomerate."
+        ],
+        "en": [
+          "Check the current bus schedule online.",
+          "Tickets can usually be bought directly from the driver.",
+          "The bus station is just a few minutes' walk from the center.",
+          "Buses can be crowded during high season."
+        ]
+      }
+    }
+  }
+}

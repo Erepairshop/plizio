@@ -1,0 +1,978 @@
+{
+  "city_id": "croatia-kastel-kambelovac-cities-v2",
+  "anchor": {
+    "name": "Kaštel Kambelovac",
+    "coords": [
+      43.55,
+      16.383
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Uferpromenade (Riva)",
+          "coords": [
+            43.548,
+            16.383
+          ],
+          "category": "harbor",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Morgenkaffee direkt am Wasser.",
+            "hu": "Igyon egy reggeli kávét közvetlenül a vízparton.",
+            "ro": "Savurați o cafea de dimineață chiar pe malul mării.",
+            "en": "Enjoy a morning coffee right by the water."
+          }
+        },
+        {
+          "name": "Kula Cambi",
+          "coords": [
+            43.5485,
+            16.384
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein zylindrischer Turm aus dem 15. Jahrhundert.",
+            "hu": "Egy 15. századi hengeres torony a nemesi családtól.",
+            "ro": "Un turn cilindric din secolul al XV-lea.",
+            "en": "A 15th-century cylindrical tower from the noble family."
+          }
+        },
+        {
+          "name": "Crkva sv. Mihovila",
+          "coords": [
+            43.549,
+            16.385
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Barocke Pfarrkirche im alten Ortskern.",
+            "hu": "Barokk plébániatemplom az óváros központjában.",
+            "ro": "Biserică parohială barocă în centrul vechi.",
+            "en": "Baroque parish church in the old town center."
+          }
+        },
+        {
+          "name": "Baletna škola",
+          "coords": [
+            43.548,
+            16.386
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Berühmtes Gebäude am Meer, heute ein Restaurant.",
+            "hu": "Híres épület a parton, ma étteremként üzemel.",
+            "ro": "Clădire celebră pe malul mării, astăzi restaurant.",
+            "en": "Famous seaside building, now operating as a restaurant."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            43.5482,
+            16.385
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch oder Peka.",
+            "hu": "Kóstoljon friss halat vagy sült húst (peka).",
+            "ro": "Încercați peștele proaspăt sau friptura peka.",
+            "en": "Try fresh fish or meat prepared under the lid (peka)."
+          }
+        },
+        {
+          "name": "Strandpause",
+          "coords": [
+            43.547,
+            16.388
+          ],
+          "category": "beach",
+          "arrive_at": "14:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Kiesstrand mit sauberem, flachem Wasser.",
+            "hu": "Kavicsos strand tiszta, sekély vízzel.",
+            "ro": "Plajă cu pietriș și apă curată, puțin adâncă.",
+            "en": "Pebble beach with clear, shallow water."
+          }
+        },
+        {
+          "name": "Hafen-Sonnenuntergang",
+          "coords": [
+            43.5475,
+            16.382
+          ],
+          "category": "sunset",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote bei Dämmerung.",
+            "hu": "Nézze a halászhajókat a szürkületben.",
+            "ro": "Urmăriți bărcile de pescuit la amurg.",
+            "en": "Watch the fishing boats at dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Tag in einem der sieben Kaštela. Der Vormittag gehört der Geschichte mit dem Cambi-Turm und der alten Kirche. Mittags genießen Sie dalmatinische Küche direkt an der Küste bei der alten Ballettschule. Den Nachmittag verbringen Sie am Kiesstrand, bevor der Tag am malerischen Hafen endet.",
+        "hu": "Pihentető nap a hét Kaštela egyikében. A délelőtt a történelemé: a Cambi-torony és a régi plébániatemplom felfedezése után a Balettiskola ikonikus épületénél sétálunk. Ebédre egy helyi konobát választunk, délután pedig a tengerparti strandolásé a főszerep, amit a kikötői naplemente zár le.",
+        "ro": "O zi relaxantă în unul dintre cele șapte Kaštela. Dimineața este dedicată istoriei, cu Turnul Cambi și vechea biserică. La prânz, savurați bucătăria dalmată pe malul mării lângă Școala de Balet. După-amiaza este rezervată plajei, înainte ca ziua să se încheie în portul pitoresc.",
+        "en": "A relaxing day in one of the seven Kaštela. The morning is dedicated to history, visiting the Cambi tower and the old parish church. At noon, enjoy Dalmatian cuisine on the coast near the iconic Ballet School. Spend the afternoon at the pebble beach before ending the day at the picturesque harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Baletna Škola",
+            "tip": "Bekannt für Meeresfrüchte und die Lage am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Baletna Škola étterem",
+            "tip": "Híres a tengeri ételeiről és a közvetlen vízparti elhelyezkedéséről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Baletna Škola",
+            "tip": "Cunoscut pentru fructele de mare și locația pe malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Baletna Škola",
+            "tip": "Famous for seafood and its direct seaside location."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kleiner Hafen von Kambelovac",
+            "tip": "Ruhiger Ort für den Ausklang des Tages.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kambelovac kis kikötője",
+            "tip": "Csendes hely a nap lezárásához.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Portul mic din Kambelovac",
+            "tip": "Loc liniștit pentru sfârșitul zilei.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Small harbor of Kambelovac",
+            "tip": "Quiet spot for ending the day.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Weinverkauf",
+            "tip": "Suchen Sie nach Crljenak Kaštelanski."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borértékesítés",
+            "tip": "Keresse a Crljenak Kaštelanski fajtát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare locală de vinuri",
+            "tip": "Căutați soiul Crljenak Kaštelanski."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local wine shops",
+            "tip": "Look for the Crljenak Kaštelanski variety."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Riva verbindet mehrere Kaštela, ideal für längere Spaziergänge.",
+          "Tragen Sie am Strand Badeschuhe wegen der Kieselsteine.",
+          "Besuchen Sie die Kirche am Vormittag, da sie mittags oft geschlossen ist."
+        ],
+        "hu": [
+          "A partmenti sétány több Kaštelát is összeköt, ideális hosszú sétákhoz.",
+          "A strandon ajánlott az úszócipő a kavicsok miatt.",
+          "A templomot délelőtt érdemes látogatni, délben gyakran zárva van."
+        ],
+        "ro": [
+          "Faleza leagă mai multe localități Kaštela, ideală pentru plimbări lungi.",
+          "Purtați încălțăminte de apă la plajă din cauza pietrișului.",
+          "Vizitați biserica dimineața, deoarece la prânz este adesea închisă."
+        ],
+        "en": [
+          "The waterfront promenade connects several Kaštela, ideal for long walks.",
+          "Wear water shoes at the beach due to the pebbles.",
+          "Visit the church in the morning as it is often closed at noon."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Kula Cambi",
+          "coords": [
+            43.5485,
+            16.384
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt am historischen Wehrturm.",
+            "hu": "Kiindulópont a történelmi vártoronynál.",
+            "ro": "Punct de plecare la turnul istoric de apărare.",
+            "en": "Starting point at the historical defense tower."
+          }
+        },
+        {
+          "name": "Crkva sv. Mihovila",
+          "coords": [
+            43.549,
+            16.385
+          ],
+          "category": "religious",
+          "arrive_at": "09:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Halt im Zentrum.",
+            "hu": "Rövid megálló a központban.",
+            "ro": "Oprire scurtă în centru.",
+            "en": "Short stop in the center."
+          }
+        },
+        {
+          "name": "Auffahrt zum Kozjak",
+          "coords": [
+            43.56,
+            16.385
+          ],
+          "category": "mountain",
+          "arrive_at": "10:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, bereiten Sie sich auf Anstrengung vor.",
+            "hu": "Meredek emelkedő, készüljön fel a kaptatóra.",
+            "ro": "Urcare abruptă, pregătiți-vă pentru efort.",
+            "en": "Steep climb, prepare for some exertion."
+          }
+        },
+        {
+          "name": "Kozjak - vrh Koludar",
+          "coords": [
+            43.57,
+            16.385
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Panoramablick auf die Bucht von Kastela und Split.",
+            "hu": "Panoráma a Kaštelai-öbölre és Splitre.",
+            "ro": "Vedere panoramică asupra golfului Kastela și Split.",
+            "en": "Panoramic view of the Kastela Bay and Split."
+          }
+        },
+        {
+          "name": "Abfahrt & Baletna škola",
+          "coords": [
+            43.548,
+            16.386
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Verdientes Mittagessen nach der Bergfahrt.",
+            "hu": "Megérdemelt ebéd a hegyi menet után.",
+            "ro": "Prânz meritat după urcarea pe munte.",
+            "en": "Well-deserved lunch after the mountain ride."
+          }
+        },
+        {
+          "name": "Strand von Kambelovac",
+          "coords": [
+            43.547,
+            16.388
+          ],
+          "category": "beach",
+          "arrive_at": "14:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Abkühlung im Meer zum Abschluss.",
+            "hu": "Hűsölés a tengerben a nap végén.",
+            "ro": "Răcorire în mare la final.",
+            "en": "Cool down in the sea at the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Route kombiniert Küstenflair mit einer sportlichen Herausforderung. Nach der Besichtigung der Türme im Ort geht es hinauf auf das Kozjak-Gebirge zum Gipfel Koludar. Die Belohnung ist ein weiter Blick über die Adria. Den Nachmittag verbringen Sie entspannt am Meer.",
+        "hu": "Ez az útvonal ötvözi a tengerparti hangulatot a sportos kihívással. A település tornyainak megtekintése után feltekerünk a Kozjak-hegységbe a Koludar csúcsig. A jutalom a lenyűgöző kilátás az Adriára, majd délutáni pihenés a vízparton.",
+        "ro": "Această rută combină atmosfera de coastă cu o provocare sportivă. După vizitarea turnurilor din localitate, urcăm pe muntele Kozjak până la vârful Koludar. Recompensa este o vedere largă asupra Adriaticii, urmată de o după-amiază relaxantă la mare.",
+        "en": "This route combines coastal flair with a sporty challenge. After visiting the towers in town, cycle up the Kozjak mountain to the Koludar peak. The reward is a vast view over the Adriatic, followed by a relaxed afternoon by the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Intrada",
+            "tip": "Hausgemachte Pasta und lokale Fleischgerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Intrada",
+            "tip": "Házias tészták és helyi húsételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Intrada",
+            "tip": "Paste de casă și preparate locale din carne."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Intrada",
+            "tip": "Homemade pasta and local meat dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfel Koludar",
+            "tip": "Absolute Stille und weite Sicht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Koludar-csúcs",
+            "tip": "Teljes csend és végtelen panoráma.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Koludar",
+            "tip": "Liniște absolută și vedere largă.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Koludar Peak",
+            "tip": "Absolute silence and wide vistas.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrradverleih Kastela",
+            "tip": "In der Nähe der Hauptstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kastela kerékpárkölcsönző",
+            "tip": "A főút közelében található."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Închiriere biciclete Kastela",
+            "tip": "Aproape de drumul principal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kastela Bike Rental",
+            "tip": "Located near the main road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Kozjak.",
+          "Nehmen Sie ausreichend Wasser für den Aufstieg mit.",
+          "Die Bergstraße ist asphaltiert, aber schmal."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a Kozjakról való leereszkedés előtt.",
+          "Vigyen elegendő vizet az emelkedőhöz.",
+          "A hegyi út aszfaltozott, de keskeny."
+        ],
+        "ro": [
+          "Verificați frânele înainte de coborârea de pe Kozjak.",
+          "Luați suficientă apă pentru urcare.",
+          "Drumul montan este asfaltat, dar îngust."
+        ],
+        "en": [
+          "Check your brakes before descending from Kozjak.",
+          "Take plenty of water for the climb.",
+          "The mountain road is paved but narrow."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 14.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Altstadt Kambelovac (Cluster 1)",
+          "coords": [
+            43.5485,
+            16.384
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie nahe der Riva.",
+            "hu": "Parkoljon a Riva közelében.",
+            "ro": "Parcați aproape de Riva.",
+            "en": "Park near the Riva."
+          }
+        },
+        {
+          "name": "Kula Cambi",
+          "coords": [
+            43.5485,
+            16.384
+          ],
+          "category": "historical",
+          "arrive_at": "09:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Parkplatz.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Accessible on foot from the parking area."
+          }
+        },
+        {
+          "name": "Crkva sv. Mihovila",
+          "coords": [
+            43.549,
+            16.385
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zentraler Platz im historischen Viertel.",
+            "hu": "Központi tér a történelmi negyedben.",
+            "ro": "Piața centrală din cartierul istoric.",
+            "en": "Central square in the historic district."
+          }
+        },
+        {
+          "name": "Kozjak Aussichtspunkt (Cluster 2)",
+          "coords": [
+            43.565,
+            16.385
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahrt auf den Berg für Panoramafotos.",
+            "hu": "Autózás a hegyre panorámafotókért.",
+            "ro": "Drum cu mașina pe munte pentru fotografii panoramice.",
+            "en": "Drive up the mountain for panoramic photos."
+          }
+        },
+        {
+          "name": "Kozjak - vrh Koludar",
+          "coords": [
+            43.57,
+            16.385
+          ],
+          "category": "mountain",
+          "arrive_at": "11:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurze Wanderung vom Parkplatz zum Gipfel.",
+            "hu": "Rövid túra a parkolótól a csúcsig.",
+            "ro": "Scurtă drumeție de la parcare la vârf.",
+            "en": "Short hike from the parking lot to the summit."
+          }
+        },
+        {
+          "name": "Baletna škola (Cluster 3)",
+          "coords": [
+            43.548,
+            16.386
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Mittagessen mit Meerblick.",
+            "hu": "Ebéd kilátással a tengerre.",
+            "ro": "Prânz cu vedere la mare.",
+            "en": "Lunch with a sea view."
+          }
+        },
+        {
+          "name": "Strand von Kambelovac",
+          "coords": [
+            43.547,
+            16.388
+          ],
+          "category": "beach",
+          "arrive_at": "14:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannung am Nachmittag.",
+            "hu": "Délutáni pihenés.",
+            "ro": "Relaxare după-amiaza.",
+            "en": "Afternoon relaxation."
+          }
+        },
+        {
+          "name": "Hafen-Spaziergang",
+          "coords": [
+            43.5475,
+            16.382
+          ],
+          "category": "harbor",
+          "arrive_at": "16:20",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Ausklang vor der Abfahrt.",
+            "hu": "Rövid levezetés indulás előtt.",
+            "ro": "Scurtă relaxare înainte de plecare.",
+            "en": "Short stroll before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie sowohl den historischen Kern als auch das Hochland. Der Tag beginnt im Dorfzentrum, führt dann hinauf auf den Berg Kozjak für spektakuläre Ausblicke und endet mit einem exzellenten Mittagessen und Strandzeit an der Küste.",
+        "hu": "Autóval a történelmi központot és a hegységet is bejárhatjuk. A nap a faluközpontban indul, majd felautózunk a Kozjak-hegyre a látványos kilátásért, végül egy kiváló ebéddel és tengerparti pihenéssel zárjuk a programot.",
+        "ro": "Cu mașina puteți explora atât centrul istoric, cât și zona montană. Ziua începe în centrul satului, continuă cu o urcare pe muntele Kozjak pentru vederi spectaculoase și se încheie cu un prânz excelent și relaxare pe plajă.",
+        "en": "By car, you can explore both the historical core and the highlands. The day starts in the village center, leads up to Mount Kozjak for spectacular views, and ends with an excellent lunch and beach time on the coast."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Odmor",
+            "tip": "Typische dalmatinische Gerichte in gemütlicher Atmosphäre."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Odmor",
+            "tip": "Tipikus dalmát ételek hangulatos környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Odmor",
+            "tip": "Preparate dalmate tipice într-o atmosferă primitoare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Odmor",
+            "tip": "Typical Dalmatian dishes in a cozy atmosphere."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Berg Kozjak",
+            "tip": "Abseits der Touristenmassen an der Küste.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kozjak-hegy",
+            "tip": "Távol a tengerparti turistaáradattól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muntele Kozjak",
+            "tip": "Departe de mulțimile de turiști de pe coastă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mount Kozjak",
+            "tip": "Away from the tourist crowds on the coast.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermarkt am Ortseingang",
+            "tip": "Für Getränke und Picknickbedarf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarket a falu szélén",
+            "tip": "Italok és piknik kellékek beszerzéséhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket la intrarea în sat",
+            "tip": "Pentru băuturi și produse de picnic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarket at the village entrance",
+            "tip": "For drinks and picnic supplies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Parkplätze an der Riva sind in der Hochsaison schnell belegt.",
+          "Die Straße zum Kozjak ist kurvenreich.",
+          "Kombinieren Sie den Besuch mit anderen Kaštela-Dörfern."
+        ],
+        "hu": [
+          "A Riva parkolói főszezonban gyorsan megtelnek.",
+          "A Kozjakra vezető út kanyargós.",
+          "Érdemes összekötni a látogatást a szomszédos Kaštela falvakkal."
+        ],
+        "ro": [
+          "Parcările de pe Riva se ocupă rapid în plin sezon.",
+          "Drumul spre Kozjak este sinuos.",
+          "Combinați vizita cu alte sate din Kaštela."
+        ],
+        "en": [
+          "Parking spots at the Riva fill up quickly in peak season.",
+          "The road to Kozjak is winding.",
+          "Combine the visit with other Kaštela villages."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bushaltestelle Kambelovac (Küste)",
+          "coords": [
+            43.551,
+            16.383
+          ],
+          "category": "transit",
+          "arrive_at": "09:00",
+          "stay_min": 10,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Linie 37 verbindet Split und Trogir.",
+            "hu": "A 37-es buszjárat Split és Trogir között közlekedik.",
+            "ro": "Linia 37 face legătura între Split și Trogir.",
+            "en": "Bus line 37 connects Split and Trogir."
+          }
+        },
+        {
+          "name": "Kula Cambi (Cluster 1)",
+          "coords": [
+            43.5485,
+            16.384
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Haltestelle zur Riva.",
+            "hu": "Rövid séta a megállótól a vízig.",
+            "ro": "Scurtă plimbare de la stație la malul mării.",
+            "en": "Short walk from the bus stop to the waterfront."
+          }
+        },
+        {
+          "name": "Crkva sv. Mihovila",
+          "coords": [
+            43.549,
+            16.385
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Das Herz des alten Dorfes.",
+            "hu": "A régi falu szíve.",
+            "ro": "Inima vechiului sat.",
+            "en": "The heart of the old village."
+          }
+        },
+        {
+          "name": "Baletna škola (Cluster 2)",
+          "coords": [
+            43.548,
+            16.386
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wahrzeichen direkt am Gehweg an der Küste.",
+            "hu": "Jellegzetes épület közvetlenül a parti sétányon.",
+            "ro": "Clădire emblematică chiar pe faleza pietonală.",
+            "en": "Landmark building right on the coastal walkway."
+          }
+        },
+        {
+          "name": "Mittagessen & Strand (Cluster 2)",
+          "coords": [
+            43.547,
+            16.388
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kombinieren Sie Essen und Baden.",
+            "hu": "Ebéd és fürdőzés egy helyen.",
+            "ro": "Combinați masa cu o baie în mare.",
+            "en": "Combine dining and swimming."
+          }
+        },
+        {
+          "name": "Riva Spaziergang zur Haltestelle",
+          "coords": [
+            43.5475,
+            16.382
+          ],
+          "category": "harbor",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ruhiger Rückweg entlang der Boote.",
+            "hu": "Csendes visszavezető út a hajók mentén.",
+            "ro": "Drum de întoarcere liniștit pe lângă bărci.",
+            "en": "Quiet walk back along the boats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ideal für Reisende ohne Auto: Mit der Buslinie 37 erreichen Sie Kambelovac bequem. Der Rundgang konzentriert sich auf die historische Küstenlinie, den markanten Turm und die Ballettschule, gefolgt von ausgiebiger Zeit am Strand und in lokalen Restaurants.",
+        "hu": "Ideális autó nélküli utazóknak: a 37-es busszal könnyen elérhető Kambelovac. A séta a történelmi partvonalra, a jellegzetes toronyra és a Balettiskolára koncentrál, amit kiadós strandolás és helyi gasztronómiai élmények követnek.",
+        "ro": "Ideal pentru călătorii fără mașină: cu linia de autobuz 37 puteți ajunge ușor în Kambelovac. Turul se concentrează pe faleza istorică, turnul marcant și Școala de Balet, urmate de timp generos la plajă și în restaurantele locale.",
+        "en": "Ideal for travelers without a car: bus line 37 makes Kambelovac easily accessible. the walk focuses on the historical coastline, the striking tower, and the Ballet School, followed by plenty of time at the beach and in local restaurants."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Laguna",
+            "tip": "Gute Pizza und Pasta in Strandnähe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria Laguna",
+            "tip": "Jó pizza és tészta a strand közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Laguna",
+            "tip": "Pizza și paste bune aproape de plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Laguna",
+            "tip": "Good pizza and pasta near the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Schatten unter den Pinien",
+            "tip": "Suchen Sie sich einen Platz abseits der Cafés.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Árnyék a fenyők alatt",
+            "tip": "Keressen egy helyet távol a kávézóktól.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Umbră sub pini",
+            "tip": "Căutați un loc departe de cafenele.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Shadow under the pines",
+            "tip": "Find a spot away from the cafes.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Kiosk",
+            "tip": "Kaufen Sie hier Ihre Busfahrkarten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi újságos",
+            "tip": "Itt vásárolhatja meg a buszjegyeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc local",
+            "tip": "Cumpărați biletele de autobuz de aici."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local kiosk",
+            "tip": "Buy your bus tickets here."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten können beim Fahrer oder am Kiosk gekauft werden.",
+          "Der Bus 37 fährt alle 20-30 Minuten.",
+          "Die Haltestellen sind gut beschildert."
+        ],
+        "hu": [
+          "Jegyet a sofőrnél vagy az újságosnál is vehet.",
+          "A 37-es busz 20-30 percenként közlekedik.",
+          "A megállók jól ki vannak táblázva."
+        ],
+        "ro": [
+          "Biletele pot fi cumpărate de la șofer sau de la chioșc.",
+          "Autobuzul 37 circulă la fiecare 20-30 de minute.",
+          "Stațiile sunt bine semnalizate."
+        ],
+        "en": [
+          "Tickets can be bought from the driver or at the kiosk.",
+          "Bus 37 runs every 20-30 minutes.",
+          "The bus stops are well-marked."
+        ]
+      }
+    }
+  }
+}

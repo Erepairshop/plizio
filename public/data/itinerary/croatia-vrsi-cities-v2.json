@@ -1,0 +1,1000 @@
+{
+  "city_id": "croatia-vrsi-cities-v2",
+  "anchor": {
+    "name": "Vrsi",
+    "coords": [
+      15.2333,
+      44.2625
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4.0,
+      "start": "09:00",
+      "end_estimate": "19:40",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Kaffee & Frühstück im Dorf / Kávé és reggeli a faluban",
+          "coords": [
+            15.234,
+            44.263
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen starken Espresso mit den Einheimischen im alten Dorfzentrum.",
+            "hu": "Élvezze az erős eszpresszót a helyiekkel a régi falu központjában.",
+            "ro": "Savurați un espresso tare alături de localnici în centrul vechi al satului.",
+            "en": "Enjoy a strong espresso with the locals in the old village center."
+          }
+        },
+        {
+          "name": "Crkva sv. Jakova",
+          "coords": [
+            15.235,
+            44.262
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese kleine Steinkirche ist ein friedlicher Ort für einen kurzen Moment der Stille.",
+            "hu": "Ez a kis kőtemplom békés hely egy rövid csendes pillanathoz.",
+            "ro": "Această mică biserică de piatră este un loc liniștit pentru un moment de reculegere.",
+            "en": "This small stone church is a peaceful spot for a short moment of silence."
+          }
+        },
+        {
+          "name": "Crkva sv. Anselma",
+          "coords": [
+            15.233,
+            44.261
+          ],
+          "category": "religious",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einfache dalmatinische Architektur dieser historischen Kirche.",
+            "hu": "Csodálja meg e történelmi templom egyszerű dalmát építészetét.",
+            "ro": "Admirați arhitectura dalmată simplă a acestei biserici istorice.",
+            "en": "Admire the simple Dalmatian architecture of this historic church."
+          }
+        },
+        {
+          "name": "Vrsi-Mulo (Hafenpromenade)",
+          "coords": [
+            15.221,
+            44.272
+          ],
+          "category": "harbor",
+          "arrive_at": "12:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie am Pier entlang und beobachten Sie die Fischerboote.",
+            "hu": "Sétáljon végig a mólón és nézze a halászhajókat.",
+            "ro": "Plimbați-vă pe dig și observați bărcile pescărești.",
+            "en": "Stroll along the pier and watch the fishing boats."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba / Ebéd egy konobában",
+          "coords": [
+            15.22,
+            44.273
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie fangfrischen Fisch oder hausgemachten dalmatinischen Schinken.",
+            "hu": "Kóstolja meg a frissen fogott halat vagy a házi dalmát sonkát.",
+            "ro": "Încercați peștele proaspăt prins sau șunca dalmată de casă.",
+            "en": "Try freshly caught fish or homemade Dalmatian prosciutto."
+          }
+        },
+        {
+          "name": "Plaža Ricina",
+          "coords": [
+            15.241,
+            44.271
+          ],
+          "category": "beach",
+          "arrive_at": "15:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein idealer Strand für Familien mit kristallklarem Wasser und feinem Kies.",
+            "hu": "Ideális strand családoknak, kristálytiszta vízzel és finom kaviccsal.",
+            "ro": "O plajă ideală pentru familii, cu apă cristalină și pietriș fin.",
+            "en": "An ideal beach for families with crystal clear water and fine pebbles."
+          }
+        },
+        {
+          "name": "Abendlicher Abschied am Meer / Esti búcsú a tengerparton",
+          "coords": [
+            15.245,
+            44.275
+          ],
+          "category": "sunset",
+          "arrive_at": "18:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Blick auf den Sonnenuntergang über dem Velebit-Kanal.",
+            "hu": "Zárja a napot a Velebit-csatorna feletti naplemente látványával.",
+            "ro": "Încheiați ziua cu o privire asupra apusului peste canalul Velebit.",
+            "en": "End the day with a view of the sunset over the Velebit channel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Vrsi, wo zwei alte Steinkirchen von der tiefen Tradition des Ortes zeugen. Nach einer kurzen Wanderung erreichen Sie das belebte Viertel Mulo an der Küste. Hier genießen Sie ein authentisches dalmatinisches Mittagessen direkt am Wasser, bevor Sie den Nachmittag am weitläufigen Strand Ricina verbringen. Der Tag endet friedlich mit einem spektakulären Blick auf die Adria.",
+        "hu": "Kezdje a napot Vrsi történelmi szívében, ahol két ősi kőtemplom tanúskodik a hely mély hagyományairól. Egy rövid túra után eléri a tengerparti Mulo nyüzsgő negyedét. Itt élvezze az autentikus dalmát ebédet közvetlenül a vízparton, mielőtt a délutánt a tágas Ricina strandon töltené. A nap békésen zárul, látványos kilátással az Adriai-tengerre.",
+        "ro": "Începeți ziua în inima istorică a satului Vrsi, unde două biserici vechi de piatră depun mărturie despre tradiția profundă a locului. După o scurtă drumeție, veți ajunge în cartierul plin de viață Mulo, de pe coastă. Aici, bucurați-vă de un prânz dalmat autentic chiar pe malul apei, înainte de a petrece după-amiaza pe plaja spațioasă Ricina. Ziua se încheie liniștit, cu o vedere spectaculoasă asupra Adriaticii.",
+        "en": "Start your day in the historic heart of Vrsi, where two ancient stone churches bear witness to the deep traditions of the place. After a short hike, you'll reach the lively Mulo district on the coast. Here, enjoy an authentic Dalmatian lunch right by the water before spending the afternoon at the spacious Ricina beach. The day ends peacefully with a spectacular view of the Adriatic Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Karoca",
+            "tip": "Probieren Sie die traditionelle Peka unter der Glocke."
+          },
+          {
+            "name": "Frischer Fisch",
+            "tip": "Fragen Sie nach dem 'Fisch des Tages', der direkt von den lokalen Booten kommt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Karoca",
+            "tip": "Próbálja ki a tradicionális pekát, amit harang alatt sütnek."
+          },
+          {
+            "name": "Friss hal",
+            "tip": "Kérdezze a nap fogását, ami egyenesen a helyi hajókról érkezik."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Karoca",
+            "tip": "Încercați peka tradițională gătită sub capac de fontă."
+          },
+          {
+            "name": "Pește proaspăt",
+            "tip": "Cereți captura zilei adusă direct de pe bărcile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Karoca",
+            "tip": "Try the traditional peka cooked under a bell."
+          },
+          {
+            "name": "Fresh Fish",
+            "tip": "Ask for the catch of the day coming straight from local boats."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchhof St. Jakobus",
+            "tip": "Ein schattiger Platz für Besinnung.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ricina Bucht",
+            "tip": "Suchen Sie sich ein ruhiges Plätzchen am östlichen Ende.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Jakab templomkert",
+            "tip": "Árnyas hely az elmélyüléshez.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ricina-öböl",
+            "tip": "Keressen egy csendes helyet a keleti végén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina bisericii Sf. Iacob",
+            "tip": "Un loc umbros pentru meditație.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Golful Ricina",
+            "tip": "Găsiți un colț liniștit la capătul estic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. James Churchyard",
+            "tip": "A shaded spot for contemplation.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Ricina Bay",
+            "tip": "Find a quiet spot at the eastern end.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Kaufen Sie Salbeihonig direkt von den Imkern im Dorf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Vásároljon zsályamézet közvetlenül a falu méhészeitől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Cumpărați miere de salvie direct de la apicultorii din sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Buy sage honey directly from the beekeepers in the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Spaziergang vom Dorf zum Meer.",
+          "Bringen Sie Badeschuhe für den Kiesstrand mit.",
+          "Besuchen Sie die Kirchen am Vormittag, wenn es noch kühl ist.",
+          "Die Riva in Mulo ist am Abend am schönsten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a falutól a tengerig tartó sétához.",
+          "Vigyen úszócipőt a kavicsos strandhoz.",
+          "A templomokat délelőtt látogassa meg, amíg még hűvös van.",
+          "A mulo-i partparti sétány este a legszebb."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru plimbarea de la sat la mare.",
+          "Aduceți încălțăminte de apă pentru plaja cu pietriș.",
+          "Vizitați bisericile dimineața, când încă este răcoare.",
+          "Faleza din Mulo este cea mai frumoasă seara."
+        ],
+        "en": [
+          "Wear comfortable shoes for the walk from the village to the sea.",
+          "Bring water shoes for the pebble beach.",
+          "Visit the churches in the morning while it's still cool.",
+          "The riva in Mulo is most beautiful in the evening."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12.0,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Crkva sv. Jakova",
+          "coords": [
+            15.235,
+            44.262
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour an dieser charmanten Kapelle.",
+            "hu": "Kezdje a túrát ennél a bájos kápolnánál.",
+            "ro": "Începeți turul la această capelă fermecătoare.",
+            "en": "Start your tour at this charming chapel."
+          }
+        },
+        {
+          "name": "Crkva sv. Anselma",
+          "coords": [
+            15.233,
+            44.261
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp im Zentrum des Dorfes.",
+            "hu": "Egy rövid megálló a falu központjában.",
+            "ro": "O scurtă oprire în centrul satului.",
+            "en": "A short stop in the center of the village."
+          }
+        },
+        {
+          "name": "Vrsi-Mulo (Küstentour)",
+          "coords": [
+            15.221,
+            44.272
+          ],
+          "category": "harbor",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der Küstenstraße mit herrlichem Meerblick.",
+            "hu": "Bringázzon a parti úton, lenyűgöző tengeri kilátással.",
+            "ro": "Pedalați pe drumul de coastă cu vederi superbe la mare.",
+            "en": "Cycle along the coastal road with stunning sea views."
+          }
+        },
+        {
+          "name": "Plaža Ricina",
+          "coords": [
+            15.241,
+            44.271
+          ],
+          "category": "beach",
+          "arrive_at": "11:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parken Sie die Räder und genießen Sie ein langes Bad.",
+            "hu": "Parkoljon le a biciklikkel és élvezze a hosszú fürdőzést.",
+            "ro": "Parcați bicicletele și bucurați-vă de o baie lungă.",
+            "en": "Park the bikes and enjoy a long swim."
+          }
+        },
+        {
+          "name": "Picknick oder Mittagessen am Meer / Piknik vagy ebéd a parton",
+          "coords": [
+            15.245,
+            44.275
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein entspanntes Essen mit Blick auf die Inseln.",
+            "hu": "Egy pihentető étkezés kilátással a szigetekre.",
+            "ro": "O masă relaxantă cu vedere la insule.",
+            "en": "A relaxed meal with a view of the islands."
+          }
+        },
+        {
+          "name": "Panorama-Radweg zurück / Panoráma kerékpárút vissza",
+          "coords": [
+            15.23,
+            44.268
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Olivenhaine und das Hinterland.",
+            "hu": "Élvezze az olajfaligetekre és a hátországra nyíló kilátást.",
+            "ro": "Bucurați-vă de vederea asupra livezilor de măslini și a hinterlandului.",
+            "en": "Enjoy the view of the olive groves and the hinterland."
+          }
+        },
+        {
+          "name": "Eis-Stopp im Dorf / Fagyi-megálló a faluban",
+          "coords": [
+            15.233,
+            44.263
+          ],
+          "category": "gastro",
+          "arrive_at": "17:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem lokalen Gelato zum Abschluss.",
+            "hu": "Jutalmazza meg magát egy helyi fagyival a végén.",
+            "ro": "Răsplătiți-vă cu un gelato local la final.",
+            "en": "Reward yourself with a local gelato at the end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Vrsi auf zwei Rädern! Diese Tour verbindet die historischen Schätze des Dorfes mit der wunderschönen Küstenlandschaft. Von den alten Kirchen im Zentrum radeln Sie hinunter zum Hafen von Mulo und weiter zum Strand Ricina. Genießen Sie die Freiheit, versteckte Buchten zu entdecken und den Tag entspannt im Dorf ausklingen zu lassen.",
+        "hu": "Fedezze fel Vrsi-t két keréken! Ez a túra ötvözi a falu történelmi kincseit a gyönyörű tengerparti tájjal. A központban található régi templomoktól indulva tekerjen le Mulo kikötőjébe, majd tovább a Ricina strandra. Élvezze a szabadságot, fedezzen fel rejtett öblöket, és zárja a napot pihentetően a faluban.",
+        "ro": "Explorați Vrsi pe două roți! Acest tur îmbină comorile istorice ale satului cu peisajul de coastă minunat. De la bisericile vechi din centru, pedalați spre portul Mulo și mai departe spre plaja Ricina. Bucurați-vă de libertatea de a descoperi golfuri ascunse și încheiați ziua relaxat în sat.",
+        "en": "Explore Vrsi on two wheels! This tour combines the historic treasures of the village with the beautiful coastal scenery. From the old churches in the center, cycle down to the harbor of Mulo and further to Ricina beach. Enjoy the freedom to discover hidden bays and end the day in a relaxed way in the village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Vrsi",
+            "tip": "Holen Sie sich Burek für den Radausflug."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vrsi pékség",
+            "tip": "Vegyél egy bureket a biciklis túrához."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Vrsi",
+            "tip": "Luați un burek pentru excursia cu bicicleta."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vrsi Bakery",
+            "tip": "Grab a burek for your bike trip."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Olivenhaine",
+            "tip": "Radeln Sie durch die ruhigen Felder abseits der Hauptstraße.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olajfaligetek",
+            "tip": "Bringázzon a csendes mezőkön a főúttól távol.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Livezile de măslini",
+            "tip": "Pedalați prin câmpurile liniștite, departe de drumul principal.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Groves",
+            "tip": "Cycle through the quiet fields away from the main road.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hausgemachtes Olivenöl",
+            "tip": "Achten Sie auf Schilder 'Domaće ulje' an den Häusern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi olívaolaj",
+            "tip": "Keresse a 'Domaće ulje' feliratú táblákat a házakon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline de casă",
+            "tip": "Căutați semnele 'Domaće ulje' pe case."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Olive Oil",
+            "tip": "Look for 'Domaće ulje' signs on the houses."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke zum Strand Ricina ist flach und einfach zu befahren.",
+          "Achten Sie auf den Wind (Bura), der das Radeln erschweren kann.",
+          "Nehmen Sie ausreichend Wasser mit, da es auf dem Küstenweg wenig Schatten gibt."
+        ],
+        "hu": [
+          "A Ricina strand felé vezető út sík és könnyen járható.",
+          "Figyeljen a szélre (Bura), ami megnehezítheti a tekerést.",
+          "Vigyen elegendő vizet, mert a parti úton kevés az árnyék."
+        ],
+        "ro": [
+          "Drumul spre plaja Ricina este plat și ușor de parcurs.",
+          "Atenție la vânt (Bura), care poate face pedalarea dificilă.",
+          "Luați suficientă apă, deoarece pe drumul de coastă este puțină umbră."
+        ],
+        "en": [
+          "The route to Ricina beach is flat and easy to ride.",
+          "Watch out for the wind (Bura), which can make cycling difficult.",
+          "Take enough water, as there is little shade on the coastal path."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28.0,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Cluster A: Altes Dorf (Crkva sv. Jakova)",
+          "coords": [
+            15.235,
+            44.262
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie beim Dorfzentrum und erkunden Sie die Gassen zu Fuß.",
+            "hu": "Parkoljon a falu központjában, és fedezze fel a sikátorokat gyalog.",
+            "ro": "Parcați în centrul satului și explorați străduțele pe jos.",
+            "en": "Park near the village center and explore the alleys on foot."
+          }
+        },
+        {
+          "name": "Cluster A: Crkva sv. Anselma",
+          "coords": [
+            15.233,
+            44.261
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz entfernt.",
+            "hu": "Egy rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking area."
+          }
+        },
+        {
+          "name": "Cluster B: Vrsi-Mulo (Hafen)",
+          "coords": [
+            15.221,
+            44.272
+          ],
+          "category": "harbor",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Meer hinunter und parken Sie nahe der Riva.",
+            "hu": "Hajtson le a tengerhez, és parkoljon a Riva közelében.",
+            "ro": "Conduceți spre mare și parcați lângă Riva.",
+            "en": "Drive down to the sea and park near the Riva."
+          }
+        },
+        {
+          "name": "Mittagessen am Meer / Ebéd a tengerparton",
+          "coords": [
+            15.22,
+            44.273
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresbrise beim Essen.",
+            "hu": "Élvezze a tengeri szellőt evés közben.",
+            "ro": "Bucurați-vă de briza mării în timp ce mâncați.",
+            "en": "Enjoy the sea breeze while dining."
+          }
+        },
+        {
+          "name": "Cluster B: Plaža Ricina",
+          "coords": [
+            15.241,
+            44.271
+          ],
+          "category": "beach",
+          "arrive_at": "13:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Strand vorhanden.",
+            "hu": "Nagy parkoló közvetlenül a strandnál.",
+            "ro": "Parcare mare disponibilă chiar lângă plajă.",
+            "en": "Large parking lot available right at the beach."
+          }
+        },
+        {
+          "name": "Panoramablick auf Nin / Kilátás Ninre",
+          "coords": [
+            15.2,
+            44.25
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Abstecher mit dem Auto für ein tolles Foto der Lagune.",
+            "hu": "Rövid autós kitérő egy nagyszerű fotóhoz a lagúnáról.",
+            "ro": "O scurtă abatere cu mașina pentru o fotografie grozavă a lagunei.",
+            "en": "A short detour by car for a great photo of the lagoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie mühelos das ländliche Idyll des alten Vrsi mit den lebhaften Küstenabschnitten. Besuchen Sie zuerst die historischen Kirchen im Dorf und fahren Sie dann hinunter nach Mulo für ein entspanntes Mittagessen. Den Nachmittag verbringen Sie am Strand Ricina, bevor Sie einen kurzen Ausflug zu einem Aussichtspunkt mit Blick auf die benachbarte Stadt Nin unternehmen.",
+        "hu": "Autóval könnyedén összekötheti a régi Vrsi falusi idilljét a nyüzsgő tengerparti részekkel. Először látogassa meg a falu történelmi templomait, majd hajtson le Mulóba egy pihentető ebédre. A délutánt a Ricina strandon töltse, mielőtt egy rövid kirándulást tenne a szomszédos Nin városára nyíló kilátóponthoz.",
+        "ro": "Cu mașina, puteți combina fără efort idila rurală a vechiului Vrsi cu secțiunile de coastă pline de viață. Vizitați mai întâi bisericile istorice din sat, apoi conduceți spre Mulo pentru un prânz relaxant. Petreceți după-amiaza pe plaja Ricina, înainte de a face o scurtă excursie la un punct de belvedere cu vedere spre orașul vecin Nin.",
+        "en": "By car, you can effortlessly combine the rural idyll of old Vrsi with the lively coastal sections. First, visit the historic churches in the village, then drive down to Mulo for a relaxed lunch. Spend the afternoon at Ricina beach before taking a short trip to a viewpoint overlooking the neighboring town of Nin."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Buffet Mulo",
+            "tip": "Gute Meeresfrüchte-Platten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buffet Mulo étterem",
+            "tip": "Jó tenger gyümölcsei tálak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Buffet Mulo",
+            "tip": "Platouri bune cu fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Buffet Mulo",
+            "tip": "Good seafood platters."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Nin Lagune Aussicht",
+            "tip": "Ruhiger Ort am späten Nachmittag.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Nini lagúna kilátás",
+            "tip": "Csendes hely késő délután.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere Laguna Nin",
+            "tip": "Loc liniștit după-amiaza târziu.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Nin Lagoon View",
+            "tip": "Quiet spot in the late afternoon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kaufland/Plodine (Nin)",
+            "tip": "Für größere Einkäufe ist das nahegelegene Nin ideal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaufland/Plodine (Nin)",
+            "tip": "A nagyobb bevásárláshoz a közeli Nin ideális."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Kaufland/Plodine (Nin)",
+            "tip": "Pentru cumpărături mai mari, orașul Nin din apropiere este ideal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaufland/Plodine (Nin)",
+            "tip": "For larger shopping, nearby Nin is ideal."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In der Hochsaison können Parkplätze in Mulo knapp werden; kommen Sie früh.",
+          "Die Straßen im alten Dorf sind eng, fahren Sie vorsichtig.",
+          "Nutzen Sie das Auto, um auch die umliegenden Buchten wie Duboka Draga zu erkunden."
+        ],
+        "hu": [
+          "Főszezonban Mulóban kevés lehet a parkolóhely; érkezzen korán.",
+          "A régi falu utcái szűkek, vezessen óvatosan.",
+          "Használja az autót a környező öblök, például a Duboka Draga felfedezéséhez is."
+        ],
+        "ro": [
+          "În plin sezon, locurile de parcare în Mulo pot fi puține; veniți devreme.",
+          "Străzile din satul vechi sunt înguste, conduceți cu atenție.",
+          "Folosiți mașina pentru a explora și golfurile din jur, precum Duboka Draga."
+        ],
+        "en": [
+          "In high season, parking in Mulo can be scarce; arrive early.",
+          "The streets in the old village are narrow, drive carefully.",
+          "Use the car to also explore the surrounding bays like Duboka Draga."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15.0,
+      "start": "09:00",
+      "end_estimate": "19:15",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Ankunft & Dorf-Café / Érkezés és falusi kávézó",
+          "coords": [
+            15.234,
+            44.263
+          ],
+          "category": "gastro",
+          "arrive_at": "09:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Von der Bushaltestelle sind es nur wenige Schritte ins Zentrum.",
+            "hu": "A buszmegállótól csak pár lépés a központ.",
+            "ro": "De la stația de autobuz sunt doar câțiva pași până în centru.",
+            "en": "From the bus stop, it's just a few steps to the center."
+          }
+        },
+        {
+          "name": "Cluster: Dorf-Kirchen (St. Jakov & St. Anselm)",
+          "coords": [
+            15.235,
+            44.262
+          ],
+          "category": "religious",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beide Kirchen liegen nah beieinander und sind gut zu Fuß erreichbar.",
+            "hu": "Mindkét templom közel van egymáshoz, gyalog könnyen elérhetőek.",
+            "ro": "Ambele biserici sunt aproape una de alta și ușor de vizitat pe jos.",
+            "en": "Both churches are close to each other and easily accessible on foot."
+          }
+        },
+        {
+          "name": "Vrsi-Mulo (Bus nach Küste / Séta a partra)",
+          "coords": [
+            15.221,
+            44.272
+          ],
+          "category": "harbor",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Kleinbus oder spazieren Sie bergab zum Meer.",
+            "hu": "Használja a helyi kisbuszt, vagy sétáljon lefelé a tengerhez.",
+            "ro": "Folosiți microbuzul local sau plimbați-vă la vale spre mare.",
+            "en": "Use the local minibus or stroll downhill to the sea."
+          }
+        },
+        {
+          "name": "Mittagessen in Mulo / Ebéd Mulóban",
+          "coords": [
+            15.22,
+            44.273
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wählen Sie ein Restaurant mit Meerblick.",
+            "hu": "Válasszon egy tengerre néző éttermet.",
+            "ro": "Alegeți un restaurant cu vedere la mare.",
+            "en": "Choose a restaurant with a sea view."
+          }
+        },
+        {
+          "name": "Plaža Ricina",
+          "coords": [
+            15.241,
+            44.271
+          ],
+          "category": "beach",
+          "arrive_at": "15:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ein schöner Spaziergang entlang der Küste führt Sie zum Strand.",
+            "hu": "Egy szép séta a part mentén elvezeti a strandhoz.",
+            "ro": "O plimbare frumoasă pe coastă vă duce la plajă.",
+            "en": "A beautiful walk along the coast leads you to the beach."
+          }
+        },
+        {
+          "name": "Rückreise ab Vrsi / Hazautazás Vrsiből",
+          "coords": [
+            15.234,
+            44.263
+          ],
+          "category": "transit",
+          "arrive_at": "18:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Fahrplan für die Rückfahrt nach Zadar oder Nin.",
+            "hu": "Ellenőrizze a menetrendet a Zadarba vagy Ninbe tartó visszatéréshez.",
+            "ro": "Verificați orarul pentru întoarcerea spre Zadar sau Nin.",
+            "en": "Check the timetable for the return trip to Zadar or Nin."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vrsi ist gut mit regionalen Bussen erreichbar. Beginnen Sie Ihren Besuch im charmanten Dorfzentrum und erkunden Sie die historischen Kirchen. Ein entspannter Spaziergang oder eine kurze Fahrt bringt Sie an die Küste von Mulo, wo das maritime Leben pulsiert. Genießen Sie den Nachmittag am Ricina-Strand, bevor Sie bequem mit dem Bus zurückreisen.",
+        "hu": "Vrsi regionális buszokkal jól megközelíthető. Kezdje látogatását a bájos faluközpontban, és fedezze fel a történelmi templomokat. Egy pihentető séta vagy rövid utazás elviszi Mulo partjára, ahol lüktet a tengeri élet. Élvezze a délutánt a Ricina strandon, mielőtt kényelmesen visszautazna busszal.",
+        "ro": "Vrsi este ușor accesibil cu autobuzele regionale. Începeți vizita în centrul fermecător al satului și explorați bisericile istorice. O plimbare relaxantă sau o scurtă călătorie vă va duce la coasta Mulo, unde viața maritimă este vibrantă. Bucurați-vă de după-amiază pe plaja Ricina înainte de a vă întoarce confortabil cu autobuzul.",
+        "en": "Vrsi is well-accessible by regional buses. Start your visit in the charming village center and explore the historic churches. A relaxed walk or a short ride takes you to the coast of Mulo, where maritime life pulsates. Enjoy the afternoon at Ricina beach before traveling back comfortably by bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Imbiss",
+            "tip": "Holen Sie sich ein Sandwich für die Wartezeit am Bus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi gyorsbüfé",
+            "tip": "Vegyél egy szendvicset a buszra való várakozáshoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fast-food local",
+            "tip": "Luați un sandviș pentru timpul de așteptare la autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Snack Bar",
+            "tip": "Grab a sandwich for the wait at the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Busstation Park",
+            "tip": "Ein kleiner Platz mit Bänken zum Ausruhen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Buszmegálló park",
+            "tip": "Kis tér padokkal a pihenéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul de lângă stație",
+            "tip": "O mică piațetă cu bănci pentru odihnă.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bus Station Park",
+            "tip": "A small square with benches for resting.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frisches Obst und Gemüse bei den Verkaufsständen an der Hauptstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss gyümölcs és zöldség az út menti árusoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe și legume proaspete la tarabele de pe drumul principal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fresh fruit and vegetables at the roadside stalls on the main road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busse fahren seltener an Wochenenden; planen Sie voraus.",
+          "Tickets können oft beim Fahrer gekauft werden.",
+          "Die Haltestelle 'Vrsi' liegt zentral im alten Dorf."
+        ],
+        "hu": [
+          "A buszok hétvégén ritkábban járnak; tervezzen előre.",
+          "Jegyet gyakran a sofőrnél is lehet venni.",
+          "A 'Vrsi' megálló központi helyen van a régi faluban."
+        ],
+        "ro": [
+          "Autobuzele circulă mai rar în weekend; planificați din timp.",
+          "Biletele pot fi cumpărate adesea direct de la șofer.",
+          "Stația 'Vrsi' este situată central în satul vechi."
+        ],
+        "en": [
+          "Buses run less frequently on weekends; plan ahead.",
+          "Tickets can often be bought from the driver.",
+          "The 'Vrsi' stop is centrally located in the old village."
+        ]
+      }
+    }
+  }
+}

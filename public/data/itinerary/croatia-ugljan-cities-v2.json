@@ -1,0 +1,922 @@
+{
+  "city_id": "croatia-ugljan-cities-v2",
+  "anchor": {
+    "name": "Ugljan",
+    "coords": [
+      15.1031,
+      44.1308
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Samostan sv. Jeronima",
+          "coords": [
+            15.1055,
+            44.1295
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den gotischen Kreuzgang und das kleine Museum.",
+            "hu": "Nézze meg a gótikus kerengőt és a kis múzeumot.",
+            "ro": "Vizitați mănăstirea gotică și micul muzeu.",
+            "en": "Visit the Gothic cloister and the small museum."
+          }
+        },
+        {
+          "name": "Plaža Mostir",
+          "coords": [
+            15.1042,
+            44.1315
+          ],
+          "category": "beach",
+          "arrive_at": "09:55",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Flacher Sandstrand, ideal für Familien.",
+            "hu": "Sekély homokos strand, ideális családoknak.",
+            "ro": "Plajă cu nisip puțin adâncă, ideală pentru familii.",
+            "en": "Shallow sandy beach, ideal for families."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            15.1025,
+            44.1305
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie Tintenfischsalat oder gegrillte Sardinen.",
+            "hu": "Kóstolja meg a polipsalátát vagy a sült szardíniát.",
+            "ro": "Încercați salata de caracatiță sau sardinele la grătar.",
+            "en": "Try the octopus salad or grilled sardines."
+          }
+        },
+        {
+          "name": "Kaštel Califfi",
+          "coords": [
+            15.1015,
+            44.1322
+          ],
+          "category": "historical",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Berkov-Sommerhaus der Zadarer Adelsfamilie Califfi.",
+            "hu": "A zárai Califfi nemesi család egykori nyári kastélya.",
+            "ro": "Vara casa familiei nobiliare Califfi din Zadar.",
+            "en": "The summer house of the Zadar noble family Califfi."
+          }
+        },
+        {
+          "name": "Kikötői sétány",
+          "coords": [
+            15.1005,
+            44.1335
+          ],
+          "category": "harbor",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der kleinen Fischerboote.",
+            "hu": "Séta a kis halászhajók és jachtok mentén.",
+            "ro": "Plimbare de-a lungul micilor bărci de pescuit.",
+            "en": "Stroll along the small fishing boats."
+          }
+        },
+        {
+          "name": "Naplemente-pihenő",
+          "coords": [
+            15.099,
+            44.135
+          ],
+          "category": "sunset",
+          "arrive_at": "16:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf das gegenüberliegende Festland.",
+            "hu": "Élvezze a kilátást a szemközti szárazföldre.",
+            "ro": "Bucurați-vă de priveliștea spre continentul de vizavi.",
+            "en": "Enjoy the view towards the mainland opposite."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Dorf Ugljan, der 'grünen Insel' gegenüber von Zadar. Am Morgen besuchen Sie das friedliche St.-Hieronymus-Kloster direkt am Meer. Danach wartet der flache Sandstrand von Mostir auf eine lange Badepause. Nach einem traditionellen dalmatinischen Mittagessen erkunden Sie das Kastell Califfi und lassen den Tag mit einem entspannten Spaziergang am Hafen ausklingen.",
+        "hu": "A napja Ugljan faluban, a Zadarral szemközti 'zöld szigeten' kezdődik. Reggel a tengerparti Szent Jeromos-kolostor békéjét élvezheti, majd a Mostir strand homokos partján pihenhet. Egy hagyományos dalmát ebéd után felfedezheti a Califfi-kastélyt, a napot pedig egy hangulatos kikötői sétával és a naplemente látványával zárhatja.",
+        "ro": "Ziua începe în satul Ugljan, pe 'insula verde' vizavi de Zadar. Dimineața vizitați mănăstirea liniștită Sf. Ieronim de la malul mării. Urmează o pauză lungă de înot pe plaja cu nisip Mostir. După un prânz tradițional dalmațian, explorați Castelul Califfi și încheiați ziua cu o plimbare relaxantă în port, admirând apusul de soare.",
+        "en": "Your day starts in Ugljan village, on the 'green island' opposite Zadar. In the morning, enjoy the peace of St. Jerome Monastery by the sea. Then, head to Mostir beach for a long swim in its shallow sandy waters. After a traditional Dalmatian lunch, explore the Califfi Castle and end your day with a relaxed harbor stroll and a sunset view."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Apollo",
+            "tip": "Probieren Sie frischen Fisch direkt vom Grill."
+          },
+          {
+            "name": "Dalmatinische Peka",
+            "tip": "Unter der Glocke gegartes Fleisch oder Oktopus."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Apollo",
+            "tip": "Kóstolja meg a frissen fogott grillezett halakat."
+          },
+          {
+            "name": "Dalmát Peka",
+            "tip": "Hús vagy polip vas harang alatt sütve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Apollo",
+            "tip": "Încercați peștele proaspăt la grătar."
+          },
+          {
+            "name": "Peka Dalmațiană",
+            "tip": "Carne sau caracatiță gătită sub capac de fier."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Apollo",
+            "tip": "Try the freshly caught grilled fish."
+          },
+          {
+            "name": "Dalmatian Peka",
+            "tip": "Meat or octopus slow-cooked under a metal dome."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten",
+            "tip": "Ein Ort der Stille am Wasser.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punta Ugljan",
+            "tip": "Ruhiger Spot für den Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kolostorkert",
+            "tip": "A nyugalom szigete a vízparton.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punta Ugljan",
+            "tip": "Csendes hely a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii",
+            "tip": "Un loc de liniște la malul mării.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punta Ugljan",
+            "tip": "Loc liniștit pentru apusul soarelui.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monastery Garden",
+            "tip": "A place of silence by the water.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Punta Ugljan",
+            "tip": "Quiet spot for watching the sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Insel-Olivenöl",
+            "tip": "Kaufen Sie lokales Öl direkt vom Erzeuger."
+          },
+          {
+            "name": "Feigenmarmelade",
+            "tip": "Süßes Souvenir von der Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szigeti olívaolaj",
+            "tip": "Vásároljon helyi olajat közvetlenül a termelőtől."
+          },
+          {
+            "name": "Fügelekvár",
+            "tip": "Édes szuvenír a szigetről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați ulei direct de la producători."
+          },
+          {
+            "name": "Dulceață de smochine",
+            "tip": "Suvenir dulce de pe insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Island Olive Oil",
+            "tip": "Buy local oil directly from the producer."
+          },
+          {
+            "name": "Fig Jam",
+            "tip": "A sweet souvenir from the island."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bringen Sie Badeschuhe mit, auch wenn Mostir sandig ist.",
+          "Die Fähren von Zadar nach Preko verkehren sehr häufig.",
+          "Mittagsruhe in den Cafés am Hafen ist sehr authentisch."
+        ],
+        "hu": [
+          "Vigyen fürdőcipőt, még ha a Mostir homokos is.",
+          "A kompok Zadarból Prekóba nagyon gyakran járnak.",
+          "A kikötői kávézókban tartott szieszta igazi helyi élmény."
+        ],
+        "ro": [
+          "Aduceți încălțăminte de apă, chiar dacă Mostir este cu nisip.",
+          "Feriboturile de la Zadar la Preko circulă foarte des.",
+          "Siesta în cafenelele din port este o experiență autentică."
+        ],
+        "en": [
+          "Bring water shoes, even though Mostir is sandy.",
+          "Ferries from Zadar to Preko run very frequently.",
+          "A midday siesta in the harbor cafes is very authentic."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 24.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Samostan sv. Jeronima",
+          "coords": [
+            15.1055,
+            44.1295
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ruhiger Start im Inselnorden.",
+            "hu": "Csendes kezdés a sziget északi részén.",
+            "ro": "Început liniștit în nordul insulei.",
+            "en": "Quiet start in the north of the island."
+          }
+        },
+        {
+          "name": "Kaštel Califfi",
+          "coords": [
+            15.1015,
+            44.1322
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kulturstopp vor der großen Fahrt.",
+            "hu": "Kulturális megálló a nagy tekerés előtt.",
+            "ro": "Popas cultural înainte de drumul lung.",
+            "en": "Cultural stop before the long ride."
+          }
+        },
+        {
+          "name": "Tvrđava sv. Mihovila",
+          "coords": [
+            15.174,
+            44.0765
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Der Aufstieg lohnt sich für das Panorama über 200 Inseln.",
+            "hu": "A kaptató megéri a 200 szigetre nyíló panoráma miatt.",
+            "ro": "Urcarea merită pentru panorama peste cele 200 de insule.",
+            "en": "The climb is worth it for the panorama over 200 islands."
+          }
+        },
+        {
+          "name": "Ebéd Prekóban",
+          "coords": [
+            15.192,
+            44.081
+          ],
+          "category": "gastro",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erholung am Hafen von Preko.",
+            "hu": "Pihenő Preko kikötőjében.",
+            "ro": "Odihnă în portul Preko.",
+            "en": "Rest at Preko harbor."
+          }
+        },
+        {
+          "name": "Plaža Mostir",
+          "coords": [
+            15.1042,
+            44.1315
+          ],
+          "category": "beach",
+          "arrive_at": "16:40",
+          "stay_min": 180,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Erfrischung nach der Rückfahrt.",
+            "hu": "Felfrissülés a visszautat követően.",
+            "ro": "Răcorire după drumul de întoarcere.",
+            "en": "Refreshment after the return ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet Kultur und Abenteuer. Sie starten in Ugljan mit dem Kloster und dem Schloss, bevor Sie die Küstenstraße Richtung Preko nehmen. Der Höhepunkt ist der steile Aufstieg zur Festung St. Michael, von wo aus Sie den besten Blick auf die Adria haben. Nach dem Abstieg und einem Mittagessen in Preko radeln Sie zurück für ein wohlverdientes Bad am Mostir-Strand.",
+        "hu": "Ez a kerékpártúra a kultúrát és a kalandot ötvözi. Ugljanban kezd a kolostornál és a kastélynál, majd a part menti úton Preko felé teker. A csúcspont a Szent Mihály-erődhöz vezető meredek kaptató, ahonnan az Adria legszebb panorámája nyílik. A leereszkedés és egy prekói ebéd után visszateker Ugljanba egy megérdemelt csobbanásra a Mostir strandon.",
+        "ro": "Acest tur cu bicicleta combină cultura cu aventura. Începeți în Ugljan cu mănăstirea și castelul, apoi pedalați pe drumul de coastă spre Preko. Punctul culminant este urcarea abruptă la Cetatea Sf. Mihail, de unde aveți cea mai bună vedere asupra Adriaticii. După coborâre și un prânz în Preko, pedalați înapoi pentru o baie binemeritată pe plaja Mostir.",
+        "en": "This bike tour combines culture and adventure. Start in Ugljan with the monastery and castle, then cycle along the coastal road towards Preko. The highlight is the steep climb to St. Michael's Fortress, offering the best view over the Adriatic. After the descent and lunch in Preko, cycle back for a well-deserved swim at Mostir beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Jardin",
+            "tip": "Idealer Stopp für Radfahrer in Preko."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Jardin",
+            "tip": "Ideális megálló kerékpárosoknak Prekóban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Jardin",
+            "tip": "Popas ideal pentru bicicliști în Preko."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Jardin",
+            "tip": "Ideal stop for cyclists in Preko."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sv. Mihovil Aussicht",
+            "tip": "Unendliche Weite der Adria.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sv. Mihovil kilátó",
+            "tip": "Az Adria végtelen látványa.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Belvederea Sf. Mihail",
+            "tip": "Vedere infinită asupra Adriaticii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Michael Viewpoint",
+            "tip": "Infinite views of the Adriatic.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl-Mühle",
+            "tip": "Frisches Öl direkt an der Straße kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olajprés",
+            "tip": "Friss olaj vásárlása közvetlenül az út mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Presă de ulei",
+            "tip": "Cumpărați ulei proaspăt direct de pe drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Press",
+            "tip": "Buy fresh oil directly along the road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein E-Bike ist für den Weg zur Festung sehr zu empfehlen.",
+          "Bringen Sie viel Wasser mit, es gibt wenig Schatten beim Aufstieg.",
+          "Die Küstenstraße hat einige Steigungen."
+        ],
+        "hu": [
+          "Az erődhöz vezető útra egy e-bike erősen ajánlott.",
+          "Vigyen sok vizet, az emelkedőn kevés az árnyék.",
+          "A parti úton vannak kisebb emelkedők."
+        ],
+        "ro": [
+          "O bicicletă electrică este recomandată pentru drumul spre cetate.",
+          "Aduceți multă apă, este puțină umbră la urcare.",
+          "Drumul de coastă are câteva pante."
+        ],
+        "en": [
+          "An e-bike is highly recommended for the road to the fortress.",
+          "Bring plenty of water, as there is little shade on the climb.",
+          "The coastal road has some gradients."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 28.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Samostan sv. Jeronima (Cluster A)",
+          "coords": [
+            15.1055,
+            44.1295
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Hafen von Ugljan.",
+            "hu": "Parkoljon Ugljan kikötőjében.",
+            "ro": "Parcați în portul Ugljan.",
+            "en": "Park at Ugljan harbor."
+          }
+        },
+        {
+          "name": "Plaža Mostir (Cluster A)",
+          "coords": [
+            15.1042,
+            44.1315
+          ],
+          "category": "beach",
+          "arrive_at": "10:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Hafen.",
+            "hu": "Rövid séta a kikötőtől.",
+            "ro": "Scurtă plimbare de la port.",
+            "en": "Short walk from the harbor."
+          }
+        },
+        {
+          "name": "Kaštel Califfi (Cluster A)",
+          "coords": [
+            15.1015,
+            44.1322
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Inselgeschichte zum Greifen nah.",
+            "hu": "Szigeti történelem testközelből.",
+            "ro": "Istoria insulei la îndemână.",
+            "en": "Island history within reach."
+          }
+        },
+        {
+          "name": "Tvrđava sv. Mihovila (Cluster B)",
+          "coords": [
+            15.174,
+            44.0765
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Die Straße führt fast bis ganz nach oben.",
+            "hu": "Az út szinte teljesen a csúcsig vezet.",
+            "ro": "Drumul duce aproape până în vârf.",
+            "en": "The road leads almost all the way to the top."
+          }
+        },
+        {
+          "name": "Panoráma-pihenő (Cluster B)",
+          "coords": [
+            15.175,
+            44.077
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Blick auf Zadar und die Kornaten.",
+            "hu": "Kilátás Zadarra és a Kornati-szigetekre.",
+            "ro": "Vedere spre Zadar și insulele Kornati.",
+            "en": "View of Zadar and the Kornati islands."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie beide Enden der Insel mühelos. Vormittags parken Sie in Ugljan-Dorf für Kultur und Strandzeit bei Mostir. Nachmittags fahren Sie in den Süden nach Preko und schlängeln sich die Bergstraße zur Festung St. Michael hinauf. Diese Kombination bietet sowohl entspannte Meeresmomente als auch spektakuläre Insel-Panoramen ohne Anstrengung.",
+        "hu": "Autóval kényelmesen felfedezheti a sziget mindkét végét. Délelőtt Ugljan faluban parkolva élvezheti a kultúrát és a Mostir strandot. Délután délre, Preko felé indul, és felkanyarog a hegyi úton a Szent Mihály-erődhöz. Ez a kombináció pihentető tengerparti pillanatokat és látványos panorámát kínál, megerőltetés nélkül.",
+        "ro": "Cu mașina puteți explora ambele capete ale insulei fără efort. Dimineața parcați în satul Ugljan pentru cultură și plajă la Mostir. După-amiaza conduceți spre sud spre Preko și urcați pe drumul montan până la Cetatea Sf. Mihail. Această combinație oferă atât momente relaxante la mare, cât și panorame spectaculoase, fără efort.",
+        "en": "By car, you can effortlessly explore both ends of the island. Spend the morning in Ugljan village for culture and beach time at Mostir. In the afternoon, drive south towards Preko and wind up the mountain road to St. Michael's Fortress. This combination offers both relaxed seaside moments and spectacular island panoramas without the strain."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gastro-Ecke am Hafen",
+            "tip": "Lokale Meeresfrüchte frisch aus dem Netz."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői gasztro-negyed",
+            "tip": "Helyi tenger gyümölcsei frissen a hálóból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Zona gastro din port",
+            "tip": "Fructe de mare locale proaspete din plasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Gastro Spot",
+            "tip": "Local seafood fresh from the net."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gipfelplateau",
+            "tip": "Abgelegener Platz über den Wolken.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Csúcsplató",
+            "tip": "Elszigetelt hely a felhők felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul din vârf",
+            "tip": "Loc izolat deasupra norilor.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Summit Plateau",
+            "tip": "Secluded spot above the clouds.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt Preko",
+            "tip": "Hausgemachter Käse und Prošek."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prekói helyi piac",
+            "tip": "Házisajt és Prošek (desszertbor)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală Preko",
+            "tip": "Brânză de casă și Prošek."
+          }
+        ],
+        "en": [
+          {
+            "name": "Preko Local Market",
+            "tip": "Homemade cheese and Prošek wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zur Festung ist schmal, fahren Sie vorsichtig.",
+          "In Ugljan ist das Parken im Sommer gebührenpflichtig.",
+          "Planen Sie Zeit für die Autofähre ein."
+        ],
+        "hu": [
+          "Az erődhöz vezető út keskeny, vezessen óvatosan.",
+          "Ugljanban a parkolás nyáron fizetős.",
+          "Számoljon a kompátkelés idejével."
+        ],
+        "ro": [
+          "Drumul spre cetate este îngust, conduceți cu atenție.",
+          "Parcarea în Ugljan este cu plată vara.",
+          "Planificați timp pentru feribot."
+        ],
+        "en": [
+          "The road to the fortress is narrow, drive carefully.",
+          "Parking in Ugljan is paid during summer.",
+          "Allow time for the car ferry."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Samostan sv. Jeronima",
+          "coords": [
+            15.1055,
+            44.1295
+          ],
+          "category": "religious",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bushaltestelle Ugljan ist 5 Min. entfernt.",
+            "hu": "Az ugljani buszmegálló 5 percre van.",
+            "ro": "Stația de autobuz Ugljan este la 5 min.",
+            "en": "Ugljan bus stop is 5 mins away."
+          }
+        },
+        {
+          "name": "Plaža Mostir",
+          "coords": [
+            15.1042,
+            44.1315
+          ],
+          "category": "beach",
+          "arrive_at": "10:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Zentrum.",
+            "hu": "Gyalogosan elérhető a központból.",
+            "ro": "Accesibil pe jos din centru.",
+            "en": "Accessible on foot from the center."
+          }
+        },
+        {
+          "name": "Kaštel Califfi",
+          "coords": [
+            15.1015,
+            44.1322
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Historisches Denkmal im Dorf.",
+            "hu": "Történelmi emlékhely a faluban.",
+            "ro": "Monument istoric în sat.",
+            "en": "Historical monument in the village."
+          }
+        },
+        {
+          "name": "Busfahrt nach Preko",
+          "coords": [
+            15.192,
+            44.081
+          ],
+          "category": "transit",
+          "arrive_at": "15:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht aus dem Bus.",
+            "hu": "Élvezze a kilátást a buszból.",
+            "ro": "Bucurați-vă de priveliște din autobuz.",
+            "en": "Enjoy the view from the bus."
+          }
+        },
+        {
+          "name": "Kikötői korzó (Preko)",
+          "coords": [
+            15.193,
+            44.082
+          ],
+          "category": "harbor",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Perfekt für ein Eis vor der Fähre.",
+            "hu": "Tökéletes egy fagyira a komp előtt.",
+            "ro": "Perfect pentru o înghețată înainte de feribot.",
+            "en": "Perfect for a gelato before the ferry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der Inselbuslinie 622 ist Ugljan auch ohne Auto gut zu erkunden. Sie verbringen den Vormittag in Ugljan-Dorf, besuchen das Kloster und entspannen am Mostir-Strand. Am frühen Nachmittag nehmen Sie den Bus nach Preko, dem pulsierenden Zentrum der Insel. Ein kurzer Spaziergang am dortigen Hafen bietet die perfekte Gelegenheit, das Inselleben zu beobachten, bevor Sie die Fähre zurück nehmen.",
+        "hu": "A 622-es szigeti buszjáratnak köszönhetően Ugljan autó nélkül is jól felfedezhető. A délelőttöt Ugljan faluban tölti, meglátogatja a kolostort és pihen a Mostir strandon. Kora délután busszal megy Prekóba, a sziget lüktető központjába. Egy rövid séta az ottani kikötőben tökéletes alkalom a szigeti élet megfigyelésére, mielőtt visszaszállna a kompra.",
+        "ro": "Datorită liniei de autobuz 622 de pe insulă, Ugljan poate fi explorat ușor și fără mașină. Petreceți dimineața în satul Ugljan, vizitați mănăstirea și vă relaxați pe plaja Mostir. La începutul după-amiezii luați autobuzul spre Preko, centrul vibrant al insulei. O scurtă plimbare în portul de acolo oferă ocazia perfectă de a observa viața de pe insulă înainte de a lua feribotul înapoi.",
+        "en": "Thanks to island bus line 622, Ugljan is easy to explore even without a car. Spend the morning in Ugljan village, visiting the monastery and relaxing at Mostir beach. In the early afternoon, take the bus to Preko, the island's vibrant center. A short stroll along the harbor there offers the perfect chance to observe island life before taking the ferry back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei am Hafen",
+            "tip": "Holen Sie sich Burek für die Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői pékség",
+            "tip": "Vegyél egy bureket az útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria din port",
+            "tip": "Luați un burek pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Bakery",
+            "tip": "Get a burek for the ride."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Preko Park",
+            "tip": "Schattige Bank am Meer.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Prekói park",
+            "tip": "Árnyas pad a tengerparton.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Preko",
+            "tip": "Bancă la umbră lângă mare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Preko Park",
+            "tip": "Shady bench by the sea.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk-Souvenirs",
+            "tip": "Postkarten und kleine Lavendelsäckchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kioszk szuvenírek",
+            "tip": "Képeslapok és kis levendulatasakok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri la chioșc",
+            "tip": "Vederi și mici săculeți cu lavandă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kiosk Souvenirs",
+            "tip": "Postcards and small lavender sachets."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Laden Sie den Busfahrplan vorher herunter.",
+          "Kaufen Sie das Ticket direkt beim Busfahrer.",
+          "An Sonntagen fahren weniger Busse."
+        ],
+        "hu": [
+          "Töltse le előre a buszmenetrendet.",
+          "A jegyet közvetlenül a buszsofőrnél vegye meg.",
+          "Vasárnap ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Descărcați programul autobuzelor în avans.",
+          "Cumpărați biletul direct de la șofer.",
+          "Duminica circulă mai puține autobuze."
+        ],
+        "en": [
+          "Download the bus schedule in advance.",
+          "Buy your ticket directly from the bus driver.",
+          "Fewer buses run on Sundays."
+        ]
+      }
+    }
+  }
+}

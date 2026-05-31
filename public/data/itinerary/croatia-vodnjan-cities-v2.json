@@ -1,0 +1,1034 @@
+{
+  "city_id": "croatia-vodnjan-cities-v2",
+  "anchor": {
+    "name": "Vodnjan",
+    "coords": [
+      44.9608,
+      13.8522
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 2.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Palača Bradamante",
+          "coords": [
+            44.9608,
+            13.8522
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Wappen der Familie Bradamante an der Fassade.",
+            "hu": "Nézze meg a Bradamante család címerét a homlokzaton.",
+            "ro": "Admirați blazonul familiei Bradamante pe fațadă.",
+            "en": "Check out the Bradamante family crest on the facade."
+          }
+        },
+        {
+          "name": "Ulica vjenčanja",
+          "coords": [
+            44.9612,
+            13.8518
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Versuchen Sie, die engste Stelle dieser schmalen Gasse zu finden.",
+            "hu": "Próbálja megtalálni a legszűkebb pontot ebben a sikátorban.",
+            "ro": "Încercați să găsiți cel mai îngust punct de pe această alee.",
+            "en": "Try to find the narrowest point in this medieval alley."
+          }
+        },
+        {
+          "name": "Ekomuzej Istrian de Dignan",
+          "coords": [
+            44.9605,
+            13.8525
+          ],
+          "category": "museum",
+          "arrive_at": "10:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Werkzeuge zur Olivenölherstellung.",
+            "hu": "Fedezze fel az olívaolaj-készítés hagyományos eszközeit.",
+            "ro": "Descoperiți uneltele tradiționale pentru producția de ulei.",
+            "en": "Discover the traditional tools for olive oil production."
+          }
+        },
+        {
+          "name": "Crkva sv. Blaža",
+          "coords": [
+            44.9615,
+            13.853
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Sammlung der Mumien ist in der Sakristei untergebracht.",
+            "hu": "A múmiák gyűjteménye a sekrestye mögött található.",
+            "ro": "Colecția de mumii se află în spatele sacristiei.",
+            "en": "The collection of mummies is located behind the sacristy."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            44.96,
+            13.8515
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 85,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie Manestra, einen typischen istrischen Eintopf.",
+            "hu": "Kóstolja meg a maneštrát, a tipikus isztriai levest.",
+            "ro": "Gustați manestra, o tocană tipică istriană.",
+            "en": "Try Manestra, a typical Istrian vegetable stew."
+          }
+        },
+        {
+          "name": "Murals Vodnjan",
+          "coords": [
+            44.9595,
+            13.8505
+          ],
+          "category": "landmark",
+          "arrive_at": "15:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Viele Wandgemälde verstecken sich in den Hinterhöfen.",
+            "hu": "Sok falfestmény a belső udvarokban rejtőzik.",
+            "ro": "Multe picturi murale sunt ascunse în curțile interioare.",
+            "en": "Many murals are hidden in the inner courtyards."
+          }
+        },
+        {
+          "name": "Olivenöl-Verkostung",
+          "coords": [
+            44.9585,
+            13.8495
+          ],
+          "category": "shopping",
+          "arrive_at": "16:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vodnjan ist weltberühmt für sein extra natives Öl.",
+            "hu": "Vodnjan világhírű az extra szűz olívaolajáról.",
+            "ro": "Vodnjan este renumit pentru uleiul de măsline extravirgin.",
+            "en": "Vodnjan is world-famous for its extra virgin olive oil."
+          }
+        },
+        {
+          "name": "Abendlicher Spaziergang",
+          "coords": [
+            44.9605,
+            13.852
+          ],
+          "category": "sunset",
+          "arrive_at": "18:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe in den gepflasterten Gassen.",
+            "hu": "Élvezze a csendet a macskaköves sikátorokban.",
+            "ro": "Bucurați-vă de liniște pe străzile pavate.",
+            "en": "Enjoy the quiet atmosphere in the paved alleys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag gehört dem historischen Erbe auf dem Hauptplatz und in den schmalsten Gassen Istriens. Nach einem Besuch im interaktiven Ekomuzej entdecken Sie die mysteriösen Mumien in der St.-Blaise-Basilika. Der Nachmittag steht im Zeichen der modernen Kunst und Gastronomie: Bestaunen Sie die riesigen Wandgemälde an den alten Häuserwänden und verkosten Sie das preisgekrönte lokale Olivenöl.",
+        "hu": "A délelőtt a történelmi örökségé: a főtér palotái és Isztria legszűkebb utcája várja. Az interaktív Ekomuzej után fedezze fel a Szent Balázs-bazilika rejtélyes múmiáit. A délután a modern művészet és a gasztronómia jegyében telik: csodálja meg a hatalmas falfestményeket a régi házfalakon, majd kóstolja meg a világhírű helyi olívaolajokat egy hangulatos kóstolóteremben.",
+        "ro": "Dimineața este dedicată moștenirii istorice în piața centrală și pe cele mai înguste străzi din Istria. După o vizită la Ekomuzej, descoperiți mumiile misterioase din Basilica Sf. Blasiu. După-amiaza este marcată de artă modernă și gastronomie: admirați picturile murale uriașe pe pereții caselor vechi și degustați uleiul de măsline local, premiat la nivel mondial.",
+        "en": "The morning is dedicated to historic heritage at the main square and the narrowest streets in Istria. After visiting the interactive Ekomuzej, discover the mysterious mummies in St. Blaise Basilica. The afternoon focuses on modern art and gastronomy: marvel at the huge murals on the old house walls and taste the world-renowned local olive oil in a cozy tasting room."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bumbar-Torte",
+            "tip": "Ein traditioneller Mandelkuchen ohne Mehl."
+          },
+          {
+            "name": "Istrisches Olivenöl",
+            "tip": "Verkostung bei lokalen Produzenten wie Belci."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bumbar-torta",
+            "tip": "Hagyományos mandulás sütemény liszt nélkül."
+          },
+          {
+            "name": "Isztriai olívaolaj",
+            "tip": "Kóstolás helyi termelőknél, például a Belci családnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tort Bumbar",
+            "tip": "O prăjitură tradițională cu migdale, fără făină."
+          },
+          {
+            "name": "Ulei de măsline istrian",
+            "tip": "Degustare la producători locali precum Belci."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bumbar Torte",
+            "tip": "A traditional almond cake made without flour."
+          },
+          {
+            "name": "Istrian Olive Oil",
+            "tip": "Tasting at local producers like the Belci family."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Olivenhaine am Stadtrand",
+            "tip": "Ruhiger Spaziergang zwischen jahrhundertealten Bäumen.",
+            "emoji": "🌳"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olajfaligetek a város szélén",
+            "tip": "Csendes séta az évszázados fák között.",
+            "emoji": "🌳"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Livezile de măslini de la marginea orașului",
+            "tip": "Plimbare liniștită printre arbori seculari.",
+            "emoji": "🌳"
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive groves on the outskirts",
+            "tip": "Quiet walk among centuries-old trees.",
+            "emoji": "🌳"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Teran oder Malvazija direkt vom Winzer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Teran vagy Malvazija közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Teran sau Malvazija direct de la viticultori."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Teran or Malvazija directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Vodnjan erkundet man am besten zu Fuß durch die engen Gassen.",
+          "Besuchen Sie die Basilika zur vollen Stunde für die beste Beleuchtung.",
+          "Planen Sie eine Olivenölverkostung im Voraus.",
+          "Achten Sie auf die Informationstafeln zu den Murals."
+        ],
+        "hu": [
+          "Vodnjant a legjobb gyalogosan felfedezni a szűk utcákon keresztül.",
+          "A bazilikát érdemes egész órakor látogatni a jobb megvilágítás miatt.",
+          "Foglaljon előre időpontot olívaolaj-kóstolóra.",
+          "Keresse a falfestmények melletti információs táblákat."
+        ],
+        "ro": [
+          "Vodnjan este cel mai bine explorat la pas prin străzile înguste.",
+          "Vizitați basilica la oră fixă pentru o iluminare mai bună.",
+          "Rezervați din timp o degustare de ulei de măsline.",
+          "Căutați panourile informative de lângă picturile murale."
+        ],
+        "en": [
+          "Vodnjan is best explored on foot through its narrow alleys.",
+          "Visit the basilica on the hour for the best lighting conditions.",
+          "Book an olive oil tasting session in advance.",
+          "Look for the information boards next to the murals."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Palača Bradamante",
+          "coords": [
+            44.9608,
+            13.8522
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad am Hauptplatz.",
+            "hu": "Parkoljon a kerékpárral a főtéren.",
+            "ro": "Parcați bicicleta în piața centrală.",
+            "en": "Park your bike at the main square."
+          }
+        },
+        {
+          "name": "Murals Vodnjan",
+          "coords": [
+            44.9595,
+            13.8505
+          ],
+          "category": "landmark",
+          "arrive_at": "09:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Mit dem Rad erreichen Sie auch entlegene Murals.",
+            "hu": "Bringával a távolabbi falfestményeket is elérheti.",
+            "ro": "Cu bicicleta puteți ajunge și la muralele mai îndepărtate.",
+            "en": "Reach the distant murals easily by bike."
+          }
+        },
+        {
+          "name": "Crkva sv. Blaža",
+          "coords": [
+            44.9615,
+            13.853
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besichtigen Sie den höchsten Kirchturm Istriens.",
+            "hu": "Nézze meg Isztria legmagasabb harangtornyát.",
+            "ro": "Vedeți cel mai înalt turn de biserică din Istria.",
+            "en": "See the tallest church tower in Istria."
+          }
+        },
+        {
+          "name": "Ekomuzej Istrian de Dignan",
+          "coords": [
+            44.9605,
+            13.8525
+          ],
+          "category": "museum",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die bäuerliche Geschichte.",
+            "hu": "Merüljön el a paraszti élet történelmében.",
+            "ro": "Aprofundați istoria vieții rurale.",
+            "en": "Dive into the history of peasant life."
+          }
+        },
+        {
+          "name": "Radtour durch Olivenhaine",
+          "coords": [
+            44.95,
+            13.84
+          ],
+          "category": "park",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie auf den Wegen zwischen den Olivenbäumen.",
+            "hu": "Tekerjen az olajfák közötti ösvényeken.",
+            "ro": "Pedalați pe potecile dintre măslini.",
+            "en": "Ride on the paths between the olive trees."
+          }
+        },
+        {
+          "name": "Ebéd egy konobában",
+          "coords": [
+            44.96,
+            13.8515
+          ],
+          "category": "gastro",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein kühles Getränk nach der Fahrt.",
+            "hu": "Egy hűsítő ital a tekerés után.",
+            "ro": "O băutură răcoritoare după pedalat.",
+            "en": "A refreshing drink after the ride."
+          }
+        },
+        {
+          "name": "Ulica vjenčanja",
+          "coords": [
+            44.9612,
+            13.8518
+          ],
+          "category": "landmark",
+          "arrive_at": "16:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schieben Sie das Rad durch die schmale Gasse.",
+            "hu": "Tolja át a kerékpárt a szűk sikátoron.",
+            "ro": "Împingeți bicicleta prin aleea îngustă.",
+            "en": "Push your bike through the narrow alley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour kombiniert die kulturellen Highlights von Vodnjan mit einer Fahrt durch die umliegende Agrarlandschaft. Starten Sie im Zentrum, erkunden Sie die Kunstwerke an den Mauern und fahren Sie dann hinaus in die weitläufigen Olivenhaine. Ein Besuch bei den Mumien und im Ekomuzej rundet den sportlichen Tag kulturell ab.",
+        "hu": "Ez a kerékpártúra ötvözi Vodnjan kulturális látnivalóit a környező mezőgazdasági tájjal. Kezdje a központban, fedezze fel a falakon lévő műalkotásokat, majd tekerjen ki a hatalmas olajfaligetek közé. A múmiák és az Ekomuzej meglátogatása kulturálisan teszi teljessé a sportos napot.",
+        "ro": "Acest tur cu bicicleta combină atracțiile culturale din Vodnjan cu o plimbare prin peisajul agricol înconjurător. Începeți în centru, explorați operele de artă de pe ziduri, apoi pedalați printre livezile vaste de măslini. Vizitarea mumiilor și a Ekomuzej completează cultural această zi sportivă.",
+        "en": "This bike tour combines the cultural highlights of Vodnjan with a ride through the surrounding agricultural landscape. Start in the center, explore the artworks on the walls, and then ride out into the vast olive groves. A visit to the mummies and the Ekomuzej completes the active day culturally."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokaler Käse",
+            "tip": "Probieren Sie Schafskäse mit Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi sajt",
+            "tip": "Kóstoljon juhsajtot olívaolajjal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză locală",
+            "tip": "Gustați brânză de oaie cu ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Cheese",
+            "tip": "Taste sheep cheese with olive oil."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Feldwege von Vodnjan",
+            "tip": "Stille und Natur pur.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vodnjani mezei utak",
+            "tip": "Csend és tiszta természet.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumurile de câmp din Vodnjan",
+            "tip": "Liniște și natură pură.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Field paths of Vodnjan",
+            "tip": "Silence and pure nature.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Bio-Produkte",
+            "tip": "Direkt von den Bauernhöfen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bio termékek",
+            "tip": "Közvetlenül a tanyákról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Produse bio",
+            "tip": "Direct de la ferme."
+          }
+        ],
+        "en": [
+          {
+            "name": "Organic products",
+            "tip": "Directly from the farms."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Wege in den Olivenhainen können staubig sein.",
+          "Nehmen Sie ausreichend Wasser für die Fahrt außerhalb der Stadt mit.",
+          "Die Orientierung zwischen den Murals ist mit dem Rad schneller."
+        ],
+        "hu": [
+          "Az olajfaligetek közötti utak porosak lehetnek.",
+          "Vigyen magával elég vizet a városon kívüli szakaszokra.",
+          "A falfestmények közötti tájékozódás gyorsabb kerékpárral."
+        ],
+        "ro": [
+          "Drumurile dintre livezi pot fi prăfuite.",
+          "Luați destulă apă pentru segmentele din afara orașului.",
+          "Orientarea între murale este mai rapidă cu bicicleta."
+        ],
+        "en": [
+          "The paths in the olive groves can be dusty.",
+          "Carry enough water for the sections outside the town.",
+          "Navigating between the murals is faster by bike."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Palača Bradamante",
+          "coords": [
+            44.9608,
+            13.8522
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem großen Parkplatz am Stadtrand.",
+            "hu": "Parkoljon a város szélén található nagy parkolóban.",
+            "ro": "Parcați în parcarea mare de la marginea orașului.",
+            "en": "Park at the large parking lot on the outskirts."
+          }
+        },
+        {
+          "name": "Ulica vjenčanja",
+          "coords": [
+            44.9612,
+            13.8518
+          ],
+          "category": "landmark",
+          "arrive_at": "09:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur zu Fuß erreichbar.",
+            "hu": "Csak gyalogosan megközelíthető.",
+            "ro": "Accesibil doar pe jos.",
+            "en": "Accessible only on foot."
+          }
+        },
+        {
+          "name": "Crkva sv. Blaža",
+          "coords": [
+            44.9615,
+            13.853
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Muss für Geschichtsinteressierte.",
+            "hu": "Történelemkedvelőknek kötelező látnivaló.",
+            "ro": "Obligatoriu pentru pasionații de istorie.",
+            "en": "A must-see for history lovers."
+          }
+        },
+        {
+          "name": "Ekomuzej Istrian de Dignan",
+          "coords": [
+            44.9605,
+            13.8525
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Bräuche.",
+            "hu": "Fedezze fel a helyi szokásokat.",
+            "ro": "Descoperiți obiceiurile locale.",
+            "en": "Discover local customs."
+          }
+        },
+        {
+          "name": "Murals Vodnjan",
+          "coords": [
+            44.9595,
+            13.8505
+          ],
+          "category": "landmark",
+          "arrive_at": "12:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang zu den Hauptwerken.",
+            "hu": "Rövid séta a főbb művekhez.",
+            "ro": "Scurtă plimbare către principalele opere.",
+            "en": "Short walk to the main works."
+          }
+        },
+        {
+          "name": "Strandpause in Peroj",
+          "coords": [
+            44.95,
+            13.8
+          ],
+          "category": "park",
+          "arrive_at": "14:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Genießen Sie das Meer nur 10 Autominuten entfernt.",
+            "hu": "Élvezze a tengert mindössze 10 percnyi autóútra.",
+            "ro": "Bucurați-vă de mare la doar 10 minute de condus.",
+            "en": "Enjoy the sea just 10 minutes away by car."
+          }
+        },
+        {
+          "name": "Ebéd a tengerparton",
+          "coords": [
+            44.951,
+            13.801
+          ],
+          "category": "gastro",
+          "arrive_at": "16:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Frischer Fisch direkt an der Küste.",
+            "hu": "Friss hal közvetlenül a parton.",
+            "ro": "Pește proaspăt chiar pe malul mării.",
+            "en": "Fresh fish right on the shore."
+          }
+        },
+        {
+          "name": "Sonnenuntergang am Kap",
+          "coords": [
+            44.945,
+            13.795
+          ],
+          "category": "sunset",
+          "arrive_at": "17:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Blick auf die Brijuni-Inseln.",
+            "hu": "Kilátás a Brijuni-szigetekre.",
+            "ro": "Vedere către insulele Brijuni.",
+            "en": "View of the Brijuni Islands."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Tag verbindet die mystische Altstadt von Vodnjan mit der Erfrischung der nahen Küste. Nachdem Sie die kulturellen Schätze wie die Mumien und den Ekomuzej besucht haben, fahren Sie zum nahegelegenen Strand von Peroj. Hier können Sie den Nachmittag entspannt am Meer verbringen und den Tag mit einem Blick auf den Nationalpark Brijuni abschließen.",
+        "hu": "Ez a nap ötvözi Vodnjan misztikus óvárosát a közeli tengerpart felfrissülésével. Miután meglátogatta a kulturális kincseket, például a múmiákat és az Ekomuzejt, autózzon át a közeli Peroj strandjára. Itt pihenéssel töltheti a délutánt a tengerparton, a napot pedig a Brijuni-szigetekre nyíló kilátással zárhatja.",
+        "ro": "Această zi combină orașul vechi mistic din Vodnjan cu prospețimea coastei din apropiere. După vizitarea comorilor culturale, cum ar fi mumiile și Ekomuzej, conduceți până la plaja din Peroj. Aici vă puteți relaxa după-amiaza la malul mării și puteți încheia ziua cu o vedere spre parcul național Brijuni.",
+        "en": "This day combines the mystical old town of Vodnjan with the refreshment of the nearby coast. After visiting cultural treasures like the mummies and the Ekomuzej, drive to the nearby Peroj beach. Here you can spend a relaxing afternoon by the sea and end the day with a view of the Brijuni Islands."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Meeresfrüchte",
+            "tip": "In den Restaurants am Strand von Peroj."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tenger gyümölcsei",
+            "tip": "A peroji tengerpart éttermeiben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fructe de mare",
+            "tip": "În restaurantele de pe plaja Peroj."
+          }
+        ],
+        "en": [
+          {
+            "name": "Seafood",
+            "tip": "In the restaurants at Peroj beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strand von Peroj am Abend",
+            "tip": "Ruhiger Blick auf die Adria.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peroji strand este",
+            "tip": "Csendes kilátás az Adriára.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Peroj seara",
+            "tip": "Vedere liniștită spre Marea Adriatică.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Peroj beach in the evening",
+            "tip": "Quiet view over the Adriatic.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus Vodnjan",
+            "tip": "Handgefertigte Keramik oder Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vodnjani szuvenírek",
+            "tip": "Kézzel készült kerámia vagy textil."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din Vodnjan",
+            "tip": "Ceramică sau textile lucrate manual."
+          }
+        ],
+        "en": [
+          {
+            "name": "Vodnjan souvenirs",
+            "tip": "Handmade ceramics or textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "In Vodnjan ist das Parken im Zentrum schwierig, nutzen Sie Außenparkplätze.",
+          "Die Küste ist nur 10-15 Autominuten entfernt.",
+          "Kombinieren Sie den Besuch mit einem Abstecher nach Fazana."
+        ],
+        "hu": [
+          "Vodnjan központjában nehéz parkolni, használja a külső parkolókat.",
+          "A tengerpart mindössze 10-15 perc autóval.",
+          "Érdemes összekötni a látogatást egy fažanai kitérővel."
+        ],
+        "ro": [
+          "Parcarea în centrul Vodnjan este dificilă, folosiți parcările exterioare.",
+          "Coasta este la doar 10-15 minute de condus.",
+          "Merită să combinați vizita cu o oprire în Fažana."
+        ],
+        "en": [
+          "Parking in the center of Vodnjan is difficult, use the outer lots.",
+          "The coast is only 10-15 minutes away by car.",
+          "It is worth combining the visit with a detour to Fažana."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Palača Bradamante",
+          "coords": [
+            44.9608,
+            13.8522
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle liegt nahe dem Zentrum.",
+            "hu": "A buszmegálló közel van a központhoz.",
+            "ro": "Stația de autobuz este aproape de centru.",
+            "en": "The bus stop is near the center."
+          }
+        },
+        {
+          "name": "Ulica vjenčanja",
+          "coords": [
+            44.9612,
+            13.8518
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Platz.",
+            "hu": "Rövid séta a térről.",
+            "ro": "O scurtă plimbare din piață.",
+            "en": "A short walk from the square."
+          }
+        },
+        {
+          "name": "Crkva sv. Blaža",
+          "coords": [
+            44.9615,
+            13.853
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Öffnungszeiten für Touristen.",
+            "hu": "Ügyeljen a turisták számára kijelölt nyitvatartásra.",
+            "ro": "Respectați programul de vizitare pentru turiști.",
+            "en": "Check the opening hours for tourists."
+          }
+        },
+        {
+          "name": "Ekomuzej Istrian de Dignan",
+          "coords": [
+            44.9605,
+            13.8525
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Museum ist im Sommer gut klimatisiert.",
+            "hu": "A múzeum nyáron kellemesen hűvös.",
+            "ro": "Muzeul este răcoros pe timpul verii.",
+            "en": "The museum is pleasantly cool in summer."
+          }
+        },
+        {
+          "name": "Mittagessen im Zentrum",
+          "coords": [
+            44.96,
+            13.8515
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Pasta-Gerichte.",
+            "hu": "Kóstolja meg a helyi tésztaételeket.",
+            "ro": "Gustați preparatele locale cu paste.",
+            "en": "Try local pasta dishes."
+          }
+        },
+        {
+          "name": "Murals Vodnjan",
+          "coords": [
+            44.9595,
+            13.8505
+          ],
+          "category": "landmark",
+          "arrive_at": "15:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der Rundgang endet nahe der Bushaltestelle.",
+            "hu": "A körséta a buszmegálló közelében ér véget.",
+            "ro": "Turul se termină aproape de stația de autobuz.",
+            "en": "The tour ends near the bus stop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vodnjan ist von Pula oder Fazana aus leicht mit dem Bus erreichbar. Dieser Plan konzentriert sich auf die kompakte Altstadt, in der alle Sehenswürdigkeiten nur wenige Gehminuten voneinander entfernt sind. Von den berühmten Mumien bis zu den modernen Wandmalereien bietet dieser Tag ein dichtes kulturelles Programm ohne Auto.",
+        "hu": "Vodnjan könnyen megközelíthető busszal Pulából vagy Fažanából. Ez a terv a kompakt óvárosra összpontosít, ahol minden látnivaló pár perces sétára található egymástól. A híres múmiáktól a modern falfestményekig ez a nap sűrű kulturális programot kínál autó nélkül is.",
+        "ro": "Vodnjan este ușor accesibil cu autobuzul din Pula sau Fažana. Acest plan se concentrează pe centrul vechi compact, unde toate atracțiile sunt la câteva minute de mers pe jos. De la faimoasele mumii până la picturile murale moderne, această zi oferă un program cultural dens, fără mașină.",
+        "en": "Vodnjan is easily accessible by bus from Pula or Fazana. This plan focuses on the compact old town, where all sights are within a few minutes' walk of each other. From the famous mummies to modern murals, this day offers a dense cultural program without the need for a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fuzi-Pasta",
+            "tip": "Traditionell serviert mit Trüffeln oder Gulasch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fuži tészta",
+            "tip": "Hagyományosan szarvasgombával vagy gulyással tálalva."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste Fuži",
+            "tip": "Servite tradițional cu trufe sau gulaș."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fuži Pasta",
+            "tip": "Traditionally served with truffles or goulash."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Innenhof des Ekomuzej",
+            "tip": "Ein ruhiger Ort zum Entspannen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ekomuzej belső udvara",
+            "tip": "Csendes hely a pihenésre.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea interioară a Ekomuzej",
+            "tip": "Un loc liniștit pentru relaxare.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ekomuzej inner courtyard",
+            "tip": "A quiet place for relaxation.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Kunsthandwerk",
+            "tip": "Kleine Geschenke im Museumsshop."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Apró ajándékok a múzeum boltjában."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Mici cadouri în magazinul muzeului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local handicrafts",
+            "tip": "Small gifts in the museum shop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busfahrpläne (Arriva oder Pulapromet) vorab.",
+          "Sonntags fahren die Busse seltener.",
+          "Die Altstadt ist kopfsteingepflastert, tragen Sie bequeme Schuhe."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet (Arriva vagy Pulapromet).",
+          "Vasárnaponként a buszok ritkábban járnak.",
+          "Az óváros macskaköves, viseljen kényelmes cipőt."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor (Arriva sau Pulapromet) în prealabil.",
+          "Duminica autobuzele circulă mai rar.",
+          "Centrul vechi are pavaj de piatră, purtați pantofi comozi."
+        ],
+        "en": [
+          "Check bus schedules (Arriva or Pulapromet) in advance.",
+          "Buses run less frequently on Sundays.",
+          "The old town is cobbled, so wear comfortable shoes."
+        ]
+      }
+    }
+  }
+}

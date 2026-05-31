@@ -1,0 +1,1172 @@
+{
+  "city_id": "croatia-starigrad-cities-v2",
+  "anchor": {
+    "name": "Starigrad-Paklenica",
+    "coords": [
+      44.2953,
+      15.4381
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3.5,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Café an der Riva / Riva kávézó / Cafenea pe faleză / Riva Café",
+          "coords": [
+            44.2955,
+            15.4375
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Frühstück mit Meerblick.",
+            "hu": "Reggeli kilátással a tengerre.",
+            "ro": "Mic dejun cu vedere la mare.",
+            "en": "Breakfast with a sea view."
+          }
+        },
+        {
+          "name": "Winnetou Múzeum / Winnetou-Museum / Muzeul Winnetou / Winnetou Museum",
+          "coords": [
+            44.2925,
+            15.441
+          ],
+          "category": "history",
+          "arrive_at": "10:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Original-Drehorte entdecken.",
+            "hu": "Fedezze fel az eredeti forgatási helyszíneket.",
+            "ro": "Descoperiți locațiile originale de filmare.",
+            "en": "Discover the original filming locations."
+          }
+        },
+        {
+          "name": "Szent Péter-templom / Kirche des hl. Petrus / Biserica Sfântul Petru / St. Peter's Church",
+          "coords": [
+            44.2995,
+            15.4325
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Alte Steinkirche am Meer.",
+            "hu": "Régi kőtemplom a tengerparton.",
+            "ro": "Biserică veche de piatră la malul mării.",
+            "en": "Old stone church by the sea."
+          }
+        },
+        {
+          "name": "Ebéd egy konobában / Mittagessen in einer Konoba / Prânz la o konoba / Lunch in a Konoba",
+          "coords": [
+            44.296,
+            15.4365
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch.",
+            "hu": "Kóstolja meg a friss halat.",
+            "ro": "Încercați peștele proaspăt.",
+            "en": "Try the fresh fish."
+          }
+        },
+        {
+          "name": "Večka kula & Strandidő / Večka kula & Strandpause / Večka kula & Timp la plajă / Večka kula & Beach time",
+          "coords": [
+            44.2855,
+            15.4475
+          ],
+          "category": "beach",
+          "arrive_at": "14:55",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Historischer Turm direkt am Strand.",
+            "hu": "Történelmi torony közvetlenül a strandon.",
+            "ro": "Turn istoric direct pe plajă.",
+            "en": "Historical tower right on the beach."
+          }
+        },
+        {
+          "name": "Kikötői séta / Hafenpromenade / Plimbare în port / Harbor Walk",
+          "coords": [
+            44.2945,
+            15.4385
+          ],
+          "category": "harbor",
+          "arrive_at": "17:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein Eis am Wasser.",
+            "hu": "Élvezze a fagylaltot a vízparton.",
+            "ro": "Bucurați-vă de o înghețată pe malul apei.",
+            "en": "Enjoy a gelato by the water."
+          }
+        },
+        {
+          "name": "Naplemente-nézés / Sonnenuntergang / Apus de soare / Sunset View",
+          "coords": [
+            44.295,
+            15.435
+          ],
+          "category": "sunset",
+          "arrive_at": "18:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss des Tages.",
+            "hu": "A nap tökéletes lezárása.",
+            "ro": "Finalul perfect al zilei.",
+            "en": "The perfect end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Tag in Starigrad beginnt mit einem Kaffee an der Riva, gefolgt von einem Besuch im Winnetou-Museum, das die Filmgeschichte der Region lebendig werden lässt. Nach der Besichtigung der antiken St. Petrus-Kirche genießen Sie ein traditionelles dalmatinisches Mittagessen. Den Nachmittag verbringen Sie am Kieselstrand beim historischen Večka-Turm, bevor der Tag mit einem Spaziergang im Hafen und einem malerischen Sonnenuntergang endet.",
+        "hu": "Egy pihentető nap Starigradban a Riva menti kávéval kezdődik, majd a Winnetou Múzeum meglátogatásával folytatódik, amely életre kelti a régió filmtörténetét. Az antik Szent Péter-templom megtekintése után hagyományos dalmát ebédet élvezhet. A délutánt a kavicsos strandon, a történelmi Večka-torony mellett tölti, mielőtt a nap a kikötői sétával és festői naplementével zárulna.",
+        "ro": "O zi relaxantă în Starigrad începe cu o cafea pe Riva, urmată de o vizită la Muzeul Winnetou, care aduce la viață istoria cinematografică a regiunii. După vizitarea vechii biserici Sf. Petru, vă veți bucura de un prânz tradițional dalmat. Petreceți după-amiaza pe plaja cu pietriș lângă turnul istoric Večka kula, înainte ca ziua să se încheie cu o plimbare în port și un apus pitoresc.",
+        "en": "A relaxing day in Starigrad starts with a coffee along the Riva, followed by a visit to the Winnetou Museum, which brings the region's film history to life. After visiting the ancient St. Peter's Church, enjoy a traditional Dalmatian lunch. Spend the afternoon on the pebble beach near the historical Večka tower, before the day concludes with a harbor stroll and a picturesque sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Ante",
+            "tip": "Probieren Sie Peka oder gegrillten Tintenfisch."
+          },
+          {
+            "name": "Restaurant Dinko",
+            "tip": "Beliebt bei Kletterern und Wanderern."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Ante",
+            "tip": "Kóstolja meg a pekát vagy a sült tintahalat."
+          },
+          {
+            "name": "Restaurant Dinko",
+            "tip": "A sziklamászók és túrázók kedvelt helye."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Ante",
+            "tip": "Încercați peka sau calmarul la grătar."
+          },
+          {
+            "name": "Restaurant Dinko",
+            "tip": "Popular printre alpiniști și turiști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Ante",
+            "tip": "Try the peka or grilled squid."
+          },
+          {
+            "name": "Restaurant Dinko",
+            "tip": "Popular among climbers and hikers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Večka kula Strand",
+            "tip": "Ruhiger Platz in den Abendstunden.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Peter Kirche",
+            "tip": "Stille am Meer.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Večka kula strand",
+            "tip": "Csendes hely az esti órákban.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szent Péter templom",
+            "tip": "Csend a tengerparton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plaja Večka kula",
+            "tip": "Loc liniștit în orele serii.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Biserica Sf. Petru",
+            "tip": "Liniște lângă mare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Večka kula beach",
+            "tip": "Quiet spot in the evening hours.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Peter Church",
+            "tip": "Silence by the sea.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Olivenöl und Honig aus dem Velebit."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Olívaolaj és méz a Velebitből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Ulei de măsline și miere din Velebit."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Olive oil and honey from Velebit."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Bequeme Schuhe für Kieselstrände tragen.",
+          "In der Hochsaison Tisch in Konobas reservieren.",
+          "Sonnenschutz ist mittags unerlässlich.",
+          "Kombinieren Sie Kultur mit Strandpausen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a kavicsos strandokhoz.",
+          "Főszezonban érdemes asztalt foglalni a konobákban.",
+          "Délben a napvédelem elengedhetetlen.",
+          "Kombinálja a kultúrát strandolással."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru plajele cu pietriș.",
+          "În plin sezon, rezervați masă la konobe.",
+          "Protecția solară este esențială la prânz.",
+          "Combinați cultura cu pauzele de plajă."
+        ],
+        "en": [
+          "Wear comfortable shoes for the pebble beaches.",
+          "In high season, book a table in konobas.",
+          "Sun protection is essential at midday.",
+          "Combine culture with beach breaks."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Riva & Kávé / Riva & Kaffee / Riva & Cafea / Riva & Coffee",
+          "coords": [
+            44.2955,
+            15.4375
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt an der Küste.",
+            "hu": "Kiindulópont a parton.",
+            "ro": "Punct de plecare pe coastă.",
+            "en": "Starting point on the coast."
+          }
+        },
+        {
+          "name": "Szent Péter-templom / Kirche des hl. Petrus / Biserica Sfântul Petru / St. Peter's Church",
+          "coords": [
+            44.2995,
+            15.4325
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp an der Kapelle.",
+            "hu": "Rövid megálló a kápolnánál.",
+            "ro": "Oprire scurtă la capelă.",
+            "en": "Short stop at the chapel."
+          }
+        },
+        {
+          "name": "Winnetou Múzeum / Winnetou-Museum / Muzeul Winnetou / Winnetou Museum",
+          "coords": [
+            44.2925,
+            15.441
+          ],
+          "category": "history",
+          "arrive_at": "10:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuch der Filmrequisiten.",
+            "hu": "A filmkellékek megtekintése.",
+            "ro": "Vizitarea recuzitei de film.",
+            "en": "Visit the movie props."
+          }
+        },
+        {
+          "name": "Večka kula & Strand / Večka kula & Beach",
+          "coords": [
+            44.2855,
+            15.4475
+          ],
+          "category": "beach",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erfrischung im Meer.",
+            "hu": "Frissítő a tengerben.",
+            "ro": "Răcorire în mare.",
+            "en": "Refreshment in the sea."
+          }
+        },
+        {
+          "name": "Ebéd a városban / Mittagessen in der Stadt / Prânz în oraș / Lunch in town",
+          "coords": [
+            44.296,
+            15.4365
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Dalmátische Küche stärkt.",
+            "hu": "Dalmát konyha ad erőt.",
+            "ro": "Bucătăria dalmată vă întărește.",
+            "en": "Dalmatian cuisine gives energy."
+          }
+        },
+        {
+          "name": "Paklenica Nemzeti Park / Nationalpark Paklenica / Parcul Național Paklenica / Paklenica National Park",
+          "coords": [
+            44.3015,
+            15.4575
+          ],
+          "category": "park",
+          "arrive_at": "14:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrt bis zum Parkeingang.",
+            "hu": "Bringázás a park bejáratáig.",
+            "ro": "Mersul cu bicicleta până la intrare.",
+            "en": "Cycling to the park entrance."
+          }
+        },
+        {
+          "name": "Mirila emlékhely / Mirila-Gedenksteine / Mirila / Mirila Monuments",
+          "coords": [
+            44.3055,
+            15.4655
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Mystische Grabsteine am Hang.",
+            "hu": "Misztikus sírkövek a hegyoldalban.",
+            "ro": "Pietre funerare mistice pe versant.",
+            "en": "Mystical gravestones on the slope."
+          }
+        },
+        {
+          "name": "Naplemente a parton / Sonnenuntergang an der Küste / Apus de soare pe coastă / Sunset at the coast",
+          "coords": [
+            44.295,
+            15.435
+          ],
+          "category": "sunset",
+          "arrive_at": "17:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ausklang der Radtour.",
+            "hu": "A biciklitúra levezetése.",
+            "ro": "Sfârșitul turului cu bicicleta.",
+            "en": "End of the bike tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Starigrad und seine Umgebung besonders flexibel. Nach dem Frühstück führt die Tour zur St. Petrus-Kirche und zum Winnetou-Museum. Ein Halt am Strand beim Večka-Turm sorgt für Abkühlung, bevor es bergauf zum Paklenica-Nationalpark geht. Ein besonderes Highlight sind die Mirila-Gedenksteine auf den Hügeln. Den Abschluss bildet eine entspannte Fahrt zurück an die Küste zum Sonnenuntergang.",
+        "hu": "Kerékpárral különösen rugalmasan fedezheti fel Starigradot és környékét. A reggeli után a túra a Szent Péter-templomhoz és a Winnetou Múzeumhoz vezet. Megálló a strandon a Večka-toronynál felfrissülést nyújt, mielőtt elindulna felfelé a Paklenica Nemzeti Parkba. Különleges látnivaló a Mirila emlékhely a dombokon. A napot egy pihentető tekerés zárja vissza a partra a naplementéhez.",
+        "ro": "Cu bicicleta, veți explora Starigrad și împrejurimile sale într-un mod deosebit de flexibil. După micul dejun, turul duce la biserica Sf. Petru și la Muzeul Winnetou. O oprire pe plajă la turnul Večka vă va răcori înainte de a urca spre Parcul Național Paklenica. O atracție specială sunt monumentele Mirila de pe dealuri. Ziua se încheie cu o plimbare relaxată înapoi pe coastă pentru apusul soarelui.",
+        "en": "By bike, you can explore Starigrad and its surroundings with great flexibility. After breakfast, the tour leads to St. Peter's Church and the Winnetou Museum. A stop at the beach by the Večka tower provides a cool down before heading uphill towards Paklenica National Park. A special highlight is the Mirila memorial site on the hills. The day concludes with a relaxed ride back to the coast for the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Alan",
+            "tip": "Schneller Snack für Radfahrer."
+          },
+          {
+            "name": "Konoba 5 Ferali",
+            "tip": "Hervorragende Meeresfrüchte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Alan",
+            "tip": "Gyors snack bicikliseknek."
+          },
+          {
+            "name": "Konoba 5 Ferali",
+            "tip": "Kiváló tengeri ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Alan",
+            "tip": "Gustare rapidă pentru bicicliști."
+          },
+          {
+            "name": "Konoba 5 Ferali",
+            "tip": "Fructe de mare excelente."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Alan",
+            "tip": "Quick snack for cyclists."
+          },
+          {
+            "name": "Konoba 5 Ferali",
+            "tip": "Excellent seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mirila Pfad",
+            "tip": "Ruhe und Bergluft.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Obere Paklenica Trails",
+            "tip": "Wandern im Schatten.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mirila ösvény",
+            "tip": "Csend és hegyi levegő.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Felső-Paklenica ösvények",
+            "tip": "Túrázás az árnyékban.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Traseul Mirila",
+            "tip": "Liniște și aer de munte.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Traseele de sus din Paklenica",
+            "tip": "Drumeții la umbră.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mirila path",
+            "tip": "Quiet and mountain air.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Upper Paklenica trails",
+            "tip": "Hiking in the shade.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop im Winnetou Museum",
+            "tip": "T-Shirts und Western-Memorabilia."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ajándékbolt a Winnetou Múzeumban",
+            "tip": "Pólók és western emléktárgyak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri la Muzeul Winnetou",
+            "tip": "Tricouri și memorabile western."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shop at Winnetou Museum",
+            "tip": "T-shirts and Western memorabilia."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Reifendruck vor der Tour.",
+          "Viel Wasser mitnehmen, besonders für die Paklenica-Fahrt.",
+          "Fahrradschloss ist an der Riva wichtig.",
+          "Vorsicht beim Fahren auf der Hauptstraße."
+        ],
+        "hu": [
+          "Ellenőrizze a guminyomást a túra előtt.",
+          "Vigyen sok vizet, főleg a Paklenica-szakaszra.",
+          "A kerékpárzár fontos a Rivánál.",
+          "Legyen óvatos a főúton való haladáskor."
+        ],
+        "ro": [
+          "Verificați presiunea anvelopelor înainte de tur.",
+          "Luați multă apă, mai ales pentru drumul spre Paklenica.",
+          "Antifurtul este important la Riva.",
+          "Atenție la condusul pe drumul principal."
+        ],
+        "en": [
+          "Check tire pressure before the tour.",
+          "Take plenty of water, especially for the Paklenica ride.",
+          "A bike lock is important at the Riva.",
+          "Be careful when cycling on the main road."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Központi Parkoló & Kávé / Zentrum Parkplatz & Kaffee / Parcare Centru & Cafea / Center Parking & Coffee",
+          "coords": [
+            44.2955,
+            15.4375
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Startpunkt.",
+            "hu": "Központi kiindulópont.",
+            "ro": "Punct de plecare central.",
+            "en": "Central starting point."
+          }
+        },
+        {
+          "name": "Winnetou Múzeum / Winnetou-Museum / Muzeul Winnetou / Winnetou Museum",
+          "coords": [
+            44.2925,
+            15.441
+          ],
+          "category": "history",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Parkplatz direkt vor dem Museum.",
+            "hu": "Parkoló közvetlenül a múzeum előtt.",
+            "ro": "Parcare chiar în fața muzeului.",
+            "en": "Parking right in front of the museum."
+          }
+        },
+        {
+          "name": "Szent Péter-templom / Kirche des hl. Petrus / Biserica Sfântul Petru / St. Peter's Church",
+          "coords": [
+            44.2995,
+            15.4325
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Cluster A: Spaziergang am Meer.",
+            "hu": "A-csoport: Séta a tengerparton.",
+            "ro": "Cluster A: Plimbare pe malul mării.",
+            "en": "Cluster A: Walk by the sea."
+          }
+        },
+        {
+          "name": "Večka kula & Strand / Večka kula & Beach",
+          "coords": [
+            44.2855,
+            15.4475
+          ],
+          "category": "beach",
+          "arrive_at": "12:00",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Cluster B: Kurze Fahrt zum Turm.",
+            "hu": "B-csoport: Rövid út a toronyhoz.",
+            "ro": "Cluster B: Drum scurt până la turn.",
+            "en": "Cluster B: Short drive to the tower."
+          }
+        },
+        {
+          "name": "Ebéd a város szélén / Mittagessen am Stadtrand / Prânz la marginea orașului / Lunch on the outskirts",
+          "coords": [
+            44.2965,
+            15.44
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Hausgemachte Speisen genießen.",
+            "hu": "Élvezze a házias ételeket.",
+            "ro": "Bucurați-vă de mâncăruri de casă.",
+            "en": "Enjoy homemade dishes."
+          }
+        },
+        {
+          "name": "Paklenica Nemzeti Park / Nationalpark Paklenica / Parcul Național Paklenica / Paklenica National Park",
+          "coords": [
+            44.3015,
+            15.4575
+          ],
+          "category": "park",
+          "arrive_at": "15:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Cluster C: Fahrt in den Canyon.",
+            "hu": "C-csoport: Autózás a kanyonba.",
+            "ro": "Cluster C: Mers cu mașina în canion.",
+            "en": "Cluster C: Drive into the canyon."
+          }
+        },
+        {
+          "name": "Mirila kilátópont / Mirila Aussichtspunkt / Mirila Belvedere / Mirila Viewpoint",
+          "coords": [
+            44.3055,
+            15.4655
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Panoramablick über die Küste.",
+            "hu": "Panorámás kilátás a partra.",
+            "ro": "Vedere panoramică asupra coastei.",
+            "en": "Panoramic view over the coast."
+          }
+        },
+        {
+          "name": "Visszatérés / Rückkehr / Întoarcere / Return",
+          "coords": [
+            44.295,
+            15.435
+          ],
+          "category": "harbor",
+          "arrive_at": "18:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Abschluss an der Riva.",
+            "hu": "Zárás a Rivánál.",
+            "ro": "Final la Riva.",
+            "en": "Conclusion at the Riva."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Highlights von Starigrad in thematischen Clustern. Zuerst erkunden Sie das kulturelle Zentrum mit dem Winnetou-Museum und der St. Petrus-Kirche. Danach führt eine kurze Fahrt zum Večka-Turm für eine ausgiebige Strandpause. Der Nachmittag gehört dem Paklenica-Nationalpark und dem spektakulären Mirila-Aussichtspunkt, bevor Sie den Tag entspannt am Hafen ausklingen lassen.",
+        "hu": "Autóval kényelmesen elérheti Starigrad különféle nevezetességeit tematikus csoportokban. Először a kulturális központot fedezi fel a Winnetou Múzeummal és a Szent Péter-templommal. Ezután egy rövid út vezet a Večka-toronyhoz egy kiadós strandoláshoz. A délután a Paklenica Nemzeti Parké és a látványos Mirila kilátóponté, mielőtt a napot pihentetően a kikötőben zárná.",
+        "ro": "Cu mașina, veți ajunge confortabil la diferitele atracții din Starigrad în clustere tematice. Mai întâi, explorați centrul cultural cu Muzeul Winnetou și biserica Sf. Petru. Apoi, o scurtă călătorie duce la turnul Večka pentru o pauză lungă de plajă. După-amiaza aparține Parcului Național Paklenica și punctului de belvedere spectaculos Mirila, înainte de a încheia ziua relaxat în port.",
+        "en": "By car, you can comfortably reach the various highlights of Starigrad in thematic clusters. First, explore the cultural center with the Winnetou Museum and St. Peter's Church. Then, a short drive leads to the Večka tower for an extensive beach break. The afternoon is dedicated to Paklenica National Park and the spectacular Mirila viewpoint, before ending the day in a relaxed manner at the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Rajna",
+            "tip": "Probieren Sie lokale Fleischspezialitäten."
+          },
+          {
+            "name": "Pizzeria Alan",
+            "tip": "Gute Pizza direkt am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Rajna",
+            "tip": "Kóstolja meg a helyi hússpecialitásokat."
+          },
+          {
+            "name": "Pizzeria Alan",
+            "tip": "Jó pizza közvetlenül a víznél."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Rajna",
+            "tip": "Încercați specialitățile locale din carne."
+          },
+          {
+            "name": "Pizzeria Alan",
+            "tip": "Pizza bună direct lângă apă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Rajna",
+            "tip": "Try local meat specialties."
+          },
+          {
+            "name": "Pizzeria Alan",
+            "tip": "Good pizza right by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Paklenica Canyon",
+            "tip": "Gewaltige Felswände und Stille.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Mirila Parkplatz",
+            "tip": "Toller Ausblick ohne Wandern.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Paklenica kanyon",
+            "tip": "Hatalmas sziklafalak és csend.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Mirila parkoló",
+            "tip": "Remek kilátás túrázás nélkül.",
+            "emoji": "🏔️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canionul Paklenica",
+            "tip": "Pereți masivi de stâncă și liniște.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Parcare Mirila",
+            "tip": "Vedere superbă fără drumeții.",
+            "emoji": "🏔️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Paklenica Canyon",
+            "tip": "Massive rock walls and silence.",
+            "emoji": "🏔️"
+          },
+          {
+            "name": "Mirila parking",
+            "tip": "Great view without hiking.",
+            "emoji": "🏔️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Verkaufsstände an der Hauptstraße",
+            "tip": "Hausgemachter Schnaps und Feigen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Árusító pultok a főút mentén",
+            "tip": "Házi pálinka és füge."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tarabe pe drumul principal",
+            "tip": "Rachiu de casă și smochine."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stalls along the main road",
+            "tip": "Homemade brandy and figs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken am Nationalpark ist kostenpflichtig.",
+          "Cluster-Prinzip spart Zeit und Stress.",
+          "In den Sommermonaten kann es auf der Küstenstraße voll sein.",
+          "Nutzen Sie den Wagen für den Aufstieg nach Paklenica."
+        ],
+        "hu": [
+          "A nemzeti parknál a parkolás fizetős.",
+          "A csoportosítás időt és stresszt takarít meg.",
+          "A nyári hónapokban a parti út zsúfolt lehet.",
+          "Használja az autót a Paklenicába való feljutáshoz."
+        ],
+        "ro": [
+          "Parcarea la parcul național este contra cost.",
+          "Principiul clusterelor economisește timp și stres.",
+          "În lunile de vară, drumul de coastă poate fi aglomerat.",
+          "Folosiți mașina pentru urcarea spre Paklenica."
+        ],
+        "en": [
+          "Parking at the national park is not free.",
+          "The cluster principle saves time and stress.",
+          "In the summer months, the coastal road can be crowded.",
+          "Use the car for the ascent to Paklenica."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 10.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Starigrad Bus megálló / Starigrad Busstopp / Stație de autobuz Starigrad / Starigrad Bus Stop",
+          "coords": [
+            44.2955,
+            15.4375
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt.",
+            "hu": "Központi érkezési pont.",
+            "ro": "Punct de sosire central.",
+            "en": "Central arrival point."
+          }
+        },
+        {
+          "name": "Winnetou Múzeum / Winnetou-Museum / Muzeul Winnetou / Winnetou Museum",
+          "coords": [
+            44.2925,
+            15.441
+          ],
+          "category": "history",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Bluesun Hotel.",
+            "hu": "Rövid séta a Bluesun Hoteltől.",
+            "ro": "Scurtă plimbare de la Hotel Bluesun.",
+            "en": "Short walk from Bluesun Hotel."
+          }
+        },
+        {
+          "name": "Szent Péter-templom / Kirche des hl. Petrus / Biserica Sfântul Petru / St. Peter's Church",
+          "coords": [
+            44.2995,
+            15.4325
+          ],
+          "category": "religious",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spaziergang entlang der Riva.",
+            "hu": "Séta a Riva mentén.",
+            "ro": "Plimbare de-a lungul Riva.",
+            "en": "Stroll along the Riva."
+          }
+        },
+        {
+          "name": "Konoba ebéd / Mittagessen in der Konoba / Prânz la konoba / Konoba Lunch",
+          "coords": [
+            44.296,
+            15.4365
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Traditionelle Gerichte genießen.",
+            "hu": "Hagyományos ételek élvezete.",
+            "ro": "Bucurați-vă de mâncăruri tradiționale.",
+            "en": "Enjoy traditional dishes."
+          }
+        },
+        {
+          "name": "Večka kula & Strand / Večka kula & Beach",
+          "coords": [
+            44.2855,
+            15.4475
+          ],
+          "category": "beach",
+          "arrive_at": "14:20",
+          "stay_min": 140,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erholung am Meer.",
+            "hu": "Pihenés a tengernél.",
+            "ro": "Relaxare la mare.",
+            "en": "Relaxation by the sea."
+          }
+        },
+        {
+          "name": "Fagylalt a kikötőben / Eis am Hafen / Înghețată în port / Gelato in the harbor",
+          "coords": [
+            44.2945,
+            15.4385
+          ],
+          "category": "gastro",
+          "arrive_at": "17:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Süßer Abschluss am Nachmittag.",
+            "hu": "Édes zárás délután.",
+            "ro": "Final dulce după-amiaza.",
+            "en": "Sweet conclusion in the afternoon."
+          }
+        },
+        {
+          "name": "Visszatérés a buszhoz / Rückkehr zum Bus / Întoarcere la autobuz / Return to the bus",
+          "coords": [
+            44.295,
+            15.435
+          ],
+          "category": "transit",
+          "arrive_at": "18:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Abfahrt Richtung Zadar.",
+            "hu": "Indulás Zára (Zadar) felé.",
+            "ro": "Plecare spre Zadar.",
+            "en": "Departure towards Zadar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starigrad lässt sich gut mit dem Bus (Transit) erreichen, vor allem von Zadar aus. Nach der Ankunft erkunden Sie das kulturelle Angebot zu Fuß: Das Winnetou-Museum und die historische St. Petrus-Kirche sind gut erreichbar. Ein langer Strandaufenthalt beim Večka-Turm sorgt für Entspannung. Da der Nationalpark Paklenica etwas abseits liegt, konzentriert sich dieser Tag auf die Küsten-Highlights und das entspannte Flair der Stadt.",
+        "hu": "Starigrad jól megközelíthető busszal (tömegközlekedéssel), főleg Zadar felől. Érkezés után gyalogosan fedezheti fel a kulturális kínálatot: a Winnetou Múzeum és a történelmi Szent Péter-templom könnyen elérhető. Egy hosszú strandolás a Večka-toronynál kikapcsolódást nyújt. Mivel a Paklenica Nemzeti Parké kicsit kiesik, ez a nap a parti látnivalókra és a város nyugodt hangulatára összpontosít.",
+        "ro": "Starigrad este ușor accesibil cu autobuzul (tranzit), în special dinspre Zadar. După sosire, explorați oferta culturală pe jos: Muzeul Winnetou și biserica istorică Sf. Petru sunt ușor accesibile. O ședere lungă pe plajă la turnul Večka oferă relaxare. Deoarece Parcul Național Paklenica este puțin mai departe, această zi se concentrează pe atracțiile de pe coastă și atmosfera relaxată a orașului.",
+        "en": "Starigrad is easily accessible by bus (transit), especially from Zadar. Upon arrival, explore the cultural offerings on foot: the Winnetou Museum and the historical St. Peter's Church are well within reach. A long beach stay at the Večka tower provides relaxation. Since Paklenica National Park is slightly further away, this day focuses on the coastal highlights and the town's relaxed flair."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Marin",
+            "tip": "Günstige und gute lokale Gerichte."
+          },
+          {
+            "name": "Café Bar Riva",
+            "tip": "Bester Platz für den Morgenkaffee."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Marin",
+            "tip": "Olcsó és jó helyi ételek."
+          },
+          {
+            "name": "Café Bar Riva",
+            "tip": "A legjobb hely a reggeli kávéhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Marin",
+            "tip": "Mâncăruri locale ieftine și bune."
+          },
+          {
+            "name": "Café Bar Riva",
+            "tip": "Cel mai bun loc pentru cafeaua de dimineață."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Marin",
+            "tip": "Cheap and good local dishes."
+          },
+          {
+            "name": "Café Bar Riva",
+            "tip": "Best spot for morning coffee."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Strandabschnitte nördlich der Riva",
+            "tip": "Weniger Trubel als im Zentrum.",
+            "emoji": "🏖️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "A Rivától északra lévő strandszakaszok",
+            "tip": "Kisebb nyüzsgés, mint a központban.",
+            "emoji": "🏖️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Secțiunile de plajă la nord de Riva",
+            "tip": "Mai puțină agitație decât în centru.",
+            "emoji": "🏖️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach sections north of the Riva",
+            "tip": "Less hustle and bustle than in the center.",
+            "emoji": "🏖️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Kioske",
+            "tip": "Postkarten und Strandartikel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kioszkok",
+            "tip": "Képeslapok és strandcikkek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcuri locale",
+            "tip": "Vederi și articole de plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Kiosks",
+            "tip": "Postcards and beach gear."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan für die Rückfahrt nach Zadar.",
+          "Tragen Sie Sonnenschutz, da viel gelaufen wird.",
+          "Halten Sie Kleingeld für den Bus bereit.",
+          "Das Winnetou Museum ist ein Muss für Filmfans."
+        ],
+        "hu": [
+          "Ellenőrizze a buszmenetrendet a Zadarba való visszatéréshez.",
+          "Használjon naptejet, mert sokat kell gyalogolni.",
+          "Készítsen elő aprópénzt a buszra.",
+          "A Winnetou Múzeum kötelező a filmrajongóknak."
+        ],
+        "ro": [
+          "Verificați programul autobuzelor pentru întoarcerea la Zadar.",
+          "Folosiți protecție solară, deoarece se merge mult pe jos.",
+          "Aveți mărunțiș pregătit pentru autobuz.",
+          "Muzeul Winnetou este obligatoriu pentru fanii filmului."
+        ],
+        "en": [
+          "Check the bus schedule for the return trip to Zadar.",
+          "Use sun protection as there is a lot of walking involved.",
+          "Have small change ready for the bus.",
+          "The Winnetou Museum is a must for film fans."
+        ]
+      }
+    }
+  }
+}

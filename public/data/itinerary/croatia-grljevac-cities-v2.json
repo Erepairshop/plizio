@@ -1,0 +1,1016 @@
+{
+  "city_id": "croatia-grljevac-cities-v2",
+  "anchor": {
+    "name": "Grljevac",
+    "coords": [
+      16.5464,
+      43.4883
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Morning Coffee at the Riva",
+          "coords": [
+            16.54,
+            43.493
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Jachten bei einem ersten Kaffee.",
+            "hu": "Élvezze a jachtok látványát egy reggeli kávé mellett a parton.",
+            "ro": "Savurați prima cafea admirând iahturile din port.",
+            "en": "Enjoy the view of the yachts with your morning coffee by the sea."
+          }
+        },
+        {
+          "name": "Marina Lav",
+          "coords": [
+            16.539,
+            43.493
+          ],
+          "category": "port",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein moderner Jachthafen mit exklusiver Atmosphäre.",
+            "hu": "Modern kikötő exkluzív hangulattal és szép hajókkal.",
+            "ro": "O marină modernă cu o atmosferă exclusivistă.",
+            "en": "A modern marina with an exclusive Mediterranean atmosphere."
+          }
+        },
+        {
+          "name": "Ljetnikovac Cindro",
+          "coords": [
+            16.541,
+            43.492
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Gärten dieses barocken Sommerhauses.",
+            "hu": "Látogasson el a barokk nyaraló gondozott kertjeibe.",
+            "ro": "Vizitați grădinile acestui conac baroc de vară.",
+            "en": "Visit the gardens of this historic baroque summer mansion."
+          }
+        },
+        {
+          "name": "Lunch at a Local Konoba",
+          "coords": [
+            16.544,
+            43.49
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch oder das lokale Soparnik.",
+            "hu": "Kóstoljon friss halat vagy a helyi Soparnik lepényt.",
+            "ro": "Încercați peștele proaspăt sau plăcinta locală Soparnik.",
+            "en": "Try fresh grilled fish or the local Soparnik savory pie."
+          }
+        },
+        {
+          "name": "Crkva sv. Martina",
+          "coords": [
+            16.558,
+            43.476
+          ],
+          "category": "religious",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Eine friedliche Kirche mit historischer Bedeutung für die Region.",
+            "hu": "Békés templom, amely fontos történelmi emlékhely.",
+            "ro": "O biserică liniștită cu semnificație istorică pentru regiune.",
+            "en": "A peaceful church with historical significance for the local area."
+          }
+        },
+        {
+          "name": "Plaža Grljevac",
+          "coords": [
+            16.546,
+            43.488
+          ],
+          "category": "beach",
+          "arrive_at": "15:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser, ideal zum Schwimmen und Entspannen.",
+            "hu": "Kristálytiszta víz, ideális úszáshoz és pihenéshez.",
+            "ro": "Apă cristalină, ideală pentru înot și relaxare.",
+            "en": "Crystal clear water, perfect for swimming and relaxation."
+          }
+        },
+        {
+          "name": "Sunset Beach Walk",
+          "coords": [
+            16.545,
+            43.489
+          ],
+          "category": "sunset",
+          "arrive_at": "18:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss des Tages mit Blick auf Brač.",
+            "hu": "A nap tökéletes zárása kilátással Brač szigetére.",
+            "ro": "Finalul perfect al zilei cu vedere spre insula Brač.",
+            "en": "The perfect end to the day with a view towards Brač island."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Grljevac bietet eine perfekte Mischung aus Eleganz und Entspannung. Beginnen Sie Ihren Tag im schicken Jachthafen Marina Lav und tauchen Sie im Ljetnikovac Cindro in die Geschichte ein. Nach einem authentischen dalmatinischen Mittagessen führt Sie ein Spaziergang zur historischen St.-Martins-Kirche, bevor Sie den Nachmittag am weitläufigen Kiesstrand von Grljevac ausklingen lassen.",
+        "hu": "Grljevac az elegancia és a pihenés tökéletes egyvelegét kínálja. Kezdje a napot a stílusos Marina Lav kikötőben, majd merüljön el a történelemben a Cindro-nyaralónál. Egy autentikus dalmát ebéd után sétáljon el a Szent Márton-templomhoz, végül töltse a délutánt a Grljevac kavicsos strandján, élvezve az Adriai-tenger nyugalmát.",
+        "ro": "Grljevac oferă un amestec perfect de eleganță și relaxare. Începeți ziua în marina stilată Marina Lav, apoi descoperiți istoria la conacul Cindro. După un prânz autentic dalmațian, o plimbare vă va duce la biserica istorică Sf. Martin, înainte de a vă bucura de după-amiaza pe plaja cu pietriș Grljevac, admirând marea.",
+        "en": "Grljevac offers a perfect blend of coastal elegance and relaxation. Start your day at the stylish Marina Lav, then dive into local history at the Cindro Mansion. After an authentic Dalmatian lunch, take a stroll to the historic Church of St. Martin, before spending the afternoon on the pebbled shores of Grljevac Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Argola",
+            "tip": "Probieren Sie den schwarzen Risotto (Crni rižot)."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "Ein traditioneller Mangoldkuchen aus der Region Poljica."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Argola",
+            "tip": "Kóstolja meg a fekete rizottót (Crni rižot)."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "Tradicionális mángoldos lepény a Poljica régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Argola",
+            "tip": "Încercați risottoul negru (Crni rižot)."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "O plăcintă tradițională cu mangold din regiunea Poljica."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Argola",
+            "tip": "Try the famous Dalmatian black risotto (Crni rižot)."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "A traditional chard-filled savory pie from the Poljica region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cindro-Garten",
+            "tip": "Ein schattiger Rückzugsort im historischen Ambiente.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Küste von St. Martin",
+            "tip": "Ruhigerer Strandabschnitt südlich vom Zentrum.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cindro-kert",
+            "tip": "Árnyas menedék történelmi környezetben.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Szent Márton part",
+            "tip": "Csendesebb szakasz a központtól délre.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Cindro",
+            "tip": "Un refugiu umbrit într-un cadru istoric.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "Țărmul Sf. Martin",
+            "tip": "O porțiune de plajă mai liniștită la sud de centru.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cindro Garden",
+            "tip": "A shaded retreat within a historical setting.",
+            "emoji": "🌿"
+          },
+          {
+            "name": "St. Martin Shore",
+            "tip": "A quieter stretch of beach south of the main center.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokal Olivenöl",
+            "tip": "Direkt von den Erzeugern in Podstrana."
+          },
+          {
+            "name": "Lavendel-Säckchen",
+            "tip": "Ein duftendes Souvenir aus Dalmatien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon közvetlenül a podstranai termelőktől."
+          },
+          {
+            "name": "Levendulazsák",
+            "tip": "Illatos emléktárgy Dalmáciából."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați direct de la producătorii din Podstrana."
+          },
+          {
+            "name": "Săculeți cu lavandă",
+            "tip": "Un suvenir parfumat din Dalmația."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Purchase directly from producers in Podstrana."
+          },
+          {
+            "name": "Lavender Sachets",
+            "tip": "A fragrant souvenir from the Dalmatian coast."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Spaziergang entlang der Küstenstraße.",
+          "Badeschuhe sind wegen des Kiesstrandes empfehlenswert.",
+          "Die Bushaltestellen der Linie 60 verbinden Grljevac mit Split.",
+          "In der Hochsaison ist eine Reservierung in den Konobas ratsam."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a tengerparti sétányon való gyalogláshoz.",
+          "A kavicsos strand miatt ajánlott a vízi cipő használata.",
+          "A 60-as busz megállói összekötik Grljevacot Splittel.",
+          "Főszezonban érdemes asztalt foglalni a konobákban."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru plimbarea de-a lungul coastei.",
+          "Se recomandă încălțămintea de apă pentru plaja cu pietriș.",
+          "Stațiile autobuzului 60 fac legătura între Grljevac și Split.",
+          "În plin sezon, este recomandată rezervarea unei mese la konoba."
+        ],
+        "en": [
+          "Wear comfortable shoes for the walk along the coastal promenade.",
+          "Water shoes are recommended due to the pebbled beach.",
+          "Bus line 60 stops regularly connect Grljevac with Split and Omiš.",
+          "Table reservations are advised for seaside konobas during peak season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Marina Lav",
+          "coords": [
+            16.539,
+            43.493
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour am eleganten Hafen.",
+            "hu": "Kezdje a túrát az elegáns kikötőnél.",
+            "ro": "Începeți turul în portul elegant.",
+            "en": "Start your bike tour at the elegant marina."
+          }
+        },
+        {
+          "name": "Ljetnikovac Cindro",
+          "coords": [
+            16.541,
+            43.492
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Stopp beim historischen Herrenhaus.",
+            "hu": "Rövid megálló a történelmi udvarháznál.",
+            "ro": "Scurt popas la conacul istoric.",
+            "en": "Short stop at the historic mansion."
+          }
+        },
+        {
+          "name": "Coastal Path Ride",
+          "coords": [
+            16.55,
+            43.484
+          ],
+          "category": "park",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Brise auf dem Weg nach Süden.",
+            "hu": "Élvezze a szellőt a déli irányba vezető úton.",
+            "ro": "Bucurați-vă de briză pe drumul spre sud.",
+            "en": "Enjoy the sea breeze on the path heading south."
+          }
+        },
+        {
+          "name": "Crkva sv. Martina",
+          "coords": [
+            16.558,
+            43.476
+          ],
+          "category": "religious",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besichtigung der alten Kirche von St. Martin.",
+            "hu": "A Szent Márton templom megtekintése.",
+            "ro": "Vizitarea vechii biserici Sf. Martin.",
+            "en": "Visit the ancient Church of St. Martin."
+          }
+        },
+        {
+          "name": "Lunch Break by the Sea",
+          "coords": [
+            16.545,
+            43.489
+          ],
+          "category": "gastro",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Energie tanken mit lokalen Spezialitäten.",
+            "hu": "Töltődjön fel helyi specialitásokkal.",
+            "ro": "Reîncărcați-vă cu specialități locale.",
+            "en": "Refuel with some local Dalmatian specialties."
+          }
+        },
+        {
+          "name": "Plaža Grljevac",
+          "coords": [
+            16.546,
+            43.488
+          ],
+          "category": "beach",
+          "arrive_at": "14:25",
+          "stay_min": 140,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lange Pause am Strand zum Schwimmen.",
+            "hu": "Hosszú strandolás és úszás a tengerben.",
+            "ro": "Pauză lungă la plajă pentru înot.",
+            "en": "Long beach break for swimming and sunbathing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die Riviera von Podstrana auf zwei Rädern. Von der Marina Lav fahren Sie gemütlich am Meer entlang, vorbei am Cindro-Haus bis zur St.-Martins-Kirche. Der flache Küstenweg bietet herrliche Ausblicke und führt Sie schließlich zurück zum Strand von Grljevac für ein erfrischendes Bad.",
+        "hu": "Fedezze fel Podstrana riviéráját két keréken. A Marina Lavtól indulva kényelmesen tekerhet a tenger mentén, érintve a Cindro-házat egészen a Szent Márton-templomig. A sík tengerparti út csodás kilátást nyújt, végül visszavezeti Grljevac strandjára egy frissítő csobbanásra.",
+        "ro": "Explorați Riviera Podstrana pe două roți. Plecând din Marina Lav, pedalați lejer de-a lungul mării, trecând pe lângă conacul Cindro până la biserica Sf. Martin. Drumul de coastă plat oferă vederi superbe și vă aduce înapoi la plaja Grljevac pentru o baie răcoritoare.",
+        "en": "Explore the Podstrana Riviera on two wheels. Starting from Marina Lav, enjoy a leisurely ride along the sea, passing the Cindro Mansion all the way to the Church of St. Martin. The flat coastal path offers stunning views and leads you back to Grljevac Beach for a refreshing swim."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Jure",
+            "tip": "Gute Pasta und Meeresfrüchte direkt am Weg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Jure",
+            "tip": "Kiváló tésztafélék és tenger gyümölcsei az út mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Jure",
+            "tip": "Paste bune și fructe de mare chiar pe traseu."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Jure",
+            "tip": "Excellent pasta and seafood located right on the route."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Küstenspazierweg",
+            "tip": "Ruhige Momente beim Radeln im Schatten der Pinien.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Parti sétány",
+            "tip": "Csendes pillanatok a fenyők árnyékában tekerve.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Promenada de coastă",
+            "tip": "Momente de liniște pedalând la umbra pinilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Coastal Path",
+            "tip": "Quiet moments cycling under the shade of pine trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Obststand am Weg",
+            "tip": "Frische lokale Feigen und Pfirsiche."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Útszéli gyümölcsös",
+            "tip": "Friss helyi füge és őszibarack."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand de fructe",
+            "tip": "Smochine și piersici locale proaspete."
+          }
+        ],
+        "en": [
+          {
+            "name": "Roadside Fruit Stand",
+            "tip": "Fresh local figs and peaches from nearby orchards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Küstenweg ist größtenteils flach und für alle Fitnesslevel geeignet.",
+          "Achten Sie auf Fußgänger auf der Uferpromenade.",
+          "Nehmen Sie ausreichend Wasser mit."
+        ],
+        "hu": [
+          "A tengerparti út jórészt sík, minden erőnléti szintnek megfelel.",
+          "Vigyázzon a gyalogosokra a tengerparti sétányon.",
+          "Vigyen magával elegendő vizet."
+        ],
+        "ro": [
+          "Drumul de coastă este în mare parte plat, potrivit pentru orice nivel.",
+          "Atenție la pietonii de pe promenadă.",
+          "Luați suficientă apă cu voi."
+        ],
+        "en": [
+          "The coastal path is mostly flat and suitable for all fitness levels.",
+          "Watch out for pedestrians on the shared promenade sections.",
+          "Keep hydrated and carry enough water during summer rides."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Marina Lav (Cluster A)",
+          "coords": [
+            16.539,
+            43.493
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Hotel Le Méridien Lav.",
+            "hu": "Parkoljon a Le Méridien Lav hotelnél.",
+            "ro": "Parcați la hotelul Le Méridien Lav.",
+            "en": "Park near the Le Méridien Lav hotel complex."
+          }
+        },
+        {
+          "name": "Ljetnikovac Cindro (Cluster A)",
+          "coords": [
+            16.541,
+            43.492
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang von der Marina.",
+            "hu": "Rövid séta a kikötőtől.",
+            "ro": "O scurtă plimbare de la marină.",
+            "en": "A short walk from the marina area."
+          }
+        },
+        {
+          "name": "Viewpoint Podstrana",
+          "coords": [
+            16.565,
+            43.495
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahrt bergauf für Panoramafotos der Küste.",
+            "hu": "Autózzon feljebb a panorámafotókért a partról.",
+            "ro": "Urcați cu mașina pentru fotografii panoramice.",
+            "en": "Drive slightly uphill for panoramic coastal photos."
+          }
+        },
+        {
+          "name": "Crkva sv. Martina (Cluster B)",
+          "coords": [
+            16.558,
+            43.476
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche am südlichen Ende.",
+            "hu": "Látogassa meg a templomot a déli részen.",
+            "ro": "Vizitați biserica în partea de sud.",
+            "en": "Visit the church at the southern end of the town."
+          }
+        },
+        {
+          "name": "Lunch at Konoba",
+          "coords": [
+            16.548,
+            43.487
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Regionale Fleisch- und Fischgerichte.",
+            "hu": "Regionális hús- és halételek.",
+            "ro": "Preparate regionale din carne și pește.",
+            "en": "Authentic regional meat and fish dishes."
+          }
+        },
+        {
+          "name": "Plaža Grljevac (Cluster B)",
+          "coords": [
+            16.546,
+            43.488
+          ],
+          "category": "beach",
+          "arrive_at": "14:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannung am Hauptstrand von Grljevac.",
+            "hu": "Pihenés Grljevac fő strandján.",
+            "ro": "Relaxare pe plaja principală din Grljevac.",
+            "en": "Relaxation at the main beach of Grljevac."
+          }
+        },
+        {
+          "name": "Seaside Sunset",
+          "coords": [
+            16.547,
+            43.486
+          ],
+          "category": "sunset",
+          "arrive_at": "16:55",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag am Wasser ausklingen.",
+            "hu": "Zárja a napot a vízparton.",
+            "ro": "Încheiați ziua pe malul mării.",
+            "en": "Finish your day by the water's edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken Sie sowohl die Küstenhighlights als auch die Hügel von Podstrana. Nach dem Besuch der Marina Lav und des Cindro-Hauses bietet ein kurzer Abstecher bergauf atemberaubende Ausblicke. Der Tag führt Sie weiter zur St.-Martins-Kirche und endet mit entspannten Stunden am Strand von Grljevac.",
+        "hu": "Autóval felfedezheti Podstrana tengerparti gyöngyszemeit és a domboldal kilátópontjait is. A Marina Lav és a Cindro-ház megtekintése után egy rövid hegyi kitérő kínál lenyűgöző panorámát. A nap a Szent Márton-templomnál folytatódik, és a Grljevac strandon való pihenéssel zárul.",
+        "ro": "Cu mașina veți descoperi atât punctele de atracție de pe coastă, cât și dealurile din Podstrana. După vizitarea marinei Lav și a conacului Cindro, o scurtă urcare oferă vederi uluitoare. Ziua continuă la biserica Sf. Martin și se încheie cu ore relaxante pe plaja Grljevac.",
+        "en": "By car, you can explore both the coastal highlights and the scenic hills of Podstrana. After visiting Marina Lav and the Cindro Mansion, a short drive uphill offers breathtaking views. The journey continues to the Church of St. Martin and ends with a peaceful afternoon at Grljevac Beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Galija",
+            "tip": "Hervorragende Peka (unter der Glocke gegart)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Galija",
+            "tip": "Kiváló Peka (harang alatt sült étel)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Galija",
+            "tip": "Peka excelentă (gătită sub capac de fier)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Galija",
+            "tip": "Excellent traditional Peka (slow-cooked under a bell)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Aussichtspunkt Gornja Podstrana",
+            "tip": "Stille und Weite oberhalb der Küste.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gornja Podstrana kilátó",
+            "tip": "Csend és tágas tér a part felett.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punct de belvedere Gornja Podstrana",
+            "tip": "Liniște și spațiu deasupra coastei.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gornja Podstrana Viewpoint",
+            "tip": "Quiet and vast views above the coastline.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Probieren Sie Salbeihonig aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Kóstolja meg a zsályamézet a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Încercați mierea de salvie din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Try the unique sage honey from the local hills."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Hauptstraße D8 kann im Sommer sehr belebt sein.",
+          "Kostenpflichtige Parkplätze gibt es an der Marina Lav.",
+          "Nutzen Sie die Cluster, um Parkgebühren zu sparen."
+        ],
+        "hu": [
+          "A D8-as főút nyáron igen forgalmas lehet.",
+          "Fizetős parkolók a Marina Lavnál találhatók.",
+          "Használja a klasztereket a parkolási díjak megtakarításához."
+        ],
+        "ro": [
+          "Drumul principal D8 poate fi foarte aglomerat vara.",
+          "Parcări cu plată sunt disponibile la Marina Lav.",
+          "Folosiți clusterele pentru a economisi taxele de parcare."
+        ],
+        "en": [
+          "The main D8 road can be very busy during the summer months.",
+          "Paid parking is available at Marina Lav and near the main beaches.",
+          "Use the clustering method to minimize parking transitions."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Marina Lav (District A)",
+          "coords": [
+            16.539,
+            43.493
+          ],
+          "category": "port",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bushaltestelle 'Lav' an der Hauptstraße.",
+            "hu": "A 'Lav' buszmegálló a főút mellett.",
+            "ro": "Stația de autobuz 'Lav' pe drumul principal.",
+            "en": "The 'Lav' bus stop on the main Adriatic highway."
+          }
+        },
+        {
+          "name": "Ljetnikovac Cindro (District A)",
+          "coords": [
+            16.541,
+            43.492
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar von der Bushaltestelle.",
+            "hu": "Gyalogosan elérhető a buszmegállótól.",
+            "ro": "Accesibil pe jos de la stația de autobuz.",
+            "en": "Easily accessible on foot from the bus stop."
+          }
+        },
+        {
+          "name": "Lunch at a Local Eatery",
+          "coords": [
+            16.545,
+            43.489
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dalmatinische Küche genießen.",
+            "hu": "Élvezze a dalmát konyhát.",
+            "ro": "Bucurați-vă de bucătăria dalmațiană.",
+            "en": "Enjoy some traditional Dalmatian cuisine."
+          }
+        },
+        {
+          "name": "Crkva sv. Martina (District B)",
+          "coords": [
+            16.558,
+            43.476
+          ],
+          "category": "religious",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Mit dem Bus 60 zur Haltestelle 'Sveti Martin'.",
+            "hu": "A 60-as busszal a 'Sveti Martin' megállóig.",
+            "ro": "Cu autobuzul 60 până la stația 'Sveti Martin'.",
+            "en": "Take bus 60 to the 'Sveti Martin' stop."
+          }
+        },
+        {
+          "name": "Plaža Grljevac (District C)",
+          "coords": [
+            16.546,
+            43.488
+          ],
+          "category": "beach",
+          "arrive_at": "14:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Rückfahrt mit dem Bus nach Grljevac zum Strand.",
+            "hu": "Buszozzon vissza Grljevacra a strandra.",
+            "ro": "Reveniți cu autobuzul în Grljevac la plajă.",
+            "en": "Take the bus back to the Grljevac beach area."
+          }
+        },
+        {
+          "name": "Evening Promenade Walk",
+          "coords": [
+            16.547,
+            43.487
+          ],
+          "category": "sunset",
+          "arrive_at": "17:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vor der Heimfahrt.",
+            "hu": "Rövid séta a hazaút előtt.",
+            "ro": "O scurtă plimbare înainte de plecare.",
+            "en": "A short walk before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus 60, um bequem zwischen den Sehenswürdigkeiten von Podstrana zu pendeln. Beginnen Sie im luxuriösen Viertel rund um Marina Lav und das Cindro-Haus. Nach einem kurzen Bustransfer besuchen Sie die historische St.-Martins-Kirche und kehren schließlich für entspannte Stunden am Grljevac-Strand zurück.",
+        "hu": "Használja a helyi 60-as buszt, hogy kényelmesen közlekedjen Podstrana látnivalói között. Kezdjen a Marina Lav és a Cindro-ház környékén, majd egy rövid buszozás után látogassa meg a Szent Márton-templomot. Végül térjen vissza Grljevac strandjára egy kis pihenésre.",
+        "ro": "Folosiți autobuzul local 60 pentru a circula ușor între atracțiile din Podstrana. Începeți în zona luxoasă din jurul marinei Lav și a conacului Cindro. După un scurt transfer cu autobuzul, vizitați biserica Sf. Martin și reveniți la plaja Grljevac pentru relaxare.",
+        "en": "Use the local bus line 60 to easily move between the sights of Podstrana. Start in the elegant district around Marina Lav and the Cindro Mansion. After a short bus ride, visit the historic Church of St. Martin, before returning to Grljevac Beach for a relaxing afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gastro Fish Lab",
+            "tip": "Moderne Interpretation von Meeresfrüchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gastro Fish Lab",
+            "tip": "A tenger gyümölcseinek modern értelmezése."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gastro Fish Lab",
+            "tip": "Interpretare modernă a fructelor de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Gastro Fish Lab",
+            "tip": "Modern interpretations of fresh local seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Riva von Podstrana",
+            "tip": "Schöner Spaziergang abseits des Verkehrs.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Podstrana riva",
+            "tip": "Szép séta a forgalomtól távol.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza Podstrana",
+            "tip": "O plimbare frumoasă departe de trafic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Podstrana Riva",
+            "tip": "A beautiful walk away from the main road traffic.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirstände",
+            "tip": "In der Nähe der großen Hotels zu finden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenír árusok",
+            "tip": "A nagyobb hotelek környékén találhatók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standuri de suveniruri",
+            "tip": "Se găsesc în apropierea marilor hoteluri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Stands",
+            "tip": "Found near the larger hotel complexes."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten für den Bus 60 können beim Fahrer gekauft werden.",
+          "Der Bus verkehrt regelmäßig zwischen Split und Omiš.",
+          "Die Haltestellen liegen meist an der Hauptstraße."
+        ],
+        "hu": [
+          "A 60-as buszra a jegy a sofőrnél váltható.",
+          "A busz rendszeresen jár Split és Omiš között.",
+          "A megállók többnyire a főút mentén találhatók."
+        ],
+        "ro": [
+          "Biletele pentru autobuzul 60 pot fi cumpărate de la șofer.",
+          "Autobuzul circulă regulat între Split și Omiš.",
+          "Stațiile sunt situate în mare parte pe drumul principal."
+        ],
+        "en": [
+          "Tickets for bus 60 can be purchased directly from the driver.",
+          "The bus runs frequently between Split and Omiš along the coast.",
+          "Most bus stops are conveniently located on the main D8 road."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,984 @@
+{
+  "city_id": "croatia-vela-luka-cities-v2",
+  "anchor": {
+    "name": "Vela Luka",
+    "coords": [
+      16.7194,
+      42.9611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Crkva svetog Josipa",
+          "coords": [
+            16.7192,
+            42.9614
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassizistische Fassade am Hauptplatz.",
+            "hu": "Csodálja meg a főtér klasszicista homlokzatát.",
+            "ro": "Admirați fațada neoclasică din piața principală.",
+            "en": "Admire the neoclassical facade on the main square."
+          }
+        },
+        {
+          "name": "Centar za kulturu",
+          "coords": [
+            16.7185,
+            42.9618
+          ],
+          "category": "museum",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Sehen Sie prähistorische Funde aus der Vela Spila Höhle.",
+            "hu": "Nézze meg a Vela Spila barlang őskori leleteit.",
+            "ro": "Vedeți descoperirile preistorice din peștera Vela Spila.",
+            "en": "See prehistoric finds from the Vela Spila cave."
+          }
+        },
+        {
+          "name": "Uferpromenade Riva",
+          "coords": [
+            16.715,
+            42.963
+          ],
+          "category": "harbor",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf die Fischerboote in der Bucht.",
+            "hu": "Élvezze a halászhajók látványát az öbölben.",
+            "ro": "Bucurați-vă de vederea bărcii de pescuit din golf.",
+            "en": "Enjoy the view of the fishing boats in the bay."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            16.716,
+            42.9625
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Probieren Sie Peka oder frischen Fisch mit Olivenöl.",
+            "hu": "Kóstolja meg a pekát vagy a friss halat olívaolajjal.",
+            "ro": "Încercați peka sau pește proaspăt cu ulei de măsline.",
+            "en": "Try peka or fresh fish with local olive oil."
+          }
+        },
+        {
+          "name": "Vela Spila",
+          "coords": [
+            16.732,
+            42.9645
+          ],
+          "category": "historical",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie eine der wichtigsten prähistorischen Höhlen Europas.",
+            "hu": "Látogasson el Európa egyik legfontosabb őskori barlangjába.",
+            "ro": "Vizitați una dintre cele mai importante peșteri preistorice.",
+            "en": "Visit one of Europe's most important prehistoric caves."
+          }
+        },
+        {
+          "name": "Strandpause am Meer",
+          "coords": [
+            16.725,
+            42.968
+          ],
+          "category": "beach",
+          "arrive_at": "16:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser lädt zum Schwimmen ein.",
+            "hu": "Kristálytiszta víz csábít a máltai úszásra.",
+            "ro": "Apa cristalină vă invită la o baie răcoritoare.",
+            "en": "Crystal clear water invites you for a refreshing swim."
+          }
+        },
+        {
+          "name": "Sonnenuntergang am Hafen",
+          "coords": [
+            16.718,
+            42.961
+          ],
+          "category": "sunset",
+          "arrive_at": "18:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss am tiefsten Punkt der langen Bucht.",
+            "hu": "A tökéletes lezárás a hosszú öböl legmélyebb pontján.",
+            "ro": "Finalul perfect în cel mai adânc punct al golfului lung.",
+            "en": "The perfect ending at the deepest point of the long bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Vela Luka mit dem Besuch der St.-Joseph-Kirche und dem Kulturzentrum, wo Sie die Geschichte der Insel Korčula entdecken. Ein Spaziergang entlang der Riva führt Sie zu einem authentischen Mittagessen in einer lokalen Konoba.\n\nAm Nachmittag wandern Sie hinauf zur beeindruckenden Höhle Vela Spila, einer Wiege der Zivilisation. Danach entspannen Sie sich an einem nahen Kieselstrand und genießen das azurblaue Wasser der Adria. Der Tag endet mit einem romantischen Sonnenuntergang direkt am belebten Hafenbecken.",
+        "hu": "Kezdje a napot Vela Luka történelmi szívében a Szent József-templommal és a Kulturális Központtal, ahol felfedezheti Korčula-sziget gazdag múltját. Egy kellemes séta a Ristán elvezeti Önt egy autentikus ebédre egy helyi konobába, ahol tengeri ételeket kóstolhat.\n\nDélután túrázzon fel a lenyűgöző Vela Spila barlanghoz, amely az emberiség egyik legfontosabb őskori lelőhelye. Ezután pihenjen meg egy közeli kavicsos strandon, és élvezze az Adria azúr kék vizét. A napot egy romantikus naplemente zárja közvetlenül a nyüzsgő kikötő partján.",
+        "ro": "Începeți ziua în inima istorică a localității Vela Luka, vizitând Biserica Sfântul Iosif și Centrul Cultural, unde veți descoperi istoria insulei Korčula. O plimbare de-a lungul Rivei vă va conduce la un prânz autentic într-o konoba locală, cu specialități mediteraneene.\n\nDupă-amiaza, urcați până la impresionanta peșteră Vela Spila, un leagăn al civilizației. Apoi, relaxați-vă pe o plajă de prundis din apropiere și bucurați-vă de apele azurii ale Adriaticii. Ziua se încheie cu un apus romantic chiar pe malul portului plin de viață.",
+        "en": "Start your day in the historical heart of Vela Luka with a visit to St. Joseph's Church and the Cultural Center, where you will discover the rich past of Korčula island. A pleasant stroll along the Riva leads you to an authentic lunch in a local konoba.\n\nIn the afternoon, hike up to the impressive Vela Spila cave, a cradle of prehistoric civilization. Afterwards, relax at a nearby pebble beach and enjoy the azure waters of the Adriatic. The day concludes with a romantic sunset right by the bustling harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Skalinada",
+            "tip": "Probieren Sie den Oktopussalat und hausgemachte Pasta."
+          },
+          {
+            "name": "Peka",
+            "tip": "Unter der Glocke gegartes Fleisch oder Fisch (vorbestellen)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Skalinada",
+            "tip": "Kóstolja meg a polipsalátát és a házi tésztákat."
+          },
+          {
+            "name": "Peka",
+            "tip": "Harang alatt sült hús vagy hal (előrendelés ajánlott)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Skalinada",
+            "tip": "Încercați salata de caracatiță și pastele de casă."
+          },
+          {
+            "name": "Peka",
+            "tip": "Carne sau pește gătit sub un capac de fier (necesită precomandă)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Skalinada",
+            "tip": "Try the octopus salad and homemade pasta dishes."
+          },
+          {
+            "name": "Peka",
+            "tip": "Slow-cooked meat or fish under a bell-shaped lid (order in advance)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vela Spila Ausblick",
+            "tip": "Stiller Blick über die gesamte Bucht.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Uferweg",
+            "tip": "Ruhiger Morgenspaziergang am Wasser.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vela Spila kilátás",
+            "tip": "Csendes kilátás az egész öbölre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parti sétány",
+            "tip": "Nyugodt reggeli séta a vízparton.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere Vela Spila",
+            "tip": "Vedere liniștită peste întregul golf.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Drumul de coastă",
+            "tip": "Plimbare matinală liniștită pe malul apei.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vela Spila Viewpoint",
+            "tip": "Quiet view over the entire bay.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Coastal path",
+            "tip": "Peaceful morning stroll by the water.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Ölpresse 'Zlokić'",
+            "tip": "Preisgekröntes Olivenöl direkt vom Produzenten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zlokić olajütő",
+            "tip": "Díjnyertes olívaolaj közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Presa de ulei Zlokić",
+            "tip": "Ulei de măsline premiat direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Zlokić Oil Mill",
+            "tip": "Award-winning olive oil directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie feste Schuhe für den Weg zur Höhle Vela Spila.",
+          "Vela Luka ist bekannt für seine Chormusik; achten Sie auf abendliche Auftritte.",
+          "Der Ort ist flach, aber der Weg zur Höhle ist steil."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a Vela Spila barlanghoz vezető úton.",
+          "Vela Luka híres a kórusmuzsikáról, keressen esti fellépéseket.",
+          "A város sík, de a barlanghoz vezető út meredek."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru drumul spre peștera Vela Spila.",
+          "Vela Luka este faimoasă pentru muzica corală; căutați spectacolele de seară.",
+          "Orașul este plat, dar drumul spre peșteră este abrupt."
+        ],
+        "en": [
+          "Wear comfortable shoes for the hike to the Vela Spila cave.",
+          "Vela Luka is famous for its choir music; look out for evening performances.",
+          "The town center is flat, but the path to the cave is steep."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Hum",
+          "coords": [
+            16.685,
+            42.945
+          ],
+          "category": "mountain",
+          "arrive_at": "09:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Harter Aufstieg, aber die beste Aussicht auf Korčula.",
+            "hu": "Kemény emelkedő, de a legjobb kilátás Korčulára.",
+            "ro": "Urcare grea, dar cea mai bună vedere asupra insulei Korčula.",
+            "en": "Tough climb, but the best view of Korčula island."
+          }
+        },
+        {
+          "name": "Vela Spila",
+          "coords": [
+            16.732,
+            42.9645
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Parken Sie die Fahrräder am Eingang der Höhle.",
+            "hu": "Parkolja le a kerékpárokat a barlang bejáratánál.",
+            "ro": "Parcați bicicletele la intrarea în peșteră.",
+            "en": "Park your bikes at the cave entrance."
+          }
+        },
+        {
+          "name": "Crkva svetog Josipa",
+          "coords": [
+            16.7192,
+            42.9614
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Ein kühler Stopp in der Mittagszeit.",
+            "hu": "Egy hűvös megálló a déli időszakban.",
+            "ro": "O oprire răcoroasă la prânz.",
+            "en": "A cool stop during the midday heat."
+          }
+        },
+        {
+          "name": "Mittagessen im Hafen",
+          "coords": [
+            16.717,
+            42.962
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stärken Sie sich für die Weiterfahrt.",
+            "hu": "Frissüljön fel a folytatás előtt.",
+            "ro": "Reîncărcați-vă bateriile pentru drum.",
+            "en": "Refuel for the rest of the ride."
+          }
+        },
+        {
+          "name": "Küstenfahrt zur Bucht Gradina",
+          "coords": [
+            16.675,
+            42.975
+          ],
+          "category": "beach",
+          "arrive_at": "14:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Flache, wunderschöne Strecke am Meer entlang.",
+            "hu": "Lapos, gyönyörű útvonal a tenger mentén.",
+            "ro": "Traseu plat și frumos de-a lungul mării.",
+            "en": "Flat, beautiful route along the sea."
+          }
+        },
+        {
+          "name": "Hafen-Gelato",
+          "coords": [
+            16.7185,
+            42.9615
+          ],
+          "category": "gastro",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Belohnung nach der Tour im Zentrum.",
+            "hu": "Jutalom a túra után a központban.",
+            "ro": "Răsplată după tur în centru.",
+            "en": "Reward after the tour in the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour kombiniert sportliche Herausforderung mit Naturerlebnis. Der Aufstieg zum Berg Hum bietet Ihnen eine unschlagbare Aussicht. Danach geht es bergab zur archäologischen Stätte Vela Spila, bevor Sie am Hafen zu Mittag essen. Der Nachmittag gehört der flachen Küstenstraße zur Bucht Gradina, ideal für ein erfrischendes Bad im Meer.",
+        "hu": "Ez a kerékpártúra ötvözi a sportos kihívást a természeti élményekkel. A Hum-hegyre való feljutás verhetetlen kilátást kínál. Ezután lejtmenet következik a Vela Spila régészeti lelőhelyhez, mielőtt a kikötőben ebédelne. A délután a lapos part menti úté a Gradina-öbölig, amely ideális egy frissítő fürdőzéshez.",
+        "ro": "Acest tur cu bicicleta combină provocarea sportivă cu experiența naturii. Urcarea pe muntele Hum vă oferă o vedere imbatabilă. Apoi urmează coborârea spre situl arheologic Vela Spila, înainte de prânzul în port. După-amiaza este dedicată drumului de coastă plat către golful Gradina, ideal pentru o baie răcoritoare.",
+        "en": "This bike tour combines athletic challenge with natural experience. The climb to Mount Hum offers an unbeatable view. Then it's downhill to the Vela Spila archaeological site before having lunch at the harbor. The afternoon is spent on the flat coastal road to Gradina bay, ideal for a refreshing swim."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Galeb",
+            "tip": "Schnelle und gute Meeresfrüchte-Gerichte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Galeb",
+            "tip": "Gyors és jó tengeri ételek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Galeb",
+            "tip": "Fructe de mare rapide și bune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Galeb",
+            "tip": "Quick and tasty seafood dishes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Berg Hum",
+            "tip": "Totale Stille und weite Sicht.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hum-hegy",
+            "tip": "Teljes csend és messzi kilátás.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Muntele Hum",
+            "tip": "Liniște totală și vedere panoramică.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mount Hum",
+            "tip": "Total silence and wide views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Weinhandel",
+            "tip": "Probieren Sie den Weißwein 'Grk' oder 'Pošip'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borkereskedés",
+            "tip": "Kóstolja meg a 'Grk' vagy 'Pošip' fehérbort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin local de vinuri",
+            "tip": "Încercați vinul alb 'Grk' sau 'Pošip'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine Shop",
+            "tip": "Try the local white wines 'Grk' or 'Pošip'."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie viel Wasser für den Aufstieg zum Hum mit.",
+          "Die Küstenstraße ist verkehrsarm und sicher."
+        ],
+        "hu": [
+          "Vigyen sok vizet a Hum-hegyi emelkedőhöz.",
+          "A part menti út forgalommentes és biztonságos."
+        ],
+        "ro": [
+          "Luați multă apă pentru urcarea pe Hum.",
+          "Drumul de coastă este puțin circulat și sigur."
+        ],
+        "en": [
+          "Take plenty of water for the climb to Hum.",
+          "The coastal road has low traffic and is safe."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 24.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Kulturzentrum Parkplatz (Cluster A)",
+          "coords": [
+            16.718,
+            42.9615
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentrumsnah parken.",
+            "hu": "Parkoljon a központ közelében.",
+            "ro": "Parcați lângă centru.",
+            "en": "Park near the center."
+          }
+        },
+        {
+          "name": "Crkva svetog Josipa",
+          "coords": [
+            16.7192,
+            42.9614
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz.",
+            "hu": "Gyalog a parkolótól.",
+            "ro": "Pe jos de la parcare.",
+            "en": "On foot from the parking."
+          }
+        },
+        {
+          "name": "Vela Spila (Cluster B)",
+          "coords": [
+            16.732,
+            42.9645
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parkplatz direkt vor der Höhle.",
+            "hu": "Parkoló közvetlenül a barlang előtt.",
+            "ro": "Parcare chiar în fața peșterii.",
+            "en": "Parking right in front of the cave."
+          }
+        },
+        {
+          "name": "Hum Aussichtspunkt (Cluster C)",
+          "coords": [
+            16.685,
+            42.945
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Blick bis zur Insel Vis.",
+            "hu": "Kilátás Vis szigetéig.",
+            "ro": "Vedere până la insula Vis.",
+            "en": "View all the way to Vis island."
+          }
+        },
+        {
+          "name": "Konoba Mittagessen (Cluster D)",
+          "coords": [
+            16.716,
+            42.9625
+          ],
+          "category": "gastro",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Frischer Fisch am Hafen.",
+            "hu": "Friss hal a kikötőben.",
+            "ro": "Pește proaspăt în port.",
+            "en": "Fresh fish at the harbor."
+          }
+        },
+        {
+          "name": "Insel Proizd (Boot vom Hafen)",
+          "coords": [
+            16.62,
+            43.01
+          ],
+          "category": "beach",
+          "arrive_at": "16:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Weiße Felsen und türkises Meer.",
+            "hu": "Fehér sziklák és türkizkék tenger.",
+            "ro": "Stânci albe și mare turcoaz.",
+            "en": "White rocks and turquoise sea."
+          }
+        },
+        {
+          "name": "Riva Spaziergang",
+          "coords": [
+            16.7175,
+            42.962
+          ],
+          "category": "harbor",
+          "arrive_at": "18:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Letzter Blick auf die Bucht.",
+            "hu": "Utolsó pillantás az öbölre.",
+            "ro": "Ultima privire asupra golfului.",
+            "en": "Last look at the bay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie mühelos die entlegensten Schätze von Vela Luka. Beginnen Sie im Zentrum mit Kultur und Geschichte. Danach fahren Sie zur Vela Spila Höhle und hinauf zum Aussichtspunkt Hum für ein Panorama über die Adria. Den Nachmittag krönt ein Bootsausflug zur Insel Proizd, einem Naturjuwel mit kristallklarem Wasser, bevor Sie den Abend an der Riva ausklingen lassen.",
+        "hu": "Autóval könnyedén elérheti Vela Luka legtávolabbi kincseit is. Kezdje a központban kultúrával és történelemmel. Ezután hajtson a Vela Spila barlanghoz, majd fel a Hum kilátóhoz az adriai panorámáért. A délutánt egy hajókirándulás koronázza meg a Proizd-szigetre, amely egy kristálytiszta vizű természeti ékszer, mielőtt az estét a Ristán zárná.",
+        "ro": "Cu mașina puteți ajunge cu ușurință la cele mai îndepărtate comori din Vela Luka. Începeți în centru cu cultură și istorie. Apoi mergeți la peștera Vela Spila și urcați la punctul de belvedere Hum pentru o panoramă asupra Adriaticii. După-amiaza este încununată de o excursie cu barca pe insula Proizd, o bijuterie naturală cu apă cristalină, înainte de a încheia seara pe Riva.",
+        "en": "By car, you can easily reach the most distant treasures of Vela Luka. Start in the center with culture and history. Then drive to the Vela Spila cave and up to the Hum viewpoint for a panorama over the Adriatic. The afternoon is crowned by a boat trip to Proizd island, a natural jewel with crystal clear water, before ending the evening on the Riva."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Bata",
+            "tip": "Traditionelle dalmatinische Küche am Wasser."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Bata",
+            "tip": "Hagyományos dalmát konyha a vízparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Bata",
+            "tip": "Bucătărie tradițională dalmată pe malul apei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Bata",
+            "tip": "Traditional Dalmatian cuisine by the water."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Insel Proizd",
+            "tip": "Unberührte Natur und Ruhe.",
+            "emoji": "🏝️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Proizd-sziget",
+            "tip": "Érintetlen természet és nyugalom.",
+            "emoji": "🏝️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Insula Proizd",
+            "tip": "Natură virgină și liniște.",
+            "emoji": "🏝️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Proizd Island",
+            "tip": "Untouched nature and peace.",
+            "emoji": "🏝️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Opg Fanito",
+            "tip": "Hervorragendes lokales Olivenöl zum Mitnehmen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Opg Fanito",
+            "tip": "Kiváló helyi olívaolaj elvitelre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Opg Fanito",
+            "tip": "Ulei de măsline local excelent pentru acasă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Opg Fanito",
+            "tip": "Excellent local olive oil to take home."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zum Berg Hum ist schmal, fahren Sie vorsichtig.",
+          "Prüfen Sie die Fahrzeiten der Boote nach Proizd im Hafen."
+        ],
+        "hu": [
+          "A Hum-hegyre vezető út keskeny, vezessen óvatosan.",
+          "Ellenőrizze a Proizdra tartó hajók menetrendjét a kikötőben."
+        ],
+        "ro": [
+          "Drumul spre muntele Hum este îngust, conduceți cu atenție.",
+          "Verificați orarul ambarcațiunilor spre Proizd în port."
+        ],
+        "en": [
+          "The road to Mount Hum is narrow, drive carefully.",
+          "Check the boat schedule to Proizd at the harbor."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Crkva svetog Josipa",
+          "coords": [
+            16.7192,
+            42.9614
+          ],
+          "category": "religious",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zentraler Treffpunkt.",
+            "hu": "Központi találkozóhely.",
+            "ro": "Punct de întâlnire central.",
+            "en": "Central meeting point."
+          }
+        },
+        {
+          "name": "Centar za kulturu",
+          "coords": [
+            16.7185,
+            42.9618
+          ],
+          "category": "museum",
+          "arrive_at": "10:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Museum im Stadtzentrum.",
+            "hu": "Múzeum a városközpontban.",
+            "ro": "Muzeu în centrul orașului.",
+            "en": "Museum in the city center."
+          }
+        },
+        {
+          "name": "Boot nach Proizd (Cluster A)",
+          "coords": [
+            16.717,
+            42.9625
+          ],
+          "category": "harbor",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Fähre fährt regelmäßig.",
+            "hu": "A komp rendszeresen jár.",
+            "ro": "Feribotul circulă regulat.",
+            "en": "The boat runs regularly."
+          }
+        },
+        {
+          "name": "Insel Proizd (Cluster B)",
+          "coords": [
+            16.62,
+            43.01
+          ],
+          "category": "beach",
+          "arrive_at": "12:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Der Strand Bili Boci ist ein Muss.",
+            "hu": "A Bili Boci strand kötelező látnivaló.",
+            "ro": "Plaja Bili Boci este o necesitate.",
+            "en": "Bili Boci beach is a must-see."
+          }
+        },
+        {
+          "name": "Riva Mittagessen (Cluster A)",
+          "coords": [
+            16.716,
+            42.9625
+          ],
+          "category": "gastro",
+          "arrive_at": "16:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Spätes Mittagessen nach der Insel.",
+            "hu": "Késői ebéd a sziget után.",
+            "ro": "Prânz târziu după insulă.",
+            "en": "Late lunch after the island."
+          }
+        },
+        {
+          "name": "Vela Spila Spaziergang",
+          "coords": [
+            16.732,
+            42.9645
+          ],
+          "category": "historical",
+          "arrive_at": "17:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang am Abend.",
+            "hu": "Rövid esti séta.",
+            "ro": "Scurtă plimbare de seară.",
+            "en": "Short evening stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie die lokalen Bootstransfers, um die Highlights zu erleben. Nach dem kulturellen Vormittag im Zentrum bringt Sie das Taxiboot zur Insel Proizd, dem Star der Region. Genießen Sie dort den Nachmittag am weißen Strand, bevor Sie für ein spätes Essen und einen Besuch der Vela Spila Höhle zum Festland zurückkehren.",
+        "hu": "Használja a helyi hajójáratokat a fénypontok felfedezéséhez. A központban töltött kulturális délelőtt után a taxihajó elviszi Önt a Proizd-szigetre, a régió sztárjára. Élvezze ott a délutánt a fehér strandon, mielőtt visszatérne a szárazföldre egy késői ebédre és a Vela Spila barlang megtekintésére.",
+        "ro": "Utilizați transferurile locale cu barca pentru a vedea cele mai importante atracții. După o dimineață culturală în centru, barca taxi vă va duce pe insula Proizd, vedeta regiunii. Bucurați-vă de după-amiaza pe plaja albă, înainte de a reveni pe continent pentru un prânz târziu și o vizită la peștera Vela Spila.",
+        "en": "Use the local boat transfers to experience the highlights. After a cultural morning in the center, the taxi boat takes you to Proizd island, the star of the region. Enjoy the afternoon there on the white beach before returning to the mainland for a late meal and a visit to the Vela Spila cave."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Grill Porat",
+            "tip": "Einfache, aber köstliche Grillgerichte am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grill Porat",
+            "tip": "Egyszerű, de finom grillételek a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grill Porat",
+            "tip": "Mâncăruri la grătar simple, dar delicioase în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grill Porat",
+            "tip": "Simple but delicious grilled dishes at the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Proizd Westküste",
+            "tip": "Einsame Buchten abseits der Anlegestelle.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Proizd nyugati part",
+            "tip": "Elhagyatott öblök a kikötőtől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coasta de vest Proizd",
+            "tip": "Golfuri izolate departe de debarcader.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Proizd West Coast",
+            "tip": "Secluded coves away from the boat dock.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktplatz",
+            "tip": "Kaufen Sie frisches Obst und lokalen Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piactér",
+            "tip": "Vásároljon friss gyümölcsöt és helyi mézet."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața",
+            "tip": "Cumpărați fructe proaspete și miere locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Marketplace",
+            "tip": "Buy fresh fruit and local honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Taxiboote nach Proizd verkehren in der Saison stündlich.",
+          "Die meisten Sehenswürdigkeiten im Ort sind gut zu Fuß erreichbar."
+        ],
+        "hu": [
+          "A taxihajók Proizdra szezonban óránként járnak.",
+          "A város legtöbb látnivalója gyalogosan is jól elérhető."
+        ],
+        "ro": [
+          "Bărcile taxi către Proizd circulă la fiecare oră în sezon.",
+          "Majoritatea obiectivelor din oraș sunt ușor accesibile pe jos."
+        ],
+        "en": [
+          "Taxi boats to Proizd run every hour during the season.",
+          "Most sights in the town are easily reachable on foot."
+        ]
+      }
+    }
+  }
+}

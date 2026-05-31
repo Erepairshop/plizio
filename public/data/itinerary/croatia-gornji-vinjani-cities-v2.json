@@ -1,0 +1,994 @@
+{
+  "city_id": "croatia-gornji-vinjani-cities-v2",
+  "anchor": {
+    "name": "Gornji Vinjani",
+    "coords": [
+      17.2358,
+      43.482
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Morgenkaffee / Reggeli kávé",
+          "coords": [
+            17.2365,
+            43.4825
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den ersten Kaffee mit Blick auf das Dorfleben.",
+            "hu": "Igyon meg egy kávét a helyiekkel a faluban.",
+            "ro": "Savurați prima cafea alături de localnici în sat.",
+            "en": "Enjoy your first coffee while watching village life."
+          }
+        },
+        {
+          "name": "Stare kamene kuće",
+          "coords": [
+            17.244,
+            43.487
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle dalmatinische Steinarchitektur.",
+            "hu": "Csodálja meg a hagyományos dalmát kőépítészetet.",
+            "ro": "Admirați arhitectura tradițională din piatră dalmată.",
+            "en": "Admire the traditional Dalmatian stone architecture."
+          }
+        },
+        {
+          "name": "Crkva sv. Roka",
+          "coords": [
+            17.2405,
+            43.4852
+          ],
+          "category": "religious",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine ruhige Dorfkirche mit lokaler Bedeutung.",
+            "hu": "Egy csendes falusi templom, helyi jelentőséggel.",
+            "ro": "O biserică liniștită de sat, cu importanță locală.",
+            "en": "A peaceful village church with local significance."
+          }
+        },
+        {
+          "name": "Mittagessen in der Konoba / Ebéd egy konobában",
+          "coords": [
+            17.238,
+            43.4815
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie Peka oder gegrilltes Fleisch.",
+            "hu": "Kóstolja meg a pekát vagy a sült húsokat.",
+            "ro": "Încercați peka sau carnea la grătar.",
+            "en": "Try some peka or local grilled meats."
+          }
+        },
+        {
+          "name": "Természeti séta / Nature Walk",
+          "coords": [
+            17.234,
+            43.478
+          ],
+          "category": "park",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spaziergang durch die Karstlandschaft.",
+            "hu": "Séta a karsztvidéki tájon át.",
+            "ro": "Plimbare prin peisajul carstic local.",
+            "en": "Stroll through the local karst landscape."
+          }
+        },
+        {
+          "name": "Vidikovac Imotsko polje",
+          "coords": [
+            17.231,
+            43.4765
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fantastische Aussicht auf das fruchtbare Imotski-Feld.",
+            "hu": "Fantasztikus kilátás a termékeny Imotski-mezőre.",
+            "ro": "Vedere fantastică asupra câmpiei fertile Imotski.",
+            "en": "Fantastic views over the fertile Imotski field."
+          }
+        },
+        {
+          "name": "Abendruhe / Esti pihenő",
+          "coords": [
+            17.2355,
+            43.4815
+          ],
+          "category": "sunset",
+          "arrive_at": "16:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein entspannter Abschluss des Tages im Dorf.",
+            "hu": "A nap nyugodt lezárása a faluban.",
+            "ro": "O încheiere relaxată a zilei în sat.",
+            "en": "A relaxed end to the day in the village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Gornji Vinjani mit einem gemütlichen Kaffee im Dorfzentrum. Danach erkunden Sie die traditionellen alten Steinhäuser und die Kirche des Heiligen Rochus. Der Mittag gehört der herzhaften lokalen Küche in einer typischen Konoba. Am Nachmittag wandern Sie zum Aussichtspunkt über das Imotski-Feld, bevor Sie den Tag entspannt ausklingen lassen.",
+        "hu": "Kezdje a napot Gornji Vinjaniban egy barátságos kávéval a falu központjában. Ezt követően fedezze fel a hagyományos öreg kőházakat és a Szent Rókus-templomot. Az ebédidő a kiadós helyi konyháé egy jellegzetes konobában. Délután sétáljon el az Imotski-mezőre néző kilátóhoz, mielőtt nyugodtan befejezné a napot.",
+        "ro": "Începeți ziua în Gornji Vinjani cu o cafea primitoare în centrul satului. Apoi explorați vechile case tradiționale din piatră și biserica Sfântul Rochus. Prânzul este dedicat bucătăriei locale copioase într-o konoba tipică. După-amiaza, mergeți la punctul de belvedere de deasupra câmpiei Imotski, înainte de a încheia ziua relaxat.",
+        "en": "Start your day in Gornji Vinjani with a friendly coffee in the village center. Next, explore the traditional old stone houses and the Church of St. Roch. Midday is for hearty local cuisine in a typical konoba. In the afternoon, walk to the viewpoint overlooking the Imotski field before finishing the day at a relaxed pace."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Vinjani",
+            "tip": "Probieren Sie hausgemachten Wein und Schinken."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Vinjani",
+            "tip": "Kóstolja meg a házi bort és sonkát."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Vinjani",
+            "tip": "Gustați vinul și șunca de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Vinjani",
+            "tip": "Taste the homemade wine and prosciutto."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Vidikovac Imotsko polje",
+            "tip": "Perfekt für Meditation bei Sonnenuntergang.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vidikovac Imotsko polje",
+            "tip": "Tökéletes meditációhoz naplementekor.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vidikovac Imotsko polje",
+            "tip": "Perfect pentru meditație la apus.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vidikovac Imotsko polje",
+            "tip": "Perfect for meditation at sunset.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Bauernmarkt",
+            "tip": "Kaufen Sie hausgemachten Honig und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi termelői piac",
+            "tip": "Vásároljon házi mézet és olívaolajat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Cumpărați miere de casă și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local farmer's market",
+            "tip": "Buy homemade honey and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe für die Steinstraßen.",
+          "Bringen Sie Wasser mit, da es im Sommer sehr heiß werden kann.",
+          "Die Einheimischen sind sehr gastfreundlich.",
+          "Perfekt für Hobbyfotografen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a köves utakon.",
+          "Vigyen magával vizet, mert nyáron nagy lehet a hőség.",
+          "A helyiek nagyon vendégszeretőek.",
+          "Ideális hely a hobbifotósoknak."
+        ],
+        "ro": [
+          "Purtați pantofi comozi pentru drumurile pietruite.",
+          "Aduceți apă, deoarece vara poate fi foarte cald.",
+          "Localnicii sunt foarte ospitalieri.",
+          "Perfect pentru fotografii amatori."
+        ],
+        "en": [
+          "Wear comfortable walking shoes for the stony roads.",
+          "Bring water, as it can get very hot in summer.",
+          "The locals are very hospitable.",
+          "Perfect for amateur photographers."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Crkva sv. Roka",
+          "coords": [
+            17.2405,
+            43.4852
+          ],
+          "category": "religious",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ruhiger Start am Morgen.",
+            "hu": "Csendes reggeli kezdés.",
+            "ro": "Un început de dimineață liniștit.",
+            "en": "A quiet start to the morning."
+          }
+        },
+        {
+          "name": "Stare kamene kuće",
+          "coords": [
+            17.244,
+            43.487
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Gassen mit dem Fahrrad.",
+            "hu": "Fedezze fel a sikátorokat kerékpárral.",
+            "ro": "Explorați străduțele cu bicicleta.",
+            "en": "Explore the alleys by bike."
+          }
+        },
+        {
+          "name": "Granični prijelaz Vinjani Gornji",
+          "coords": [
+            17.262,
+            43.491
+          ],
+          "category": "landmark",
+          "arrive_at": "11:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein interessanter Grenzpunkt zu Bosnien.",
+            "hu": "Érdekes határpont Bosznia felé.",
+            "ro": "Un punct de frontieră interesant către Bosnia.",
+            "en": "An interesting border point to Bosnia."
+          }
+        },
+        {
+          "name": "Mittagessen / Ebéd",
+          "coords": [
+            17.238,
+            43.4815
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Stärkung für den Rückweg.",
+            "hu": "Feltöltődés a visszaútra.",
+            "ro": "Refacere pentru drumul de întoarcere.",
+            "en": "Recharge for the way back."
+          }
+        },
+        {
+          "name": "Vidikovac Imotsko polje",
+          "coords": [
+            17.231,
+            43.4765
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der schönste Blick der Tour.",
+            "hu": "A túra legszebb kilátása.",
+            "ro": "Cea mai frumoasă priveliște a turului.",
+            "en": "The best view of the tour."
+          }
+        },
+        {
+          "name": "Fagylalt-szünet / Gelato Stop",
+          "coords": [
+            17.2358,
+            43.482
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Eine verdiente Erfrischung.",
+            "hu": "Egy megérdemelt frissítő.",
+            "ro": "O răcorire binemeritată.",
+            "en": "A well-deserved refreshment."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour führt Sie durch das hügelige Hinterland von Imotski. Von der Kirche sv. Roka radeln Sie zu den alten Steinhäusern und weiter zum Grenzpunkt. Nach einem kräftigen Mittagessen genießen Sie die Abfahrt zum Aussichtspunkt und beenden die Tour bei einem Eis im Dorfzentrum.",
+        "hu": "Ez a kerékpártúra Imotski dombos hátországán vezet keresztül. A Szent Rókus-templomtól az öreg kőházakhoz, majd a határponthoz tekerhet. Egy bőséges ebéd után élvezze a gurulást a kilátóhoz, és fejezze be a túrát egy fagylalttal a falu központjában.",
+        "ro": "Acest tur cu bicicleta vă poartă prin zona deluroasă din spatele Imotski. De la biserica Sfântul Rochus, pedalați către vechile case de piatră și mai departe spre punctul de frontieră. După un prânz copios, bucurați-vă de coborârea spre punctul de belvedere și încheiați turul cu o înghețată în centrul satului.",
+        "en": "This bike tour takes you through the hilly hinterland of Imotski. From the Church of St. Roch, cycle to the old stone houses and on to the border point. After a hearty lunch, enjoy the ride down to the viewpoint and finish the tour with an ice cream in the village center."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Käse",
+            "tip": "Suchen Sie nach Schildern an Bauernhöfen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi sajt",
+            "tip": "Keresse a táblákat a tanyáknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de casă",
+            "tip": "Căutați semnele la ferme."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade cheese",
+            "tip": "Look for signs at local farms."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Felder von Vinjani",
+            "tip": "Ruhige Wege zwischen den Weinreben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Vinjani mezői",
+            "tip": "Csendes utak a szőlőtőkék között.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Câmpiile din Vinjani",
+            "tip": "Drumuri liniștite printre vii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Vinjani fields",
+            "tip": "Quiet paths between the grapevines.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinverkauf ab Hof",
+            "tip": "Direkt beim Erzeuger kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Boreladás a háznál",
+            "tip": "Vásároljon közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vânzare de vin la fermă",
+            "tip": "Cumpărați direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine sale at the farm",
+            "tip": "Buy directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt einige steile Abschnitte, ein E-Bike ist von Vorteil.",
+          "Achten Sie auf den Grenzverkehr.",
+          "Genügend Sonnenschutz verwenden.",
+          "Die Straßen sind meist wenig befahren."
+        ],
+        "hu": [
+          "Vannak meredek szakaszok, az e-bike előnyt jelent.",
+          "Ügyeljen a határmenti forgalomra.",
+          "Használjon elegendő naptejet.",
+          "Az utak többnyire gyér forgalmúak."
+        ],
+        "ro": [
+          "Există porțiuni abrupte, o bicicletă electrică este un avantaj.",
+          "Atenție la traficul de frontieră.",
+          "Folosiți protecție solară suficientă.",
+          "Drumurile sunt de obicei puțin circulate."
+        ],
+        "en": [
+          "There are some steep sections; an e-bike is an advantage.",
+          "Watch out for border traffic.",
+          "Use plenty of sunscreen.",
+          "The roads are mostly quiet."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 25.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Crkva sv. Roka (Cluster A)",
+          "coords": [
+            17.2405,
+            43.4852
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt an der Kirche.",
+            "hu": "Parkoljon közvetlenül a templomnál.",
+            "ro": "Parcați direct la biserică.",
+            "en": "Park directly at the church."
+          }
+        },
+        {
+          "name": "Stare kamene kuće (Cluster A)",
+          "coords": [
+            17.244,
+            43.487
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Kirche aus.",
+            "hu": "Rövid séta a templomtól.",
+            "ro": "Scurtă plimbare de la biserică.",
+            "en": "Short walk from the church."
+          }
+        },
+        {
+          "name": "Granični prijelaz (Cluster B)",
+          "coords": [
+            17.262,
+            43.491
+          ],
+          "category": "landmark",
+          "arrive_at": "10:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Interessanter Fotostopp an der Grenze.",
+            "hu": "Érdekes fotómegálló a határon.",
+            "ro": "Oprire interesantă pentru poze la graniță.",
+            "en": "Interesting photo stop at the border."
+          }
+        },
+        {
+          "name": "Mittagessen in der Konoba",
+          "coords": [
+            17.238,
+            43.4815
+          ],
+          "category": "gastro",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Traditionelles Mittagessen in Vinjani.",
+            "hu": "Hagyományos ebéd Vinjaniban.",
+            "ro": "Prânz tradițional în Vinjani.",
+            "en": "Traditional lunch in Vinjani."
+          }
+        },
+        {
+          "name": "Modro Jezero / Blauer See (Exkursion)",
+          "coords": [
+            17.212,
+            43.451
+          ],
+          "category": "lake",
+          "arrive_at": "13:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Ein spektakulärer Natursee in Imotski.",
+            "hu": "Spektakuláris természetes tó Imotskiban.",
+            "ro": "Un lac natural spectaculos în Imotski.",
+            "en": "A spectacular natural lake in Imotski."
+          }
+        },
+        {
+          "name": "Imotski Korzo / Stadtbummel",
+          "coords": [
+            17.215,
+            43.448
+          ],
+          "category": "city",
+          "arrive_at": "14:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie das Flair der Stadt Imotski.",
+            "hu": "Élvezze Imotski városának hangulatát.",
+            "ro": "Bucurați-vă de atmosfera orașului Imotski.",
+            "en": "Enjoy the flair of Imotski town."
+          }
+        },
+        {
+          "name": "Vidikovac Imotsko polje",
+          "coords": [
+            17.231,
+            43.4765
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Rückkehr nach Vinjani für die Aussicht.",
+            "hu": "Visszatérés Vinjaniba a kilátásért.",
+            "ro": "Întoarcere în Vinjani pentru belvedere.",
+            "en": "Return to Vinjani for the view."
+          }
+        },
+        {
+          "name": "Naplemente-pihenő / Sunset Rest",
+          "coords": [
+            17.2358,
+            43.482
+          ],
+          "category": "sunset",
+          "arrive_at": "16:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannung vor der Abfahrt.",
+            "hu": "Pihenés az indulás előtt.",
+            "ro": "Relaxare înainte de plecare.",
+            "en": "Relaxation before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie Gornji Vinjani perfekt mit dem nahen Imotski. Vormittags besuchen Sie die lokalen Sehenswürdigkeiten wie die Kirche und die alten Steinhäuser. Nach dem Mittagessen machen Sie einen Ausflug zum berühmten Blauen See in Imotski, bevor Sie zum Sonnenuntergang nach Vinjani zurückkehren.",
+        "hu": "Autóval Gornji Vinjani tökéletesen összeköthető a közeli Imotskival. Délelőtt látogassa meg a helyi látnivalókat, mint a templom és az öreg kőházak. Ebéd után tegyen kirándulást a híres imotski Kék-tóhoz, majd térjen vissza Vinjaniba a naplementére.",
+        "ro": "Cu mașina, puteți conecta perfect Gornji Vinjani cu orașul Imotski din apropiere. Dimineața, vizitați atracțiile locale, cum ar fi biserica și vechile case de piatră. După prânz, faceți o excursie la faimosul Lac Albastru din Imotski, înainte de a reveni în Vinjani pentru apus.",
+        "en": "By car, Gornji Vinjani is perfectly combined with nearby Imotski. In the morning, visit local sights like the church and old stone houses. After lunch, take an excursion to the famous Blue Lake in Imotski before returning to Vinjani for the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Tri Sunca",
+            "tip": "In Imotski, tolles Fleisch vom Grill."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Tri Sunca",
+            "tip": "Imotskiban, remek húsok a grillről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Tri Sunca",
+            "tip": "În Imotski, carne excelentă la grătar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Tri Sunca",
+            "tip": "In Imotski, great grilled meats."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Modro Jezero",
+            "tip": "Ruhige Wanderwege rund um den Krater.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kék-tó",
+            "tip": "Csendes túraútvonalak a kráter körül.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Lacul Albastru",
+            "tip": "Trasee liniștite de drumeție în jurul craterului.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Blue Lake",
+            "tip": "Quiet hiking trails around the crater.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Supermärkte in Imotski",
+            "tip": "Für größere Einkäufe."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szupermarketek Imotskiban",
+            "tip": "Nagyobb bevásárlásokhoz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarketuri în Imotski",
+            "tip": "Pentru cumpărături mai mari."
+          }
+        ],
+        "en": [
+          {
+            "name": "Supermarkets in Imotski",
+            "tip": "For larger shopping needs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind in Vinjani meist kostenlos.",
+          "In Imotski ist das Parken am Blauen See gebührenpflichtig.",
+          "Achten Sie auf die Grenzschlangen an Wochenenden.",
+          "Ein Abstecher zum Roten See lohnt sich ebenfalls."
+        ],
+        "hu": [
+          "A parkolás Vinjaniban többnyire ingyenes.",
+          "Imotskiban a Kék-tónál a parkolás fizetős.",
+          "Hétvégenként ügyeljen a határmenti sorokra.",
+          "Érdemes egy kitérőt tenni a Vörös-tóhoz is."
+        ],
+        "ro": [
+          "Parcarea în Vinjani este de obicei gratuită.",
+          "În Imotski, parcarea la Lacul Albastru este cu plată.",
+          "Atenție la cozile de la graniță în weekend.",
+          "O vizită la Lacul Roșu merită de asemenea."
+        ],
+        "en": [
+          "Parking in Vinjani is mostly free.",
+          "In Imotski, parking at the Blue Lake is paid.",
+          "Watch out for border queues on weekends.",
+          "A detour to the Red Lake is also worth it."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Falu központja / Village Center",
+          "coords": [
+            17.2358,
+            43.482
+          ],
+          "category": "city",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ankunft mit dem lokalen Bus von Imotski.",
+            "hu": "Érkezés a helyi busszal Imotskiból.",
+            "ro": "Sosirea cu autobuzul local din Imotski.",
+            "en": "Arrival with the local bus from Imotski."
+          }
+        },
+        {
+          "name": "Crkva sv. Roka",
+          "coords": [
+            17.2405,
+            43.4852
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spaziergang zur Kirche.",
+            "hu": "Séta a templomhoz.",
+            "ro": "Plimbare către biserică.",
+            "en": "Walk to the church."
+          }
+        },
+        {
+          "name": "Stare kamene kuće",
+          "coords": [
+            17.244,
+            43.487
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Historisches Viertel zu Fuß erkunden.",
+            "hu": "Történelmi negyed felfedezése gyalog.",
+            "ro": "Explorarea cartierului istoric pe jos.",
+            "en": "Explore the historical quarter on foot."
+          }
+        },
+        {
+          "name": "Ebéd a faluban / Lunch in the village",
+          "coords": [
+            17.238,
+            43.4815
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Frische lokale Produkte genießen.",
+            "hu": "Friss helyi termékek élvezete.",
+            "ro": "Savurați produse locale proaspete.",
+            "en": "Enjoy fresh local products."
+          }
+        },
+        {
+          "name": "Vidikovac Imotsko polje",
+          "coords": [
+            17.231,
+            43.4765
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wanderung zum Panorama-Punkt.",
+            "hu": "Túra a panorámaponthoz.",
+            "ro": "Drumeție către punctul panoramic.",
+            "en": "Hike to the panoramic point."
+          }
+        },
+        {
+          "name": "Fagylalt és indulás / Gelato & Departure",
+          "coords": [
+            17.236,
+            43.4815
+          ],
+          "category": "city",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Letztes Eis vor der Rückfahrt.",
+            "hu": "Utolsó fagylalt a visszaindulás előtt.",
+            "ro": "Ultima înghețată înainte de plecare.",
+            "en": "Last ice cream before departure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus von Imotski nach Gornji Vinjani. Vom Dorfzentrum aus erkunden Sie die wichtigsten Punkte wie die Kirche und die Steinhäuser bequem zu Fuß. Nach einem gemütlichen Mittagessen führt Sie ein kleiner Spaziergang zum Aussichtspunkt, bevor Sie den Bus zurück nehmen.",
+        "hu": "Használja az Imotskiból Gornji Vinjaniba tartó helyi buszt. A falu központjából gyalogosan kényelmesen felfedezheti a főbb pontokat, mint a templom és a kőházak. Egy kellemes ebéd után egy kis séta vezet a kilátóhoz, mielőtt visszabuszozna.",
+        "ro": "Folosiți autobuzul local din Imotski către Gornji Vinjani. Din centrul satului, explorați principalele puncte, cum ar bi biserica și casele de piatră, confortabil pe jos. După un prânz plăcut, o scurtă plimbare vă duce la punctul de belvedere înainte de a lua autobuzul înapoi.",
+        "en": "Use the local bus from Imotski to Gornji Vinjani. From the village center, explore the main points like the church and stone houses easily on foot. After a pleasant lunch, a short walk leads to the viewpoint before taking the bus back."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Dorf",
+            "tip": "Probieren Sie frisches Burek."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falu péksége",
+            "tip": "Kóstolja meg a friss bureket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria din sat",
+            "tip": "Încercați burek proaspăt."
+          }
+        ],
+        "en": [
+          {
+            "name": "Village bakery",
+            "tip": "Try some fresh burek."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchenhof sv. Roka",
+            "tip": "Ein schattiger Platz zum Verweilen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Rókus templomkert",
+            "tip": "Árnyas hely a pihenéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea bisericii Sf. Rochus",
+            "tip": "Un loc umbros pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Churchyard of St. Roch",
+            "tip": "A shaded place to relax.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kleiner Dorfladen",
+            "tip": "Lokale Produkte für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kis falusi bolt",
+            "tip": "Helyi termékek útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Mic magazin sătesc",
+            "tip": "Produse locale pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Small village shop",
+            "tip": "Local products for the go."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Überprüfen Sie den Busfahrplan im Voraus (Arriva Kroatien).",
+          "Die Busse fahren seltener an Sonntagen.",
+          "Fragen Sie die Einheimischen nach der Bushaltestelle.",
+          "Bringen Sie Kleingeld für das Ticket mit."
+        ],
+        "hu": [
+          "Előre ellenőrizze a buszmenetrendet (Arriva Croatia).",
+          "Vasárnaponként ritkábban járnak a buszok.",
+          "Kérdezze a helyieket a buszmegállóról.",
+          "Vigyen aprópénzt a jegyre."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans (Arriva Croația).",
+          "Autobuzele circulă mai rar duminica.",
+          "Întrebați localnicii despre stația de autobuz.",
+          "Aduceți mărunțiș pentru bilet."
+        ],
+        "en": [
+          "Check the bus schedule in advance (Arriva Croatia).",
+          "Buses run less frequently on Sundays.",
+          "Ask locals about the bus stop location.",
+          "Bring small change for the ticket."
+        ]
+      }
+    }
+  }
+}

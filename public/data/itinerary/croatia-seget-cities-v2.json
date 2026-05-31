@@ -1,0 +1,992 @@
+{
+  "city_id": "croatia-seget-cities-v2",
+  "anchor": {
+    "name": "Seget",
+    "coords": [
+      16.2333,
+      43.5167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Kaštel Seget",
+          "coords": [
+            16.2345,
+            43.5182
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mauern des alten venezianischen Schlosses.",
+            "hu": "Csodálja meg a régi velencei erődrendszer falait.",
+            "ro": "Admirați zidurile vechiului castel venețian.",
+            "en": "Admire the walls of the old Venetian fortress settlement."
+          }
+        },
+        {
+          "name": {
+            "de": "Uferpromenade Riva",
+            "hu": "Riva tengerparti sétány",
+            "ro": "Promenada Riva",
+            "en": "Riva Waterfront"
+          },
+          "coords": [
+            16.2338,
+            43.5175
+          ],
+          "category": "harbor",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Kaffee am Meer.",
+            "hu": "Igyon meg egy kávét közvetlenül a vízparton.",
+            "ro": "Savurați o cafea direct pe malul mării.",
+            "en": "Enjoy a coffee right by the water."
+          }
+        },
+        {
+          "name": "Crkva sv. Vida",
+          "coords": [
+            16.2321,
+            43.5235
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 35,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kleine mittelalterliche Kirche inmitten von Olivenhainen.",
+            "hu": "Apró középkori templom olajfaligetek között.",
+            "ro": "Mică biserică medievală printre livezi de măslini.",
+            "en": "Tiny medieval church set among olive groves."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Konoba",
+            "hu": "Ebéd egy helyi konobában",
+            "ro": "Prânz la o konoba locală",
+            "en": "Lunch in a local Konoba"
+          },
+          "coords": [
+            16.2341,
+            43.5178
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 85,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Probieren Sie den gegrillten Fisch mit Mangold.",
+            "hu": "Kóstolja meg a sült halat blitvával.",
+            "ro": "Încercați peștele la grătar cu mangold.",
+            "en": "Try the grilled fish with Swiss chard."
+          }
+        },
+        {
+          "name": "Plaža Medena",
+          "coords": [
+            16.2165,
+            43.5132
+          ],
+          "category": "beach",
+          "arrive_at": "14:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Langer Kiesstrand mit Schatten unter Pinien.",
+            "hu": "Hosszú kavicsos strand fenyőfák árnyékával.",
+            "ro": "Plajă lungă cu pietriș și umbră sub pini.",
+            "en": "Long pebble beach with shade under pine trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergangs-Pause",
+            "hu": "Naplemente pihenő",
+            "ro": "Popas la apus",
+            "en": "Sunset Pause"
+          },
+          "coords": [
+            16.225,
+            43.515
+          ],
+          "category": "sunset",
+          "arrive_at": "17:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Blick auf die Inseln Ciovo und Solta.",
+            "hu": "Kilátás Ciovo és Solta szigeteire.",
+            "ro": "Vedere spre insulele Ciovo și Solta.",
+            "en": "Views towards the islands of Ciovo and Solta."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Kern von Seget Donji, einem befestigten Fischerdorf aus dem 16. Jahrhundert. Nach einem Besuch der alten Kirchen wandern Sie entlang der Küste zum weitläufigen Medena-Strand. Der Nachmittag steht ganz im Zeichen von Entspannung und kristallklarem Wasser, bevor Sie den Tag bei einem Glas Wein an der Riva ausklingen lassen.",
+        "hu": "Kezdje a napot Seget Donji történelmi magjában, az 1564-ben épült erődített halászfaluban. Az ódon templomok megtekintése után sétáljon végig a tengerparti sétányon a Medena strandig. A délután a pihenésé és a kristálytiszta vízé, a napot pedig egy pohár helyi borral zárhatja a kikötőben.",
+        "ro": "Începeți ziua în nucleul istoric din Seget Donji, un sat pescăresc fortificat din secolul al XVI-lea. După vizitarea vechilor biserici, plimbați-vă de-a lungul coastei până la plaja Medena. După-amiaza este dedicată relaxării și apei cristaline, înainte de a încheia ziua cu un pahar de vin în port.",
+        "en": "Start your day in the historical core of Seget Donji, a fortified 16th-century fishing village. After visiting the ancient churches, stroll along the seaside promenade to Medena beach. The afternoon is dedicated to relaxation and crystal-clear waters, ending the day with a glass of local wine by the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Gegrillte Calamari",
+            "tip": "Frisch aus der Adria in der Konoba Seget."
+          },
+          {
+            "name": "Pasticada",
+            "tip": "Traditionelles dalmatinisches Rindfleischgericht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Grillezett tintahal",
+            "tip": "Frissen az Adriából a helyi konobákban."
+          },
+          {
+            "name": "Pasticada",
+            "tip": "Hagyományos párolt marhahúsétel mártással."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Calamari la grătar",
+            "tip": "Proaspeți din Adriatică la konobele locale."
+          },
+          {
+            "name": "Pasticada",
+            "tip": "Mâncare tradițională dalmată de vită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Grilled Calamari",
+            "tip": "Fresh from the Adriatic in local konobas."
+          },
+          {
+            "name": "Pasticada",
+            "tip": "Traditional Dalmatian slow-cooked beef dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirche sv. Vida",
+            "tip": "Stille Oase in den Olivenhainen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Yachthafen Seget",
+            "tip": "Ruhiger Blick auf die Segelboote.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Vid templom",
+            "tip": "Csendes oázis az olajfaligetek közepén.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Seget kikötő",
+            "tip": "Nyugodt panoráma a vitorlásokra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Biserica Sf. Vid",
+            "tip": "Oază de liniște printre măslini.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Marina Seget",
+            "tip": "Vedere liniștită asupra iahturilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Vitus Church",
+            "tip": "Quiet oasis in the middle of olive groves.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Seget Marina",
+            "tip": "Peaceful panorama of the sailboats.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Direkt von den Bauern in Seget Gornji."
+          },
+          {
+            "name": "Lavendel-Säckchen",
+            "tip": "Duftendes Souvenir aus Dalmatien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Közvetlenül a Seget Gornji-i gazdáktól."
+          },
+          {
+            "name": "Levendula tasakok",
+            "tip": "Illatos dalmát emléktárgy."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Direct de la fermierii din Seget Gornji."
+          },
+          {
+            "name": "Săculeți cu lavandă",
+            "tip": "Suvenir parfumat din Dalmația."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Directly from farmers in Seget Gornji."
+          },
+          {
+            "name": "Lavender sachets",
+            "tip": "Fragrant souvenir from Dalmatia."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Spaziergang zur Medena-Plage dauert etwa 30-40 Minuten.",
+          "Tragen Sie bequeme Schuhe für den Weg zur Kirche sv. Vida.",
+          "Wassertaxis fahren regelmäßig nach Trogir.",
+          "Besuchen Sie den kleinen Markt am Morgen für frisches Obst."
+        ],
+        "hu": [
+          "A séta a Medena strandig kb. 30-40 percet vesz igénybe.",
+          "Kényelmes cipő ajánlott a Szent Vid templomhoz vezető úton.",
+          "Vízi taxik rendszeresen járnak a közeli Trogirba.",
+          "Látogasson el a kis piacra reggel friss gyümölcsökért."
+        ],
+        "ro": [
+          "Plimbarea până la plaja Medena durează aproximativ 30-40 minute.",
+          "Purtați încălțăminte confortabilă pentru drumul spre biserica Sf. Vid.",
+          "Taxiurile pe apă circulă regulat către Trogir.",
+          "Vizitați piața mică dimineața pentru fructe proaspete."
+        ],
+        "en": [
+          "The walk to Medena beach takes about 30-40 minutes.",
+          "Comfortable shoes are recommended for the path to St. Vitus church.",
+          "Water taxis run regularly to nearby Trogir.",
+          "Visit the small morning market for fresh local fruit."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "total_km": 14.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Kaštel Seget",
+          "coords": [
+            16.2345,
+            43.5182
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Start im alten Ortskern.",
+            "hu": "Indulás az óvárosból.",
+            "ro": "Start în centrul vechi.",
+            "en": "Start in the old core."
+          }
+        },
+        {
+          "name": "Crkva sv. Vida",
+          "coords": [
+            16.2321,
+            43.5235
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ruhiger Stopp auf dem Hügel.",
+            "hu": "Csendes megálló a dombon.",
+            "ro": "Popas liniștit pe deal.",
+            "en": "Quiet stop on the hill."
+          }
+        },
+        {
+          "name": "Crkva Gospe od Konjskog",
+          "coords": [
+            16.2555,
+            43.5485
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Anstrengender Aufstieg, aber fantastische Aussicht.",
+            "hu": "Fárasztó emelkedő, de fantasztikus kilátás.",
+            "ro": "Urcare solicitantă, dar vedere fantastică.",
+            "en": "Challenging climb but fantastic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Picknick im Schatten",
+            "hu": "Piknik az árnyékban",
+            "ro": "Picnic la umbră",
+            "en": "Picnic in the Shade"
+          },
+          "coords": [
+            16.245,
+            43.535
+          ],
+          "category": "park",
+          "arrive_at": "12:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe über dem Meer.",
+            "hu": "Élvezze a nyugalmat a tenger felett.",
+            "ro": "Bucurați-vă de liniște deasupra mării.",
+            "en": "Enjoy the peace above the sea."
+          }
+        },
+        {
+          "name": "Plaža Medena",
+          "coords": [
+            16.2165,
+            43.5132
+          ],
+          "category": "beach",
+          "arrive_at": "14:15",
+          "stay_min": 120,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Verdiente Abkühlung nach der Fahrt.",
+            "hu": "Megérdemelt csobbanás a tekerés után.",
+            "ro": "Răcorire meritată după drum.",
+            "en": "Well-deserved dip after the ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Biketour kombiniert Küstenflair mit den Hügeln des Hinterlandes. Nach dem Start im Kaštel fordern Sie sich mit dem Aufstieg zur Gospe od Konjskog heraus, wo Sie mit einem Panorama über die gesamte mitteldalmatinische Inselwelt belohnt werden. Die Abfahrt führt Sie direkt zum Strand Medena für ein entspanntes Bad.",
+        "hu": "Ez a kerékpártúra ötvözi a tengerparti hangulatot a hátország dombjaival. A Kašteltől indulva hívja ki magát a Gospe od Konjskoghoz vezető emelkedővel, ahol a közép-dalmát szigetvilág panorámája lesz a jutalma. A lefelé út közvetlenül a Medena strandhoz vezet egy frissítő fürdőzésre.",
+        "ro": "Acest tur cu bicicleta combină farmecul coastei cu dealurile din spate. După startul în Kaštel, provocați-vă cu urcarea spre Gospe od Konjskog, unde veți fi răsplătiți cu o panoramă asupra insulelor dalmate. Coborârea vă duce direct la plaja Medena pentru o baie relaxantă.",
+        "en": "This bike tour combines coastal flair with the inland hills. Starting from the Kaštel, challenge yourself with the climb to Gospe od Konjskog, where you'll be rewarded with a panorama of the Central Dalmatian islands. The descent leads directly to Medena beach for a relaxing swim."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hausgemachter Käse",
+            "tip": "Bei den Bauern am Hügel kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi sajt",
+            "tip": "Vásároljon a dombi gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de casă",
+            "tip": "Cumpărați de la fermierii de pe deal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Cheese",
+            "tip": "Buy from local farmers on the hill."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügel von Seget",
+            "tip": "Weit weg vom Trubel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Seget dombjai",
+            "tip": "Messze a tömegtől.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealurile Segetului",
+            "tip": "Departe de aglomerație.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hills of Seget",
+            "tip": "Far from the crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig",
+            "tip": "Wildblütenhonig aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Méz",
+            "tip": "Vadvirág méz a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere",
+            "tip": "Miere de flori sălbatice din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honey",
+            "tip": "Wildflower honey from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ausreichend Wasser für den Aufstieg mit.",
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt."
+        ],
+        "hu": [
+          "Vigyen elég vizet az emelkedőhöz.",
+          "Ellenőrizze a fékeket a lejtő előtt."
+        ],
+        "ro": [
+          "Luați suficientă apă pentru urcare.",
+          "Verificați frânele înainte de coborâre."
+        ],
+        "en": [
+          "Take plenty of water for the climb.",
+          "Check your brakes before the descent."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "total_km": 16.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Kaštel Seget",
+          "coords": [
+            16.2345,
+            43.5182
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Parken Sie am Hafenbecken.",
+            "hu": "Parkoljon a kikötőnél.",
+            "ro": "Parcați lângă port.",
+            "en": "Park near the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Spaziergang an der Riva",
+            "hu": "Séta a riván",
+            "ro": "Plimbare pe Riva",
+            "en": "Walk on the Riva"
+          },
+          "coords": [
+            16.2335,
+            43.5175
+          ],
+          "category": "harbor",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresbrise.",
+            "hu": "Élvezze a tengeri szellőt.",
+            "ro": "Bucurați-vă de briza mării.",
+            "en": "Enjoy the sea breeze."
+          }
+        },
+        {
+          "name": "Crkva Gospe od Konjskog",
+          "coords": [
+            16.2555,
+            43.5485
+          ],
+          "category": "religious",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Bester Aussichtspunkt der Region.",
+            "hu": "A környék legjobb kilátópontja.",
+            "ro": "Cel mai bun punct de belvedere.",
+            "en": "Best viewpoint in the region."
+          }
+        },
+        {
+          "name": "Crkva sv. Vida",
+          "coords": [
+            16.2321,
+            43.5235
+          ],
+          "category": "religious",
+          "arrive_at": "11:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Kleiner Stopp auf dem Rückweg.",
+            "hu": "Rövid megálló visszafelé.",
+            "ro": "Mic popas la întoarcere.",
+            "en": "Short stop on the way back."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen Seget",
+            "hu": "Ebéd Segetben",
+            "ro": "Prânz în Seget",
+            "en": "Lunch in Seget"
+          },
+          "coords": [
+            16.234,
+            43.518
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Frischer Fisch ist ein Muss.",
+            "hu": "A friss hal kötelező.",
+            "ro": "Peștele proaspăt este obligatoriu.",
+            "en": "Fresh fish is a must."
+          }
+        },
+        {
+          "name": "Plaža Medena",
+          "coords": [
+            16.2165,
+            43.5132
+          ],
+          "category": "beach",
+          "arrive_at": "14:15",
+          "stay_min": 180,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Strand.",
+            "hu": "Nagy parkoló közvetlenül a strandnál.",
+            "ro": "Parcare mare direct la plajă.",
+            "en": "Large parking lot right by the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Abend-Gelato",
+            "hu": "Esti fagylalt",
+            "ro": "Înghețată de seară",
+            "en": "Evening Gelato"
+          },
+          "coords": [
+            16.2338,
+            43.5176
+          ],
+          "category": "gastro",
+          "arrive_at": "17:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bester Abschluss des Tages.",
+            "hu": "A nap legjobb lezárása.",
+            "ro": "Cea mai bună încheiere a zilei.",
+            "en": "Best way to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden Sie mühelos beide Gesichter von Seget: das charmante Fischerdorf am Meer und die spirituellen Orte in den Hügeln. Genießen Sie die Fahrt hinauf zur Gospe od Konjskog für ein unvergessliches Panorama und verbringen Sie den restlichen Tag ganz entspannt am Medena-Strand, der für seine hervorragende Infrastruktur bekannt ist.",
+        "hu": "Autóval könnyedén felfedezheti Seget mindkét arcát: a bájos tengerparti halászfalut és a dombok közt megbújó szakrális helyeket. Élvezze az autózást fel a Gospe od Konjskoghoz a felejthetetlen panorámáért, majd töltse a nap hátralévő részét a kiváló infrastruktúrájáról ismert Medena strandon.",
+        "ro": "Cu mașina, veți explora fără efort ambele fețe ale Segetului: satul pescăresc fermecător de la mare și locurile spirituale din dealuri. Bucurați-vă de drumul spre Gospe od Konjskog pentru o panoramă de neuitat și petreceți restul zilei relaxându-vă pe plaja Medena, cunoscută pentru infrastructura sa excelentă.",
+        "en": "By car, you can effortlessly explore both faces of Seget: the charming fishing village by the sea and the spiritual sites in the hills. Enjoy the drive up to Gospe od Konjskog for an unforgettable panorama and spend the rest of the day relaxing at Medena beach, known for its excellent infrastructure."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm am Spieß",
+            "tip": "Spezialität in den Restaurants an der Hauptstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült bárány",
+            "tip": "Specialitás a főút menti éttermekben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la proțap",
+            "tip": "Specialitate la restaurantele de pe drumul principal."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spit-roasted Lamb",
+            "tip": "Specialty in restaurants along the main road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Gospe od Konjskog",
+            "tip": "Friedlicher Ort über den Wolken.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gospe od Konjskog",
+            "tip": "Békés hely a felhők felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Gospe od Konjskog",
+            "tip": "Loc liniștit deasupra norilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Gospe od Konjskog",
+            "tip": "Peaceful spot above the clouds.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dalmatinischer Schinken",
+            "tip": "Prsut direkt vom Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalmát sonka",
+            "tip": "Prsut közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Șuncă dalmată",
+            "tip": "Prsut direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalmatian Prosciutto",
+            "tip": "Prsut directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken in Seget Donji ist im Sommer gebührenpflichtig.",
+          "Die Straße zum Hügel ist eng, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "Seget Donjiban a parkolás nyáron fizetős.",
+          "A dombra vezető út keskeny, vezessen óvatosan."
+        ],
+        "ro": [
+          "Parcarea în Seget Donji este cu plată vara.",
+          "Drumul spre deal este îngust, conduceți cu atenție."
+        ],
+        "en": [
+          "Parking in Seget Donji is paid during summer.",
+          "The road to the hill is narrow, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Kaštel Seget",
+          "coords": [
+            16.2345,
+            43.5182
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bushaltestelle an der Hauptstraße.",
+            "hu": "Buszmegálló a főúton.",
+            "ro": "Stație de autobuz la drumul principal.",
+            "en": "Bus stop on the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Frühstück am Hafen",
+            "hu": "Reggeli a kikötőben",
+            "ro": "Mic dejun în port",
+            "en": "Breakfast at Harbor"
+          },
+          "coords": [
+            16.2338,
+            43.5176
+          ],
+          "category": "gastro",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Croissant und Kaffee genießen.",
+            "hu": "Élvezze a kávét és croissant-t.",
+            "ro": "Savurați un croissant și o cafea.",
+            "en": "Enjoy a coffee and croissant."
+          }
+        },
+        {
+          "name": "Crkva sv. Vida",
+          "coords": [
+            16.2321,
+            43.5235
+          ],
+          "category": "religious",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang von der Haltestelle.",
+            "hu": "Rövid séta a megállótól.",
+            "ro": "Scurtă plimbare de la stație.",
+            "en": "Short walk from the stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Bootsfahrt nach Medena",
+            "hu": "Hajózás Medenára",
+            "ro": "Plimbare cu barca spre Medena",
+            "en": "Boat Ride to Medena"
+          },
+          "coords": [
+            16.233,
+            43.517
+          ],
+          "category": "harbor",
+          "arrive_at": "12:30",
+          "stay_min": 20,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Taxiboot.",
+            "hu": "Használja a taxihajót.",
+            "ro": "Folosiți barca taxi.",
+            "en": "Use the taxi boat service."
+          }
+        },
+        {
+          "name": "Plaža Medena",
+          "coords": [
+            16.2165,
+            43.5132
+          ],
+          "category": "beach",
+          "arrive_at": "13:00",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie bis zur Rückfahrt.",
+            "hu": "Pihenjen a visszaindulásig.",
+            "ro": "Relaxați-vă până la plecare.",
+            "en": "Relax until the return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Seget lässt sich hervorragend mit lokalen Bussen und Taxibooten erkunden. Starten Sie im historischen Zentrum und nutzen Sie das Wassertaxi für eine malerische Fahrt zum Medena-Strand. Dies erspart Ihnen den Fußweg und bietet eine wunderschöne Perspektive auf die Küste vom Meer aus.",
+        "hu": "Seget kiválóan felfedezhető helyi buszokkal és taxihajókkal. Kezdje a történelmi központban, majd használja a vízi taxit egy látványos utazáshoz a Medena strandig. Ez megkíméli a gyaloglástól, és gyönyörű perspektívát nyújt a tengerpartra a víz felől.",
+        "ro": "Segetul poate fi explorat excelent cu autobuze locale și bărci taxi. Începeți în centrul istoric și folosiți taxiul pe apă pentru o călătorie pitorească spre plaja Medena. Acest lucru vă scutește de mersul pe jos și oferă o perspectivă frumoasă asupra coastei de pe mare.",
+        "en": "Seget can be explored excellently with local buses and taxi boats. Start in the historical center and use the water taxi for a scenic trip to Medena beach. This saves you the walk and offers a beautiful perspective of the coastline from the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Eisbecher",
+            "tip": "In den Cafés am Lungomare."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fagylaltkehely",
+            "tip": "A Lungomare kávézóiban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cupă de înghețată",
+            "tip": "La cafenelele de pe Lungomare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ice Cream Sundae",
+            "tip": "In the cafes along the Lungomare."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bootstour",
+            "tip": "Sanftes Gleiten auf den Wellen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hajóút",
+            "tip": "Lágy ringatózás a hullámokon.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Tur cu barca",
+            "tip": "Alunecare ușoară pe valuri.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Boat Trip",
+            "tip": "Gentle gliding on the waves.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten",
+            "tip": "Im kleinen Kiosk in Seget."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok",
+            "tip": "A kis segeti trafikban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi",
+            "tip": "La chioșcul mic din Seget."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards",
+            "tip": "At the small kiosk in Seget."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Taxiboote fahren in der Hochsaison alle 15-30 Min.",
+          "Der Bus 37 verbindet Seget mit Trogir und Split."
+        ],
+        "hu": [
+          "A taxihajók főszezonban 15-30 percenként járnak.",
+          "A 37-es busz összeköti Segetet Trogirral és Splittel."
+        ],
+        "ro": [
+          "Bărcile taxi circulă la fiecare 15-30 min în sezon.",
+          "Autobuzul 37 leagă Segetul de Trogir și Split."
+        ],
+        "en": [
+          "Taxi boats run every 15-30 mins in high season.",
+          "Bus 37 connects Seget with Trogir and Split."
+        ]
+      }
+    }
+  }
+}

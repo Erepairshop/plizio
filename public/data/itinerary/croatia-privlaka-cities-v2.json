@@ -1,0 +1,1115 @@
+{
+  "city_id": "croatia-privlaka-cities-v2",
+  "anchor": {
+    "name": "Privlaka",
+    "coords": [
+      15.129,
+      44.259
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Frühstück am Hafen",
+          "name_hu": "Reggeli a kikötőben",
+          "name_ro": "Mic dejun în port",
+          "name_en": "Breakfast at the Harbor",
+          "coords": [
+            15.119,
+            44.262
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Frischer Kaffee mit Blick auf die Fischerboote.",
+            "hu": "Friss kávé a halászhajók látványával.",
+            "ro": "Cafea proaspătă cu vedere la bărcile de pescuit.",
+            "en": "Fresh coffee with a view of the fishing boats."
+          }
+        },
+        {
+          "name": "Privlački bunari",
+          "coords": [
+            15.118,
+            44.263
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Historische Brunnen, die einst die Wasserversorgung sicherten.",
+            "hu": "Történelmi kutak, amelyek egykor a vízellátást biztosították.",
+            "ro": "Fântâni istorice care asigurau odinioară alimentarea cu apă.",
+            "en": "Historical wells that once ensured the water supply."
+          }
+        },
+        {
+          "name": "Crkva sv. Vida",
+          "coords": [
+            15.116,
+            44.264
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine charmante kleine Kirche aus dem 14. Jahrhundert.",
+            "hu": "Egy bájos kis templom a 14. századból.",
+            "ro": "O mică biserică fermecătoare din secolul al XIV-lea.",
+            "en": "A charming small church from the 14th century."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "name_hu": "Ebéd egy konobában",
+          "name_ro": "Prânz la o konobă",
+          "name_en": "Lunch in a Konoba",
+          "coords": [
+            15.121,
+            44.261
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 85,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie gegrillten Fisch oder Tintenfischsalat.",
+            "hu": "Kóstolja meg a grillezett halat vagy polipsalátát.",
+            "ro": "Încercați peștele la grătar sau salata de caracatiță.",
+            "en": "Try the grilled fish or octopus salad."
+          }
+        },
+        {
+          "name": "Uferpromenade Riva",
+          "name_hu": "Riva sétány",
+          "name_ro": "Faleza Riva",
+          "name_en": "Riva Waterfront Stroll",
+          "coords": [
+            15.125,
+            44.26
+          ],
+          "category": "park",
+          "arrive_at": "14:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresbrise auf dem Weg zum Strand.",
+            "hu": "Élvezze a tengeri szellőt a strand felé vezető úton.",
+            "ro": "Bucurați-vă de briza mării în drum spre plajă.",
+            "en": "Enjoy the sea breeze on the way to the beach."
+          }
+        },
+        {
+          "name": "Lokaler Badestrand",
+          "name_hu": "Helyi strand",
+          "name_ro": "Plaja locală",
+          "name_en": "Local Beach",
+          "coords": [
+            15.132,
+            44.258
+          ],
+          "category": "beach",
+          "arrive_at": "15:05",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Flaches Wasser, ideal zum Entspannen im Sand.",
+            "hu": "Sekély víz, ideális a homokban való pihenéshez.",
+            "ro": "Apă puțin adâncă, ideală pentru relaxare în nisip.",
+            "en": "Shallow water, ideal for relaxing in the sand."
+          }
+        },
+        {
+          "name": "Naplemente-pihenő",
+          "name_hu": "Naplemente-pihenő",
+          "name_ro": "Popas la apus",
+          "name_en": "Sunset Pause",
+          "coords": [
+            15.128,
+            44.261
+          ],
+          "category": "sunset",
+          "arrive_at": "17:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss mit Blick auf den Horizont.",
+            "hu": "Tökéletes lezárás a horizont látványával.",
+            "ro": "Finalul perfect cu vedere la orizont.",
+            "en": "The perfect ending with a view of the horizon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im ruhigen Hafen von Privlaka, bevor Sie die historischen Brunnen erkunden, die von der reichen Tradition der Region zeugen. Nach dem Besuch der St.-Vitus-Kirche lädt eine lokale Konoba zu dalmatinischen Spezialitäten ein. Der Nachmittag gehört dem Meer und dem flachen Sandstrand, bevor der Tag bei einem malerischen Sonnenuntergang an der Riva entspannt ausklingt.",
+        "hu": "Kezdje a napot Privlaka nyugodt kikötőjében, majd fedezze fel a történelmi kutakat, amelyek a régió gazdag hagyományairól tanúskodnak. A Szent Vid-templom meglátogatása után egy helyi konoba hívogat dalmát különlegességekkel. A délután a tengeré és a sekély homokos strandé, mielőtt a napot egy festői naplementével zárná a Rivan.",
+        "ro": "Începeți ziua în portul liniștit din Privlaka, înainte de a explora fântânile istorice care atestă tradiția bogată a regiunii. După vizitarea bisericii Sf. Vitus, o konoba locală vă invită la specialități dalmate. După-amiaza aparține mării și plajei cu nisip puțin adâncă, înainte de a încheia ziua relaxat cu un apus de soare pitoresc pe Riva.",
+        "en": "Start your day in the peaceful harbor of Privlaka before exploring the historical wells that testify to the region's rich traditions. After visiting St. Vitus Church, a local konoba invites you for Dalmatian specialties. The afternoon is dedicated to the sea and the shallow sandy beach, before ending the day relaxed with a picturesque sunset on the Riva."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Planura",
+            "tip": "Hausgemachte Pasta mit Meeresfrüchten."
+          },
+          {
+            "name": "Gegrillte Dorade",
+            "tip": "Frisch gefangener Fisch mit Olivenöl und Mangold."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Planura",
+            "tip": "Házi tészta tenger gyümölcseivel."
+          },
+          {
+            "name": "Grillezett aranydurbincs",
+            "tip": "Frissen fogott hal olívaolajjal és mángolddal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Planura",
+            "tip": "Paste de casă cu fructe de mare."
+          },
+          {
+            "name": "Dourada la grătar",
+            "tip": "Pește proaspăt prins cu ulei de măsline și mangold."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Planura",
+            "tip": "Homemade pasta with seafood."
+          },
+          {
+            "name": "Grilled Bream",
+            "tip": "Freshly caught fish with olive oil and chard."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kuta-Hafendamm",
+            "tip": "Ruhiger Ort zum Beobachten der Wellen.",
+            "emoji": "🌊"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kuta-gát",
+            "tip": "Nyugodt hely a hullámok megfigyelésére.",
+            "emoji": "🌊"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul Kuta",
+            "tip": "Loc liniștit pentru a observa valurile.",
+            "emoji": "🌊"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kuta Pier",
+            "tip": "Quiet spot for watching the waves.",
+            "emoji": "🌊"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Direkt bei den Bauern in der Umgebung erhältlich."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Közvetlenül a környékbeli gazdáktól beszerezhető."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Disponibil direct de la fermierii din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Available directly from local farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Privlaka ist bekannt für seine Heilschlamm-Vorkommen.",
+          "Die flachen Strände sind perfekt für Familien mit Kindern.",
+          "Tragen Sie bequeme Sandalen für die Hafenpromenade.",
+          "Die Gegend ist sehr flach, ideal für gemütliche Spaziergänge."
+        ],
+        "hu": [
+          "Privlaka ismert a gyógyiszap lelőhelyeiről.",
+          "A sekély strandok tökéletesek kisgyermekes családoknak.",
+          "Viseljen kényelmes szandált a kikötői sétányhoz.",
+          "A környék nagyon sík, ideális a kényelmes sétákhoz."
+        ],
+        "ro": [
+          "Privlaka este cunoscută pentru zăcămintele sale de nămol curativ.",
+          "Plajele puțin adânci sunt perfecte pentru familiile cu copii.",
+          "Purtați sandale confortabile pentru promenada din port.",
+          "Zona este foarte plană, ideală pentru plimbări relaxante."
+        ],
+        "en": [
+          "Privlaka is known for its healing mud deposits.",
+          "The shallow beaches are perfect for families with children.",
+          "Wear comfortable sandals for the harbor promenade.",
+          "The area is very flat, ideal for easy strolls."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 12,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Radverleih & Hafen",
+          "name_hu": "Kerékpárkölcsönző és kikötő",
+          "name_ro": "Închiriere biciclete și port",
+          "name_en": "Bike Rental & Harbor",
+          "coords": [
+            15.119,
+            44.262
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihr Rad für die Halbinsel-Tour.",
+            "hu": "Béreljen kerékpárt a félsziget túrához.",
+            "ro": "Luați-vă bicicleta pentru turul peninsulei.",
+            "en": "Get your bike for the peninsula tour."
+          }
+        },
+        {
+          "name": "Crkva sv. Nikole",
+          "coords": [
+            15.114,
+            44.268
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ikonische Kirche auf einer kleinen Landzunge.",
+            "hu": "Ikonikus templom egy kis földnyelven.",
+            "ro": "Biserică iconică pe o mică limbă de pământ.",
+            "en": "Iconic church on a small spit of land."
+          }
+        },
+        {
+          "name": "Küste von Sabunike",
+          "name_hu": "Sabunike partja",
+          "name_ro": "Coasta Sabunike",
+          "name_en": "Sabunike Coastline",
+          "coords": [
+            15.155,
+            44.258
+          ],
+          "category": "park",
+          "arrive_at": "10:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Schöner Radweg entlang der Dünen.",
+            "hu": "Gyönyörű kerékpárút a dűnék mentén.",
+            "ro": "Pistă de biciclete frumoasă de-a lungul dunelor.",
+            "en": "Beautiful bike path along the dunes."
+          }
+        },
+        {
+          "name": "Plaža Sabunike",
+          "coords": [
+            15.16,
+            44.255
+          ],
+          "category": "beach",
+          "arrive_at": "11:45",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Berühmter Sandstrand, ideal zum Kitesurfen.",
+            "hu": "Híres homokos strand, ideális kitesurfözéshez.",
+            "ro": "Plajă celebră cu nisip, ideală pentru kitesurfing.",
+            "en": "Famous sandy beach, ideal for kitesurfing."
+          }
+        },
+        {
+          "name": "Ebéd Sabunike környékén",
+          "name_hu": "Ebéd Sabunike környékén",
+          "name_ro": "Prânz în zona Sabunike",
+          "name_en": "Lunch near Sabunike",
+          "coords": [
+            15.152,
+            44.252
+          ],
+          "category": "gastro",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stärken Sie sich für den Rückweg.",
+            "hu": "Gyűjtsön erőt a visszaúthoz.",
+            "ro": "Prindeți puteri pentru drumul de întoarcere.",
+            "en": "Recharge for the way back."
+          }
+        },
+        {
+          "name": "Privlački bunari",
+          "coords": [
+            15.118,
+            44.263
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Kurzer Stopp bei den historischen Brunnen.",
+            "hu": "Rövid megálló a történelmi kutaknál.",
+            "ro": "Scurt popas la fântânile istorice.",
+            "en": "Short stop at the historical wells."
+          }
+        },
+        {
+          "name": "Crkva sv. Vida",
+          "coords": [
+            15.116,
+            44.264
+          ],
+          "category": "religious",
+          "arrive_at": "16:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein letzter kultureller Einblick.",
+            "hu": "Egy utolsó kulturális betekintés.",
+            "ro": "O ultimă incursiune culturală.",
+            "en": "A final cultural insight."
+          }
+        },
+        {
+          "name": "Abendessen am Hafen",
+          "name_hu": "Vacsora a kikötőben",
+          "name_ro": "Cină în port",
+          "name_en": "Dinner at the Harbor",
+          "coords": [
+            15.12,
+            44.261
+          ],
+          "category": "gastro",
+          "arrive_at": "16:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Geben Sie die Räder ab und genießen Sie den Abend.",
+            "hu": "Adja le a bicikliket és élvezze az estét.",
+            "ro": "Predați bicicletele și bucurați-vă de seară.",
+            "en": "Return the bikes and enjoy the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie die gesamte Halbinsel von Privlaka mit dem Fahrrad. Von der einsamen St.-Nikolaus-Kirche an der Spitze führt der Weg entlang der Küste zum berühmten Sandstrand Sabunike. Nach einem ausgiebigen Badestopp radeln Sie zurück ins Zentrum, besuchen die historischen Brunnen und beenden die Tour gemütlich im Hafen bei einem dalmatinischen Abendessen.",
+        "hu": "Fedezze fel Privlaka egész félszigetét kerékpárral. A csúcson lévő magányos Szent Miklós-templomtól az út a part mentén vezet a híres Sabunike homokos strandhoz. Egy kiadós fürdőzés után tekerjen vissza a központba, látogassa meg a történelmi kutakat, és zárja a túrát kényelmesen a kikötőben egy dalmát vacsorával.",
+        "ro": "Explorați întreaga peninsulă Privlaka cu bicicleta. De la biserica solitară Sf. Nicolae din vârf, drumul duce de-a lungul coastei spre celebra plajă cu nisip Sabunike. După o oprire prelungită pentru baie, pedalați înapoi spre centru, vizitați fântânile istorice și încheiați turul relaxat în port cu o cină dalmată.",
+        "en": "Explore the entire peninsula of Privlaka by bike. From the lonely St. Nicholas Church at the tip, the path leads along the coast to the famous Sabunike sandy beach. After a long swimming stop, cycle back to the center, visit the historical wells, and end the tour comfortably in the harbor with a Dalmatian dinner."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Amico",
+            "tip": "Gute Pizzen für den schnellen Hunger beim Radfahren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria Amico",
+            "tip": "Jó pizzák a gyors éhségcsillapításhoz bringázás közben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Amico",
+            "tip": "Pizza bună pentru o foame rapidă în timpul mersului pe bicicletă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Amico",
+            "tip": "Good pizzas for quick hunger while cycling."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kap-Nikolaus",
+            "tip": "Einsamer Punkt mit weitem Meerblick.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Miklós-fok",
+            "tip": "Magányos pont tágas tengeri kilátással.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capul Sf. Nicolae",
+            "tip": "Punct solitar cu vedere largă la mare.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Nicholas Cape",
+            "tip": "Lonely spot with wide sea views.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig vom Imker",
+            "tip": "Lokaler Salbeihonig aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Méz a méhésztől",
+            "tip": "Helyi zsályaméz a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de la apicultor",
+            "tip": "Miere de salvie locală din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honey from the Beekeeper",
+            "tip": "Local sage honey from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke ist flach und sehr angenehm zu fahren.",
+          "Nehmen Sie genug Wasser mit, besonders für den Weg nach Sabunike.",
+          "Ein Mountainbike ist nicht zwingend erforderlich, Trekkingräder reichen.",
+          "Achten Sie auf den Wind, der an der Küste stark sein kann."
+        ],
+        "hu": [
+          "Az útvonal sík és nagyon kellemes tekerni.",
+          "Vigyen elég vizet, különösen a Sabunike felé vezető útra.",
+          "Hegyi kerékpár nem feltétlenül szükséges, a trekking bringa is elég.",
+          "Ügyeljen a szélre, amely a parton erős lehet."
+        ],
+        "ro": [
+          "Traseul este plan și foarte plăcut de parcurs.",
+          "Luați suficientă apă, mai ales pentru drumul spre Sabunike.",
+          "O bicicletă de munte nu este strict necesară, bicicletele de trekking sunt suficiente.",
+          "Atenție la vânt, care poate fi puternic pe coastă."
+        ],
+        "en": [
+          "The route is flat and very pleasant to ride.",
+          "Take enough water, especially for the way to Sabunike.",
+          "A mountain bike is not strictly necessary, trekking bikes are enough.",
+          "Watch out for the wind, which can be strong on the coast."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Dorfzentrum Parkplatz (Cluster A)",
+          "name_hu": "Faluközpont parkoló (Cluster A)",
+          "name_ro": "Parcare centrul satului (Cluster A)",
+          "name_en": "Village Center Parking (Cluster A)",
+          "coords": [
+            15.119,
+            44.262
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Rundgang im Zentrum.",
+            "hu": "Parkoljon itt a központi körúthoz.",
+            "ro": "Parcați aici pentru turul în centru.",
+            "en": "Park here for the center walk."
+          }
+        },
+        {
+          "name": "Privlački bunari",
+          "coords": [
+            15.118,
+            44.263
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar vom Parkplatz.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos de la parcare.",
+            "en": "Walkable from the parking lot."
+          }
+        },
+        {
+          "name": "Crkva sv. Vida",
+          "coords": [
+            15.116,
+            44.264
+          ],
+          "category": "religious",
+          "arrive_at": "10:40",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kleiner Spaziergang im historischen Kern.",
+            "hu": "Rövid séta a történelmi magban.",
+            "ro": "Scurtă plimbare în nucleul istoric.",
+            "en": "Short walk in the historical core."
+          }
+        },
+        {
+          "name": "Plaža Sabunike (Cluster B)",
+          "coords": [
+            15.16,
+            44.255
+          ],
+          "category": "beach",
+          "arrive_at": "11:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Fahrt zum großen Sandstrand.",
+            "hu": "Utazás a nagy homokos strandhoz.",
+            "ro": "Drum spre marea plajă cu nisip.",
+            "en": "Drive to the large sandy beach."
+          }
+        },
+        {
+          "name": "Ebéd Sabunikében",
+          "name_hu": "Ebéd Sabunikében",
+          "name_ro": "Prânz în Sabunike",
+          "name_en": "Lunch in Sabunike",
+          "coords": [
+            15.155,
+            44.254
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Restaurants direkt in Strandnähe.",
+            "hu": "Éttermek közvetlenül a strand közelében.",
+            "ro": "Restaurante chiar lângă plajă.",
+            "en": "Restaurants right near the beach."
+          }
+        },
+        {
+          "name": "Kap-Parkplatz (Cluster C)",
+          "name_hu": "Fok-parkoló (Cluster C)",
+          "name_ro": "Parcare Cap (Cluster C)",
+          "name_en": "Cape Parking (Cluster C)",
+          "coords": [
+            15.115,
+            44.267
+          ],
+          "category": "park",
+          "arrive_at": "16:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Letzter Stopp an der Nordwestspitze.",
+            "hu": "Utolsó megálló az északnyugati csúcson.",
+            "ro": "Ultima oprire în vârful de nord-vest.",
+            "en": "Last stop at the northwest tip."
+          }
+        },
+        {
+          "name": "Crkva sv. Nikole",
+          "coords": [
+            15.114,
+            44.268
+          ],
+          "category": "religious",
+          "arrive_at": "16:45",
+          "stay_min": 35,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg zur Kapelle am Meer.",
+            "hu": "Rövid séta a tengerparti kápolnához.",
+            "ro": "Scurtă plimbare până la capela de pe malul mării.",
+            "en": "Short walk to the seaside chapel."
+          }
+        },
+        {
+          "name": "Naplemente a ponton",
+          "name_hu": "Naplemente a ponton",
+          "name_ro": "Apus la punct",
+          "name_en": "Sunset at the Point",
+          "coords": [
+            15.113,
+            44.269
+          ],
+          "category": "sunset",
+          "arrive_at": "17:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bester Platz für Fotos.",
+            "hu": "A legjobb hely fotózáshoz.",
+            "ro": "Cel mai bun loc pentru fotografii.",
+            "en": "Best place for photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto, um bequem zwischen den Clustern von Privlaka zu wechseln. Beginnen Sie im historischen Kern mit den Brunnen und der St.-Vitus-Kirche. Danach fahren Sie zum weitläufigen Sabunike-Strand für einen entspannten Nachmittag im Sand. Zum Abschluss führt die Fahrt zur Spitze der Halbinsel, wo die St.-Nikolaus-Kapelle die perfekte Kulisse für den Sonnenuntergang bietet.",
+        "hu": "Használja az autót, hogy kényelmesen váltson Privlaka helyszínei között. Kezdje a történelmi magban a kutakkal és a Szent Vid-templommal. Ezután hajtson át a tágas Sabunike strandra egy nyugodt homokos délutánért. Végezetül az út a félsziget csúcsához vezet, ahol a Szent Miklós-kápolna tökéletes hátteret biztosít a naplementéhez.",
+        "ro": "Folosiți mașina pentru a schimba confortabil între zonele din Privlaka. Începeți în nucleul istoric cu fântânile și biserica Sf. Vitus. Apoi conduceți spre plaja Sabunike pentru o după-amiază relaxată în nisip. În final, drumul duce spre vârful peninsulei, unde capela Sf. Nicolae oferă cadrul perfect pentru apusul soarelui.",
+        "en": "Use the car to conveniently switch between the clusters of Privlaka. Start in the historical core with the wells and St. Vitus Church. Then drive to the expansive Sabunike beach for a relaxed afternoon in the sand. Finally, the journey leads to the tip of the peninsula, where St. Nicholas Chapel provides the perfect backdrop for the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Branimir",
+            "tip": "Traditionelle Fleischgerichte unter der Peka-Glocke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Branimir",
+            "tip": "Tradicionális húsételek Peka harang alatt sütve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Branimir",
+            "tip": "Mâncăruri tradiționale din carne sub clopotul Peka."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Branimir",
+            "tip": "Traditional meat dishes cooked under the Peka bell."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kap-Küste",
+            "tip": "Ruhiger Rückzugsort weit weg vom Trubel.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fok-part",
+            "tip": "Nyugodt búvóhely távol a nyüzsgéstől.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Coasta Capului",
+            "tip": "Retragere liniștită departe de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cape Coast",
+            "tip": "Quiet retreat far from the hustle and bustle.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Wein",
+            "tip": "Dalmatinische Weine aus den umliegenden Weinbergen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Dalmát borok a környékbeli szőlőültetvényekről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Vinuri dalmate din podgoriile din jur."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Dalmatian wines from the surrounding vineyards."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken ist im Zentrum meist unkompliziert möglich.",
+          "Die Straßen nach Sabunike sind gut ausgebaut.",
+          "Fahren Sie langsam, da oft Radfahrer unterwegs sind.",
+          "Am Kap gibt es nur begrenzte Parkmöglichkeiten, kommen Sie früh zum Sonnenuntergang."
+        ],
+        "hu": [
+          "A központban a parkolás általában egyszerűen megoldható.",
+          "A Sabunike felé vezető utak jól kiépítettek.",
+          "Vezessen lassan, mert gyakran vannak kerékpárosok az úton.",
+          "A foknál korlátozott a parkolás, érkezzen korán a naplementéhez."
+        ],
+        "ro": [
+          "Parcarea în centru este de obicei ușor de realizat.",
+          "Drumurile spre Sabunike sunt bine dezvoltate.",
+          "Conduceți încet, deoarece sunt adesea bicicliști pe drum.",
+          "La capăt există opțiuni limitate de parcare, veniți devreme pentru apus."
+        ],
+        "en": [
+          "Parking in the center is usually straightforward.",
+          "The roads to Sabunike are well-maintained.",
+          "Drive slowly as there are often cyclists on the road.",
+          "There are limited parking options at the cape, arrive early for the sunset."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Busstation Privlaka Zentrum",
+          "name_hu": "Privlaka központ buszmegálló",
+          "name_ro": "Stația de autobuz Privlaka centru",
+          "name_en": "Privlaka Center Bus Stop",
+          "coords": [
+            15.119,
+            44.262
+          ],
+          "category": "gastro",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt für Regionalbusse.",
+            "hu": "Központi érkezési pont a távolsági buszokhoz.",
+            "ro": "Punct central de sosire pentru autobuzele regionale.",
+            "en": "Central arrival point for regional buses."
+          }
+        },
+        {
+          "name": "Privlački bunari",
+          "coords": [
+            15.118,
+            44.263
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Busstopp.",
+            "hu": "Rövid séta a buszmegállótól.",
+            "ro": "Scurtă plimbare de la stația de autobuz.",
+            "en": "Short walk from the bus stop."
+          }
+        },
+        {
+          "name": "Crkva sv. Vida",
+          "coords": [
+            15.116,
+            44.264
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kultureller Halt im Dorf.",
+            "hu": "Kulturális megálló a faluban.",
+            "ro": "Oprire culturală în sat.",
+            "en": "Cultural stop in the village."
+          }
+        },
+        {
+          "name": "Bus nach Sabunike",
+          "name_hu": "Busz Sabunike felé",
+          "name_ro": "Autobuz spre Sabunike",
+          "name_en": "Bus to Sabunike",
+          "coords": [
+            15.158,
+            44.256
+          ],
+          "category": "beach",
+          "arrive_at": "11:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Shuttle oder Lokalbus.",
+            "hu": "Használja a transzfert vagy helyi buszt.",
+            "ro": "Folosiți transferul sau autobuzul local.",
+            "en": "Use the shuttle or local bus."
+          }
+        },
+        {
+          "name": "Plaža Sabunike",
+          "coords": [
+            15.16,
+            44.255
+          ],
+          "category": "beach",
+          "arrive_at": "14:10",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Sandstrand.",
+            "hu": "Élvezze a tágas homokos strandot.",
+            "ro": "Bucurați-vă de plaja largă cu nisip.",
+            "en": "Enjoy the wide sandy beach."
+          }
+        },
+        {
+          "name": "Ebéd a tengerparton",
+          "name_hu": "Ebéd a tengerparton",
+          "name_ro": "Prânz pe malul mării",
+          "name_en": "Lunch by the Sea",
+          "coords": [
+            15.155,
+            44.254
+          ],
+          "category": "gastro",
+          "arrive_at": "16:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Snacks und leichte Mahlzeiten.",
+            "hu": "Snackek és könnyű ételek.",
+            "ro": "Gustări și mese ușoare.",
+            "en": "Snacks and light meals."
+          }
+        },
+        {
+          "name": "Rückfahrt Zentrum",
+          "name_hu": "Visszautazás a központba",
+          "name_ro": "Retur în centru",
+          "name_en": "Return to Center",
+          "coords": [
+            15.119,
+            44.262
+          ],
+          "category": "sunset",
+          "arrive_at": "17:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Letzter Bus zurück zum Ausgangspunkt.",
+            "hu": "Utolsó busz vissza a kiindulópontra.",
+            "ro": "Ultimul autobuz înapoi la punctul de plecare.",
+            "en": "Last bus back to the starting point."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit den regionalen Busverbindungen lässt sich Privlaka stressfrei erkunden. Starten Sie im Dorfzentrum, besichtigen Sie die historischen Brunnen und die St.-Vitus-Kirche. Eine kurze Busfahrt bringt Sie zum berühmten Sabunike-Strand, wo Sie den Nachmittag verbringen können. Die Rückfahrt zum Zentrum ermöglicht einen entspannten Tagesabschluss am Hafen.",
+        "hu": "A regionális buszjáratokkal Privlaka stresszmentesen felfedezhető. Kezdjen a falu központjában, nézze meg a történelmi kutakat és a Szent Vid-templomot. Egy rövid buszút elviszi a híres Sabunike strandra, ahol eltöltheti a délutánt. A visszautazás a központba lehetővé teszi a nap pihentető lezárását a kikötőben.",
+        "ro": "Cu conexiunile de autobuz regionale, Privlaka poate fi explorată fără stres. Începeți în centrul satului, vizitați fântânile istorice și biserica Sf. Vitus. O scurtă călătorie cu autobuzul vă duce la celebra plajă Sabunike, unde vă puteți petrece după-amiaza. Returul în centru permite o încheiere relaxată a zilei în port.",
+        "en": "With regional bus connections, Privlaka can be explored stress-free. Start in the village center, see the historical wells and St. Vitus Church. A short bus ride takes you to the famous Sabunike beach where you can spend the afternoon. The return trip to the center allows for a relaxed end to the day at the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Beach Bar Sabunike",
+            "tip": "Erfrischende Getränke und Cocktails am Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beach Bar Sabunike",
+            "tip": "Frissítő italok és koktélok a strandon."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Beach Bar Sabunike",
+            "tip": "Băuturi răcoritoare și cocktailuri pe plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Bar Sabunike",
+            "tip": "Refreshing drinks and cocktails at the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dünen-Spaziergang",
+            "tip": "Ruhiger Weg abseits der Hauptliegeflächen.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dűne-séta",
+            "tip": "Nyugodt út távol a fő strandoló részektől.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Plimbare pe dune",
+            "tip": "Drum liniștit departe de zonele principale de plajă.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Dune Walk",
+            "tip": "Quiet path away from the main beach areas.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Vormittags frisches Obst und Gemüse im Zentrum."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Délelőtt friss gyümölcs és zöldség a központban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe și legume proaspete dimineața în centru."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fresh fruit and vegetables in the center during the morning."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan vorab, da die Frequenz variieren kann.",
+          "Die Busse fahren meist in Richtung Zadar oder Nin.",
+          "Fahrkarten können oft direkt beim Fahrer gekauft werden.",
+          "Planen Sie Pufferzeiten für die Rückfahrt ein."
+        ],
+        "hu": [
+          "Ellenőrizze előre a buszmenetrendet, mert a gyakoriság változhat.",
+          "A buszok többnyire Zadar vagy Nin irányába közlekednek.",
+          "A jegyek gyakran közvetlenül a sofőrnél megvásárolhatók.",
+          "Tervezzen be puffidőt a visszautazáshoz."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece frecvența poate varia.",
+          "Autobuzele circulă în principal spre Zadar sau Nin.",
+          "Biletele pot fi cumpărate adesea direct de la șofer.",
+          "Planificați timpi de rezervă pentru drumul de întoarcere."
+        ],
+        "en": [
+          "Check the bus schedule in advance as frequency can vary.",
+          "Buses mostly run towards Zadar or Nin.",
+          "Tickets can often be bought directly from the driver.",
+          "Plan buffer times for the return journey."
+        ]
+      }
+    }
+  }
+}

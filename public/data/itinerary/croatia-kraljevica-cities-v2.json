@@ -1,0 +1,1222 @@
+{
+  "city_id": "croatia-kraljevica-cities-v2",
+  "anchor": {
+    "name": "Kraljevica",
+    "coords": [
+      45.2741,
+      14.5683
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "20:10",
+      "total_km": 5.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafenviertel Riva",
+            "hu": "Riva kikötőnegyed",
+            "ro": "Zona portuară Riva",
+            "en": "Riva Waterfront"
+          },
+          "coords": [
+            45.2745,
+            14.5695
+          ],
+          "category": "harbor",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie das Treiben der Fischerboote bei einem ersten Kaffee.",
+            "hu": "Figyeld a halászhajók mozgását egy reggeli kávé mellett.",
+            "ro": "Urmăriți bărcile de pescuit la o cafea de dimineață.",
+            "en": "Watch the fishing boats with your morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Brodogradilište Kraljevica",
+            "hu": "Kraljevica Hajógyár",
+            "ro": "Șantierul Naval Kraljevica",
+            "en": "Kraljevica Shipyard"
+          },
+          "coords": [
+            45.2755,
+            14.5675
+          ],
+          "category": "industry",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gegründet 1729, eine der ältesten Werften an der Adria.",
+            "hu": "1729-ben alapították, az Adria egyik legrégebbi hajógyára.",
+            "ro": "Fondat în 1729, unul dintre cele mai vechi șantiere de la Adriatică.",
+            "en": "Founded in 1729, one of the oldest shipyards on the Adriatic."
+          }
+        },
+        {
+          "name": {
+            "de": "Dvorac Stari Grad",
+            "hu": "Stari Grad kastély (Zrínyi-vár)",
+            "ro": "Castelul Stari Grad",
+            "en": "Stari Grad Castle"
+          },
+          "coords": [
+            45.2742,
+            14.5681
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die mittelalterliche Residenz der Familie Zrinski.",
+            "hu": "Fedezd fel a Zrínyi család középkori rezidenciáját.",
+            "ro": "Vizitați reședința medievală a familiei Zrinski.",
+            "en": "Explore the medieval residence of the Zrinski family."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in einer Konoba",
+            "hu": "Ebéd egy helyi konobában",
+            "ro": "Prânz la o konoba locală",
+            "en": "Lunch in a local Konoba"
+          },
+          "coords": [
+            45.2735,
+            14.5685
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch aus der Kvarner-Bucht.",
+            "hu": "Kóstold meg a Kvarner-öböl friss halait.",
+            "ro": "Gustați peștele proaspăt din Golful Kvarner.",
+            "en": "Taste fresh fish from the Kvarner Bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Dvorac Nova Kraljevica",
+            "hu": "Nova Kraljevica kastély (Frangepán-vár)",
+            "ro": "Castelul Nova Kraljevica",
+            "en": "Nova Kraljevica Castle"
+          },
+          "coords": [
+            45.2728,
+            14.5692
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein prächtiges Beispiel für die Architektur der Frankopanen.",
+            "hu": "A Frangepán család építészetének pompás példája.",
+            "ro": "Un exemplu splendid al arhitecturii familiei Frankopan.",
+            "en": "A magnificent example of Frankopan architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva sv. Nikole",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "Church of St. Nicholas"
+          },
+          "coords": [
+            45.2732,
+            14.5705
+          ],
+          "category": "religious",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Achten Sie auf die Votivgaben der Seeleute im Inneren.",
+            "hu": "Keresd a tengerészek fogadalmi ajándékait a belső térben.",
+            "ro": "Căutați ofrandele votive ale marinarilor în interior.",
+            "en": "Look for the votive offerings of sailors inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Poluotok Oštro",
+            "hu": "Oštro-félsziget",
+            "ro": "Peninsula Oštro",
+            "en": "Oštro Peninsula"
+          },
+          "coords": [
+            45.2645,
+            14.5545
+          ],
+          "category": "beach",
+          "arrive_at": "16:30",
+          "stay_min": 180,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie das klare Wasser und den Blick auf die Brücke von Krk.",
+            "hu": "Élvezd a tiszta vizet és a kilátást a Krk-hídra.",
+            "ro": "Bucurați-vă de apa limpede și de vederea spre podul Krk.",
+            "en": "Enjoy the clear water and the view of the Krk bridge."
+          }
+        },
+        {
+          "name": {
+            "de": "Naplemente a világítótoronynál",
+            "hu": "Naplemente a világítótoronynál",
+            "ro": "Apus la far",
+            "en": "Sunset at the Lighthouse"
+          },
+          "coords": [
+            45.2625,
+            14.5525
+          ],
+          "category": "sunset",
+          "arrive_at": "19:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der schönste Abschluss des Tages mit Blick auf die Adria.",
+            "hu": "A nap legszebb zárása kilátással az Adriára.",
+            "ro": "Cea mai frumoasă încheiere a zilei cu vedere la Adriatică.",
+            "en": "The most beautiful end to the day with an Adriatic view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am historischen Hafen von Kraljevica, wo Sie den Geist der alten Werft spüren können. Vormittags erkunden Sie die beiden markanten Schlösser der Familien Zrinski und Frankopan, die das Stadtbild prägen. Nach einem traditionellen Mittagessen in der Altstadt führt der Weg entlang der Küste.\n\nDer Nachmittag gehört der Entspannung auf der Halbinsel Oštro. Hier laden schattige Pinien und kristallklares Wasser zum Verweilen ein. Den Abend krönen Sie mit einem Spaziergang zum Leuchtturm, von dem aus man den Sonnenuntergang über der Kvarner-Bucht und die imposante Krk-Brücke beobachten kann.",
+        "hu": "A napot Kraljevica történelmi kikötőjében indítjuk, ahol a patinás hajógyár ipari öröksége találkozik a tenger nyugalmával. Délelőtt a Zrínyi és Frangepán családok két impozáns kastélyát járjuk be, megismerve a horvát nemesség középkori hatalmát. Egy ízletes tengeri ebéd után a part mentén indulunk tovább.\n\nDélután az Oštro-félsziget strandjaié a főszerep, ahol a fenyvesek hűse és az Adria hűvös vize frissít fel. A napot a félsziget csúcsán, a világítótoronynál zárjuk, ahonnan látványos naplemente nyílik a Kvarner-öbölre és a közeli Krki-hídra.",
+        "ro": "Ziua începe în portul istoric din Kraljevica, unde moștenirea industrială a șantierului naval se împletește cu liniștea mării. Dimineața este dedicată explorării celor două castele impunătoare ale familiilor Zrinski și Frankopan. După un prânz tradițional în centrul vechi, ne îndreptăm spre coastă.\n\nDupă-amiaza aparține relaxării pe peninsula Oštro, unde umbra pinilor și apa cristalină a Adriaticii oferă răcoarea necesară. Încheiem ziua la farul de la capătul peninsulei, locul ideal pentru a admira apusul peste Golful Kvarner și impunătorul pod Krk.",
+        "en": "Start your day at the historic harbor of Kraljevica, where the industrial heritage of the shipyard meets the calm of the sea. Spend your morning exploring the two grand castles of the Zrinski and Frankopan families, diving into medieval history. After a traditional seafood lunch, follow the scenic coastal path.\n\nThe afternoon is all about relaxation on the Oštro peninsula, featuring shaded pine groves and crystal-clear waters. Cap off the day with a stroll to the lighthouse at the peninsula's tip, the perfect spot to watch the sun dip below the horizon with views of the Kvarner Bay and the Krk Bridge."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Portić",
+            "tip": "Hausgemachte Pasta mit Meeresfrüchten direkt am Wasser."
+          },
+          {
+            "name": "Bura Brew",
+            "tip": "Lokales Handwerksbier aus der Region Kvarner."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Portić",
+            "tip": "Házias tengeri tészták közvetlenül a vízparton."
+          },
+          {
+            "name": "Sardelle am Grill",
+            "tip": "Kérj sült szardíniát, ez a legegyszerűbb és legjobb helyi fogás."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Portić",
+            "tip": "Paste de casă cu fructe de mare chiar pe malul apei."
+          },
+          {
+            "name": "Pește proaspăt",
+            "tip": "Încercați orata sau branzino la grătar cu ulei de măsline local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Portić",
+            "tip": "Homemade seafood pasta served right by the waterfront."
+          },
+          {
+            "name": "Grilled Sardines",
+            "tip": "Order grilled sardines, the simplest and most authentic local dish."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Leuchtturm Oštro",
+            "tip": "Ein ruhiger Ort für den Sonnenuntergang.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Schlosspark Nova Kraljevica",
+            "tip": "Schattige Bänke abseits der Touristenströme.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oštro világítótorony",
+            "tip": "Csendes pont a naplemente megtekintéséhez.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Frangepán kastélykert",
+            "tip": "Árnyas padok a tömegtől távol.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Farul Oštro",
+            "tip": "Un loc liniștit pentru a privi apusul.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Grădina Castelului",
+            "tip": "Bănci umbrite departe de agitație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oštro Lighthouse",
+            "tip": "A quiet spot to enjoy the sunset.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Castle Gardens",
+            "tip": "Shaded benches away from the main crowds.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Kaufen Sie direkt bei den Produzenten in der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásárolj közvetlenül a környékbeli kistermelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați direct de la micii producători din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy directly from small producers in the surrounding area."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Weg zur Halbinsel Oštro.",
+          "Die Schlösser sind oft Schauplatz lokaler Kulturveranstaltungen.",
+          "Nehmen Sie Badesachen mit, das Wasser bei Oštro ist hervorragend.",
+          "Kraljevica ist weniger überlaufen als die Nachbarorte."
+        ],
+        "hu": [
+          "Viselj kényelmes cipőt az Oštro-félszigetre vezető sétához.",
+          "A kastélyok gyakran adnak otthont helyi kulturális eseményeknek.",
+          "Mindenképp vigyél fürdőruhát, az Oštro vize kristálytiszta.",
+          "Kraljevica sokkal nyugodtabb, mint a szomszédos népszerű üdülőhelyek."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru plimbarea spre peninsula Oštro.",
+          "Castelele găzduiesc adesea evenimente culturale locale.",
+          "Luați costumul de baie, apa de la Oštro este excelentă.",
+          "Kraljevica este mult mai liniștită decât stațiunile vecine."
+        ],
+        "en": [
+          "Wear comfortable shoes for the walk to the Oštro peninsula.",
+          "The castles often host local cultural events and exhibitions.",
+          "Bring your swimwear, the water at Oštro is exceptionally clear.",
+          "Kraljevica is much quieter and more authentic than nearby tourist hubs."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dvorac Nova Kraljevica",
+            "hu": "Nova Kraljevica kastély",
+            "ro": "Castelul Nova Kraljevica",
+            "en": "Nova Kraljevica Castle"
+          },
+          "coords": [
+            45.2728,
+            14.5692
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Sicherer Abstellplatz für Fahrräder im Innenhof vorhanden.",
+            "hu": "Biztonságos biciklitároló az udvarban.",
+            "ro": "Parcare sigură pentru biciclete în curtea interioară.",
+            "en": "Secure bike parking available in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Dvorac Stari Grad",
+            "hu": "Stari Grad kastély",
+            "ro": "Castelul Stari Grad",
+            "en": "Stari Grad Castle"
+          },
+          "coords": [
+            45.2742,
+            14.5681
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nur eine kurze Fahrt durch die Gassen trennt die beiden Burgen.",
+            "hu": "Csak egy rövid gurulás választja el a két várat.",
+            "ro": "O scurtă plimbare prin străduțe separă cele două castele.",
+            "en": "Only a short ride through the alleys separates the two castles."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittagessen in der Riva",
+            "hu": "Ebéd a Riván",
+            "ro": "Prânz pe Riva",
+            "en": "Lunch at the Riva"
+          },
+          "coords": [
+            45.2745,
+            14.5695
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf das Meer beim Essen.",
+            "hu": "Élvezd a tengeri kilátást evés közben.",
+            "ro": "Bucurați-vă de vederea la mare în timp ce mâncați.",
+            "en": "Enjoy the sea view while you dine."
+          }
+        },
+        {
+          "name": {
+            "de": "Crkva sv. Nikole",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "Church of St. Nicholas"
+          },
+          "coords": [
+            45.2732,
+            14.5705
+          ],
+          "category": "religious",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche der Schutzpatrone der Seeleute.",
+            "hu": "Látogasd meg a tengerészek védőszentjének templomát.",
+            "ro": "Vizitați biserica patronului marinarilor.",
+            "en": "Visit the church of the patron saint of sailors."
+          }
+        },
+        {
+          "name": {
+            "de": "Küstentour nach Oštro",
+            "hu": "Part menti tekerés Oštro felé",
+            "ro": "Tur de coastă spre Oštro",
+            "en": "Coastal ride to Oštro"
+          },
+          "coords": [
+            45.268,
+            14.562
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stoppen Sie für Fotos der Krk-Brücke auf dem Weg.",
+            "hu": "Állj meg fotózni a Krki-hidat útközben.",
+            "ro": "Opriți pentru poze cu podul Krk pe drum.",
+            "en": "Stop for photos of the Krk bridge along the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Poluotok Oštro (Strandzeit)",
+            "hu": "Oštro-félsziget (strandolás)",
+            "ro": "Peninsula Oštro (timp de plajă)",
+            "en": "Oštro Peninsula (Beach time)"
+          },
+          "coords": [
+            45.2645,
+            14.5545
+          ],
+          "category": "beach",
+          "arrive_at": "14:50",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Befahren Sie die Wege im Pinienwald der Halbinsel.",
+            "hu": "Tekerj a félsziget fenyőerdőinek ösvényein.",
+            "ro": "Pedalați pe potecile din pădurea de pini a peninsulei.",
+            "en": "Ride the paths through the peninsula's pine forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Brodogradilište Kraljevica",
+            "hu": "Kraljevica Hajógyár",
+            "ro": "Șantierul Naval Kraljevica",
+            "en": "Kraljevica Shipyard"
+          },
+          "coords": [
+            45.2755,
+            14.5675
+          ],
+          "category": "industry",
+          "arrive_at": "17:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein kurzer Blick auf die Kräne bei Sonnenuntergang.",
+            "hu": "Egy rövid pillantás a darukra a lemenő napfényben.",
+            "ro": "O privire scurtă spre macarale la apus.",
+            "en": "A quick look at the cranes in the setting sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie Kraljevica und seine Umgebung besonders flexibel. Nach dem Besuch der historischen Schlösser im Zentrum führt eine angenehme Fahrt entlang der Küste zur Halbinsel Oštro. Der Weg bietet großartige Ausblicke auf die Adria und die Krk-Brücke. Auf Oštro können Sie die Waldwege erkunden oder direkt am Meer entspannen, bevor Sie zurück zum Hafen radeln.",
+        "hu": "Biciklivel Kraljevica és környéke rendkívül rugalmasan bejárható. A központ történelmi kastélyai után egy kellemes tengerparti tekerés következik az Oštro-félsziget felé. Az út során végig csodás kilátás nyílik az Adriára és a Krki-hídra. Oštrón felfedezheted az erdei ösvényeket vagy pihenhetsz a parton, mielőtt visszatérnél a kikötőbe.",
+        "ro": "Cu bicicleta, puteți explora Kraljevica și împrejurimile sale cu mare flexibilitate. După vizitarea castelelor istorice din centru, urmează o cursă plăcută de-a lungul coastei spre peninsula Oštro. Drumul oferă vederi superbe spre Adriatică și podul Krk. Pe Oštro, puteți explora potecile de pădure sau vă puteți relaxa la malul mării înainte de a reveni în port.",
+        "en": "Cycling offers great flexibility to explore Kraljevica and its coast. After visiting the historical castles in the center, enjoy a pleasant ride along the shore towards the Oštro peninsula. The route provides stunning views of the Adriatic and the Krk bridge. On Oštro, explore the pine forest trails or relax by the sea before heading back to the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Sidro",
+            "tip": "Schnelle und gute Gerichte für hungrige Radfahrer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Sidro",
+            "tip": "Gyors és laktató ételek éhes kerékpárosoknak."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Sidro",
+            "tip": "Preparate rapide și bune pentru bicicliști flămânzi."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Sidro",
+            "tip": "Quick and hearty dishes for hungry cyclists."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Oštro Waldwege",
+            "tip": "Ruhiges Radeln im Schatten der Pinien.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Oštro erdei utak",
+            "tip": "Csendes tekerés a fenyők árnyékában.",
+            "emoji": "🌲"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteci de pădure Oštro",
+            "tip": "Pedalat liniștit la umbra pinilor.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Oštro Forest Trails",
+            "tip": "Quiet cycling in the shade of the pines.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Honigprodukte",
+            "tip": "Suchen Sie nach Ständen mit hausgemachtem Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Keresd a házilag termelt mézet árusító pontokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Căutați standurile cu miere de casă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Look for stands selling homemade local honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke nach Oštro ist größtenteils flach und gut befahrbar.",
+          "Nehmen Sie ausreichend Wasser mit, besonders im Sommer.",
+          "Achten Sie im Hafenbereich auf Fußgänger."
+        ],
+        "hu": [
+          "Az Oštro felé vezető út nagy része sík és jól kerékpározható.",
+          "Vigyél magaddal elég vizet, főleg nyáron.",
+          "A kikötői részen figyelj a gyalogosokra."
+        ],
+        "ro": [
+          "Traseul spre Oštro este în mare parte plat și ușor de parcurs.",
+          "Luați suficientă apă, mai ales pe timpul verii.",
+          "Fiți atenți la pietoni în zona portului."
+        ],
+        "en": [
+          "The route to Oštro is mostly flat and easy to ride.",
+          "Carry enough water, especially during the summer months.",
+          "Be mindful of pedestrians when riding in the harbor area."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:35",
+      "total_km": 12.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum Kraljevica (Parkplatz)",
+            "hu": "Kraljevica központ (Parkoló)",
+            "ro": "Centru Kraljevica (Parcare)",
+            "en": "Kraljevica Center (Parking)"
+          },
+          "coords": [
+            45.2741,
+            14.5683
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den ersten Cluster-Rundgang zu Fuß.",
+            "hu": "Parkolj le itt az első gyalogos felfedezéshez.",
+            "ro": "Parcați aici pentru primul tur pietonal.",
+            "en": "Park here for the first walking cluster tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Brodogradilište Kraljevica",
+            "hu": "Kraljevica Hajógyár",
+            "ro": "Șantierul Naval Kraljevica",
+            "en": "Kraljevica Shipyard"
+          },
+          "coords": [
+            45.2755,
+            14.5675
+          ],
+          "category": "industry",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Vom Parkplatz aus in 5 Minuten zu Fuß erreichbar.",
+            "hu": "A parkolótól 5 perc séta.",
+            "ro": "La 5 minute de mers pe jos de parcare.",
+            "en": "A 5-minute walk from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Dvorac Stari Grad",
+            "hu": "Stari Grad kastély",
+            "ro": "Castelul Stari Grad",
+            "en": "Stari Grad Castle"
+          },
+          "coords": [
+            45.2742,
+            14.5681
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Teil des Kulturwegs der Frankopanen.",
+            "hu": "A Frangepán kulturális útvonal része.",
+            "ro": "Parte din ruta culturală a Frankopanilor.",
+            "en": "Part of the Frankopan cultural route."
+          }
+        },
+        {
+          "name": {
+            "de": "Ebéd a városban",
+            "hu": "Ebéd a városban",
+            "ro": "Prânz în oraș",
+            "en": "Lunch in town"
+          },
+          "coords": [
+            45.2735,
+            14.569
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie mediterrane Küche zu Fuß erreichbar.",
+            "hu": "Mediterrán konyha sétatávolságra.",
+            "ro": "Bucătărie mediteraneană la câțiva pași.",
+            "en": "Mediterranean cuisine within walking distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Dvorac Nova Kraljevica",
+            "hu": "Nova Kraljevica kastély",
+            "ro": "Castelul Nova Kraljevica",
+            "en": "Nova Kraljevica Castle"
+          },
+          "coords": [
+            45.2728,
+            14.5692
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Schlossmuseum.",
+            "hu": "Látogasd meg a kastélymúzeumot.",
+            "ro": "Vizitați muzeul castelului.",
+            "en": "Visit the castle museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Poluotok Oštro (Fahrt)",
+            "hu": "Oštro-félsziget (autóval)",
+            "ro": "Peninsula Oštro (cu mașina)",
+            "en": "Oštro Peninsula (by car)"
+          },
+          "coords": [
+            45.2645,
+            14.5545
+          ],
+          "category": "beach",
+          "arrive_at": "15:05",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum zweiten Cluster; Parken direkt am Strand möglich.",
+            "hu": "Rövid gurulás a második zónába; parkolás a strandnál.",
+            "ro": "Scurtă deplasare spre a doua zonă; parcare la plajă.",
+            "en": "Short drive to the second cluster; parking available at the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Krk-Brücke",
+            "hu": "Krki-híd kilátópont",
+            "ro": "Punct de belvedere podul Krk",
+            "en": "Krk Bridge Viewpoint"
+          },
+          "coords": [
+            45.2675,
+            14.5635
+          ],
+          "category": "viewpoint",
+          "arrive_at": "18:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Spektakulärer Blick auf das Ingenieurswunder.",
+            "hu": "Látványos kilátás a mérnöki csodára.",
+            "ro": "Vedere spectaculoasă asupra minunii de inginerie.",
+            "en": "Spectacular view of the engineering marvel."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergang am Wasser",
+            "hu": "Naplemente a parton",
+            "ro": "Apus pe mal",
+            "en": "Sunset by the shore"
+          },
+          "coords": [
+            45.2745,
+            14.5695
+          ],
+          "category": "sunset",
+          "arrive_at": "18:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Rückkehr zum Hafen für den Abschluss des Tages.",
+            "hu": "Visszatérés a kikötőbe a nap végén.",
+            "ro": "Revenire în port pentru încheierea zilei.",
+            "en": "Return to the harbor for the end of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Autotag kombiniert kulturelle Entdeckungen mit Strandentspannung. Zuerst parken Sie im Zentrum und erkunden zu Fuß das historische Erbe, die Werft und die Schlösser. Nach einem gemütlichen Mittagessen fahren Sie zur Halbinsel Oštro. Dort genießen Sie die weite Bucht und das saubere Wasser. Ein kurzer Abstecher zu einem Aussichtspunkt mit Blick auf die Krk-Brücke rundet das Programm ab, bevor Sie den Sonnenuntergang im Hafen genießen.",
+        "hu": "Ez az autós nap a kulturális felfedezést ötvözi a strandolással. Először a központban parkolunk le, hogy gyalogosan járjuk be a történelmi örökséget, a hajógyárat és a kastélyokat. Egy kényelmes ebéd után az Oštro-félszigetre autózunk, ahol a tágas öböl és a tiszta víz vár. Egy rövid kitérő a Krki-hídra néző kilátóhoz teszi teljessé a programot, mielőtt a kikötőben élveznénk a naplementét.",
+        "ro": "Această zi cu mașina îmbină descoperirile culturale cu relaxarea la plajă. Mai întâi parcăm în centru și explorăm pe jos moștenirea istorică, șantierul naval și castelele. După un prânz liniștit, mergem cu mașina spre peninsula Oštro, unde ne așteaptă golful larg și apa curată. O scurtă oprire la un punct de belvedere spre podul Krk completează programul înainte de apusul în port.",
+        "en": "This car tour combines cultural discovery with beach relaxation. Start by parking in the center to explore the historical heritage, the shipyard, and the castles on foot. After a relaxed lunch, drive to the Oštro peninsula for some sun and sea. A quick detour to a viewpoint overlooking the Krk bridge completes the itinerary before enjoying the sunset at the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Sancin",
+            "tip": "Etwas außerhalb gelegen, berühmt für Fleischgerichte unter der Peka."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Sancin",
+            "tip": "Kissé kieső helyen, híres a peka alatt sült húsairól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Sancin",
+            "tip": "Situat puțin în afara orașului, renumit pentru carnea la peka."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Sancin",
+            "tip": "Located slightly out of town, famous for meat dishes under the peka."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bakarac-Bucht",
+            "tip": "Ein ruhiger Stopp für Fotos der alten Thunfisch-Ausgucke.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bakaraci-öböl",
+            "tip": "Csendes megálló a régi tunhal-figyelő tornyoknál.",
+            "emoji": "🎣"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Bakarac",
+            "tip": "O oprire liniștită pentru poze cu vechile foișoare de pescuit.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Bakarac Bay",
+            "tip": "A quiet stop to photograph the old tuna lookout towers.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Weine",
+            "tip": "Besuchen Sie Winzer in der nahen Region Bakar."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borok",
+            "tip": "Látogass el a közeli bakari bortermelőkhöz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinuri locale",
+            "tip": "Vizitați viticultorii din regiunea apropiată Bakar."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wines",
+            "tip": "Visit winemakers in the nearby Bakar region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken im Zentrum ist in der Nebensaison meist problemlos.",
+          "Die Krk-Brücke ist mautfrei für PKW.",
+          "Nutzen Sie die kurzen Fahrstrecken, um flexibel zu bleiben."
+        ],
+        "hu": [
+          "A központi parkolás főszezonon kívül általában könnyű.",
+          "A Krki-híd ingyenes a személyautók számára.",
+          "Használd ki a rövid távolságokat a rugalmasság érdekében."
+        ],
+        "ro": [
+          "Parcarea în centru este de obicei ușoară în afara sezonului.",
+          "Podul Krk este gratuit pentru autoturisme.",
+          "Profită de distanțele scurte pentru a rămâne flexibil."
+        ],
+        "en": [
+          "Parking in the center is usually easy outside high season.",
+          "The Krk bridge is toll-free for passenger cars.",
+          "Take advantage of the short driving distances for maximum flexibility."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 10.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentraler Busbahnhof Kraljevica",
+            "hu": "Kraljevica központi buszmegálló",
+            "ro": "Stația centrală de autobuz Kraljevica",
+            "en": "Kraljevica Central Bus Stop"
+          },
+          "coords": [
+            45.2741,
+            14.5683
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Ankunft mit der Linie 29 aus Rijeka.",
+            "hu": "Érkezés a 29-es busszal Fiuméből (Rijeka).",
+            "ro": "Sosire cu linia 29 din Rijeka.",
+            "en": "Arrival with line 29 from Rijeka."
+          }
+        },
+        {
+          "name": {
+            "de": "Dvorac Stari Grad",
+            "hu": "Stari Grad kastély",
+            "ro": "Castelul Stari Grad",
+            "en": "Stari Grad Castle"
+          },
+          "coords": [
+            45.2742,
+            14.5681
+          ],
+          "category": "historical",
+          "arrive_at": "09:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+            "hu": "Csak pár lépésre a buszmegállótól.",
+            "ro": "La doar câțiva pași de stația de autobuz.",
+            "en": "Just a few steps from the bus stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Dvorac Nova Kraljevica",
+            "hu": "Nova Kraljevica kastély",
+            "ro": "Castelul Nova Kraljevica",
+            "en": "Nova Kraljevica Castle"
+          },
+          "coords": [
+            45.2728,
+            14.5692
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zentraler Punkt für den historischen Cluster.",
+            "hu": "A történelmi városrész központi pontja.",
+            "ro": "Punctul central al clusterului istoric.",
+            "en": "The central point of the historical cluster."
+          }
+        },
+        {
+          "name": {
+            "de": "Konoba (Mittagessen)",
+            "hu": "Konoba (ebéd)",
+            "ro": "Konoba (prânz)",
+            "en": "Konoba (lunch)"
+          },
+          "coords": [
+            45.2735,
+            14.569
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gemütlicher Stopp vor der Weiterfahrt.",
+            "hu": "Kellemes pihenő a továbbutazás előtt.",
+            "ro": "O oprire plăcută înainte de a continua drumul.",
+            "en": "A pleasant stop before continuing the journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Transfer zum Poluotok Oštro",
+            "hu": "Transzfer az Oštro-félszigetre",
+            "ro": "Transfer spre Peninsula Oštro",
+            "en": "Transfer to Oštro Peninsula"
+          },
+          "coords": [
+            45.2645,
+            14.5545
+          ],
+          "category": "transit",
+          "arrive_at": "14:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus oder ein kurzes Taxi.",
+            "hu": "Használd a helyi buszt vagy egy rövid taxit.",
+            "ro": "Folosiți autobuzul local sau un taxi scurt.",
+            "en": "Use the local bus or a short taxi ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Oštro Strandpause",
+            "hu": "Oštro strandpihenő",
+            "ro": "Pauză de plajă Oštro",
+            "en": "Oštro Beach Break"
+          },
+          "coords": [
+            45.2645,
+            14.5545
+          ],
+          "category": "beach",
+          "arrive_at": "14:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die Haltestelle ist nah am Strandzugang.",
+            "hu": "A megálló közel van a strand lejáratához.",
+            "ro": "Stația este aproape de intrarea pe plajă.",
+            "en": "The stop is close to the beach entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Rückfahrt zum Zentrum",
+            "hu": "Visszautazás a központba",
+            "ro": "Retur spre centru",
+            "en": "Return to the center"
+          },
+          "coords": [
+            45.2745,
+            14.5695
+          ],
+          "category": "harbor",
+          "arrive_at": "17:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Zeit für ein letztes Eis am Hafen.",
+            "hu": "Idő egy utolsó fagyira a kikötőben.",
+            "ro": "Timp pentru o ultimă înghețată în port.",
+            "en": "Time for one last gelato at the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit öffentlichen Verkehrsmitteln lässt sich Kraljevica gut erkunden, da die wichtigsten Sehenswürdigkeiten im Zentrum konzentriert sind. Nach der Ankunft besichtigen Sie die Schlösser und genießen ein lokales Mittagessen. Am Nachmittag bringt Sie der Bus zur Halbinsel Oštro, wo Sie die Natur und das Meer genießen können, bevor Sie für den Ausklang zum Hafen zurückkehren.",
+        "hu": "Tömegközlekedéssel Kraljevica könnyen felfedezhető, mivel a fő látnivalók a központban csoportosulnak. Érkezés után a kastélyokat nézzük meg, majd egy helyi ebédet élvezünk. Délután a busz elvisz az Oštro-félszigetre, ahol a természetet és a tengert élvezhetjük, mielőtt a nap végén visszatérnénk a kikötőbe.",
+        "ro": "Cu transportul public, Kraljevica este ușor de explorat, deoarece principalele atracții sunt concentrate în centru. După sosire, vizităm castelele și savurăm un prânz local. După-amiaza, autobuzul ne duce spre peninsula Oštro, unde ne putem bucura de natură și de mare, înainte de a reveni în port la finalul zilei.",
+        "en": "Public transport makes exploring Kraljevica straightforward, as the main sights are clustered in the center. After arrival, visit the historic castles and enjoy a local lunch. In the afternoon, take a bus to the Oštro peninsula for some nature and sea time before returning to the harbor for the evening."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei im Zentrum",
+            "tip": "Holen Sie sich Burek für den Strand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi pékség",
+            "tip": "Vegyél egy bureket a strandra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria din centru",
+            "tip": "Luați un burek pentru plajă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Center Bakery",
+            "tip": "Grab a burek to take to the beach."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sitzbänke an der Riva",
+            "tip": "Ideal zum Warten auf den Bus.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Riva padok",
+            "tip": "Ideális a buszra váráshoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Băncile de pe Riva",
+            "tip": "Ideal pentru a aștepta autobuzul.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riva Benches",
+            "tip": "Perfect for waiting for your bus.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Supermarkt",
+            "tip": "Gute Auswahl an kroatischen Snacks."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi szupermarket",
+            "tip": "Jó választék horvát nasikból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Supermarket local",
+            "tip": "O selecție bună de gustări croate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Supermarket",
+            "tip": "Good selection of Croatian snacks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan der Linie 29 vorab.",
+          "Die Fahrkarten können oft direkt beim Fahrer gekauft werden.",
+          "Die Gehwege im Zentrum sind gut ausgebaut."
+        ],
+        "hu": [
+          "Előre ellenőrizd a 29-es busz menetrendjét.",
+          "A jegyeket gyakran a sofőrnél is meg lehet venni.",
+          "A központban a járdák jól karbantartottak."
+        ],
+        "ro": [
+          "Verificați orarul liniei 29 în avans.",
+          "Biletele pot fi cumpărate adesea direct de la șofer.",
+          "Trotuarele din centru sunt bine întreținute."
+        ],
+        "en": [
+          "Check the schedule for line 29 in advance.",
+          "Tickets can often be purchased directly from the driver.",
+          "Sidewalks in the center are well-maintained for walking."
+        ]
+      }
+    }
+  }
+}

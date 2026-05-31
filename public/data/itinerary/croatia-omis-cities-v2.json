@@ -1,0 +1,958 @@
+{
+  "city_id": "croatia-omis-cities-v2",
+  "anchor": {
+    "name": "Omiš",
+    "coords": [
+      16.693,
+      43.444
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Altstadt-Markt",
+          "coords": [
+            16.692,
+            43.444
+          ],
+          "category": "market",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Probieren Sie Soparnik, die lokale Mangold-Spezialität.",
+            "hu": "Kóstolja meg a soparnikot, a helyi mángoldos lepényt.",
+            "ro": "Gustați soparnik, plăcinta locală cu mangold.",
+            "en": "Try soparnik, the local chard-filled savory pie."
+          }
+        },
+        {
+          "name": "Crkva svetog Mihovila",
+          "coords": [
+            16.693,
+            43.444
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das barocke Altarbild im Herzen der Altstadt.",
+            "hu": "Csodálja meg a barokk oltárképet az óváros szívében.",
+            "ro": "Admirați altarul baroc din inima centrului vechi.",
+            "en": "Admire the baroque altarpiece in the heart of the old town."
+          }
+        },
+        {
+          "name": "Tvrđava Mirabella",
+          "coords": [
+            16.694,
+            43.445
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie zur Piratenfestung auf für den besten Stadtblick.",
+            "hu": "Másszon fel a kalózerődbe a legjobb városi panorámáért.",
+            "ro": "Urcați la fortăreața piraților pentru cea mai bună vedere.",
+            "en": "Climb up to the pirate fortress for the best city view."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            16.693,
+            43.443
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestellen Sie fangfrischen Fisch oder Cetina-Forelle.",
+            "hu": "Rendeljen friss tengeri halat vagy cetinai pisztrángot.",
+            "ro": "Comandați pește proaspăt sau păstrăv de Cetina.",
+            "en": "Order fresh sea fish or Cetina river trout."
+          }
+        },
+        {
+          "name": "Kanjon Cetine",
+          "coords": [
+            16.698,
+            43.447
+          ],
+          "category": "park",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie am Flussufer entlang in den majestätischen Canyon.",
+            "hu": "Sétáljon a folyóparton a fenséges kanyon bejárata felé.",
+            "ro": "Plimbați-vă pe malul râului spre intrarea în canion.",
+            "en": "Stroll along the riverbank towards the majestic canyon."
+          }
+        },
+        {
+          "name": "Plaža Punta",
+          "coords": [
+            16.69,
+            43.443
+          ],
+          "category": "beach",
+          "arrive_at": "15:45",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den seltenen Sandstrand in dieser Region.",
+            "hu": "Élvezze a régióban ritka homokos strandot.",
+            "ro": "Bucurați-vă de plaja cu nisip, rară în această regiune.",
+            "en": "Enjoy the rare sandy beach in this part of Dalmatia."
+          }
+        },
+        {
+          "name": "Uferpromenade (Riva)",
+          "coords": [
+            16.692,
+            43.442
+          ],
+          "category": "sunset",
+          "arrive_at": "18:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie die Sonne hinter den Felsen versinkt.",
+            "hu": "Nézze végig, ahogy a nap lebukik a sziklák mögött.",
+            "ro": "Priviți cum soarele apune după stâncile impunătoare.",
+            "en": "Watch the sun dip behind the towering cliffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im lebhaften Labyrinth der Altstadt von Omiš. Nach dem Besuch der St.-Michael-Kirche erklimmen Sie die Mirabella-Festung, um das Panorama der Adria zu bewundern. Mittags genießen Sie dalmatinische Köstlichkeiten in einer traditionellen Konoba. Der Nachmittag gehört dem Naturwunder des Cetina-Canyons und einer ausgiebigen Pause am Sandstrand Punta, bevor der Tag an der Riva ausklingt.",
+        "hu": "Kezdje a napot Omiš óvárosának nyüzsgő útvesztőjében. A Szent Mihály-templom megtekintése után másszon fel a Mirabella-erődbe az adriai panorámáért. Ebédre kóstoljon dalmát specialitásokat egy konobában. A délutánt a Cetina-kanyon természeti csodája és a homokos Punta strand koronázza meg, mielőtt a nap a kikötői sétányon ér véget.",
+        "ro": "Începeți ziua în labirintul vibrant al orașului vechi din Omiș. După vizitarea bisericii Sf. Mihail, urcați la fortăreața Mirabella pentru o panoramă superbă asupra Adriaticii. La prânz, savurați delicii dalmate într-o konoba. După-amiaza este dedicată minunii naturale a canionului Cetina și relaxării pe plaja cu nisip Punta, înainte de a încheia ziua pe faleză.",
+        "en": "Start your day in the lively labyrinth of Omiš's old town. After visiting St. Michael's Church, climb the Mirabella fortress for a panoramic Adriatic view. For lunch, savor Dalmatian specialties in a local konoba. Spend your afternoon admiring the Cetina Canyon and relaxing on the sandy Punta beach, before finishing the day with a sunset stroll along the Riva."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Bastion",
+            "tip": "Probieren Sie den traditionellen Soparnik."
+          },
+          {
+            "name": "Restaurant Kaštel",
+            "tip": "Frischer Fisch direkt am Flussufer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Bastion",
+            "tip": "Kóstolja meg a hagyományos soparnikot."
+          },
+          {
+            "name": "Restaurant Kaštel",
+            "tip": "Friss halételek közvetlenül a folyóparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Bastion",
+            "tip": "Gustați tradiționalul soparnik."
+          },
+          {
+            "name": "Restaurant Kaštel",
+            "tip": "Pește proaspăt chiar pe malul râului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Bastion",
+            "tip": "Try the traditional savory soparnik."
+          },
+          {
+            "name": "Restaurant Kaštel",
+            "tip": "Fresh seafood right by the riverbank."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Cetina-Ufer",
+            "tip": "Ein ruhiger Spaziergang flussaufwärts.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Starigrad-Weg",
+            "tip": "Einsame Pfade oberhalb der Stadt.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Cetina-part",
+            "tip": "Csendes séta a folyón felfelé.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Starigrad-ösvény",
+            "tip": "Magányos ösvények a város felett.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul Cetinei",
+            "tip": "O plimbare liniștită în amontele râului.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poteca Starigrad",
+            "tip": "Trasee solitare deasupra orașului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Cetina Riverbank",
+            "tip": "A peaceful walk upstream.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Starigrad Path",
+            "tip": "Lonely trails high above the town.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Marktstand-Honig",
+            "tip": "Lokaler Salbeihonig aus den Bergen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Piaci méz",
+            "tip": "Helyi zsályaméz a környező hegyekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere de la piață",
+            "tip": "Miere locală de salvie din munți."
+          }
+        ],
+        "en": [
+          {
+            "name": "Market Honey",
+            "tip": "Local sage honey from the nearby mountains."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Omiš ist kompakt; bequeme Schuhe sind für die Festungstreppen ein Muss.",
+          "Die Strömung der Cetina macht das Meer am Strand Punta etwas kühler.",
+          "Besuchen Sie den Markt früh morgens für den frischesten Soparnik.",
+          "Im Hochsommer ist die Mirabella-Festung am späten Nachmittag kühler."
+        ],
+        "hu": [
+          "Omiš kompakt város, de a várba vezető lépcsőkhöz kényelmes cipő kell.",
+          "A Cetina hideg vize miatt a tenger a Punta strandnál kicsit hűvösebb.",
+          "A piacra érdemes korán menni a legfrissebb soparnikért.",
+          "Főszezonban a Mirabella-erődöt késő délután érdemes látogatni a hőség miatt."
+        ],
+        "ro": [
+          "Omiș este compact; pantofii comozi sunt obligatorii pentru scările cetății.",
+          "Curentul râului Cetina face ca apa mării la plaja Punta să fie mai rece.",
+          "Mergeți devreme la piață pentru cel mai proaspăt soparnik.",
+          "În plină vară, vizitați cetatea Mirabella după-amiaza târziu pentru a evita arșița."
+        ],
+        "en": [
+          "Omiš is compact, but comfortable shoes are a must for the fortress stairs.",
+          "The Cetina river current makes the sea at Punta beach slightly cooler.",
+          "Visit the market early in the morning for the freshest soparnik.",
+          "In mid-summer, visit the Mirabella fortress in late afternoon to avoid the heat."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Riva-Radweg",
+          "coords": [
+            16.692,
+            43.443
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Starten Sie gemütlich entlang der Uferpromenade.",
+            "hu": "Kezdje a tekerést kényelmesen a parti sétányon.",
+            "ro": "Începeți plimbarea lejer pe faleză.",
+            "en": "Start your ride comfortably along the waterfront promenade."
+          }
+        },
+        {
+          "name": "Kanjon Cetine",
+          "coords": [
+            16.715,
+            43.455
+          ],
+          "category": "park",
+          "arrive_at": "10:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Radeln Sie tief in den Canyon bis zu den Radman-Mühlen.",
+            "hu": "Tekerjen be mélyen a kanyonba a Radman-malmokig.",
+            "ro": "Pedalați adânc în canion până la morile Radman.",
+            "en": "Cycle deep into the canyon towards Radman's Mills."
+          }
+        },
+        {
+          "name": "Picknick am Fluss",
+          "coords": [
+            16.712,
+            43.453
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die kühle Brise des Bergflusses.",
+            "hu": "Élvezze a hegyi folyó hűvös fuvallatát.",
+            "ro": "Bucurați-vă de briza răcoroasă a râului de munte.",
+            "en": "Enjoy the cool breeze of the mountain river."
+          }
+        },
+        {
+          "name": "Tvrđava Mirabella",
+          "coords": [
+            16.694,
+            43.445
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie die Räder unten und erklimmen Sie die Stufen.",
+            "hu": "Parkolja le a bringákat lent, és másszon fel a lépcsőkön.",
+            "ro": "Parcați bicicletele jos și urcați treptele.",
+            "en": "Park your bikes below and climb the stone stairs."
+          }
+        },
+        {
+          "name": "Plaža Punta",
+          "coords": [
+            16.69,
+            43.443
+          ],
+          "category": "beach",
+          "arrive_at": "15:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Verdiente Abkühlung im flachen Wasser.",
+            "hu": "Megérdemelt felfrissülés a sekély vízben.",
+            "ro": "Răcorire binemeritată în apa puțin adâncă.",
+            "en": "Well-deserved refreshment in the shallow waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Omiš und seine Umgebung auf zwei Rädern. Die Route führt Sie von der Riva tief in den spektakulären Cetina-Canyon, wo die hohen Felswände natürlichen Schatten spenden. Nach einem entspannten Picknick am Fluss geht es zurück ins Zentrum zur Mirabella-Festung. Der Tag endet mit einer Radtour zum Sandstrand Punta für ein erfrischendes Bad.",
+        "hu": "Fedezze fel Omišt és környékét két keréken. Az útvonal a partról mélyen a látványos Cetina-kanyonba vezet, ahol a magas sziklafalak természetes árnyékot adnak. Egy pihentető folyóparti piknik után visszatérünk a központba a Mirabella-erődhöz. A napot a homokos Punta strandnál zárjuk egy frissítő fürdőzéssel.",
+        "ro": "Explorați Omiș și împrejurimile pe două roți. Traseul vă duce de pe faleză adânc în spectaculosul canion Cetina, unde pereții înalți de stâncă oferă umbră naturală. După un picnic relaxant pe malul râului, revenim în centru la fortăreața Mirabella. Ziua se încheie cu o plimbare spre plaja Punta pentru o baie răcoritoare.",
+        "en": "Explore Omiš and its surroundings on two wheels. The route takes you from the waterfront deep into the spectacular Cetina Canyon, where towering cliffs provide natural shade. After a relaxing riverside picnic, head back to the center for the Mirabella fortress. The day ends with a ride to the sandy Punta beach for a refreshing dip."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Radmanove Mlinice",
+            "tip": "Perfekt für eine Radlerpause im Grünen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radmanove Mlinice",
+            "tip": "Tökéletes pihenőhely a zöldben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Radmanove Mlinice",
+            "tip": "Perfect pentru o pauză la iarbă verde."
+          }
+        ],
+        "en": [
+          {
+            "name": "Radmanove Mlinice",
+            "tip": "Perfect stop for cyclists in the greenery."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kanjon-Weg",
+            "tip": "Abseits der Hauptstraße radeln.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kanyon-út",
+            "tip": "Tekerjen távol a főúttól.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Drumul prin canion",
+            "tip": "Pedalați departe de șoseaua principală.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Canyon Path",
+            "tip": "Cycle away from the main road.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs in der Altstadt",
+            "tip": "Handgefertigte Keramik mit Piratenmotiven."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Óvárosi szuvenír",
+            "tip": "Kézzel készített kerámiák kalózos motívumokkal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din orașul vechi",
+            "tip": "Ceramică lucrată manual cu motive de pirați."
+          }
+        ],
+        "en": [
+          {
+            "name": "Old Town Souvenirs",
+            "tip": "Handmade ceramics with pirate motifs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße in den Canyon ist flach und ideal für Gelegenheitsradler.",
+          "Achten Sie im Canyon auf den Verkehr, besonders in den Tunneln.",
+          "Schließen Sie Ihr Rad im Zentrum sicher ab, bevor Sie zur Festung aufsteigen.",
+          "Ein Rad mit Korb ist praktisch für Strandtücher und Proviant."
+        ],
+        "hu": [
+          "A kanyonba vezető út sík, ideális hobbibringásoknak is.",
+          "Figyeljen a forgalomra a kanyonban, különösen az alagutaknál.",
+          "Zárja le biztonságosan a biciklit, mielőtt felmászik az erődbe.",
+          "A kosaras bringa praktikus a strandtörölközők és az útravaló miatt."
+        ],
+        "ro": [
+          "Drumul în canion este plat, ideal și pentru bicicliștii ocazionali.",
+          "Atenție la trafic în canion, mai ales în porțiunile cu tunel.",
+          "Încuiați bine bicicleta în centru înainte de a urca la cetate.",
+          "O bicicletă cu coș este practică pentru prosoape de plajă și provizii."
+        ],
+        "en": [
+          "The road into the canyon is flat and ideal for casual cyclists.",
+          "Watch out for traffic in the canyon, especially in the tunnel sections.",
+          "Lock your bike securely in the center before climbing to the fortress.",
+          "A bike with a basket is practical for beach towels and snacks."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 30,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Altstadt Omiš (Cluster A)",
+          "coords": [
+            16.693,
+            43.444
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Haupthafen und erkunden Sie die Gassen zu Fuß.",
+            "hu": "Parkoljon a fő kikötőnél, és fedezze fel a sikátorokat gyalog.",
+            "ro": "Parcați la portul principal și explorați străduțele pe jos.",
+            "en": "Park at the main harbor and explore the alleys on foot."
+          }
+        },
+        {
+          "name": "Tvrđava Mirabella (Cluster A)",
+          "coords": [
+            16.694,
+            43.445
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer, steiler Fußweg direkt vom Stadtzentrum.",
+            "hu": "Rövid, meredek séta közvetlenül a városközpontból.",
+            "ro": "Urcuș scurt și abrupt direct din centrul orașului.",
+            "en": "Short, steep walk directly from the town center."
+          }
+        },
+        {
+          "name": "Kanjon Cetine (Cluster B)",
+          "coords": [
+            16.755,
+            43.435
+          ],
+          "category": "park",
+          "arrive_at": "12:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahrt zum Aussichtspunkt oberhalb des Canyons.",
+            "hu": "Autózás a kanyon feletti kilátópontig.",
+            "ro": "Drum spre punctul de belvedere deasupra canionului.",
+            "en": "Drive to the viewpoint high above the canyon."
+          }
+        },
+        {
+          "name": "Ebéd a folyóparton (Cluster B)",
+          "coords": [
+            16.753,
+            43.433
+          ],
+          "category": "gastro",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie gegrilltes Fleisch unter hohen Bäumen.",
+            "hu": "Élvezze a sült húsokat a hatalmas fák árnyékában.",
+            "ro": "Savurați preparate la grătar sub arbori înalți.",
+            "en": "Enjoy grilled meats under the shade of tall trees."
+          }
+        },
+        {
+          "name": "Plaža Punta (Cluster C)",
+          "coords": [
+            16.69,
+            43.443
+          ],
+          "category": "beach",
+          "arrive_at": "15:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Parken Sie in Strandnähe für schnellen Zugang zum Meer.",
+            "hu": "Parkoljon a strand közelében a gyors tengerparti kijutáshoz.",
+            "ro": "Parcați lângă plajă pentru acces rapid la mare.",
+            "en": "Park near the beach for quick access to the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden Sie das historische Zentrum von Omiš mit den spektakulären Aussichtspunkten des Cetina-Canyons. Nach der Erkundung der Piratenfestung führt Sie eine kurze Panoramafahrt zu den besten Fotospots oberhalb der Schlucht. Ein Mittagessen im Grünen und ein abschließender Besuch am Sandstrand Punta machen den Tag perfekt.",
+        "hu": "Autóval könnyen összekötheti Omiš történelmi központját a Cetina-kanyon látványos kilátópontjaival. A kalózerőd felfedezése után egy rövid panorámaút vezet a szurdok feletti legjobb fotóhelyekhez. Egy zöldövezeti ebéd és egy befejező csobbanás a homokos Punta strandon teszi teljessé a napot.",
+        "ro": "Cu mașina puteți conecta centrul istoric al orașului Omiș cu punctele de belvedere spectaculoase ale canionului Cetina. După explorarea cetății piraților, un scurt drum panoramic vă duce la cele mai bune locuri de fotografiat deasupra defileului. Un prânz în natură și o vizită finală la plaja Punta completează ziua.",
+        "en": "By car, you can easily combine Omiš's historical center with the spectacular viewpoints of the Cetina Canyon. After exploring the pirate fortress, a short panoramic drive leads to the best photo spots above the gorge. A lunch in the greenery and a final swim at the sandy Punta beach make the day perfect."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Radmanove Mlinice",
+            "tip": "Traditionelle Peka in idyllischer Lage."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Radmanove Mlinice étterem",
+            "tip": "Hagyományos peka idilli környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurantul Radmanove Mlinice",
+            "tip": "Peka tradițională într-un cadru idilic."
+          }
+        ],
+        "en": [
+          {
+            "name": "Radmanove Mlinice Restaurant",
+            "tip": "Traditional peka in an idyllic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mila Gojsalić Statue",
+            "tip": "Panoramablick über den Canyon.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mila Gojsalić szobor",
+            "tip": "Panoráma a kanyonra és a városra.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Statuia Mila Gojsalić",
+            "tip": "Vedere panoramică peste canion.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mila Gojsalić Statue",
+            "tip": "Panoramic view over the canyon.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Olivenöl beim Erzeuger",
+            "tip": "Direktkauf an der Canyon-Straße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olívaolaj a termelőtől",
+            "tip": "Vásároljon közvetlenül a kanyoni út mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline de la producător",
+            "tip": "Cumpărați direct de pe drumul canionului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Olive Oil Producer",
+            "tip": "Buy directly from producers along the canyon road."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze in Omiš sind im Sommer sehr begrenzt; nutzen Sie den großen Parkplatz am Fluss.",
+          "Die Straße flussaufwärts ist kurvenreich, bietet aber fantastische Ausblicke.",
+          "In Kroatien gilt 0,5 Promille, aber am besten fahren Sie ganz ohne Alkohol.",
+          "Parken am Strand Punta ist gebührenpflichtig."
+        ],
+        "hu": [
+          "A parkolóhelyek Omišban korlátozottak nyáron, használja a folyóparti nagy parkolót.",
+          "A folyón felfelé vezető út kanyargós, de fantasztikus kilátást nyújt.",
+          "Horvátországban 0,5 ezrelék a limit, de inkább ne igyon, ha vezet.",
+          "A Punta strand melletti parkolás díjköteles."
+        ],
+        "ro": [
+          "Locurile de parcare în Omiș sunt limitate vara; folosiți parcarea mare de lângă râu.",
+          "Drumul în amonte este sinuos, dar oferă vederi fantastice.",
+          "În Croația limita este de 0,5 la mie, dar cel mai bine este să nu consumați alcool.",
+          "Parcarea la plaja Punta este cu plată."
+        ],
+        "en": [
+          "Parking spots in Omiš are limited in summer; use the large parking lot by the river.",
+          "The road upstream is winding but offers fantastic views.",
+          "The legal limit is 0.5‰ in Croatia, but it's best not to drink and drive.",
+          "Parking at Punta beach is subject to a fee."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Omiš Zentrum (Halt)",
+          "coords": [
+            16.692,
+            43.444
+          ],
+          "category": "market",
+          "arrive_at": "09:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Lokale Busse halten direkt am Rand der Altstadt.",
+            "hu": "A helyi buszok közvetlenül az óváros szélén állnak meg.",
+            "ro": "Autobuzele locale opresc chiar la marginea centrului vechi.",
+            "en": "Local buses stop right at the edge of the old town."
+          }
+        },
+        {
+          "name": "Crkva svetog Mihovila",
+          "coords": [
+            16.693,
+            43.444
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang durch die Fußgängerzone.",
+            "hu": "Rövid séta a sétálóutcán keresztül.",
+            "ro": "O scurtă plimbare prin zona pietonală.",
+            "en": "Short stroll through the pedestrian zone."
+          }
+        },
+        {
+          "name": "Tvrđava Mirabella",
+          "coords": [
+            16.694,
+            43.445
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steile Stufen, die sich für den Ausblick lohnen.",
+            "hu": "Meredek lépcsők, de a kilátás kárpótol.",
+            "ro": "Trepte abrupte, dar vederea merită efortul.",
+            "en": "Steep stairs, but the view is worth the effort."
+          }
+        },
+        {
+          "name": "Kanjon Cetine (Bootsfahrt)",
+          "coords": [
+            16.696,
+            43.446
+          ],
+          "category": "park",
+          "arrive_at": "13:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Touristenboot als bequemen 'Transit' in den Canyon.",
+            "hu": "Használja a turistahajót kényelmes 'transzportként' a kanyonba.",
+            "ro": "Folosiți barca turistică drept 'tranzit' comod în canion.",
+            "en": "Use the tourist boat as a convenient 'transit' into the canyon."
+          }
+        },
+        {
+          "name": "Mittagessen am Wasser",
+          "coords": [
+            16.693,
+            43.443
+          ],
+          "category": "gastro",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die Atmosphäre am Flussufer.",
+            "hu": "Élvezze a folyóparti hangulatot.",
+            "ro": "Bucurați-vă de atmosfera de pe malul râului.",
+            "en": "Enjoy the atmosphere along the riverbank."
+          }
+        },
+        {
+          "name": "Plaža Punta",
+          "coords": [
+            16.69,
+            43.443
+          ],
+          "category": "beach",
+          "arrive_at": "16:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Leicht zu Fuß vom Stadtzentrum erreichbar.",
+            "hu": "Könnyen elérhető gyalog a városközpontból.",
+            "ro": "Ușor de ajuns pe jos din centrul orașului.",
+            "en": "Easily accessible on foot from the town center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Omiš lässt sich wunderbar mit öffentlichen Bussen und Touristenbooten erkunden. Nach dem Besuch der Altstadt und der Festung Mirabella bietet eine Bootsfahrt in den Cetina-Canyon eine entspannte Alternative zum Bus. Der Tag kombiniert Geschichte, eine Flussfahrt und Entspannung am Strand Punta, alles ohne eigenes Auto möglich.",
+        "hu": "Omiš remekül felfedezhető helyi buszokkal és turistahajókkal. Az óváros és a Mirabella-erőd megtekintése után a Cetina-kanyonba induló hajóút pihentető alternatívát kínál a busz helyett. A nap ötvözi a történelmet, a folyami hajózást és a pihenést a Punta strandon, mindezt autó nélkül.",
+        "ro": "Omiș poate fi explorat minunat cu autobuzele locale și bărcile turistice. După vizitarea orașului vechi și a cetății Mirabella, o plimbare cu barca în canionul Cetina oferă o alternativă relaxantă. Ziua combină istoria, o croazieră pe râu și relaxarea pe plaja Punta, totul fără mașină personală.",
+        "en": "Omiš is easily explored using public buses and tourist boats. After visiting the old town and Mirabella fortress, a boat trip into the Cetina Canyon offers a relaxing alternative to the bus. This day combines history, a river cruise, and relaxation at Punta beach, all possible without a car."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pizzeria Tyche",
+            "tip": "Gute Pizzen nahe der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pizzeria Tyche",
+            "tip": "Kiváló pizzák a buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pizzeria Tyche",
+            "tip": "Pizza bună lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pizzeria Tyche",
+            "tip": "Great pizzas near the bus stop."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Bootsanleger",
+            "tip": "Beobachten Sie das Treiben auf dem Fluss.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Hajókikötő",
+            "tip": "Figyelje a folyami forgalom nyüzsgését.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Debarcader",
+            "tip": "Priviți forfota de pe râu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Boat Pier",
+            "tip": "Watch the busy river traffic.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk-Postkarten",
+            "tip": "Schöne Motive der Cetina-Schlucht."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi újságos",
+            "tip": "Szép képeslapok a Cetina-szurdokról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșcul central",
+            "tip": "Vederi frumoase cu defileul Cetinei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Kiosk",
+            "tip": "Beautiful postcards of the Cetina gorge."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die 'Promet'-Busse verbinden Omiš mit Split und Makarska.",
+          "Bootsfahrten in den Canyon starten regelmäßig nahe der Brücke.",
+          "Kaufen Sie Bustickets direkt beim Fahrer oder am Kiosk.",
+          "Der zentrale Busbahnhof ist klein, aber leicht zu finden."
+        ],
+        "hu": [
+          "A 'Promet' buszok kötik össze Omišt Splittel és Makarskával.",
+          "A kanyonba tartó hajók rendszeresen indulnak a híd mellől.",
+          "Buszjegyet a sofőrnél vagy az újságosnál vehet.",
+          "A központi buszmegálló kicsi, de könnyen megtalálható."
+        ],
+        "ro": [
+          "Autobuzele 'Promet' fac legătura între Omiș, Split și Makarska.",
+          "Excursiile cu barca în canion pleacă regulat de lângă pod.",
+          "Cumpărați biletele de autobuz direct de la șofer sau de la chioșc.",
+          "Stația centrală de autobuz este mică, dar ușor de găsit."
+        ],
+        "en": [
+          "The 'Promet' buses connect Omiš with Split and Makarska.",
+          "Boat trips into the canyon depart regularly from near the bridge.",
+          "Buy bus tickets directly from the driver or at a kiosk.",
+          "The central bus stop is small but very easy to find."
+        ]
+      }
+    }
+  }
+}

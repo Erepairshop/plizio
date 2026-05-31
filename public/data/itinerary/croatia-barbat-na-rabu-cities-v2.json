@@ -1,0 +1,1084 @@
+{
+  "city_id": "croatia-barbat-na-rabu-cities-v2",
+  "anchor": {
+    "name": "Barbat na Rabu",
+    "coords": [
+      44.7343,
+      14.8031
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Crkva sv. Stjepana",
+          "coords": [
+            44.735,
+            14.802
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche am frühen Morgen für die beste Ruhe.",
+            "hu": "Látogassa meg a templomot kora reggel a legnagyobb nyugalomért.",
+            "ro": "Vizitați biserica dimineața devreme pentru cea mai multă liniște.",
+            "en": "Visit the church early in the morning for the best peace and quiet."
+          }
+        },
+        {
+          "name": "Frühstück am Meer",
+          "coords": [
+            44.734,
+            14.804
+          ],
+          "category": "square",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee mit Blick auf die vorbeifahrenden Fischerboote.",
+            "hu": "Élvezze a kávét a szemközti halászhajók látványával.",
+            "ro": "Savurați o cafea cu vedere la bărcile de pescuit care trec.",
+            "en": "Enjoy a coffee with a view of the passing fishing boats."
+          }
+        },
+        {
+          "name": "Barbatski kanal",
+          "coords": [
+            44.732,
+            14.806
+          ],
+          "category": "harbor",
+          "arrive_at": "10:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der Kanal ist bekannt für seine ruhigen Gewässer und Segelschiffe.",
+            "hu": "A csatorna híres nyugodt vizéről és a vitorlásokról.",
+            "ro": "Canalul este renumit pentru apele sale calme și ambarcațiunile cu vele.",
+            "en": "The channel is famous for its calm waters and sailing boats."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            44.7335,
+            14.8055
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie die hausgemachten Nudeln mit Meeresfrüchten.",
+            "hu": "Kóstolja meg a házi tésztát tenger gyümölcseivel.",
+            "ro": "Încercați pastele de casă cu fructe de mare.",
+            "en": "Try the homemade pasta with seafood."
+          }
+        },
+        {
+          "name": "Blick auf Otok Dolin",
+          "coords": [
+            44.731,
+            14.808
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein schöner Ort, um die unbewohnte Insel Dolin zu fotografieren.",
+            "hu": "Remek hely a lakatlan Dolin-sziget fotózásához.",
+            "ro": "Un loc minunat pentru a fotografia insula nelocuită Dolin.",
+            "en": "A great spot to photograph the uninhabited Dolin Island."
+          }
+        },
+        {
+          "name": "Riva-Spaziergang",
+          "coords": [
+            44.7325,
+            14.8065
+          ],
+          "category": "park",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die Promenade von Barbat ist eine der längsten der Insel.",
+            "hu": "A barbati korzó az egyik leghosszabb a szigeten.",
+            "ro": "Faleza din Barbat este una dintre cele mai lungi de pe insulă.",
+            "en": "The Barbat promenade is one of the longest on the island."
+          }
+        },
+        {
+          "name": "Abendpause am Hafen",
+          "coords": [
+            44.734,
+            14.804
+          ],
+          "category": "sunset",
+          "arrive_at": "15:40",
+          "stay_min": 65,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie die Sonne hinter dem Velebit-Gebirge untergeht.",
+            "hu": "Nézze meg, ahogy a nap lebukik a Velebit-hegység mögött.",
+            "ro": "Urmăriți cum soarele apune în spatele munților Velebit.",
+            "en": "Watch the sun set behind the Velebit mountains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Tag in Barbat beginnt mit dem Besuch der historischen Stephanskirche. Danach schlendern wir entlang des Barbatski-Kanals, wo man die Tradition des Bootsbaus noch spüren kann. Ein Mittagessen mit Blick auf die Insel Dolin bietet die perfekte Pause. Der Nachmittag lädt zu einem ausgiebigen Spaziergang auf der Riva ein, bevor wir den Tag im kleinen Hafen gemütlich beenden.",
+        "hu": "Egy pihentető nap Barbatban a Szent István-templom megtekintésével indul. Ezután a Barbatski-csatorna mentén sétálunk, ahol ma is él a hajóépítő hagyomány. Az ebéd mellé a Dolin-sziget látványa társul. A délutánt a hosszú parti sétányon töltjük, végül a helyi kikötőben, egy pohár bor mellett élvezzük a tengeri levegőt és a lemenő nap fényeit.",
+        "ro": "O zi relaxantă în Barbat începe cu vizitarea bisericii Sf. Ștefan. Apoi ne plimbăm de-a lungul canalului Barbat, unde tradiția construcției de bărci este încă vie. Un prânz cu vedere la insula Dolin oferă pauza perfectă. După-amiaza este dedicată unei plimbări lungi pe faleză, înainte de a încheia ziua în portul local, savurând atmosfera marină.",
+        "en": "A relaxing day in Barbat begins with a visit to St. Stephen's Church. Afterwards, we stroll along the Barbat Channel, where the tradition of boatbuilding is still present. Lunch comes with a beautiful view of Dolin Island. The afternoon is perfect for a long walk on the promenade, finally ending the day at the local harbor, enjoying the sea breeze and the sunset."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Kaštel",
+            "tip": "Probieren Sie den frischen Fisch des Tages."
+          },
+          {
+            "name": "Raber Torte",
+            "tip": "Eine lokale Delikatesse aus Mandeln und Maraschino."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Kaštel",
+            "tip": "Kóstolja meg a nap friss fogását."
+          },
+          {
+            "name": "Rabi torta",
+            "tip": "Mandulából és maraschinóból készült helyi különlegesség."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Kaštel",
+            "tip": "Încercați peștele proaspăt al zilei."
+          },
+          {
+            "name": "Tort Rab",
+            "tip": "O delicatesă locală din migdale și maraschino."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Kaštel",
+            "tip": "Try the fresh catch of the day."
+          },
+          {
+            "name": "Rab cake",
+            "tip": "A local delicacy made from almonds and Maraschino."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Blick auf Dolin",
+            "tip": "Ruhiger Aussichtspunkt am Kanal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szent István Park",
+            "tip": "Schattige Bänke bei der Kirche.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kilátás Dolinra",
+            "tip": "Csendes kilátópont a csatornánál.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Szent István park",
+            "tip": "Árnyas padok a templom mellett.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vedere spre Dolin",
+            "tip": "Punct de observație liniștit la canal.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Parcul Sf. Ștefan",
+            "tip": "Bănci umbrite lângă biserică.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "View of Dolin",
+            "tip": "Quiet viewpoint by the channel.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "St. Stephen's Park",
+            "tip": "Shady benches near the church.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Honig",
+            "tip": "Barbat ist berühmt für seinen aromatischen Honig."
+          },
+          {
+            "name": "Olivenöl",
+            "tip": "Direkt von den Bauern in der Nachbarschaft."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Barbat híres az aromás mézéről."
+          },
+          {
+            "name": "Olívaolaj",
+            "tip": "Közvetlenül a környékbeli gazdáktól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Barbat este renumit pentru mierea sa aromată."
+          },
+          {
+            "name": "Ulei de măsline",
+            "tip": "Direct de la fermierii din vecinătate."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Barbat is famous for its aromatic honey."
+          },
+          {
+            "name": "Olive Oil",
+            "tip": "Directly from the neighborhood farmers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den langen Spaziergang am Ufer.",
+          "Die meisten Konobas akzeptieren Kartenzahlung, aber etwas Bargeld ist für Cafés ratsam.",
+          "Der Strand in Barbat ist kieselig, bringen Sie Badeschuhe mit."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a hosszú parti sétához.",
+          "A legtöbb konoba elfogad kártyát, de a kávézókhoz érdemes készpénzt vinni.",
+          "A strand Barbatban kavicsos, hozzon úszócipőt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru plimbarea lungă pe mal.",
+          "Majoritatea konobelor acceptă plata cu cardul, dar niște numerar este util pentru cafenele.",
+          "Plaja din Barbat este cu pietriș, aduceți încălțăminte de apă."
+        ],
+        "en": [
+          "Wear comfortable shoes for the long walk along the shore.",
+          "Most konobas accept cards, but some cash is advisable for cafes.",
+          "The beach in Barbat is pebbly, so bring water shoes."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Crkva sv. Stjepana",
+          "coords": [
+            44.735,
+            14.802
+          ],
+          "category": "religious",
+          "arrive_at": "09:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt der Tour mit guter Parkmöglichkeit für Räder.",
+            "hu": "A túra kezdőpontja, jó parkolási lehetőséggel a bicikliknek.",
+            "ro": "Punctul de plecare al turului, cu locuri bune de parcare pentru biciclete.",
+            "en": "Starting point of the tour with good parking for bikes."
+          }
+        },
+        {
+          "name": "Plaža Pudarica",
+          "coords": [
+            44.708,
+            14.835
+          ],
+          "category": "beach",
+          "arrive_at": "10:20",
+          "stay_min": 180,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Einer der schönsten Sandstrände der Insel.",
+            "hu": "A sziget egyik legszebb homokos strandja.",
+            "ro": "Una dintre cele mai frumoase plaje cu nisip de pe insulă.",
+            "en": "One of the most beautiful sandy beaches on the island."
+          }
+        },
+        {
+          "name": "Ebéd a tengerparton",
+          "coords": [
+            44.71,
+            14.832
+          ],
+          "category": "gastro",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Frischer Fisch direkt am Meer nach dem Schwimmen.",
+            "hu": "Friss hal közvetlenül a tengerparton az úszás után.",
+            "ro": "Pește proaspăt chiar pe malul mării după înot.",
+            "en": "Fresh fish right by the sea after your swim."
+          }
+        },
+        {
+          "name": "Barbatski kanal",
+          "coords": [
+            44.725,
+            14.815
+          ],
+          "category": "nature",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Die Radstrecke entlang des Kanals ist flach und sonnig.",
+            "hu": "A csatorna menti kerékpárút sík és napos.",
+            "ro": "Traseul de bicicletă de-a lungul canalului este plat și însorit.",
+            "en": "The cycling route along the channel is flat and sunny."
+          }
+        },
+        {
+          "name": "Blick auf Otok Dolin",
+          "coords": [
+            44.731,
+            14.808
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp for Panoramafotos.",
+            "hu": "Rövid megálló panorámafotók készítéséhez.",
+            "ro": "Scurtă oprire pentru fotografii panoramice.",
+            "en": "Short stop for panoramic photos."
+          }
+        },
+        {
+          "name": "Naplemente a kikötőben",
+          "coords": [
+            44.734,
+            14.804
+          ],
+          "category": "sunset",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss einer Radtour durch Barbat.",
+            "hu": "A tökéletes zárás egy barbati biciklitúra után.",
+            "ro": "Încheierea perfectă a unei ture cu bicicleta prin Barbat.",
+            "en": "The perfect end to a bike tour through Barbat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Rad erkunden wir die Küste von Barbat bis zum berühmten Pudarica-Strand. Die flache Strecke am Barbatski-Kanal bietet ständige Ausblicke auf das kristallklare Meer und die Insel Dolin. Nach einem langen Badestopp in Pudarica radeln wir gemütlich zurück ins Dorf, genießen lokale Spezialitäten und beenden den Tag bei Sonnenuntergang im kleinen Hafen von Barbat.",
+        "hu": "Biciklivel fedezzük fel Barbat partvidékét egészen a híres Pudarica strandig. A Barbatski-csatorna menti sík terep folyamatos kilátást nyújt a kristálytiszta tengerre és a Dolin-szigetre. Egy hosszú fürdőzés után kényelmesen visszakerekezünk a faluba, megkóstoljuk a helyi finomságokat, és a napot a kikötőben zárjuk a lemenő nap fényeiben.",
+        "ro": "Cu bicicleta explorăm coasta localității Barbat până la faimoasa plajă Pudarica. Traseul plat de-a lungul canalului oferă vederi constante spre marea cristalină și insula Dolin. După o pauză lungă de baie la Pudarica, pedalăm relaxat înapoi în sat, savurăm specialități locale și încheiem ziua la apus în micul port din Barbat.",
+        "en": "We explore the Barbat coast by bike, reaching the famous Pudarica beach. The flat route along the Barbat Channel offers constant views of the crystal-clear sea and Dolin Island. After a long swimming break at Pudarica, we cycle leisurely back to the village, enjoy local specialties, and end the day at sunset in the small harbor of Barbat."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Santos Beach Bar",
+            "tip": "Erfrischende Drinks und Snacks direkt am Strand."
+          },
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "In den Konobas entlang des Kanals."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Santos Beach Bar",
+            "tip": "Frissítő italok és snackek közvetlenül a parton."
+          },
+          {
+            "name": "Grillezett hal",
+            "tip": "A csatorna menti konobákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Santos Beach Bar",
+            "tip": "Băuturi răcoritoare și gustări direct pe plajă."
+          },
+          {
+            "name": "Pește la grătar",
+            "tip": "În konobele de-a lungul canalului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Santos Beach Bar",
+            "tip": "Refreshing drinks and snacks right on the beach."
+          },
+          {
+            "name": "Grilled fish",
+            "tip": "In the konobas along the channel."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Pudarica Buchten",
+            "tip": "Finden Sie eine einsame Bucht etwas abseits.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dolin Viewpoint",
+            "tip": "Ruhiger Platz am Ende des Kanals.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pudarica öblök",
+            "tip": "Keressen egy eldugott öblöt kicsit távolabb.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dolin kilátópont",
+            "tip": "Csendes hely a csatorna végén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Pudarica",
+            "tip": "Găsiți un golfuleț izolat puțin mai departe.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Belvedere Dolin",
+            "tip": "Loc liniștit la capătul canalului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Pudarica Coves",
+            "tip": "Find a secluded cove a bit further away.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Dolin Viewpoint",
+            "tip": "Quiet spot at the end of the channel.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honigstände",
+            "tip": "Kaufen Sie Honig direkt am Straßenrand."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mézes standok",
+            "tip": "Vásároljon mézet közvetlenül az út mentén."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standuri de miere",
+            "tip": "Cumpărați miere direct de la marginea drumului."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honey Stands",
+            "tip": "Buy honey directly from the roadside."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Küstenweg ist flach, aber die Sonne ist stark – nutzen Sie Sonnenschutz.",
+          "Nehmen Sie genug Wasser für die Strecke nach Pudarica mit.",
+          "In der Hochsaison ist der Weg auch bei Spaziergängern beliebt, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "A parti út sík, de a nap erős – használjon fényvédőt.",
+          "Vigyen elég vizet a Pudarica felé vezető szakaszra.",
+          "Főszezonban az út a gyalogosok körében is népszerű, vezessen óvatosan."
+        ],
+        "ro": [
+          "Drumul de coastă este plat, dar soarele este puternic – folosiți protecție solară.",
+          "Luați suficientă apă pentru porțiunea spre Pudarica.",
+          "În plin sezon, drumul este popular și printre pietoni, mergeți cu atenție."
+        ],
+        "en": [
+          "The coastal path is flat, but the sun is strong – use sun protection.",
+          "Take enough water for the stretch to Pudarica.",
+          "In high season, the path is also popular with pedestrians, cycle carefully."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Crkva sv. Stjepana",
+          "coords": [
+            44.735,
+            14.802
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Cluster A: Parken Sie in der Nähe der Kirche für den ersten Rundgang.",
+            "hu": "A klaszter: Parkoljon a templom közelében az első körsétához.",
+            "ro": "Cluster A: Parcați lângă biserică pentru primul tur pietonal.",
+            "en": "Cluster A: Park near the church for the first walking tour."
+          }
+        },
+        {
+          "name": "Kaffee an der Riva",
+          "coords": [
+            44.734,
+            14.804
+          ],
+          "category": "square",
+          "arrive_at": "10:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Cluster A: Ein kurzer Spaziergang zum Hafen.",
+            "hu": "A klaszter: Rövid séta a kikötőig.",
+            "ro": "Cluster A: O scurtă plimbare până în port.",
+            "en": "Cluster A: A short walk to the harbor."
+          }
+        },
+        {
+          "name": "Utvrda sv. Damjana",
+          "coords": [
+            44.728,
+            14.825
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Cluster C: Kurze Fahrt zum Fuß des Hügels, dann Aufstieg zu den Ruinen.",
+            "hu": "C klaszter: Rövid autóút a hegy lábához, majd felkapaszkodás a romokhoz.",
+            "ro": "Cluster C: Scurtă călătorie până la baza dealului, apoi urcare la ruine.",
+            "en": "Cluster C: Short drive to the base of the hill, then climb to the ruins."
+          }
+        },
+        {
+          "name": "Barbatski kanal Panorama",
+          "coords": [
+            44.73,
+            14.81
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Cluster C: Spektakulärer Blick von oben auf den Kanal.",
+            "hu": "C klaszter: Látványos kilátás fentről a csatornára.",
+            "ro": "Cluster C: Vedere spectaculoasă de sus asupra canalului.",
+            "en": "Cluster C: Spectacular view of the channel from above."
+          }
+        },
+        {
+          "name": "Plaža Pudarica",
+          "coords": [
+            44.708,
+            14.835
+          ],
+          "category": "beach",
+          "arrive_at": "13:15",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Cluster B: Fahrt zum südlichsten Punkt von Barbat.",
+            "hu": "B klaszter: Autózás Barbat legdélebbi pontjára.",
+            "ro": "Cluster B: Călătorie până în cel mai sudic punct din Barbat.",
+            "en": "Cluster B: Drive to the southernmost point of Barbat."
+          }
+        },
+        {
+          "name": "Ebéd a tengerparton",
+          "coords": [
+            44.71,
+            14.832
+          ],
+          "category": "gastro",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Cluster B: Entspannter Ausklang am Strand.",
+            "hu": "B klaszter: Pihentető lezárás a parton.",
+            "ro": "Cluster B: Încheiere relaxantă pe plajă.",
+            "en": "Cluster B: Relaxing finish at the beach."
+          }
+        },
+        {
+          "name": "Naplemente a faluban",
+          "coords": [
+            44.734,
+            14.804
+          ],
+          "category": "sunset",
+          "arrive_at": "17:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Rückkehr zum Ausgangspunkt für das Abendrot.",
+            "hu": "Visszatérés a kiindulópontra az alkonyati fényekért.",
+            "ro": "Revenire la punctul de plecare pentru culorile amurgului.",
+            "en": "Return to the starting point for the evening glow."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Auto-Tag kombiniert die historischen Schätze von Barbat mit entspannten Strandstunden. Wir starten im Zentrum bei der Stephanskirche, bevor wir zu den Ruinen der Festung St. Damian hinauffahren und wandern, um den besten Blick auf die Insel Rab zu genießen. Den Nachmittag verbringen wir am Sandstrand von Pudarica, bekannt für sein azurblaues Wasser, und beenden den Tag mit einem gemütlichen Abendessen zurück im Dorf.",
+        "hu": "Ez az autós nap ötvözi Barbat történelmi kincseit a pihentető strandolással. A központban, a Szent István-templomnál kezdünk, majd felautózunk és felsétálunk Szent Damján erődítményének romjaihoz a legszebb szigeti panorámáért. A délutánt Pudarica homokos strandján töltjük, amely azúrkék vizéről híres, végül a faluba visszatérve egy kellemes vacsorával zárjuk a napot.",
+        "ro": "Această zi cu mașina combină comorile istorice din Barbat cu ore de relaxare pe plajă. Începem în centru la biserica Sf. Ștefan, înainte de a urca la ruinele cetății Sf. Damian pentru cea mai frumoasă panoramă asupra insulei Rab. După-amiaza o petrecem pe plaja cu nisip Pudarica, faimoasă pentru apa sa azurie, încheind ziua cu o cină plăcută înapoi în sat.",
+        "en": "This car-based day combines Barbat's historical treasures with relaxing beach time. We start in the center at St. Stephen's Church before driving and hiking up to the ruins of St. Damian's fortress for the best views over Rab Island. We spend the afternoon at the sandy Pudarica beach, famous for its azure waters, and end the day with a nice dinner back in the village."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Pudarica",
+            "tip": "Direkt am Strand gelegen, ideal für Meeresfrüchte."
+          },
+          {
+            "name": "Eisdiele am Hafen",
+            "tip": "Probieren Sie die hausgemachten Sorten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Pudarica",
+            "tip": "Közvetlenül a parton, ideális tenger gyümölcseivel."
+          },
+          {
+            "name": "Fagyizó a kikötőben",
+            "tip": "Kóstolja meg a kézműves gombócokat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Pudarica",
+            "tip": "Situată direct pe plajă, ideală pentru fructe de mare."
+          },
+          {
+            "name": "Gelateria din port",
+            "tip": "Încercați sortimentele artizanale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Pudarica",
+            "tip": "Located right on the beach, ideal for seafood."
+          },
+          {
+            "name": "Ice cream shop in the harbor",
+            "tip": "Try the artisanal flavors."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Damian Ruinen",
+            "tip": "Ein abgelegener Ort mit Geschichte.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pudarica Ausblick",
+            "tip": "Wunderschöne Klippen am Ende der Straße.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Damján romok",
+            "tip": "Elszigetelt hely történelmi múlttal.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pudarica kilátás",
+            "tip": "Gyönyörű sziklák az út végén.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ruinele Sf. Damian",
+            "tip": "Un loc izolat cu istorie.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Belvedere Pudarica",
+            "tip": "Stânci superbe la capătul drumului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Damian Ruins",
+            "tip": "A secluded spot with history.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Pudarica Viewpoint",
+            "tip": "Beautiful cliffs at the end of the road.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein aus der Region",
+            "tip": "Fragen Sie in den Konobas nach lokalem Wein."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi bor",
+            "tip": "Kérdezze a konobákban a helyi borokról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin local",
+            "tip": "Întrebați în konobe despre vinurile locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Wine",
+            "tip": "Ask in the konobas about local wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße nach Pudarica ist schmal, fahren Sie rücksichtsvoll.",
+          "Parkplätze am Pudarica-Strand können im Sommer schnell voll sein.",
+          "Für den Aufstieg nach St. Damian ist festes Schuhwerk erforderlich."
+        ],
+        "hu": [
+          "A Pudarica felé vezető út keskeny, vezessen körültekintően.",
+          "Pudarica strandján a parkolóhelyek nyáron hamar megtelnek.",
+          "A Szent Damján-erődhöz való feljutáshoz zárt cipő szükséges."
+        ],
+        "ro": [
+          "Drumul spre Pudarica este îngust, conduceți cu atenție.",
+          "Locurile de parcare la plaja Pudarica se pot ocupa repede vara.",
+          "Pentru urcarea la Sf. Damian este necesară încălțăminte fixă."
+        ],
+        "en": [
+          "The road to Pudarica is narrow, drive carefully.",
+          "Parking at Pudarica beach can fill up quickly in summer.",
+          "Sturdy footwear is required for the climb to St. Damian."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Crkva sv. Stjepana",
+          "coords": [
+            44.735,
+            14.802
+          ],
+          "category": "religious",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle liegt zentral im Dorf Barbat.",
+            "hu": "A buszmegálló központi helyen található Barbat faluban.",
+            "ro": "Stația de autobuz este situată central în satul Barbat.",
+            "en": "The bus stop is centrally located in Barbat village."
+          }
+        },
+        {
+          "name": "Spaziergang am Kanal",
+          "coords": [
+            44.732,
+            14.806
+          ],
+          "category": "harbor",
+          "arrive_at": "10:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe am Wasser unweit der Haltestelle.",
+            "hu": "Élvezze a vízparti nyugalmat nem messze a megállótól.",
+            "ro": "Bucurați-vă de liniștea de lângă apă, aproape de stație.",
+            "en": "Enjoy the seaside peace not far from the stop."
+          }
+        },
+        {
+          "name": "Mittagessen in der Konoba",
+          "coords": [
+            44.7335,
+            14.8055
+          ],
+          "category": "gastro",
+          "arrive_at": "11:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Viele Restaurants liegen direkt an der Hauptstraße.",
+            "hu": "Sok étterem közvetlenül a főút mentén található.",
+            "ro": "Multe restaurante sunt situate direct pe strada principală.",
+            "en": "Many restaurants are located directly along the main road."
+          }
+        },
+        {
+          "name": "Plaža Pudarica",
+          "coords": [
+            44.708,
+            14.835
+          ],
+          "category": "beach",
+          "arrive_at": "13:00",
+          "stay_min": 150,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie den lokalen Bus in Richtung Misnjak.",
+            "hu": "Használja a helyi buszt Misnjak irányába.",
+            "ro": "Folosiți autobuzul local în direcția Misnjak.",
+            "en": "Use the local bus in the direction of Misnjak."
+          }
+        },
+        {
+          "name": "Blick auf Otok Dolin",
+          "coords": [
+            44.731,
+            14.808
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Rückfahrt ins Dorfzentrum mit dem Bus.",
+            "hu": "Visszautazás a falu központjába busszal.",
+            "ro": "Întoarcerea în centrul satului cu autobuzul.",
+            "en": "Return to the village center by bus."
+          }
+        },
+        {
+          "name": "Abend in Barbat",
+          "coords": [
+            44.734,
+            14.804
+          ],
+          "category": "sunset",
+          "arrive_at": "16:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Letzter Stopp vor der Rückreise zum Hotel.",
+            "hu": "Utolsó megálló a hotelbe való visszatérés előtt.",
+            "ro": "Ultima oprire înainte de întoarcerea la hotel.",
+            "en": "Last stop before returning to the hotel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Barbat lässt sich gut mit dem Inselbus erkunden. Wir starten im Zentrum bei der Stephanskirche und erkunden den Barbatski-Kanal zu Fuß. Nach einem herzhaften Mittagessen nehmen wir den Bus zum südlichen Ende von Barbat, um den herrlichen Pudarica-Strand zu genießen. Die Rückfahrt führt uns zurück ins Dorfzentrum, wo wir den Tag entspannt ausklingen lassen.",
+        "hu": "Barbat jól felfedezhető a szigeti busszal. A központban, a Szent István-templomnál kezdünk, majd gyalogosan ismerjük meg a Barbatski-csatornát. Egy kiadós ebéd után busszal utazunk Barbat déli végébe, hogy élvezzük a gyönyörű Pudarica strandot. A visszautat követően a falu központjában zárjuk a napot pihentető hangulatban.",
+        "ro": "Barbat poate fi explorat ușor cu autobuzul insular. Începem în centru la biserica Sf. Ștefan și descoperim canalul Barbat la pas. După un prânz copios, luăm autobuzul spre capătul sudic al localității pentru a ne bucura de minunata plajă Pudarica. Drumul de întoarcere ne duce în centrul satului, unde încheiem ziua într-o atmosferă relaxată.",
+        "en": "Barbat can be easily explored using the island bus. We start in the center at St. Stephen's Church and explore the Barbat Channel on foot. After a hearty lunch, we take the bus to the southern end of Barbat to enjoy the beautiful Pudarica beach. The return trip takes us back to the village center for a relaxed end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Kaštel",
+            "tip": "Gut erreichbar von der Hauptstraße."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Kaštel",
+            "tip": "Jól megközelíthető a főúttól."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Kaštel",
+            "tip": "Ușor accesibilă de la strada principală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Kaštel",
+            "tip": "Easily accessible from the main road."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Barbatski kanal",
+            "tip": "Ruhige Uferabschnitte zwischen den Häusern.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Barbatski-csatorna",
+            "tip": "Csendes parti szakaszok a házak között.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Canalul Barbat",
+            "tip": "Secțiuni de mal liniștite între case.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Barbat Channel",
+            "tip": "Quiet shore sections between the houses.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirstände",
+            "tip": "Kleine Stände in der Nähe der Bushaltestelle."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenír standok",
+            "tip": "Kis standok a buszmegálló közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Standuri de suveniruri",
+            "tip": "Mici standuri lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Stands",
+            "tip": "Small stands near the bus stop."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Busfahrplan vorab, da die Frequenz variieren kann.",
+          "Fahrkarten können direkt beim Fahrer gekauft werden.",
+          "Die Haltestellen sind gut markiert, aber geben Sie dem Fahrer ein Zeichen."
+        ],
+        "hu": [
+          "Ellenőrizze a buszmenetrendet előre, mert a járatsűrűség változhat.",
+          "Jegyek közvetlenül a sofőrnél vásárolhatók.",
+          "A megállók jól jelzettek, de adjon jelzést a sofőrnek."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece frecvența poate varia.",
+          "Biletele pot fi cumpărate direct de la șofer.",
+          "Stațiile sunt bine marcate, dar faceți un semn șoferului."
+        ],
+        "en": [
+          "Check the bus schedule in advance as frequency can vary.",
+          "Tickets can be purchased directly from the driver.",
+          "Stops are well-marked, but signal the driver to stop."
+        ]
+      }
+    }
+  }
+}

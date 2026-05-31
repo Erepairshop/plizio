@@ -1,0 +1,1030 @@
+{
+  "city_id": "croatia-bale-cities-v2",
+  "anchor": {
+    "name": "Bale",
+    "coords": [
+      13.7872,
+      45.0458
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Trg Fontana",
+          "coords": [
+            13.7872,
+            45.0458
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Kaffee auf dem charmanten Hauptplatz.",
+            "hu": "Igyon meg egy kávét a bájos főtéren a helyiekkel.",
+            "ro": "Savurați o cafea în piața principală fermecătoare.",
+            "en": "Enjoy a coffee in the charming main square with locals."
+          }
+        },
+        {
+          "name": "Crkva sv. Julijana",
+          "coords": [
+            13.7865,
+            45.0452
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigen Sie den Steinsarkophag aus dem 8. Jahrhundert.",
+            "hu": "Nézze meg a 8. századi kőszarkofágot a kriptában.",
+            "ro": "Vizitați sarcofagul de piatră din secolul al VIII-lea.",
+            "en": "Visit the 8th-century stone sarcophagus in the crypt."
+          }
+        },
+        {
+          "name": "Kaštel Soardo-Bembo",
+          "coords": [
+            13.7858,
+            45.0455
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Fassade dieses Renaissance-Palastes.",
+            "hu": "Csodálja meg a reneszánsz palota gótikus homlokzatát.",
+            "ro": "Admirați fațada gotică a acestui palat renascentist.",
+            "en": "Admire the Gothic facade of this Renaissance palace."
+          }
+        },
+        {
+          "name": "Ebéd egy helyi Konobában",
+          "coords": [
+            13.7862,
+            45.0448
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie Fuži-Pasta mit istrischen Trüffeln.",
+            "hu": "Kóstolja meg az isztriai szarvasgombás fuži tésztát.",
+            "ro": "Încercați pastele fuži cu trufe istriene.",
+            "en": "Try the Fuži pasta with Istrian truffles."
+          }
+        },
+        {
+          "name": "Uljara Grubić",
+          "coords": [
+            13.7885,
+            45.0462
+          ],
+          "category": "industry",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die preisgekrönte Olivenölproduktion.",
+            "hu": "Ismerje meg a díjnyertes olívaolaj készítésének titkait.",
+            "ro": "Aflați totul despre producția premiată de ulei de măsline.",
+            "en": "Learn about the award-winning olive oil production process."
+          }
+        },
+        {
+          "name": "Séta a kőutcákon",
+          "coords": [
+            13.785,
+            45.045
+          ],
+          "category": "monument",
+          "arrive_at": "15:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den kreisförmig angelegten Gassen.",
+            "hu": "Vesszen el a koncentrikus körökben épült középkori utcákban.",
+            "ro": "Pierdeți-vă pe străzile medievale dispuse concentric.",
+            "en": "Get lost in the concentric medieval stone alleys."
+          }
+        },
+        {
+          "name": "Naplemente a város szélén",
+          "coords": [
+            13.784,
+            45.046
+          ],
+          "category": "sunset",
+          "arrive_at": "16:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einem Blick auf die umliegenden Olivenhaine.",
+            "hu": "Zárja a napot az olajfaligetekre nyíló panorámával.",
+            "ro": "Încheiați ziua cu o priveliște asupra livezilor de măslini.",
+            "en": "End the day with a view over the surrounding olive groves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie das Herz von Bale, beginnend am belebten Trg Fontana und der historischen St.-Julian-Kirche. Der Vormittag ist dem beeindruckenden Soardo-Bembo-Palast gewidmet, einem Meisterwerk der venezianischen Gotik. Nach einem herzhaften istrischen Mittagessen tauchen Sie bei Uljara Grubić in die Welt des flüssigen Goldes ein. Der Nachmittag gehört den malerischen Steingassen, bevor Sie den Tag entspannt bei Sonnenuntergang ausklingen lassen.",
+        "hu": "A reggelt Bale szívében indítjuk a Trg Fontana téren, majd meglátogatjuk a Szent Julián templomot. Délelőtt a lenyűgöző Soardo-Bembo palotát fedezzük fel, amely a velencei gótika remeke. Egy kiadós isztriai ebéd után az Uljara Grubić olajpréselőben ismerkedünk a folyékony arannyal. Délután a kanyargós kőutcák hangulatát élvezzük, majd a város szélén, az olajfaligetek felett nézzük végig a naplementét.",
+        "ro": "Dimineața explorăm inima orașului Bale, începând din Piața Fontana și vizitând Biserica Sf. Iulian. Continuăm cu impresionantul Castel Soardo-Bembo, o capodoperă a goticului venețian. După un prânz tradițional istrian, descoperim secretele uleiului de măsline la Uljara Grubić. După-amiaza este dedicată plimbărilor pe străduțele pietruite, iar seara ne bucurăm de un apus liniștit la marginea orașului vechi.",
+        "en": "Start your morning in the heart of Bale at Trg Fontana, followed by a visit to St. Julian's Church. Spend your late morning exploring the grand Soardo-Bembo Castle, a Venetian Gothic masterpiece. After a traditional Istrian lunch, dive into the world of olive oil at Uljara Grubić. The afternoon is perfect for wandering through the circular stone alleys, ending with a peaceful sunset view over the surrounding Mediterranean landscape."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Kod Kance",
+            "tip": "Hausgemachte Pasta mit Trüffeln oder Wildspargel."
+          },
+          {
+            "name": "Uljara Grubić Degustation",
+            "tip": "Frisches Olivenöl auf geröstetem Brot probieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Kod Kance",
+            "tip": "Házias tészta szarvasgombával vagy vadspárgával."
+          },
+          {
+            "name": "Uljara Grubić kóstoló",
+            "tip": "Frissen sajtolt olívaolaj pirított kenyérrel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Kod Kance",
+            "tip": "Paste de casă cu trufe sau sparanghel sălbatic."
+          },
+          {
+            "name": "Degustare Uljara Grubić",
+            "tip": "Ulei de măsline proaspăt pe pâine prăjită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Kod Kance",
+            "tip": "Homemade pasta with truffles or wild asparagus."
+          },
+          {
+            "name": "Uljara Grubić Tasting",
+            "tip": "Sample fresh olive oil on toasted local bread."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kleine Steingassen",
+            "tip": "Suchen Sie sich eine Bank in den ruhigen Seitengassen.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olivenhaine",
+            "tip": "Spaziergang außerhalb der Stadtmauern.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Belső kőutcák",
+            "tip": "Keressen egy padot a csendes mellékutcákban.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olajfaligetek",
+            "tip": "Séta a városfalakon kívüli ültetvényeken.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Străduțe lăturalnice",
+            "tip": "Găsiți o bancă pe străzile liniștite din piatră.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Livezi de măslini",
+            "tip": "Plimbare relaxantă în afara zidurilor orașului.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Narrow stone alleys",
+            "tip": "Find a quiet bench in the lesser-known side streets.",
+            "emoji": "🧘"
+          },
+          {
+            "name": "Olive Groves",
+            "tip": "A peaceful walk just outside the city walls.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokalgeschäfte",
+            "tip": "Kaufen Sie preisgekröntes Olivenöl direkt beim Erzeuger."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi boltok",
+            "tip": "Vásároljon díjnyertes olívaolajat közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazine locale",
+            "tip": "Cumpărați ulei de măsline premiat direct de la sursă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Shops",
+            "tip": "Purchase award-winning olive oil directly from the producers."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das historische Kopfsteinpflaster.",
+          "Bale ist ideal für einen entspannten Tag abseits der Massen.",
+          "Die meisten Sehenswürdigkeiten liegen sehr nah beieinander.",
+          "Besuchen Sie die Infostelle für lokale Veranstaltungs-Tipps."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a történelmi macskaköves utcákhoz.",
+          "Bale ideális egy nyugodt naphoz a tömegtől távol.",
+          "A látnivalók többsége sétatávolságra van egymástól.",
+          "Keresse fel a turisztikai irodát helyi programajánlókért."
+        ],
+        "ro": [
+          "Purtați încălțăminte comodă pentru străzile cu piatră cubică.",
+          "Bale este destinația ideală pentru o zi relaxată, departe de aglomerație.",
+          "Majoritatea obiectivelor sunt foarte aproape unele de altele.",
+          "Vizitați centrul de informare pentru evenimente locale."
+        ],
+        "en": [
+          "Wear comfortable shoes for the historic cobblestone streets.",
+          "Bale is perfect for a slow-paced day away from the crowds.",
+          "Most sights are within a few minutes' walk of each other.",
+          "Check the tourist office for any local festivals or events."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 16.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Trg Fontana",
+          "coords": [
+            13.7872,
+            45.0458
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Startpunkt im Herzen der Stadt.",
+            "hu": "Indulópont a város szívében.",
+            "ro": "Punctul de plecare din centrul orașului.",
+            "en": "Starting point in the heart of the town."
+          }
+        },
+        {
+          "name": "Crkva sv. Julijana",
+          "coords": [
+            13.7865,
+            45.0452
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp bei der romanischen Kirche.",
+            "hu": "Rövid megálló a román stílusú templomnál.",
+            "ro": "Scurt popas la biserica romanică.",
+            "en": "Quick stop at the Romanesque church."
+          }
+        },
+        {
+          "name": "Kaštel Soardo-Bembo",
+          "coords": [
+            13.7858,
+            45.0455
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen von Bale besichtigen.",
+            "hu": "Bale jelképének megtekintése.",
+            "ro": "Vizitarea simbolului orașului Bale.",
+            "en": "Visit the iconic landmark of Bale."
+          }
+        },
+        {
+          "name": "Ebéd a városban",
+          "coords": [
+            13.786,
+            45.044
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stärken Sie sich für die Fahrt ans Meer.",
+            "hu": "Gyűjtsön erőt a tengerparti tekeréshez.",
+            "ro": "Prindeți puteri pentru drumul spre mare.",
+            "en": "Fuel up before the ride to the coast."
+          }
+        },
+        {
+          "name": "Utvrda Monvi",
+          "coords": [
+            13.725,
+            45.015
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Küstenfestung mit Meerblick.",
+            "hu": "Fedezze fel a tengerparti erődöt panorámával.",
+            "ro": "Explorați fortăreața de coastă cu vedere la mare.",
+            "en": "Explore the coastal fort with sea views."
+          }
+        },
+        {
+          "name": "Strandidő (San Polo / Colone)",
+          "coords": [
+            13.72,
+            45.01
+          ],
+          "category": "beach",
+          "arrive_at": "14:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Abkühlung in der kristallklaren Adria.",
+            "hu": "Hűsöljön a kristálytiszta Adriában.",
+            "ro": "Răcoriți-vă în apele cristaline ale Adriaticii.",
+            "en": "Cool off in the crystal-clear Adriatic Sea."
+          }
+        },
+        {
+          "name": "Uljara Grubić",
+          "coords": [
+            13.7885,
+            45.0462
+          ],
+          "category": "industry",
+          "arrive_at": "18:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Letzter Stopp für ein Souvenir-Öl.",
+            "hu": "Utolsó megálló egy szuvenír olajért.",
+            "ro": "Ultima oprire pentru un ulei suvenir.",
+            "en": "Last stop for a souvenir olive oil."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die Geschichte von Bale mit der herrlichen Küste. Nach der Besichtigung der Altstadt radeln Sie durch Olivenhaine zum Meer. Entdecken Sie die Utvrda Monvi und genießen Sie einen langen Nachmittag am Strand. Der Rückweg führt Sie pünktlich zur Ölmühle Grubić zurück in die Stadt.",
+        "hu": "Ez a kerékpáros túra ötvözi Bale történelmét a gyönyörű tengerparttal. Az óváros felfedezése után olajfaligeteken át tekerünk a tengerhez. Fedezze fel az Utvrda Monvi erődöt, és élvezze a hosszú délutánt a strandon. A visszaút után az Uljara Grubić olajpréselőnél zárjuk a napot.",
+        "ro": "Acest tur cu bicicleta combină istoria orașului Bale cu frumusețea coastei. După vizitarea orașului vechi, pedalați prin livezi de măslini spre mare. Explorați Fortăreața Monvi și bucurați-vă de o după-amiază lungă la plajă. Drumul de întoarcere vă aduce în oraș chiar la timp pentru o vizită la Uljara Grubić.",
+        "en": "This cycling route blends Bale's history with the stunning coastline. After exploring the old town, ride through olive groves down to the sea. Discover Fort Monvi and enjoy a long afternoon at the beach. The return ride brings you back to town just in time for a visit to the Grubić oil mill."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Beach Bar Colone",
+            "tip": "Leichte Snacks und kühle Getränke am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Beach Bar Colone",
+            "tip": "Könnyű harapnivalók és hűsítő italok a parton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Beach Bar Colone",
+            "tip": "Snack-uri ușoare și băuturi reci pe malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Beach Bar Colone",
+            "tip": "Light snacks and refreshing drinks by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Polo Bucht",
+            "tip": "Ruhige Ecken im Schatten der Pinien.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Polo öböl",
+            "tip": "Csendes zugok a fenyőfák árnyékában.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful San Polo",
+            "tip": "Locuri liniștite la umbra pinilor.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Polo Bay",
+            "tip": "Quiet spots under the shade of pine trees.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Öl-Verkostung",
+            "tip": "Holen Sie sich eine Flasche lokales Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Olaj kóstoló",
+            "tip": "Vigyen haza egy üveg helyi olívaolajat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Degustare de ulei",
+            "tip": "Luați acasă o sticlă de ulei de măsline local."
+          }
+        ],
+        "en": [
+          {
+            "name": "Oil Tasting Room",
+            "tip": "Pick up a bottle of premium local olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke ans Meer ist weitgehend flach und gut befahrbar.",
+          "Nehmen Sie ausreichend Wasser und Sonnenschutz mit.",
+          "Ein Fahrradschloss ist für die Besichtigungen in der Stadt ratsam.",
+          "Im Sommer verkehrt auch ein kleiner Touristenzug zum Strand."
+        ],
+        "hu": [
+          "A tengerhez vezető út nagyrészt sík és jól járható.",
+          "Vigyen magával elegendő vizet és naptejet.",
+          "A városi megállókhoz ajánlott a kerékpárzár használata.",
+          "Nyáron kisvonat is közlekedik a város és a strand között."
+        ],
+        "ro": [
+          "Drumul spre mare este în mare parte plat și ușor de parcurs.",
+          "Luați suficientă apă și protecție solară.",
+          "Se recomandă folosirea unui sistem de blocare pentru bicicletă în oraș.",
+          "Vara circulă un trenuleț turistic între oraș și plajă."
+        ],
+        "en": [
+          "The path to the sea is mostly flat and easy to ride.",
+          "Bring plenty of water and sunscreen for the coastal trip.",
+          "A bike lock is recommended for stops within the town.",
+          "In summer, a small tourist train also runs to the beach."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Trg Fontana (Parken)",
+          "coords": [
+            13.7872,
+            45.0458
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Zentraler Parkplatz für den Stadtrundgang.",
+            "hu": "Központi parkoló a városi sétához.",
+            "ro": "Parcare centrală pentru turul orașului.",
+            "en": "Central parking spot for the town walk."
+          }
+        },
+        {
+          "name": "Crkva sv. Julijana",
+          "coords": [
+            13.7865,
+            45.0452
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wunderschöne romanische Architektur (Fußweg).",
+            "hu": "Gyönyörű román építészet (gyalogos megközelítés).",
+            "ro": "Arhitectură romanică superbă (acces pietonal).",
+            "en": "Beautiful Romanesque architecture (walking distance)."
+          }
+        },
+        {
+          "name": "Kaštel Soardo-Bembo",
+          "coords": [
+            13.7858,
+            45.0455
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Historisches Highlight im Zentrum.",
+            "hu": "Történelmi fénypont a központban.",
+            "ro": "Punctul istoric culminant din centru.",
+            "en": "Historical highlight in the center."
+          }
+        },
+        {
+          "name": "Mittagessen in Bale",
+          "coords": [
+            13.786,
+            45.044
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Istrianische Spezialitäten genießen.",
+            "hu": "Isztriai különlegességek kóstolása.",
+            "ro": "Savurați specialități istriene.",
+            "en": "Enjoy Istrian culinary specialties."
+          }
+        },
+        {
+          "name": "Uljara Grubić",
+          "coords": [
+            13.7885,
+            45.0462
+          ],
+          "category": "industry",
+          "arrive_at": "13:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zur modernen Ölmühle.",
+            "hu": "Rövid gurulás a modern olajpréselőhöz.",
+            "ro": "Scurtă plimbare cu mașina până la presă.",
+            "en": "Short drive to the modern oil press."
+          }
+        },
+        {
+          "name": "Utvrda Monvi (Küste)",
+          "coords": [
+            13.725,
+            45.015
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Fahrt zur Küstenfestung (Cluster B).",
+            "hu": "Autózás a tengerparti erődhöz (Cluster B).",
+            "ro": "Drum spre fortăreața de coastă (Cluster B).",
+            "en": "Drive to the coastal fort (Cluster B)."
+          }
+        },
+        {
+          "name": "Strandpause San Polo",
+          "coords": [
+            13.72,
+            45.01
+          ],
+          "category": "beach",
+          "arrive_at": "15:40",
+          "stay_min": 120,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannung am Kiesstrand (Fußweg).",
+            "hu": "Pihenés a kavicsos strandon (gyalogos).",
+            "ro": "Relaxare pe plaja cu pietriș (acces pietonal).",
+            "en": "Relaxation on the pebble beach (walkable)."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto genießen Sie maximale Flexibilität in Bale. Vormittags erkunden Sie die Altstadt zu Fuß (Cluster A) mit ihren Kirchen und dem Soardo-Bembo-Palast. Nach dem Mittagessen und einer Ölverkostung fahren Sie in wenigen Minuten an die Küste (Cluster B). Dort besichtigen Sie die Utvrda Monvi und verbringen den restlichen Nachmittag am kristallklaren Wasser des San Polo Strandes.",
+        "hu": "Autóval maximális rugalmasságot élvezhet Bale környékén. Délelőtt gyalogosan fedezzük fel az óvárost (Cluster A), a templomokat és a Soardo-Bembo palotát. Ebéd és olajkóstolás után pár perc alatt legurulunk a partra (Cluster B), ahol megnézzük az Utvrda Monvi erődöt, majd a délutánt a San Polo strand kristálytiszta vizénél töltjük.",
+        "ro": "Cu mașina beneficiați de flexibilitate maximă în Bale. Dimineața explorați orașul vechi la pas (Cluster A), vizitând bisericile și Palatul Soardo-Bembo. După prânz și o degustare de ulei, conduceți câteva minute până la coastă (Cluster B) pentru a vedea Fortăreața Monvi și a petrece după-amiaza pe plaja San Polo.",
+        "en": "The car gives you total flexibility to enjoy both the town and the coast. Spend your morning walking through the old town center (Cluster A) to see the castle and church. After lunch and oil tasting, it's a short drive to the coast (Cluster B), where you can explore Fort Monvi and spend the rest of the day at the beautiful San Polo beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "La Grisa",
+            "tip": "Gehobene istrische Küche in historischem Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "La Grisa",
+            "tip": "Színvonalas isztriai konyha történelmi környezetben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "La Grisa",
+            "tip": "Bucătărie istriană rafinată într-un cadru istoric."
+          }
+        ],
+        "en": [
+          {
+            "name": "La Grisa",
+            "tip": "Upscale Istrian cuisine in a beautiful historic setting."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "San Polo Pinienwald",
+            "tip": "Schatten und Meeresbrise genießen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "San Polo fenyves",
+            "tip": "Élvezze az árnyékot és a tengeri szellőt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pădurea de pini San Polo",
+            "tip": "Bucurați-vă de umbră și briza mării.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "San Polo Pine Forest",
+            "tip": "Enjoy the shade and the fresh sea breeze.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Uljara Grubić Shop",
+            "tip": "Direktverkauf von Spitzen-Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Uljara Grubić bolt",
+            "tip": "Csúcsminőségű olívaolaj közvetlen vásárlása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin Uljara Grubić",
+            "tip": "Vânzare directă de ulei de măsline premium."
+          }
+        ],
+        "en": [
+          {
+            "name": "Uljara Grubić Shop",
+            "tip": "Direct sale of premium extra virgin olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Es gibt ausreichend Parkplätze am Stadteingang und am Strand.",
+          "Die Fahrt zum Strand San Polo dauert nur etwa 10 Minuten.",
+          "Parken am Strand ist in der Hauptsaison meist gebührenpflichtig.",
+          "Verbinden Sie den Besuch mit einem Abstecher nach Rovinj (15km)."
+        ],
+        "hu": [
+          "A város szélén és a strandnál is elegendő parkoló áll rendelkezésre.",
+          "A San Polo strandhoz vezető út mindössze 10 perc autóval.",
+          "A strandnál a parkolás főszezonban díjköteles lehet.",
+          "Érdemes összekötni a látogatást Rovinjjal (15 km távolság)."
+        ],
+        "ro": [
+          "Există locuri de parcare suficiente la intrarea în oraș și la plajă.",
+          "Drumul spre plaja San Polo durează doar aproximativ 10 minute.",
+          "Parcarea la plajă poate fi cu plată în plin sezon.",
+          "Puteți combina vizita cu o excursie la Rovinj (15 km)."
+        ],
+        "en": [
+          "Plenty of parking is available at the town entrance and beach.",
+          "The drive to San Polo beach takes only about 10 minutes.",
+          "Beach parking usually requires a fee during the high season.",
+          "Consider combining this trip with a visit to nearby Rovinj (15km)."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Bale Busstation",
+          "coords": [
+            13.788,
+            45.046
+          ],
+          "category": "port",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ankunft mit dem Regionalbus aus Rovinj oder Pula.",
+            "hu": "Érkezés a Rovinjból vagy Pulából érkező busszal.",
+            "ro": "Sosire cu autobuzul regional din Rovinj sau Pula.",
+            "en": "Arrival by regional bus from Rovinj or Pula."
+          }
+        },
+        {
+          "name": "Trg Fontana",
+          "coords": [
+            13.7872,
+            45.0458
+          ],
+          "category": "square",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang ins Zentrum.",
+            "hu": "Rövid séta a központba.",
+            "ro": "Scurtă plimbare spre centru.",
+            "en": "Short walk to the town center."
+          }
+        },
+        {
+          "name": "Crkva sv. Julijana",
+          "coords": [
+            13.7865,
+            45.0452
+          ],
+          "category": "religious",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Historische Kirche im Ortskern.",
+            "hu": "Történelmi templom a falu szívében.",
+            "ro": "Biserică istorică în inima satului.",
+            "en": "Historical church in the heart of the village."
+          }
+        },
+        {
+          "name": "Kaštel Soardo-Bembo",
+          "coords": [
+            13.7858,
+            45.0455
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigung des venezianischen Palastes.",
+            "hu": "A velencei palota megtekintése.",
+            "ro": "Vizitarea palatului venețian.",
+            "en": "Visit the impressive Venetian palace."
+          }
+        },
+        {
+          "name": "Mittagessen & Korzó",
+          "coords": [
+            13.786,
+            45.045
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspanntes Mittagessen in den Gassen.",
+            "hu": "Kényelmes ebéd a szűk utcákban.",
+            "ro": "Prânz relaxat pe străduțele înguste.",
+            "en": "Relaxed lunch in the narrow alleys."
+          }
+        },
+        {
+          "name": "Uljara Grubić",
+          "coords": [
+            13.7885,
+            45.0462
+          ],
+          "category": "industry",
+          "arrive_at": "14:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Rundgang vor der Rückreise.",
+            "hu": "Körülnézés a visszautazás előtt.",
+            "ro": "Tur înainte de călătoria de întoarcere.",
+            "en": "Quick tour before the return journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Plan ist ideal für Besucher, die mit dem Bus anreisen. Alle wichtigen Sehenswürdigkeiten wie die St.-Julian-Kirche und der Soardo-Bembo-Palast sind vom Busstopp aus bequem zu Fuß erreichbar. Genießen Sie die entspannte Atmosphäre der Steinstadt, probieren Sie lokale Spezialitäten und besuchen Sie die Ölmühle Grubić, bevor Sie den Bus zurück nehmen.",
+        "hu": "Ez a terv ideális a busszal érkezőknek. Minden fontos látnivaló, mint a Szent Julián templom és a Soardo-Bembo palota, kényelmes sétával elérhető a buszmegállótól. Élvezze a kőváros nyugodt hangulatát, kóstolja meg a helyi specialitásokat, és látogasson el a Grubić olajpréselőbe a hazautazás előtt.",
+        "ro": "Acest plan este ideal pentru vizitatorii care sosesc cu autobuzul. Toate obiectivele importante, cum ar fi Biserica Sf. Iulian și Palatul Soardo-Bembo, sunt ușor accesibile pe jos de la stația de autobuz. Bucurați-vă de atmosfera relaxată a orașului de piatră, gustați specialități locale și vizitați presa de ulei Grubić înainte de plecare.",
+        "en": "This itinerary is perfect for travelers arriving by bus. All key sights, including St. Julian's Church and Soardo-Bembo Castle, are within easy walking distance of the bus stop. Soak in the calm atmosphere of this stone town, enjoy a local lunch, and visit the Grubić oil mill before catching your return bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bale Cafés",
+            "tip": "Hausgemachtes Eis und Espresso am Nachmittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bale kávézók",
+            "tip": "Házias fagylalt és eszpresszó délután."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafenelele din Bale",
+            "tip": "Înghețată de casă și espresso după-amiaza."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bale Cafés",
+            "tip": "Homemade gelato and espresso in the afternoon."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchenvorplatz",
+            "tip": "Ein schattiger Ort zum Verweilen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Templom előtti tér",
+            "tip": "Árnyas hely a pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piațeta bisericii",
+            "tip": "Un loc umbrit pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Church Courtyard",
+            "tip": "A shady spot to pause and reflect.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop",
+            "tip": "Lokales Kunsthandwerk und Olivenprodukte."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szuvenírbolt",
+            "tip": "Helyi kézműves termékek és olíva készítmények."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri",
+            "tip": "Artizanat local și produse din măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Souvenir Shop",
+            "tip": "Local handicrafts and olive-based products."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie die Busfahrpläne vorab, da die Verbindungen variieren.",
+          "Die Busstation liegt am Rand der Altstadt (ca. 5 Min. Fußweg).",
+          "Tickets können meist direkt beim Fahrer gekauft werden.",
+          "Bale ist sehr kompakt, alles ist leicht zu Fuß machbar."
+        ],
+        "hu": [
+          "Ellenőrizze a buszmenetrendet, mert a járatok ritkák lehetnek.",
+          "A buszmegálló az óváros szélén van (kb. 5 perc séta).",
+          "A jegyek többsége közvetlenül a sofőrnél megvásárolható.",
+          "Bale nagyon kompakt, minden könnyen elérhető gyalogosan."
+        ],
+        "ro": [
+          "Verificați orarul autobuzelor în avans, deoarece frecvența variază.",
+          "Stația de autobuz este la marginea orașului vechi (aprox. 5 min).",
+          "Biletele pot fi cumpărate de obicei direct de la șofer.",
+          "Bale este foarte compact, totul se poate face ușor pe jos."
+        ],
+        "en": [
+          "Check bus schedules in advance as services can be infrequent.",
+          "The bus stop is at the edge of the old town (5 min walk).",
+          "Tickets can usually be purchased directly from the driver.",
+          "Bale is very compact, making everything easily walkable."
+        ]
+      }
+    }
+  }
+}

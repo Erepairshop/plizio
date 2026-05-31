@@ -1,0 +1,1038 @@
+{
+  "city_id": "croatia-kastel-novi-cities-v2",
+  "anchor": {
+    "name": "Kaštel Novi",
+    "coords": [
+      16.3333,
+      43.55
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Uferpromenade Riva",
+          "coords": [
+            16.3335,
+            43.5482
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den morgendlichen Kaffee direkt am Wasser.",
+            "hu": "Élvezze a reggeli kávét közvetlenül a vízparton.",
+            "ro": "Savurați cafeaua de dimineață chiar pe malul mării.",
+            "en": "Enjoy your morning coffee right by the waterfront."
+          }
+        },
+        {
+          "name": "Kula Cippico",
+          "coords": [
+            16.3336,
+            43.5485
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des Turms aus dem 16. Jahrhundert.",
+            "hu": "Csodálja meg a 16. századi torony reneszánsz építészetét.",
+            "ro": "Admirați arhitectura renascentistă a turnului din secolul XVI.",
+            "en": "Admire the 16th-century tower's Renaissance architecture."
+          }
+        },
+        {
+          "name": "Župna crkva sv. Petra",
+          "coords": [
+            16.334,
+            43.5492
+          ],
+          "category": "religious",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Die barocke Innenausstattung ist besonders sehenswert.",
+            "hu": "A barokk belső díszítés különösen figyelemre méltó.",
+            "ro": "Interiorul baroc este deosebit de spectaculos.",
+            "en": "The baroque interior decoration is particularly noteworthy."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            16.333,
+            43.5488
+          ],
+          "category": "gastro",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch aus der Adria.",
+            "hu": "Kóstolja meg a friss adriai halakat.",
+            "ro": "Încercați peștele proaspăt din Marea Adriatică.",
+            "en": "Try some fresh fish caught in the Adriatic."
+          }
+        },
+        {
+          "name": "Mastrinka",
+          "coords": [
+            16.3365,
+            43.551
+          ],
+          "category": "landmark",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie den über 1500 Jahre alten Olivenbaum.",
+            "hu": "Látogassa meg az több mint 1500 éves olajfát.",
+            "ro": "Vizitați măslinul vechi de peste 1500 de ani.",
+            "en": "Visit the olive tree that is over 1500 years old."
+          }
+        },
+        {
+          "name": "Strandpause",
+          "coords": [
+            16.338,
+            43.5505
+          ],
+          "category": "beach",
+          "arrive_at": "14:45",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser und Kieselstrand zum Entspannen.",
+            "hu": "Kristálytiszta víz és kavicsos part a pihenéshez.",
+            "ro": "Apă cristalină și plajă cu pietriș pentru relaxare.",
+            "en": "Crystal clear water and pebble beach for relaxation."
+          }
+        },
+        {
+          "name": "Sonnenuntergang am Kai",
+          "coords": [
+            16.3338,
+            43.548
+          ],
+          "category": "sunset",
+          "arrive_at": "18:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss mit Blick auf Trogir.",
+            "hu": "A tökéletes lezárás kilátással Trogir irányába.",
+            "ro": "Finalul perfect cu vedere spre Trogir.",
+            "en": "The perfect ending with a view towards Trogir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der belebten Riva von Kaštel Novi, wo das mediterrane Leben pulsiert. Nach einem Besuch des historischen Cippico-Turms und der barocken Kirche führt der Weg zum berühmten Mastrinka-Olivenbaum, einem lebenden Naturdenkmal. Der Nachmittag steht ganz im Zeichen der Entspannung am azurblauen Meer, bevor der Abend bei einem malerischen Sonnenuntergang am Hafen ausklingt.",
+        "hu": "Kezdje a napot Kaštel Novi élettel teli partján, ahol a mediterrán élet lüktet. A történelmi Cippico-torony és a barokk templom meglátogatása után az út a híres Mastrinka olajfához vezet, amely egy élő természeti emlék. A délután a pihenésé az azúrkék tengerparton, mielőtt az este egy festői naplementével zárulna a kikötőben.",
+        "ro": "Începeți ziua pe faleza animată din Kaštel Novi, unde pulsează viața mediteraneană. După o vizită la turnul istoric Cippico și biserica barocă, drumul duce la faimosul măslin Mastrinka, un monument natural viu. După-amiaza este dedicată relaxării la marea azurie, înainte ca seara să se încheie cu un apus pitoresc în port.",
+        "en": "Start your day at the lively Riva of Kaštel Novi, where Mediterranean life pulses. After visiting the historic Cippico Tower and the Baroque church, the path leads to the famous Mastrinka olive tree, a living natural monument. The afternoon is all about relaxing by the azure sea, before the evening ends with a picturesque sunset at the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Crni rižot",
+            "tip": "Schwarzes Risotto mit Tintenfisch."
+          },
+          {
+            "name": "Konoba Intrada",
+            "tip": "Authentische dalmatinische Küche am Meer."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete rizottó",
+            "tip": "Hagyományos tengeri étel tintahallal."
+          },
+          {
+            "name": "Konoba Intrada",
+            "tip": "Autentikus dalmát konyha a tengerparton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Risotto negru",
+            "tip": "Risotto tradițional cu cerneală de sepie."
+          },
+          {
+            "name": "Konoba Intrada",
+            "tip": "Bucătărie dalmată autentică la malul mării."
+          }
+        ],
+        "en": [
+          {
+            "name": "Black Risotto",
+            "tip": "Traditional seafood dish with cuttlefish ink."
+          },
+          {
+            "name": "Konoba Intrada",
+            "tip": "Authentic Dalmatian cuisine by the sea."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mastrinka Schatten",
+            "tip": "Ruhiger Platz unter dem antiken Baum.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Molo Novi",
+            "tip": "Stille am Ende des Kais.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mastrinka árnyéka",
+            "tip": "Csendes hely az antik fa alatt.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Molo Novi",
+            "tip": "Csend a móló végén.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Umbra măslinului",
+            "tip": "Loc liniștit sub copacul antic.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Molo Novi",
+            "tip": "Liniște la capătul debarcaderului.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mastrinka Shade",
+            "tip": "Quiet spot under the ancient tree.",
+            "emoji": "🍃"
+          },
+          {
+            "name": "Molo Novi",
+            "tip": "Quietness at the end of the pier.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Direkt von den Hängen des Kozjak."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Közvetlenül a Kozjak-hegy lankáiról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Direct de pe pantele muntelui Kozjak."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Directly from the slopes of Mt. Kozjak."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+          "Badesachen nicht vergessen, die Strände sind nah.",
+          "Frühmorgens ist die Atmosphäre am Hafen am schönsten."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a macskaköves utcákhoz.",
+          "Ne felejtse el a fürdőruhát, a strandok közel vannak.",
+          "Kora reggel a legszebb a hangulat a kikötőben."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru străzile pietruite.",
+          "Nu uitați costumul de baie, plajele sunt aproape.",
+          "Atmosfera din port este cea mai frumoasă dimineața devreme."
+        ],
+        "en": [
+          "Wear comfortable shoes for the cobblestone streets.",
+          "Don't forget your swimwear, beaches are nearby.",
+          "The atmosphere at the harbor is best in the early morning."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Kula Cippico",
+          "coords": [
+            16.3336,
+            43.5485
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt an der Festung am Meer.",
+            "hu": "Kiindulópont a tengerparti erődnék.",
+            "ro": "Punct de plecare de la fortăreața de pe mal.",
+            "en": "Starting point at the seaside fortress."
+          }
+        },
+        {
+          "name": "Biblijski vrt Stomorija",
+          "coords": [
+            16.3385,
+            43.5755
+          ],
+          "category": "garden",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Steiler Anstieg, aber die Aussicht belohnt.",
+            "hu": "Meredek emelkedő, de a kilátás kárpótol.",
+            "ro": "Urcare abruptă, dar priveliștea merită.",
+            "en": "Steep climb, but the view is rewarding."
+          }
+        },
+        {
+          "name": "Župna crkva sv. Petra",
+          "coords": [
+            16.334,
+            43.5492
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Abfahrt zurück ins Zentrum.",
+            "hu": "Gurulás vissza a központba.",
+            "ro": "Coborâre înapoi în centru.",
+            "en": "Rolling back down to the center."
+          }
+        },
+        {
+          "name": "Ebéd a kikötőben",
+          "coords": [
+            16.3335,
+            43.5488
+          ],
+          "category": "gastro",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Energie tanken mit Meeresfrüchten.",
+            "hu": "Töltődjön fel tengeri ételekkel.",
+            "ro": "Reîncărcați-vă cu fructe de mare.",
+            "en": "Recharge with some seafood."
+          }
+        },
+        {
+          "name": "Mastrinka",
+          "coords": [
+            16.3365,
+            43.551
+          ],
+          "category": "landmark",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein Muss für Naturfotografen.",
+            "hu": "Természetfotósoknak kötelező látnivaló.",
+            "ro": "O necesitate pentru fotografii de natură.",
+            "en": "A must-see for nature photographers."
+          }
+        },
+        {
+          "name": "Strand von Kaštel Štafilić",
+          "coords": [
+            16.3395,
+            43.55
+          ],
+          "category": "beach",
+          "arrive_at": "15:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannung nach der Bergetappe.",
+            "hu": "Pihenés a hegyi szakasz után.",
+            "ro": "Relaxare după etapa montană.",
+            "en": "Relaxation after the mountain stage."
+          }
+        },
+        {
+          "name": "Fahrt entlang der Kastela-Riva",
+          "coords": [
+            16.3345,
+            43.5485
+          ],
+          "category": "harbor",
+          "arrive_at": "17:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Flache Fahrt am Meer entlang.",
+            "hu": "Lapos tekerés a tengerpart mentén.",
+            "ro": "Plimbare lejeră pe malul mării.",
+            "en": "Flat ride along the seaside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Kaštel Novi und Umgebung sportlich. Die Tour führt vom Cippico-Turm hinauf zum biblischen Garten Stomorija am Kozjak, von wo aus Sie ein Panorama über die gesamte Bucht genießen. Nach der Abfahrt stärken Sie sich im Hafen und radeln gemütlich zum 1500 Jahre alten Olivenbaum Mastrinka, bevor Sie den Tag an einem der schönen Strände ausklingen lassen.",
+        "hu": "Fedezze fel Kaštel Novit és környékét sportosan. A túra a Cippico-toronytól indul felfelé a Kozjak-hegy oldalában lévő Stomorija bibliai kerthez, ahonnan panorámás kilátás nyílik az egész öbölre. A leereszkedés után erőt gyűjthet a kikötőben, majd kényelmesen eltekerhet az 1500 éves Mastrinka olajfához, mielőtt a napot a strandok egyikén zárná.",
+        "ro": "Explorați Kaštel Novi și împrejurimile într-un mod sportiv. Turul duce de la turnul Cippico sus la grădina biblică Stomorija de pe muntele Kozjak, de unde vă bucurați de o panoramă asupra întregului golf. După coborâre, vă recuperați în port și pedalați lejer spre măslinul Mastrinka, vechi de 1500 de ani, înainte de a încheia ziua pe una dintre plajele frumoase.",
+        "en": "Explore Kaštel Novi and its surroundings actively. The tour leads from the Cippico Tower up to the Biblical Garden Stomorija on Mt. Kozjak, offering a panorama over the entire bay. After descending, recharge in the harbor and cycle leisurely to the 1500-year-old Mastrinka olive tree, before ending the day at one of the beautiful beaches."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Peka",
+            "tip": "Traditionelles Fleischgericht unter der Glocke."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Peka",
+            "tip": "Hagyományos húsétel öntöttvas harang alatt sütve."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peka",
+            "tip": "Mâncare tradițională de carne gătită sub capac de fontă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Peka",
+            "tip": "Traditional meat dish cooked under a bell-shaped lid."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Stomorija Garten",
+            "tip": "Spirituelle Ruhe am Berg.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Stomorija kert",
+            "tip": "Spirituális nyugalom a hegyen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina Stomorija",
+            "tip": "Liniște spirituală pe munte.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Stomorija Garden",
+            "tip": "Spiritual peace on the mountain.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kozjak Kräuter",
+            "tip": "Getrockneter Salbei und Rosmarin."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kozjak gyógynövények",
+            "tip": "Szárított zsálya és rozmaring."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ierburi de pe Kozjak",
+            "tip": "Salvie și rozmarin uscat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kozjak Herbs",
+            "tip": "Dried sage and rosemary."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ausreichend Wasser für den Anstieg mit.",
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt."
+        ],
+        "hu": [
+          "Vigyen magával elég vizet az emelkedőhöz.",
+          "Ellenőrizze a fékeket a leereszkedés előtt."
+        ],
+        "ro": [
+          "Luați suficientă apă pentru urcare.",
+          "Verificați frânele înainte de coborâre."
+        ],
+        "en": [
+          "Take enough water for the climb.",
+          "Check your brakes before the descent."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Kula Cippico (Cluster A)",
+          "coords": [
+            16.3336,
+            43.5485
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Hafen und gehen Sie zu Fuß.",
+            "hu": "Parkoljon a kikötőben és sétáljon.",
+            "ro": "Parcați în port și mergeți pe jos.",
+            "en": "Park at the harbor and go on foot."
+          }
+        },
+        {
+          "name": "Župna crkva sv. Petra (Cluster A)",
+          "coords": [
+            16.334,
+            43.5492
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Turm entfernt.",
+            "hu": "Rövid séta a toronytól.",
+            "ro": "Scurtă plimbare de la turn.",
+            "en": "Short walk from the tower."
+          }
+        },
+        {
+          "name": "Mastrinka (Cluster B)",
+          "coords": [
+            16.3365,
+            43.551
+          ],
+          "category": "landmark",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kurze Fahrt zum antiken Baum.",
+            "hu": "Rövid autóút az antik fához.",
+            "ro": "Scurtă călătorie cu mașina spre copacul antic.",
+            "en": "Short drive to the ancient tree."
+          }
+        },
+        {
+          "name": "Mittagessen in Kaštel Štafilić (Cluster B)",
+          "coords": [
+            16.335,
+            43.5495
+          ],
+          "category": "gastro",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie Pasticada.",
+            "hu": "Kóstolja meg a pasticada-t.",
+            "ro": "Gustați Pasticada.",
+            "en": "Try some Pasticada."
+          }
+        },
+        {
+          "name": "Biblijski vrt Stomorija (Cluster C)",
+          "coords": [
+            16.3385,
+            43.5755
+          ],
+          "category": "garden",
+          "arrive_at": "13:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahrt auf den Kozjak-Berg.",
+            "hu": "Autózás fel a Kozjak-hegyre.",
+            "ro": "Drum spre muntele Kozjak.",
+            "en": "Drive up to Mt. Kozjak."
+          }
+        },
+        {
+          "name": "Panorama-Aussichtspunkt (Cluster C)",
+          "coords": [
+            16.34,
+            43.578
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:40",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Blick über die gesamte Kastela-Bucht.",
+            "hu": "Kilátás az egész Kaštela-öbölre.",
+            "ro": "Vedere peste întregul golf Kaštela.",
+            "en": "View over the entire Kaštela Bay."
+          }
+        },
+        {
+          "name": "Strandpause (Cluster D)",
+          "coords": [
+            16.345,
+            43.552
+          ],
+          "category": "beach",
+          "arrive_at": "15:25",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Perfekt für ein spätes Bad.",
+            "hu": "Tökéletes egy késői fürdőzéshez.",
+            "ro": "Perfect pentru o baie târzie.",
+            "en": "Perfect for a late swim."
+          }
+        },
+        {
+          "name": "Abendlicher Spaziergang (Cluster D)",
+          "coords": [
+            16.334,
+            43.5485
+          ],
+          "category": "harbor",
+          "arrive_at": "17:40",
+          "stay_min": 10,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Rückkehr zum Hafen.",
+            "hu": "Visszatérés a kikötőbe.",
+            "ro": "Reîntoarcere în port.",
+            "en": "Return to the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Schätze von Kaštel Novi. Beginnen Sie im historischen Kern mit dem Cippico-Turm, fahren Sie dann zum beeindruckenden Olivenbaum Mastrinka und erklimmen Sie mit dem Wagen den Kozjak zum biblischen Garten Stomorija. Der Tag bietet eine perfekte Mischung aus Kultur im Zentrum und Natur auf den umliegenden Hügeln.",
+        "hu": "Autóval kényelmesen elérheti Kaštel Novi különböző kincseit. Kezdje a történelmi magban a Cippico-toronnyal, majd hajtson el a lenyűgöző Mastrinka olajfához, és menjen fel autóval a Kozjak-hegyre a Stomorija bibliai kerthez. A nap tökéletes keverékét nyújtja a központ kultúrájának és a környező dombok természetének.",
+        "ro": "Cu mașina puteți ajunge confortabil la diferitele comori din Kaštel Novi. Începeți în nucleul istoric cu turnul Cippico, apoi mergeți la impresionantul măslin Mastrinka și urcați cu mașina pe Kozjak la grădina biblică Stomorija. Ziua oferă un amestec perfect între cultura din centru și natura de pe dealurile învecinate.",
+        "en": "By car, you can comfortably reach the various treasures of Kaštel Novi. Start in the historical core with the Cippico Tower, then drive to the impressive Mastrinka olive tree and climb Mt. Kozjak by car to the Biblical Garden Stomorija. The day offers a perfect mix of culture in the center and nature on the surrounding hills."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pasticada",
+            "tip": "Geschmortes Rindfleisch in süß-saurer Sauce."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pasticada",
+            "tip": "Párolt marhahús édes-savanyú mártásban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pasticada",
+            "tip": "Vită înăbușită în sos dulce-acrișor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pasticada",
+            "tip": "Braised beef in a sweet and sour sauce."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kozjak Gipfel",
+            "tip": "Ruhe hoch über der Stadt.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kozjak csúcs",
+            "tip": "Nyugalom magasan a város felett.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Kozjak",
+            "tip": "Liniște deasupra orașului.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kozjak Summit",
+            "tip": "Peace high above the city.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kastela Wein",
+            "tip": "Kaufen Sie eine Flasche Crljenak Kaštelanski."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kaštelai bor",
+            "tip": "Vegyen egy üveg Crljenak Kaštelanski-t."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin de Kaštela",
+            "tip": "Cumpărați o sticlă de Crljenak Kaštelanski."
+          }
+        ],
+        "en": [
+          {
+            "name": "Kaštela Wine",
+            "tip": "Buy a bottle of Crljenak Kaštelanski (Zinfandel's ancestor)."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind im Zentrum im Sommer begrenzt.",
+          "Die Straße zum Berg ist eng, fahren Sie vorsichtig."
+        ],
+        "hu": [
+          "A parkolóhelyek száma korlátozott a központban nyáron.",
+          "A hegyi út szűk, vezessen óvatosan."
+        ],
+        "ro": [
+          "Locurile de parcare sunt limitate în centru vara.",
+          "Drumul spre munte este îngust, conduceți cu atenție."
+        ],
+        "en": [
+          "Parking spaces are limited in the center during summer.",
+          "The road to the mountain is narrow, drive carefully."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Busstation Kaštel Novi",
+          "coords": [
+            16.335,
+            43.5515
+          ],
+          "category": "transit",
+          "arrive_at": "09:10",
+          "stay_min": 20,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Linie 37 verbindet alle Kaštela.",
+            "hu": "A 37-es busz összeköti az összes Kaštelát.",
+            "ro": "Linia 37 conectează toate localitățile Kaštela.",
+            "en": "Line 37 connects all the Kaštela settlements."
+          }
+        },
+        {
+          "name": "Kula Cippico (Cluster A)",
+          "coords": [
+            16.3336,
+            43.5485
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spaziergang von der Bushaltestelle zum Meer.",
+            "hu": "Séta a buszmegállótól a tengerpartig.",
+            "ro": "Plimbare de la stația de autobuz spre mare.",
+            "en": "Walk from the bus stop to the sea."
+          }
+        },
+        {
+          "name": "Župna crkva sv. Petra (Cluster A)",
+          "coords": [
+            16.334,
+            43.5492
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Im historischen Zentrum gelegen.",
+            "hu": "A történelmi központban található.",
+            "ro": "Situată în centrul istoric.",
+            "en": "Located in the historical center."
+          }
+        },
+        {
+          "name": "Mittagessen an der Riva",
+          "coords": [
+            16.3335,
+            43.5488
+          ],
+          "category": "gastro",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Spezialitäten.",
+            "hu": "Élvezze a helyi specialitásokat.",
+            "ro": "Bucurați-vă de specialitățile locale.",
+            "en": "Enjoy local specialties."
+          }
+        },
+        {
+          "name": "Mastrinka (Cluster B)",
+          "coords": [
+            16.3365,
+            43.551
+          ],
+          "category": "landmark",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Zu Fuß erreichbar durch die Gassen.",
+            "hu": "Gyalogosan elérhető a szűk utcákon át.",
+            "ro": "Accesibil pe jos prin străduțe.",
+            "en": "Accessible on foot through the alleys."
+          }
+        },
+        {
+          "name": "Strand von Kaštel Štafilić (Cluster B)",
+          "coords": [
+            16.34,
+            43.5505
+          ],
+          "category": "beach",
+          "arrive_at": "14:25",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nahegelegener Strandabschnitt.",
+            "hu": "Közeli strandrész.",
+            "ro": "Secțiune de plajă din apropiere.",
+            "en": "Nearby beach section."
+          }
+        },
+        {
+          "name": "Busstation (Rückfahrt)",
+          "coords": [
+            16.335,
+            43.5515
+          ],
+          "category": "transit",
+          "arrive_at": "17:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Busse fahren regelmäßig bis spät abends.",
+            "hu": "A buszok rendszeresen járnak késő estig.",
+            "ro": "Autobuzele circulă regulat până târziu.",
+            "en": "Buses run regularly until late evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Kaštel Novi ist hervorragend mit dem Bus der Linie 37 erreichbar, der zwischen Split und Trogir verkehrt. Nach dem Ausstieg erreichen Sie in wenigen Gehminuten den historischen Kern mit dem Cippico-Turm und der Riva. Ein Spaziergang führt Sie weiter zum antiken Olivenbaum Mastrinka und zu den einladenden Stränden von Kaštel Štafilić, bevor Sie bequem wieder in den Bus steigen.",
+        "hu": "Kaštel Novi kiválóan elérhető a 37-es busszal, amely Split és Trogir között közlekedik. A leszállás után pár perc sétával elérhető a történelmi mag a Cippico-toronnyal és a tengerparti sétánnyal. Egy rövid séta továbbvezet az antik Mastrinka olajfához és Kaštel Štafilić hívogató strandjaihoz, mielőtt kényelmesen újra buszra szállna.",
+        "ro": "Kaštel Novi este excelent accesibil cu autobuzul liniei 37, care circulă între Split și Trogir. După ce coborâți, ajungeți în câteva minute de mers pe jos în nucleul istoric cu turnul Cippico și faleza. O plimbare vă duce mai departe la măslinul antic Mastrinka și la plajele primitoare din Kaštel Štafilić, înainte de a vă urca din nou confortabil în autobuz.",
+        "en": "Kaštel Novi is easily accessible by the No. 37 bus, which runs between Split and Trogir. After getting off, you can reach the historical core with the Cippico Tower and the Riva in a few minutes. A walk takes you further to the ancient Mastrinka olive tree and the inviting beaches of Kaštel Štafilić, before you conveniently hop back on the bus."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Fritule",
+            "tip": "Kleine frittierte Teigbällchen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fritule",
+            "tip": "Kicsi sült tésztagolyók."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Fritule",
+            "tip": "Gogoși mici prăjite."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fritule",
+            "tip": "Small fried dough balls (Croatian doughnuts)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park in Kaštel Novi",
+            "tip": "Schatten unter alten Bäumen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Park Kaštel Noviban",
+            "tip": "Árnyék az öreg fák alatt.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul din Kaštel Novi",
+            "tip": "Umbră sub copaci bătrâni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Park in Kaštel Novi",
+            "tip": "Shade under old trees.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frisches Obst am Vormittag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss gyümölcsök délelőtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe proaspete dimineața."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Market",
+            "tip": "Fresh fruit in the morning."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie das Ticket beim Fahrer oder am Kiosk.",
+          "Achten Sie auf die Fahrtrichtung (Trogir/Split)."
+        ],
+        "hu": [
+          "Vegye meg a jegyet a sofőrnél vagy a kioszknál.",
+          "Ügyeljen a menetirányra (Trogir/Split)."
+        ],
+        "ro": [
+          "Cumpărați biletul de la șofer sau de la chioșc.",
+          "Atenție la direcția de mers (Trogir/Split)."
+        ],
+        "en": [
+          "Buy the ticket from the driver or at a kiosk.",
+          "Pay attention to the direction (Trogir or Split)."
+        ]
+      }
+    }
+  }
+}

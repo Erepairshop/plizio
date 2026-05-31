@@ -1,0 +1,1004 @@
+{
+  "city_id": "croatia-sveti-filip-i-jakov-cities-v2",
+  "anchor": {
+    "name": "Sveti Filip i Jakov",
+    "coords": [
+      15.4248,
+      43.9614
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 1.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Crkva sv. Roka",
+          "coords": [
+            15.4245,
+            43.9612
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur dieser kleinen, charmanten Kirche aus dem 14. Jahrhundert.",
+            "hu": "Csodálja meg a 14. századi gótikus kis templom puritán szépségét és nyugalmát.",
+            "ro": "Admirați arhitectura gotică a acestei mici biserici fermecătoare din secolul al XIV-lea.",
+            "en": "Admire the Gothic architecture of this small, charming 14th-century church."
+          }
+        },
+        {
+          "name": "Park Borelli",
+          "coords": [
+            15.426,
+            43.9615
+          ],
+          "category": "garden",
+          "arrive_at": "09:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein geschütztes Naturdenkmal mit seltenen Pflanzenarten und angenehmem Schatten.",
+            "hu": "Védett természeti műemlék ritka növényfajokkal és hűsítő árnyékkal a tengerpart mellett.",
+            "ro": "Un monument natural protejat, cu specii rare de plante și umbră plăcută.",
+            "en": "A protected natural monument featuring rare plant species and pleasant shade."
+          }
+        },
+        {
+          "name": "Ljetnikovac Borelli",
+          "coords": [
+            15.4255,
+            43.9608
+          ],
+          "category": "historical",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das ehemalige Sommerhaus der Familie Borelli zeugt von der aristokratischen Vergangenheit.",
+            "hu": "A Borelli család egykori nyári rezidenciája a település arisztokratikus múltját idézi.",
+            "ro": "Fosta casă de vară a familiei Borelli depune mărturie despre trecutul aristocratic.",
+            "en": "The former summer house of the Borelli family bears witness to the aristocratic past."
+          }
+        },
+        {
+          "name": "Ebéd egy konobában",
+          "coords": [
+            15.4242,
+            43.9605
+          ],
+          "category": "gastro",
+          "arrive_at": "12:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Fisch direkt vom Grill in einem der traditionellen Restaurants.",
+            "hu": "Kóstolja meg a frissen fogott tengeri halakat egy hagyományos, családi vendéglőben.",
+            "ro": "Gustați peștele proaspăt la grătar într-unul dintre restaurantele tradiționale locale.",
+            "en": "Try fresh fish straight from the grill in one of the traditional local restaurants."
+          }
+        },
+        {
+          "name": "Plaža Iza Banja",
+          "coords": [
+            15.4215,
+            43.9595
+          ],
+          "category": "beach",
+          "arrive_at": "13:57",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare Wasser an diesem mit der Blauen Flagge ausgezeichneten Strand.",
+            "hu": "Élvezze a kristálytiszta vizet ezen a Kék Zászló minősítéssel rendelkező strandon.",
+            "ro": "Bucurați-vă de apa cristalină de pe această plajă premiată cu Steagul Albastru.",
+            "en": "Enjoy the crystal-clear water at this Blue Flag-awarded beach."
+          }
+        },
+        {
+          "name": "Naplemente a parton",
+          "coords": [
+            15.423,
+            43.959
+          ],
+          "category": "sunset",
+          "arrive_at": "17:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der perfekte Ort, um den Tag mit Blick auf die Inseln des Pasman-Kanals ausklingen zu lassen.",
+            "hu": "Tökéletes hely a nap lezárásához, kilátással a Pašman-csatorna kis szigeteire.",
+            "ro": "Locul perfect pentru a încheia ziua cu o vedere spre insulele canalului Pašman.",
+            "en": "The perfect spot to end the day with a view of the Pašman Channel islands."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Herzen von Sveti Filip i Jakov mit der Besichtigung der St.-Rochus-Kirche. Danach schlendern Sie durch den schattigen Park Borelli zum beeindruckenden Sommerhaus der gleichnamigen Familie. Mittags genießen Sie dalmatinische Spezialitäten in einer lokalen Konoba. Den Nachmittag verbringen Sie entspannt am Strand Iza Banja, bevor Sie den Abend mit einem spektakulären Sonnenuntergang an der Riva krönen.",
+        "hu": "A napot a Szent Rókus-templom meglátogatásával indítjuk a történelmi központban. Ezután a Borelli-park hűvösében sétálunk el az egykori nemesi nyaralóhoz, majd a helyi gasztronómia rejtelmeibe merülünk egy tengerparti vendéglőben. A délután a pihenésé az Iza Banja strandon, a napot pedig egy emlékezetes mólón tett sétával és a Pasman-csatorna feletti naplementével zárjuk.",
+        "ro": "Ziua începe în inima istorică a orașului cu vizitarea bisericii Sfântul Roch. Apoi, vă plimbați prin parcul Borelli spre impresionanta casă de vară a familiei nobiliare. La prânz, savurați specialități dalmate într-o tavernă locală. După-amiaza este dedicată relaxării pe plaja Iza Banja, iar seara se încheie cu un apus spectaculos pe faleza orașului.",
+        "en": "Your day starts in the historical heart of Sveti Filip i Jakov with a visit to St. Roch Church. Afterwards, stroll through the shaded Borelli Park to the impressive summer house of the noble family. For lunch, enjoy Dalmatian specialties in a local konoba. Spend the afternoon relaxing at Iza Banja beach before crowning the evening with a spectacular sunset at the waterfront."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Dalmát Peka",
+            "tip": "Unter der Glocke gegartes Fleisch oder Tintenfisch mit Kartoffeln."
+          },
+          {
+            "name": "Gegrillter Fisch",
+            "tip": "Frische Goldbrasse oder Wolfsbarsch mit Mangold."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dalmát Peka",
+            "tip": "Vastányér alatt, parázson sült polip vagy hús burgonyával."
+          },
+          {
+            "name": "Grillezett tengeri hal",
+            "tip": "Friss aranydurbincs vagy sügér fokhagymás mángolddal."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Peka dalmată",
+            "tip": "Carne sau caracatiță cu cartofi, gătite sub un capac de fier acoperit cu jar."
+          },
+          {
+            "name": "Pește la grătar",
+            "tip": "Dorada sau biban proaspăt servit cu mangold."
+          }
+        ],
+        "en": [
+          {
+            "name": "Dalmatian Peka",
+            "tip": "Octopus or meat cooked with potatoes under a bell-shaped lid."
+          },
+          {
+            "name": "Grilled Sea Fish",
+            "tip": "Fresh sea bream or sea bass served with Swiss chard."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Park Borelli",
+            "tip": "Ein stiller Rückzugsort unter Pinien.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Kleine Buchten",
+            "tip": "Felsige Abschnitte nördlich des Zentrums.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Borelli-park",
+            "tip": "Csendes menedék a fenyők árnyékában.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Északi öblök",
+            "tip": "Sziklás partvonal távolabb a központtól.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Borelli",
+            "tip": "Un refugiu liniștit sub pini.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Golful de nord",
+            "tip": "Secțiuni stâncoase departe de aglomerație.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Borelli Park",
+            "tip": "A quiet sanctuary under the pine trees.",
+            "emoji": "🌲"
+          },
+          {
+            "name": "Northern Coves",
+            "tip": "Rocky sections away from the main crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Kaltgepresstes Öl von umliegenden Hainen."
+          },
+          {
+            "name": "Lavendel-Säckchen",
+            "tip": "Traditionelles Souvenir aus kroatischem Anbau."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Hidegen sajtolt olaj a környékbeli ligetekből."
+          },
+          {
+            "name": "Levendulazsák",
+            "tip": "Hagyományos kézműves ajándék helyi alapanyagból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Ulei presat la rece din livezile din zonă."
+          },
+          {
+            "name": "Săculeți cu lavandă",
+            "tip": "Suvenir tradițional din culturi locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Cold-pressed oil from nearby olive groves."
+          },
+          {
+            "name": "Lavender Bags",
+            "tip": "Traditional handmade souvenir from local crops."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Sandalen für die Steinstrände.",
+          "Besuchen Sie die Kirche am Vormittag für das beste Licht.",
+          "Reservieren Sie in der Hochsaison einen Tisch in der Konoba.",
+          "Die Riva ist ideal für einen morgendlichen Espresso."
+        ],
+        "hu": [
+          "Viseljen kényelmes úszócipőt a kavicsos strandokon.",
+          "A templomot érdemes délelőtt látogatni a fényviszonyok miatt.",
+          "Főszezonban ajánlott asztalt foglalni az éttermekben.",
+          "A móló ideális hely egy reggeli kávéhoz a tenger mellett."
+        ],
+        "ro": [
+          "Purtați încălțăminte de apă pentru plajele cu pietriș.",
+          "Vizitați biserica dimineața pentru cea mai bună lumină.",
+          "Rezervați o masă la tavernă în timpul sezonului de vârf.",
+          "Faleza este ideală pentru un espresso de dimineață."
+        ],
+        "en": [
+          "Wear comfortable water shoes for the pebble beaches.",
+          "Visit the church in the morning for the best light.",
+          "Book a table at the konoba during high season.",
+          "The waterfront is ideal for a morning espresso by the sea."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Crkva sv. Roka",
+          "coords": [
+            15.4245,
+            43.9612
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Startpunkt im Zentrum.",
+            "hu": "A túra kiindulópontja a faluközpontban.",
+            "ro": "Punctul de plecare în centru.",
+            "en": "Starting point in the center."
+          }
+        },
+        {
+          "name": "Park Borelli",
+          "coords": [
+            15.426,
+            43.9615
+          ],
+          "category": "garden",
+          "arrive_at": "09:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurze Pause im Grünen.",
+            "hu": "Rövid megálló a zöldben.",
+            "ro": "Scurtă pauză în natură.",
+            "en": "Brief break in the greenery."
+          }
+        },
+        {
+          "name": "Rogovo",
+          "coords": [
+            15.45,
+            43.978
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ein moderater Anstieg mit fantastischem Panoramablick.",
+            "hu": "Mérsékelt emelkedő fantasztikus panorámával a csúcson.",
+            "ro": "O urcare moderată cu o vedere panoramică fantastică.",
+            "en": "A moderate climb with a fantastic panoramic view."
+          }
+        },
+        {
+          "name": "Ebéd a kikötőben",
+          "coords": [
+            15.4245,
+            43.9595
+          ],
+          "category": "gastro",
+          "arrive_at": "12:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Stärken Sie sich nach der Fahrt.",
+            "hu": "Frissüljön fel a tekerés után.",
+            "ro": "Reîncărcați-vă după plimbare.",
+            "en": "Recharge after the ride."
+          }
+        },
+        {
+          "name": "Plaža Iza Banja",
+          "coords": [
+            15.4215,
+            43.9595
+          ],
+          "category": "beach",
+          "arrive_at": "13:48",
+          "stay_min": 150,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Badezeit.",
+            "hu": "Ideje a csobbanásnak.",
+            "ro": "Timp pentru înot.",
+            "en": "Time for a swim."
+          }
+        },
+        {
+          "name": "Kávé a mólón",
+          "coords": [
+            15.423,
+            43.959
+          ],
+          "category": "harbor",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannung am Wasser.",
+            "hu": "Lazítás a vízparton.",
+            "ro": "Relaxare la malul apei.",
+            "en": "Relaxing by the water."
+          }
+        },
+        {
+          "name": "Ljetnikovac Borelli",
+          "coords": [
+            15.4255,
+            43.9608
+          ],
+          "category": "historical",
+          "arrive_at": "17:02",
+          "stay_min": 43,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Abschluss im Herrenhaus.",
+            "hu": "Zárjuk a napot az úri rezidenciánál.",
+            "ro": "Încheiere la reședința nobiliară.",
+            "en": "End the day at the manor house."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie die Umgebung auf zwei Rädern. Nach der Besichtigung der Altstadt radeln Sie hinauf zum Aussichtspunkt Rogovo, von wo aus Sie den gesamten Pasman-Kanal überblicken können. Die Abfahrt führt Sie direkt zurück zum Hafen für ein stärkendes Mittagessen. Den Nachmittag verbringen Sie am Strand, bevor Sie gemütlich zum Borelli-Anwesen zurückkehren.",
+        "hu": "Fedezze fel a környéket két keréken. Az óváros megismerése után tekerjen fel a Rogovo kilátóhoz, ahonnan belátni az egész Pašman-csatornát. A lejtmenet után a kikötőben ebédelünk, majd a délutáni pihenést az Iza Banja strandon töltjük, végül a Borelli-birtoknál fejezzük be a túrát.",
+        "ro": "Descoperiți împrejurimile pe două roți. După explorarea centrului vechi, pedalați până la punctul de belvedere Rogovo, de unde puteți vedea întregul canal Pašman. Coborârea vă duce direct în port pentru prânz. Petreceți după-amiaza pe plajă înainte de a reveni la domeniul Borelli.",
+        "en": "Explore the surroundings on two wheels. After seeing the old town, cycle up to the Rogovo viewpoint for a panoramic view of the Pašman Channel. The descent leads you back to the harbor for lunch. Spend the afternoon at the beach before a final visit to the Borelli estate."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Schwarzes Risotto",
+            "tip": "Tintenfisch-Risotto, eine Küstenspezialität."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Fekete rizottó",
+            "tip": "Szippiával festett tengeri rizottó."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Risotto negru",
+            "tip": "Risotto cu cerneală de sepie, o delicatesă locală."
+          }
+        ],
+        "en": [
+          {
+            "name": "Black Risotto",
+            "tip": "Cuttlefish risotto, a coastal specialty."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Rogovo Gipfel",
+            "tip": "Weitblick und Ruhe.",
+            "emoji": "🌄"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Rogovo-tető",
+            "tip": "Kilátás és nyugalom a falu felett.",
+            "emoji": "🌄"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Rogovo",
+            "tip": "Vedere panoramică și liniște.",
+            "emoji": "🌄"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rogovo Summit",
+            "tip": "Vast views and peace.",
+            "emoji": "🌄"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig",
+            "tip": "Hiesiger Salbeihonig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi méz",
+            "tip": "Környékbeli zsályaméz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere locală",
+            "tip": "Miere de salvie din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Honey",
+            "tip": "Nearby sage honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Strecke nach Rogovo erfordert etwas Kondition.",
+          "Nutzen Sie die Radwege entlang der Küste."
+        ],
+        "hu": [
+          "A Rogovóba vezető út némi erőnlétet igényel.",
+          "Használja a part menti kerékpárutakat."
+        ],
+        "ro": [
+          "Traseul către Rogovo necesită puțină condiție fizică.",
+          "Folosiți pistele de biciclete de-a lungul coastei."
+        ],
+        "en": [
+          "The route to Rogovo requires some fitness.",
+          "Use the bike paths along the coast."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 10.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Park Borelli",
+          "coords": [
+            15.426,
+            43.9615
+          ],
+          "category": "garden",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral und erkunden Sie den Park.",
+            "hu": "Parkoljon a központban, és fedezze fel a parkot.",
+            "ro": "Parcați în centru și explorați parcul.",
+            "en": "Park centrally and explore the garden."
+          }
+        },
+        {
+          "name": "Ljetnikovac Borelli",
+          "coords": [
+            15.4255,
+            43.9608
+          ],
+          "category": "historical",
+          "arrive_at": "10:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Kurzer Spaziergang vom Park.",
+            "hu": "Rövid séta a parktól.",
+            "ro": "Scurtă plimbare de la parc.",
+            "en": "Short walk from the park."
+          }
+        },
+        {
+          "name": "Rogovo Aussichtspunkt",
+          "coords": [
+            15.45,
+            43.978
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Fahrt auf den Hügel für das beste Panorama.",
+            "hu": "Autózzon fel a dombra a legjobb panorámáért.",
+            "ro": "Conduceți până pe deal pentru cea mai bună panoramă.",
+            "en": "Drive up the hill for the best panorama."
+          }
+        },
+        {
+          "name": "Crkva sv. Roka",
+          "coords": [
+            15.4245,
+            43.9612
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Zurück im Zentrum für Kultur.",
+            "hu": "Vissza a központba egy kis kultúráért.",
+            "ro": "Înapoi în centru pentru cultură.",
+            "en": "Back in the center for a bit of culture."
+          }
+        },
+        {
+          "name": "Mittagessen in der Konoba",
+          "coords": [
+            15.424,
+            43.9605
+          ],
+          "category": "gastro",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Weine.",
+            "hu": "Kóstolja meg a helyi borokat.",
+            "ro": "Degustați vinurile locale.",
+            "en": "Enjoy some local wines."
+          }
+        },
+        {
+          "name": "Plaža Iza Banja",
+          "coords": [
+            15.4215,
+            43.9595
+          ],
+          "category": "beach",
+          "arrive_at": "14:58",
+          "stay_min": 150,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Baden und Entspannen.",
+            "hu": "Fürdőzés és pihenés.",
+            "ro": "Înot și relaxare.",
+            "en": "Swimming and relaxing."
+          }
+        },
+        {
+          "name": "Uferpromenade",
+          "coords": [
+            15.423,
+            43.959
+          ],
+          "category": "harbor",
+          "arrive_at": "17:32",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Letzter Spaziergang.",
+            "hu": "Utolsó séta a parton.",
+            "ro": "Ultima plimbare pe faleză.",
+            "en": "Final stroll along the shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem sowohl die Sehenswürdigkeiten im Zentrum als auch den höher gelegenen Punkt Rogovo. Beginnen Sie im Park Borelli, fahren Sie dann für den Ausblick nach Rogovo und kehren Sie für das Mittagessen und einen entspannten Nachmittag am Strand Iza Banja in den Ort zurück.",
+        "hu": "Autóval kényelmesen felfedezheti a központi látnivalókat és a falu feletti Rogovo dombot is. Kezdje a Borelli-parkban, tegyen egy kitérőt a panorámáért, majd térjen vissza a tengerpartra egy ízletes ebédre és egy hosszú délutáni strandolásra az Iza Banja parton.",
+        "ro": "Cu mașina puteți ajunge confortabil atât la obiectivele din centru, cât și la punctul de belvedere Rogovo. Începeți în parcul Borelli, apoi conduceți pentru vedere la Rogovo și reveniți în localitate pentru prânz și o după-amiază relaxantă pe plaja Iza Banja.",
+        "en": "By car, you can comfortably reach both the central sights and the higher Rogovo point. Start in Borelli Park, then drive for the views to Rogovo, and return to the village for lunch and a relaxing afternoon at Iza Banja beach."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Maraschino",
+            "tip": "Berühmter Likör aus der nahen Zadar-Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Maraschino",
+            "tip": "Híres meggylikőr a közeli Zára (Zadar) környékéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Maraschino",
+            "tip": "Lichior faimos din regiunea Zadar din apropiere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Maraschino",
+            "tip": "Famous liqueur from the nearby Zadar region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Uferpromenade am Abend",
+            "tip": "Ruhiger Spaziergang bei Nacht.",
+            "emoji": "🌙"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Esti korzó",
+            "tip": "Csendes séta a parton sötétedés után.",
+            "emoji": "🌙"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Faleza seara",
+            "tip": "O plimbare liniștită după lăsarea întunericului.",
+            "emoji": "🌙"
+          }
+        ],
+        "en": [
+          {
+            "name": "Waterfront at Night",
+            "tip": "Quiet stroll after dark.",
+            "emoji": "🌙"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Paški sir",
+            "tip": "Spezialkäse von der Insel Pag."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pagi sajt",
+            "tip": "Híres juhsajt Pag szigetéről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brânză de Pag",
+            "tip": "Brânză de oaie faimoasă de pe insula Pag."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pag Cheese",
+            "tip": "Famous sheep cheese from the island of Pag."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parkplätze sind am Hafen und in der Nähe der Strände verfügbar.",
+          "Die Straßen nach Rogovo sind schmal, aber asphaltiert."
+        ],
+        "hu": [
+          "Parkolóhelyek a kikötőben és a strandok közelében találhatók.",
+          "A Rogovóba vezető utak keskenyek, de aszfaltozottak."
+        ],
+        "ro": [
+          "Locurile de parcare sunt disponibile în port și lângă plaje.",
+          "Drumurile către Rogovo sunt înguste, dar asfaltate."
+        ],
+        "en": [
+          "Parking is available at the harbor and near the beaches.",
+          "The roads to Rogovo are narrow but paved."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Crkva sv. Roka",
+          "coords": [
+            15.4245,
+            43.9612
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Zentraler Ankunftspunkt.",
+            "hu": "Központi érkezési pont.",
+            "ro": "Punct de sosire central.",
+            "en": "Central arrival point."
+          }
+        },
+        {
+          "name": "Park Borelli",
+          "coords": [
+            15.426,
+            43.9615
+          ],
+          "category": "garden",
+          "arrive_at": "09:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannung in der Natur.",
+            "hu": "Természetközeli pihenés.",
+            "ro": "Relaxare în natură.",
+            "en": "Relaxing in nature."
+          }
+        },
+        {
+          "name": "Ljetnikovac Borelli",
+          "coords": [
+            15.4255,
+            43.9608
+          ],
+          "category": "historical",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Historisches Erbe.",
+            "hu": "Történelmi örökség.",
+            "ro": "Moștenire istorică.",
+            "en": "Historical heritage."
+          }
+        },
+        {
+          "name": "Ebéd a kikötő közelében",
+          "coords": [
+            15.4242,
+            43.9605
+          ],
+          "category": "gastro",
+          "arrive_at": "12:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Regionale Küche genießen.",
+            "hu": "Élvezze a tájegység ízeit.",
+            "ro": "Savurați bucătăria regională.",
+            "en": "Enjoy regional cuisine."
+          }
+        },
+        {
+          "name": "Plaža Iza Banja",
+          "coords": [
+            15.4215,
+            43.9595
+          ],
+          "category": "beach",
+          "arrive_at": "13:57",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Baden im sauberen Meer.",
+            "hu": "Fürdőzés a tiszta tengerben.",
+            "ro": "Înot în marea curată.",
+            "en": "Swimming in the clean sea."
+          }
+        },
+        {
+          "name": "Naplemente pihenő",
+          "coords": [
+            15.423,
+            43.959
+          ],
+          "category": "sunset",
+          "arrive_at": "17:01",
+          "stay_min": 34,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Abschluss an der Riva.",
+            "hu": "Zárás a mólón.",
+            "ro": "Final pe faleză.",
+            "en": "Final stop at the waterfront."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Plan konzentriert sich auf die fußläufig erreichbaren Highlights im Zentrum, die ideal mit dem Bus aus umliegenden Städten erreichbar sind. Besuchen Sie die historischen Stätten, genießen Sie ein exzellentes Mittagessen und verbringen Sie einen entspannten Nachmittag am Strand, bevor Sie Ihre Heimreise antreten.",
+        "hu": "Ez a terv a központban gyalogosan elérhető látnivalókra összpontosít, amelyek ideálisan megközelíthetők a környékbeli városokból érkező buszokkal. Ismerje meg a történelmi helyszíneket, ebédeljen egy kiváló vendéglőben, és pihenjen a strandon, mielőtt visszaindulna.",
+        "ro": "Acest plan se concentrează pe punctele de interes accesibile pe jos din centru, ideale pentru cei care sosesc cu autobuzul din orașele învecinate. Vizitați siturile istorice, bucurați-vă de un prânz excelent și petreceți o după-amiază relaxantă pe plajă înainte de plecare.",
+        "en": "This plan focuses on the central highlights reachable on foot, ideal for those arriving by bus from neighboring towns. Visit the historical sites, enjoy an excellent lunch, and spend a relaxing afternoon at the beach before your return journey."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Pršut",
+            "tip": "Luftgetrockneter Schinken aus Dalmatien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Pršut",
+            "tip": "Híres dalmát levegőn szárított sonka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pršut",
+            "tip": "Șuncă dalmată uscată la aer."
+          }
+        ],
+        "en": [
+          {
+            "name": "Pršut",
+            "tip": "Famous Dalmatian air-dried ham."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zentrumnaher Park",
+            "tip": "Ruhiger Schattenplatz.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Központi park",
+            "tip": "Csendes árnyékos hely a falu szívében.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul central",
+            "tip": "Un loc liniștit și umbros.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Central Park",
+            "tip": "A quiet shaded spot in the heart of the village.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Postkarten",
+            "tip": "Lokale Souvenirs am Kiosk."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Képeslapok",
+            "tip": "Helyi szuvenírek a parti árusoknál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vederi",
+            "tip": "Suveniruri locale la chioșcuri."
+          }
+        ],
+        "en": [
+          {
+            "name": "Postcards",
+            "tip": "Local souvenirs at the kiosks."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Bushaltestelle liegt an der Hauptstraße, nur wenige Minuten vom Zentrum entfernt.",
+          "Prüfen Sie die Fahrpläne der Liburnija-Busse."
+        ],
+        "hu": [
+          "A buszmegálló a főút mellett van, pár percre a központtól.",
+          "Ellenőrizze a Liburnija buszjáratok menetrendjét."
+        ],
+        "ro": [
+          "Stația de autobuz este pe drumul principal, la câteva minute de centru.",
+          "Verificați orarul autobuzelor Liburnija."
+        ],
+        "en": [
+          "The bus stop is on the main road, just minutes from the center.",
+          "Check the Liburnija bus schedules."
+        ]
+      }
+    }
+  }
+}

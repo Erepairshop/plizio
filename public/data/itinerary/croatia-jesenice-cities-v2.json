@@ -1,0 +1,942 @@
+{
+  "city_id": "croatia-jesenice-cities-v2",
+  "anchor": {
+    "name": "Jesenice",
+    "coords": [
+      16.598,
+      43.462
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "19:15",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Staro Selo Jesenice",
+          "coords": [
+            16.608,
+            43.468
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Steinarchitektur des verlassenen Dorfes.",
+            "hu": "Csodálja meg az elhagyatott falu hagyományos kőépítészetét.",
+            "ro": "Admirați arhitectura tradițională din piatră a satului părăsit.",
+            "en": "Admire the traditional stone architecture of the abandoned village."
+          }
+        },
+        {
+          "name": "Crkva sv. Nikole",
+          "coords": [
+            16.606,
+            43.469
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die Stille und den Blick auf das Meer von der Kirche aus.",
+            "hu": "Élvezze a csendet és a tengerre nyíló kilátást a templom mellől.",
+            "ro": "Bucurați-vă de liniște și de vederea la mare de lângă biserică.",
+            "en": "Enjoy the silence and the sea view from the church site."
+          }
+        },
+        {
+          "name": "Panorama-Abstieg zur Küste",
+          "coords": [
+            16.602,
+            43.464
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie Fotos von den vorgelagerten Inseln während des Abstiegs.",
+            "hu": "Készítsen fotókat a szemközti szigetekről az ereszkedés közben.",
+            "ro": "Faceți fotografii cu insulele din față în timpul coborârii.",
+            "en": "Take photos of the islands ahead during the descent."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            16.597,
+            43.459
+          ],
+          "category": "gastro",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Probieren Sie Soparnik, eine lokale Spezialität aus dieser Region.",
+            "hu": "Kóstolja meg a soparnikot, a régió helyi specialitását.",
+            "ro": "Gustați soparnik, o specialitate locală din această regiune.",
+            "en": "Try soparnik, a local specialty from this region."
+          }
+        },
+        {
+          "name": "Luka Krilo",
+          "coords": [
+            16.595,
+            43.458
+          ],
+          "category": "harbor",
+          "arrive_at": "15:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die berühmten hölzernen Ausflugsschiffe im Hafen.",
+            "hu": "Nézze meg a kikötőben horgonyzó híres fahajókat.",
+            "ro": "Observați faimoasele nave de croazieră din lemn din port.",
+            "en": "Watch the famous wooden excursion ships in the harbor."
+          }
+        },
+        {
+          "name": "Plaža Mutogras",
+          "coords": [
+            16.585,
+            43.465
+          ],
+          "category": "beach",
+          "arrive_at": "16:20",
+          "stay_min": 150,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am kristallklaren Wasser dieses Kiesstrandes.",
+            "hu": "Pihenjen a kavicsos strand kristálytiszta vizénél.",
+            "ro": "Relaxați-vă lângă apa de cristal a acestei plaje cu pietriș.",
+            "en": "Relax by the crystal clear water of this pebble beach."
+          }
+        },
+        {
+          "name": "Sonnenuntergang am Meer",
+          "coords": [
+            16.584,
+            43.466
+          ],
+          "category": "sunset",
+          "arrive_at": "18:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein perfekter Abschluss des Tages direkt an der Adria.",
+            "hu": "A nap tökéletes zárása közvetlenül az Adria partján.",
+            "ro": "O încheiere perfectă a zilei chiar pe malul Adriaticii.",
+            "en": "A perfect end to the day right on the Adriatic coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im historischen Staro Selo Jesenice, hoch über der Küste. Hier wandern Sie durch verlassene Steinhäuser und besuchen die alte Kirche Sv. Nikola. Nach einem Mittagessen mit lokalen Spezialitäten führt der Weg hinunter zum Hafen von Krilo, dem Zentrum der kroatischen Holzschifffahrt. Den Nachmittag verbringen Sie entspannt am Strand von Mutogras.",
+        "hu": "A nap a hegyoldalban fekvő Staro Selo Jesenicében indul, ahol az elhagyatott kőházak között sétálva megismerheti a múltat. Miután megtekintette a Szent Miklós templomot, ereszkedjen le a partra egy ebédre. Délután Krilo kikötőjének különleges hajóit csodálhatja meg, majd a Mutogras strandon pihenheti ki a túra fáradalmait a naplementében.",
+        "ro": "Ziua începe în Staro Selo Jesenice, situat sus pe deal. Aici veți merge printre case de piatră părăsite și veți vizita vechea biserică Sf. Nicolae. După un prânz cu specialități locale, drumul coboară spre portul Krilo, inima flotei de nave din lemn. Petreceți după-amiaza relaxându-vă pe plaja Mutogras, așteptând apusul.",
+        "en": "The day starts in the historic Staro Selo Jesenice, high above the coast. Wander through abandoned stone houses and visit the old Church of St. Nicholas. After a lunch featuring local specialties, head down to the harbor of Krilo, the hub of Croatian wooden shipbuilding. Spend the afternoon relaxing at Mutogras beach as the sun sets."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Soparnik",
+            "tip": "Ein traditioneller Mangoldkuchen aus der Region Poljica."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Soparnik",
+            "tip": "Hagyományos mángoldos lepény a Poljica régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Soparnik",
+            "tip": "O plăcintă tradițională cu sfeclă din regiunea Poljica."
+          }
+        ],
+        "en": [
+          {
+            "name": "Soparnik",
+            "tip": "A traditional chard pie from the Poljica region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Staro Selo Gassen",
+            "tip": "Stille zwischen alten Mauern.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Staro Selo utcák",
+            "tip": "Csend a régi falak között.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulițele din Staro Selo",
+            "tip": "Liniște între zidurile vechi.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Staro Selo Alleys",
+            "tip": "Silence among old walls.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Olivenöl",
+            "tip": "Direkt von den Bauern in Jesenice kaufen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olívaolaj",
+            "tip": "Vásároljon közvetlenül a helyi termelőktől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei de măsline local",
+            "tip": "Cumpărați direct de la producătorii locali."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Olive Oil",
+            "tip": "Buy directly from local producers in Jesenice."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie feste Schuhe für den Abstieg vom alten Dorf.",
+          "Nehmen Sie ausreichend Wasser für die Wanderung bergauf mit.",
+          "In Krilo gibt es viele kleine Cafés direkt am Wasser."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a régi faluból való ereszkedéshez.",
+          "Vigyen magával elég vizet a hegyi sétához.",
+          "Krilóban számos hangulatos kávézót talál közvetlenül a parton."
+        ],
+        "ro": [
+          "Purtați încălțăminte adecvată pentru coborârea din satul vechi.",
+          "Luați destulă apă pentru plimbarea pe deal.",
+          "În Krilo găsiți multe cafenele drăguțe chiar lângă apă."
+        ],
+        "en": [
+          "Wear sturdy shoes for the descent from the old village.",
+          "Bring enough water for the uphill walk.",
+          "Krilo has many charming cafes right by the water."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 12.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Küstenfahrt nach Mutogras",
+          "coords": [
+            16.585,
+            43.465
+          ],
+          "category": "harbor",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Wind auf der flachen Küstenstraße.",
+            "hu": "Élvezze a menetszelet a sík tengerparti úton.",
+            "ro": "Bucurați-vă de briză pe drumul plat de coastă.",
+            "en": "Enjoy the breeze on the flat coastal road."
+          }
+        },
+        {
+          "name": "Plaža Mutogras",
+          "coords": [
+            16.585,
+            43.465
+          ],
+          "category": "beach",
+          "arrive_at": "09:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich im Meer, bevor die Auffahrt beginnt.",
+            "hu": "Frissüljön fel a tengerben a hegyi menet előtt.",
+            "ro": "Răcoriți-vă în mare înainte de a începe urcarea.",
+            "en": "Refresh in the sea before the climb begins."
+          }
+        },
+        {
+          "name": "Anstrengende Auffahrt zum Dorf",
+          "coords": [
+            16.6,
+            43.465
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Ein harter Anstieg, der mit Panoramablick belohnt wird.",
+            "hu": "Kemény emelkedő, amit panorámás kilátás jutalmaz.",
+            "ro": "O urcare grea, recompensată cu o vedere panoramică.",
+            "en": "A tough climb rewarded with panoramic views."
+          }
+        },
+        {
+          "name": "Staro Selo Jesenice",
+          "coords": [
+            16.608,
+            43.468
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie das Rad und erkunden Sie die Ruinen zu Fuß.",
+            "hu": "Támassza le a bringát, és fedezze fel a romokat gyalog.",
+            "ro": "Lăsați bicicleta și explorați ruinele la pas.",
+            "en": "Park the bike and explore the ruins on foot."
+          }
+        },
+        {
+          "name": "Luka Krilo",
+          "coords": [
+            16.595,
+            43.458
+          ],
+          "category": "harbor",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Die Abfahrt zum Hafen erfordert gute Bremsen.",
+            "hu": "A kikötőbe vezető lejtő jó fékeket igényel.",
+            "ro": "Coborârea spre port necesită frâne bune.",
+            "en": "The descent to the harbor requires good brakes."
+          }
+        },
+        {
+          "name": "Nachmittagspause am Kai",
+          "coords": [
+            16.594,
+            43.457
+          ],
+          "category": "gastro",
+          "arrive_at": "16:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kühles Getränk mit Blick auf die Segelschiffe.",
+            "hu": "Egy hűsítő ital a vitorlásokra nyíló kilátással.",
+            "ro": "O băutură rece cu vedere la veliere.",
+            "en": "A cool drink with a view of the sailing ships."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour kombiniert die flache Küstenstraße mit dem herausfordernden Anstieg zum alten Bergdorf. Am Vormittag rollen Sie entspannt am Meer entlang bis zum Strand von Mutogras. Danach folgt der sportliche Teil: die Auffahrt nach Staro Selo Jesenice. Zur Belohnung gibt es eine rasante Abfahrt zum Hafen von Krilo, wo Sie den Tag zwischen traditionellen Holzschiffen ausklingen lassen.",
+        "hu": "Ez a kerékpáros túra ötvözi a sík tengerparti utat a kihívást jelentő hegyi emelkedőkkel. Délelőtt a tenger mentén gurulhat a Mutogras strandig. Ezután következik a sportos rész: feltekerés Staro Selo Jesenicébe. Jutalmul egy tempós lejtőzés várja Krilo kikötőjéig, ahol a napot a tradicionális fahajók között zárhatja.",
+        "ro": "Turul cu bicicleta combină drumul plat de coastă cu urcarea provocatoare spre satul de munte. Dimineața veți rula relaxat pe lângă mare până la plaja Mutogras. Urmează partea sportivă: urcarea spre Staro Selo Jesenice. Recompensa este o coborâre rapidă spre portul Krilo, unde veți încheia ziua printre navele tradiționale de lemn.",
+        "en": "This bike tour combines the flat coastal road with a challenging climb to the old mountain village. In the morning, enjoy a relaxed ride along the sea to Mutogras beach. Then comes the athletic part: the climb to Staro Selo Jesenice. Your reward is a swift descent to the harbor of Krilo, where you can end the day among traditional wooden ships."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Frischer Fisch",
+            "tip": "Fragen Sie in den Konobas am Hafen nach dem Fang des Tages."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Friss hal",
+            "tip": "Kérdezze a kikötői konobákban a napi fogást."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Pește proaspăt",
+            "tip": "Întrebați în konobele din port despre captura zilei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Fresh Fish",
+            "tip": "Ask for the catch of the day in the harbor konobas."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mutogras Bucht",
+            "tip": "Morgens sehr friedlich.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mutogras-öböl",
+            "tip": "Reggelente nagyon békés.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golful Mutogras",
+            "tip": "Foarte liniștit dimineața.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Mutogras Bay",
+            "tip": "Very peaceful in the morning.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honig",
+            "tip": "Lokaler Salbeihonig aus den Bergen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Méz",
+            "tip": "Helyi zsályaméz a hegyekből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miere",
+            "tip": "Miere locală de salvie de pe munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honey",
+            "tip": "Local sage honey from the mountains."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Staro Selo.",
+          "Ein E-Bike macht den Aufstieg zum Dorf deutlich angenehmer.",
+          "Vermeiden Sie die Hauptstraße (Magistrale) während der Stoßzeiten."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a Staro Selóból való leereszkedés előtt.",
+          "Egy elektromos kerékpárral sokkal kényelmesebb a feljutás.",
+          "Kerülje a főutat (Magisztrálé) a csúcsforgalom idején."
+        ],
+        "ro": [
+          "Verificați frânele înainte de a coborî din Staro Selo.",
+          "O bicicletă electrică face urcarea mult mai plăcută.",
+          "Evitați drumul principal (Magistrala) în orele de vârf."
+        ],
+        "en": [
+          "Check your brakes before descending from Staro Selo.",
+          "An e-bike makes the climb to the village much more comfortable.",
+          "Avoid the main road (Magistrala) during rush hours."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Staro Selo Jesenice",
+          "coords": [
+            16.608,
+            43.468
+          ],
+          "category": "historical",
+          "arrive_at": "09:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Dorfeingang und erkunden Sie den historischen Kern.",
+            "hu": "Parkoljon a falu szélén, és fedezze fel a történelmi magot.",
+            "ro": "Parcați la intrarea în sat și explorați nucleul istoric.",
+            "en": "Park at the village entrance and explore the historic core."
+          }
+        },
+        {
+          "name": "Crkva sv. Nikole",
+          "coords": [
+            16.606,
+            43.469
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Fußweg führt zur Kirche mit tollem Panorama.",
+            "hu": "Rövid séta a templomhoz, ahonnan remek a panoráma.",
+            "ro": "O scurtă plimbare duce la biserică cu o panoramă grozavă.",
+            "en": "A short walk leads to the church with a great panorama."
+          }
+        },
+        {
+          "name": "Luka Krilo",
+          "coords": [
+            16.595,
+            43.458
+          ],
+          "category": "harbor",
+          "arrive_at": "11:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Fahren Sie hinunter zum Hafenbecken von Krilo.",
+            "hu": "Hajtson le Krilo kikötőjéhez.",
+            "ro": "Conduceți jos până la bazinul portuar din Krilo.",
+            "en": "Drive down to the harbor basin of Krilo."
+          }
+        },
+        {
+          "name": "Mittagessen in der Konoba",
+          "coords": [
+            16.594,
+            43.458
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Grillgerichte direkt am Meer.",
+            "hu": "Élvezze a helyi grillételeket közvetlenül a tengerparton.",
+            "ro": "Bucurați-vă de preparate locale la grătar chiar lângă mare.",
+            "en": "Enjoy local grilled dishes right by the sea."
+          }
+        },
+        {
+          "name": "Plaža Mutogras",
+          "coords": [
+            16.585,
+            43.465
+          ],
+          "category": "beach",
+          "arrive_at": "14:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Es gibt Parkplätze in der Nähe des Strandes.",
+            "hu": "A strand közelében találhatók parkolóhelyek.",
+            "ro": "Există locuri de parcare în apropierea plajei.",
+            "en": "There are parking spaces available near the beach."
+          }
+        },
+        {
+          "name": "Spaziergang an der Riva",
+          "coords": [
+            16.584,
+            43.466
+          ],
+          "category": "harbor",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein entspannter Gang am Ufer entlang.",
+            "hu": "Egy nyugodt séta a parton.",
+            "ro": "O plimbare relaxată pe mal.",
+            "en": "A relaxed stroll along the shore."
+          }
+        },
+        {
+          "name": "Sonnenuntergangs-Punkt",
+          "coords": [
+            16.583,
+            43.467
+          ],
+          "category": "sunset",
+          "arrive_at": "17:25",
+          "stay_min": 20,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für das perfekte Foto.",
+            "hu": "Rövid megálló a tökéletes fotóért.",
+            "ro": "O scurtă oprire pentru fotografia perfectă.",
+            "en": "Short stop for the perfect photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die beiden kontrastreichen Teile von Jesenice. Zuerst erkunden Sie das historische Bergdorf Staro Selo und die Kirche Sv. Nikola. Danach führt die Fahrt an die Küste zum Hafen von Krilo und schließlich zum entspannten Strand von Mutogras. Die kurzen Fahrzeiten lassen viel Raum für lange Badepausen und ausgiebiges Essen.",
+        "hu": "Autóval kényelmesen elérheti Jesenice két ellentétes arcát. Először fedezze fel a történelmi hegyi falut, Staro Selót és a Szent Miklós templomot. Ezután az út a tengerpartra vezet Krilo kikötőjéhez, végül pedig a pihentető Mutogras strandhoz. A rövid menetidők sok időt hagynak a fürdőzésre és a bőséges ebédre.",
+        "ro": "Cu mașina puteți ajunge ușor în cele două părți contrastante ale Jesenice. Mai întâi explorați satul istoric de munte Staro Selo și biserica Sf. Nicolae. Apoi, drumul duce la coastă, în portul Krilo, și în final la plaja relaxantă Mutogras. Timpii scurți de condus lasă mult spațiu pentru pauze lungi de baie și o masă copioasă.",
+        "en": "By car, you can easily reach the two contrasting parts of Jesenice. First, explore the historic mountain village of Staro Selo and the Church of St. Nicholas. Then, head down to the coast to the harbor of Krilo and finally to the relaxing Mutogras beach. Short driving times leave plenty of room for long swim breaks and a hearty meal."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lamm am Spieß",
+            "tip": "Eine Spezialität in den Bergrestaurants der Umgebung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sült bárány",
+            "tip": "A környékbeli hegyi éttermek specialitása."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Miel la proțap",
+            "tip": "O specialitate în restaurantele montane din zonă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Spit-roasted lamb",
+            "tip": "A specialty in the mountain restaurants of the area."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Sv. Nikola Kirchhof",
+            "tip": "Wunderschöner Aussichtspunkt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Miklós templomkert",
+            "tip": "Csodálatos kilátópont.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea bisericii Sf. Nicolae",
+            "tip": "Un punct de belvedere minunat.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Nicholas Churchyard",
+            "tip": "Beautiful viewpoint.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Wein",
+            "tip": "Kaufen Sie lokalen Wein direkt bei den Kellereien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bor",
+            "tip": "Vásároljon helyi bort közvetlenül a pincészetektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin",
+            "tip": "Cumpărați vin local direct de la crame."
+          }
+        ],
+        "en": [
+          {
+            "name": "Wine",
+            "tip": "Buy local wine directly from the wineries."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen zum Bergdorf sind schmal und kurvig.",
+          "Parkplätze am Strand Mutogras sind im Hochsommer schnell voll.",
+          "Nutzen Sie den Wagen, um auch das nahegelegene Omiš zu besuchen."
+        ],
+        "hu": [
+          "A hegyi faluba vezető utak szűkek és kanyargósak.",
+          "A Mutogras strand parkolói nyáron hamar megtelnek.",
+          "Használja az autót a közeli Omiš felkeresésére is."
+        ],
+        "ro": [
+          "Drumurile spre satul de munte sunt înguste și șerpuite.",
+          "Parcările de la plaja Mutogras se umplu repede în plină vară.",
+          "Folosiți mașina pentru a vizita și orașul Omiș din apropiere."
+        ],
+        "en": [
+          "The roads to the mountain village are narrow and winding.",
+          "Parking at Mutogras beach fills up quickly in peak summer.",
+          "Use the car to also visit nearby Omiš."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Staro Selo Jesenice",
+          "coords": [
+            16.608,
+            43.468
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Lokale Busse oder Taxis bringen Sie vom Küstenort hinauf.",
+            "hu": "Helyi busz vagy taxi visz fel a tengerpartról.",
+            "ro": "Autobuzele locale sau taxiurile vă duc sus de pe coastă.",
+            "en": "Local buses or taxis take you up from the coastal town."
+          }
+        },
+        {
+          "name": "Luka Krilo",
+          "coords": [
+            16.595,
+            43.458
+          ],
+          "category": "harbor",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Die Bushaltestelle liegt direkt an der Hauptstraße beim Hafen.",
+            "hu": "A buszmegálló közvetlenül a főúton, a kikötőnél van.",
+            "ro": "Stația de autobuz este direct pe drumul principal, lângă port.",
+            "en": "The bus stop is right on the main road by the harbor."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            16.594,
+            43.458
+          ],
+          "category": "gastro",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe in einem der kleinen Restaurants.",
+            "hu": "Élvezze a nyugalmat az egyik kis étteremben.",
+            "ro": "Bucurați-vă de liniște într-unul dintre micile restaurante.",
+            "en": "Enjoy the tranquility in one of the small restaurants."
+          }
+        },
+        {
+          "name": "Plaža Mutogras",
+          "coords": [
+            16.585,
+            43.465
+          ],
+          "category": "beach",
+          "arrive_at": "14:10",
+          "stay_min": 150,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Linienbus 60 hält ganz in der Nähe des Strandes.",
+            "hu": "A 60-as busz megállója nagyon közel van a strandhoz.",
+            "ro": "Autobuzul 60 oprește foarte aproape de plajă.",
+            "en": "The line 60 bus stops very close to the beach."
+          }
+        },
+        {
+          "name": "Eispause am Meer",
+          "coords": [
+            16.584,
+            43.466
+          ],
+          "category": "gastro",
+          "arrive_at": "16:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein leckeres Eis zum Abschluss des Tages.",
+            "hu": "Egy finom fagylalt a nap végére.",
+            "ro": "O înghețată delicioasă la finalul zilei.",
+            "en": "A delicious ice cream to end the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der guten Busverbindung entlang der Küste (Linie 60 zwischen Split und Omiš) ist Jesenice leicht zu erkunden. Der Tag verbindet den Besuch des alten Bergdorfs mit dem geschäftigen Treiben im Hafen von Krilo und entspannten Stunden am Strand von Mutogras. Alles ist ohne eigenes Auto machbar, wenn man die kurzen Busfahrten nutzt.",
+        "hu": "A part menti jó buszközlekedésnek köszönhetően (60-as járat Split és Omiš között) Jesenice könnyen felfedezhető. A nap során ellátogathat a régi hegyi faluba, bepillanthat Krilo kikötőjének életébe, és lazíthat a Mutogras strandon. Minden elérhető autó nélkül is, a rövid buszutakat kihasználva.",
+        "ro": "Datorită legăturilor bune de autobuz de-a lungul coastei (linia 60 între Split și Omiș), Jesenice este ușor de explorat. Ziua combină vizita în satul vechi de munte cu activitatea din portul Krilo și orele de relaxare pe plaja Mutogras. Totul este realizabil fără mașină personală, folosind scurte călătorii cu autobuzul.",
+        "en": "Thanks to the good bus connections along the coast (line 60 between Split and Omiš), Jesenice is easy to explore. The day combines a visit to the old mountain village with the hustle and bustle of Krilo harbor and relaxing hours at Mutogras beach. Everything is doable without a car by using short bus rides."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Hausgemachtes Eis",
+            "tip": "Fragen Sie nach lokalen Fruchtgeschmacksrichtungen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Házi fagylalt",
+            "tip": "Kérje a helyi gyümölcsös ízeket."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Înghețată de casă",
+            "tip": "Întrebați de aromele locale de fructe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Homemade Ice Cream",
+            "tip": "Ask for local fruit flavors."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hafenmauer",
+            "tip": "Abends ein ruhiger Ort zum Sitzen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötőmóló",
+            "tip": "Esténként nyugodt hely a pihenésre.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Digul portului",
+            "tip": "Un loc liniștit pentru șezut seara.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Wall",
+            "tip": "A quiet place to sit in the evening.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kräuter",
+            "tip": "Getrockneter Rosmarin und Lavendel aus der Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Gyógynövények",
+            "tip": "Szárított rozmaring és levendula a környékről."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ierburi",
+            "tip": "Rozmarin și lavandă uscată din regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Herbs",
+            "tip": "Dried rosemary and lavender from the region."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Bus 60 fährt alle 20-30 Minuten.",
+          "Kaufen Sie Tickets direkt beim Fahrer oder per App.",
+          "Die Haltestellen sind gut markiert, aber achten Sie auf den Namen 'Krilo'."
+        ],
+        "hu": [
+          "A 60-as busz 20-30 percenként jár.",
+          "Vásároljon jegyet a sofőrnél vagy az applikációban.",
+          "A megállók jól jelzettek, figyelje a 'Krilo' nevet."
+        ],
+        "ro": [
+          "Autobuzul 60 circulă la fiecare 20-30 de minute.",
+          "Cumpărați bilete direct de la șofer sau prin aplicație.",
+          "Stațiile sunt bine marcate, căutați numele 'Krilo'."
+        ],
+        "en": [
+          "Bus 60 runs every 20-30 minutes.",
+          "Buy tickets directly from the driver or via the app.",
+          "The stops are well marked, look for the name 'Krilo'."
+        ]
+      }
+    }
+  }
+}

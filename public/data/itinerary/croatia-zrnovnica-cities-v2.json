@@ -1,0 +1,976 @@
+{
+  "city_id": "croatia-zrnovnica-cities-v2",
+  "anchor": {
+    "name": "Žrnovnica",
+    "coords": [
+      43.521,
+      16.559
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Crkva sv. Ante",
+          "coords": [
+            43.5215,
+            16.5585
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lokale Architektur der Pfarrkirche.",
+            "hu": "Csodálja meg a plébániatemplom helyi építészetét.",
+            "ro": "Admirați arhitectura locală a bisericii parohiale.",
+            "en": "Admire the local architecture of the parish church."
+          }
+        },
+        {
+          "name": "Lokales Café an der Riva",
+          "coords": [
+            43.5205,
+            16.5595
+          ],
+          "category": "gastro",
+          "arrive_at": "10:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Morgenkaffee wie ein Einheimischer.",
+            "hu": "Igyon egy reggeli kávét, mint egy helyi.",
+            "ro": "Beți o cafea de dimineață ca un localnic.",
+            "en": "Have a morning coffee like a local."
+          }
+        },
+        {
+          "name": "Rijeka Žrnovnica",
+          "coords": [
+            43.519,
+            16.561
+          ],
+          "category": "park",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des kühlen Flussufers.",
+            "hu": "Sétáljon a hűvös folyópart mentén.",
+            "ro": "Plimbați-vă pe malul răcoros al râului.",
+            "en": "Walk along the cool riverbank."
+          }
+        },
+        {
+          "name": "Antoničin mlin",
+          "coords": [
+            43.518,
+            16.562
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die alte Wassermühle am Fluss.",
+            "hu": "Látogasson el a folyóparti régi vízimalomhoz.",
+            "ro": "Vizitați vechea moară de apă de lângă râu.",
+            "en": "Visit the old water mill by the river."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            43.52,
+            16.56
+          ],
+          "category": "gastro",
+          "arrive_at": "13:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie Soparnik, die lokale Spezialität.",
+            "hu": "Kóstolja meg a soparnikot, a helyi különlegességet.",
+            "ro": "Gustați soparnik, specialitatea locală.",
+            "en": "Try soparnik, the local specialty."
+          }
+        },
+        {
+          "name": "Kava (Kamenolom)",
+          "coords": [
+            43.525,
+            16.555
+          ],
+          "category": "historical",
+          "arrive_at": "14:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Drehort von Game of Thrones.",
+            "hu": "Fedezze fel a Trónok harca forgatási helyszínét.",
+            "ro": "Explorați locația de filmare Game of Thrones.",
+            "en": "Explore the Game of Thrones filming location."
+          }
+        },
+        {
+          "name": "Aussichtspunkt zum Sonnenuntergang",
+          "coords": [
+            43.523,
+            16.557
+          ],
+          "category": "sunset",
+          "arrive_at": "16:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf das Mosor-Gebirge.",
+            "hu": "Élvezze a kilátást a Mosor-hegységre.",
+            "ro": "Bucurați-vă de priveliștea spre munții Mosor.",
+            "en": "Enjoy the view towards the Mosor mountains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Zentrum von Žrnovnica bei der Kirche St. Antonius, einem friedlichen Ort am Fuße des Mosor-Gebirges. Genießen Sie danach einen gemütlichen Kaffee im Dorfzentrum, bevor Sie zum Flussufer aufbrechen. Der Spaziergang entlang der Žrnovnica ist besonders an heißen Tagen erfrischend und führt Sie direkt zur historischen Antoničin-Mühle, wo die Zeit stehen geblieben scheint. Mittags locken die lokalen Konobas mit authentischer dalmatinischer Küche. Der Nachmittag gehört dem beeindruckenden Steinbruch Kava, bekannt als Drehort für Meereen in Game of Thrones. Beenden Sie den Tag mit einem weiten Blick über das Tal, während die Sonne hinter den Bergen versinkt.",
+        "hu": "Kezdje a napot Žrnovnica központjában, a Szent Antal-templomnál, amely a Mosor-hegység lábánál fekvő békés helyszín. Ezután élvezzen egy kényelmes kávét a falu központjában, mielőtt a folyópart felé indulna. A Žrnovnica folyó menti séta különösen frissítő a forró napokon, és közvetlenül a történelmi Antoničin-malomhoz vezet, ahol megállt az idő. Ebédre a helyi konobák autentikus dalmát ételekkel várják. A délután az impozáns Kava kőbányáé, amely a Trónok harca Meereen helyszíneként vált ismertté. A napot a völgyre nyíló tágas kilátással zárja, ahogy a nap lebukik a hegyek mögött.",
+        "ro": "Începeți ziua în centrul localității Žrnovnica, la biserica Sfântul Anton, un loc liniștit la poalele muntelui Mosor. Savurați apoi o cafea relaxantă în centrul satului înainte de a porni spre malul râului. Plimbarea de-a lungul râului Žrnovnica este deosebit de răcoritoare în zilele toride și vă duce direct la moara istorică Antoničin, unde timpul pare să fi stat în loc. La prânz, konobele locale vă atrag cu bucătărie dalmată autentică. După-amiaza este dedicată impresionantei cariere de piatră Kava, cunoscută ca locație de filmare pentru Meereen în Game of Thrones. Încheiați ziua cu o priveliște panoramică asupra văii, în timp ce soarele apune după munți.",
+        "en": "Start your day in the center of Žrnovnica at the Church of St. Anthony, a peaceful spot at the foot of the Mosor mountains. Afterward, enjoy a leisurely coffee in the village center before heading to the riverbank. The walk along the Žrnovnica river is especially refreshing on hot days and leads you directly to the historic Antoničin Mill, where time seems to have stood still. For lunch, local konobas entice with authentic Dalmatian cuisine. The afternoon is dedicated to the impressive Kava quarry, famous as a filming location for Meereen in Game of Thrones. End the day with a wide view over the valley as the sun sets behind the mountains."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Rus",
+            "tip": "Berühmt für Fleischgerichte am Flussufer."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "Ein traditioneller Mangoldkuchen aus dieser Region."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Rus",
+            "tip": "Híres húsételek a folyóparton."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "Hagyományos mángoldos pite ebből a régióból."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Rus",
+            "tip": "Faimos pentru preparate din carne pe malul râului."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "O plăcintă tradițională cu mangold din această regiune."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Rus",
+            "tip": "Famous for meat dishes by the riverbank."
+          },
+          {
+            "name": "Soparnik",
+            "tip": "A traditional chard pie from this region."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Antoničin mlin",
+            "tip": "Ein ruhiger Ort mit dem Rauschen des Wassers.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Flusspfad",
+            "tip": "Schatten und Natur pur.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antoničin mlin",
+            "tip": "Csendes hely a víz csobogásával.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Folyóparti ösvény",
+            "tip": "Árnyék és tiszta természet.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Antoničin mlin",
+            "tip": "Un loc liniștit cu susurul apei.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "Poteca râului",
+            "tip": "Umbră și natură pură.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Antoničin mlin",
+            "tip": "A quiet spot with the sound of rushing water.",
+            "emoji": "🏞️"
+          },
+          {
+            "name": "River path",
+            "tip": "Shade and pure nature.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt",
+            "tip": "Frisches Obst und Gemüse aus dem Tal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi piac",
+            "tip": "Friss gyümölcs és zöldség a völgyből."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală",
+            "tip": "Fructe și legume proaspete din vale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local market",
+            "tip": "Fresh fruit and vegetables from the valley."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe für den Steinbruch.",
+          "Die Temperatur am Fluss ist immer 2-3 Grad kühler.",
+          "Žrnovnica ist ideal, um der Hitze von Split zu entfliehen.",
+          "Soparnik muss man vorbestellen oder auf dem Markt suchen."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a kőbányához.",
+          "A folyóparton mindig 2-3 fokkal hűvösebb van.",
+          "Žrnovnica ideális hely a spliti hőség elől való menekülésre.",
+          "A soparnikot érdemes előre rendelni vagy a piacon keresni."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili pentru cariera de piatră.",
+          "Temperatura pe malul râului este mereu cu 2-3 grade mai mică.",
+          "Žrnovnica este ideală pentru a scăpa de căldura din Split.",
+          "Soparnik trebuie precomandat sau căutat în piață."
+        ],
+        "en": [
+          "Wear comfortable shoes for the quarry walk.",
+          "The temperature by the river is always 2-3 degrees cooler.",
+          "Žrnovnica is ideal for escaping the heat of Split.",
+          "Soparnik often needs to be pre-ordered or found at markets."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Rijeka Žrnovnica (Radweg)",
+          "coords": [
+            43.515,
+            16.55
+          ],
+          "category": "park",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahren Sie auf dem flachen Weg entlang des Flusses.",
+            "hu": "Tekerjen a folyó menti sík úton.",
+            "ro": "Pedalați pe drumul plat de-a lungul râului.",
+            "en": "Cycle on the flat path along the river."
+          }
+        },
+        {
+          "name": "Antoničin mlin",
+          "coords": [
+            43.518,
+            16.562
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad und genießen Sie die Ruhe.",
+            "hu": "Parkolja le a bringát és élvezze a csendet.",
+            "ro": "Parcați bicicleta și bucurați-vă de liniște.",
+            "en": "Park your bike and enjoy the peace."
+          }
+        },
+        {
+          "name": "Crkva sv. Ante",
+          "coords": [
+            43.5215,
+            16.5585
+          ],
+          "category": "religious",
+          "arrive_at": "11:05",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp im Dorfzentrum.",
+            "hu": "Rövid megálló a falu központjában.",
+            "ro": "O scurtă oprire în centrul satului.",
+            "en": "A short stop in the village center."
+          }
+        },
+        {
+          "name": "Lunch & Erfrischung",
+          "coords": [
+            43.52,
+            16.56
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Füllen Sie Ihre Wasserflaschen am Brunnen auf.",
+            "hu": "Töltse fel kulacsait a kútnál.",
+            "ro": "Umpleți-vă sticlele de apă la fântână.",
+            "en": "Refill your water bottles at the fountain."
+          }
+        },
+        {
+          "name": "Kava (Kamenolom)",
+          "coords": [
+            43.525,
+            16.555
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Anspruchsvoller Weg hinauf zum Steinbruch.",
+            "hu": "Kihívást jelentő út felfelé a kőbányához.",
+            "ro": "Drum provocator în urcare spre carieră.",
+            "en": "Challenging path up to the quarry."
+          }
+        },
+        {
+          "name": "Panorama-Rückweg",
+          "coords": [
+            43.518,
+            16.545
+          ],
+          "category": "sunset",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Blick auf das Meer während der Abfahrt.",
+            "hu": "Kilátás a tengerre lefelé menet.",
+            "ro": "Vedere spre mare în timpul coborârii.",
+            "en": "Sea view during the descent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Žrnovnica mit dem Fahrrad, beginnend mit dem flachen Weg entlang des Flusses, der sich perfekt zum Aufwärmen eignet. Die Route führt Sie zur historischen Antoničin-Mühle und weiter durch das malerische Dorfzentrum zur Kirche St. Antonius. Nach einer stärkenden Mittagspause in einer lokalen Konoba steht der sportliche Teil an: der Anstieg zum Steinbruch Kava. Belohnt werden Sie mit spektakulären Ausblicken und dem Gefühl, an einem epischen Filmset zu stehen. Der Rückweg bergab bietet weite Panoramablicke bis hin zur Adria.",
+        "hu": "Fedezze fel Žrnovnicát kerékpárral, kezdve a folyó menti sík úttal, amely tökéletes a bemelegítéshez. Az útvonal a történelmi Antoničin-malomhoz vezet, majd a festői falu központján keresztül a Szent Antal-templomhoz. Egy frissítő ebéd után következik a sportos rész: az emelkedő a Kava kőbányához. A jutalom a látványos kilátás és az érzés, mintha egy epikus filmforgatáson járna. A lefelé vezető úton tágas panoráma nyílik egészen az Adriai-tengerig.",
+        "ro": "Descoperiți Žrnovnica cu bicicleta, începând cu drumul plat de-a lungul râului, perfect pentru încălzire. Traseul vă duce la moara istorică Antoničin și mai departe prin centrul pitoresc al satului spre biserica Sfântul Anton. După o pauză de prânz revigorantă, urmează partea sportivă: urcarea spre cariera Kava. Veți fi recompensați cu vederi spectaculoase și senzația de a fi pe un platou de filmare epic. Drumul de întoarcere la vale oferă panorame largi până la Marea Adriatică.",
+        "en": "Explore Žrnovnica by bike, starting with the flat path along the river, perfect for warming up. The route leads you to the historic Antoničin Mill and further through the picturesque village center to the Church of St. Anthony. After a strengthening lunch break, the sporty part follows: the climb to the Kava quarry. You'll be rewarded with spectacular views and the feeling of being on an epic film set. The descent back offers wide panoramic views all the way to the Adriatic Sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Mlin",
+            "tip": "Perfekt für Radfahrer, schattiger Garten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Mlin",
+            "tip": "Tökéletes bringásoknak, árnyékos kert."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Mlin",
+            "tip": "Perfect pentru bicicliști, grădină umbrită."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Mlin",
+            "tip": "Perfect for cyclists, shaded garden."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flussufer",
+            "tip": "Entspannung pur nach dem Treten.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyópart",
+            "tip": "Tiszta ellazulás a tekerés után.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Malul râului",
+            "tip": "Relaxare pură după pedalat.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Riverbank",
+            "tip": "Pure relaxation after pedaling.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Dorfladen",
+            "tip": "Lokaler Honig und Olivenöl."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falusi bolt",
+            "tip": "Helyi méz és olívaolaj."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul satului",
+            "tip": "Miere locală și ulei de măsline."
+          }
+        ],
+        "en": [
+          {
+            "name": "Village store",
+            "tip": "Local honey and olive oil."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie Ihre Bremsen für den Rückweg vom Steinbruch.",
+          "In Žrnovnica gibt es viele Trinkwasserbrunnen.",
+          "Meiden Sie die Hauptstraße nach Split zu Stoßzeiten.",
+          "Fahren Sie morgens, wenn es im Tal noch kühl ist."
+        ],
+        "hu": [
+          "Ellenőrizze a fékeket a kőbányából lefelé jövet.",
+          "Žrnovnicában sok az ivóvizes kút.",
+          "Csúcsidőben kerülje a Splitbe vezető főutat.",
+          "Tekerjen reggel, amikor még hűvös van a völgyben."
+        ],
+        "ro": [
+          "Verificați frânele pentru drumul de întoarcere de la carieră.",
+          "În Žrnovnica sunt multe fântâni cu apă potabilă.",
+          "Evitați drumul principal spre Split la orele de vârf.",
+          "Pedalați dimineața, când în vale este încă răcoare."
+        ],
+        "en": [
+          "Check your brakes for the descent from the quarry.",
+          "There are many drinking water fountains in Žrnovnica.",
+          "Avoid the main road to Split during rush hours.",
+          "Cycle in the morning while the valley is still cool."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 12.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Crkva sv. Ante (Zentrum)",
+          "coords": [
+            43.5215,
+            16.5585
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie im Dorfzentrum und erkunden Sie den Ortskern.",
+            "hu": "Parkoljon a falu központjában és fedezze fel a magot.",
+            "ro": "Parcați în centrul satului și explorați nucleul localității.",
+            "en": "Park in the village center and explore the core."
+          }
+        },
+        {
+          "name": "Kaffee-Stopp im Dorf",
+          "coords": [
+            43.5205,
+            16.5595
+          ],
+          "category": "gastro",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zweiter Stopp im Cluster: Kurzer Spaziergang zum Café.",
+            "hu": "Második megálló a klaszterben: rövid séta a kávézóhoz.",
+            "ro": "A doua oprire în cluster: scurtă plimbare până la cafenea.",
+            "en": "Second stop in the cluster: short walk to the cafe."
+          }
+        },
+        {
+          "name": "Antoničin mlin (Fluss-Cluster)",
+          "coords": [
+            43.518,
+            16.562
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fahrt zum Fluss, Parken bei der Mühle.",
+            "hu": "Autózás a folyóhoz, parkolás a malomnál.",
+            "ro": "Conduceți spre râu, parcați lângă moară.",
+            "en": "Drive to the river, park by the mill."
+          }
+        },
+        {
+          "name": "Rijeka Žrnovnica (Spaziergang)",
+          "coords": [
+            43.519,
+            16.561
+          ],
+          "category": "park",
+          "arrive_at": "11:55",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zu Fuß von der Mühle entlang des Wassers.",
+            "hu": "Gyalog a malomtól a víz mentén.",
+            "ro": "Pe jos de la moară de-a lungul apei.",
+            "en": "On foot from the mill along the water."
+          }
+        },
+        {
+          "name": "Mittagessen in der Konoba",
+          "coords": [
+            43.52,
+            16.56
+          ],
+          "category": "gastro",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Authentisches Essen im Fluss-Cluster.",
+            "hu": "Autentikus étkezés a folyó-klaszterben.",
+            "ro": "Masă autentică în clusterul râului.",
+            "en": "Authentic dining in the river cluster."
+          }
+        },
+        {
+          "name": "Kava (Kamenolom)",
+          "coords": [
+            43.525,
+            16.555
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 65,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahrt hinauf zum Steinbruch für das Finale.",
+            "hu": "Autózás fel a kőbányához a fináléra.",
+            "ro": "Conduceți spre carieră pentru final.",
+            "en": "Drive up to the quarry for the finale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lässt sich Žrnovnica bequem in Clustern erkunden. Parken Sie zuerst im Zentrum, um die Kirche St. Antonius und das Dorfleben zu genießen. Danach führt die Fahrt zum Flussufer-Cluster, wo Sie die historische Antoničin-Mühle besuchen und einen entspannten Spaziergang am Wasser unternehmen, gefolgt von einem Mittagessen. Den Abschluss bildet die kurze Fahrt zum imposanten Steinbruch Kava, der mit seiner monumentalen Kulisse beeindruckt.",
+        "hu": "Autóval Žrnovnica kényelmesen felfedezhető klaszterekben. Először parkoljon a központban, hogy élvezze a Szent Antal-templomot és a falusi életet. Ezután az út a folyóparti klaszterhez vezet, ahol meglátogatja a történelmi Antoničin-malmot és tesz egy pihentető sétát a víznél, amit egy ebéd követ. A napot a rövid autózás zárja az impozáns Kava kőbányához, amely monumentális díszleteivel nyűgöz le.",
+        "ro": "Cu mașina, Žrnovnica poate fi explorată confortabil în clustere. Parcați mai întâi în centru pentru a vă bucura de biserica Sfântul Anton și de viața satului. Apoi, drumul duce spre clusterul de pe malul râului, unde vizitați moara istorică Antoničin și faceți o plimbare relaxantă pe malul apei, urmată de prânz. Ziua se încheie cu o scurtă călătorie spre cariera impresionantă Kava, care impresionează prin decorul său monumental.",
+        "en": "By car, Žrnovnica can be comfortably explored in clusters. First, park in the center to enjoy the Church of St. Anthony and village life. Then, the drive leads to the riverbank cluster, where you visit the historic Antoničin Mill and take a relaxing walk by the water, followed by lunch. The day concludes with a short drive to the imposing Kava quarry, which impresses with its monumental backdrop."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Rus",
+            "tip": "Gute Parkmöglichkeiten und tolles Ambiente."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Rus",
+            "tip": "Jó parkolási lehetőség és remek hangulat."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Rus",
+            "tip": "Locuri bune de parcare și ambianță grozavă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Rus",
+            "tip": "Good parking options and great ambiance."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Mühle Antoničin",
+            "tip": "Idyllischer Rückzugsort.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Antoničin malom",
+            "tip": "Idilli búvóhely.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Moara Antoničin",
+            "tip": "Refugiu idilic.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Antoničin Mill",
+            "tip": "Idyllic retreat.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Honigstand",
+            "tip": "Direkt an der Straße zum Mosor."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mézes bódé",
+            "tip": "Közvetlenül a Mosor felé vezető úton."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Stand de miere",
+            "tip": "Direct pe drumul spre Mosor."
+          }
+        ],
+        "en": [
+          {
+            "name": "Honey stand",
+            "tip": "Right on the road towards Mosor."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen im alten Teil sind eng, nutzen Sie den zentralen Parkplatz.",
+          "Zum Steinbruch führt ein Schotterweg, fahren Sie vorsichtig.",
+          "Žrnovnica ist nur 15 Minuten von Split entfernt.",
+          "Ideal für einen Halbtagesausflug mit dem Auto."
+        ],
+        "hu": [
+          "A régi rész utcái szűkek, használja a központi parkolót.",
+          "A kőbányához murvás út vezet, vezessen óvatosan.",
+          "Žrnovnica mindössze 15 percre van Splittől.",
+          "Ideális félnapos kiránduláshoz autóval."
+        ],
+        "ro": [
+          "Străzile din partea veche sunt înguste, folosiți parcarea centrală.",
+          "Spre carieră duce un drum cu pietriș, conduceți cu atenție.",
+          "Žrnovnica este la doar 15 minute de Split.",
+          "Ideal pentru o excursie de jumătate de zi cu mașina."
+        ],
+        "en": [
+          "The streets in the old part are narrow, use the central parking lot.",
+          "A gravel road leads to the quarry, drive carefully.",
+          "Žrnovnica is only 15 minutes away from Split.",
+          "Ideal for a half-day trip by car."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Bushaltestelle Zentrum",
+          "coords": [
+            43.521,
+            16.559
+          ],
+          "category": "square",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ankunft mit der Linie 27 aus Split.",
+            "hu": "Érkezés a 27-es busszal Splittől.",
+            "ro": "Sosire cu linia 27 din Split.",
+            "en": "Arrival with bus line 27 from Split."
+          }
+        },
+        {
+          "name": "Crkva sv. Ante",
+          "coords": [
+            43.5215,
+            16.5585
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg von der Haltestelle.",
+            "hu": "Rövid séta a megállótól.",
+            "ro": "Scurtă plimbare de la stație.",
+            "en": "Short walk from the stop."
+          }
+        },
+        {
+          "name": "Rijeka Žrnovnica & Mlin",
+          "coords": [
+            43.518,
+            16.562
+          ],
+          "category": "historical",
+          "arrive_at": "10:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spaziergang zum Flussufer-Cluster.",
+            "hu": "Séta a folyóparti klaszterhez.",
+            "ro": "Plimbare spre clusterul de pe malul râului.",
+            "en": "Walk to the riverbank cluster."
+          }
+        },
+        {
+          "name": "Mittagessen im Ort",
+          "coords": [
+            43.52,
+            16.56
+          ],
+          "category": "gastro",
+          "arrive_at": "12:25",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe fernab der Stadt.",
+            "hu": "Élvezze a nyugalmat távol a várostól.",
+            "ro": "Bucurați-vă de liniște departe de oraș.",
+            "en": "Enjoy the peace away from the city."
+          }
+        },
+        {
+          "name": "Kava (Kamenolom)",
+          "coords": [
+            43.525,
+            16.555
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Längerer Fußweg, aber lohnenswert.",
+            "hu": "Hosszabb séta, de megéri.",
+            "ro": "O plimbare mai lungă, dar merită.",
+            "en": "Longer walk, but worth it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie den lokalen Bus aus Split, um Žrnovnica stressfrei zu erreichen. Nach der Ankunft im Zentrum erkunden Sie die Kirche St. Antonius und spazieren gemütlich zum Fluss. Das Cluster am Flussufer mit der Antoničin-Mühle ist das Herzstück des Ausflugs. Nach einem ausgiebigen Mittagessen führt ein Spaziergang zum Steinbruch Kava, bevor Sie mit dem Bus am Nachmittag zurückfahren.",
+        "hu": "Használja a helyi buszt Splittől, hogy stresszmentesen érje el Žrnovnicát. A központba érkezés után fedezze fel a Szent Antal-templomot, majd sétáljon le a folyóhoz. A folyóparti klaszter az Antoničin-malommal a kirándulás fénypontja. Egy kiadós ebéd után séta vezet a Kava kőbányához, mielőtt délután busszal indulna vissza.",
+        "ro": "Folosiți autobuzul local din Split pentru a ajunge fără stres în Žrnovnica. După sosirea în centru, explorați biserica Sfântul Anton și plimbați-vă relaxat spre râu. Clusterul de pe malul râului cu moara Antoničin este inima excursiei. După un prânz copios, o plimbare vă duce la cariera Kava, înainte de a vă întoarce cu autobuzul după-amiaza.",
+        "en": "Use the local bus from Split to reach Žrnovnica stress-free. After arriving in the center, explore the Church of St. Anthony and take a pleasant walk to the river. The riverbank cluster with the Antoničin Mill is the heart of the trip. After a hearty lunch, a walk leads to the Kava quarry before heading back by bus in the afternoon."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Lokale Bäckerei",
+            "tip": "Holen Sie sich Snacks für den Weg zum Steinbruch."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi pékség",
+            "tip": "Vigyen harapnivalót a kőbányához vezető útra."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutărie locală",
+            "tip": "Luați gustări pentru drumul spre carieră."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local bakery",
+            "tip": "Get some snacks for the walk to the quarry."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Flusspfad",
+            "tip": "Ideal zum Lesen und Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Folyóparti ösvény",
+            "tip": "Ideális olvasáshoz és pihenéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Poteca râului",
+            "tip": "Ideală pentru citit și relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "River path",
+            "tip": "Ideal for reading and relaxing.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirs aus Stein",
+            "tip": "Kleine handgemachte Stücke im Ort."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kőből készült szuvenírek",
+            "tip": "Kézzel készült apróságok a faluban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri din piatră",
+            "tip": "Mici piese lucrate manual în sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Stone souvenirs",
+            "tip": "Small handmade pieces in the village."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Prüfen Sie den Fahrplan der Linien 27 und 28 vorab.",
+          "Die Bushaltestelle liegt direkt am Hauptplatz.",
+          "Kaufen Sie Tickets beim Fahrer oder am Kiosk in Split.",
+          "Vermeiden Sie die Mittagshitze beim Aufstieg zum Steinbruch."
+        ],
+        "hu": [
+          "Előre ellenőrizze a 27-es és 28-as busz menetrendjét.",
+          "A buszmegálló közvetlenül a főtéren van.",
+          "Vegyen jegyet a sofőrnél vagy a spliti kioszkokban.",
+          "A kőbányához vezető emelkedőt kerülje a déli hőségben."
+        ],
+        "ro": [
+          "Verificați orarul liniilor 27 și 28 în prealabil.",
+          "Stația de autobuz este chiar în piața principală.",
+          "Cumpărați bilete de la șofer sau de la chioșcurile din Split.",
+          "Evitați căldura amiezii pentru urcarea spre carieră."
+        ],
+        "en": [
+          "Check the schedule of lines 27 and 28 in advance.",
+          "The bus stop is right on the main square.",
+          "Buy tickets from the driver or at kiosks in Split.",
+          "Avoid the midday heat for the walk up to the quarry."
+        ]
+      }
+    }
+  }
+}

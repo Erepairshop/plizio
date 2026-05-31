@@ -1,0 +1,1018 @@
+{
+  "city_id": "croatia-veprinac-cities-v2",
+  "anchor": {
+    "name": "Veprinac",
+    "coords": [
+      14.2831,
+      45.3339
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 1.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Gradska vrata",
+          "coords": [
+            14.2828,
+            45.3335
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spüren Sie die mittelalterliche Atmosphäre unter dem steinernen Torbogen.",
+            "hu": "Érezze a középkori hangulatot a kőboltozat alatt.",
+            "ro": "Simțiți atmosfera medievală sub arcada de piatră.",
+            "en": "Feel the medieval atmosphere under the stone archway."
+          }
+        },
+        {
+          "name": "Crkvica Svete Ane",
+          "coords": [
+            14.2825,
+            45.3332
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fresken in dieser kleinen, intimen Kapelle.",
+            "hu": "Csodálja meg a freskókat ebben a kicsi, meghitt kápolnában.",
+            "ro": "Admirați frescele din această mică și intimă capelă.",
+            "en": "Admire the frescoes in this small, intimate chapel."
+          }
+        },
+        {
+          "name": "Etno zbirka Veprinac",
+          "coords": [
+            14.283,
+            45.3338
+          ],
+          "category": "museum",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie, wie die Einheimischen früher in den Bergen lebten.",
+            "hu": "Fedezze fel, hogyan éltek egykor a helyiek a hegyekben.",
+            "ro": "Descoperiți cum trăiau localnicii odinioară în munți.",
+            "en": "Discover how locals used to live in the mountains."
+          }
+        },
+        {
+          "name": "Crkva Svetog Marka",
+          "coords": [
+            14.2833,
+            45.334
+          ],
+          "category": "religious",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die Kirche bietet einen majestätischen Blick auf die Kvarner-Bucht.",
+            "hu": "A templom fenséges kilátást nyújt a Kvarner-öbölre.",
+            "ro": "Biserica oferă o vedere maiestuoasă asupra golfului Kvarner.",
+            "en": "The church offers a majestic view of the Kvarner Bay."
+          }
+        },
+        {
+          "name": "Aussichtspunkt Belvedere",
+          "coords": [
+            14.2835,
+            45.3345
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für Panoramafotos von Rijeka und den Inseln.",
+            "hu": "Tökéletes hely panorámafotókhoz Fiuméről és a szigetekről.",
+            "ro": "Locul perfect pentru fotografii panoramice cu Rijeka și insulele.",
+            "en": "The perfect spot for panoramic photos of Rijeka and the islands."
+          }
+        },
+        {
+          "name": "Mittagessen in der Konoba",
+          "coords": [
+            14.282,
+            45.333
+          ],
+          "category": "gastro",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie lokale Spezialitäten wie Maneštra oder hausgemachte Pasta.",
+            "hu": "Kóstolja meg a helyi különlegességeket, mint a maneštra vagy a házi tészta.",
+            "ro": "Gustați specialități locale precum maneštra sau pastele de casă.",
+            "en": "Taste local specialties like maneštra or homemade pasta."
+          }
+        },
+        {
+          "name": "Panoramaweg Waldspaziergang",
+          "coords": [
+            14.284,
+            45.335
+          ],
+          "category": "park",
+          "arrive_at": "15:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein entspannter Spaziergang durch die unberührte Natur von Učka.",
+            "hu": "Pihentető séta az Učka érintetlen természetében.",
+            "ro": "O plimbare relaxantă prin natura neatinsă de pe Učka.",
+            "en": "A relaxing stroll through the untouched nature of Učka."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt im Herzen des mittelalterlichen Veprinac, wo wir durch das antike Stadttor in die Geschichte eintauchen. Nach dem Besuch der charmanten Kapellen und der ethnografischen Sammlung genießen wir die Stille der Berge. Das Mittagessen in einer traditionellen Konoba bietet authentische Aromen, bevor wir den Tag mit einem Spaziergang und einem atemberaubenden Blick auf das Meer ausklingen lassen.",
+        "hu": "A délelőtt a középkori Veprinac szívében kezdődik, ahol az ősi városkapun keresztül merülünk el a történelemben. A bájos kápolnák és a néprajzi gyűjtemény megtekintése után élvezzük a hegyek csendjét. Az ebéd egy hagyományos konobában hiteles ízeket kínál, mielőtt a napot egy sétával és a tengerre nyíló lélegzetelállító kilátással zárnánk.",
+        "ro": "Dimineața începe în inima orașului medieval Veprinac, unde pătrundem în istorie prin vechea poartă a orașului. După vizitarea capelelor fermecătoare și a colecției etnografice, ne bucurăm de liniștea munților. Prânzul într-o konoba tradițională oferă arome autentice, înainte de a încheia ziua cu o plimbare și o vedere uluitoare asupra mării.",
+        "en": "The morning begins in the heart of medieval Veprinac, where we immerse ourselves in history through the ancient city gate. After visiting the charming chapels and the ethnographic collection, we enjoy the silence of the mountains. Lunch in a traditional konoba offers authentic flavors before ending the day with a stroll and a breathtaking view of the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Veprinac",
+            "tip": "Hausgemachte Fuži mit Trüffeln aus der Region."
+          },
+          {
+            "name": "Lokalhonig",
+            "tip": "Kaufen Sie Salbeihonig direkt von den Imkern auf dem Berg."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Veprinac",
+            "tip": "Házi fuži tészta helyi szarvasgombával."
+          },
+          {
+            "name": "Helyi méz",
+            "tip": "Vásároljon zsályamézet közvetlenül a hegyi méhészektől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Veprinac",
+            "tip": "Paste fuži de casă cu trufe locale."
+          },
+          {
+            "name": "Miere locală",
+            "tip": "Cumpărați miere de salvie direct de la apicultorii de pe munte."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Veprinac",
+            "tip": "Homemade fuži pasta with local truffles."
+          },
+          {
+            "name": "Local Honey",
+            "tip": "Buy sage honey directly from the mountain beekeepers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "St. Markus Kirchhof",
+            "tip": "Tiefe Stille mit Blick auf die Adria.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Učka Waldpfad",
+            "tip": "Einsamkeit zwischen alten Eichen.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Szent Márk templomkert",
+            "tip": "Mély csend kilátással az Adriára.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Učka erdei ösvény",
+            "tip": "Magány az öreg tölgyek között.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea Bisericii Sf. Marcu",
+            "tip": "Liniște profundă cu vedere la Marea Adriatică.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Poteca de pădure Učka",
+            "tip": "Singurătate printre stejari bătrâni.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "St. Mark Churchyard",
+            "tip": "Deep silence with a view of the Adriatic.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Učka Forest Path",
+            "tip": "Solitude among old oaks.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Hiesiges Kunsthandwerk",
+            "tip": "Holzschnitzereien und traditionelle Textilien."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi kézműves termékek",
+            "tip": "Fafaragások és hagyományos textíliák."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Artizanat local",
+            "tip": "Sculpturi în lemn și textile tradiționale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local Handicrafts",
+            "tip": "Wood carvings and traditional textiles."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe für die steilen Steinstraßen.",
+          "Bringen Sie eine leichte Jacke mit, da es hier oben kühler ist als an der Küste.",
+          "Die Parkplätze sind begrenzt, kommen Sie früh am Morgen an.",
+          "Besuchen Sie das Belvedere bei Sonnenuntergang für das beste Licht."
+        ],
+        "hu": [
+          "Viseljen kényelmes túracipőt a meredek kőutcákhoz.",
+          "Hozzon egy könnyű kabátot, mert itt hűvösebb van, mint a parton.",
+          "A parkolóhelyek korlátozottak, érkezzen korán reggel.",
+          "Látogasson el a kilátóhoz naplementekor a legjobb fényekért."
+        ],
+        "ro": [
+          "Purtați pantofi de mers confortabili pentru străzile abrupte de piatră.",
+          "Aduceți o jachetă ușoară, deoarece aici este mai răcoare decât pe coastă.",
+          "Locurile de parcare sunt limitate, sosiți devreme dimineața.",
+          "Vizitați punctul de belvedere la apus pentru cea mai bună lumină."
+        ],
+        "en": [
+          "Wear comfortable walking shoes for the steep stone streets.",
+          "Bring a light jacket as it is cooler up here than on the coast.",
+          "Parking spaces are limited, arrive early in the morning.",
+          "Visit the belvedere at sunset for the best light."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Gradska vrata",
+          "coords": [
+            14.2828,
+            45.3335
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour am historischen Eingang.",
+            "hu": "Kezdje a túrát a történelmi bejáratnál.",
+            "ro": "Începeți turul la intrarea istorică.",
+            "en": "Start your tour at the historical entrance."
+          }
+        },
+        {
+          "name": "Crkva Svetog Marka",
+          "coords": [
+            14.2833,
+            45.334
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Stopp für den Panoramablick.",
+            "hu": "Rövid megálló a panorámás kilátásért.",
+            "ro": "Scurtă oprire pentru vederea panoramică.",
+            "en": "Short stop for the panoramic view."
+          }
+        },
+        {
+          "name": "Radpause in Poljane",
+          "coords": [
+            14.288,
+            45.328
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Abfahrt durch das grüne Hinterland.",
+            "hu": "Élvezze a lejtőt a zöld hátországon keresztül.",
+            "ro": "Bucurați-vă de coborâre prin interiorul verde.",
+            "en": "Enjoy the downhill ride through the green hinterland."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            14.282,
+            45.333
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kohlenhydrate tanken für die Bergauffahrt.",
+            "hu": "Töltődjön fel szénhidráttal a hegyi menethez.",
+            "ro": "Reîncărcați carbohidrații pentru urcare.",
+            "en": "Refuel with carbs for the uphill climb."
+          }
+        },
+        {
+          "name": "Etno zbirka Veprinac",
+          "coords": [
+            14.283,
+            45.3338
+          ],
+          "category": "museum",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kultureller Boxenstopp.",
+            "hu": "Egy kulturális boxutca.",
+            "ro": "O oprire culturală la boxe.",
+            "en": "A cultural pit stop."
+          }
+        },
+        {
+          "name": "Küstenstraße nach Ičići",
+          "coords": [
+            14.29,
+            45.31
+          ],
+          "category": "park",
+          "arrive_at": "15:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Schnelle Abfahrt zum Meer.",
+            "hu": "Gyors ereszkedés a tengerhez.",
+            "ro": "Coborâre rapidă spre mare.",
+            "en": "Fast descent to the sea."
+          }
+        },
+        {
+          "name": "Naplemente a parton",
+          "coords": [
+            14.292,
+            45.308
+          ],
+          "category": "sunset",
+          "arrive_at": "17:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das goldene Licht über der Adria.",
+            "hu": "Az arany fény az Adria felett.",
+            "ro": "Lumina aurie peste Marea Adriatică.",
+            "en": "The golden light over the Adriatic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour kombiniert die Höhenmeter von Veprinac mit der Frische der Küste. Wir starten historisch im Bergdorf, erkunden Museen und Kirchen und genießen dann eine rasante Abfahrt durch Poljane bis zum Meer nach Ičići.",
+        "hu": "Ez a kerékpártúra ötvözi Veprinac szintkülönbségeit a tengerpart frissességével. Történelmi kezdés a hegyi faluban, múzeumok és templomok felfedezése, majd gyors ereszkedés Poljánén keresztül egészen az ičići tengerpartig.",
+        "ro": "Acest tur cu bicicleta combină diferențele de altitudine din Veprinac cu prospețimea coastei. Începem istoric în satul de munte, explorăm muzee și biserici, apoi ne bucurăm de o coborâre rapidă prin Poljane până la mare, în Ičići.",
+        "en": "This bike tour combines the elevation of Veprinac with the freshness of the coast. We start historically in the mountain village, explore museums and churches, and then enjoy a fast descent through Poljane all the way to the sea in Ičići."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Biker-Pasta",
+            "tip": "Energiegeladene Gerichte in lokalen Tavernen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bringás tészta",
+            "tip": "Energiadús ételek a helyi tavernákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Paste pentru bicicliști",
+            "tip": "Mâncăruri pline de energie în tavernele locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cyclist Pasta",
+            "tip": "Energy-rich dishes in local taverns."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Poljane-Panorama",
+            "tip": "Ruhiger Halt während der Abfahrt.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Poljane-panoráma",
+            "tip": "Csendes pihenő az ereszkedés közben.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panorama Poljane",
+            "tip": "Oprire liniștită în timpul coborârii.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Poljane Panorama",
+            "tip": "Quiet stop during the descent.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Fahrrad-Souvenirs",
+            "tip": "Lokale Sportgeschäfte in der Nähe von Opatija."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kerékpáros szuvenírek",
+            "tip": "Helyi sportboltok Opatija közelében."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Suveniruri pentru bicicliști",
+            "tip": "Magazine de sport locale lângă Opatija."
+          }
+        ],
+        "en": [
+          {
+            "name": "Cycling Souvenirs",
+            "tip": "Local sports shops near Opatija."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Starke Bremsen sind für die Abfahrt nach Opatija unerlässlich.",
+          "Achten Sie auf Wanderer auf den schmalen Pfaden.",
+          "Die Auffahrt nach Veprinac erfordert gute Kondition."
+        ],
+        "hu": [
+          "Az Opatija felé vezető lejtőhöz elengedhetetlen az erős fék.",
+          "Ügyeljen a túrázókra a keskeny ösvényeken.",
+          "A Veprinacba vezető emelkedő jó kondíciót igényel."
+        ],
+        "ro": [
+          "Frânele puternice sunt esențiale pentru coborârea spre Opatija.",
+          "Atenție la drumeți pe potecile înguste.",
+          "Urcarea spre Veprinac necesită o condiție fizică bună."
+        ],
+        "en": [
+          "Strong brakes are essential for the descent to Opatija.",
+          "Watch out for hikers on narrow paths.",
+          "The climb to Veprinac requires good fitness."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Gradska vrata (Cluster A)",
+          "coords": [
+            14.2828,
+            45.3335
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie am Eingang des Dorfes.",
+            "hu": "Parkoljon a falu bejáratánál.",
+            "ro": "Parcați la intrarea în sat.",
+            "en": "Park at the entrance of the village."
+          }
+        },
+        {
+          "name": "Etno zbirka Veprinac",
+          "coords": [
+            14.283,
+            45.3338
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang vom Parkplatz.",
+            "hu": "Rövid séta a parkolótól.",
+            "ro": "O scurtă plimbare de la parcare.",
+            "en": "A short walk from the parking lot."
+          }
+        },
+        {
+          "name": "Crkva Svetog Marka",
+          "coords": [
+            14.2833,
+            45.334
+          ],
+          "category": "religious",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Höchster Punkt des Dorfes.",
+            "hu": "A falu legmagasabb pontja.",
+            "ro": "Cel mai înalt punct al satului.",
+            "en": "Highest point of the village."
+          }
+        },
+        {
+          "name": "Mittagessen in der Konoba",
+          "coords": [
+            14.282,
+            45.333
+          ],
+          "category": "gastro",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe über der Küste.",
+            "hu": "Élvezze a nyugalmat a part felett.",
+            "ro": "Bucurați-vă de liniște deasupra coastei.",
+            "en": "Enjoy the peace above the coast."
+          }
+        },
+        {
+          "name": "Strand von Ičići (Cluster B)",
+          "coords": [
+            14.292,
+            45.308
+          ],
+          "category": "beach",
+          "arrive_at": "14:50",
+          "stay_min": 120,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Großer Parkplatz direkt am Strand.",
+            "hu": "Nagy parkoló közvetlenül a strandon.",
+            "ro": "Parcare mare direct pe plajă.",
+            "en": "Large parking lot directly on the beach."
+          }
+        },
+        {
+          "name": "Küstenspaziergang Riva",
+          "coords": [
+            14.295,
+            45.31
+          ],
+          "category": "park",
+          "arrive_at": "16:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannter Abschluss am Wasser.",
+            "hu": "Pihentető zárás a víznél.",
+            "ro": "Încheiere relaxantă lângă apă.",
+            "en": "Relaxing finish by the water."
+          }
+        },
+        {
+          "name": "Sonnenuntergang am Meer",
+          "coords": [
+            14.293,
+            45.307
+          ],
+          "category": "sunset",
+          "arrive_at": "17:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Blick auf die Kvarner-Inseln.",
+            "hu": "Kilátás a Kvarner-szigetekre.",
+            "ro": "Vedere spre insulele Kvarner.",
+            "en": "View of the Kvarner islands."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir zunächst das historische Veprinac als abgeschlossenes Cluster zu Fuß. Nach Kultur und einem Berg-Mittagessen fahren wir hinunter zur Küste nach Ičići, um den Nachmittag am Strand und auf der Riva zu verbringen.",
+        "hu": "Autóval először a történelmi Veprinacot fedezzük fel gyalogosan. A kultúra és a hegyi ebéd után lehajtunk az ičići partra, hogy a délutánt a strandon és a riván töltsük.",
+        "ro": "Cu mașina explorăm mai întâi orașul istoric Veprinac pe jos. După cultură și un prânz la munte, coborâm spre coasta Ičići pentru a petrece după-amiaza la plajă și pe faleză.",
+        "en": "By car, we first explore historical Veprinac on foot as a cluster. After culture and a mountain lunch, we drive down to the Ičići coast to spend the afternoon at the beach and on the riva."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restoran Lučica",
+            "tip": "Frischer Fisch direkt am Hafen von Ičići."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restoran Lučica",
+            "tip": "Friss hal közvetlenül az ičići kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restoran Lučica",
+            "tip": "Pește proaspăt chiar în portul Ičići."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restoran Lučica",
+            "tip": "Fresh fish right in the harbor of Ičići."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ičići Marina",
+            "tip": "Abendspaziergang zwischen den Yachten.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ičići Marina",
+            "tip": "Esti séta a jachtok között.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Marina Ičići",
+            "tip": "Plimbare de seară printre iahturi.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ičići Marina",
+            "tip": "Evening stroll among the yachts.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirshop Ičići",
+            "tip": "Maritime Geschenke und lokale Weine."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ičići ajándékbolt",
+            "tip": "Tengeri ajándékok és helyi borok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri Ičići",
+            "tip": "Cadouri maritime și vinuri locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Ičići Souvenir Shop",
+            "tip": "Maritime gifts and local wines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nutzen Sie die Park-Apps in Ičići, um Stress zu vermeiden.",
+          "Die Straße nach Veprinac ist kurvenreich, fahren Sie vorsichtig.",
+          "Ein Mietwagen ist ideal für diesen kombinierten Tag."
+        ],
+        "hu": [
+          "Használja a parkolási appokat Ičićiben a stressz elkerülésére.",
+          "A Veprinacba vezető út kanyargós, vezessen óvatosan.",
+          "A bérautó ideális ehhez a kombinált naphoz."
+        ],
+        "ro": [
+          "Utilizați aplicațiile de parcare în Ičići pentru a evita stresul.",
+          "Drumul spre Veprinac este sinuos, conduceți cu atenție.",
+          "O mașină închiriată este ideală pentru această zi combinată."
+        ],
+        "en": [
+          "Use parking apps in Ičići to avoid stress.",
+          "The road to Veprinac is winding, drive carefully.",
+          "A rental car is ideal for this combined day."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 18.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Gradska vrata (Veprinac Center)",
+          "coords": [
+            14.2828,
+            45.3335
+          ],
+          "category": "historical",
+          "arrive_at": "09:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Buslinie 34 ab Opatija bringt Sie direkt ins Zentrum.",
+            "hu": "A 34-es busz Opatijából közvetlenül a központba viszi.",
+            "ro": "Linia de autobuz 34 din Opatija vă duce direct în centru.",
+            "en": "Bus line 34 from Opatija takes you directly to the center."
+          }
+        },
+        {
+          "name": "Crkvica Svete Ane",
+          "coords": [
+            14.2825,
+            45.3332
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
+            "hu": "Csak pár lépésre a buszmegállótól.",
+            "ro": "La doar câțiva pași de stația de autobuz.",
+            "en": "Just a few steps from the bus stop."
+          }
+        },
+        {
+          "name": "Crkva Svetog Marka",
+          "coords": [
+            14.2833,
+            45.334
+          ],
+          "category": "religious",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick, bevor der nächste Bus kommt.",
+            "hu": "Élvezze a kilátást a következő busz érkezése előtt.",
+            "ro": "Bucurați-vă de vedere înainte de sosirea următorului autobuz.",
+            "en": "Enjoy the view before the next bus arrives."
+          }
+        },
+        {
+          "name": "Mittagessen in der Konoba",
+          "coords": [
+            14.282,
+            45.333
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Traditionelle Küche in Busnähe.",
+            "hu": "Hagyományos konyha a busz közelében.",
+            "ro": "Bucătărie tradițională lângă autobuz.",
+            "en": "Traditional cuisine near the bus."
+          }
+        },
+        {
+          "name": "Riva Opatija (Transfer)",
+          "coords": [
+            14.306,
+            45.338
+          ],
+          "category": "park",
+          "arrive_at": "14:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Mit dem Bus zurück nach Opatija für einen Spaziergang.",
+            "hu": "Busszal vissza Opatijába egy sétára.",
+            "ro": "Înapoi cu autobuzul în Opatija pentru o plimbare.",
+            "en": "Back by bus to Opatija for a stroll."
+          }
+        },
+        {
+          "name": "Hafenpromenade Sonnenuntergang",
+          "coords": [
+            14.308,
+            45.339
+          ],
+          "category": "sunset",
+          "arrive_at": "16:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein perfekter Abschluss am Meer.",
+            "hu": "Tökéletes zárás a tengerparton.",
+            "ro": "O încheiere perfectă la malul mării.",
+            "en": "A perfect ending at the seaside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dank der guten Busverbindung ab Opatija ist Veprinac leicht erreichbar. Wir verbringen den Vormittag im Bergdorf und kehren am Nachmittag nach Opatija zurück, um das kaiserliche Flair und die Riva zu genießen.",
+        "hu": "Az Opatijából induló jó buszközlekedésnek köszönhetően Veprinac könnyen elérhető. A délelőttöt a hegyi faluban töltjük, majd délután visszatérünk Opatijába, hogy élvezzük a császári hangulatot és a rivát.",
+        "ro": "Datorită conexiunii bune de autobuz din Opatija, Veprinac este ușor accesibil. Petrecem dimineața în satul de munte și ne întoarcem după-amiaza în Opatija pentru a ne bucura de flerul imperial și de faleză.",
+        "en": "Thanks to the good bus connection from Opatija, Veprinac is easily accessible. We spend the morning in the mountain village and return to Opatija in the afternoon to enjoy the imperial flair and the riva."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Kaffee in Opatija",
+            "tip": "Besuchen Sie die historischen Wiener Cafés."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kávé Opatijában",
+            "tip": "Látogasson el a történelmi bécsi kávézókba."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Cafea în Opatija",
+            "tip": "Vizitați cafenelele istorice vieneze."
+          }
+        ],
+        "en": [
+          {
+            "name": "Coffee in Opatija",
+            "tip": "Visit the historical Viennese cafes."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Angiolina Park",
+            "tip": "Ruhige Oase in Opatija.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Angiolina park",
+            "tip": "Csendes oázis Opatijában.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Parcul Angiolina",
+            "tip": "Oază de liniște în Opatija.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Angiolina Park",
+            "tip": "Quiet oasis in Opatija.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Markt von Opatija",
+            "tip": "Frische Produkte und lokale Delikatessen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Opatijai piac",
+            "tip": "Friss termékek és helyi finomságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața din Opatija",
+            "tip": "Produse proaspete și delicatese locale."
+          }
+        ],
+        "en": [
+          {
+            "name": "Opatija Market",
+            "tip": "Fresh produce and local delicacies."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Kaufen Sie Bustickets im Voraus am Kiosk.",
+          "Prüfen Sie den aktuellen Busfahrplan der Linie 34.",
+          "Der Busbahnhof in Opatija ist der zentrale Knotenpunkt."
+        ],
+        "hu": [
+          "Vásároljon buszjegyet előre a trafikban.",
+          "Ellenőrizze a 34-es busz aktuális menetrendjét.",
+          "Az opatijai buszállomás a központi csomópont."
+        ],
+        "ro": [
+          "Cumpărați bilete de autobuz în avans de la chioșc.",
+          "Verificați orarul actual al liniei 34.",
+          "Autogara din Opatija este nodul central."
+        ],
+        "en": [
+          "Buy bus tickets in advance at the kiosk.",
+          "Check the current schedule for bus line 34.",
+          "The Opatija bus station is the central hub."
+        ]
+      }
+    }
+  }
+}

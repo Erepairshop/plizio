@@ -1,0 +1,1035 @@
+{
+  "city_id": "croatia-sisan-cities-v2",
+  "anchor": {
+    "name": "Šišan",
+    "coords": [
+      44.852,
+      13.943
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "20:45",
+      "total_km": 10.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Kaffee am Dorfplatz",
+          "coords": [
+            13.943,
+            44.852
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestellen Sie einen 'Makiato' und beobachten Sie das Dorfleben.",
+            "hu": "Rendeljen egy macchiatót és figyelje a falu ébredését.",
+            "ro": "Comandați un macchiato și observați viața satului.",
+            "en": "Order a macchiato and watch the village wake up."
+          }
+        },
+        {
+          "name": "Crkva Svetog Feliksa i Fortunata",
+          "coords": [
+            13.944,
+            44.853
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser Kirche aus dem 16. Jahrhundert.",
+            "hu": "Csodálja meg a 16. századi templom építészetét.",
+            "ro": "Admirați arhitectura acestei biserici din secolul al XVI-lea.",
+            "en": "Admire the architecture of this 16th-century church."
+          }
+        },
+        {
+          "name": "Vinarija Trapan",
+          "coords": [
+            13.94,
+            44.854
+          ],
+          "category": "gastro",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie den preisgekrönten Teran in modernem Ambiente.",
+            "hu": "Kóstolja meg a díjnyertes teran bort modern környezetben.",
+            "ro": "Gustați vinul Teran premiat într-o ambianță modernă.",
+            "en": "Taste the award-winning Teran in a modern setting."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            13.943,
+            44.852
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Frische istrische Pasta (Fuži) ist hier ein Muss.",
+            "hu": "A friss isztriai tészta (fuži) itt kötelező választás.",
+            "ro": "Pastele istriene proaspete (fuži) sunt obligatorii aici.",
+            "en": "Fresh Istrian pasta (fuži) is a must-try here."
+          }
+        },
+        {
+          "name": "Monte Madonna (Svetica)",
+          "coords": [
+            13.965,
+            44.846
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Aussicht und die geheimen Militärbunker.",
+            "hu": "Fedezze fel a kilátást és a titkos katonai bunkereket.",
+            "ro": "Descoperiți priveliștea și buncărele militare secrete.",
+            "en": "Explore the panoramic view and the secret military bunkers."
+          }
+        },
+        {
+          "name": "Uvala Šišan",
+          "coords": [
+            13.985,
+            44.836
+          ],
+          "category": "beach",
+          "arrive_at": "16:25",
+          "stay_min": 180,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser, ideal zum Schnorcheln.",
+            "hu": "Kristálytiszta víz, ideális a sznorkelezéshez.",
+            "ro": "Apă de cristal, ideală pentru snorkeling.",
+            "en": "Crystal clear water, perfect for snorkeling."
+          }
+        },
+        {
+          "name": "Sonnenuntergang am Ufer",
+          "coords": [
+            13.986,
+            44.835
+          ],
+          "category": "sunset",
+          "arrive_at": "19:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Der schönste Abschluss des Tages direkt am Felsen.",
+            "hu": "A nap legszebb zárása közvetlenül a sziklákon.",
+            "ro": "Cel mai frumos final de zi, direct pe stânci.",
+            "en": "The most beautiful end to the day right on the rocks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens genießen Sie einen Espresso am Dorfplatz, bevor Sie die alte Kirche besuchen. Der Vormittag gehört der modernen Winzerkunst bei Trapan. Mittags locken hausgemachte Nudeln in einer traditionellen Konoba. Am Nachmittag erkunden Sie die unterirdischen Bunker von Monte Madonna und wandern hinunter zur wilden Küste. Der Tag endet mit einem Bad in der kristallklaren Uvala Šišan und einem spektakulären Sonnenuntergang.",
+        "hu": "Reggel kezdjen egy feketével a falu főterén, majd látogasson el az ősi templomba. A délelőtt a modern borászaté a Trapan pincészetben. Ebédre kóstoljon helyi tésztát egy konobában. Délután fedezze fel Monte Madonna titkos katonai bázisát, majd ereszkedjen le a vadregényes tengerpartra. A napot a kristálytiszta vizű Šišan-öbölben való fürdőzés és a sziklákról csodált naplemente zárja.",
+        "ro": "Dimineața începe cu o cafea în piața satului, urmată de o vizită la biserica istorică. Continuăm cu o degustare de vinuri moderne la crama Trapan. La prânz, savurați paste istriene la o konoba locală. După-amiaza este dedicată istoriei de la Monte Madonna și plimbării spre coasta sălbatică. Ziua se încheie cu o baie în apele limpezi ale golfului Šišan și un apus memorabil pe malul mării.",
+        "en": "Start your morning with a coffee in the village square followed by a visit to the historic church. Spend the late morning tasting award-winning wines at Trapan Winery. Enjoy a traditional Istrian lunch at a local konoba. In the afternoon, explore the military secrets of Monte Madonna and hike down to the rugged coastline. End the day swimming in the clear waters of Šišan Bay and watching the sunset from the rocks."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vinarija Trapan",
+            "tip": "Moderne Weine und Olivenölverkostung."
+          },
+          {
+            "name": "Istrische Konoba",
+            "tip": "Probieren Sie Pljukanci mit Trüffeln."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trapan Pincészet",
+            "tip": "Modern borok és olívaolaj kóstoló."
+          },
+          {
+            "name": "Helyi Konoba",
+            "tip": "Kóstolja meg a szarvasgombás pljukancit."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama Trapan",
+            "tip": "Vinuri moderne și degustare de ulei de măsline."
+          },
+          {
+            "name": "Konoba locală",
+            "tip": "Încercați pljukanci cu trufe."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trapan Winery",
+            "tip": "Modern wines and olive oil tasting."
+          },
+          {
+            "name": "Local Konoba",
+            "tip": "Try pljukanci with truffles."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Monte Madonna Ausblick",
+            "tip": "Panoramablick über das Meer.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Uvala Šišan Klippen",
+            "tip": "Ruhiger Platz zum Entspannen.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Monte Madonna kilátó",
+            "tip": "Panorámás kilátás a tengerre.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Šišan-öböl sziklák",
+            "tip": "Csendes hely a pihenéshez.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Panorama Monte Madonna",
+            "tip": "Vedere panoramică peste mare.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Stâncile Golfului Šišan",
+            "tip": "Loc liniștit pentru relaxare.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Monte Madonna Lookout",
+            "tip": "Panoramic view over the sea.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Šišan Bay Rocks",
+            "tip": "Quiet spot for relaxation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Weinkeller Trapan",
+            "tip": "Kaufen Sie eine Flasche 'The One'."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trapan borbolt",
+            "tip": "Vegyen egy palack 'The One' bort."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinul cramei Trapan",
+            "tip": "Cumpărați o sticlă de 'The One'."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trapan Wine Shop",
+            "tip": "Buy a bottle of 'The One' wine."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Wanderschuhe für den Weg zur Küste.",
+          "Nehmen Sie ausreichend Wasser für die Wanderung mit.",
+          "Der Rückweg zum Dorf ist leicht bergauf.",
+          "Besuchen Sie den Bunker nur mit Taschenlampe."
+        ],
+        "hu": [
+          "Viseljen kényelmes túracipőt a tengerparti úthoz.",
+          "Vigyen magával elegendő vizet a túrához.",
+          "A visszaút a faluba enyhén emelkedik.",
+          "A bunkereket csak zseblámpával látogassa meg."
+        ],
+        "ro": [
+          "Purtați pantofi de drumeție confortabili pentru drumul spre coastă.",
+          "Luați suficientă apă pentru drumeție.",
+          "Drumul de întoarcere spre sat este ușor în urcare.",
+          "Vizitați buncărele doar cu o lanternă."
+        ],
+        "en": [
+          "Wear comfortable hiking shoes for the coastal path.",
+          "Bring enough water for the hike.",
+          "The way back to the village is slightly uphill.",
+          "Visit the bunkers only with a flashlight."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "19:30",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Morgencafé",
+          "coords": [
+            13.943,
+            44.852
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Perfekter Start am Dorfplatz.",
+            "hu": "Tökéletes kezdés a falu főterén.",
+            "ro": "Început perfect în piața satului.",
+            "en": "Perfect start at the village square."
+          }
+        },
+        {
+          "name": "Crkva Svetog Feliksa i Fortunata",
+          "coords": [
+            13.944,
+            44.853
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kurzer Stopp bei der Kirche.",
+            "hu": "Rövid megálló a templomnál.",
+            "ro": "Scurtă oprire la biserică.",
+            "en": "Short stop at the church."
+          }
+        },
+        {
+          "name": "Vinarija Trapan",
+          "coords": [
+            13.94,
+            44.854
+          ],
+          "category": "gastro",
+          "arrive_at": "10:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Weinprobe vor der Abfahrt ans Meer.",
+            "hu": "Borkóstoló a tengerparti indulás előtt.",
+            "ro": "Degustare de vinuri înainte de plecarea la mare.",
+            "en": "Wine tasting before heading to the sea."
+          }
+        },
+        {
+          "name": "Mittagessen in der Konoba",
+          "coords": [
+            13.943,
+            44.852
+          ],
+          "category": "gastro",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stärken Sie sich für die Radtour.",
+            "hu": "Gyűjtsön erőt a biciklitúrához.",
+            "ro": "Prindeți puteri pentru tura cu bicicleta.",
+            "en": "Fuel up for the bike ride."
+          }
+        },
+        {
+          "name": "Monte Madonna (Svetica)",
+          "coords": [
+            13.965,
+            44.846
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Anspruchsvolle Auffahrt mit Belohnung.",
+            "hu": "Kihívást jelentő emelkedő jutalommal.",
+            "ro": "Urcare solicitantă cu o răsplată pe măsură.",
+            "en": "Challenging uphill ride with a reward."
+          }
+        },
+        {
+          "name": "Uvala Šišan",
+          "coords": [
+            13.985,
+            44.836
+          ],
+          "category": "beach",
+          "arrive_at": "14:40",
+          "stay_min": 200,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der Küstenwege.",
+            "hu": "Biciklizzen a part menti utakon.",
+            "ro": "Mergeți pe potecile de pe coastă.",
+            "en": "Ride along the coastal paths."
+          }
+        },
+        {
+          "name": "Strandpause & Sonnenuntergang",
+          "coords": [
+            13.986,
+            44.835
+          ],
+          "category": "sunset",
+          "arrive_at": "18:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Letzte Entspannung vor der Rückfahrt.",
+            "hu": "Utolsó pihenő a visszaindulás előtt.",
+            "ro": "Ultima relaxare înainte de întoarcere.",
+            "en": "Last relaxation before the ride back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Šišan auf zwei Rädern. Nach einem entspannten Vormittag im Dorf und einer Weinprobe bei Trapan führt die Tour über Schotterwege zum Hügel Monte Madonna. Von dort geht es rasant hinunter zur unberührten Küste von Uvala Šišan. Die felsigen Wege entlang der Adria bieten fantastische Ausblicke und versteckte Badeplätze.",
+        "hu": "Fedezze fel Šišant két keréken. A faluban töltött laza délelőtt és a Trapan borászat meglátogatása után az út murvás ösvényeken vezet a Monte Madonna dombjára. Innen gyors ereszkedés következik a Šišan-öböl érintetlen partjaihoz. Az Adria menti sziklás utak fantasztikus kilátást és eldugott fürdőhelyeket kínálnak.",
+        "ro": "Explorați Šišan pe două roți. După o dimineață relaxată în sat și o vizită la crama Trapan, turul continuă pe drumuri pietruite spre dealul Monte Madonna. De acolo, urmează o coborâre rapidă spre coasta virgină a golfului Šišan. Potecile stâncoase de-a lungul Adriaticii oferă priveliști fantastice și locuri ascunse de scăldat.",
+        "en": "Explore Šišan on two wheels. After a relaxed morning in the village and a wine tasting at Trapan, the route leads via gravel paths to the Monte Madonna hill. From there, enjoy a fast descent to the untouched shores of Šišan Bay. The rocky paths along the Adriatic offer fantastic views and hidden swimming spots."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Trapan Vinarija",
+            "tip": "Erfrischender Rosé für Biker."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trapan Pincészet",
+            "tip": "Frissítő rozé a bicikliseknek."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama Trapan",
+            "tip": "Un rosé răcoritor pentru bicicliști."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trapan Winery",
+            "tip": "Refreshing rosé for bikers."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Svetica Plateau",
+            "tip": "Stille und Weite.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svetica-fennsík",
+            "tip": "Csend és tágasság.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Platoul Svetica",
+            "tip": "Liniște și spațiu.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Svetica Plateau",
+            "tip": "Silence and openness.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokales Öl",
+            "tip": "Direkt vom Erzeuger im Dorf."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi olaj",
+            "tip": "Közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Ulei local",
+            "tip": "Direct de la producător din sat."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local oil",
+            "tip": "Directly from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Ein Mountainbike ist wegen der steinigen Wege empfohlen.",
+          "Prüfen Sie Ihre Bremsen vor der Abfahrt von Svetica.",
+          "Achten Sie auf Wanderer auf den Küstenpfaden.",
+          "Nehmen Sie ein Reparaturset mit."
+        ],
+        "hu": [
+          "A köves utak miatt hegyi kerékpár (MTB) ajánlott.",
+          "Ellenőrizze a fékeit a Sveticáról való leereszkedés előtt.",
+          "Figyeljen a gyalogosokra a parti ösvényeken.",
+          "Vigyen magával javítókészletet."
+        ],
+        "ro": [
+          "Se recomandă o bicicletă de munte din cauza drumurilor cu piatră.",
+          "Verificați frânele înainte de a coborî de pe Svetica.",
+          "Atenție la drumeți pe potecile de pe coastă.",
+          "Luați un kit de reparații."
+        ],
+        "en": [
+          "A mountain bike is recommended due to the rocky paths.",
+          "Check your brakes before descending from Svetica.",
+          "Watch out for hikers on the coastal paths.",
+          "Take a repair kit with you."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:15",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Dorfzentrum Šišan (Parkplatz)",
+          "coords": [
+            13.943,
+            44.852
+          ],
+          "category": "gastro",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie hier für den Dorfspaziergang.",
+            "hu": "Parkoljon itt a falusi sétához.",
+            "ro": "Parcați aici pentru plimbarea prin sat.",
+            "en": "Park here for the village walk."
+          }
+        },
+        {
+          "name": "Crkva Svetog Feliksa i Fortunata",
+          "coords": [
+            13.944,
+            44.853
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Zu Fuß vom Parkplatz erreichbar.",
+            "hu": "Gyalogosan elérhető a parkolótól.",
+            "ro": "Accesibil pe jos din parcare.",
+            "en": "Accessible on foot from the parking."
+          }
+        },
+        {
+          "name": "Vinarija Trapan",
+          "coords": [
+            13.94,
+            44.854
+          ],
+          "category": "gastro",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kaufen Sie Wein für den Abend.",
+            "hu": "Vásároljon bort az estére.",
+            "ro": "Cumpărați vin pentru seară.",
+            "en": "Buy wine for the evening."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            13.942,
+            44.851
+          ],
+          "category": "gastro",
+          "arrive_at": "12:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Istrische Spezialitäten genießen.",
+            "hu": "Isztriai specialitások élvezete.",
+            "ro": "Savurați specialități istriene.",
+            "en": "Enjoy Istrian specialties."
+          }
+        },
+        {
+          "name": "Monte Madonna (Svetica)",
+          "coords": [
+            13.965,
+            44.846
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zum oberen Plateau.",
+            "hu": "Hajtson fel egészen a felső fennsíkig.",
+            "ro": "Conduceți până la platoul superior.",
+            "en": "Drive all the way to the upper plateau."
+          }
+        },
+        {
+          "name": "Uvala Šišan",
+          "coords": [
+            13.985,
+            44.836
+          ],
+          "category": "beach",
+          "arrive_at": "15:40",
+          "stay_min": 150,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Der Weg zum Meer ist etwas holprig.",
+            "hu": "A tengerhez vezető út kissé göröngyös.",
+            "ro": "Drumul spre mare este puțin accidentat.",
+            "en": "The road to the sea is a bit bumpy."
+          }
+        },
+        {
+          "name": "Meeresbrise & Ausklang",
+          "coords": [
+            13.986,
+            44.835
+          ],
+          "category": "quiet",
+          "arrive_at": "18:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannung pur am Meeresufer.",
+            "hu": "Tiszta pihenés a tengerparton.",
+            "ro": "Relaxare pură pe malul mării.",
+            "en": "Pure relaxation by the seashore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Facetten von Šišan. Beginnen Sie im historischen Kern mit Kirche und Weinkeller. Danach führt die Fahrt zum Monte Madonna, wo Geschichte auf Panorama trifft. Schließlich geht es zur Uvala Šišan, einer der wenigen wilden Küstenabschnitte Südistriens, die direkt mit dem Fahrzeug (Vorsicht Schotter!) erreichbar sind.",
+        "hu": "Autóval kényelmesen elérheti Šišan különböző arcait. Kezdjen a történelmi központban a templommal és a borospincével. Ezután az út a Monte Madonnához vezet, ahol a történelem panorámával párosul. Végül irány a Šišan-öböl, Dél-Isztria azon kevés vadregényes partjainak egyike, amely közvetlenül elérhető járművel (óvatosan a murván!).",
+        "ro": "Cu mașina, puteți ajunge confortabil la diferitele fațete ale satului Šišan. Începeți în centrul istoric cu biserica și crama. Apoi, drumul duce spre Monte Madonna, unde istoria se întâlnește cu panorama. În cele din urmă, mergeți spre golful Šišan, una dintre puținele porțiuni de coastă sălbatică din sudul Istriei care sunt accesibile direct cu vehiculul (atenție la pietriș!).",
+        "en": "By car, you can comfortably reach the different facets of Šišan. Start in the historic core with the church and winery. Then, the drive leads to Monte Madonna, where history meets panorama. Finally, head to Šišan Bay, one of the few wild coastal stretches in southern Istria accessible directly by vehicle (be careful on the gravel!)."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Winery Trapan",
+            "tip": "Perfekt für Weinkeller-Souvenirs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trapan Pincészet",
+            "tip": "Tökéletes boros szuvenírekhez."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama Trapan",
+            "tip": "Perfectă pentru suveniruri viticole."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trapan Winery",
+            "tip": "Perfect for winery souvenirs."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Svetica Aussichtspunkt",
+            "tip": "Blick bis zu den Kvarner-Inseln.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Svetica kilátópont",
+            "tip": "Kilátás a Kvarner-szigetekig.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Punctul de belvedere Svetica",
+            "tip": "Vedere până la insulele Kvarner.",
+            "emoji": "🌅"
+          },
+          {
+            "name": "Šišan Lookout",
+            "tip": "View all the way to Kvarner islands.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Svetica Viewpoint",
+            "tip": "View all the way to Kvarner islands.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokale Hofläden",
+            "tip": "Olivenöl und Honig."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi gazdaságok",
+            "tip": "Olívaolaj és méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazinele fermelor locale",
+            "tip": "Ulei de măsline și miere."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local farm shops",
+            "tip": "Olive oil and honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straße zur Bucht ist unbefestigt, fahren Sie langsam.",
+          "Parken Sie im Dorfzentrum nur auf markierten Plätzen.",
+          "Besuchen Sie Trapan am Ende, wenn Sie Wein kaufen wollen.",
+          "Lassen Sie keine Wertsachen im Auto an der Bucht."
+        ],
+        "hu": [
+          "Az öbölhöz vezető út burkolatlan, hajtson lassan.",
+          "A falu központjában csak a jelölt helyeken parkoljon.",
+          "A Trapan pincészetet a végén látogassa meg, ha bort akar venni.",
+          "Ne hagyjon értéket az autóban az öbölparton."
+        ],
+        "ro": [
+          "Drumul spre golf este neasfaltat, conduceți încet.",
+          "Parcați în centrul satului doar în locurile marcate.",
+          "Vizitați Trapan la final dacă doriți să cumpărați vin.",
+          "Nu lăsați obiecte de valoare în mașină la golf."
+        ],
+        "en": [
+          "The road to the bay is unpaved, drive slowly.",
+          "Park in the village center only in marked spots.",
+          "Visit Trapan at the end if you want to buy wine.",
+          "Do not leave valuables in the car at the bay."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Ankunft in Šišan (Busstop)",
+          "coords": [
+            13.943,
+            44.852
+          ],
+          "category": "gastro",
+          "arrive_at": "09:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Buslinie 28 von Pula.",
+            "hu": "28-as buszjárat Pulából.",
+            "ro": "Linia de autobuz 28 din Pula.",
+            "en": "Bus line 28 from Pula."
+          }
+        },
+        {
+          "name": "Crkva Svetog Feliksa i Fortunata",
+          "coords": [
+            13.944,
+            44.853
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gleich um die Ecke vom Busstop.",
+            "hu": "Közvetlenül a buszmegálló sarkánál.",
+            "ro": "Chiar după colț de stația de autobuz.",
+            "en": "Just around the corner from the bus stop."
+          }
+        },
+        {
+          "name": "Vinarija Trapan",
+          "coords": [
+            13.94,
+            44.854
+          ],
+          "category": "gastro",
+          "arrive_at": "10:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Vorteil Transit: Weinprobe ohne Fahrstress.",
+            "hu": "Buszos előny: borkóstoló vezetés nélkül.",
+            "ro": "Avantajul tranzitului: degustare de vinuri fără stresul condusului.",
+            "en": "Transit advantage: wine tasting without driving stress."
+          }
+        },
+        {
+          "name": "Mittagessen im Ort",
+          "coords": [
+            13.943,
+            44.852
+          ],
+          "category": "gastro",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gemütliche Mittagspause im Dorf.",
+            "hu": "Hangulatos ebédszünet a faluban.",
+            "ro": "Pauză de prânz relaxantă în sat.",
+            "en": "Cozy lunch break in the village."
+          }
+        },
+        {
+          "name": "Monte Madonna (Svetica)",
+          "coords": [
+            13.965,
+            44.846
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Schöner Spaziergang vom Ort aus.",
+            "hu": "Szép séta a faluból.",
+            "ro": "O plimbare frumoasă din sat.",
+            "en": "Nice walk from the village."
+          }
+        },
+        {
+          "name": "Rückkehr zum Dorf / Busstop",
+          "coords": [
+            13.943,
+            44.852
+          ],
+          "category": "quiet",
+          "arrive_at": "17:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Fahrplan für die Rückfahrt.",
+            "hu": "Ellenőrizze a visszainduló busz menetrendjét.",
+            "ro": "Verificați mersul autobuzelor pentru întoarcere.",
+            "en": "Check the bus schedule for the return trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Besuchen Sie Šišan umweltfreundlich mit dem Bus aus Pula. Der Tag konzentriert sich auf das charmante Dorfzentrum und den historischen Aussichtspunkt Monte Madonna. Genießen Sie die exzellenten Weine bei Trapan ohne Reue und spazieren Sie durch die ruhigen Gassen, bevor Sie die Hügelfestung mit ihrem Meerblick erkunden. Ein entschleunigter Tag in Istrien.",
+        "hu": "Látogasson el Šišanba környezetbarát módon, busszal Pulából. A nap a bájos faluközpontra és a történelmi Monte Madonna kilátópontra összpontosít. Élvezze a Trapan pincészet kiváló borait bűntudat nélkül, sétáljon a csendes utcákon, majd fedezze fel a tengeri kilátással rendelkező dombi erődöt. Egy lassú, pihentető nap Isztrián.",
+        "ro": "Vizitați Šišan într-un mod ecologic cu autobuzul din Pula. Ziua se concentrează pe centrul fermecător al satului și pe punctul de belvedere istoric Monte Madonna. Savurați vinurile excelente de la Trapan fără regrete și plimbați-vă pe străzile liniștite înainte de a explora fortăreața de pe deal cu vederea sa spre mare. O zi relaxată în Istria.",
+        "en": "Visit Šišan in an eco-friendly way by bus from Pula. The day focuses on the charming village center and the historic Monte Madonna viewpoint. Enjoy the excellent wines at Trapan without worry and stroll through the quiet streets before exploring the hill fortress with its sea view. A slow, decelerated day in Istria."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Vinarija Trapan",
+            "tip": "Verkostung ohne Auto ideal."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trapan Pincészet",
+            "tip": "Ideális kóstolás autó nélkül."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Crama Trapan",
+            "tip": "Degustare ideală fără mașină."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trapan Winery",
+            "tip": "Ideal tasting without a car."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Dorfplatz",
+            "tip": "Lokales Flair genießen.",
+            "emoji": "☕"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Falu főtere",
+            "tip": "Élvezze a helyi hangulatot.",
+            "emoji": "☕"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața satului",
+            "tip": "Savurați atmosfera locală.",
+            "emoji": "☕"
+          }
+        ],
+        "en": [
+          {
+            "name": "Village Square",
+            "tip": "Enjoy the local flair.",
+            "emoji": "☕"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Trapan Wein",
+            "tip": "Leicht im Rucksack zu transportieren."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Trapan bor",
+            "tip": "Könnyen szállítható hátizsákban."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vin Trapan",
+            "tip": "Ușor de transportat în rucsac."
+          }
+        ],
+        "en": [
+          {
+            "name": "Trapan Wine",
+            "tip": "Easy to carry in a backpack."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Busfrequenz ist am Wochenende geringer.",
+          "Kaufen Sie Tickets beim Fahrer oder per App.",
+          "Monte Madonna ist ein 40-minütiger Spaziergang vom Bus.",
+          "Fragen Sie Einheimische nach dem letzten Bus."
+        ],
+        "hu": [
+          "Hétvégén a buszjáratok ritkábbak.",
+          "Vegyen jegyet a sofőrnél vagy alkalmazáson keresztül.",
+          "Monte Madonna 40 perces séta a buszmegállótól.",
+          "Kérdezze a helyieket az utolsó buszról."
+        ],
+        "ro": [
+          "Frecvența autobuzelor este mai mică în weekend.",
+          "Cumpărați bilete de la șofer sau prin aplicație.",
+          "Monte Madonna este la 40 de minute de mers pe jos de autobuz.",
+          "Întrebați localnicii despre ultimul autobuz."
+        ],
+        "en": [
+          "Bus frequency is lower on weekends.",
+          "Buy tickets from the driver or via app.",
+          "Monte Madonna is a 40-minute walk from the bus.",
+          "Ask locals about the last bus."
+        ]
+      }
+    }
+  }
+}
