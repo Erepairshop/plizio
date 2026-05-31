@@ -1142,12 +1142,34 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
   // Itinerary stop image: photos were fetched per stop (name + city_id coords)
   // into sight-image-map.json. The key was built from the stop name in some
   // language (often EN), so try every name variant to find the matching image.
-  function stopImg(rawName: any): string | undefined {
+  function resolveImg(rawName: any): string | undefined {
     const variants = typeof rawName === "string"
       ? [rawName]
       : (rawName && typeof rawName === "object" ? Object.values(rawName).filter((v) => typeof v === "string") : []);
     for (const n of variants) { const u = lookupSightImage(n as string, poi.id); if (u) return u; }
     return undefined;
+  }
+  // Distinguish itinerary from the sights gallery: reserve every image already
+  // shown as a sight card, so itinerary stops don't repeat them (route stays
+  // text-focused). Also dedup images within the itinerary itself.
+  const sightImgSet = new Set<string>();
+  {
+    const sObj: any = (poi as any).sights;
+    if (sObj && typeof sObj === "object") {
+      for (const L of ["de", "hu", "ro", "en"]) {
+        for (const it of (sObj[L] || [])) {
+          const u = (it && it.image) || resolveImg(it && it.name);
+          if (u) sightImgSet.add(u);
+        }
+      }
+    }
+  }
+  const usedItinImgs = new Set<string>();
+  function stopImg(rawName: any): string | undefined {
+    const u = resolveImg(rawName);
+    if (!u || sightImgSet.has(u) || usedItinImgs.has(u)) return undefined;
+    usedItinImgs.add(u);
+    return u;
   }
   function renderStopCard(s: any, i: number, prevCoords: [number, number] | null, mode: string): string {
     const name = pickStr(s.name);
@@ -1679,8 +1701,18 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const sAligned = !!sightsObj && ["en", "de", "hu", "ro"].every((l) => {
     const a = (sightsObj as any)[l]; return !Array.isArray(a) || a.length === sightsArr.length;
   });
-  const sightsHtml = sightsArr.length > 0
-    ? `<section class="plz-sights"><h2>${I("sightsInTown", lang)} ${name} (${sightsArr.length})</h2>${sightsArr.map((s, i) => renderSightCard(s, false, sAligned ? sightNameVariantsAt(sightsObj, i, s.name as string) : undefined)).join("")}</section>`
+  // Dedup the gallery by sight name (data sometimes repeats the same sight),
+  // keeping the original index so cross-lang variant alignment stays correct.
+  const _seenSight = new Set<string>();
+  const sightsItems: { s: SightItem; i: number }[] = [];
+  sightsArr.forEach((s, i) => {
+    const k = slugifySight(typeof s.name === "string" ? s.name : "");
+    if (k && _seenSight.has(k)) return;
+    if (k) _seenSight.add(k);
+    sightsItems.push({ s, i });
+  });
+  const sightsHtml = sightsItems.length > 0
+    ? `<section class="plz-sights"><h2>${I("sightsInTown", lang)} ${name} (${sightsItems.length})</h2>${sightsItems.map(({ s, i }) => renderSightCard(s, false, sAligned ? sightNameVariantsAt(sightsObj, i, s.name as string) : undefined)).join("")}</section>`
     : "";
   const nearbyObj = (poi as { nearbySights?: Record<string, SightItem[]> }).nearbySights;
   const nearbyArr = (getLocalized(nearbyObj as Partial<Record<string, SightItem[]>>, lang) || []) as SightItem[];
