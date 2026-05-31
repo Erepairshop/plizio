@@ -26,6 +26,8 @@ type Country = {
   names: Record<Lang, string>;
   poiSourceIso?: string; // metro maps: load POIs from this country's JSON instead of <iso>.json
   poiParent?: string;    // metro maps: keep only POIs whose parent === this (e.g. "FR-IDF")
+  excludeParents?: string[]; // country maps: drop POIs with these parents (moved to a metro map)
+  metroLink?: { mapSlug: string; lon: number; lat: number; names: Record<Lang, string> }; // clickable marker -> metro map
 };
 
 const COUNTRIES: Country[] = [
@@ -38,6 +40,9 @@ const COUNTRIES: Country[] = [
   { iso:"de", slug:"deutschland", svgFile:"deutschland.svg.ts", mapVar:"deutschlandMap", vbVar:"deutschlandViewBox", projFn:"projectCoords",
     names:{ de:"Deutschland", hu:"Németország", ro:"Germania", en:"Germany" } },
   { iso:"fr", slug:"france", svgFile:"france.svg.ts", mapVar:"franceMap", vbVar:"franceViewBox", projFn:"projectCoordsFR",
+    excludeParents:["FR-IDF"],
+    metroLink:{ mapSlug:"paris", lon:2.3522, lat:48.8566,
+      names:{ de:"Paris (Großraum) - eigene Karte", hu:"Párizs (nagyrégió) - külön térkép", ro:"Paris (zona metropolitană) - hartă separată", en:"Paris (metro area) - own map" } },
     names:{ de:"Frankreich", hu:"Franciaország", ro:"Franța", en:"France" } },
   // Metro map: Île-de-France (Paris) — departments background, POIs filtered by parent FR-IDF.
   { iso:"paris", slug:"paris", svgFile:"parisMetro.svg.ts", mapVar:"parisMetroMap", vbVar:"parisMetroViewBox", projFn:"projectCoordsParis",
@@ -1205,6 +1210,10 @@ async function buildOne(c: Country): Promise<boolean> {
       poisRaw = j.pois || j;
       poisRaw = poisRaw.filter((p: any) => p && !DEDUP_BLOCK.has(p.id));
       if (c.poiParent) poisRaw = poisRaw.filter((p: any) => p && p.parent === c.poiParent);
+      if (c.excludeParents && c.excludeParents.length) {
+        const ex = new Set(c.excludeParents);
+        poisRaw = poisRaw.filter((p: any) => !(p && ex.has(p.parent)));
+      }
     } catch {}
   }
   const seen = new Set<string>();
@@ -1216,6 +1225,16 @@ async function buildOne(c: Country): Promise<boolean> {
     if (s) pois.push(s);
   }
   backfillUrlsByCoord(pois);
+  // Inject a clickable marker pointing to a dedicated metro map (declutters the country map).
+  if (c.metroLink) {
+    const [mx, my] = proj(c.metroLink.lon, c.metroLink.lat);
+    if (Number.isFinite(mx) && Number.isFinite(my)) {
+      const ml = c.metroLink;
+      const urls: Record<string, string> = {};
+      for (const l of LANGS) urls[l] = `/${ml.mapSlug}-map/${l === "hu" ? "" : l + "/"}`;
+      pois.push({ id: `metro-${ml.mapSlug}`, type: "metro", grp: "city", cx: mx, cy: my, name: ml.names, urls } as SlimPoi);
+    }
+  }
   const regions = map.map((r: any) => ({
     id: r.id, name: r.name,
     labelX: r.labelX, labelY: r.labelY,
