@@ -5,13 +5,35 @@ import { getGitLastMod } from "@/lib/seo/lastmod";
 import { SITE_URL, hasIndexableContent } from "@/lib/seo/routes";
 import {
   SUPPORTED_LANGS,
+  COUNTRY_SLUGS,
   buildCountryPath,
   buildPoiPath,
   buildStatePath,
+  countrySlugFor,
   extraLangsFor,
   pois,
   regions,
+  type Lang,
 } from "@/lib/seo/slugs";
+import {
+  TYPE_BUCKETS,
+  TYPE_INDEX_COUNTRIES,
+  getPoisForCountryBucket,
+  typeSlugFor,
+} from "@/lib/seo/typeIndex";
+
+// All country-hub IDs (one /<lang>/<country>/ page each, per generateStaticParams).
+const ALL_COUNTRY_IDS = Object.keys(COUNTRY_SLUGS);
+// Category-hub params that actually build (TYPE_INDEX_COUNTRIES × buckets with ≥4 POIs).
+// Mirrors generateStaticParams in app/[lang]/[country]/category/[type]/page.tsx.
+const CATEGORY_PARAMS: { countryId: string; bucket: string }[] = [];
+for (const countryId of TYPE_INDEX_COUNTRIES) {
+  for (const bucket of Object.keys(TYPE_BUCKETS)) {
+    if (getPoisForCountryBucket(countryId, bucket).length >= 4) {
+      CATEGORY_PARAMS.push({ countryId, bucket });
+    }
+  }
+}
 
 // Tier-1 sight page index — loaded at build time. Each entry produces
 // /<lang>/<country>/<state>/<host-poi>/sight/<slug>/ in the sitemap.
@@ -48,10 +70,12 @@ export async function generateSitemaps() {
     (poi) => poi && poi.type !== "region" && poi.type !== "country" && hasIndexableContent(poi),
   );
   const ROOT_FIXED = 33;     // hardcoded root pages (/, /learn, /europe-map, country maps, ...)
-  const COUNTRIES = 3;       // germany, romania, hungary at country level
+  const GAME_FIXED = 27;     // GAME_ROUTES.length (astro + test routes), emitted per lang
   const totalUrls =
     ROOT_FIXED +
-    COUNTRIES * SUPPORTED_LANGS.length +
+    GAME_FIXED * SUPPORTED_LANGS.length +
+    ALL_COUNTRY_IDS.length * SUPPORTED_LANGS.length +
+    CATEGORY_PARAMS.length * SUPPORTED_LANGS.length +
     regions.length * SUPPORTED_LANGS.length +
     indexablePois.length * SUPPORTED_LANGS.length +
     SIGHT_PAGES.length * SUPPORTED_LANGS.length;
@@ -69,11 +93,22 @@ function createEntry(url: string, sourceFile: string, priority: number) {
 
 export default async function sitemap(props: { id: Promise<string> }): Promise<MetadataRoute.Sitemap> {
   const id = parseInt(await props.id, 10) || 0;
-  const countryUrls = SUPPORTED_LANGS.flatMap((lang) => [
-    createEntry(buildCountryPath(lang, "germany"), "app/[lang]/[country]/page.tsx", 1),
-    createEntry(buildCountryPath(lang, "romania"), "app/[lang]/[country]/page.tsx", 1),
-    createEntry(buildCountryPath(lang, "hungary"), "app/[lang]/[country]/page.tsx", 1),
-  ]);
+  // All ~180 country hubs (not just DE/RO/HU) — each builds a /<lang>/<country>/ page.
+  const countryUrls = SUPPORTED_LANGS.flatMap((lang) =>
+    ALL_COUNTRY_IDS.map((cid) =>
+      createEntry(buildCountryPath(lang, cid), "app/[lang]/[country]/page.tsx", 0.9),
+    ),
+  );
+  // Category hub pages: /<lang>/<country>/category/<type>/ (cities, castles, mountains, …).
+  const categoryUrls = SUPPORTED_LANGS.flatMap((lang) =>
+    CATEGORY_PARAMS.map(({ countryId, bucket }) =>
+      createEntry(
+        `/${lang}/${countrySlugFor(lang as Lang, countryId)}/category/${typeSlugFor(bucket, lang as Lang)}/`,
+        "app/[lang]/[country]/category/[type]/page.tsx",
+        0.7,
+      ),
+    ),
+  );
 
   const rootUrls = [
     createEntry("/", "app/page.tsx", 1),
@@ -180,6 +215,7 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
   for (const u of rootUrls) all.push(u);
   for (const u of gameUrls) all.push(u);
   for (const u of countryUrls) all.push(u);
+  for (const u of categoryUrls) all.push(u);
   for (const u of stateUrls) all.push(u);
   for (const u of poiUrls) all.push(u);
   for (const u of sightUrls) all.push(u);
