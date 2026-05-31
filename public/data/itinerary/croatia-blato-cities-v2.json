@@ -1,0 +1,992 @@
+{
+  "city_id": "croatia-blato-cities-v2",
+  "anchor": {
+    "name": "Blato",
+    "coords": [
+      42.9375,
+      16.7889
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Zlinje (Lindenallee) / Zlinje (Hárssétány)",
+          "coords": [
+            42.9375,
+            16.7889
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die zweitlängste Lindenallee Europas bietet herrlichen Schatten.",
+            "hu": "Európa második leghosszabb hárssétánya hűvös árnyat ad.",
+            "ro": "A doua cea mai lungă alee de tei din Europa oferă o umbră minunată.",
+            "en": "Europe's second-longest linden alley offers wonderful shade."
+          }
+        },
+        {
+          "name": "Svetište Marije Propetog Isusa Petković",
+          "coords": [
+            42.9368,
+            16.7875
+          ],
+          "category": "religious",
+          "arrive_at": "10:16",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein Ort der Ruhe und des Gedenkens an die selige Marija.",
+            "hu": "A nyugalom és a Boldog Marijára való emlékezés helye.",
+            "ro": "Un loc de liniște și amintire a Fericitei Marija.",
+            "en": "A place of peace and remembrance of Blessed Marija."
+          }
+        },
+        {
+          "name": "Župna crkva Svih Svetih",
+          "coords": [
+            42.9362,
+            16.7865
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Architektur und wertvolle Kunstwerke.",
+            "hu": "Csodálja meg a reneszánsz építészetet és az értékes műveket.",
+            "ro": "Admirați arhitectura renascentistă și operele de artă valoroase.",
+            "en": "Admire the Renaissance architecture and valuable artworks."
+          }
+        },
+        {
+          "name": "Etno kuća Barilo",
+          "coords": [
+            42.9355,
+            16.7905
+          ],
+          "category": "museum",
+          "arrive_at": "12:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie traditionelle Trachten und Werkzeuge der Insel.",
+            "hu": "Fedezze fel a sziget hagyományos népviseleteit és eszközeit.",
+            "ro": "Descoperiți costumele și uneltele tradiționale ale insulei.",
+            "en": "Discover traditional costumes and tools of the island."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba / Ebéd egy konobában",
+          "coords": [
+            42.936,
+            16.788
+          ],
+          "category": "gastro",
+          "arrive_at": "13:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie Pasticada, ein lokales Rindfleischgericht.",
+            "hu": "Kóstolja meg a pasticada-t, a helyi marhahúsételt.",
+            "ro": "Încercați pasticada, un preparat local din carne de vită.",
+            "en": "Try pasticada, a local beef dish."
+          }
+        },
+        {
+          "name": "Helyi termelői piac / Lokaler Markt",
+          "coords": [
+            42.9372,
+            16.7895
+          ],
+          "category": "market",
+          "arrive_at": "15:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kaufen Sie hausgemachtes Olivenöl und Feigenmarmelade.",
+            "hu": "Vásároljon házi olívaolajat és fügelekvárt.",
+            "ro": "Cumpărați ulei de măsline de casă și gem de smochine.",
+            "en": "Buy homemade olive oil and fig jam."
+          }
+        },
+        {
+          "name": "Aussichtspunkt auf das Feld / Kilátó a blatói mezőre",
+          "coords": [
+            42.942,
+            16.798
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Der perfekte Ort für Fotos über die fruchtbaren Weinberge.",
+            "hu": "Tökéletes hely fotózáshoz a termékeny szőlőültetvények felett.",
+            "ro": "Locul perfect pentru fotografii deasupra podgoriilor fertile.",
+            "en": "Perfect spot for photos over the fertile vineyards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entdecken Sie Blato zu Fuß, beginnend unter den majestätischen Linden der Zlinje-Allee. Der Vormittag führt Sie durch sakrale Schätze und das faszinierende Barilo-Museum, wo die Zeit stehen geblieben scheint. Nach einem herzhaften Mittagessen in einer gemütlichen Konoba erkunden Sie den lokalen Markt und beenden den Tag mit einem Blick über die weiten Felder von Korčula.",
+        "hu": "Fedezze fel Blatót gyalogosan, a Zlinje sétány fenséges hársfái alatt kezdve. A délelőtt szakrális kincseken és a lenyűgöző Barilo múzeumon vezet keresztül, ahol megállt az idő. Egy bőséges konoba-ebéd után fedezze fel a helyi piacot, majd zárja a napot a Korčula tágas mezőire nyíló kilátással.",
+        "ro": "Descoperiți Blato la pas, începând sub teii maiestuoși de pe aleea Zlinje. Dimineața vă poartă prin comori sacre și fascinantul muzeu Barilo, unde timpul pare să fi stat în loc. După un prânz copios într-o konoba primitoare, explorați piața locală și încheiați ziua cu o priveliște asupra câmpurilor întinse din Korčula.",
+        "en": "Discover Blato on foot, starting under the majestic linden trees of Zlinje alley. The morning takes you through sacred treasures and the fascinating Barilo museum, where time seems to have stood still. After a hearty lunch in a cozy konoba, explore the local market and end the day with a view over the vast fields of Korčula."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Zlinje",
+            "tip": "Traditionelle Gerichte unter Linden."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Zlinje",
+            "tip": "Hagyományos ételek a hársfák alatt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Zlinje",
+            "tip": "Preparate tradiționale sub tei."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Zlinje",
+            "tip": "Traditional dishes under the lindens."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Zlinje-Allee",
+            "tip": "Ein friedlicher Spaziergang am frühen Morgen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Zlinje sétány",
+            "tip": "Békés séta kora reggel.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Aleea Zlinje",
+            "tip": "O plimbare liniștită dimineața devreme.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Zlinje Alley",
+            "tip": "A peaceful stroll in the early morning.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Blato 1902",
+            "tip": "Lokale Weine und Olivenöle direkt vom Produzenten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Blato 1902",
+            "tip": "Helyi borok és olívaolajok közvetlenül a termelőtől."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Blato 1902",
+            "tip": "Vinuri locale și uleiuri de măsline direct de la producător."
+          }
+        ],
+        "en": [
+          {
+            "name": "Blato 1902",
+            "tip": "Local wines and olive oils direct from the producer."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie bequeme Schuhe, da die Straßen oft steil sind.",
+          "Probieren Sie den lokalen Wein der Sorte Cetinka."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt, mert az utcák gyakran meredekek.",
+          "Kóstolja meg a helyi Cetinka szőlőből készült bort."
+        ],
+        "ro": [
+          "Purtați pantofi confortabili, deoarece străzile sunt adesea abrupte.",
+          "Gustați vinul local din soiul Cetinka."
+        ],
+        "en": [
+          "Wear comfortable shoes as the streets are often steep.",
+          "Try the local wine made from the Cetinka grape variety."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Zlinje (Lindenallee)",
+          "coords": [
+            42.9375,
+            16.7889
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Perfekt für eine erste kleine Runde im Schatten.",
+            "hu": "Tökéletes egy első kis körre az árnyékban.",
+            "ro": "Perfect pentru o primă mică tură la umbră.",
+            "en": "Perfect for a first short loop in the shade."
+          }
+        },
+        {
+          "name": "Etno kuća Barilo",
+          "coords": [
+            42.9355,
+            16.7905
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sichere Fahrradständer befinden sich in der Nähe.",
+            "hu": "Biztonságos biciklitárolók találhatók a közelben.",
+            "ro": "Suporturi sigure pentru biciclete se află în apropiere.",
+            "en": "Safe bike racks are located nearby."
+          }
+        },
+        {
+          "name": "Župna crkva Svih Svetih",
+          "coords": [
+            42.9362,
+            16.7865
+          ],
+          "category": "cathedral",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Kirche kurz vor der Mittagspause.",
+            "hu": "Látogassa meg a templomot röviddel az ebédszünet előtt.",
+            "ro": "Vizitați biserica chiar înainte de pauza de prânz.",
+            "en": "Visit the church shortly before the lunch break."
+          }
+        },
+        {
+          "name": "Ebéd egy konobában / Mittagessen",
+          "coords": [
+            42.936,
+            16.788
+          ],
+          "category": "gastro",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Energie tanken für die Fahrt zur Küste.",
+            "hu": "Tankoljon energiát a parti úthoz.",
+            "ro": "Reîncărcați-vă cu energie pentru drumul spre coastă.",
+            "en": "Refuel with energy for the ride to the coast."
+          }
+        },
+        {
+          "name": "Hafen von Prigradica / Prigradica kikötő",
+          "coords": [
+            42.966,
+            16.811
+          ],
+          "category": "harbor",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresbrise nach der Abfahrt.",
+            "hu": "Élvezze a tengeri szellőt a lejtő után.",
+            "ro": "Bucurați-vă de briza mării după coborâre.",
+            "en": "Enjoy the sea breeze after the descent."
+          }
+        },
+        {
+          "name": "Strandpause in Prigradica / Strandidő",
+          "coords": [
+            42.967,
+            16.812
+          ],
+          "category": "beach",
+          "arrive_at": "14:35",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein erfrischendes Bad im kristallklaren Wasser.",
+            "hu": "Frissítő fürdő a kristálytiszta vízben.",
+            "ro": "O baie răcoritoare în apa de cristal.",
+            "en": "A refreshing swim in the crystal clear water."
+          }
+        },
+        {
+          "name": "Aussichtspunkt auf dem Rückweg / Kilátó",
+          "coords": [
+            42.952,
+            16.802
+          ],
+          "category": "viewpoint",
+          "arrive_at": "17:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Kurze Pause beim Aufstieg zurück nach Blato.",
+            "hu": "Rövid pihenő a Blatóba visszavezető emelkedőn.",
+            "ro": "Scurtă pauză în timpul urcării înapoi spre Blato.",
+            "en": "Short break during the climb back to Blato."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet das kulturelle Zentrum von Blato mit der idyllischen Küste von Prigradica. Nach dem Besuch der Museen und Kirchen im Ort folgt eine malerische Abfahrt zum Meer. Verbringen Sie den Nachmittag am Strand, bevor Sie den sanften Aufstieg zurücktreten und dabei fantastische Ausblicke auf die Adria genießen.",
+        "hu": "Ez a kerékpártúra összeköti Blato kulturális központját Prigradica idilli partjával. A múzeumok és templomok látogatása után festői lejtő következik a tengerhez. Töltse a délutánt a strandon, mielőtt megkezdi a lassú emelkedést visszafelé, közben élvezve az Adriára nyíló fantasztikus kilátást.",
+        "ro": "Acest tur cu bicicleta combină centrul cultural din Blato cu coasta idilică din Prigradica. După vizitarea muzeelor și bisericilor din localitate, urmează o coborâre pitorească spre mare. Petreceți după-amiaza la plajă înainte de a începe urcarea ușoară înapoi, bucurându-vă de vederi fantastice spre marea Adriatică.",
+        "en": "This bike tour connects the cultural center of Blato with the idyllic coast of Prigradica. After visiting the local museums and churches, a scenic descent follows to the sea. Spend the afternoon at the beach before starting the gentle climb back, enjoying fantastic views of the Adriatic along the way."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bistro Prigradica",
+            "tip": "Frischer Fisch direkt am Hafen."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Bistro Prigradica",
+            "tip": "Friss hal közvetlenül a kikötőben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Bistro Prigradica",
+            "tip": "Pește proaspăt chiar în port."
+          }
+        ],
+        "en": [
+          {
+            "name": "Bistro Prigradica",
+            "tip": "Fresh fish right by the harbor."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Felsenbucht bei Prigradica",
+            "tip": "Einsame Plätze für eine Meditation.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Sziklás öböl Prigradicánál",
+            "tip": "Magányos helyek meditációhoz.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golf stâncos lângă Prigradica",
+            "tip": "Locuri izolate pentru meditație.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Rocky cove near Prigradica",
+            "tip": "Secluded spots for meditation.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Örtliche Winzer",
+            "tip": "Fragen Sie nach direktem Verkauf ab Hof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Helyi borászok",
+            "tip": "Kérdezzen a közvetlen házi eladásról."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vinificatori locali",
+            "tip": "Întrebați de vânzarea directă de la fermă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Local winemakers",
+            "tip": "Ask about direct sales from the cellar."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Abfahrt nach Prigradica ist steil, prüfen Sie Ihre Bremsen.",
+          "Nehmen Sie genügend Wasser für den Rückweg mit."
+        ],
+        "hu": [
+          "A lejtő Prigradica felé meredek, ellenőrizze a fékeket.",
+          "Vigyen elég vizet a visszaútra."
+        ],
+        "ro": [
+          "Coborârea spre Prigradica este abruptă, verificați frânele.",
+          "Luați suficientă apă pentru drumul de întoarcere."
+        ],
+        "en": [
+          "The descent to Prigradica is steep, check your brakes.",
+          "Take enough water for the way back."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 15.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": "Zlinje (Cluster A)",
+          "coords": [
+            42.9375,
+            16.7889
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie zentral und erkunden Sie den Kern zu Fuß.",
+            "hu": "Parkoljon a központban, és fedezze fel a magot gyalog.",
+            "ro": "Parcați central și explorați centrul pe jos.",
+            "en": "Park centrally and explore the core on foot."
+          }
+        },
+        {
+          "name": "Svetište Marije Propetog Isusa Petković",
+          "coords": [
+            42.9368,
+            16.7875
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Nur ein kurzer Spaziergang vom Hauptplatz entfernt.",
+            "hu": "Csak egy rövid séta a főtértől.",
+            "ro": "La doar o scurtă plimbare de piața principală.",
+            "en": "Just a short walk from the main square."
+          }
+        },
+        {
+          "name": "Župna crkva Svih Svetih",
+          "coords": [
+            42.9362,
+            16.7865
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Das Wahrzeichen von Blato mit seiner imposanten Loggia.",
+            "hu": "Blato jelképe az impozáns loggiájával.",
+            "ro": "Simbolul orașului Blato cu loggia sa impunătoare.",
+            "en": "The landmark of Blato with its imposing loggia."
+          }
+        },
+        {
+          "name": "Etno kuća Barilo",
+          "coords": [
+            42.9355,
+            16.7905
+          ],
+          "category": "museum",
+          "arrive_at": "11:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Kehren Sie nach dem Besuch zum Auto zurück.",
+            "hu": "A látogatás után térjen vissza az autóhoz.",
+            "ro": "Reveniți la mașină după vizită.",
+            "en": "Return to the car after the visit."
+          }
+        },
+        {
+          "name": "Strand von Prigradica (Cluster B)",
+          "coords": [
+            42.967,
+            16.812
+          ],
+          "category": "beach",
+          "arrive_at": "13:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Parkplätze direkt oberhalb des Strandes verfügbar.",
+            "hu": "Parkolóhelyek közvetlenül a strand felett elérhetők.",
+            "ro": "Locuri de parcare disponibile direct deasupra plajei.",
+            "en": "Parking spaces available directly above the beach."
+          }
+        },
+        {
+          "name": "Hafen-Spaziergang / Harbour Walk",
+          "coords": [
+            42.966,
+            16.811
+          ],
+          "category": "harbor",
+          "arrive_at": "15:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Beobachten Sie das Einlaufen der Fischerboote.",
+            "hu": "Figyelje meg a befutó halászhajókat.",
+            "ro": "Urmăriți bărcile de pescuit care intră în port.",
+            "en": "Watch the fishing boats coming in."
+          }
+        },
+        {
+          "name": "Spätes Mittagessen am Meer / Ebéd",
+          "coords": [
+            42.9665,
+            16.8115
+          ],
+          "category": "gastro",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie Meeresfrüchte mit Blick auf den Kanal von Hvar.",
+            "hu": "Élvezze a tenger gyümölcseit kilátással a Hvar-csatornára.",
+            "ro": "Bucurați-vă de fructe de mare cu vedere spre canalul Hvar.",
+            "en": "Enjoy seafood with a view of the Hvar channel."
+          }
+        },
+        {
+          "name": "Sonnenuntergangs-Stopp / Naplemente",
+          "coords": [
+            42.945,
+            16.79
+          ],
+          "category": "sunset",
+          "arrive_at": "17:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "hop_mode": "car",
+          "tip_5lang": {
+            "de": "Halten Sie an der Straße für ein letztes Panorama.",
+            "hu": "Álljon meg az útnál egy utolsó panorámáért.",
+            "ro": "Opriți-vă la drum pentru o ultimă panoramă.",
+            "en": "Stop by the road for one last panorama."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erleben Sie das Beste aus zwei Welten: das kulturelle Erbe von Blato und den maritimen Charme von Prigradica. Nach einem entspannten Vormittag im historischen Zentrum fahren Sie zur Küste, um die Sonne und das Meer zu genießen. Ein perfekter Tag, der Flexibilität und Komfort vereint, abgerundet durch ein exzellentes Abendessen am Wasser.",
+        "hu": "Autóval mindkét világból a legjobbat kapja: Blato kulturális örökségét és Prigradica tengerparti báját. A történelmi központban töltött nyugodt délelőtt után hajtson a partra, hogy élvezze a napsütést és a tengert. Egy tökéletes nap, amely egyesíti a rugalmasságot és a kényelmet, kiváló vacsorával zárva a vízparton.",
+        "ro": "Cu mașina experimentați ce este mai bun din ambele lumi: moștenirea culturală din Blato și farmecul maritim din Prigradica. După o dimineață relaxată în centrul istoric, conduceți spre coastă pentru a vă bucura de soare și mare. O zi perfectă care îmbină flexibilitatea și confortul, încheiată cu o cină excelentă pe malul apei.",
+        "en": "By car, you experience the best of both worlds: the cultural heritage of Blato and the maritime charm of Prigradica. After a relaxed morning in the historic center, drive to the coast to enjoy the sun and the sea. A perfect day combining flexibility and comfort, rounded off with an excellent dinner by the water."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Tera",
+            "tip": "Bekannt für Fleischgerichte unter der Glocke (Peka)."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Tera",
+            "tip": "Híres a harang alatt sült húsokról (Peka)."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Tera",
+            "tip": "Cunoscută pentru preparate la d'ușac (Peka)."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Tera",
+            "tip": "Famous for meat dishes under the bell (Peka)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Hügelkapellen um Blato",
+            "tip": "Zahlreiche kleine Kirchen bieten Ruhe.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Dombi kápolnák Blato körül",
+            "tip": "Számos kis templom kínál nyugalmat.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Capelele de pe dealuri",
+            "tip": "Numeroase biserici mici oferă liniște.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Hilltop chapels around Blato",
+            "tip": "Numerous small churches offer peace.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "OPG Tomašić",
+            "tip": "Lokaler Honig und Grappa."
+          }
+        ],
+        "hu": [
+          {
+            "name": "OPG Tomašić",
+            "tip": "Helyi méz és pálinka."
+          }
+        ],
+        "ro": [
+          {
+            "name": "OPG Tomašić",
+            "tip": "Miere locală și grappa."
+          }
+        ],
+        "en": [
+          {
+            "name": "OPG Tomašić",
+            "tip": "Local honey and grappa."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Parken Sie in Blato am besten nahe der Zlinje-Allee.",
+          "In Prigradica ist die Parksituation im Hochsommer angespannt."
+        ],
+        "hu": [
+          "Blatóban a legjobb a Zlinje sétány közelében parkolni.",
+          "Prigradicán főszezonban nehézkes lehet a parkolás."
+        ],
+        "ro": [
+          "În Blato, cel mai bine este să parcați lângă aleea Zlinje.",
+          "În Prigradica, situația parcărilor este tensionată în plină vară."
+        ],
+        "en": [
+          "In Blato, it's best to park near Zlinje alley.",
+          "In Prigradica, parking can be tight in high summer."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Zlinje / Blato Zentrum",
+          "coords": [
+            42.9375,
+            16.7889
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Der Busbahnhof liegt direkt an der Hauptallee.",
+            "hu": "A buszállomás közvetlenül a fősétánynál van.",
+            "ro": "Stația de autobuz este chiar lângă aleea principală.",
+            "en": "The bus station is right by the main alley."
+          }
+        },
+        {
+          "name": "Župna crkva Svih Svetih",
+          "coords": [
+            42.9362,
+            16.7865
+          ],
+          "category": "cathedral",
+          "arrive_at": "10:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein kurzer Spaziergang durch die malerischen Gassen.",
+            "hu": "Rövid séta a festői sikátorokon keresztül.",
+            "ro": "O scurtă plimbare prin străduțele pitorești.",
+            "en": "A short walk through the picturesque alleys."
+          }
+        },
+        {
+          "name": "Etno kuća Barilo",
+          "coords": [
+            42.9355,
+            16.7905
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die lokale Geschichte.",
+            "hu": "Merüljön el a helyi történelemben.",
+            "ro": "Cufundați-vă în istoria locală.",
+            "en": "Immerse yourself in the local history."
+          }
+        },
+        {
+          "name": "Ebéd a városban / Mittagessen",
+          "coords": [
+            42.936,
+            16.788
+          ],
+          "category": "gastro",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe im Inselinneren.",
+            "hu": "Élvezze a nyugalmat a sziget belsejében.",
+            "ro": "Bucurați-vă de liniștea din interiorul insulei.",
+            "en": "Enjoy the peace in the island's interior."
+          }
+        },
+        {
+          "name": "Prigradica Hafen (Busfahrt)",
+          "coords": [
+            42.966,
+            16.811
+          ],
+          "category": "harbor",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 4.5,
+          "hop_mode": "transit",
+          "tip_5lang": {
+            "de": "Prüfen Sie den Fahrplan für die Rückfahrt genau.",
+            "hu": "Pontosan ellenőrizze a visszautat a menetrendben.",
+            "ro": "Verificați cu atenție orarul pentru întoarcere.",
+            "en": "Check the timetable for the return journey carefully."
+          }
+        },
+        {
+          "name": "Strandpause / Gelato",
+          "coords": [
+            42.967,
+            16.812
+          ],
+          "category": "beach",
+          "arrive_at": "15:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "hop_mode": "walk",
+          "tip_5lang": {
+            "de": "Ein Eis am Meer, bevor der Bus zurückfährt.",
+            "hu": "Egy fagyi a tengerparton, mielőtt indul a busz.",
+            "ro": "O înghețată la mare înainte ca autobuzul să plece.",
+            "en": "An ice cream by the sea before the bus leaves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Blato und seine Umgebung ganz entspannt mit den öffentlichen Bussen. Nach einem kulturellen Vormittag im Zentrum führt Sie eine kurze Busfahrt an die Küste nach Prigradica. Genießen Sie die Aussicht während der Fahrt und die Erfrischung im Meer, ganz ohne Parkplatzsorgen.",
+        "hu": "Fedezze fel Blatót és környékét kényelmesen, a helyi buszokkal. A központban töltött kulturális délelőtt után egy rövid buszút viszi a partra, Prigradicába. Élvezze a kilátást az út alatt és a frissítő tengert, parkolási gondok nélkül.",
+        "ro": "Explorați Blato și împrejurimile sale relaxat, cu autobuzele publice. După o dimineață culturală în centru, o scurtă călătorie cu autobuzul vă duce la coastă, în Prigradica. Bucurați-vă de priveliște în timpul călătoriei și de răcoarea mării, fără grija parcării.",
+        "en": "Explore Blato and its surroundings in a relaxed way with public buses. After a cultural morning in the center, a short bus ride takes you to the coast at Prigradica. Enjoy the views during the ride and the refreshment in the sea, without any parking worries."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Caffe Bar Arka",
+            "tip": "Bester Treffpunkt für Einheimische am Busbahnhof."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Caffe Bar Arka",
+            "tip": "A legjobb találkozóhely a buszállomásnál."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Caffe Bar Arka",
+            "tip": "Cel mai bun loc de întâlnire lângă stația de autobuz."
+          }
+        ],
+        "en": [
+          {
+            "name": "Caffe Bar Arka",
+            "tip": "Best meeting spot for locals at the bus station."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Kirchhof von Allerheiligen",
+            "tip": "Ein schattiger Platz zum Nachdenken.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Mindenszentek templomkert",
+            "tip": "Árnyékos hely az elmélkedéshez.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Curtea bisericii Toți Sfinții",
+            "tip": "Un loc umbros pentru meditație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "All Saints churchyard",
+            "tip": "A shaded spot for reflection.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Konzum Blato",
+            "tip": "Für Snacks und Getränke vor der Fahrt."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konzum Blato",
+            "tip": "Nassolnivalók és italok az út előtt."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konzum Blato",
+            "tip": "Pentru gustări și băuturi înainte de drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konzum Blato",
+            "tip": "For snacks and drinks before the trip."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Fahrkarten können direkt beim Busfahrer gekauft werden.",
+          "Die Busse am Wochenende verkehren seltener."
+        ],
+        "hu": [
+          "Jegyet közvetlenül a buszvezetőnél lehet venni.",
+          "Hétvégén ritkábban járnak a buszok."
+        ],
+        "ro": [
+          "Biletele pot fi cumpărate direct de la șofer.",
+          "Autobuzele circulă mai rar în weekend."
+        ],
+        "en": [
+          "Tickets can be bought directly from the bus driver.",
+          "Buses run less frequently on weekends."
+        ]
+      }
+    }
+  }
+}
