@@ -1,0 +1,476 @@
+<!doctype html>
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=3">
+<title>Murter térkép — Plizio</title>
+<meta name="description" content="Koppints egy helyre a részletekért">
+<link rel="canonical" href="https://plizio.com/murter-map/">
+<link rel="alternate" hreflang="de" href="https://plizio.com/murter-map/de/">
+<link rel="alternate" hreflang="hu" href="https://plizio.com/murter-map/">
+<link rel="alternate" hreflang="ro" href="https://plizio.com/murter-map/ro/">
+<link rel="alternate" hreflang="en" href="https://plizio.com/murter-map/en/">
+<link rel="alternate" hreflang="x-default" href="https://plizio.com/murter-map/">
+<meta property="og:title" content="Murter térkép — Plizio">
+<meta property="og:description" content="Koppints egy helyre a részletekért">
+<meta property="og:url" content="https://plizio.com/murter-map/">
+<meta property="og:type" content="website">
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;height:100%;background:#060614;color:#fff;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;overflow:hidden}
+header{display:flex;align-items:center;gap:.6rem;padding:.65rem .9rem;background:#0a0a1f;border-bottom:1px solid #ffffff14;position:relative;z-index:5}
+header a.back{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:50%;background:#ffffff14;color:#fff;text-decoration:none;font-weight:700}
+header a.back:active{background:#ffffff28}
+header h1{margin:0;font-size:1rem;font-weight:800;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+header .langs{display:flex;gap:.25rem}
+.lang{font-size:.7rem;font-weight:700;padding:.25rem .45rem;border-radius:6px;color:#ffffffb0;text-decoration:none;background:#ffffff10}
+.lang.on{background:#3b82f6;color:#fff}
+#stage{position:absolute;inset:101px 0 0 0;overflow:hidden;touch-action:none;background:radial-gradient(ellipse at 50% 30%,#0e1233 0%,#060614 70%)}
+#stage::before{content:"";position:absolute;inset:0;pointer-events:none;z-index:0;opacity:.5;background-image:radial-gradient(1.2px 1.2px at 12% 22%,#ffffff70,transparent),radial-gradient(1px 1px at 28% 68%,#ffffff55,transparent),radial-gradient(1.4px 1.4px at 47% 38%,#cfe4ff66,transparent),radial-gradient(1px 1px at 63% 18%,#ffffff50,transparent),radial-gradient(1.3px 1.3px at 78% 72%,#ffffff66,transparent),radial-gradient(1px 1px at 88% 33%,#cfe4ff55,transparent),radial-gradient(1px 1px at 38% 88%,#ffffff44,transparent),radial-gradient(1.2px 1.2px at 92% 58%,#ffffff55,transparent);background-repeat:no-repeat}
+#svg{width:100%;height:100%;display:block;cursor:grab;position:relative;z-index:1}
+#svg.drag{cursor:grabbing}
+.region{fill:#161e3a;stroke:#6f9bf0;stroke-width:1.1;stroke-opacity:.7;transition:fill .15s}
+.region:hover{fill:#28356e}
+.label{fill:#ffffff70;font-size:11px;font-weight:600;pointer-events:none;text-anchor:middle}
+.poi{cursor:pointer}
+.poi circle{fill:#9ca3af;stroke:#0a0f20;stroke-width:.5;transition:r .12s,opacity .12s}
+.poi.g-city circle{fill:#7cc0ff;filter:drop-shadow(0 0 2.4px #4aa6ff)}
+.poi.g-sight circle{fill:#fcd34d;filter:drop-shadow(0 0 2.4px #f5b528)}
+.poi.g-nature circle{fill:#4ade80;filter:drop-shadow(0 0 2.4px #22c55e)}
+.poi.g-history circle{fill:#d0a6ff;filter:drop-shadow(0 0 2.4px #b266ff)}
+.poi.g-industry circle{fill:#ffb066;filter:drop-shadow(0 0 2.4px #fb923c)}
+.poi.g-other circle{fill:#b8c0cc;filter:drop-shadow(0 0 2px #9ca3af)}
+.poi.dim{opacity:.16}
+.poi.dim circle{filter:none}
+.poi,.cluster{transition:opacity .2s}
+#svg.dim-pois .poi,#svg.dim-pois .cluster{opacity:.1!important}
+#svg.dim-pois .poi circle{filter:none}
+.poi.match circle{stroke:#fff;stroke-width:1.4}
+.poi:hover circle,.poi.active circle{r:7.5;fill:#fff;opacity:1;filter:drop-shadow(0 0 6px #cfeaff) drop-shadow(0 0 11px #7fd0ff)}
+.poi-metro{cursor:pointer}
+.poi-metro .pm-halo{fill:#ffd54a;opacity:.18;animation:pmpulse 2.2s ease-in-out infinite}
+.poi-metro .pm-ring{fill:none;stroke:#ffd54a;stroke-width:1.6;opacity:.85}
+.poi-metro .pm-dot{fill:#fff;filter:drop-shadow(0 0 5px #ffd54a)}
+.poi-metro .pm-label{fill:#fff;font-size:11px;font-weight:800;paint-order:stroke;stroke:#06061b;stroke-width:3.2px;stroke-linejoin:round;letter-spacing:.2px}
+.poi-metro:hover .pm-ring,.poi-metro:focus .pm-ring{stroke-width:2.4;opacity:1}
+.poi-metro:hover .pm-label{fill:#ffe98a}
+@keyframes pmpulse{0%,100%{opacity:.16;transform:scale(1)}50%{opacity:.34;transform:scale(1.18)}}
+.controls{position:absolute;top:53px;left:0;right:0;z-index:4;padding:.4rem .55rem;display:flex;gap:.3rem;align-items:center;background:linear-gradient(180deg,#060614 0%,#06061400 100%)}
+.chips{display:flex;gap:.25rem;flex-shrink:0}
+.chip{flex-shrink:0;width:30px;height:30px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;user-select:none;padding:0;opacity:.45;transition:opacity .12s,background .12s,border-color .12s}
+.chip.on{opacity:1}
+.chip.on.g-city{background:#60a5fa22;border-color:#60a5fa70}
+.chip.on.g-sight{background:#fbbf2422;border-color:#fbbf2470}
+.chip.on.g-nature{background:#22c55e22;border-color:#22c55e70}
+.chip.on.g-history{background:#c084fc22;border-color:#c084fc70}
+.chip.on.g-industry{background:#fb923c22;border-color:#fb923c70}
+.chip.on.g-other{background:#9ca3af22;border-color:#9ca3af70}
+.chip svg{display:block}
+.search{flex:1;min-width:0;display:flex;align-items:center;gap:.3rem;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;padding:.15rem .5rem .15rem .6rem;height:30px}
+.search input{flex:1;border:none;outline:none;background:transparent;color:#fff;font-size:.82rem;padding:.25rem 0;min-width:0;font-family:inherit}
+.search input::placeholder{color:#ffffff70}
+.search-results{position:absolute;top:34px;left:0;right:0;background:#0d1230;border:1px solid #ffffff20;border-radius:8px;max-height:280px;overflow-y:auto;display:none;z-index:10;box-shadow:0 4px 16px #00000060}
+.search.has-q .search-results.has-hits{display:block}
+.search-results a{display:flex;align-items:center;gap:.4rem;padding:.45rem .55rem;color:#fff;text-decoration:none;font-size:.8rem;border-bottom:1px solid #ffffff10;cursor:pointer}
+.search-results a:last-child{border-bottom:none}
+.search-results a:hover,.search-results a.active{background:#1a2055}
+.search-results .dot{width:8px;height:8px;border-radius:50%;flex:none}
+.search-results .nm{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.search-results .gr{font-size:.65rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.04em}
+.search-results .smore{display:flex;align-items:center;justify-content:center;width:100%;padding:.45rem;background:#1a2055;color:#fff;border:none;border-top:1px solid #ffffff10;cursor:pointer;font-size:.75rem;font-weight:600}
+.search-results .smore:hover{background:#252b6a}
+.search-results .srest a{background:#0a0e23}
+.search button{background:transparent;border:none;color:#ffffff80;font-size:1rem;cursor:pointer;padding:0 .15rem;display:none;line-height:1}
+.search.has-q button{display:block}
+.poi.hidden{display:none !important}
+.poi.reveal{display:initial}
+.cluster.hidden{display:none !important}
+.cluster{cursor:pointer}
+.cluster circle{transition:r .12s}
+.cluster:hover circle{r:14}
+/* At default zoom: clusters visible, in-cluster POIs hidden */
+.poi.in-cluster{display:none}
+/* At higher zoom: clusters hide, in-cluster POIs become visible */
+#svg.expand .cluster{display:none}
+#svg.expand .poi.in-cluster{display:initial}
+.hint{position:absolute;top:102px;left:50%;transform:translateX(-50%);background:#000000a0;backdrop-filter:blur(8px);padding:.4rem .8rem;border-radius:999px;font-size:.75rem;color:#ffffffc0;pointer-events:none;z-index:3;animation:fadeOut 4s 2s forwards}
+@keyframes fadeOut{to{opacity:0}}
+.popup{position:absolute;bottom:0;left:0;right:0;background:rgba(11,19,35,.86);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-top:1px solid rgba(120,180,255,.3);border-radius:18px 18px 0 0;padding:1rem 1.2rem 1.4rem;transform:translateY(100%);transition:transform .25s;z-index:10;box-shadow:0 -12px 44px rgba(0,0,0,.6)}
+.popup.open{transform:translateY(0)}
+.popup .x{position:absolute;top:.5rem;right:.7rem;width:32px;height:32px;border-radius:50%;background:#ffffff14;border:none;color:#fff;font-size:1.1rem;cursor:pointer;z-index:2}
+.popup h2{margin:0 0 .3rem;font-size:1.1rem;font-weight:800}
+.popup .type{font-size:.7rem;color:#ffffff70;text-transform:uppercase;letter-spacing:.05em;margin-bottom:.5rem}
+.popup p{margin:0 0 .8rem;font-size:.85rem;line-height:1.45;color:#ffffffc8}
+.popup a.more{display:inline-block;background:#3b82f6;color:#fff;text-decoration:none;font-weight:700;padding:.55rem 1rem;border-radius:8px;font-size:.85rem}
+.popup .pcard{margin:-1rem -1rem .75rem;border-radius:12px 12px 0 0;overflow:hidden;display:none}
+.popup .pcard.has-img{display:block;aspect-ratio:16/9;background-color:#1a2055;background-position:center;background-size:cover;background-repeat:no-repeat}
+.popup .pdesc{margin:.5rem 0 .75rem;color:#ffffffc0;font-size:.88rem;line-height:1.4;display:none}
+.popup .pdesc.show{display:block}
+.popup .pfacts{margin:.2rem 0 .85rem;padding:0;list-style:none;display:none}
+.popup .pfacts.show{display:block}
+.popup .pfacts li{position:relative;padding:.2rem 0 .2rem 1rem;color:#ffffff95;font-size:.8rem;line-height:1.35}
+.popup .pfacts li::before{content:"•";position:absolute;left:.15rem;color:#3b82f6;font-weight:700}
+.popup .single{display:none}.popup .list{display:none}
+.popup.mode-single .single{display:block}
+.popup.mode-list .list{display:block;max-height:60vh;overflow-y:auto;margin-right:-.5rem;padding-right:.5rem}
+.popup .list .lh{font-size:.75rem;color:#ffffff80;margin:0 0 .5rem;text-transform:uppercase;letter-spacing:.05em}
+.popup .list a,.popup .list .nl{display:flex;align-items:center;gap:.6rem;padding:.4rem .45rem;border-radius:10px;text-decoration:none;color:#fff;font-size:.88rem;border-bottom:1px solid #ffffff10}
+.popup .list a:hover,.popup .list a:active{background:rgba(120,180,255,.12)}
+.popup .list .lthumb{width:42px;height:42px;border-radius:9px;flex-shrink:0;background:#1a2740 center/cover no-repeat;display:flex;align-items:center;justify-content:center}
+.popup .list .lthumb .dot{width:9px;height:9px;border-radius:50%}
+.popup .list .lbody{flex:1;min-width:0;display:flex;flex-direction:column;gap:1px}
+.popup .list .n{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:600}
+.popup .list .g{font-size:.64rem;color:#9fc4ff;text-transform:uppercase;letter-spacing:.04em}
+.popup .list .lgo{color:#7fb0ff;font-size:1.2rem;font-weight:700;flex-shrink:0;padding-right:.3rem}
+.popup .list .nl{color:#ffffffb0;font-style:normal}
+.mapcard{position:fixed;z-index:20;width:max-content;min-width:150px;max-width:230px;background:rgba(11,19,35,.82);backdrop-filter:blur(13px);-webkit-backdrop-filter:blur(13px);border:1px solid rgba(120,180,255,.34);border-radius:14px;box-shadow:0 14px 44px rgba(0,0,0,.62),0 0 0 1px rgba(120,180,255,.08);opacity:0;visibility:hidden;pointer-events:none;transform:translate(-50%,-100%) translateY(-15px) scale(.95);transform-origin:bottom center;transition:opacity .16s,transform .16s}
+.mapcard.open{opacity:1;visibility:visible;pointer-events:auto;transform:translate(-50%,-100%) translateY(-15px) scale(1)}
+.mapcard--below{transform:translate(-50%,0) translateY(15px) scale(.95);transform-origin:top center}
+.mapcard--below.open{transform:translate(-50%,0) translateY(15px) scale(1)}
+.mapcard::after{content:"";position:absolute;left:var(--ax,50%);top:100%;transform:translateX(-50%);border:7px solid transparent;border-top-color:rgba(11,19,35,.82)}
+.mapcard--below::after{top:auto;bottom:100%;border-top-color:transparent;border-bottom-color:rgba(11,19,35,.82)}
+.mapcard .mc-img{width:100%;aspect-ratio:16/9;background:#1a2740 center/cover no-repeat;display:none;border-radius:13px 13px 0 0}
+.mapcard .mc-img.has{display:block}
+.mapcard .mc-body{padding:9px 11px 11px}
+.mapcard .mc-type{font-size:.62rem;letter-spacing:.06em;text-transform:uppercase;color:#7fb0ff;font-weight:700}
+.mapcard .mc-name{font-size:.95rem;font-weight:800;color:#eef4ff;margin:1px 0 5px;line-height:1.2}
+.mapcard .mc-desc{font-size:.76rem;color:#cfe0ff;line-height:1.4;margin:0 0 9px;display:none}
+.mapcard .mc-desc.show{display:block}
+.mapcard .mc-more{display:inline-block;background:linear-gradient(135deg,#3b82f6,#2563eb);color:#fff;text-decoration:none;font-weight:700;font-size:.78rem;padding:.42rem .75rem;border-radius:8px}
+.mapcard .mc-x{position:absolute;top:5px;right:5px;width:24px;height:24px;border-radius:50%;background:rgba(0,0,0,.5);border:none;color:#fff;font-size:.95rem;cursor:pointer;z-index:2;display:flex;align-items:center;justify-content:center;line-height:1;padding:0}
+.burst{position:fixed;inset:0;z-index:15;pointer-events:none;display:none}
+.burst.open{display:block}
+.burst-svg{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
+.burst-line{stroke:rgba(120,185,255,.4);stroke-width:1.1;stroke-linecap:round;animation:burstFade .25s ease-out}
+.burst-core{fill:#cdeeff;filter:drop-shadow(0 0 5px #7fd0ff)}
+.burst-dots{position:absolute;inset:0}
+.burst-dot{position:absolute;transform:translate(-50%,-50%);pointer-events:auto;cursor:pointer;border:none;background:none;padding:0;display:flex;flex-direction:column;align-items:center;gap:3px;animation:burstPop .22s ease-out}
+.burst-dot .bd{width:15px;height:15px;border-radius:50%;background:currentColor;box-shadow:0 0 0 2px rgba(8,16,34,.6),0 0 10px currentColor;transition:transform .12s}
+.burst-dot:hover .bd,.burst-dot:focus-visible .bd{transform:scale(1.3)}
+.burst-dot .bl{font-size:.72rem;font-weight:700;color:#eef4ff;background:rgba(8,14,28,.82);border:1px solid rgba(120,180,255,.25);padding:1.5px 6px;border-radius:7px;white-space:nowrap;max-width:120px;overflow:hidden;text-overflow:ellipsis;text-shadow:0 1px 2px #000}
+@keyframes burstPop{from{opacity:0;transform:translate(-50%,-50%) scale(.4)}to{opacity:1;transform:translate(-50%,-50%) scale(1)}}
+@keyframes burstFade{from{opacity:0}to{opacity:1}}
+.zoom{position:absolute;right:.7rem;bottom:.7rem;display:flex;flex-direction:column;gap:.35rem;z-index:4}
+.zoom button{width:38px;height:38px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;color:#fff;font-size:1.2rem;font-weight:800;cursor:pointer}
+.zoom button:active{background:#1a2240}
+</style>
+</head>
+<body>
+<header>
+<a class="back" href="/" aria-label="Vissza">‹</a>
+<h1>Murter térkép</h1>
+<div class="langs"><a class="lang" href="/murter-map/de/">DE</a><span class="lang on">HU</span><a class="lang" href="/murter-map/ro/">RO</a><a class="lang" href="/murter-map/en/">EN</a></div>
+</header>
+<div class="controls">
+<div class="chips"><button class="chip on g-city" data-g="city" aria-label="Városok" title="Városok (4)"><svg viewBox="0 0 16 16" width="14" height="14" stroke="#60a5fa" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21V8l5-3v3l5-3v16M3 12h2m4 0h2m-2 4h2m-2-8h2m4 4h2m-2 4h2m-2-8h2"/></svg></button></div>
+<div class="search" id="searchWrap"><input id="searchIn" type="search" placeholder="Keresés…" autocomplete="off"><button id="searchX" aria-label="clear">×</button><div class="search-results" id="searchRes"></div></div>
+</div>
+<div id="stage">
+  <svg id="svg" viewBox="0 0 1120.0 1067.9" preserveAspectRatio="xMidYMid meet" aria-label="Murter térkép">
+    <g id="gR"><path class="region" data-id="murter" d="M137.6,224.7L149.1,224.3L158.1,242.6L146.7,297.3L169.4,306.9L205.8,306L208.8,313.9L195.1,339.8L203.1,367.8L225.7,381.4L266.1,425.8L270.3,455.1L310.1,434L296.9,495.6L337.5,491.4L345.3,506.5L339.6,536.9L347.5,548.1L380.7,557.8L385.7,582.7L431.8,582.1L428.8,604.7L442.1,633.2L471.5,621.6L458.7,607.9L472.4,581.4L496.2,568.8L519.7,591.8L536,641.1L544.1,647.4L547.7,689.9L577.3,697.3L571.4,736.1L605.5,758.9L631.4,753.9L641.8,762.6L623.1,802.8L621.5,840.7L651.2,859.4L652.6,882.7L695.1,876.8L705.1,849L699.3,843.2L718,858.5L718.7,898.5L775.3,942.3L799.4,929.5L813.3,935.7L826.6,963.6L856,977.8L876.6,964.3L882.9,946.2L893.9,952.8L902.7,994.3L927.6,1007.2L975.2,1007.9L997.2,973.4L1042.7,1006.1L1055.4,1006.7L1060,971.4L1024.1,899.8L1011,886.4L986.5,890.5L979.9,873.7L960.5,863.9L977.7,831.4L975.9,820.7L951.2,815.3L932.8,822.2L922,798.8L862.5,752.8L862.7,744L839.1,760L822.1,743.7L826.8,737.7L821.2,742.7L811.4,734.3L813.8,722.3L842.6,739.4L876.2,734.2L914.1,704.3L881.7,675.9L867.2,636.4L874.2,611.3L848.3,602L839.4,579.6L831.5,585L818.5,549.1L787.8,537.9L768.2,542.4L720.8,584.2L703.1,582.1L673.9,613.1L663.4,592L664.1,573.2L692.7,541.4L689.9,528.2L674,522L636.9,540.3L634.4,481.2L585.2,441.9L561.9,436.5L543.1,454.6L529.1,455.6L533.8,439L496.2,409.1L461.7,343.1L459.5,270.7L445.3,258.3L446.8,246.6L443.6,251.1L436.2,235.3L448,225L443.6,236L456.9,229.6L473,196.2L470,177.6L410.5,139.9L431.6,157.4L424.6,156.8L398.4,191.4L390.1,190L388.4,200L372.4,195.7L381,177.1L378.6,142.4L388.4,111.8L377.8,80.8L380,60L365.6,64.7L356,85.1L324.5,114.8L322.1,141.9L314.6,146.2L322.5,152.1L308.5,162.6L322.5,152.5L327.9,161.5L311.2,165.4L320.3,183.9L314.9,170.7L328.5,162.6L340.8,183.7L317.5,190.6L338.2,190.5L343.3,203.2L333.8,211.4L327.9,199.7L332.8,212.1L320.4,222.3L311.8,217L321,227.4L303.6,223.9L308.3,231.1L300.7,238.6L252.4,230.5L245,216.3L248.9,208.1L233.7,187.9L241.9,177.4L221.4,170.7L206.1,127.2L155.2,118.9L170.3,79.1L165.1,67.5L133.3,66.1L107,82.7L73.5,85.2L62.9,103.1L60,153L77.2,167.4L106.9,167.3L140.3,195.2L148.4,202.9L148.8,220.7L137.6,224.7Z"/></g>
+    <g id="gL"></g>
+    <g id="gP"><g class="poi g-city" data-id="croatia-jezera-cities-v2" data-name="Jezera" data-search="jezera" data-grp="city" data-cx="826.4" data-cy="718.8" transform="translate(826.4,718.8)"><circle r="5"/></g><g class="poi g-city" data-id="croatia-betina-cities-v2" data-name="Betina" data-search="betina" data-grp="city" data-cx="448.8" data-cy="223.8" transform="translate(448.8,223.8)"><circle r="5"/></g><g class="poi g-city" data-id="murter" data-name="Murter" data-search="murter" data-grp="city" data-cx="286.1" data-cy="250.6" data-url="/hu/horvatorszag/hr-15/murter/" transform="translate(286.1,250.6)"><circle r="5"/></g><g class="poi g-city" data-id="tisno" data-name="Tisno" data-search="tisno" data-grp="city" data-cx="818.7" data-cy="514.9" data-url="/hu/horvatorszag/hr-15/tisno/" transform="translate(818.7,514.9)"><circle r="5"/></g></g>
+    <g id="gC"></g>
+  </svg>
+  <div class="zoom"><button id="zin" aria-label="zoom in">+</button><button id="zout" aria-label="zoom out">−</button></div>
+</div>
+<div class="hint">Koppints egy helyre a részletekért</div>
+<div class="popup" id="popup" role="dialog" aria-modal="false">
+  <button class="x" id="px" aria-label="close">×</button>
+  <div class="single">
+    <div class="pcard" id="pcard"></div>
+    <div class="type" id="ptype"></div>
+    <h2 id="pname"></h2>
+    <p class="pdesc" id="pdesc"></p>
+    <ul class="pfacts" id="pfacts"></ul>
+    <a class="more" id="pmore" href="#">Bővebben →</a>
+  </div>
+  <div class="list" id="plist"></div>
+</div>
+<div class="mapcard" id="mapcard" role="dialog" aria-modal="false">
+  <button class="mc-x" id="mcx" aria-label="close">×</button>
+  <div class="mc-img" id="mcImg"></div>
+  <div class="mc-body">
+    <div class="mc-type" id="mcType"></div>
+    <div class="mc-name" id="mcName"></div>
+    <p class="mc-desc" id="mcDesc"></p>
+    <a class="mc-more" id="mcMore" href="#">Bővebben →</a>
+  </div>
+</div>
+<div class="burst" id="burst"><svg class="burst-svg" id="burstSvg"></svg><div class="burst-dots" id="burstDots"></div></div>
+<script>
+const LANG="hu",W=1120,H=1067.9;
+try{localStorage.setItem('plizio_language',LANG)}catch(e){}
+const CLUSTERS=[];
+const SEARCH_EXTRA=[];
+const POI_CARD={"croatia-jezera-cities-v2":{"i":"/poi-images/croatia-jezera-cities-v2.webp","s":"Díjnyertes halászfalu Murter szigetén, amely kiváló kikötőjéről és a nagyhalas horgászatról ismert.","f":["Murter-sziget","ACI Marina Jezera kikötő"]},"croatia-betina-cities-v2":{"i":"/poi-images/croatia-betina-cities-v2.webp","s":"Festői település Murter szigetén, amely a faborítású hajóépítés hagyományáról híres.","f":["Murter-sziget","Fahajóépítő Múzeum"]},"murter":{"i":"/poi-images/murter.webp","s":"Murter szigetének legnagyobb és legrégebbi városa, amely a Kornati Nemzeti Park kapujaként szolgál.","f":["Lakossága 2075 fő","Az ókori római Colentum városának helyszíne"]},"tisno":{"i":"/poi-images/tisno.webp","s":"Egy különleges város, amely részben a szárazföldön, részben Murter szigetén fekszik.","f":["Lakossága 3094 fő","A név 'szűket' jelent a csatornára utalva"]}};
+const svg=document.getElementById('svg'),stage=document.getElementById('stage');
+const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
+const EXPAND_SCALE=3.5;
+let s=1,tx=0,ty=0;
+function ap(){const tr='translate('+tx+','+ty+') scale('+s+')';gR.setAttribute('transform',tr);gL.setAttribute('transform',tr);gP.setAttribute('transform',tr);if(gC)gC.setAttribute('transform',tr);svg.classList.toggle('expand',s>=EXPAND_SCALE);if(typeof closeMapcard==='function')closeMapcard();if(typeof closeBurst==='function')closeBurst()}
+
+function clmp(v){return Math.max(.5,Math.min(8,v))}
+function toVb(cx,cy){const r=svg.getBoundingClientRect();return[(cx-r.left)*(W/r.width),(cy-r.top)*(H/r.height)]}
+function zoomAt(f,cx,cy){const[vx,vy]=toVb(cx,cy);const ns=clmp(s*f);const k=ns/s;tx=vx-k*(vx-tx);ty=vy-k*(vy-ty);s=ns;ap()}
+function zoomCenter(f){const r=svg.getBoundingClientRect();zoomAt(f,r.left+r.width/2,r.top+r.height/2)}
+let dr=false,dx=0,dy=0;
+svg.addEventListener('pointerdown',e=>{if(e.target.closest('.poi'))return;if(e.isPrimary===false)return;dr=true;dx=e.clientX;dy=e.clientY;svg.classList.add('drag');svg.setPointerCapture(e.pointerId)});
+svg.addEventListener('pointermove',e=>{if(!dr)return;const r=svg.getBoundingClientRect();const k=W/r.width;tx+=(e.clientX-dx)*k;ty+=(e.clientY-dy)*k;dx=e.clientX;dy=e.clientY;ap()});
+svg.addEventListener('pointerup',()=>{dr=false;svg.classList.remove('drag')});
+svg.addEventListener('pointercancel',()=>{dr=false;svg.classList.remove('drag')});
+svg.addEventListener('wheel',e=>{e.preventDefault();zoomAt(e.deltaY<0?1.15:1/1.15,e.clientX,e.clientY)},{passive:false});
+document.getElementById('zin').onclick=()=>zoomCenter(1.3);
+document.getElementById('zout').onclick=()=>zoomCenter(1/1.3);
+let pD=0,pS=1;
+svg.addEventListener('touchstart',e=>{if(e.touches.length===2){const[a,b]=e.touches;pD=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);pS=s;dr=false}},{passive:true});
+svg.addEventListener('touchmove',e=>{if(e.touches.length===2){const[a,b]=e.touches;const d=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);const cx=(a.clientX+b.clientX)/2,cy=(a.clientY+b.clientY)/2;const f=(d/pD)*(pS/s);zoomAt(f,cx,cy);e.preventDefault()}},{passive:false});
+const pop=document.getElementById('popup');
+const GCOL2={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
+function clearMode(){pop.classList.remove('mode-single','mode-list')}
+const mapcard=document.getElementById('mapcard');
+let mcActiveEl=null;
+function markerScreen(cx,cy){const r=svg.getBoundingClientRect();const sc=Math.min(r.width/W,r.height/H);const ox=(r.width-W*sc)/2,oy=(r.height-H*sc)/2;return[r.left+ox+(cx*s+tx)*sc,r.top+oy+(cy*s+ty)*sc];}
+function placeMapcardAt(sx,sy){
+  const below=sy<195;
+  mapcard.classList.toggle('mapcard--below',below);
+  const cw=mapcard.offsetWidth||190;const half=cw/2+10;
+  const left=Math.max(half,Math.min(window.innerWidth-half,sx));
+  // keep the arrow pointing at the marker even after horizontal clamping
+  const ax=Math.max(12,Math.min(cw-12,cw/2+(sx-left)));
+  mapcard.style.setProperty('--ax',ax+'px');
+  mapcard.style.left=left+'px';
+  mapcard.style.top=sy+'px';
+}
+function placeMapcard(cx,cy){const[sx,sy]=markerScreen(cx,cy);placeMapcardAt(sx,sy);}
+function closeMapcard(){if(!mapcard.classList.contains('open'))return;mapcard.classList.remove('open');if(mcActiveEl){mcActiveEl.classList.remove('active');mcActiveEl=null}}
+function fillCard(d){
+  const id=d.id;
+  mapcard.querySelector('.mc-type').textContent=d.grp||'';
+  mapcard.querySelector('.mc-name').textContent=d.name||id;
+  const mb=mapcard.querySelector('.mc-more');
+  if(d.url){mb.href=d.url;mb.style.display=''}else{mb.style.display='none'}
+  const c=POI_CARD[id]||{};
+  const img=mapcard.querySelector('.mc-img');
+  if(c.i){img.style.backgroundImage='url("'+c.i.replace(/"/g,'\"')+'")';img.classList.add('has')}else{img.classList.remove('has');img.style.backgroundImage=''}
+  const ds=mapcard.querySelector('.mc-desc');
+  if(c.s){ds.textContent=c.s;ds.classList.add('show')}else{ds.textContent='';ds.classList.remove('show')}
+}
+function openPopup(el){
+  closePopup();
+  el.classList.add('active');mcActiveEl=el;
+  fillCard({id:el.getAttribute('data-id'),name:el.getAttribute('data-name'),grp:el.getAttribute('data-grp'),url:el.getAttribute('data-url')});
+  const cx=+el.getAttribute('data-cx')||0,cy=+el.getAttribute('data-cy')||0;
+  mapcard.classList.add('open');
+  placeMapcard(cx,cy);
+}
+// Cluster "burst": fan the POIs out around the cluster center as glow dots
+// linked by light arcs. Big clusters (>=15) just fly-zoom in instead.
+const burst=document.getElementById('burst'),burstSvg=document.getElementById('burstSvg'),burstDots=document.getElementById('burstDots');
+let burstData={};
+function closeBurst(){if(!burst.classList.contains('open'))return;burst.classList.remove('open');burstSvg.innerHTML='';burstDots.innerHTML='';burstData={};if(!pop.classList.contains('open'))svg.classList.remove('dim-pois')}
+function openBurst(clEl){
+  closePopup();
+  const i=+clEl.getAttribute('data-i');
+  const ccx=+clEl.getAttribute('data-cx')||0,ccy=+clEl.getAttribute('data-cy')||0;
+  const sInEl=document.getElementById('searchIn');const q=sInEl?norm(sInEl.value.trim()):'';
+  const list=(CLUSTERS[i]||[]).filter(p=>{if(!activeGrps.has(p.grp))return false;if(q&&!((POI_SEARCH_BY_ID[p.id]||'').includes(q)))return false;return true});
+  if(!list.length)return;
+  if(list.length>=15){openClusterList(i);return;}
+  svg.classList.add('dim-pois');
+  const[CX,CY]=markerScreen(ccx,ccy);
+  const n=list.length,ring1=Math.min(n,7),r1=72,r2=124;
+  let lines='',html='';
+  list.forEach((p,k)=>{
+    const inner=k<ring1,cnt=inner?ring1:(n-ring1),idx=inner?k:(k-ring1);
+    const R=inner?r1:r2,off=inner?-Math.PI/2:(-Math.PI/2+Math.PI/Math.max(1,cnt));
+    const a=off+idx*(2*Math.PI/Math.max(1,cnt));
+    const dx=CX+R*Math.cos(a),dy=CY+R*Math.sin(a),col=GCOL2[p.grp]||'#9ca3af';
+    lines+='<line class="burst-line" x1="'+CX.toFixed(1)+'" y1="'+CY.toFixed(1)+'" x2="'+dx.toFixed(1)+'" y2="'+dy.toFixed(1)+'"/>';
+    html+='<button class="burst-dot" data-id="'+escAttrJs(p.id)+'" style="left:'+dx.toFixed(1)+'px;top:'+dy.toFixed(1)+'px;color:'+col+'"><span class="bd"></span><span class="bl">'+escAttrJs(p.name)+'</span></button>';
+  });
+  burstSvg.innerHTML=lines+'<circle class="burst-core" cx="'+CX.toFixed(1)+'" cy="'+CY.toFixed(1)+'" r="6"/>';
+  burstDots.innerHTML=html;
+  burstData=Object.fromEntries(list.map(p=>[p.id,p]));
+  burst.classList.add('open');
+}
+burstDots.addEventListener('click',e=>{const b=e.target.closest('.burst-dot');if(!b)return;e.stopPropagation();const p=burstData[b.getAttribute('data-id')];if(!p)return;fillCard(p);mapcard.classList.add('open');placeMapcardAt(parseFloat(b.style.left),parseFloat(b.style.top));});
+function openClusterList(i){const all=CLUSTERS[i];if(!all)return;closeMapcard();closeBurst();const sInEl=document.getElementById('searchIn');const q=sInEl?norm(sInEl.value.trim()):'';const list=all.filter(p=>{if(!activeGrps.has(p.grp))return false;if(q&&!((POI_SEARCH_BY_ID[p.id]||'').includes(q)))return false;return true});const el=document.getElementById('plist');function row(p){const c=POI_CARD[p.id]||{};const col=GCOL2[p.grp]||'#9ca3af';const th=c.i?'<span class="lthumb" style="background-image:url('+String(c.i).replace(/[()]/g,'')+')"></span>':'<span class="lthumb ln" style="background:'+col+'22;color:'+col+'"><span class="dot" style="background:'+col+'"></span></span>';const body='<span class="lbody"><span class="n">'+escAttrJs(p.name)+'</span><span class="g">'+p.grp+'</span></span>';return p.url?'<a href="'+p.url+'">'+th+body+'<span class="lgo">›</span></a>':'<div class="nl">'+th+body+'</div>';}svg.classList.add('dim-pois');el.innerHTML='<p class="lh">'+list.length+' '+(LANG==='hu'?'hely ezen a környéken':LANG==='de'?'Orte in dieser Gegend':LANG==='ro'?'locuri în zonă':'places nearby')+'</p>'+list.map(row).join('');clearMode();pop.classList.add('mode-list','open')}
+function escAttrJs(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
+gP.addEventListener('click',e=>{const el=e.target.closest('.poi');if(el){e.stopPropagation();openPopup(el)}});
+if(gC){gC.addEventListener('click',e=>{const cl=e.target.closest('.cluster');if(!cl)return;e.stopPropagation();openBurst(cl)})}
+function closePopup(){pop.classList.remove('open');clearMode();closeMapcard();closeBurst();svg.classList.remove('dim-pois');document.querySelectorAll('.poi.active').forEach(n=>n.classList.remove('active'))}
+document.getElementById('px').onclick=closePopup;
+document.getElementById('mcx').onclick=function(e){e.stopPropagation();closeMapcard()};
+mapcard.addEventListener('click',e=>e.stopPropagation());
+stage.addEventListener('click',e=>{if(!e.target.closest('.poi')&&!e.target.closest('.cluster')&&!e.target.closest('.popup')&&!e.target.closest('.mapcard')&&!e.target.closest('.burst-dot')){closePopup()}});
+// Chip toggle: hide POIs of disabled group
+const activeGrps=new Set(["city"]);
+function applyGrpFilter(){
+  gP.querySelectorAll('.poi').forEach(p=>{const g=p.getAttribute('data-grp');p.classList.toggle('hidden',!activeGrps.has(g))});
+  // Cluster + reveal-id computation moved to applySearch() so chip + search
+  // combine consistently. Just re-trigger applySearch (it reads activeGrps).
+  if(typeof applySearch==='function')applySearch();
+}
+document.querySelectorAll('.chip[data-g]').forEach(ch=>{ch.addEventListener('click',()=>{const g=ch.getAttribute('data-g');if(activeGrps.has(g)){activeGrps.delete(g);ch.classList.remove('on')}else{activeGrps.add(g);ch.classList.add('on')}applyGrpFilter()})});
+// Search: dim non-matching POIs + recompute cluster visibility (only count matches)
+const sIn=document.getElementById('searchIn'),sX=document.getElementById('searchX'),sW=document.getElementById('searchWrap'),sRes=document.getElementById('searchRes');
+function norm(s){return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'')}
+// Quick lookup of POI's normalized search text + display name + group + coords by id
+const POI_INDEX={};
+gP.querySelectorAll('.poi').forEach(p=>{
+  const id=p.getAttribute('data-id');
+  const t=p.getAttribute('transform')||'';
+  const m=t.match(/translate\(([-\d.]+),([-\d.]+)\)/);
+  POI_INDEX[id]={
+    search:p.getAttribute('data-search')||'',
+    name:p.getAttribute('data-name')||id,
+    grp:p.getAttribute('data-grp')||'other',
+    url:p.getAttribute('data-url')||null,
+    cx:m?+m[1]:0,cy:m?+m[2]:0
+  };
+});
+const POI_SEARCH_BY_ID={};
+for(const id in POI_INDEX)POI_SEARCH_BY_ID[id]=POI_INDEX[id].search;
+const GCOL_JS={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
+function applySearch(){
+  const q=norm(sIn.value.trim());
+  sW.classList.toggle('has-q',!!q);
+  // Phase 1: per-POI dim/match
+  gP.querySelectorAll('.poi').forEach(p=>{
+    if(!q){p.classList.remove('dim');p.classList.remove('match');return}
+    const t=p.getAttribute('data-search')||'';
+    const m=t.includes(q);
+    p.classList.toggle('match',m);
+    p.classList.toggle('dim',!m);
+  });
+  // Phase 2: cluster visibility — combine search match WITH group filter
+  if(!gC)return;
+  const revealIds=new Set();
+  gC.querySelectorAll('.cluster').forEach(c=>{
+    const i=+c.getAttribute('data-i');
+    const list=CLUSTERS[i]||[];
+    // POI counts as "visible" if: group active AND (no query OR matches query)
+    const vis=list.filter(p=>{
+      if(!activeGrps.has(p.grp))return false;
+      if(!q)return true;
+      return (POI_SEARCH_BY_ID[p.id]||'').includes(q);
+    });
+    const txt=c.querySelector('text');
+    if(vis.length===0){c.classList.add('hidden')}
+    else if(vis.length===1){c.classList.add('hidden');revealIds.add(vis[0].id)}
+    else{c.classList.remove('hidden');if(txt)txt.textContent=String(vis.length)}
+  });
+  gP.querySelectorAll('.poi.in-cluster').forEach(p=>{
+    p.classList.toggle('reveal',revealIds.has(p.getAttribute('data-id')))
+  });
+  // Phase 3: dropdown list of top matches (count ALL matching for auto-zoom decision)
+  if(!q){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  const hits=[];
+  for(const id in POI_INDEX){
+    const e=POI_INDEX[id];
+    if(!activeGrps.has(e.grp))continue;
+    if(!e.search.includes(q))continue;
+    if(hits.length<50)hits.push({id,...e});
+  }
+  // Search-only entries (POIs on a sub-map): match by name, navigate to the sub-map.
+  const extraHits=[];
+  for(const e of SEARCH_EXTRA){if(e.s.includes(q)&&extraHits.length<20)extraHits.push(e)}
+  // Auto-zoom: only ONE visible thing on the map → pan-zoom there.
+  // "Visible thing" = either a single non-clustered POI, or one cluster with all matches inside it.
+  // Compute by examining current cluster visibility (already set in Phase 2 above).
+  if(hits.length>0&&extraHits.length===0){
+    // Map: poi-id -> cluster index it belongs to (if any)
+    const poiToCluster={};
+    for(let i=0;i<CLUSTERS.length;i++)for(const p of CLUSTERS[i])poiToCluster[p.id]=i;
+    // Group matches by their visible "thing": either a visible cluster (id of cluster) or 'solo' + poi-id.
+    // A cluster is "visible" if its DOM .cluster element does NOT have .hidden.
+    // A POI is "shown solo" if either: not in any cluster, OR in a cluster whose .cluster element IS hidden (= cluster collapsed to <=1 match).
+    const visibleClusterIdx=new Set();
+    if(gC){
+      gC.querySelectorAll('.cluster:not(.hidden)').forEach(c=>visibleClusterIdx.add(+c.getAttribute('data-i')));
+    }
+    const visibleThings=new Set();
+    for(const h of hits){
+      const ci=poiToCluster[h.id];
+      if(ci!==undefined && visibleClusterIdx.has(ci)){
+        visibleThings.add('c'+ci);
+      }else{
+        visibleThings.add('p'+h.id);
+      }
+    }
+    const onlyOneThing=visibleThings.size===1;
+    if(onlyOneThing){
+      const thing=Array.from(visibleThings)[0];
+      let cx,cy;
+      if(thing[0]==='p'){
+        // Solo POI (or revealed cluster-POI)
+        const id=thing.slice(1);
+        const e=POI_INDEX[id];
+        if(e){cx=e.cx;cy=e.cy}
+      }else{
+        // Visible cluster (c<idx>) — center = avg of cluster's POI coords
+        const ci=+thing.slice(1);
+        const cl=CLUSTERS[ci]||[];
+        let sx=0,sy=0,n=0;
+        for(const p of cl){sx+=p.cx||0;sy+=p.cy||0;n++}
+        if(n>0){cx=sx/n;cy=sy/n}
+      }
+      if(cx!==undefined){
+        // Use 4× zoom (below EXPAND_SCALE=6 so clusters stay collapsed as numbers,
+        // POI doesn't disappear into expanded form)
+        s=4;
+        tx=W/2-cx*s;
+        // Bias the target 20% above viewBox center so it's not hidden behind the search dropdown / header
+        ty=H*0.32-cy*s;
+        ap();
+        sRes.innerHTML='';
+        sRes.classList.remove('has-hits');
+        return;
+      }
+    }
+  }
+  if(hits.length===0&&extraHits.length===0){sRes.innerHTML='';sRes.classList.remove('has-hits');return}
+  // Show first N by default; rest behind a "+more" button so the dropdown
+  // stops covering the map when a query has many matches.
+  const FIRST_N=8;
+  const row=h=>'<a data-id="'+h.id+'" data-cx="'+h.cx+'" data-cy="'+h.cy+'"'+(h.url?' href="'+h.url+'"':'')+'><span class="dot" style="background:'+(GCOL_JS[h.grp]||'#9ca3af')+'"></span><span class="nm">'+h.name.replace(/[<>]/g,'')+'</span><span class="gr">'+String(h.grp)+'</span></a>';
+  const exRow=e=>'<a data-extra="1" href="'+e.u+'"><span class="dot" style="background:#ffd54a"></span><span class="nm">'+e.n.replace(/[<>]/g,'')+'</span><span class="gr">›</span></a>';
+  let html=hits.slice(0,FIRST_N).map(row).join('')+extraHits.map(exRow).join('');
+  if(hits.length>FIRST_N){
+    const rest=hits.slice(FIRST_N).map(row).join('');
+    const moreLabel=LANG==='hu'?'Még':LANG==='de'?'Mehr':LANG==='ro'?'Mai mult':'More';
+    html+='<div class="srest" hidden>'+rest+'</div>'
+        +'<button type="button" class="smore" aria-expanded="false">▾ '+moreLabel+' (+'+(hits.length-FIRST_N)+')</button>';
+  }
+  sRes.innerHTML=html;
+  sRes.classList.add('has-hits');
+  const moreBtn=sRes.querySelector('.smore');
+  if(moreBtn){moreBtn.addEventListener('click',function(e){e.preventDefault();const r=sRes.querySelector('.srest');const open=!r.hasAttribute('hidden');if(open){r.setAttribute('hidden','');this.setAttribute('aria-expanded','false');this.firstChild.nodeValue='▾ '}else{r.removeAttribute('hidden');this.setAttribute('aria-expanded','true');this.firstChild.nodeValue='▴ '}})}
+}
+sIn.addEventListener('input',applySearch);
+sX.addEventListener('click',()=>{sIn.value='';applySearch();sIn.focus()});
+// Click on dropdown item: zoom-pan to POI AND open its popup (same as clicking the marker).
+sRes.addEventListener('click',e=>{
+  const ax=e.target.closest('a[data-extra]');
+  if(ax)return; // sub-map link: let the browser navigate
+  const a=e.target.closest('a[data-id]');
+  if(!a)return;
+  e.preventDefault();
+  const id=a.getAttribute('data-id');
+  const cx=+a.getAttribute('data-cx'),cy=+a.getAttribute('data-cy');
+  s=4;
+  tx=W/2-cx*s;
+  ty=H*0.32-cy*s;
+  ap();
+  sRes.classList.remove('has-hits');
+  sIn.blur();
+  // Find the .poi element and trigger openPopup (mirrors marker click).
+  const el=gP.querySelector('.poi[data-id="'+id.replace(/"/g,'\"')+'"]');
+  if(el)openPopup(el);
+});
+// Close dropdown on outside click
+document.addEventListener('click',e=>{if(!sW.contains(e.target))sRes.classList.remove('has-hits')});
+</script>
+</body>
+</html>
