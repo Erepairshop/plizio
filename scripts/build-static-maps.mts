@@ -31,6 +31,8 @@ type Country = {
   poiBBox?: BBox;          // sub-maps: keep only POIs whose coords fall in this box (parent-independent, catches mis-tagged POIs)
   excludeBBoxes?: BBox[];  // country maps: drop POIs inside these boxes (moved to a sub-map)
   zoomToPoiBBox?: boolean; // crop the viewBox to poiBBox (island/region zoom on a shared country SVG)
+  islandRingsSlug?: string;   // island maps: refine poiBBox to POIs inside/near this island's coastline polygon
+  excludeIslandSlugs?: string[]; // country maps: drop POIs inside/near these islands' polygons (routed to the island sub-map)
 };
 type BBox = { minLon: number; maxLon: number; minLat: number; maxLat: number };
 // Paris metro catchment (== parisMetro.svg.ts projection bbox). Used to keep IDF
@@ -40,6 +42,36 @@ function inBBox(coords: [number, number] | undefined, b: BBox): boolean {
   if (!coords || coords.length < 2) return false;
   const [lon, lat] = coords;
   return lon >= b.minLon && lon <= b.maxLon && lat >= b.minLat && lat <= b.maxLat;
+}
+
+// Island coastline polygons (lon/lat) for point-in-polygon POI assignment, so a
+// POI on the mainland coast across the channel (inside the island's rough bbox)
+// is NOT pulled onto the island map. Loaded from the generated _islandRings.ts.
+let ISLAND_RINGS: Record<string, number[][][]> = {};
+const ISLAND_BUF_DEG = 0.018; // ~2 km — include coast/harbour POIs just off the polygon
+function pointInRing(lon: number, lat: number, ring: number[][]): boolean {
+  let inside = false;
+  for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+    const xi = ring[i][0], yi = ring[i][1], xj = ring[j][0], yj = ring[j][1];
+    if (((yi > lat) !== (yj > lat)) && (lon < ((xj - xi) * (lat - yi)) / (yj - yi) + xi)) inside = !inside;
+  }
+  return inside;
+}
+function nearRings(coords: [number, number] | undefined, rings: number[][][] | undefined, buf: number): boolean {
+  if (!coords || coords.length < 2 || !rings) return false;
+  const [lon, lat] = coords;
+  for (const ring of rings) if (pointInRing(lon, lat, ring)) return true;
+  const k = Math.cos((lat * Math.PI) / 180); // lon is compressed at this latitude
+  for (const ring of rings) {
+    for (let i = 0; i < ring.length - 1; i++) {
+      const ax = ring[i][0] * k, ay = ring[i][1], bx = ring[i + 1][0] * k, by = ring[i + 1][1];
+      const px = lon * k, py = lat, dx = bx - ax, dy = by - ay;
+      let t = dx || dy ? ((px - ax) * dx + (py - ay) * dy) / (dx * dx + dy * dy) : 0;
+      t = Math.max(0, Math.min(1, t));
+      if (Math.hypot(px - (ax + t * dx), py - (ay + t * dy)) < buf) return true;
+    }
+  }
+  return false;
 }
 
 // Croatian islands: each gets a zoomed sub-map (shared croatia.svg, cropped to the
@@ -76,8 +108,10 @@ const ISLAND_COUNTRIES: Country[] = HR_ISLANDS.map((i) => {
   const hasSvg = fs.existsSync(path.join(ISLAND_MAPS_DIR, `${camel}.svg.ts`));
   return hasSvg
     ? {
+        // Dedicated SVG: assign POIs by the actual coastline polygon (+buffer), not
+        // the rough bbox — keeps mainland-coast POIs across the channel off the island.
         iso: i.slug, slug: i.slug, svgFile: `${camel}.svg.ts`, mapVar: `${camel}Map`, vbVar: `${camel}ViewBox`, projFn: "projectIsland",
-        poiSourceIso: "HR", poiBBox: i.bbox, names: islandNames(i.name),
+        poiSourceIso: "HR", poiBBox: i.bbox, islandRingsSlug: i.slug, names: islandNames(i.name),
       }
     : {
         iso: i.slug, slug: i.slug, svgFile: "croatia.svg.ts", mapVar: "croatiaMap", vbVar: "croatiaViewBox", projFn: "projectCoordsHR",
@@ -89,7 +123,7 @@ const HR_ISLAND_BBOXES = HR_ISLANDS.map((i) => i.bbox);
 
 const COUNTRIES: Country[] = [
   { iso:"hr", slug:"croatia", svgFile:"croatia.svg.ts", mapVar:"croatiaMap", vbVar:"croatiaViewBox", projFn:"projectCoordsHR",
-    metroLinks:HR_ISLAND_LINKS, excludeBBoxes:HR_ISLAND_BBOXES,
+    metroLinks:HR_ISLAND_LINKS, excludeIslandSlugs:HR_ISLANDS.map(i => i.slug),
     names:{ de:"Kroatien", hu:"Horvátország", ro:"Croația", en:"Croatia" } },
   { iso:"hu", slug:"magyarorszag", svgFile:"magyarorszag.svg.ts", mapVar:"magyarorszagMap", vbVar:"magyarorszagViewBox", projFn:"projectCoordsHU",
     names:{ de:"Ungarn", hu:"Magyarország", ro:"Ungaria", en:"Hungary" } },
@@ -1318,7 +1352,15 @@ async function buildOne(c: Country): Promise<boolean> {
       poisRaw = j.pois || j;
       poisRaw = poisRaw.filter((p: any) => p && !DEDUP_BLOCK.has(p.id));
       if (c.poiParent) poisRaw = poisRaw.filter((p: any) => p && p.parent === c.poiParent);
-      if (c.poiBBox) poisRaw = poisRaw.filter((p: any) => p && inBBox(p.coords, c.poiBBox!));
+      // Island maps assign by coastline polygon (+buffer); bbox is skipped so the
+      // buffer zone isn't pre-clipped. Other sub-maps still use the bbox.
+      if (c.islandRingsSlug) {
+        const rings = ISLAND_RINGS[c.islandRingsSlug];
+        if (rings) poisRaw = poisRaw.filter((p: any) => p && nearRings(p.coords, rings, ISLAND_BUF_DEG));
+        else if (c.poiBBox) poisRaw = poisRaw.filter((p: any) => p && inBBox(p.coords, c.poiBBox!));
+      } else if (c.poiBBox) {
+        poisRaw = poisRaw.filter((p: any) => p && inBBox(p.coords, c.poiBBox!));
+      }
       if (c.excludeParents && c.excludeParents.length) {
         const ex = new Set(c.excludeParents);
         poisRaw = poisRaw.filter((p: any) => !(p && ex.has(p.parent)));
@@ -1333,6 +1375,21 @@ async function buildOne(c: Country): Promise<boolean> {
             const submap = (links[hit] || links[0] || {}).mapSlug;
             if (submap && p.name) searchExtra.push({ name: p.name, submap });
           } else kept.push(p);
+        }
+        poisRaw = kept;
+      }
+      // Country maps: drop POIs that sit inside/near an island's coastline polygon
+      // (they live on that island's sub-map). Polygon-based so mainland-coast POIs
+      // near a wide island bbox stay on the country map. Routed to the island slug.
+      if (c.excludeIslandSlugs && c.excludeIslandSlugs.length) {
+        const kept: any[] = [];
+        for (const p of poisRaw) {
+          let submap = "";
+          if (p && p.coords) for (const slug of c.excludeIslandSlugs) {
+            if (nearRings(p.coords, ISLAND_RINGS[slug], ISLAND_BUF_DEG)) { submap = slug; break; }
+          }
+          if (submap) { if (p.name) searchExtra.push({ name: p.name, submap }); }
+          else kept.push(p);
         }
         poisRaw = kept;
       }
@@ -1375,6 +1432,12 @@ async function buildOne(c: Country): Promise<boolean> {
 }
 
 async function main() {
+  try {
+    ISLAND_RINGS = (await import("../lib/visualLab/maps/_islandRings.ts")).ISLAND_RINGS || {};
+    console.log(`Island polygons loaded: ${Object.keys(ISLAND_RINGS).length}`);
+  } catch (e: any) {
+    console.log(`No island polygons (_islandRings.ts) — falling back to bbox: ${e?.message?.slice(0, 60)}`);
+  }
   const target = process.argv[2] || "all";
   const isos = new Set(target.split(",").map(s => s.trim().toLowerCase()).filter(Boolean));
   const list = target === "all" ? COUNTRIES : COUNTRIES.filter(c => isos.has(c.iso));
