@@ -42,7 +42,7 @@ const COUNTRIES: Country[] = [
   { iso:"fr", slug:"france", svgFile:"france.svg.ts", mapVar:"franceMap", vbVar:"franceViewBox", projFn:"projectCoordsFR",
     excludeParents:["FR-IDF"],
     metroLink:{ mapSlug:"paris", lon:2.3522, lat:48.8566,
-      names:{ de:"Paris (Großraum) - eigene Karte", hu:"Párizs (nagyrégió) - külön térkép", ro:"Paris (zona metropolitană) - hartă separată", en:"Paris (metro area) - own map" } },
+      names:{ de:"Paris (Großraum)", hu:"Párizs (nagyrégió)", ro:"Paris (zona metropolitană)", en:"Paris (metro area)" } },
     names:{ de:"Frankreich", hu:"Franciaország", ro:"Franța", en:"France" } },
   // Metro map: Île-de-France (Paris) — departments background, POIs filtered by parent FR-IDF.
   { iso:"paris", slug:"paris", svgFile:"parisMetro.svg.ts", mapVar:"parisMetroMap", vbVar:"parisMetroViewBox", projFn:"projectCoordsParis",
@@ -752,6 +752,14 @@ header .langs{display:flex;gap:.25rem}
 #svg.dim-pois .poi circle{filter:none}
 .poi.match circle{stroke:#fff;stroke-width:1.4}
 .poi:hover circle,.poi.active circle{r:7.5;fill:#fff;opacity:1;filter:drop-shadow(0 0 6px #cfeaff) drop-shadow(0 0 11px #7fd0ff)}
+.poi-metro{cursor:pointer}
+.poi-metro .pm-halo{fill:#ffd54a;opacity:.18;animation:pmpulse 2.2s ease-in-out infinite}
+.poi-metro .pm-ring{fill:none;stroke:#ffd54a;stroke-width:1.6;opacity:.85}
+.poi-metro .pm-dot{fill:#fff;filter:drop-shadow(0 0 5px #ffd54a)}
+.poi-metro .pm-label{fill:#fff;font-size:11px;font-weight:800;paint-order:stroke;stroke:#06061b;stroke-width:3.2px;stroke-linejoin:round;letter-spacing:.2px}
+.poi-metro:hover .pm-ring,.poi-metro:focus .pm-ring{stroke-width:2.4;opacity:1}
+.poi-metro:hover .pm-label{fill:#ffe98a}
+@keyframes pmpulse{0%,100%{opacity:.16;transform:scale(1)}50%{opacity:.34;transform:scale(1.18)}}
 .controls{position:absolute;top:53px;left:0;right:0;z-index:4;padding:.4rem .55rem;display:flex;gap:.3rem;align-items:center;background:linear-gradient(180deg,#060614 0%,#06061400 100%)}
 .chips{display:flex;gap:.25rem;flex-shrink:0}
 .chip{flex-shrink:0;width:30px;height:30px;border-radius:8px;border:1px solid #ffffff20;background:#0d1230;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;user-select:none;padding:0;opacity:.45;transition:opacity .12s,background .12s,border-color .12s}
@@ -869,6 +877,11 @@ header .langs{display:flex;gap:.25rem}
     <g id="gP">${pois.map(p => {
       const url = p.urls?.[lang];
       const nm = p.name[lang]||p.name.en||p.id;
+      // Metro-area link: a prominent, labelled, one-click pin (not a plain POI dot,
+      // so chip filters never hide it and it reads as "open the metro map").
+      if (p.id.startsWith("metro-") && url) {
+        return `<a class="poi-metro" href="${escAttr(url)}" transform="translate(${p.cx},${p.cy})" aria-label="${escAttr(nm)}"><circle class="pm-halo" r="15"/><circle class="pm-ring" r="9"/><circle class="pm-dot" r="5"/><text class="pm-label" x="0" y="-15" text-anchor="middle">${escText(nm)} ▸</text></a>`;
+      }
       const allNames = Array.from(new Set([p.name.de, p.name.hu, p.name.ro, p.name.en].filter(Boolean).map((n:any)=>String(n).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"")))).join("|");
       const inCluster = clusteredIds.has(p.id);
       const cls = `poi g-${p.grp}${inCluster ? " in-cluster" : ""}`;
