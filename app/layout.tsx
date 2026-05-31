@@ -125,6 +125,8 @@ export default function RootLayout({
         <meta name="p:domain_verify" content="bc8e503b19ed76633d55b02b81588df6" />
         <meta name="google-adsense-account" content="ca-pub-9658871334491770" />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9658871334491770" crossOrigin="anonymous"></script>
+        {/* Umami analytics — same site as the static POI pages */}
+        <script defer src="https://stats.plizio.com/script.js" data-website-id="b718db4e-ee1b-43db-a89a-af4ecc5435bf"></script>
         <JsonLd data={buildOrganizationSchema()} />
         <JsonLd data={buildWebsiteSchema()} />
       </head>

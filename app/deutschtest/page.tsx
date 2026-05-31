@@ -6,6 +6,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { BookOpen, ArrowLeft, Check, X as XIcon, RotateCcw, Home, ChevronRight, Download } from "lucide-react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
+import { track } from "@/lib/analytics";
 import { useLang } from "@/components/LanguageProvider";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, incrementPerfectScores, checkNewMilestones } from "@/lib/milestones";
@@ -206,6 +207,8 @@ function LanguageTestEngineInner({ config }: { config: LanguageTestEngineConfig 
   const { lang: globalLang } = useLang();
   const { labels: rawLabels } = config;
   const titleStr = typeof config.title === "string" ? config.title : (config.title[globalLang] ?? config.title.en ?? config.title.de ?? "TEST");
+  // Umami: one event per test-page engagement (covers all test routes via the shared engine).
+  useEffect(() => { track("test_open", { test: titleStr, lang: globalLang }); /* eslint-disable-next-line react-hooks/exhaustive-deps */ }, []);
   // labels useMemo moved below `country` state declaration (needs country).
   // Lang-alapu country lista (kozos minden test-route-ban)
   const COUNTRIES_BY_LANG: Record<string, { code: string; flag: string; label: string; sub: string }[]> = {
