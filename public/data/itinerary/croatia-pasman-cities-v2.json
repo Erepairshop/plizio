@@ -1,0 +1,940 @@
+{
+  "city_id": "croatia-pasman-cities-v2",
+  "anchor": {
+    "name": "Pašman",
+    "coords": [
+      43.9569,
+      15.38
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 3,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Tkon Hafen & Riva",
+          "coords": [
+            43.921,
+            15.421
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Trinken Sie einen Kaffee am Hafen, bevor Sie den Hügel besteigen.",
+            "hu": "Igyon meg egy kávét a kikötőben a hegymászás előtt.",
+            "ro": "Beți o cafea în port înainte de a urca dealul.",
+            "en": "Enjoy a coffee at the harbor before starting your uphill walk."
+          }
+        },
+        {
+          "name": "Benediktinski samostan Ćokovac",
+          "coords": [
+            43.931,
+            15.405
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das letzte aktive Benediktinerkloster auf den Inseln.",
+            "hu": "Látogassa meg az utolsó aktív bencés kolostort a szigeteken.",
+            "ro": "Vizitați ultima mănăstire benedictină activă de pe insule.",
+            "en": "Visit the last active Benedictine monastery on the Croatian islands."
+          }
+        },
+        {
+          "name": "Mittagessen in einer Konoba",
+          "coords": [
+            43.922,
+            15.42
+          ],
+          "category": "gastro",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Probieren Sie frischen Oktopussalat oder gegrillten Fisch.",
+            "hu": "Kóstolja meg a friss polipsalátát vagy a grillezett halat.",
+            "ro": "Încercați salata proaspătă de caracatiță sau peștele la grătar.",
+            "en": "Try fresh octopus salad or grilled fish from the local waters."
+          }
+        },
+        {
+          "name": "Strandpause (Plaža Vruljica)",
+          "coords": [
+            43.925,
+            15.415
+          ],
+          "category": "beach",
+          "arrive_at": "13:10",
+          "stay_min": 180,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kristallklares Wasser dank der starken Strömung im Kanal.",
+            "hu": "Kristálytiszta víz a csatorna erős áramlatainak köszönhetően.",
+            "ro": "Apă de cristal datorită curenților puternici din canal.",
+            "en": "Crystal clear water thanks to the strong currents in the channel."
+          }
+        },
+        {
+          "name": "Uferpromenade Spaziergang",
+          "coords": [
+            43.92,
+            15.422
+          ],
+          "category": "harbor",
+          "arrive_at": "16:25",
+          "stay_min": 35,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie das Treiben der Fischerboote.",
+            "hu": "Figyelje meg a halászhajók forgalmát.",
+            "ro": "Observați activitatea bărcilor de pescuit.",
+            "en": "Watch the traditional fishing boats coming and going."
+          }
+        },
+        {
+          "name": "Sonnenuntergang am Meer",
+          "coords": [
+            43.918,
+            15.425
+          ],
+          "category": "sunset",
+          "arrive_at": "17:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf das Festland im Abendlicht.",
+            "hu": "Élvezze a kilátást a szárazföldre az esti fényekben.",
+            "ro": "Bucurați-vă de vederea spre continent în lumina serii.",
+            "en": "Enjoy the view of the mainland in the soft evening light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Tag in Tkon beginnt am lebhaften Hafen. Der Aufstieg zum Ćokovac-Kloster wird mit spiritueller Ruhe und Panoramablick belohnt. Nach einem authentischen dalmatinischen Mittagessen verbringen Sie den Nachmittag an den sauberen Kiesstränden, bevor der Tag bei einem gemütlichen Spaziergang am Meer ausklingt.",
+        "hu": "Egy pihentető nap Tkonban a nyüzsgő kikötőben kezdődik. A Ćokovac-kolostorhoz vezető séta spirituális nyugalommal és panorámás kilátással ajándékozza meg. Egy autentikus dalmát ebéd után a délutánt a tiszta kavicsos strandokon töltheti, majd a napot egy kellemes tengerparti sétával zárhatja.",
+        "ro": "O zi relaxantă în Tkon începe în portul plin de viață. Urcarea la mănăstirea Ćokovac este răsplătită cu liniște spirituală și vederi panoramice. După un prânz dalmat autentic, petreceți după-amiaza pe plajele curate cu pietriș, înainte de a încheia ziua cu o plimbare plăcută pe malul mării.",
+        "en": "A relaxing day in Tkon starts at the vibrant harbor. The walk up to Ćokovac monastery rewards you with spiritual peace and panoramic views. After an authentic Dalmatian lunch, spend the afternoon on the clean pebble beaches before ending the day with a gentle stroll by the sea."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Sovinja",
+            "tip": "Hausgemachte Pasta mit Meeresfrüchten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Sovinja",
+            "tip": "Házi tészta tenger gyümölcseivel."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Sovinja",
+            "tip": "Paste de casă cu fructe de mare."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Sovinja",
+            "tip": "Homemade pasta with fresh seafood."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Ćokovac Hügel",
+            "tip": "Stille unter alten Pinien.",
+            "emoji": "🧘"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Ćokovac-domb",
+            "tip": "Csend az öreg fenyők alatt.",
+            "emoji": "🧘"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Dealul Ćokovac",
+            "tip": "Liniște sub pinii bătrâni.",
+            "emoji": "🧘"
+          }
+        ],
+        "en": [
+          {
+            "name": "Ćokovac Hill",
+            "tip": "Quiet moments under ancient pines.",
+            "emoji": "🧘"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Lokaler Markt Tkon",
+            "tip": "Olivenöl und Honig von der Insel."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tkoni helyi piac",
+            "tip": "Szigeti olívaolaj és méz."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Piața locală din Tkon",
+            "tip": "Ulei de măsline și miere de pe insulă."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tkon Local Market",
+            "tip": "Island olive oil and local honey."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Tragen Sie feste Schuhe für den Weg zum Kloster.",
+          "Die Fähre von Biograd fährt fast stündlich.",
+          "Die Strömung im Kanal macht das Wasser besonders sauber.",
+          "In der Nebensaison ist es hier herrlich ruhig."
+        ],
+        "hu": [
+          "Viseljen kényelmes cipőt a kolostorhoz vezető úton.",
+          "A komp Biogradból szinte óránként jár.",
+          "A csatorna áramlása miatt a víz rendkívül tiszta.",
+          "Szezonon kívül a környék csodálatosan nyugodt."
+        ],
+        "ro": [
+          "Purtați încălțăminte confortabilă pentru drumul spre mănăstire.",
+          "Feribotul din Biograd circulă aproape din oră în oră.",
+          "Curenții din canal fac apa extrem de curată.",
+          "În afara sezonului, zona este de o liniște minunată."
+        ],
+        "en": [
+          "Wear comfortable shoes for the path up to the monastery.",
+          "The ferry from Biograd runs almost every hour.",
+          "The channel currents keep the sea water exceptionally clean.",
+          "The island is wonderfully peaceful during the off-season."
+        ]
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 10,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 16.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Fahrradverleih Tkon",
+          "coords": [
+            43.921,
+            15.421
+          ],
+          "category": "harbor",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Mountainbike für die Schotterwege.",
+            "hu": "Béreljen hegyi kerékpárt a murvás utakhoz.",
+            "ro": "Închiriați o bicicletă de munte pentru drumurile cu pietriș.",
+            "en": "Rent a mountain bike to handle the island's gravel paths."
+          }
+        },
+        {
+          "name": "Franjevački samostan sv. Duje",
+          "coords": [
+            43.945,
+            15.37
+          ],
+          "category": "religious",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Ein friedlicher Ort im Dorf Kraj.",
+            "hu": "Békés hely Kraj faluban.",
+            "ro": "Un loc liniștit în satul Kraj.",
+            "en": "A peaceful spot located in the village of Kraj."
+          }
+        },
+        {
+          "name": "Mrljane Strandpause",
+          "coords": [
+            43.955,
+            15.36
+          ],
+          "category": "beach",
+          "arrive_at": "11:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Ein schöner Sandstrand zum Abkühlen.",
+            "hu": "Szép homokos strand a hűsöléshez.",
+            "ro": "O plajă frumoasă de nisip pentru răcorire.",
+            "en": "A lovely sandy beach perfect for a quick cool-off."
+          }
+        },
+        {
+          "name": "Aufstieg zum Veliki Bokolj",
+          "coords": [
+            43.941,
+            15.304
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:50",
+          "stay_min": 30,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Der höchste Punkt der Insel mit 360-Grad-Blick.",
+            "hu": "A sziget legmagasabb pontja 360 fokos kilátással.",
+            "ro": "Cel mai înalt punct al insulei cu vedere de 360 de grade.",
+            "en": "The highest peak of Pašman offering 360-degree views."
+          }
+        },
+        {
+          "name": "Picknick oder Snack",
+          "coords": [
+            43.945,
+            15.32
+          ],
+          "category": "gastro",
+          "arrive_at": "13:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie lokale Spezialitäten in der Natur.",
+            "hu": "Élvezze a helyi finomságokat a természetben.",
+            "ro": "Bucurați-vă de specialități locale în natură.",
+            "en": "Enjoy some local snacks surrounded by Mediterranean nature."
+          }
+        },
+        {
+          "name": "Rückfahrt nach Tkon",
+          "coords": [
+            43.922,
+            15.42
+          ],
+          "category": "harbor",
+          "arrive_at": "15:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 60,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Entspannte Fahrt entlang der Küstenstraße.",
+            "hu": "Pihentető tekerés a tengerparti úton.",
+            "ro": "Drum relaxant pe șoseaua de coastă.",
+            "en": "Enjoy a scenic ride back along the coastal road."
+          }
+        },
+        {
+          "name": "Eispause am Hafen",
+          "coords": [
+            43.921,
+            15.422
+          ],
+          "category": "gastro",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Belohnen Sie sich mit einem hausgemachten Eis.",
+            "hu": "Jutalmazza meg magát egy házi fagyival.",
+            "ro": "Răsplătiți-vă cu o înghețată de casă.",
+            "en": "Reward your efforts with some delicious local gelato."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie Pašman auf zwei Rädern! Von Tkon aus führt die Route zum ruhigen Kraj-Kloster und dann hinauf zum Veliki Bokolj, wo Sie die gesamte Inselwelt der Kornaten überblicken können. Die Rückfahrt führt an versteckten Buchten vorbei, ideal für einen Sprung ins Meer, bevor Sie den Tag gemütlich im Hafen ausklingen lassen.",
+        "hu": "Fedezze fel Pašmant két keréken! Tkoni indulással az út a csendes kraj-i kolostorhoz, majd fel a Veliki Bokolj-hoz vezet, ahonnan beláthatja az egész Kornati-szigetvilágot. A visszaút rejtett öblök mellett halad el, amelyek ideálisak egy csobbanáshoz, mielőtt a kikötőben kényelmesen zárná a napot.",
+        "ro": "Explorați Pašman pe două roți! Plecând din Tkon, traseul duce la mănăstirea liniștită din Kraj și apoi sus pe Veliki Bokolj, de unde puteți vedea întregul arhipelag Kornati. Drumul de întoarcere trece pe lângă golfuri ascunse, ideale pentru o baie în mare, înainte de a încheia ziua relaxat în port.",
+        "en": "Explore Pašman on two wheels! Starting from Tkon, the route takes you to the serene Kraj monastery and then up to Veliki Bokolj, offering a bird's-eye view of the Kornati islands. The ride back passes hidden coves perfect for a swim, ending with a well-deserved rest at the harbor."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Restaurant Đardin",
+            "tip": "Gegrilltes Lamm oder Fischspezialitäten."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Restaurant Đardin",
+            "tip": "Grillezett bárány vagy halspecialitások."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Restaurant Đardin",
+            "tip": "Miel la grătar sau specialități din pește."
+          }
+        ],
+        "en": [
+          {
+            "name": "Restaurant Đardin",
+            "tip": "Grilled lamb or fresh fish specialties."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Veliki Bokolj Gipfel",
+            "tip": "Unendliche Weite und Meeresbrise.",
+            "emoji": "🌅"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Veliki Bokolj csúcs",
+            "tip": "Végtelen tágasság és tengeri szellő.",
+            "emoji": "🌅"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Vârful Veliki Bokolj",
+            "tip": "Orizont infinit și briză marină.",
+            "emoji": "🌅"
+          }
+        ],
+        "en": [
+          {
+            "name": "Veliki Bokolj Peak",
+            "tip": "Infinite horizons and a fresh sea breeze.",
+            "emoji": "🌅"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Souvenirladen Tkon",
+            "tip": "Getrocknete Feigen und Kräuterlikör."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tkoni ajándékbolt",
+            "tip": "Aszalt füge és gyógynövénylikőr."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Magazin de suveniruri Tkon",
+            "tip": "Smochine uscate și lichior de plante."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tkon Souvenir Shop",
+            "tip": "Dried figs and traditional herbal liqueurs."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Nehmen Sie ausreichend Wasser mit, es gibt wenig Schatten.",
+          "Ein Helm ist auf den Schotterwegen Pflicht.",
+          "Die Radwege sind gut markiert.",
+          "Früh starten, um die Mittagshitze zu vermeiden."
+        ],
+        "hu": [
+          "Vigyen magával elég vizet, kevés az árnyék.",
+          "A murvás utakon a bukósisak kötelező.",
+          "A kerékpárutak jól ki vannak táblázva.",
+          "Induljon korán, hogy elkerülje a déli hőséget."
+        ],
+        "ro": [
+          "Luați suficientă apă, există puțină umbră.",
+          "Casca este obligatorie pe drumurile cu pietriș.",
+          "Pistele de biciclete sunt bine marcate.",
+          "Porniți devreme pentru a evita căldura amiezii."
+        ],
+        "en": [
+          "Bring plenty of water as there is little shade.",
+          "A helmet is essential for the gravel mountain paths.",
+          "The cycling trails are generally well-marked.",
+          "Start early to beat the midday Mediterranean heat."
+        ]
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 35.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Tkon Aussichtspunkt",
+          "coords": [
+            43.93,
+            15.41
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erster Blick über den Pašman-Kanal.",
+            "hu": "Első pillantás a Pašman-csatornára.",
+            "ro": "Prima vedere asupra canalului Pašman.",
+            "en": "Your first panoramic view over the Pašman channel."
+          }
+        },
+        {
+          "name": "Franjevački samostan sv. Duje",
+          "coords": [
+            43.945,
+            15.37
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Parken Sie direkt am Klosterzugang.",
+            "hu": "Parkoljon közvetlenül a kolostor bejáratánál.",
+            "ro": "Parcați chiar la intrarea în mănăstire.",
+            "en": "Park right by the monastery entrance for easy access."
+          }
+        },
+        {
+          "name": "Galešnjak Aussicht (Küstenstraße)",
+          "coords": [
+            43.978,
+            15.385
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Blick auf die berühmte Herzinsel vom Hügel aus.",
+            "hu": "Kilátás a híres szív-szigetre a dombról.",
+            "ro": "Vedere asupra celebrei insule în formă de inimă de pe deal.",
+            "en": "View the famous heart-shaped island from the coastal heights."
+          }
+        },
+        {
+          "name": "Mittagessen in Pašman Dorf",
+          "coords": [
+            43.95,
+            15.38
+          ],
+          "category": "gastro",
+          "arrive_at": "11:45",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Genießen Sie fangfrischen Fisch im Dorfzentrum.",
+            "hu": "Élvezze a frissen fogott halat a falu központjában.",
+            "ro": "Bucurați-vă de pește proaspăt prins în centrul satului.",
+            "en": "Enjoy some freshly caught fish in the heart of the village."
+          }
+        },
+        {
+          "name": "Uvala Soline Strandtag",
+          "coords": [
+            43.91,
+            15.39
+          ],
+          "category": "beach",
+          "arrive_at": "13:35",
+          "stay_min": 180,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Ruhige Bucht auf der Südseite der Insel.",
+            "hu": "Csendes öböl a sziget déli oldalán.",
+            "ro": "Golf liniștit pe partea de sud a insulei.",
+            "en": "A peaceful bay located on the southern side of the island."
+          }
+        },
+        {
+          "name": "Rückfahrt & Sonnenuntergang",
+          "coords": [
+            43.921,
+            15.421
+          ],
+          "category": "sunset",
+          "arrive_at": "16:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Letzter Blick auf das Meer vor der Fähre.",
+            "hu": "Utolsó pillantás a tengerre a komp előtt.",
+            "ro": "Ultima vedere asupra mării înainte de feribot.",
+            "en": "One last look at the sea before heading to the ferry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lässt sich die ganze Vielfalt von Pašman entdecken. Von den historischen Klöstern im Süden führt die Fahrt nach Norden zu den besten Aussichtspunkten auf die Herzinsel Galešnjak. Der Nachmittag gehört einer abgelegenen Bucht auf der wilden Südseite, bevor Sie pünktlich zur Fähre wieder in Tkon eintreffen.",
+        "hu": "Autóval Pašman teljes sokszínűsége felfedezhető. A déli történelmi kolostoroktól az út északra vezet a legjobb kilátópontokhoz, ahonnan rálátni a Galešnjak szív-szigetre. A délutánt egy eldugott öbölben töltheti a vadregényes déli oldalon, majd pontban a komphoz érkezik vissza Tkonba.",
+        "ro": "Cu mașina puteți descoperi întreaga diversitate a insulei Pašman. De la mănăstirile istorice din sud, drumul duce spre nord la cele mai bune puncte de belvedere asupra insulei în formă de inimă Galešnjak. După-amiaza aparține unui golf izolat de pe partea sudică sălbatică, înainte de a reveni în Tkon la timp pentru feribot.",
+        "en": "Discover the full diversity of Pašman by car. From the historic monasteries in the south, drive north to find the best viewpoints of the heart-shaped Galešnjak island. Spend a peaceful afternoon in a secluded bay on the island's wild southern side before returning to Tkon for your ferry."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Konoba Deat",
+            "tip": "Traditionelle Peka auf Vorbestellung."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Konoba Deat",
+            "tip": "Hagyományos peka előrendelésre."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Konoba Deat",
+            "tip": "Peka tradițională cu rezervare în avans."
+          }
+        ],
+        "en": [
+          {
+            "name": "Konoba Deat",
+            "tip": "Traditional 'Peka' (order in advance)."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Südliche Buchten",
+            "tip": "Natur pur fernab der Massen.",
+            "emoji": "🏞️"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Déli öblök",
+            "tip": "Tiszta természet a tömegtől távol.",
+            "emoji": "🏞️"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Golfurile din sud",
+            "tip": "Natură pură departe de mulțime.",
+            "emoji": "🏞️"
+          }
+        ],
+        "en": [
+          {
+            "name": "Southern Bays",
+            "tip": "Pure nature away from any crowds.",
+            "emoji": "🏞️"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "OPG Matulić",
+            "tip": "Preisgekrönte Chili-Saucen und Kosmetik."
+          }
+        ],
+        "hu": [
+          {
+            "name": "OPG Matulić",
+            "tip": "Díjazott chili szószok és kozmetikumok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "OPG Matulić",
+            "tip": "Sosuri chili premiate și cosmetice."
+          }
+        ],
+        "en": [
+          {
+            "name": "OPG Matulić",
+            "tip": "Award-winning chili sauces and cosmetics."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Die Straßen sind schmal, fahren Sie vorsichtig.",
+          "Parkplätze sind in den Dörfern meist kostenfrei.",
+          "Tanken Sie auf dem Festland, auf der Insel gibt es wenig Tankstellen.",
+          "Halten Sie an lokalen Ständen für frisches Obst."
+        ],
+        "hu": [
+          "Az utak keskenyek, vezessen óvatosan.",
+          "A falvakban a parkolás általában ingyenes.",
+          "Tankoljon a szárazföldön, a szigeten kevés a kút.",
+          "Álljon meg a helyi árusoknál friss gyümölcsért."
+        ],
+        "ro": [
+          "Drumurile sunt înguste, conduceți cu atenție.",
+          "Parcarea în sate este de obicei gratuită.",
+          "Alimentați pe continent, pe insulă sunt puține benzinării.",
+          "Opriți la tarabele locale pentru fructe proaspete."
+        ],
+        "en": [
+          "The roads can be narrow, so drive carefully.",
+          "Parking in the villages is mostly free of charge.",
+          "Fuel up on the mainland; gas stations are scarce on the island.",
+          "Stop at roadside stalls for fresh local fruit."
+        ]
+      }
+    },
+    "transit": {
+      "mode": "transit",
+      "speed_kmh": 15,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 14.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": "Ankunft Tkon Fähre",
+          "coords": [
+            43.921,
+            15.421
+          ],
+          "category": "harbor",
+          "arrive_at": "09:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Busfahrplan direkt am Hafen.",
+            "hu": "Ellenőrizze a buszmenetrendet a kikötőben.",
+            "ro": "Verificați mersul autobuzelor chiar în port.",
+            "en": "Check the local bus schedule at the harbor upon arrival."
+          }
+        },
+        {
+          "name": "Franjevački samostan sv. Duje",
+          "coords": [
+            43.945,
+            15.37
+          ],
+          "category": "religious",
+          "arrive_at": "10:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahrt mit dem Inselebus nach Kraj.",
+            "hu": "Utazás a szigeti busszal Krajba.",
+            "ro": "Călătorie cu autobuzul insulei până în Kraj.",
+            "en": "Take the island bus from Tkon to the village of Kraj."
+          }
+        },
+        {
+          "name": "Kraj Strand & Mittagspause",
+          "coords": [
+            43.94,
+            15.375
+          ],
+          "category": "beach",
+          "arrive_at": "11:05",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kurzer Fußweg vom Kloster zum Strand.",
+            "hu": "Rövid séta a kolostortól a strandig.",
+            "ro": "Scurtă plimbare de la mănăstire la plajă.",
+            "en": "A very short walk from the monastery to the beach."
+          }
+        },
+        {
+          "name": "Rückfahrt nach Tkon",
+          "coords": [
+            43.922,
+            15.42
+          ],
+          "category": "gastro",
+          "arrive_at": "14:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Zeit für ein spätes Mittagessen am Hafen.",
+            "hu": "Idő egy késői ebédre a kikötőben.",
+            "ro": "Timp pentru un prânz târziu în port.",
+            "en": "Time for a late lunch by the Tkon harbor side."
+          }
+        },
+        {
+          "name": "Benediktinski samostan Ćokovac",
+          "coords": [
+            43.931,
+            15.405
+          ],
+          "category": "religious",
+          "arrive_at": "16:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Letzter Stopp zu Fuß vom Hafen aus.",
+            "hu": "Utolsó megálló gyalogosan a kikötőből.",
+            "ro": "Ultima oprire pe jos din port.",
+            "en": "The final stop, reachable by foot from the harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit Fähre und Bus lässt sich Pašman wunderbar entspannt erleben. Nach der Ankunft in Tkon bringt Sie der Inselebus zum Kloster in Kraj und den umliegenden Stränden. Den späten Nachmittag verbringen Sie wieder in Tkon, mit einem kurzen Spaziergang zum Ćokovac-Kloster für den perfekten Abschluss.",
+        "hu": "Komppal és busszal Pašman csodálatosan pihentető módon élhető át. Tkoni érkezés után a szigeti busz elviszi a kraj-i kolostorhoz és a környező strandokhoz. A késő délutánt ismét Tkonban tölti, egy rövid sétával a Ćokovac-kolostorhoz a tökéletes befejezés érdekében.",
+        "ro": "Cu feribotul și autobuzul, Pašman poate fi experimentat într-un mod minunat de relaxant. După sosirea în Tkon, autobuzul insulei vă duce la mănăstirea din Kraj și la plajele din jur. Petreceți după-amiaza târzie din nou în Tkon, cu o scurtă plimbare la mănăstirea Ćokovac pentru finalul perfect.",
+        "en": "Experience Pašman in a truly relaxed way using the ferry and local bus. After arriving in Tkon, take the bus to the Kraj monastery and nearby beaches. Spend your late afternoon back in Tkon with a gentle walk up to Ćokovac monastery for a perfect end to the day."
+      },
+      "gastro_picks": {
+        "de": [
+          {
+            "name": "Bäckerei Tkon",
+            "tip": "Probieren Sie lokales Burek für unterwegs."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Tkoni pékség",
+            "tip": "Kóstolja meg a helyi bureket útközben."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Brutăria Tkon",
+            "tip": "Încercați burek local pentru drum."
+          }
+        ],
+        "en": [
+          {
+            "name": "Tkon Bakery",
+            "tip": "Try some local 'Burek' for a quick snack."
+          }
+        ]
+      },
+      "quiet_picks": {
+        "de": [
+          {
+            "name": "Klostergarten Kraj",
+            "tip": "Ein Ort der Besinnung.",
+            "emoji": "🍃"
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kraj-i kolostorkert",
+            "tip": "Az elmélyülés helye.",
+            "emoji": "🍃"
+          }
+        ],
+        "ro": [
+          {
+            "name": "Grădina mănăstirii Kraj",
+            "tip": "Un loc de meditație.",
+            "emoji": "🍃"
+          }
+        ],
+        "en": [
+          {
+            "name": "Kraj Monastery Garden",
+            "tip": "A perfect spot for quiet reflection.",
+            "emoji": "🍃"
+          }
+        ]
+      },
+      "shopping_picks": {
+        "de": [
+          {
+            "name": "Kiosk am Hafen",
+            "tip": "Insel-Postkarten und Zeitschriften."
+          }
+        ],
+        "hu": [
+          {
+            "name": "Kikötői kioszk",
+            "tip": "Szigeti képeslapok és újságok."
+          }
+        ],
+        "ro": [
+          {
+            "name": "Chioșc în port",
+            "tip": "Vederi cu insula și reviste."
+          }
+        ],
+        "en": [
+          {
+            "name": "Harbor Kiosk",
+            "tip": "Pick up island postcards and magazines."
+          }
+        ]
+      },
+      "tips": {
+        "de": [
+          "Der Bus ist auf die Ankunftszeiten der Fähren abgestimmt.",
+          "Kaufen Sie Tickets direkt beim Fahrer.",
+          "Sonntags fahren deutlich weniger Busse.",
+          "Haben Sie Kleingeld für den Bus parat."
+        ],
+        "hu": [
+          "A busz igazodik a kompok érkezési idejéhez.",
+          "Vásároljon jegyet közvetlenül a sofőrnél.",
+          "Vasárnap jelentősen kevesebb busz jár.",
+          "Legyen Önnél aprópénz a buszra."
+        ],
+        "ro": [
+          "Autobuzul este sincronizat cu sosirea feriboturilor.",
+          "Cumpărați bilete direct de la șofer.",
+          "Duminica circulă semnificativ mai puține autobuze.",
+          "Aveți pregătiți bani mărunți pentru autobuz."
+        ],
+        "en": [
+          "Buses are timed to match the ferry arrivals.",
+          "Purchase your tickets directly from the driver.",
+          "Bus services are significantly reduced on Sundays.",
+          "Keep some small change ready for the bus fare."
+        ]
+      }
+    }
+  }
+}
