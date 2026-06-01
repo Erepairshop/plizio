@@ -1049,16 +1049,23 @@ function clmp(v){return Math.max(.5,Math.min(8,v))}
 function toVb(cx,cy){const r=svg.getBoundingClientRect();return[(cx-r.left)*(W/r.width),(cy-r.top)*(H/r.height)]}
 function zoomAt(f,cx,cy){const[vx,vy]=toVb(cx,cy);const ns=clmp(s*f);const k=ns/s;tx=vx-k*(vx-tx);ty=vy-k*(vy-ty);s=ns;ap()}
 function zoomCenter(f){const r=svg.getBoundingClientRect();zoomAt(f,r.left+r.width/2,r.top+r.height/2)}
-let dr=false,dx=0,dy=0;
-svg.addEventListener('pointerdown',e=>{if(e.target.closest('.poi'))return;if(e.isPrimary===false)return;dr=true;dx=e.clientX;dy=e.clientY;svg.classList.add('drag');svg.setPointerCapture(e.pointerId)});
-svg.addEventListener('pointermove',e=>{if(!dr)return;const r=svg.getBoundingClientRect();const k=W/r.width;tx+=(e.clientX-dx)*k;ty+=(e.clientY-dy)*k;dx=e.clientX;dy=e.clientY;ap()});
-svg.addEventListener('pointerup',()=>{dr=false;svg.classList.remove('drag')});
-svg.addEventListener('pointercancel',()=>{dr=false;svg.classList.remove('drag')});
+let dr=false,pend=false,dx=0,dy=0,sx=0,sy=0,pid=0;
+// Drag uses a MOVE THRESHOLD: pointerdown only ARMS panning; we don't capture the
+// pointer until it actually moves >4px. A click without movement therefore reaches
+// the target's own handler — fixes desktop where setPointerCapture-on-down stole the
+// click from .cluster and .region (country) elements (mobile tap was unaffected).
+svg.addEventListener('pointerdown',e=>{if(e.isPrimary===false)return;pend=true;dr=false;dx=sx=e.clientX;dy=sy=e.clientY;pid=e.pointerId});
+svg.addEventListener('pointermove',e=>{
+  if(pend&&!dr){if(Math.hypot(e.clientX-sx,e.clientY-sy)<=4)return;dr=true;svg.classList.add('drag');try{svg.setPointerCapture(pid)}catch(_){}}
+  if(!dr)return;const r=svg.getBoundingClientRect();const k=W/r.width;tx+=(e.clientX-dx)*k;ty+=(e.clientY-dy)*k;dx=e.clientX;dy=e.clientY;ap()
+});
+svg.addEventListener('pointerup',()=>{pend=false;if(dr){dr=false;svg.classList.remove('drag');try{svg.releasePointerCapture(pid)}catch(_){}}});
+svg.addEventListener('pointercancel',()=>{pend=false;dr=false;svg.classList.remove('drag')});
 svg.addEventListener('wheel',e=>{e.preventDefault();zoomAt(e.deltaY<0?1.15:1/1.15,e.clientX,e.clientY)},{passive:false});
 document.getElementById('zin').onclick=()=>zoomCenter(1.3);
 document.getElementById('zout').onclick=()=>zoomCenter(1/1.3);
 let pD=0,pS=1;
-svg.addEventListener('touchstart',e=>{if(e.touches.length===2){const[a,b]=e.touches;pD=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);pS=s;dr=false}},{passive:true});
+svg.addEventListener('touchstart',e=>{if(e.touches.length===2){const[a,b]=e.touches;pD=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);pS=s;dr=false;pend=false}},{passive:true});
 svg.addEventListener('touchmove',e=>{if(e.touches.length===2){const[a,b]=e.touches;const d=Math.hypot(b.clientX-a.clientX,b.clientY-a.clientY);const cx=(a.clientX+b.clientX)/2,cy=(a.clientY+b.clientY)/2;const f=(d/pD)*(pS/s);zoomAt(f,cx,cy);e.preventDefault()}},{passive:false});
 const pop=document.getElementById('popup');
 const GCOL2={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
