@@ -902,6 +902,22 @@ const I18N: Record<string, Partial<Record<Lang, string>>> = {
   nearbySights: { de: "In der Umgebung", hu: "Környékbeli látnivalók", ro: "Obiective din împrejurimi", en: "Sights nearby", hr: "Znamenitosti u blizini" },
 };
 
+// Claude-Design per-type placeholder SVGs (public/placeholders/poi/) for the ~7k
+// indexable POIs with no fetched photo — far better than an empty/pin hero.
+const POI_PLACEHOLDER_TYPE: Record<string, string> = {
+  city: "city", town: "village", village: "village", "state-capital": "state-capital", capital: "state-capital",
+  region: "region", country: "country", mountain: "mountain", peak: "mountain", river: "river", lake: "river",
+  sea: "river", waterfall: "river", island: "island", landmark: "landmark", historical: "historical",
+  monument: "monument", castle: "castle", fortress: "castle", church: "church", cathedral: "church",
+  museum: "museum", ruins: "ruins", forest: "forest", "national-park": "national-park", park: "national-park",
+  nature: "national-park", valley: "valley", canyon: "valley", relief: "relief", port: "port", harbor: "port",
+  industry: "industry", agriculture: "agriculture", "animal-habitat": "wildlife", wildlife: "wildlife",
+  zoo: "wildlife", "kid-landmark": "kid-landmark",
+};
+function poiPlaceholderSvg(type?: string): string {
+  return `/placeholders/poi/placeholder-${POI_PLACEHOLDER_TYPE[type || ""] || "landmark"}.svg`;
+}
+
 // Lang fallback: tr → de, fr → en (most strings only have 4 langs filled).
 function _langFallback(lang: Lang): Lang { return lang === "tr" ? "de" : lang === "fr" ? "en" : lang; }
 const I = (k: string, lang: Lang) => I18N[k]?.[lang] ?? I18N[k]?.[_langFallback(lang)] ?? k;
@@ -2034,7 +2050,8 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   }
   let heroHtml: string;
   if (heroImages.length === 0) {
-    heroHtml = `<div class="plz-hero"><div class="plz-hero-placeholder"><svg viewBox="0 0 24 24" width="48" height="48" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg></div></div>`;
+    // No fetched photo → Claude-Design type placeholder SVG (not an empty/pin hero).
+    heroHtml = `<div class="plz-hero plz-hero-ph"><img src="${poiPlaceholderSvg(poi.type)}" alt="${escapeHtml(buildAlt(name))}" loading="lazy"/></div>`;
   } else if (heroImages.length === 1) {
     heroHtml = `<div class="plz-hero"><img src="${escapeHtml(heroImages[0].src)}" alt="${escapeHtml(heroImages[0].alt)}" loading="lazy"/></div>`;
   } else {
