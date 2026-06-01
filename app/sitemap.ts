@@ -71,6 +71,10 @@ export async function generateSitemaps() {
   );
   const ROOT_FIXED = 33;     // hardcoded root pages (/, /learn, /europe-map, country maps, ...)
   const GAME_FIXED = 27;     // GAME_ROUTES.length (astro + test routes), emitted per lang
+  // Extra per-POI lang URLs (fr/tr/hr) — emitted by the sitemap() extra-lang loop,
+  // so they MUST be counted here too or the last chunk gets dropped.
+  let extraLangUrls = 0;
+  for (const poi of indexablePois) extraLangUrls += extraLangsFor(poi).length;
   const totalUrls =
     ROOT_FIXED +
     GAME_FIXED * SUPPORTED_LANGS.length +
@@ -78,6 +82,7 @@ export async function generateSitemaps() {
     CATEGORY_PARAMS.length * SUPPORTED_LANGS.length +
     regions.length * SUPPORTED_LANGS.length +
     indexablePois.length * SUPPORTED_LANGS.length +
+    extraLangUrls +
     SIGHT_PAGES.length * SUPPORTED_LANGS.length;
   const n = Math.max(1, Math.ceil(totalUrls / CHUNK_SIZE));
   return Array.from({ length: n }, (_, id) => ({ id }));

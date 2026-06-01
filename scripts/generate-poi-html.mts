@@ -181,13 +181,17 @@ try {
     FAQS = JSON.parse(fs.readFileSync(fp, "utf-8"));
   }
 } catch {}
+// hr FAQ is a separate native set (different questions), populated from the
+// poi-hr-native.json merge below; renderFAQ uses it for lang === "hr".
+const HR_FAQS: Record<string, FAQItem[]> = {};
 
 function renderFAQ(poi: POI, lang: Lang): string {
-  const items = FAQS[poi.id];
+  const items = (lang === "hr" && HR_FAQS[poi.id]) ? HR_FAQS[poi.id] : FAQS[poi.id];
   if (!items || items.length === 0) return "";
   const heading: Record<string, string> = {
     de: "Häufige Fragen", hu: "Gyakori kérdések", ro: "Întrebări frecvente",
     en: "Frequently asked questions", fr: "Questions fréquentes", tr: "Sıkça sorulan sorular",
+    hr: "Često postavljana pitanja",
   };
   const head = heading[lang] || heading.en!;
   const accordion = items.map((it, i) => {
@@ -336,7 +340,39 @@ async function loadFullPois(): Promise<POI[]> {
 const pois: POI[] = await loadFullPois();
 // Build a global id→POI lookup for cross-referencing (e.g. sight name internal links).
 const allById = new Map<string, POI>(pois.filter(p => p?.id).map(p => [p.id, p]));
-type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr";
+type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr";
+
+// hr = native Croatian: merge the poi-hr-native.json sidecar INTO each POI's
+// Record<Lang> fields (name/description/descriptionAdvanced/facts/sights) + faq, so
+// the existing per-lang render picks up hr via v[lang]. Keeps the heavy TS files clean.
+try {
+  const hrPath = path.resolve(process.cwd(), "public", "data", "poi-hr-native.json");
+  if (fs.existsSync(hrPath)) {
+    const HR: Record<string, { name?: string; description?: string; descriptionAdvanced?: string; facts?: string[]; sights?: { name: string; desc?: string }[]; faq?: { q: string; a: string }[] }> = JSON.parse(fs.readFileSync(hrPath, "utf-8"));
+    let merged = 0;
+    for (const poi of pois) {
+      const hr = HR[poi.id];
+      if (!hr) continue;
+      const p = poi as unknown as Record<string, any>;
+      if (hr.name) { p.name = p.name || {}; p.name.hr = hr.name; }
+      if (hr.description) { p.description = p.description || {}; p.description.hr = hr.description; }
+      if (hr.descriptionAdvanced) { p.descriptionAdvanced = p.descriptionAdvanced || {}; p.descriptionAdvanced.hr = hr.descriptionAdvanced; }
+      if (Array.isArray(hr.facts) && hr.facts.length) { p.facts = p.facts || {}; p.facts.hr = hr.facts; }
+      if (Array.isArray(hr.sights) && hr.sights.length) {
+        p.sights = p.sights || {};
+        p.sights.hr = hr.sights.map((s) => ({ name: s.name, desc: s.desc, text: { hr: s.desc } }));
+      }
+      if (Array.isArray(hr.faq) && hr.faq.length) {
+        HR_FAQS[poi.id] = hr.faq.map((f) => ({ q: { hr: f.q } as any, a: { hr: f.a } as any }));
+      }
+      p.hrLong = true;
+      merged++;
+    }
+    console.log(`[generate-poi-html] hr-native merged into ${merged} POIs`);
+  }
+} catch (e: any) {
+  console.log(`[generate-poi-html] hr-native merge skipped: ${e?.message?.slice(0, 80)}`);
+}
 
 const SITE_URL = "https://plizio.com";
 
@@ -520,10 +556,11 @@ function smartMetaDesc(text: unknown, fallback: unknown, max = 160): string {
 }
 
 function getPoiAlternates(poi: POI): Record<string, string> {
-  // FR POIs get an extra fr alternate; DE POIs get an extra tr (Turkish residents).
-  const extra: Lang[] = poi.parent?.startsWith("FR") ? ["fr"]
-                     : poi.parent?.startsWith("DE") ? ["tr"]
-                     : [];
+  // FR POIs get an extra fr alternate; DE → tr (Turkish residents); HR → hr (native).
+  const extra: Lang[] = [];
+  if (poi.parent?.startsWith("FR")) extra.push("fr");
+  if (poi.parent?.startsWith("DE")) extra.push("tr");
+  if ((poi as unknown as { hrLong?: boolean }).hrLong) extra.push("hr");
   const langs: Lang[] = [...SUPPORTED_LANGS, ...extra];
   return Object.fromEntries(langs.map((l) => [l, `${SITE_URL}${buildPoiPath(l, poi)}`]));
 }
@@ -2020,10 +2057,11 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     .map(([l, href]) => `<link rel="alternate" hreflang="${l}" href="${href}"/>`)
     .join("\n  ");
 
-  // Language switcher — show fr only for FR POIs, tr only for DE POIs.
-  const extraSwitcher: Lang[] = poi.parent?.startsWith("FR") ? ["fr"]
-                              : poi.parent?.startsWith("DE") ? ["tr"]
-                              : [];
+  // Language switcher — fr only for FR POIs, tr only for DE POIs, hr only for HR POIs.
+  const extraSwitcher: Lang[] = [];
+  if (poi.parent?.startsWith("FR")) extraSwitcher.push("fr");
+  if (poi.parent?.startsWith("DE")) extraSwitcher.push("tr");
+  if ((poi as unknown as { hrLong?: boolean }).hrLong) extraSwitcher.push("hr");
   const switcherLangs: Lang[] = [...SUPPORTED_LANGS, ...extraSwitcher];
   const langSwitcher = switcherLangs.map((l) => {
     const cls = l === lang ? ' class="active"' : "";
@@ -2249,10 +2287,11 @@ async function main() {
   const dirsMade = new Set<string>();
 
   for (const poi of target) {
-    // FR POIs get an additional `fr` page; DE POIs get an additional `tr` page.
-    const extraPoi: Lang[] = poi.parent?.startsWith("FR") ? ["fr"]
-                          : poi.parent?.startsWith("DE") ? ["tr"]
-                          : [];
+    // FR POIs get an additional `fr` page; DE → `tr`; HR (hr-native) → `hr`.
+    const extraPoi: Lang[] = [];
+    if (poi.parent?.startsWith("FR")) extraPoi.push("fr");
+    if (poi.parent?.startsWith("DE")) extraPoi.push("tr");
+    if ((poi as unknown as { hrLong?: boolean }).hrLong) extraPoi.push("hr");
     const poiLangs: Lang[] = [...SUPPORTED_LANGS, ...extraPoi];
     for (const lang of poiLangs) {
       const url = buildPoiPath(lang, poi);

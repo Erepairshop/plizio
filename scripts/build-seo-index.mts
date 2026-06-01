@@ -120,6 +120,17 @@ async function main() {
     return typeof da?.[lang] === "string" && da[lang].length >= 700;
   }
 
+  // hr = native Croatian: a POI gets the hr variant iff it has hr-native content
+  // (public/data/poi-hr-native.json, produced by _apply_hr_native.py).
+  const HR_NATIVE_IDS = new Set<string>();
+  try {
+    const hrPath = path.resolve(process.cwd(), "public", "data", "poi-hr-native.json");
+    if (fs.existsSync(hrPath)) {
+      for (const id of Object.keys(JSON.parse(fs.readFileSync(hrPath, "utf-8")))) HR_NATIVE_IDS.add(id);
+    }
+  } catch { /* sidecar optional */ }
+  console.log(`[build-seo-index] hr-native POIs: ${HR_NATIVE_IDS.size}`);
+
   // Lite shape — only what slugs.ts / sitemap.ts / page generators need.
   const lite = finalPois.map((p) => ({
     id: p.id,
@@ -129,6 +140,7 @@ async function main() {
     image: p.image,
     frLong: longLang(p, "fr"),
     trLong: longLang(p, "tr"),
+    hrLong: HR_NATIVE_IDS.has(p.id),
     coa: p.coa,
     name: p.name,
     hasIndexable: hasIndexable(p),
