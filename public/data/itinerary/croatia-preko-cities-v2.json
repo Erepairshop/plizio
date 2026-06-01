@@ -292,6 +292,206 @@
           "Consider renting a bike to explore the neighboring villages.",
           "Bring plenty of water for the steep uphill walk."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erleben Sie den Hafen von Preko im sanften Regen, der die Farben des Meeres vertieft. Mittags erkunden Sie die geschützten Gassen der Altstadt und genießen regionale Spezialitäten in einer gemütlichen, warmen Konoba. Nachmittags führt der Weg zur Insel Galevac und zum Strand Jaz, wo die Brandung besonders beeindruckend ist. Abends bietet die Festung St. Michael eine mystische Aussicht durch die Wolken.",
+            "hu": "Reggel a kikötő ködös, esős hangulatát élvezheti, miközben a tenger mélyszürkévé válik. Délben az óváros szűk, védett utcáin sétálhat, majd egy meleg konobában ebédelhet. Délután a Galevac-sziget kolostora és a Jaz-strand vizes partja várja, ahol a hullámzás látványos. Este a Szent Mihály-erőd misztikus, felhős panorámája és a pára feletti fények zárják a napot.",
+            "ro": "Dimineața, portul Preko vă întâmpină cu o atmosferă ploioasă care intensifică culorile mării. La prânz, explorați străzile protejate ale centrului vechi și savurați prânzul într-o tavernă primitoare. După-amiaza vizitați mănăstirea de pe insula Galevac și plaja Jaz. Seara, fortăreața Sf. Mihail oferă o priveliște mistică printre nori, ideală pentru fotografii dramatice.",
+            "en": "In the morning, enjoy the misty harbor of Preko as the rain deepens the colors of the Adriatic. At noon, wander through the sheltered alleys of the old town and have a warm lunch in a local tavern. In the afternoon, visit Galevac island and the rainy Jaz beach for a dramatic coastal experience. In the evening, St. Michael’s fortress offers a mystical panorama through the shifting clouds."
+          },
+          "stops": [
+            {
+              "name": "Marina Preko",
+              "tip_4lang": {
+                "de": "Das Hafenamt bietet Schutz vor Regenschauern.",
+                "hu": "A kikötői iroda épülete jó menedék zápor idején.",
+                "ro": "Clădirea căpităniei oferă adăpost în caz de aversă.",
+                "en": "The harbor office building provides shelter during rain."
+              }
+            },
+            {
+              "name": "Stari Grad",
+              "tip_4lang": {
+                "de": "Die schmalen Gassen bieten guten Windschutz.",
+                "hu": "A szűk utcák jó szélvédelmet nyújtanak esőben.",
+                "ro": "Străduțele înguste oferă o bună protecție împotriva vântului.",
+                "en": "The narrow alleys provide good wind protection."
+              }
+            },
+            {
+              "name": "Galevac (Školjić)",
+              "tip_4lang": {
+                "de": "Das Klostermuseum ist ein perfekter Rückzugsort im Trockenen.",
+                "hu": "A kolostor múzeuma tökéletes fedett program esős időben.",
+                "ro": "Muzeul mănăstirii este un refugiu perfect pe timp de ploaie.",
+                "en": "The monastery museum is a perfect indoor retreat during rain."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_4lang": {
+                "de": "Wählen Sie einen Tisch am Kamin, falls vorhanden.",
+                "hu": "Válasszunk asztalt a kandalló közelében, ha van.",
+                "ro": "Alegeți o masă lângă șemineu, dacă este disponibil.",
+                "en": "Choose a table near the fireplace if available."
+              }
+            },
+            {
+              "name": "Plaža Jaz",
+              "tip_4lang": {
+                "de": "Ein Spaziergang am Betonweg ist auch bei Nässe sicher.",
+                "hu": "A betonozott sétány esőben is biztonságosan járható.",
+                "ro": "Promenada betonată este sigură de parcurs chiar și pe ploaie.",
+                "en": "The concrete promenade is safe to walk even when wet."
+              }
+            },
+            {
+              "name": "Tvrđava svetog Mihovila",
+              "tip_4lang": {
+                "de": "Vorsicht auf den rutschigen Steinstufen der Festung.",
+                "hu": "Vigyázzunk az erőd csúszós kőlépcsőin.",
+                "ro": "Atenție la treptele de piatră alunecoase ale fortăreței.",
+                "en": "Be careful on the slippery stone steps of the fortress."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Aussichtspunkt",
+              "tip_4lang": {
+                "de": "Die Wolkenspiele sind oft spektakulärer als klarer Himmel.",
+                "hu": "A felhők játéka gyakran látványosabb a tiszta égboltnál.",
+                "ro": "Jocul norilor este adesea mai spectaculos decât cerul senin.",
+                "en": "The cloud formations are often more spectacular than clear skies."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie Flip-Flops, die Steine in der Altstadt werden spiegelglatt.",
+              "Ein Taschenschirm ist wegen des oft starken Windes weniger geeignet als ein Regenponcho.",
+              "Die kleinen Boote nach Galevac verkehren meist auch bei leichtem Regen.",
+              "Nutzen Sie die Regenpausen für den Aufstieg zur Festung."
+            ],
+            "hu": [
+              "Kerülje a papucsot, mert az óváros kövei tükörsimává válnak az esőtől.",
+              "A gyakori szél miatt az esernyő helyett praktikusabb egy esőponcsó.",
+              "A Galevac-szigetre tartó kishajók általában gyenge esőben is járnak.",
+              "Használja ki az esőszüneteket az erődbe való feljutáshoz."
+            ],
+            "ro": [
+              "Evitați șlapii, deoarece pietrele din centrul vechi devin extrem de alunecoase.",
+              "Din cauza vântului frecvent, o pelerină de ploaie este mai utilă decât o umbrelă.",
+              "Bărcile mici spre Galevac circulă de obicei și pe ploaie ușoară.",
+              "Profită de pauzele dintre reprizele de ploaie pentru urcarea la fortăreață."
+            ],
+            "en": [
+              "Avoid flip-flops as the old town stones become mirror-slick when wet.",
+              "A rain poncho is more practical than an umbrella due to frequent winds.",
+              "Small boats to Galevac usually operate during light rain.",
+              "Use the breaks between rain showers for the ascent to the fortress."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise durch Preko, während die Sonne tief über dem Festland steht. Mittags genießen Sie die Ruhe der Insel ohne Sommertouristen und probieren herzhafte Wintereintöpfe. Nachmittags ist die Luft kristallklar, was die Sicht von Galevac und dem Strand Jaz bis nach Zadar perfekt macht. Abends erleben Sie einen leuchtend roten Sonnenuntergang von der Festung, bevor es früh dunkel wird.",
+            "hu": "Reggel friss szellő fúj Preko kikötőjében, miközben a nap alacsonyan jár a szárazföld felett. Délben élvezheti a sziget csendjét a nyári tömeg nélkül, és megkóstolhatja a tápláló téli ételeket. Délután a levegő kristálytiszta, így Galevacról és a Jaz-strandról tökéletes a kilátás Zadar felé. Este ragyogó vörös naplementét láthat az erődből, mielőtt korán leszáll az éj.",
+            "ro": "Dimineața, o briză proaspătă suflă prin Preko, în timp ce soarele strălucește jos deasupra continentului. La prânz, bucurați-vă de liniștea insulei fără turiști și încercați preparate tradiționale de iarnă. După-amiaza, aerul este cristalizat, oferind o vizibilitate perfectă spre Zadar. Seara, veți vedea un apus roșu aprins de la fortăreață, înainte ca întunericul să se lase devreme.",
+            "en": "In the morning, a fresh breeze blows through Preko as the sun sits low over the mainland. At noon, enjoy the island's peace without the summer crowds and try hearty winter stews. In the afternoon, the air is crystal clear, making the views from Galevac and Jaz beach towards Zadar perfect. In the evening, witness a brilliant red sunset from the fortress before the early nightfall."
+          },
+          "stops": [
+            {
+              "name": "Marina Preko",
+              "tip_4lang": {
+                "de": "Warmer Kaffee in den beheizten Cafés am Hafen genießen.",
+                "hu": "Élvezzünk egy forró kávét a kikötő fűtött kávézóiban.",
+                "ro": "Savurați o cafea caldă în cafenelele încălzite din port.",
+                "en": "Enjoy a hot coffee in the heated cafes along the harbor."
+              }
+            },
+            {
+              "name": "Stari Grad",
+              "tip_4lang": {
+                "de": "Die Sonne wärmt die hellen Steinfassaden mittags angenehm auf.",
+                "hu": "A nap délben kellemesen felmelegíti a világos kőfalakat.",
+                "ro": "Soarele încălzește plăcut fațadele de piatră la amiază.",
+                "en": "The midday sun pleasantly warms the light stone facades."
+              }
+            },
+            {
+              "name": "Galevac (Školjić)",
+              "tip_4lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten des Klosters vorab.",
+                "hu": "Előre ellenőrizzük a kolostor téli nyitvatartását.",
+                "ro": "Verificați programul de iarnă al mănăstirii în prealabil.",
+                "en": "Check the monastery's winter opening hours in advance."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_4lang": {
+                "de": "Fragen Sie nach 'Pašticada', einem typischen Wintergericht.",
+                "hu": "Kérdezzünk rá a 'Pašticada'-ra, ami tipikus téli étel.",
+                "ro": "Întrebați de „Pašticada”, un preparat tipic de iarnă.",
+                "en": "Ask for 'Pašticada', a typical winter dish."
+              }
+            },
+            {
+              "name": "Plaža Jaz",
+              "tip_4lang": {
+                "de": "Perfekt für einen meditativen Spaziergang am leeren Strand.",
+                "hu": "Tökéletes egy meditatív sétához az üres tengerparton.",
+                "ro": "Perfect pentru o plimbare meditativă pe plaja pustie.",
+                "en": "Perfect for a meditative walk on the empty beach."
+              }
+            },
+            {
+              "name": "Tvrđava svetog Mihovila",
+              "tip_4lang": {
+                "de": "Bringen Sie eine Thermoskanne mit Tee für die Gipfelrast mit.",
+                "hu": "Vigyünk magunkkal teát termoszban a csúcson való pihenéshez.",
+                "ro": "Luați un termos cu ceai pentru pauza din vârful dealului.",
+                "en": "Bring a thermos with tea for the rest at the summit."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Aussichtspunkt",
+              "tip_4lang": {
+                "de": "Der Sonnenuntergang findet im Winter bereits gegen 16:30 Uhr statt.",
+                "hu": "Télen a naplemente már 16:30 körül bekövetkezik.",
+                "ro": "Apusul are loc deja în jurul orei 16:30 pe timp de iarnă.",
+                "en": "Sunset occurs as early as 4:30 PM during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für den Aufstieg zur Festung.",
+              "Die Fähren von Zadar fahren im Winter seltener, Fahrplan prüfen.",
+              "Viele Eisdielen sind geschlossen, aber die Cafés bieten tolle Kuchen.",
+              "Die Sichtweite ist im Winter oft doppelt so hoch wie im Sommer."
+            ],
+            "hu": [
+              "Viselj szélálló ruházatot, különösen az erődbe való felkapaszkodáshoz.",
+              "A zadari kompok télen ritkábban járnak, ellenőrizd a menetrendet.",
+              "Sok fagylaltozó zárva van, de a kávézók remek sütiket kínálnak.",
+              "Télen a látótávolság gyakran kétszerese a nyárinak."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, în special pentru urcarea la fortăreață.",
+              "Feriboturile din Zadar circulă mai rar iarna, verificați orarul.",
+              "Multe gelaterii sunt închise, dar cafenelele oferă prăjituri delicioase.",
+              "Vizibilitatea este adesea de două ori mai mare iarna decât vara."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the climb to the fortress.",
+              "Ferries from Zadar run less frequently in winter; check the schedule.",
+              "Many ice cream parlors are closed, but cafes offer great cakes.",
+              "Visibility is often twice as high in winter compared to summer."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -534,6 +734,206 @@
           "Bring a puncture repair kit.",
           "Avoid the midday heat for the steep uphill climb."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie vorsichtig am Hafen entlang, wo der Asphalt glänzt. Mittags führt die Tour durch die Altstadt zu einer warmen Rast im Inselinneren. Nachmittags ist die Fahrt zum Strand Jaz und nach Galevac erfrischend, trotz feuchter Luft. Abends radeln Sie über die Riva, während die Lichter von Zadar auf der nassen Oberfläche tanzen.",
+            "hu": "Reggel óvatosan kerékpározhat a kikötőben a csillogó aszfalton. Délben a túra az óvároson át a sziget belsejébe vezet egy meleg pihenőre. Délután a Jaz-strand és Galevac felé tartó tekerés frissítő a párás levegőben. Este a mólón tekerve a zadari fények táncolnak a vizes útfelületen.",
+            "ro": "Dimineața, pedalați cu atenție de-a lungul portului pe asfaltul lucios. La prânz, turul continuă prin centrul vechi spre interiorul insulei pentru o pauză caldă. După-amiaza, drumul spre plaja Jaz și Galevac este revigorant. Seara, pedalați pe faleză în timp ce luminile din Zadar se reflectă pe drumul umed.",
+            "en": "In the morning, cycle carefully along the harbor where the asphalt glistens. At noon, the tour leads through the old town to a warm break in the island's interior. In the afternoon, the ride to Jaz beach and Galevac is refreshing despite the damp air. In the evening, cycle along the Riva as Zadar's lights dance on the wet surface."
+          },
+          "stops": [
+            {
+              "name": "Marina Preko",
+              "tip_4lang": {
+                "de": "Vorsicht beim Überqueren der Metallstege, diese sind extrem rutschig.",
+                "hu": "Vigyázzunk a fém rámpákon, mert rendkívül csúsznak.",
+                "ro": "Atenție la traversarea rampelor metalice, sunt extrem de alunecoase.",
+                "en": "Be careful when crossing metal ramps as they are extremely slippery."
+              }
+            },
+            {
+              "name": "Stari Grad",
+              "tip_4lang": {
+                "de": "In den Kurven der Altstadt langsam fahren.",
+                "hu": "Az óváros kanyarjaiban haladjunk lassan.",
+                "ro": "Pedalați încet în curbele din centrul vechi.",
+                "en": "Ride slowly in the curves of the old town."
+              }
+            },
+            {
+              "name": "Tvrđava svetog Mihovila",
+              "tip_4lang": {
+                "de": "Die steile Abfahrt erfordert bei Nässe volle Konzentration.",
+                "hu": "A meredek lejtő teljes koncentrációt igényel nedves időben.",
+                "ro": "Coborârea abruptă necesită concentrare maximă pe timp umed.",
+                "en": "The steep descent requires full concentration in wet conditions."
+              }
+            },
+            {
+              "name": "Mittagspause im Inselinneren",
+              "tip_4lang": {
+                "de": "Nutzen Sie den Stopp, um die Fahrradbekleidung zu trocknen.",
+                "hu": "Használjuk ki a pihenőt a kerékpáros ruházat megszárítására.",
+                "ro": "Folosiți pauza pentru a vă usca echipamentul de ciclism.",
+                "en": "Use the break to dry your cycling gear."
+              }
+            },
+            {
+              "name": "Plaža Jaz",
+              "tip_4lang": {
+                "de": "Stellen Sie das Rad unter den Vordächern der Strandbars ab.",
+                "hu": "Parkoljunk a strandbárok előtetői alá.",
+                "ro": "Parcați bicicleta sub copertinele barurilor de pe plajă.",
+                "en": "Park your bike under the awnings of the beach bars."
+              }
+            },
+            {
+              "name": "Galevac (Školjić)",
+              "tip_4lang": {
+                "de": "Schließen Sie Ihr Rad am Festland ab, bevor Sie das Boot nehmen.",
+                "hu": "Zárjuk le a bringát a parton, mielőtt csónakba szállunk.",
+                "ro": "Încuiați bicicleta la mal înainte de a lua barca.",
+                "en": "Lock your bike on the mainland before taking the boat."
+              }
+            },
+            {
+              "name": "Riva-Fahrt bei Sonnenuntergang",
+              "tip_4lang": {
+                "de": "Gute Beleuchtung am Rad ist bei Regen und Dämmerung Pflicht.",
+                "hu": "A jó világítás kötelező esőben és szürkületben.",
+                "ro": "Iluminarea bună este obligatorie pe ploaie și la amurg.",
+                "en": "Good lighting is mandatory in rain and twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsbeläge vor dem Start, Nässe verlängert den Bremsweg.",
+              "Schutzbleche am Rad sind heute Ihr bester Freund.",
+              "Vermeiden Sie Pfützen, sie könnten tiefe Schlaglöcher verbergen.",
+              "Tragen Sie eine gelbe oder reflektierende Regenjacke für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizd a fékeket, a nedvesség növeli a féktávot.",
+              "A sárvédő ma a legjobb barátod lesz.",
+              "Kerüld a tócsákat, mert mély kátyúkat rejthetnek.",
+              "Viselj sárga vagy fényvisszaverő esőkabátot a jobb láthatóságért."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare, umiditatea mărește distanța de frânare.",
+              "Apărătorile de noroi sunt cel mai bun prieten al tău astăzi.",
+              "Evitați bălțile, deoarece pot ascunde gropi adânci.",
+              "Purtați o jachetă de ploaie galbenă sau reflectorizantă pentru vizibilitate."
+            ],
+            "en": [
+              "Check your brakes before starting; wetness increases stopping distance.",
+              "Mudguards are your best friend today.",
+              "Avoid puddles as they might hide deep potholes.",
+              "Wear a yellow or reflective rain jacket for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie durch die kühle Meeresluft, die Ihre Sinne weckt. Mittags erklimmen Sie die Festung St. Michael, wobei die Anstrengung Sie angenehm wärmt. Nachmittags gleiten Sie durch die friedliche Winterlandschaft zum Strand Jaz und Galevac. Abends beenden Sie die Tour an der Riva, während die Wintersonne die Adria in goldenes Licht taucht.",
+            "hu": "Reggel a hűvös tengeri levegőn tekerve frissen indul a nap. Délben felkapaszkodhat a Szent Mihály-erődhöz, a mozgás kellemesen felmelegíti. Délután a békés téli tájon át gurulhat a Jaz-strandhoz és Galevachoz. Este a mólón fejezheti be a túrát, miközben a téli nap arany fénybe vonja az Adriát.",
+            "ro": "Dimineața, pedalați prin aerul răcoros al mării care vă trezește simțurile. La prânz, urcați la fortăreața Sf. Mihail, efortul încălzindu-vă plăcut. După-amiaza, alunecați prin peisajul liniștit de iarnă spre plaja Jaz și Galevac. Seara, încheiați turul pe faleză în lumina aurie a soarelui de iarnă.",
+            "en": "In the morning, cycle through the cool sea air that awakens your senses. At noon, climb up to St. Michael’s fortress; the effort will keep you pleasantly warm. In the afternoon, glide through the peaceful winter landscape towards Jaz beach and Galevac. In the evening, end the tour at the Riva as the winter sun bathes the Adriatic in golden light."
+          },
+          "stops": [
+            {
+              "name": "Marina Preko",
+              "tip_4lang": {
+                "de": "Handschuhe sind bei Fahrtwind im Winter unverzichtbar.",
+                "hu": "A kesztyű elengedhetetlen a téli menetszélben.",
+                "ro": "Mănușile sunt indispensabile împotriva vântului rece de iarnă.",
+                "en": "Gloves are essential against the winter wind chill."
+              }
+            },
+            {
+              "name": "Stari Grad",
+              "tip_4lang": {
+                "de": "Die Sonne erreicht die Gassen im Winter nur für wenige Stunden.",
+                "hu": "A nap télen csak néhány órára éri el a szűk utcákat.",
+                "ro": "Soarele ajunge pe străduțe doar pentru câteva ore iarna.",
+                "en": "The sun reaches the alleys for only a few hours in winter."
+              }
+            },
+            {
+              "name": "Tvrđava svetog Mihovila",
+              "tip_4lang": {
+                "de": "Der Blick auf die schneebedeckten Velebit-Berge ist im Winter einzigartig.",
+                "hu": "A havas Velebit-hegység látványa télen egyedülálló.",
+                "ro": "Vederea spre munții Velebit înzăpeziți este unică iarna.",
+                "en": "The view of the snow-capped Velebit mountains is unique in winter."
+              }
+            },
+            {
+              "name": "Mittagspause im Inselinneren",
+              "tip_4lang": {
+                "de": "Suchen Sie ein Restaurant mit sonniger Terrasse für die Mittagssonne.",
+                "hu": "Keressünk napos terasszal rendelkező éttermet a déli napsütéshez.",
+                "ro": "Căutați un restaurant cu terasă însorită pentru soarele de amiază.",
+                "en": "Look for a restaurant with a sunny terrace for the midday sun."
+              }
+            },
+            {
+              "name": "Plaža Jaz",
+              "tip_4lang": {
+                "de": "Die Ruhe am Strand lädt zu einer kurzen Rast ein.",
+                "hu": "A strand nyugalma hívogat egy rövid pihenőre.",
+                "ro": "Liniștea plajei vă invită la o scurtă pauză.",
+                "en": "The beach's tranquility invites you for a short rest."
+              }
+            },
+            {
+              "name": "Galevac (Školjić)",
+              "tip_4lang": {
+                "de": "Auf dem Wasser ist es deutlich kühler als an Land.",
+                "hu": "A vízen lényegesen hűvösebb van, mint a parton.",
+                "ro": "Pe apă este considerabil mai rece decât pe uscat.",
+                "en": "It is significantly cooler on the water than on land."
+              }
+            },
+            {
+              "name": "Riva-Fahrt bei Sonnenuntergang",
+              "tip_4lang": {
+                "de": "Nach Sonnenuntergang sinken die Temperaturen rapide.",
+                "hu": "Naplemente után a hőmérséklet gyorsan süllyed.",
+                "ro": "După apus, temperaturile scad rapid.",
+                "en": "Temperatures drop rapidly after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie das 'Zwiebelprinzip' bei der Kleidung für Bergauffahrten.",
+              "Die klare Winterluft sorgt für phänomenale Weitsicht von der Festung.",
+              "Nehmen Sie ein Stirnband unter dem Helm gegen kalte Ohren mit.",
+              "Prüfen Sie den Reifendruck, kalte Luft verringert ihn leicht."
+            ],
+            "hu": [
+              "Alkalmazd a réteges öltözködést a hegymenetekhez.",
+              "A tiszta téli levegő fenomenális kilátást biztosít az erődről.",
+              "Viselj fejpántot a sisak alatt a hideg fülek ellen.",
+              "Ellenőrizd a guminyomást, a hideg levegő kissé csökkenti azt."
+            ],
+            "ro": [
+              "Folosiți sistemul straturilor de haine pentru urcările pe deal.",
+              "Aerul curat de iarnă oferă o vizibilitate fenomenală de la fortăreață.",
+              "Purtați o bentiță sub cască pentru a vă proteja urechile de frig.",
+              "Verificați presiunea în pneuri, aerul rece o reduce ușor."
+            ],
+            "en": [
+              "Use layered clothing for the uphill sections.",
+              "The clear winter air provides phenomenal long-distance views from the fortress.",
+              "Wear a headband under your helmet to protect your ears from the cold.",
+              "Check tire pressure; cold air slightly reduces it."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -776,6 +1176,206 @@
           "Parking often requires payment during summer.",
           "The road to the fortress is narrow; drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens genießen Sie den Blick auf die verregnete Marina bequem aus dem trockenen Auto. Mittags erkunden Sie die Altstadt bei kurzen Wegen und speisen in einer gemütlichen Konoba. Nachmittags führt die Fahrt zur Festung St. Michael, wo der Ausblick trotz Regen faszinierend bleibt. Abends lassen Sie den Tag am Ufer ausklingen, während die Tropfen an den Scheiben perlen.",
+            "hu": "Reggel kényelmesen, a száraz autóból csodálhatja az esős kikötőt. Délben az óvárost rövid sétákkal fedezheti fel, majd egy barátságos konobában ebédelhet. Délután a Szent Mihály-erődhöz vezet az út, ahonnan az eső ellenére is lenyűgöző a kilátás. Este a parton zárhatja a napot, miközben az esőcseppek az ablaküvegen kopognak.",
+            "ro": "Dimineața, bucurați-vă de vederea spre portul ploios din confortul mașinii. La prânz, explorați centrul vechi cu plimbări scurte și luați masa într-o tavernă primitoare. După-amiaza, conduceți spre fortăreața Sf. Mihail, unde priveliștea rămâne fascinantă. Seara, încheiați ziua la malul mării, în timp ce picăturile se scurg pe geamuri.",
+            "en": "In the morning, enjoy the view of the rainy marina from the comfort of your dry car. At noon, explore the old town with short walks and dine in a cozy tavern. In the afternoon, drive up to St. Michael’s fortress, where the view remains fascinating despite the rain. In the evening, end the day by the shore as raindrops bead on the windows."
+          },
+          "stops": [
+            {
+              "name": "Marina Preko (Cluster A)",
+              "tip_4lang": {
+                "de": "Parkplätze direkt am Hafenbecken nutzen.",
+                "hu": "Használjuk a közvetlenül a kikötő mellett lévő parkolókat.",
+                "ro": "Folosiți parcările situate direct lângă port.",
+                "en": "Use the parking lots located directly by the harbor."
+              }
+            },
+            {
+              "name": "Stari Grad (Cluster A)",
+              "tip_4lang": {
+                "de": "Nahegelegene Parkplätze minimieren den Weg im Regen.",
+                "hu": "A közeli parkolók minimalizálják az esőben megtett utat.",
+                "ro": "Parcările din apropiere reduc timpul petrecut în ploaie.",
+                "en": "Nearby parking minimizes walking time in the rain."
+              }
+            },
+            {
+              "name": "Galevac (Cluster A)",
+              "tip_4lang": {
+                "de": "Das Auto kann während der Bootsfahrt am Kai stehen bleiben.",
+                "hu": "Az autó a rakparton maradhat a csónakázás idejére.",
+                "ro": "Mașina poate rămâne la chei pe durata plimbării cu barca.",
+                "en": "The car can stay at the quay during the boat trip."
+              }
+            },
+            {
+              "name": "Tvrđava svetog Mihovila (Cluster B)",
+              "tip_4lang": {
+                "de": "Die Auffahrt ist asphaltiert und bei Regen sicher zu befahren.",
+                "hu": "Az út aszfaltozott és esőben is biztonságosan járható.",
+                "ro": "Drumul este asfaltat și sigur de parcurs pe timp de ploaie.",
+                "en": "The road is paved and safe to drive even in the rain."
+              }
+            },
+            {
+              "name": "Mittagessen (Cluster B)",
+              "tip_4lang": {
+                "de": "Restaurants mit eigenem Parkplatz bevorzugen.",
+                "hu": "Részesítsük előnyben a saját parkolóval rendelkező éttermeket.",
+                "ro": "Preferați restaurantele cu parcare proprie.",
+                "en": "Prefer restaurants with their own parking lot."
+              }
+            },
+            {
+              "name": "Plaža Jaz (Cluster C)",
+              "tip_4lang": {
+                "de": "Vom Auto aus kann man die stürmische See beobachten.",
+                "hu": "Az autóból is megfigyelhető a viharos tenger.",
+                "ro": "Marea agitată poate fi observată direct din mașină.",
+                "en": "The stormy sea can be observed directly from the car."
+              }
+            },
+            {
+              "name": "Abschied am Ufer (Cluster C)",
+              "tip_4lang": {
+                "de": "Im Auto trocken auf die Fähre warten.",
+                "hu": "Várjuk meg szárazon a kompot az autóban.",
+                "ro": "Așteptați feribotul la uscat, în mașină.",
+                "en": "Wait for the ferry in the dry comfort of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Schlaglöcher, die durch Pfützen verdeckt sein könnten.",
+              "Die Sicht kann bei starkem Regen auf der Inselstraße eingeschränkt sein.",
+              "Halten Sie ein Handtuch im Auto bereit, falls Sie nass werden.",
+              "Prüfen Sie, ob die Fähre bei starkem Wind (Jugo) nach Fahrplan fährt."
+            ],
+            "hu": [
+              "Ügyelj a tócsák által eltakart kátyúkra.",
+              "Erős esőben a látótávolság korlátozott lehet a szigeti utakon.",
+              "Tarts egy törölközőt az autóban, ha esetleg megáznál.",
+              "Ellenőrizd, hogy a komp erős szél (Jugo) esetén is menetrend szerint jár-e."
+            ],
+            "ro": [
+              "Atenție la gropile care pot fi acoperite de bălți.",
+              "Vizibilitatea poate fi limitată pe drumurile insulei în caz de ploaie torențială.",
+              "Păstrați un prosop în mașină în caz că vă udați.",
+              "Verificați dacă feribotul circulă conform orarului în caz de vânt puternic (Jugo)."
+            ],
+            "en": [
+              "Watch out for potholes that might be hidden by puddles.",
+              "Visibility may be limited on island roads during heavy rain.",
+              "Keep a towel in the car in case you get wet.",
+              "Check if the ferry is running on schedule during strong winds (Jugo)."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren Sie durch das verschlafene Winter-Preko zum Hafen. Mittags erkunden Sie die historischen Schätze der Insel bei angenehmen Temperaturen im Wagen. Nachmittags ist die Aussicht von der Festung St. Michael dank der klaren Winterluft weitreichend und spektakulär. Abends genießen Sie die letzten Sonnenstrahlen am Ufer, bevor die Nacht kühl einbricht.",
+            "hu": "Reggel az álmos, téli Prekón át autózhat a kikötőbe. Délben az autó kényelméből fedezheti fel a sziget történelmi kincseit. Délután a Szent Mihály-erőd panorámája a tiszta téli levegőnek köszönhetően messzire nyúló és lenyűgöző. Este a parton élvezheti az utolsó napsugarakat, mielőtt a hideg éjszaka leszáll.",
+            "ro": "Dimineața, conduceți prin Preko cel somnoros de iarnă spre port. La prânz, explorați comorile istorice ale insulei în confortul mașinii. După-amiaza, priveliștea de la fortăreața Sf. Mihail este spectaculoasă datorită aerului curat. Seara, bucurați-vă de ultimele raze de soare la malul mării înainte de lăsarea frigului.",
+            "en": "In the morning, drive through sleepy winter Preko to the harbor. At noon, explore the island's historical treasures in the comfort of your car. In the afternoon, the view from St. Michael’s fortress is spectacular and far-reaching thanks to the clear winter air. In the evening, enjoy the last rays of sun by the shore before the cold night sets in."
+          },
+          "stops": [
+            {
+              "name": "Marina Preko (Cluster A)",
+              "tip_4lang": {
+                "de": "Im Winter gibt es reichlich freie Parkplätze am Hafen.",
+                "hu": "Télen bőségesen találni szabad parkolóhelyet a kikötőben.",
+                "ro": "Iarna există numeroase locuri de parcare libere în port.",
+                "en": "There are plenty of free parking spaces in the harbor during winter."
+              }
+            },
+            {
+              "name": "Stari Grad (Cluster A)",
+              "tip_4lang": {
+                "de": "Manche Gassen sind sehr eng, parken Sie lieber am Rand.",
+                "hu": "Néhány utca nagyon szűk, érdemes a szélén parkolni.",
+                "ro": "Unele străzi sunt foarte înguste, parcați mai degrabă la margine.",
+                "en": "Some alleys are very narrow; it's better to park on the outskirts."
+              }
+            },
+            {
+              "name": "Galevac (Cluster A)",
+              "tip_4lang": {
+                "de": "Das Auto kühlt während der Bootsfahrt schnell aus.",
+                "hu": "Az autó gyorsan lehűl a csónakázás ideje alatt.",
+                "ro": "Mașina se răcește rapid pe durata plimbării cu barca.",
+                "en": "The car cools down quickly during the boat trip."
+              }
+            },
+            {
+              "name": "Tvrđava svetog Mihovila (Cluster B)",
+              "tip_4lang": {
+                "de": "Die Sonne steht tief, Sonnenblende im Auto nutzen.",
+                "hu": "A nap alacsonyan jár, használjuk a napellenzőt az autóban.",
+                "ro": "Soarele este jos, folosiți parasolarul mașinii.",
+                "en": "The sun is low; use the car's sun visor."
+              }
+            },
+            {
+              "name": "Mittagessen (Cluster B)",
+              "tip_4lang": {
+                "de": "Winter-Öffnungszeiten der Restaurants im Inselinneren beachten.",
+                "hu": "Ügyeljünk a sziget belsejében lévő éttermek téli nyitvatartására.",
+                "ro": "Atenție la programul de iarnă al restaurantelor din interiorul insulei.",
+                "en": "Note the winter opening hours of restaurants in the island's interior."
+              }
+            },
+            {
+              "name": "Plaža Jaz (Cluster C)",
+              "tip_4lang": {
+                "de": "Direkte Zufahrt zum Strandparkplatz ist im Winter problemlos.",
+                "hu": "Télen a strandparkoló közvetlen megközelítése problémamentes.",
+                "ro": "Accesul direct la parcarea plajei este facil iarna.",
+                "en": "Direct access to the beach parking lot is easy in winter."
+              }
+            },
+            {
+              "name": "Abschied am Ufer (Cluster C)",
+              "tip_4lang": {
+                "de": "Heizung anlassen, während man auf die Fähre wartet.",
+                "hu": "Hagyjuk bekapcsolva a fűtést, amíg a kompra várunk.",
+                "ro": "Lăsați căldura pornită în timp ce așteptați feribotul.",
+                "en": "Keep the heater on while waiting for the ferry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Inselstraßen können bei Frost im Schatten glatt sein.",
+              "Prüfen Sie den Reifendruck vor der Fahrt über die Berge.",
+              "Nehmen Sie eine warme Decke für Fotostopps im Freien mit.",
+              "Wintersonnenuntergänge sind oft farbenprächtiger als im Sommer."
+            ],
+            "hu": [
+              "A szigeti utak fagy esetén az árnyékos részeken csúszósak lehetnek.",
+              "Hegyi utak előtt ellenőrizd a guminyomást.",
+              "Vigyél magaddal meleg takarót a szabadtéri fotózáshoz.",
+              "A téli naplementék gyakran színesebbek, mint a nyáriak."
+            ],
+            "ro": [
+              "Drumurile insulei pot fi alunecoase în zonele umbrite în caz de îngheț.",
+              "Verificați presiunea în pneuri înainte de a conduce pe drumurile de munte.",
+              "Luați o pătură caldă pentru opririle foto în aer liber.",
+              "Apusurile de iarnă sunt adesea mai colorate decât cele de vară."
+            ],
+            "en": [
+              "Island roads can be slippery in shaded areas during frost.",
+              "Check tire pressure before driving over the mountain roads.",
+              "Bring a warm blanket for outdoor photo stops.",
+              "Winter sunsets are often more colorful than summer ones."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1000,6 +1600,188 @@
           "Check the local island ferry schedule.",
           "Tickets can be purchased at the ferry terminal."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erreichen Sie Preko mit der Fähre und genießen den Blick auf die regnerische Küste vom Salon aus. Mittags spazieren Sie durch die Altstadt und wärmen sich in einer Konoba am Hafen auf. Nachmittags besuchen Sie Galevac und den Strand Jaz, wobei die Busfahrt kurze Wege im Regen ermöglicht. Abends nehmen Sie den Bus zurück zur Fähre, während die See draußen rauscht.",
+            "hu": "Reggel komppal érkezik Prekóba, a szalonból csodálva az esős partvidéket. Délben az óvárosban sétálhat, majd a kikötő egyik konobájában melegedhet fel. Délután Galevac és a Jaz-strand a cél, a buszozás segít elkerülni a hosszú ázást. Este busszal térhet vissza a komphoz, miközben odakint zúg a tenger.",
+            "ro": "Dimineața ajungeți în Preko cu feribotul, admirând coasta ploioasă din salon. La prânz, vă plimbați prin centrul vechi și vă încălziți într-o tavernă din port. După-amiaza vizitați Galevac și plaja Jaz, călătoria cu autobuzul reducând timpul petrecut în ploaie. Seara, luați autobuzul înapoi spre feribot.",
+            "en": "In the morning, arrive in Preko by ferry, enjoying the rainy coastline from the cabin. At noon, wander through the old town and warm up in a harbor tavern. In the afternoon, visit Galevac and Jaz beach; using the bus helps avoid long walks in the rain. In the evening, take the bus back to the ferry as the sea roars outside."
+          },
+          "stops": [
+            {
+              "name": "Marina Preko (Fähre Ankunft)",
+              "tip_4lang": {
+                "de": "Der Wartebereich der Fähre ist überdacht und trocken.",
+                "hu": "A komp váróterme fedett és száraz.",
+                "ro": "Zona de așteptare a feribotului este acoperită și uscată.",
+                "en": "The ferry waiting area is covered and dry."
+              }
+            },
+            {
+              "name": "Stari Grad",
+              "tip_4lang": {
+                "de": "Die nächste Bushaltestelle ist nur wenige Minuten entfernt.",
+                "hu": "A legközelebbi buszmegálló csak néhány percre van.",
+                "ro": "Cea mai apropiată stație de autobuz este la doar câteva minute distanță.",
+                "en": "The nearest bus stop is only a few minutes away."
+              }
+            },
+            {
+              "name": "Galevac (Školjić)",
+              "tip_4lang": {
+                "de": "Die Überfahrt im kleinen Boot dauert nur 2 Minuten.",
+                "hu": "Az átkelés kishajóval mindössze 2 percet vesz igénybe.",
+                "ro": "Traversarea cu barca mică durează doar 2 minute.",
+                "en": "The crossing in the small boat takes only 2 minutes."
+              }
+            },
+            {
+              "name": "Mittagessen am Hafen",
+              "tip_4lang": {
+                "de": "Restaurants in der Nähe der Bushaltestelle wählen.",
+                "hu": "Válasszunk éttermet a buszmegálló közelében.",
+                "ro": "Alegeți restaurante în apropierea stației de autobuz.",
+                "en": "Choose restaurants near the bus stop."
+              }
+            },
+            {
+              "name": "Plaža Jaz",
+              "tip_4lang": {
+                "de": "Der Bus hält direkt oberhalb des Strandes.",
+                "hu": "A busz közvetlenül a strand felett áll meg.",
+                "ro": "Autobuzul oprește chiar deasupra plajei.",
+                "en": "The bus stops directly above the beach."
+              }
+            },
+            {
+              "name": "Insel-Busfahrt (Abschied)",
+              "tip_4lang": {
+                "de": "Prüfen Sie den Echtzeit-Fahrplan per App bei Regen.",
+                "hu": "Esőben ellenőrizd a valós idejű menetrendet applikáción.",
+                "ro": "Verificați orarul în timp real prin aplicație pe timp de ploaie.",
+                "en": "Check the real-time schedule via app during rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich ein Tagesticket für den Inselbus direkt beim Fahrer.",
+              "Die Fähren von Zadar sind groß genug, um auch bei Regen ruhig zu liegen.",
+              "Die Wartezeit auf den Bus lässt sich gut in den Cafés am Hafen überbrücken.",
+              "Halten Sie Ihr Ticket griffbereit und trocken."
+            ],
+            "hu": [
+              "Vegyél napijegyet a szigeti buszra közvetlenül a sofőrnél.",
+              "A zadari kompok elég nagyok ahhoz, hogy esőben is nyugodtan haladjanak.",
+              "A buszra való várakozást jól el lehet ütni a kikötői kávézókban.",
+              "Tartsd a jegyedet könnyen elérhető és száraz helyen."
+            ],
+            "ro": [
+              "Cumpărați un bilet de o zi pentru autobuzul insular direct de la șofer.",
+              "Feriboturile din Zadar sunt destul de mari pentru a naviga lin chiar și pe ploaie.",
+              "Timpul de așteptare pentru autobuz poate fi petrecut în cafenelele din port.",
+              "Păstrați biletul la îndemână și uscat."
+            ],
+            "en": [
+              "Get a day ticket for the island bus directly from the driver.",
+              "The ferries from Zadar are large enough to stay stable even in rain.",
+              "The wait for the bus can be comfortably spent in the harbor cafes.",
+              "Keep your ticket handy and dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen Sie die klare Sicht auf Zadar von der Fähre aus. Mittags erkunden Sie die ruhige Altstadt von Preko und probieren lokale Winterspezialitäten. Nachmittags führt die Busfahrt zum Strand Jaz und nach Galevac, wobei die Wintersonne die Landschaft verzaubert. Abends kehren Sie mit dem Bus zum Hafen zurück, bevor die kühle Nachtluft übernimmt.",
+            "hu": "Reggel a kompról élvezheti a tiszta kilátást Zadar felé. Délben felfedezheti Preko csendes óvárosát és megkóstolhatja a helyi téli ételeket. Délután a busz elviszi a Jaz-strandhoz és Galevachoz, miközben a téli nap fénye beragyogja a tájat. Este busszal térhet vissza a kikötőbe a hűvös éjszaka előtt.",
+            "ro": "Dimineața, bucurați-vă de vederea clară spre Zadar de pe feribot. La prânz, explorați centrul vechi liniștit din Preko și încercați specialități locale de iarnă. După-amiaza, călătoria cu autobuzul vă duce la plaja Jaz și Galevac. Seara, reveniți cu autobuzul în port înainte ca aerul rece de noapte să se instaleze.",
+            "en": "In the morning, enjoy the clear view of Zadar from the ferry. At noon, explore the quiet old town of Preko and try local winter specialties. In the afternoon, the bus takes you to Jaz beach and Galevac as the winter sun enchants the landscape. In the evening, return to the harbor by bus before the cool night air takes over."
+          },
+          "stops": [
+            {
+              "name": "Marina Preko (Fähre Ankunft)",
+              "tip_4lang": {
+                "de": "Im Winter sind die Salons der Fähren angenehm beheizt.",
+                "hu": "Télen a kompok utastere kellemesen fűtött.",
+                "ro": "Iarna, saloanele feriboturilor sunt încălzite plăcut.",
+                "en": "In winter, the ferry cabins are pleasantly heated."
+              }
+            },
+            {
+              "name": "Stari Grad",
+              "tip_4lang": {
+                "de": "Ein Spaziergang durch die leeren Gassen ist im Winter sehr entspannend.",
+                "hu": "A séták az üres utcákon télen nagyon pihentetőek.",
+                "ro": "O plimbare pe străduțele pustii este foarte relaxantă iarna.",
+                "en": "A walk through the empty alleys is very relaxing in winter."
+              }
+            },
+            {
+              "name": "Galevac (Školjić)",
+              "tip_4lang": {
+                "de": "Die Mönche schätzen die Ruhe der Wintermonate.",
+                "hu": "A szerzetesek nagyra értékelik a téli hónapok nyugalmát.",
+                "ro": "Călugării apreciază liniștea lunilor de iarnă.",
+                "en": "The monks appreciate the tranquility of the winter months."
+              }
+            },
+            {
+              "name": "Mittagessen am Hafen",
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf die Adria durch die großen Fenster der Cafés.",
+                "hu": "Élvezzük az Adria látványát a kávézók nagy ablakain keresztül.",
+                "ro": "Admirați marea prin ferestrele mari ale cafenelelor.",
+                "en": "Enjoy the view of the Adriatic through the large cafe windows."
+              }
+            },
+            {
+              "name": "Plaža Jaz",
+              "tip_4lang": {
+                "de": "Ein einsamer Ort für Reflexion und frische Meeresluft.",
+                "hu": "Magányos hely az elmélkedésre és a friss tengeri levegőre.",
+                "ro": "Un loc solitar pentru reflecție și aer curat de mare.",
+                "en": "A solitary spot for reflection and fresh sea air."
+              }
+            },
+            {
+              "name": "Insel-Busfahrt (Abschied)",
+              "tip_4lang": {
+                "de": "Der Winterfahrplan des Busses ist stark reduziert.",
+                "hu": "A busz téli menetrendje jelentősen ritkább.",
+                "ro": "Orarul de iarnă al autobuzului este considerabil redus.",
+                "en": "The bus's winter schedule is significantly reduced."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie unbedingt den speziellen Winterfahrplan der Buslinie 101.",
+              "Die Fähre 'Jadrolinija' ist im Winter oft der einzige lebhafte Ort.",
+              "Nehmen Sie warme Kleidung für die Wartezeiten an den Bushaltestellen mit.",
+              "Ein heißer Tee in Preko ist die perfekte Vorbereitung auf die Rückfahrt."
+            ],
+            "hu": [
+              "Feltétlenül ellenőrizd a 101-es busz speciális téli menetrendjét.",
+              "A 'Jadrolinija' komp télen gyakran az egyetlen nyüzsgő hely.",
+              "Vigyél meleg ruhát a buszmegállókban való várakozáshoz.",
+              "Egy forró tea Prekóban tökéletes felkészülés a visszaútra."
+            ],
+            "ro": [
+              "Verificați neapărat orarul special de iarnă al liniei de autobuz 101.",
+              "Feribotul „Jadrolinija” este adesea singurul loc plin de viață iarna.",
+              "Luați haine groase pentru perioadele de așteptare în stații.",
+              "Un ceai fierbinte în Preko este pregătirea perfectă pentru drumul de întoarcere."
+            ],
+            "en": [
+              "Be sure to check the special winter schedule for bus line 101.",
+              "The 'Jadrolinija' ferry is often the only lively spot in winter.",
+              "Bring warm clothing for the waiting periods at the bus stops.",
+              "A hot tea in Preko is the perfect preparation for the return trip."
+            ]
+          }
+        }
       }
     }
   }

@@ -288,6 +288,210 @@
           "Don't forget your swimwear, beaches are nearby.",
           "The atmosphere at the harbor is best in the early morning."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Vormittag an der Adria verleiht der Riva von Kaštel Novi einen silbrigen Glanz. Wir starten geschützt unter den Arkaden und steuern die Kula Cippico an, deren dicke Mauern uns trocken halten. Mittags genießen wir die wohlige Wärme einer lokalen Konoba bei einer dampfenden Suppe. Der Nachmittag gehört der alten Mastrinka, bevor wir den Tag mit Blick auf das stürmische Meer ausklingen lassen.",
+            "hu": "Az esős délelőtt az adriai parton ezüstös fényt ad a Kaštel Novi-i Rivának. Az árkádok alatt indulunk, majd a Kula Cippico felé vesszük az irányt, ahol a vastag falak megvédenek a nedvességtől. Ebédre egy helyi konoba barátságos melegében élvezzük a gőzölgő húslevest. Délután meglátogatjuk az ősi Mastrinkát, majd a napot a viharos tenger látványával zárjuk egy fedett teraszon.",
+            "ro": "O dimineață ploioasă pe malul Adriaticii oferă Rivei din Kaštel Novi o strălucire argintie. Începem protejați sub arcade și ne îndreptăm spre Kula Cippico, ale cărei ziduri groase ne feresc de ploaie. La prânz, ne bucurăm de căldura unei konoba locale cu o supă fierbinte. După-amiaza este dedicată bătrânei Mastrinka, înainte de a încheia ziua admirând marea agitată de la adăpost.",
+            "en": "A rainy morning on the Adriatic coast gives the Riva of Kaštel Novi a silvery glow. We start protected under the arcades and head for Kula Cippico, whose thick walls keep us dry. At lunch, we enjoy the cozy warmth of a local konoba with a steaming soup. The afternoon is spent visiting the ancient Mastrinka, before ending the day watching the stormy sea from a covered spot."
+          },
+          "stops": [
+            {
+              "name": "Uferpromenade Riva",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Steinpflaster, es kann sehr rutschig sein.",
+                "hu": "Vigyázat a nedves kőburkolaton, mert rendkívül csúszós lehet.",
+                "ro": "Atenție pe pavajul de piatră umed, poate fi foarte alunecos.",
+                "en": "Be careful on the wet stone pavement; it can be very slippery."
+              }
+            },
+            {
+              "name": "Kula Cippico",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum der Festung als perfekten Unterschlupf vor dem Regen.",
+                "hu": "Használja ki az erőd belső tereit, tökéletes menedék az eső elől.",
+                "ro": "Folosiți interiorul cetății ca adăpost perfect împotriva ploii.",
+                "en": "Use the fortress interior as a perfect shelter from the rain."
+              }
+            },
+            {
+              "name": "Župna crkva sv. Petra",
+              "tip_5lang": {
+                "de": "Die ruhige Atmosphäre der Kirche lädt bei Regen zur Besinnung ein.",
+                "hu": "A templom csendes atmoszférája esőben különösen megnyugtató.",
+                "ro": "Atmosfera liniștită a bisericii invită la reflecție pe timp de ploaie.",
+                "en": "The church's quiet atmosphere invites reflection during the rain."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "coords": [
+                16.333,
+                43.5488
+              ],
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem Tagesgericht, oft gibt es wärmende Eintöpfe.",
+                "hu": "Kérdezze a napi ajánlatot, gyakran kínálnak melengető egytálételeket.",
+                "ro": "Întrebați de meniul zilei, adesea există tocănițe calde.",
+                "en": "Ask for the daily special; they often serve warming stews."
+              }
+            },
+            {
+              "name": "Mastrinka",
+              "tip_5lang": {
+                "de": "Der 1500 Jahre alte Olivenbaum wirkt im Regen fast mystisch.",
+                "hu": "Az 1500 éves olajfa az esőben szinte misztikus látványt nyújt.",
+                "ro": "Măslinul vechi de 1500 de ani pare aproape mistic în ploaie.",
+                "en": "The 1500-year-old olive tree looks almost mystical in the rain."
+              }
+            },
+            {
+              "name": "Strandpause",
+              "tip_5lang": {
+                "de": "Ein Strandspaziergang mit Regenschirm bietet eine einsame, wilde Kulisse.",
+                "hu": "Egy esernyős tengerparti séta vad és magányos tájat mutat.",
+                "ro": "O plimbare pe plajă cu umbrela oferă un peisaj sălbatic și solitar.",
+                "en": "A beach walk with an umbrella offers a lonely, wild scenery."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Kai",
+              "tip_5lang": {
+                "de": "Die grauen Wolken am Horizont sorgen für dramatische Fotomotive.",
+                "hu": "A szürke felhők a horizonton drámai fotótémát szolgáltatnak.",
+                "ro": "Norii cenușii de la orizont oferă motive fotografice dramatice.",
+                "en": "The grey clouds on the horizon provide dramatic photo opportunities."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da die Altstadtgassen das Wasser sammeln.",
+              "Die Steinplatten der Riva werden spiegelglatt bei Nässe.",
+              "Nutzen Sie die Konobas für längere Pausen, um die Regenfronten abzuwarten.",
+              "Ein Taschenregenschirm ist bei den teils engen Gassen praktischer als ein Stockschirm."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óvárosi utcákban megállhat a víz.",
+              "A Riva kőlapjai tükörsimává válnak a nedvességtől.",
+              "Használja a konobákat hosszabb pihenőre az esőfelhők elvonulásáig.",
+              "A szűk utcákban az összecsukható esernyő praktikusabb, mint a hosszú nyelű."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece străzile vechi colectează apa.",
+              "Plăcile de piatră de pe Riva devin extrem de alunecoase când sunt ude.",
+              "Folosiți tavernele pentru pauze lungi în așteptarea trecerii ploii.",
+              "O umbrelă compactă este mai practică pe străzile înguste decât una mare."
+            ],
+            "en": [
+              "Wear waterproof shoes, as the old town alleys tend to collect water.",
+              "The stone slabs of the Riva become mirror-slick when wet.",
+              "Use the konobas for longer breaks to wait out the rain fronts.",
+              "A compact umbrella is more practical in narrow alleys than a large one."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Kaštel Novi ist frisch und klar, ideal für einen zügigen Spaziergang entlang der Riva. Die Kula Cippico thront stolz über dem fast menschenleeren Kai, während die Sonne tief am blauen Himmel steht. Mittags wärmen wir uns bei einer kräftigen Pašticada in einer der wenigen geöffneten Konobas auf. Da es früh dunkelt, besuchen wir die Mastrinka am frühen Nachmittag und genießen die blaue Stunde am Hafen.",
+            "hu": "A téli reggel Kaštel Noviban friss és tiszta, ideális egy tempós sétához a Riva mentén. A Kula Cippico büszkén tornyosodik a szinte üres rakpart felett, miközben a nap alacsonyan jár a kék égen. Délben egy sűrű Pašticadával melegszünk fel a kevés nyitva tartó konobák egyikében. Mivel korán sötétedik, kora délután keressük fel a Mastrinkát, és a kikötőben élvezzük a kék órát.",
+            "ro": "Dimineața de iarnă în Kaštel Novi este proaspătă și senină, ideală pentru o plimbare vioaie pe Riva. Kula Cippico domină mândră cheiul aproape pustiu, în timp ce soarele stă jos pe cerul albastru. La prânz, ne încălzim cu o Pašticada consistentă într-una dintre puținele taverne deschise. Deoarece se întunecă devreme, vizităm Mastrinka la începutul după-amiezii și savurăm ora albastră în port.",
+            "en": "The winter morning in Kaštel Novi is crisp and clear, ideal for a brisk walk along the Riva. Kula Cippico stands proud over the nearly empty quay, while the sun stays low in the blue sky. At lunch, we warm up with a hearty Pašticada in one of the few open konobas. Since it gets dark early, we visit Mastrinka in the early afternoon and enjoy the blue hour at the harbor."
+          },
+          "stops": [
+            {
+              "name": "Uferpromenade Riva",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne die Sommermassen; warme Kleidung ist Pflicht.",
+                "hu": "Élvezze a nyugalmat a nyári tömeg nélkül; a meleg ruházat kötelező.",
+                "ro": "Bucurați-vă de liniște fără mulțimile de vară; hainele groase sunt obligatorii.",
+                "en": "Enjoy the peace without summer crowds; warm clothing is a must."
+              }
+            },
+            {
+              "name": "Kula Cippico",
+              "tip_5lang": {
+                "de": "Die historischen Steine speichern die Kälte, bleiben Sie in Bewegung.",
+                "hu": "A történelmi kövek tárolják a hideget, maradjon mozgásban.",
+                "ro": "Pietrele istorice rețin frigul, rămâneți în mișcare.",
+                "en": "The historical stones retain the cold; stay in motion."
+              }
+            },
+            {
+              "name": "Župna crkva sv. Petra",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und oft etwas wärmer als die windige Riva.",
+                "hu": "A csend helyszíne, és gyakran valamivel melegebb, mint a szeles Riva.",
+                "ro": "Un loc al liniștii și adesea ceva mai cald decât Riva vântoasă.",
+                "en": "A place of silence and often slightly warmer than the windy Riva."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie Winter-Spezialitäten wie getrockneten Fisch oder Fleischgerichte.",
+                "hu": "Kóstolja meg a téli specialitásokat, mint a szárított halat vagy húsételeket.",
+                "ro": "Încercați specialități de iarnă, cum ar fi peștele uscat sau preparatele din carne.",
+                "en": "Try winter specialties like dried fish or hearty meat dishes."
+              }
+            },
+            {
+              "name": "Mastrinka",
+              "tip_5lang": {
+                "de": "Der Olivenbaum ist immergrün und trotzt auch dem kalten Bora-Wind.",
+                "hu": "Az olajfa örökzöld, és ellenáll a hideg bóra szélnek is.",
+                "ro": "Măslinul este mereu verde și rezistă chiar și vântului rece de tip Bora.",
+                "en": "The olive tree is evergreen and withstands even the cold Bora wind."
+              }
+            },
+            {
+              "name": "Strandpause",
+              "tip_5lang": {
+                "de": "Die Adria wirkt im Winter tiefblau; ideal für einen meditativen Blick.",
+                "hu": "Az Adria télen mélykék színű; ideális a meditatív szemlélődéshez.",
+                "ro": "Adriatica pare albastru închis iarna; ideală pentru o privire meditativă.",
+                "en": "The Adriatic looks deep blue in winter; ideal for a meditative view."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Kai",
+              "tip_5lang": {
+                "de": "Achtung: Der Sonnenuntergang findet im Winter bereits gegen 16:30 Uhr statt.",
+                "hu": "Figyelem: télen a naplemente már délután fél 5 körül bekövetkezik.",
+                "ro": "Atenție: iarna, apusul soarelui are loc deja în jurul orei 16:30.",
+                "en": "Note: In winter, the sunset already occurs around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Bora-Wind kann die gefühlte Temperatur drastisch senken.",
+              "Tragen Sie Zwiebelschichten, da es in der Sonne warm, im Schatten aber eiskalt ist.",
+              "Viele Cafés haben im Winter nur eingeschränkt oder gar nicht geöffnet.",
+              "Planen Sie Ihr Ende gegen 17:00 Uhr ein, da es danach schnell dunkel wird."
+            ],
+            "hu": [
+              "A bóra szél drasztikusan csökkentheti a hőérzetet.",
+              "Öltözzön rétegesen, mert a napon meleg, az árnyékban viszont jéghideg van.",
+              "Sok kávézó korlátozottan vagy egyáltalán nincs nyitva télen.",
+              "Tervezze a befejezést 17:00 órára, mert utána gyorsan besötétedik."
+            ],
+            "ro": [
+              "Vântul Bora poate scădea drastic temperatura resimțită.",
+              "Purtați haine în straturi, deoarece la soare este cald, dar la umbră este gheață.",
+              "Multe cafenele au program redus sau sunt închise iarna.",
+              "Planificați finalul traseului în jurul orei 17:00, deoarece se întunecă repede."
+            ],
+            "en": [
+              "The Bora wind can drastically lower the perceived temperature.",
+              "Wear layers, as it is warm in the sun but freezing in the shade.",
+              "Many cafes have limited opening hours or are closed in winter.",
+              "Plan to finish by 5:00 PM, as it gets dark quickly after that."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -530,6 +734,206 @@
           "Take enough water for the climb.",
           "Check your brakes before the descent."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen erkunden wir Kaštel Novi mit dem Rad, wobei wir auf die glatten Küstenwege achten. Die Kula Cippico dient als erster trockener Halt, bevor wir uns zum Biblischen Garten Stomorija hinaufarbeiten, wo der Regen die Pflanzenwelt zum Leuchten bringt. Mittags kehren wir für eine lange Pause im Hafen ein. Der Rückweg führt uns an der Mastrinka vorbei, während wir die frische, feuchte Seeluft einatmen.",
+            "hu": "Az eső ellenére kerékpárral fedezzük fel Kaštel Novit, ügyelve a csúszós parti utakra. A Kula Cippico az első száraz állomásunk, mielőtt felkapaszkodnánk a Stomorija bibliai kerthez, ahol az eső élénkíti a növényzet színeit. Délben hosszú pihenőre térünk be a kikötőbe. A visszaút a Mastrinka mellett vezet el, miközben élvezzük a friss, párás tengeri levegőt.",
+            "ro": "În ciuda ploii, explorăm Kaštel Novi cu bicicleta, fiind atenți la drumurile de coastă alunecoase. Kula Cippico este prima oprire uscată înainte de a urca spre Grădina Biblică Stomorija, unde ploaia intensifică culorile vegetației. La prânz, ne oprim pentru o pauză lungă în port. Drumul de întoarcere ne poartă pe lângă Mastrinka, în timp ce respirăm aerul proaspăt și umed al mării.",
+            "en": "Despite the rain, we explore Kaštel Novi by bike, being careful on the slippery coastal paths. Kula Cippico serves as our first dry stop before we head up to the Biblical Garden Stomorija, where the rain brightens the plant life. At lunch, we stop for a long break in the harbor. The ride back takes us past Mastrinka while we breathe in the fresh, humid sea air."
+          },
+          "stops": [
+            {
+              "name": "Kula Cippico",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Mauervorsprung unter, während Sie den Turm besichtigen.",
+                "hu": "Parkolja le a bringát a fal kiszögellése alatt, amíg megtekinti a tornyot.",
+                "ro": "Parcați bicicleta sub marginea zidului în timp ce vizitați turnul.",
+                "en": "Park your bike under the wall overhang while visiting the tower."
+              }
+            },
+            {
+              "name": "Biblijski vrt Stomorija",
+              "tip_5lang": {
+                "de": "Die Wege im Garten können bei Regen matschig sein; fahren Sie vorsichtig.",
+                "hu": "A kerti utak esőben sarasak lehetnek; vezessen óvatosan.",
+                "ro": "Potecile din grădină pot fi noroioase pe ploaie; pedalați cu atenție.",
+                "en": "The paths in the garden can be muddy in the rain; ride carefully."
+              }
+            },
+            {
+              "name": "Župna crkva sv. Petra",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorplatz zum kurzen Unterstellen und Verschnaufen.",
+                "hu": "Használja a templom előtti területet egy rövid pihenőre és menedékre.",
+                "ro": "Folosiți curtea bisericii pentru un scurt adăpost și răsuflare.",
+                "en": "Use the church forecourt for a quick shelter and breather."
+              }
+            },
+            {
+              "name": "Ebéd a kikötőben",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit überdachtem Fahrradabstellplatz.",
+                "hu": "Keressen olyan éttermet, ahol van fedett kerékpártároló.",
+                "ro": "Căutați un restaurant cu parcare acoperită pentru biciclete.",
+                "en": "Look for a restaurant with covered bike parking."
+              }
+            },
+            {
+              "name": "Mastrinka",
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht, um den alten Baum im Regen zu bewundern.",
+                "hu": "Egy rövid fotómegálló elég, hogy megcsodálja az öreg fát az esőben.",
+                "ro": "O scurtă oprire pentru poze este suficientă pentru a admira copacul în ploaie.",
+                "en": "A short photo stop is enough to admire the old tree in the rain."
+              }
+            },
+            {
+              "name": "Strand von Kaštel Štafilić",
+              "tip_5lang": {
+                "de": "Die Radwege am Strand sind bei Nässe oft mit Sand bedeckt – Rutschgefahr!",
+                "hu": "A strand menti kerékpárutakat esőben homok boríthatja – csúszásveszély!",
+                "ro": "Pistele de biciclete de pe plajă sunt adesea acoperite cu nisip – risc de derapare!",
+                "en": "Beach bike paths are often covered in sand when wet – slip hazard!"
+              }
+            },
+            {
+              "name": "Fahrt entlang der Kastela-Riva",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam; Spritzwasser von Pfützen ist an der Riva unvermeidlich.",
+                "hu": "Haladjon lassan; a tócsákból felcsapódó víz a Riván elkerülhetetlen.",
+                "ro": "Pedalați încet; stropii de apă din bălți sunt inevitabili pe Riva.",
+                "en": "Ride slowly; splashes from puddles are inevitable on the Riva."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter unverzichtbar.",
+              "Vermeiden Sie hastiges Bremsen auf dem glatten Stein der Riva.",
+              "Tragen Sie eine gut sichtbare Regenjacke mit Reflektoren.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt vom Biblischen Garten."
+            ],
+            "hu": [
+              "A sárvédő használata elengedhetetlen ilyen időjárásban.",
+              "Kerülje a hirtelen fékezést a Riva csúszós kövein.",
+              "Viseljen jól látható, fényvisszaverős esőkabátot.",
+              "Ellenőrizze a fékeket a Bibliai kerttől való leereszkedés előtt."
+            ],
+            "ro": [
+              "Apărătorile de noroi la bicicletă sunt indispensabile pe acest timp.",
+              "Evitați frânarea bruscă pe piatra alunecoasă de pe Riva.",
+              "Purtați o jachetă de ploaie vizibilă, cu elemente reflectorizante.",
+              "Verificați frânele înainte de coborârea de la Grădina Biblică."
+            ],
+            "en": [
+              "Mudguards on your bike are essential in this weather.",
+              "Avoid sudden braking on the slippery stone of the Riva.",
+              "Wear a highly visible raincoat with reflectors.",
+              "Check your brakes before descending from the Biblical Garden."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter bietet freie Fahrt auf den Radwegen von Kaštela. Wir starten an der Kula Cippico und nutzen den Anstieg zum Biblischen Garten Stomorija, um warm zu werden. Die klare Winterluft ermöglicht weite Blicke über die Bucht. Nach einem stärkenden Mittagessen im Hafen besuchen wir die Mastrinka und radeln im goldenen Licht der frühen Nachmittagssonne am Strand entlang, bevor die Kälte anzieht.",
+            "hu": "A tél szabad utat biztosít Kaštela kerékpárútjain. A Kula Cippicótól indulunk, és a Stomorija bibliai kerthez vezető emelkedőt használjuk bemelegítésre. A tiszta téli levegő messzi kilátást enged az öbölre. Egy laktató kikötői ebéd után felkeressük a Mastrinkát, és a kora délutáni nap arany fényében tekerünk a tengerparton, mielőtt beállna a hideg.",
+            "ro": "Iarna oferă drum liber pe pistele de biciclete din Kaštela. Începem de la Kula Cippico și folosim urcarea spre Grădina Biblică Stomorija pentru a ne încălzi. Aerul curat de iarnă permite vederi largi peste golf. După un prânz consistent în port, vizităm Mastrinka și pedalăm în lumina aurie a soarelui de după-amiază pe malul mării, înainte de lăsarea frigului.",
+            "en": "Winter offers an open road on the bike paths of Kaštela. We start at Kula Cippico and use the climb to the Biblical Garden Stomorija to warm up. The clear winter air allows for distant views over the bay. After a strengthening lunch in the harbor, we visit Mastrinka and bike along the beach in the golden light of the early afternoon sun before the cold sets in."
+          },
+          "stops": [
+            {
+              "name": "Kula Cippico",
+              "tip_5lang": {
+                "de": "Im Schatten der Festung ist es winterlich kühl; Handschuhe sind ratsam.",
+                "hu": "Az erőd árnyékában téliesen hűvös van; a kesztyű használata ajánlott.",
+                "ro": "În umbra cetății este răcoare de iarnă; mănușile sunt recomandate.",
+                "en": "It's winter-chilly in the shadow of the fortress; gloves are advisable."
+              }
+            },
+            {
+              "name": "Biblijski vrt Stomorija",
+              "tip_5lang": {
+                "de": "Der Anstieg bringt den Kreislauf in Schwung; oben weht oft ein kühler Wind.",
+                "hu": "Az emelkedő felpörgeti a keringést; fent gyakran hűvös szél fúj.",
+                "ro": "Urcarea pune sângele în mișcare; sus bate adesea un vânt răcoros.",
+                "en": "The climb gets your circulation going; there is often a cool wind at the top."
+              }
+            },
+            {
+              "name": "Župna crkva sv. Petra",
+              "tip_5lang": {
+                "de": "Ein kurzer Halt zum Aufwärmen im Inneren der Kirche tut gut.",
+                "hu": "Egy rövid megálló a templom belsejében jól esik a felmelegedéshez.",
+                "ro": "O scurtă oprire pentru încălzire în interiorul bisericii prinde bine.",
+                "en": "A short stop to warm up inside the church feels good."
+              }
+            },
+            {
+              "name": "Ebéd a kikötőben",
+              "tip_5lang": {
+                "de": "Wählen Sie Plätze an der Sonne, um während der Pause nicht auszukühlen.",
+                "hu": "Válasszon napsütötte helyet, hogy a szünet alatt ne hűljön ki.",
+                "ro": "Alegeți locuri la soare pentru a nu vă răci în timpul pauzei.",
+                "en": "Choose sunny spots to avoid getting chilled during the break."
+              }
+            },
+            {
+              "name": "Mastrinka",
+              "tip_5lang": {
+                "de": "Die Mastrinka steht auch im Winter fest in der kargen Landschaft.",
+                "hu": "A Mastrinka télen is szilárdan áll a kopárabb tájban.",
+                "ro": "Mastrinka stă neclintită în peisajul arid chiar și iarna.",
+                "en": "Mastrinka stands firm in the barren landscape even in winter."
+              }
+            },
+            {
+              "name": "Strand von Kaštel Štafilić",
+              "tip_5lang": {
+                "de": "Der Meereswind kann hier sehr beißend sein; schützen Sie Ohren und Hals.",
+                "hu": "A tengeri szél itt metsző lehet; védje a fülét és a nyakát.",
+                "ro": "Vântul mării poate fi foarte tăios aici; protejați-vă urechile și gâtul.",
+                "en": "The sea wind can be very biting here; protect your ears and neck."
+              }
+            },
+            {
+              "name": "Fahrt entlang der Kastela-Riva",
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht; ab 16:30 Uhr sinken die Temperaturen rapide.",
+                "hu": "Használja ki az utolsó fényeket; 16:30 után a hőmérséklet gyorsan süllyed.",
+                "ro": "Profitați de ultima lumină a zilei; de la ora 16:30 temperaturile scad rapid.",
+                "en": "Make use of the last daylight; after 4:30 PM, temperatures drop rapidly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Funktionale Unterwäsche hält den Schweiß fern und die Wärme am Körper.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für die frühe Dämmerung funktioniert.",
+              "Halten Sie die Pausen kurz, um die Muskeln nicht auskühlen zu lassen.",
+              "Ein heißer Tee in der Thermoskanne ist der ideale Begleiter."
+            ],
+            "hu": [
+              "A technikai aláöltözet elvezeti az izzadságot és tartja a hőt.",
+              "Győződjön meg róla, hogy a kerékpár világítása működik a korai sötétedéshez.",
+              "Tartsa röviden a pihenőket, hogy az izmai ne hűljenek ki.",
+              "Egy termoszban lévő forró tea ideális kísérő az úton."
+            ],
+            "ro": [
+              "Lenjeria funcțională elimină transpirația și menține căldura corpului.",
+              "Asigurați-vă că luminile bicicletei funcționează pentru amurgul timpuriu.",
+              "Păstrați pauzele scurte pentru a nu lăsa mușchii să se răcească.",
+              "Un ceai fierbinte în termos este partenerul ideal."
+            ],
+            "en": [
+              "Functional base layers keep sweat away and heat close to the body.",
+              "Ensure your bike lights are working for the early dusk.",
+              "Keep breaks short to prevent muscles from cooling down.",
+              "A hot tea in a thermos is the ideal companion."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -790,6 +1194,224 @@
           "Parking spaces are limited in the center during summer.",
           "The road to the mountain is narrow, drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen in Kaštel Novi nur eine malerische Kulisse. Wir parken bequem nahe der Kula Cippico und der Kirche St. Peter, um die historischen Schätze trocken zu besichtigen. Die Fahrt zur Mastrinka und zum Biblischen Garten führt uns durch das grüne Hinterland, das im Regen besonders intensiv duftet. Mittags genießen wir den Komfort eines gut erreichbaren Restaurants in Kaštel Štafilić.",
+            "hu": "Autóval az eső Kaštel Noviban csak egy festői háttér. Kényelmesen parkolunk a Kula Cippico és a Szent Péter-templom közelében, hogy szárazon tekintsük meg a történelmi kincseket. Az út a Mastrinkához és a Bibliai kerthez a zöld hátországon át vezet, amely az esőben különösen intenzív illatot áraszt. Délben egy könnyen megközelíthető étterem kényelmét élvezzük Kaštel Štafilićben.",
+            "ro": "Cu mașina, ploaia din Kaštel Novi este doar un decor pitoresc. Parcăm confortabil lângă Kula Cippico și biserica Sf. Petru pentru a vizita comorile istorice la adăpost. Drumul spre Mastrinka și Grădina Biblică ne poartă prin hinterlandul verde, care miroase intens în ploaie. La prânz, ne bucurăm de confortul unui restaurant ușor accesibil în Kaštel Štafilić.",
+            "en": "In the car, the rain in Kaštel Novi is just a picturesque backdrop. We park conveniently near Kula Cippico and St. Peter's Church to view the historical treasures while staying dry. The drive to Mastrinka and the Biblical Garden takes us through the green hinterland, which smells particularly intense in the rain. At lunch, we enjoy the comfort of an easily accessible restaurant in Kaštel Štafilić."
+          },
+          "stops": [
+            {
+              "name": "Kula Cippico (Cluster A)",
+              "tip_5lang": {
+                "de": "Parken Sie auf dem bewachten Platz nahe dem Hafen für kurze Wege.",
+                "hu": "Parkoljon az őrzött parkolóban a kikötő közelében a rövid séta érdekében.",
+                "ro": "Parcați în zona păzită de lângă port pentru distanțe scurte.",
+                "en": "Park in the guarded lot near the harbor for short walking distances."
+              }
+            },
+            {
+              "name": "Župna crkva sv. Petra (Cluster A)",
+              "tip_5lang": {
+                "de": "Nur wenige Schritte vom Parkplatz entfernt, ideal bei starkem Regen.",
+                "hu": "Csak pár lépés a parkolótól, ideális szakadó esőben.",
+                "ro": "La doar câțiva pași de parcare, ideal în caz de ploaie torențială.",
+                "en": "Just a few steps from the parking lot, ideal during heavy rain."
+              }
+            },
+            {
+              "name": "Mastrinka (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Mastrinka liegt direkt an der Straße, man kann fast bis davor fahren.",
+                "hu": "A Mastrinka közvetlenül az út mellett van, szinte mellé is lehet hajtani.",
+                "ro": "Mastrinka este chiar lângă drum, se poate conduce aproape până în față.",
+                "en": "Mastrinka is right by the road; you can drive almost right up to it."
+              }
+            },
+            {
+              "name": "Mittagessen in Kaštel Štafilić (Cluster B)",
+              "tip_5lang": {
+                "de": "Suchen Sie Restaurants mit eigenem Parkplatz direkt am Eingang.",
+                "hu": "Keressen saját parkolóval rendelkező éttermet közvetlenül a bejáratnál.",
+                "ro": "Căutați restaurante cu parcare proprie chiar la intrare.",
+                "en": "Look for restaurants with their own parking right at the entrance."
+              }
+            },
+            {
+              "name": "Biblijski vrt Stomorija (Cluster C)",
+              "tip_5lang": {
+                "de": "Vorsicht auf der schmalen Auffahrt zum Garten bei nasser Fahrbahn.",
+                "hu": "Vigyázat a kerthez vezető szűk feljárón nedves útburkolat esetén.",
+                "ro": "Atenție pe urcarea îngustă spre grădină dacă carosabilul este umed.",
+                "en": "Be careful on the narrow drive up to the garden when the road is wet."
+              }
+            },
+            {
+              "name": "Panorama-Aussichtspunkt (Cluster C)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick sicher aus dem warmen Auto heraus.",
+                "hu": "Élvezze a kilátást biztonságban a meleg autóból.",
+                "ro": "Bucurați-vă de priveliște în siguranță din interiorul mașinii calde.",
+                "en": "Enjoy the view safely from inside the warm car."
+              }
+            },
+            {
+              "name": "Strandpause (Cluster D)",
+              "tip_5lang": {
+                "de": "Parken Sie mit Front zum Meer für ein 'Drive-In'-Stranderlebnis.",
+                "hu": "Parkoljon a tengerrel szemben a 'drive-in' strandélményért.",
+                "ro": "Parcați cu fața la mare pentru o experiență de plajă de tip 'drive-in'.",
+                "en": "Park facing the sea for a 'drive-in' beach experience."
+              }
+            },
+            {
+              "name": "Abendlicher Spaziergang (Cluster D)",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zur Riva lohnt sich für die Abendstimmung trotz Regen.",
+                "hu": "Egy rövid sprint a Rivához megéri az esti hangulatért az eső ellenére is.",
+                "ro": "Un scurt sprint spre Riva merită pentru atmosfera de seară, în ciuda ploii.",
+                "en": "A short sprint to the Riva is worth it for the evening mood despite rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Scheibenheizung, um das Beschlagen bei Regen zu verhindern.",
+              "Die Küstenstraße kann bei Starkregen Wasserlachen bilden – Aquaplaning-Gefahr.",
+              "Parkplätze in den Kaštelas sind bei Regen oft leichter zu finden.",
+              "Lassen Sie keine Wertsachen sichtbar im Auto, auch wenn es regnet."
+            ],
+            "hu": [
+              "Használja a szélvédőfűtést a párásodás megelőzésére esőben.",
+              "A parti úton nagy esőben tócsák alakulhatnak ki – aquaplaning veszély.",
+              "A Kaštelákban esőben gyakran könnyebb parkolóhelyet találni.",
+              "Ne hagyjon értéktárgyat látható helyen az autóban esőben sem."
+            ],
+            "ro": [
+              "Folosiți degivrarea parbrizului pentru a preveni aburirea pe timp de ploaie.",
+              "Drumul de coastă poate forma bălți mari la ploaie torențială – risc de acvaplanare.",
+              "Locurile de parcare în Kaštela sunt adesea mai ușor de găsit când plouă.",
+              "Nu lăsați obiecte de valoare la vedere în mașină, chiar dacă plouă."
+            ],
+            "en": [
+              "Use the windshield defroster to prevent fogging during rain.",
+              "The coastal road can form large puddles during heavy rain – aquaplaning risk.",
+              "Parking spots in the Kaštelas are often easier to find when it rains.",
+              "Do not leave valuables visible in the car, even when it rains."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die Wintertour durch Kaštela entspannt und warm. Wir besuchen die Kula Cippico und die Kirche St. Peter am Vormittag und genießen die klare Sicht ohne den Sommertrubel. Die Auffahrt zum Panorama-Punkt über dem Biblischen Garten bietet im Winter spektakuläre Kontraste zwischen den schneebedeckten Bergen im Hinterland und der blauen Adria. Mittags lockt ein gemütliches Restaurant mit Kamin.",
+            "hu": "Autóval a téli túra Kaštelában pihentető és meleg. Délelőtt felkeressük a Kula Cippicót és a Szent Péter-templomot, élvezve a tiszta kilátást a nyári nyüzsgés nélkül. A Bibliai kert feletti panorámaponthoz vezető út télen látványos kontrasztot mutat a hátország havas hegyei és a kék Adria között. Ebédre egy kandallós, barátságos étterem hívogat.",
+            "ro": "Cu mașina, turul de iarnă prin Kaštela este relaxant și cald. Vizităm Kula Cippico și biserica Sf. Petru dimineața, bucurându-ne de vederea clară fără agitația verii. Urcarea spre punctul panoramic de deasupra Grădinii Biblice oferă iarna contraste spectaculoase între munții înzăpeziți din hinterland și Adriatica albastră. La prânz, un restaurant primitor cu șemineu ne atrage.",
+            "en": "By car, the winter tour through Kaštela is relaxed and warm. We visit Kula Cippico and St. Peter's Church in the morning, enjoying the clear view without the summer hustle. The drive to the panorama point above the Biblical Garden offers spectacular winter contrasts between the snow-capped mountains in the hinterland and the blue Adriatic. At lunch, a cozy restaurant with a fireplace beckons."
+          },
+          "stops": [
+            {
+              "name": "Kula Cippico (Cluster A)",
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkplätze direkt am Hafen meist frei und kostenlos.",
+                "hu": "Télen a kikötő melletti parkolók többnyire üresek és ingyenesek.",
+                "ro": "Iarna, parcările de lângă port sunt de cele mai multe ori libere și gratuite.",
+                "en": "In winter, parking lots right by the harbor are mostly empty and free."
+              }
+            },
+            {
+              "name": "Župna crkva sv. Petra (Cluster A)",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Vormittag, wenn das Licht ideal fällt.",
+                "hu": "Késő délelőtt látogassa meg a templomot, amikor a fények ideálisak.",
+                "ro": "Vizitați biserica spre sfârșitul dimineții, când lumina cade ideal.",
+                "en": "Visit the church in the late morning when the light is ideal."
+              }
+            },
+            {
+              "name": "Mastrinka (Cluster B)",
+              "tip_5lang": {
+                "de": "Der alte Olivenbaum bietet auch im Winter ein tolles Fotomotiv.",
+                "hu": "Az öreg olajfa télen is nagyszerű fotótéma.",
+                "ro": "Măslinul bătrân oferă un motiv fotografic excelent și iarna.",
+                "en": "The old olive tree offers a great photo opportunity even in winter."
+              }
+            },
+            {
+              "name": "Mittagessen in Kaštel Štafilić (Cluster B)",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben im Winter geschlossen; reservieren Sie vorab.",
+                "hu": "Sok étterem zárva van télen; foglaljon asztalt előre.",
+                "ro": "Multe restaurante sunt închise iarna; rezervați în avans.",
+                "en": "Many restaurants are closed in winter; book in advance."
+              }
+            },
+            {
+              "name": "Biblijski vrt Stomorija (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Bergstraßen können im Schatten glatt sein, fahren Sie behutsam.",
+                "hu": "A hegyi utak az árnyékban csúszósak lehetnek, vezessen óvatosan.",
+                "ro": "Drumurile montane pot fi alunecoase la umbră, conduceți cu prudență.",
+                "en": "Mountain roads can be slippery in the shade; drive carefully."
+              }
+            },
+            {
+              "name": "Panorama-Aussichtspunkt (Cluster C)",
+              "tip_5lang": {
+                "de": "Der Blick reicht im Winter oft bis zu den fernen Inseln Vis und Hvar.",
+                "hu": "Télen a kilátás gyakran a távoli Vis és Hvar szigetekig is ellát.",
+                "ro": "Iarna, vederea ajunge adesea până la insulele îndepărtate Vis și Hvar.",
+                "en": "In winter, the view often reaches as far as the distant islands of Vis and Hvar."
+              }
+            },
+            {
+              "name": "Strandpause (Cluster D)",
+              "tip_5lang": {
+                "de": "Ideal für einen kurzen Strandgang, um die frische Brise zu genießen.",
+                "hu": "Ideális egy rövid tengerparti sétához a friss szellő élvezetéhez.",
+                "ro": "Ideal pentru o scurtă plimbare pe plajă pentru a savura briza proaspătă.",
+                "en": "Ideal for a short beach stroll to enjoy the fresh breeze."
+              }
+            },
+            {
+              "name": "Abendlicher Spaziergang (Cluster D)",
+              "tip_5lang": {
+                "de": "Die beleuchtete Riva wirkt in der Winterdunkelheit besonders beschaulich.",
+                "hu": "A kivilágított Riva a téli sötétségben különösen békés hangulatú.",
+                "ro": "Riva iluminată pare deosebit de liniștită în întunericul iernii.",
+                "en": "The illuminated Riva looks particularly tranquil in the winter darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in den kroatischen Bergen (Hinterland) oft Pflicht.",
+              "Die Tage sind kurz; starten Sie pünktlich um 09:00 Uhr.",
+              "Nutzen Sie die Heizung, aber lüften Sie regelmäßig für frische Luft.",
+              "Vermeiden Sie die Küstenstraße bei starker Bora (Sturmgefahr)."
+            ],
+            "hu": [
+              "A horvát hegyekben (hátországban) gyakran kötelező a téli gumi.",
+              "A nappalok rövidek; kezdje pontosan 09:00 órakor.",
+              "Használja a fűtést, de rendszeresen szellőztessen friss levegőért.",
+              "Erős bóra esetén kerülje a parti utat (viharveszély)."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt adesea obligatorii în munții croați.",
+              "Zilele sunt scurte; începeți punctual la ora 09:00.",
+              "Folosiți încălzirea, dar aerisiți regulat pentru aer proaspăt.",
+              "Evitați drumul de coastă în caz de Bora puternică (pericol de furtună)."
+            ],
+            "en": [
+              "Winter tires are often mandatory in the Croatian mountains (hinterland).",
+              "Days are short; start promptly at 09:00 AM.",
+              "Use the heater, but ventilate regularly for fresh air.",
+              "Avoid the coastal road during strong Bora winds (storm risk)."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1032,6 +1654,206 @@
           "Buy the ticket from the driver or at a kiosk.",
           "Pay attention to the direction (Trogir or Split)."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir Kaštel Novi bequem und trocken. Vom Busbahnhof führt ein kurzer Weg zur Kula Cippico, wobei wir uns von Unterstand zu Unterstand hangeln. Die Kirche St. Peter bietet eine längere Regenpause, bevor wir uns mittags in einer nahen Konoba stärken. Den Nachmittag verbringen wir bei der Mastrinka und am Strand, bevor wir den warmen Bus für die Rückreise nutzen.",
+            "hu": "Busszal kényelmesen és szárazon érkezünk Kaštel Noviba. A buszmegállótól rövid út vezet a Kula Cippicóhoz, miközben menedéktől menedékig haladunk. A Szent Péter-templom hosszabb pihenőt nyújt az esőben, mielőtt délben egy közeli konobában felfrissülnénk. A délutánt a Mastrinkánál és a strandon töltjük, majd a meleg busszal utazunk vissza.",
+            "ro": "Cu autobuzul ajungem în Kaštel Novi confortabil și uscați. De la stația de autobuz este un drum scurt până la Kula Cippico, mergând din adăpost în adăpost. Biserica Sf. Petru oferă o pauză mai lungă de ploaie înainte de a ne întări la prânz într-o tavernă din apropiere. După-amiaza o petrecem la Mastrinka și pe plajă, înainte de a lua autobuzul cald pentru drumul de întoarcere.",
+            "en": "By bus, we reach Kaštel Novi comfortably and dry. From the bus station, it's a short walk to Kula Cippico, moving from shelter to shelter. St. Peter's Church offers a longer rain break before we refresh at a nearby konoba for lunch. We spend the afternoon at Mastrinka and the beach before taking the warm bus back."
+          },
+          "stops": [
+            {
+              "name": "Busstation Kaštel Novi",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Wartebereich der Station.",
+                "hu": "Várjon az állomás fedett váróterületén.",
+                "ro": "Așteptați în zona de așteptare acoperită a stației.",
+                "en": "Wait in the covered waiting area of the station."
+              }
+            },
+            {
+              "name": "Kula Cippico (Cluster A)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Weg durch die schmalen Gassen als Windschutz.",
+                "hu": "Használja a szűk utcákon átvezető utat szél elleni védelemként.",
+                "ro": "Folosiți drumul prin străzile înguste ca protecție împotriva vântului.",
+                "en": "Use the route through narrow alleys as wind protection."
+              }
+            },
+            {
+              "name": "Župna crkva sv. Petra (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Kirche ist ein idealer Ort, um die schwersten Regengüsse abzuwarten.",
+                "hu": "A templom ideális hely a legnagyobb felhőszakadások kivárására.",
+                "ro": "Biserica este un loc ideal pentru a aștepta trecerea ploilor torențiale.",
+                "en": "The church is an ideal place to wait out the heaviest downpours."
+              }
+            },
+            {
+              "name": "Mittagessen an der Riva",
+              "tip_5lang": {
+                "de": "Suchen Sie eine Konoba in unmittelbarer Nähe einer Bushaltestelle.",
+                "hu": "Keressen olyan konobát, amely közvetlenül egy buszmegálló közelében van.",
+                "ro": "Căutați o tavernă în imediata apropiere a unei stații de autobuz.",
+                "en": "Look for a konoba in the immediate vicinity of a bus stop."
+              }
+            },
+            {
+              "name": "Mastrinka (Cluster B)",
+              "tip_5lang": {
+                "de": "Vom Strand aus sind es nur wenige Minuten zur nächsten Haltestelle.",
+                "hu": "A strandtól csak néhány percre van a legközelebbi megálló.",
+                "ro": "De la plajă sunt doar câteva minute până la următoarea stație.",
+                "en": "From the beach, it's only a few minutes to the next stop."
+              }
+            },
+            {
+              "name": "Strand von Kaštel Štafilić (Cluster B)",
+              "tip_5lang": {
+                "de": "Ein Strandcafé bietet Schutz und einen tollen Blick auf das Meer.",
+                "hu": "Egy strandbüfé menedéket és remek kilátást nyújt a tengerre.",
+                "ro": "O cafenea de pe plajă oferă adăpost și o vedere excelentă spre mare.",
+                "en": "A beach café offers shelter and a great view of the sea."
+              }
+            },
+            {
+              "name": "Busstation (Rückfahrt)",
+              "tip_5lang": {
+                "de": "Prüfen Sie die App für Echtzeit-Infos, um nicht im Regen zu warten.",
+                "hu": "Ellenőrizze az alkalmazást valós idejű infókért, hogy ne várjon az esőben.",
+                "ro": "Verificați aplicația pentru informații în timp real, pentru a nu aștepta în ploaie.",
+                "en": "Check the app for real-time info to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Linie 37 (Split-Trogir) verkehrt regelmäßig und hält in Kaštel Novi.",
+              "Kaufen Sie Tickets vorab am Kiosk, um Verzögerungen beim Fahrer zu vermeiden.",
+              "Haben Sie immer einen Regenschutz griffbereit beim Aussteigen.",
+              "Busse können bei starkem Regen aufgrund des Verkehrs Verspätung haben."
+            ],
+            "hu": [
+              "A 37-es járat (Split-Trogir) rendszeresen közlekedik és megáll Kaštel Noviban.",
+              "Vegye meg a jegyet előre a kioszkban, hogy elkerülje a késést a sofőrnél.",
+              "Kiszálláskor mindig legyen kéznél az esővédő.",
+              "Nagy esőben a buszok a forgalom miatt késhetnek."
+            ],
+            "ro": [
+              "Linia 37 (Split-Trogir) circulă regulat și oprește în Kaštel Novi.",
+              "Cumpărați biletele în avans de la chioșc pentru a evita întârzierile la șofer.",
+              "Aveți întotdeauna protecția de ploaie la îndemână când coborâți.",
+              "Autobuzele pot avea întârzieri în caz de ploaie torențială din cauza traficului."
+            ],
+            "en": [
+              "Line 37 (Split-Trogir) runs regularly and stops in Kaštel Novi.",
+              "Buy tickets in advance at the kiosk to avoid delays with the driver.",
+              "Always have rain protection ready when getting off.",
+              "Buses may be delayed during heavy rain due to traffic."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter-Transit nach Kaštela ist entspannt, da die Busse weniger überfüllt sind. Wir starten am Vormittag und erkunden die Kula Cippico und die Kirche St. Peter im klaren Winterlicht. Das Mittagessen an der Riva genießen wir in der warmen Konoba, bevor wir am Nachmittag zur Mastrinka spazieren. Da es früh dunkel wird, nehmen wir den Bus am späten Nachmittag zurück, wenn die Lichter der Stadt angehen.",
+            "hu": "A téli tömegközlekedés Kaštelába pihentető, mivel a buszok kevésbé zsúfoltak. Délelőtt indulunk, és a Kula Cippicót, valamint a Szent Péter-templomot tiszta téli fényben fedezzük fel. A Riván elköltött ebédet egy meleg konobában élvezzük, majd délután a Mastrinkához sétálunk. Mivel korán sötétedik, a késő délutáni busszal térünk vissza, amikor a város fényei kigyúlnak.",
+            "ro": "Tranzitul de iarnă spre Kaštela este relaxant, deoarece autobuzele sunt mai puțin aglomerate. Începem dimineața și explorăm Kula Cippico și biserica Sf. Petru în lumina clară de iarnă. Prânzul pe Riva îl savurăm într-o tavernă caldă, înainte de a ne plimba după-amiaza spre Mastrinka. Deoarece se întunecă devreme, luăm autobuzul înapoi spre sfârșitul după-amiezii, când se aprind luminile orașului.",
+            "en": "Winter transit to Kaštela is relaxed as buses are less crowded. We start in the morning and explore Kula Cippico and St. Peter's Church in the clear winter light. We enjoy lunch on the Riva in a warm konoba before walking to Mastrinka in the afternoon. Since it gets dark early, we take the bus back in the late afternoon as the city lights come on."
+          },
+          "stops": [
+            {
+              "name": "Busstation Kaštel Novi",
+              "tip_5lang": {
+                "de": "Tragen Sie einen warmen Mantel, da es beim Warten an der Station zieht.",
+                "hu": "Viseljen meleg kabátot, mert az állomáson való várakozáskor huzat van.",
+                "ro": "Purtați un palton gros, deoarece în stație este curent în timp ce așteptați.",
+                "en": "Wear a warm coat as it's drafty while waiting at the station."
+              }
+            },
+            {
+              "name": "Kula Cippico (Cluster A)",
+              "tip_5lang": {
+                "de": "Vom Hafen aus ist es nur ein kurzer Fußweg zur Festung.",
+                "hu": "A kikötőtől csak egy rövid séta az erőd.",
+                "ro": "De la port este doar o scurtă plimbare până la cetate.",
+                "en": "It's only a short walk to the fortress from the harbor."
+              }
+            },
+            {
+              "name": "Župna crkva sv. Petra (Cluster A)",
+              "tip_5lang": {
+                "de": "Im Winter ist die Kirche oft ein warmer Rückzugsort.",
+                "hu": "Télen a templom gyakran meleg menedéket nyújt.",
+                "ro": "Iarna, biserica este adesea un refugiu cald.",
+                "en": "In winter, the church is often a warm retreat."
+              }
+            },
+            {
+              "name": "Mittagessen an der Riva",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den ruhigen Winterhafen vom Restaurant aus.",
+                "hu": "Élvezze a kilátást a nyugodt téli kikötőre az étteremből.",
+                "ro": "Bucurați-vă de vederea spre portul liniștit de iarnă din restaurant.",
+                "en": "Enjoy the view of the quiet winter harbor from the restaurant."
+              }
+            },
+            {
+              "name": "Mastrinka (Cluster B)",
+              "tip_5lang": {
+                "de": "Der Spaziergang zur Mastrinka hält bei kühlen Temperaturen warm.",
+                "hu": "A Mastrinkához vezető séta melegen tart a hűvös időben.",
+                "ro": "Plimbarea spre Mastrinka vă menține cald la temperaturi scăzute.",
+                "en": "The walk to Mastrinka keeps you warm in cool temperatures."
+              }
+            },
+            {
+              "name": "Strand von Kaštel Štafilić (Cluster B)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Weg zurück zur Haltestelle für einen Blick aufs Meer.",
+                "hu": "Használja a megállóhoz vezető utat egy tengeri kilátáshoz.",
+                "ro": "Folosiți drumul înapoi spre stație pentru o vedere spre mare.",
+                "en": "Use the way back to the stop for a view of the sea."
+              }
+            },
+            {
+              "name": "Busstation (Rückfahrt)",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter meist gut beheizt.",
+                "hu": "A buszok télen rendszerint jól fűtöttek.",
+                "ro": "Autobuzele sunt de obicei bine încălzite iarna.",
+                "en": "Buses are usually well-heated in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan kann leicht von den Sommerzeiten abweichen.",
+              "Nutzen Sie die App 'Promet Split' für aktuelle Abfahrtszeiten.",
+              "Am späten Nachmittag wird es im Bus oft sehr voll mit Pendlern.",
+              "Halten Sie Kleingeld für den Ticketkauf beim Fahrer bereit."
+            ],
+            "hu": [
+              "A téli menetrend némileg eltérhet a nyáritól.",
+              "Használja a 'Promet Split' alkalmazást az aktuális indulásokhoz.",
+              "Késő délután a buszokon gyakran sok az ingázó.",
+              "Legyen kéznél aprópénz a sofőrnél történő jegyvásárláshoz."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi ușor de cele de vară.",
+              "Folosiți aplicația 'Promet Split' pentru orele actuale de plecare.",
+              "Spre sfârșitul după-amiezii, autobuzele sunt adesea pline de navetiști.",
+              "Aveți pregătit mărunt pentru cumpărarea biletului de la șofer."
+            ],
+            "en": [
+              "The winter schedule may differ slightly from summer times.",
+              "Use the 'Promet Split' app for up-to-date departure times.",
+              "In the late afternoon, buses often get crowded with commuters.",
+              "Have small change ready for buying tickets from the driver."
+            ]
+          }
+        }
       }
     }
   }

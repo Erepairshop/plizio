@@ -248,6 +248,214 @@
           "Wear comfortable shoes for the path to the island.",
           "The bridge is especially photogenic at sunset."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Posedarje zeigt sich bei Regen von einer mystischen Seite, wenn der Nebel über dem Novigrad-Meer hängt. Der Vormittag gehört den sakralen Schätzen und dem warmen Aroma des Kaffees in geschützten Innenräumen. Mittags wärmt eine kräftige Suppe in einer lokalen Konoba, bevor der Weg zur einsamen Kapelle am Wasser führt. Den Tag lassen wir mit dem Blick auf die peitschenden Wellen unter dem Schutz des Hafendachs ausklingen.",
+            "hu": "Posedarje esőben misztikus arcát mutatja, ahogy a köd ráül a Novigradi-tengerre. A délelőtt a szakrális kincseké és a kávé melletti melegedésé a fedett teraszokon. Ebédre egy forró halleves vár a konobában, majd a part menti kis kápolna magánya következik a szürke ég alatt. A napot a kikötő védett pontjáról zárjuk, figyelve a hullámok játékát.",
+            "ro": "Posedarje sub ploaie capătă o aură mistică, cu ceața coborând peste Marea Novigrad. Dimineața este dedicată comorilor sacre și cafelei savurate în interior. La prânz, o supă caldă într-o konoba locală oferă confort, înainte de vizita la capela de pe malul apei. Încheiem ziua sub adăpostul portului, admirând spectacolul valurilor sub cerul plumburiu.",
+            "en": "Posedarje reveals a mystical side in the rain, with mist clinging to the Novigrad Sea. The morning focuses on sacred interiors and the warmth of coffee in cozy spots. At lunch, a hearty local stew provides comfort before a walk to the lonely chapel by the shore. We end the day under the harbor's shelter, watching the dramatic waves under the grey sky."
+          },
+          "stops": [
+            {
+              "name": "Župna crkva Gospe od Ružarija",
+              "tip_5lang": {
+                "de": "Perfekter Schutz vor dem ersten Guss; bewundern Sie den Altar in Ruhe.",
+                "hu": "Tökéletes menedék az első zápor elől; csodálja meg nyugodtan az oltárt.",
+                "ro": "Adăpost perfect împotriva primei ploi; admirați altarul în liniște.",
+                "en": "Perfect shelter from the first downpour; admire the altar in peace."
+              }
+            },
+            {
+              "name": "Kaffee an der Riva",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz im Innenbereich mit Blick auf das regnerische Meer.",
+                "hu": "Keressen belső asztalt, ahonnan rálátni az esős tengerre.",
+                "ro": "Căutați un loc în interior cu vedere la marea înnorată.",
+                "en": "Find an indoor table with a view of the rainy sea."
+              }
+            },
+            {
+              "name": "Crkva sv. Duha",
+              "tip_5lang": {
+                "de": "Der Weg über den Damm kann bei Regen windig sein; feste Schuhe sind Pflicht.",
+                "hu": "A gát esőben szeles lehet; a zárt cipő kötelező.",
+                "ro": "Drumul pe dig poate fi vântos pe ploaie; încălțămintea fixă e obligatorie.",
+                "en": "The path across the causeway can be windy in rain; sturdy shoes are a must."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Genießen Sie regionale Spezialitäten am Kamin, falls vorhanden.",
+                "hu": "Élvezze a helyi specialitásokat a kandalló mellett, ha van rá mód.",
+                "ro": "Savurați specialitățile locale lângă șemineu, dacă este disponibil.",
+                "en": "Enjoy regional specialties by the fireplace if available."
+              }
+            },
+            {
+              "name": "Plaža Sveti Duh",
+              "tip_5lang": {
+                "de": "Ein kurzer, dramatischer Spaziergang am Wasser; kein Badebetrieb.",
+                "hu": "Rövid, drámai séta a vízparton; fürdésre nem alkalmas.",
+                "ro": "O plimbare scurtă și dramatică pe mal; scăldatul nu este recomandat.",
+                "en": "A short, dramatic walk by the water; not suitable for swimming."
+              }
+            },
+            {
+              "name": "Maslenički most",
+              "tip_5lang": {
+                "de": "Vorsicht bei starkem Wind auf der Brücke; Geländer nutzen.",
+                "hu": "Vigyázat az erős széllel a hídon; használja a korlátot.",
+                "ro": "Atenție la vântul puternic pe pod; folosiți balustrada.",
+                "en": "Careful with strong winds on the bridge; use the handrails."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Hafen",
+              "tip_5lang": {
+                "de": "Das Licht bei Regen am Hafen ist oft besonders intensiv blau.",
+                "hu": "A kikötő fényei esőben gyakran különleges mélykék árnyalatot kapnak.",
+                "ro": "Luminile portului pe ploaie au adesea nuanțe intense de albastru.",
+                "en": "Harbor lights in the rain often take on intense deep blue tones."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie rutschfeste Sohlen, da die Steinwege im Ort glatt werden.",
+              "Die Bura kann den Regen horizontal peitschen; Windjacken sind besser als Schirme.",
+              "Nutzen Sie die Kirchenbesuche für längere Pausen.",
+              "Das Novigrad-Meer wirkt bei Regen besonders dunkel und fotogen.",
+              "Prüfen Sie, ob Konobas im Ort durchgehend warme Küche anbieten."
+            ],
+            "hu": [
+              "Viseljen csúszásmentes talpú cipőt, mert a köves utak síkossá válnak.",
+              "A bóra vízszintesen hordhatja az esőt; a szélkabát jobb, mint az esernyő.",
+              "Használja ki a templomlátogatásokat hosszabb pihenőkre.",
+              "A Novigradi-tenger esőben különösen sötét és fotogén.",
+              "Ellenőrizze, hogy a helyi konobák folyamatosan tartanak-e meleg konyhát."
+            ],
+            "ro": [
+              "Purtați talpă antiderapantă, deoarece pavajul devine alunecos.",
+              "Vântul Bura poate purta ploaia orizontal; jachetele sunt mai bune decât umbrelele.",
+              "Folosiți vizitele la biserici pentru pauze mai lungi sub acoperiș.",
+              "Marea Novigrad este extrem de fotogenică sub cerul de furtună.",
+              "Verificați dacă restaurantele locale au program continuu pentru bucătăria caldă."
+            ],
+            "en": [
+              "Wear non-slip soles as the stone paths in town become slippery.",
+              "The Bura wind can whip rain horizontally; windbreakers are better than umbrellas.",
+              "Use church visits as opportunities for longer dry breaks.",
+              "The Novigrad Sea looks particularly dark and photogenic in the rain.",
+              "Check if local konobas offer warm food throughout the afternoon."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Posedarje bedeutet kristallklare Luft und die raue Kraft der Bura. Morgens erkunden wir die Stille des Ortes und die barocke Pracht der Hauptkirche. Mittags lockt ein warmes Plätzchen mit Blick auf das tiefblaue Wasser. Der Nachmittag führt uns zur einsamen Kapelle auf der kleinen Insel, bevor die Sonne bereits gegen 16:30 Uhr spektakulär hinter den Bergen des Velebit versinkt.",
+            "hu": "A tél Posedarjében kristálytiszta levegőt és a bóra nyers erejét jelenti. Reggel a település csendjét és a főtemplom barokk díszeit fedezzük fel. Délben egy meleg sarok vár, kilátással a mélykék vízre. Délután a kis szigeten álló magányos kápolnához sétálunk, mielőtt a nap 16:30 körül látványosan eltűnik a Velebit hegyei mögött.",
+            "ro": "Iarna în Posedarje aduce aer cristalinit și forța brută a vântului Bura. Dimineața explorăm liniștea localității și splendoarea barocă a bisericii principale. La prânz, căutăm un loc călduros cu vedere spre apa albastru închis. După-amiaza mergem spre capela solitară de pe insulă, înainte ca soarele să apună spectaculos după munții Velebit în jurul orei 16:30.",
+            "en": "Winter in Posedarje brings crystal-clear air and the raw power of the Bura wind. In the morning, we explore the town's silence and the baroque details of the main church. At noon, we find a warm spot with a view of the deep blue water. The afternoon leads to the lonely chapel on the small island before the sun sets spectacularly behind the Velebit mountains around 16:30."
+          },
+          "stops": [
+            {
+              "name": "Župna crkva Gospe od Ružarija",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille außerhalb der Touristensaison.",
+                "hu": "Élvezze a csendet a turistaidényen kívül.",
+                "ro": "Bucurați-vă de liniște în afara sezonului turistic.",
+                "en": "Enjoy the silence outside the tourist season."
+              }
+            },
+            {
+              "name": "Kaffee an der Riva",
+              "tip_5lang": {
+                "de": "Ein heißer Tee oder Punsch wärmt nach dem Wind an der Riva.",
+                "hu": "Egy forró tea vagy puncs jól esik a szeles Riva után.",
+                "ro": "Un ceai fierbinte sau un punș vă va încălzi după vântul de pe rivă.",
+                "en": "A hot tea or punch warms you up after the windy Riva."
+              }
+            },
+            {
+              "name": "Crkva sv. Duha",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wichtig; der Wind ist hier besonders beißend.",
+                "hu": "Meleg öltözet fontos; a szél itt különösen metsző.",
+                "ro": "Îmbrăcămintea groasă e esențială; vântul este tăios aici.",
+                "en": "Warm clothing is vital; the wind is particularly biting here."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie Posedarje-Schinken, der durch die Bura getrocknet wurde.",
+                "hu": "Kóstolja meg a bóra szelében szárított posedarjei sonkát.",
+                "ro": "Gustați șunca de Posedarje, uscată în vântul Bura.",
+                "en": "Taste the Posedarje prosciutto, dried by the Bura wind."
+              }
+            },
+            {
+              "name": "Plaža Sveti Duh",
+              "tip_5lang": {
+                "de": "Wunderschönes, klares Wasser, aber sehr windanfällig.",
+                "hu": "Csodálatosan tiszta víz, de nagyon szeles terület.",
+                "ro": "Apă cristalină, dar zona este foarte expusă vântului.",
+                "en": "Beautifully clear water, but the area is very windy."
+              }
+            },
+            {
+              "name": "Maslenički most",
+              "tip_5lang": {
+                "de": "Bester Fotospot für den frühen Sonnenuntergang um 16:30.",
+                "hu": "A legjobb fotóhelyszín a korai, 16:30-as naplementéhez.",
+                "ro": "Cel mai bun loc pentru fotografii la apusul timpuriu de la ora 16:30.",
+                "en": "Best photo spot for the early sunset at 16:30."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Hafen",
+              "tip_5lang": {
+                "de": "Packen Sie sich warm ein für die blauen Stunden am Hafen.",
+                "hu": "Öltözzön rétegesen a kikötői 'kék órákhoz'.",
+                "ro": "Îmbrăcați-vă bine pentru orele albastre din port.",
+                "en": "Dress warmly for the 'blue hours' at the harbor."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Windwarnungen; die Maslenica-Brücke wird bei Bura oft gesperrt.",
+              "Die Sonne geht früh unter; planen Sie Outdoor-Aktivitäten vor 16 Uhr.",
+              "Viele Cafés haben im Winter reduzierte Öffnungszeiten.",
+              "Die Fernsicht auf den Velebit ist im Winter am schärfsten.",
+              "Zwiebelprinzip bei der Kleidung schützt vor dem wechselhaften Küstenwind."
+            ],
+            "hu": [
+              "Figyelje a széljelzéseket; a Maslenica-hidat bóra idején gyakran lezárják.",
+              "A nap korán nyugszik; a szabadtéri programokat tervezze 16 óra elé.",
+              "Sok kávézó télen rövidített nyitvatartással üzemel.",
+              "A kilátás a Velebitre télen a legélesebb.",
+              "A réteges öltözködés véd a változékony tengerparti széltől."
+            ],
+            "ro": [
+              "Urmăriți alertele de vânt; podul Maslenica este adesea închis în timpul vântului Bura.",
+              "Soarele apune devreme; planificați activitățile în aer liber înainte de ora 16:00.",
+              "Multe cafenele au program redus pe timpul iernii.",
+              "Vizibilitatea spre munții Velebit este cea mai clară iarna.",
+              "Îmbrăcămintea în straturi vă protejează de vântul schimbător de pe coastă."
+            ],
+            "en": [
+              "Watch for wind alerts; the Maslenica bridge is often closed during Bura.",
+              "The sun sets early; plan your outdoor activities before 16:00.",
+              "Many cafes have reduced opening hours during winter.",
+              "The views of the Velebit mountains are sharpest in winter.",
+              "Layered clothing protects against the variable coastal wind."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -490,6 +698,214 @@
           "The route is mostly flat and pleasant to ride.",
           "Take enough water with you."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Disziplin, belohnt aber mit einsamen Wegen. Wir starten an der barocken Kirche und radeln entlang der Riva, wo der Asphalt glänzt. Ein langer Stopp in einer Konoba lässt die Kleidung trocknen, bevor wir den Weg zur Kapelle im Meer wagen. Das Ziel ist die Maslenica-Brücke, wo der Wind den Regen gegen das Gesicht peitscht, bevor es zurück in den trockenen Hafen geht.",
+            "hu": "Egy esős bringatúra fegyelmet igényel, de magányos utakkal jutalmaz. A barokk templomtól indulunk, a csillogó aszfalton pedálozva a Riva mentén. Egy hosszú pihenő a konobában segít megszárítani a ruhákat, mielőtt nekivágunk a tengeri kápolnának. A cél a Maslenica-híd, ahol az arcunkba vág az eső, majd visszatérünk a kikötő nyugalmába.",
+            "ro": "O tură cu bicicleta pe ploaie necesită disciplină, dar oferă drumuri pustii. Pornim de la biserica barocă, pedalând pe asfaltul lucios de-a lungul rivei. O pauză lungă la konoba permite uscarea hainelor înainte de a porni spre capela din mare. Destinația este podul Maslenica, unde ploaia biciuiește fața, înainte de revenirea în portul liniștit.",
+            "en": "A rainy bike tour requires discipline but rewards with solitary paths. We start at the baroque church, cycling along the Riva where the asphalt glistens. A long stop at a konoba lets clothes dry before venturing toward the chapel in the sea. The destination is the Maslenica bridge, where rain whips against your face, before returning to the harbor's shelter."
+          },
+          "stops": [
+            {
+              "name": "Župna crkva Gospe od Ružarija",
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter das Vordach, bevor Sie eintreten.",
+                "hu": "Támassza a bringát az előtető alá belépés előtt.",
+                "ro": "Parcați bicicleta sub streașină înainte de a intra.",
+                "en": "Park the bike under the overhang before entering."
+              }
+            },
+            {
+              "name": "Frühstück am Meer",
+              "tip_5lang": {
+                "de": "Warmer Kakao ist jetzt der beste Treibstoff.",
+                "hu": "A forró kakaó most a legjobb üzemanyag.",
+                "ro": "O ciocolată caldă este cel mai bun combustibil acum.",
+                "en": "Hot cocoa is the best fuel right now."
+              }
+            },
+            {
+              "name": "Crkva sv. Duha",
+              "tip_5lang": {
+                "de": "Achtung: Der Damm kann bei Nässe extrem rutschig sein.",
+                "hu": "Figyelem: a gát nedvesen rendkívül csúszós lehet.",
+                "ro": "Atenție: digul poate fi extrem de alunecos când este ud.",
+                "en": "Attention: the causeway can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Ebéd egy tengerparti Konobában",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit, um die Regenausrüstung zu checken.",
+                "hu": "Használja ki az időt az esőfelszerelés ellenőrzésére.",
+                "ro": "Folosiți timpul pentru a verifica echipamentul de ploaie.",
+                "en": "Use the time to check your rain gear."
+              }
+            },
+            {
+              "name": "Plaža Sveti Duh",
+              "tip_5lang": {
+                "de": "Kieswege sind bei Regen stabiler als Erdpfade.",
+                "hu": "A kavicsos utak esőben stabilabbak, mint a földutak.",
+                "ro": "Drumurile cu pietriș sunt mai stabile pe ploaie decât potecile de pământ.",
+                "en": "Gravel paths are more stable in the rain than dirt tracks."
+              }
+            },
+            {
+              "name": "Maslenički most",
+              "tip_5lang": {
+                "de": "Halten Sie den Lenker bei Böen auf der Brücke fest umschlungen.",
+                "hu": "Szélrohamok idején fogja erősen a kormányt a hídon.",
+                "ro": "Țineți strâns ghidonul în timpul rafalelor de vânt pe pod.",
+                "en": "Hold the handlebars firmly during gusts on the bridge."
+              }
+            },
+            {
+              "name": "Rückfahrt und Hafenpromenade",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf den nassen Pflastersteinen.",
+                "hu": "Vigyázzon a fékezéssel a nedves macskaköveken.",
+                "ro": "Atenție la frânare pe pavajul umed.",
+                "en": "Be careful when braking on wet cobblestones."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie hektische Lenkbewegungen auf nassem Asphalt.",
+              "Vorder- und Rücklicht sind bei Regen für die Sichtbarkeit Pflicht.",
+              "Regenhosen verhindern das Auskühlen durch nassen Fahrtwind.",
+              "Die Bremswege verlängern sich bei Nässe erheblich.",
+              "Schutzbleche am Rad sparen viel Schmutz auf der Kleidung."
+            ],
+            "hu": [
+              "Kerülje a hirtelen kormánymozdulatokat a nedves aszfalton.",
+              "Az első és hátsó lámpa kötelező a láthatóság miatt esőben.",
+              "Az esőnadrág megakadályozza a menetszél okozta lehűlést.",
+              "A fékút vizes úton jelentősen meghosszabbodik.",
+              "A sárvédő sokat segít a ruházat tisztán tartásában."
+            ],
+            "ro": [
+              "Evitați mișcările bruște ale ghidonului pe asfaltul ud.",
+              "Luminile față și spate sunt obligatorii pentru vizibilitate pe ploaie.",
+              "Pantalonii de ploaie previn răcirea corpului din cauza vântului umed.",
+              "Distanța de frânare crește considerabil pe carosabil umed.",
+              "Apărătorile de noroi sunt esențiale pentru a vă păstra hainele curate."
+            ],
+            "en": [
+              "Avoid sudden steering movements on wet asphalt.",
+              "Front and rear lights are mandatory for visibility in the rain.",
+              "Rain pants prevent cooling down from wet riding wind.",
+              "Braking distances increase significantly on wet roads.",
+              "Mudguards on the bike save a lot of dirt on your clothes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Posedarje bietet klare Sicht bis zu den Kornaten. Wir starten dick eingepackt an der Kirche und nutzen den Rückenwind Richtung Sveti Duh. Das Mittagessen in der Wärme ist essenziell, um die Glieder zu lockern. Der Höhepunkt ist die Fahrt über die Maslenica-Brücke, wo die Kälte klirrt, bevor wir pünktlich zum frühen Sonnenuntergang wieder den Hafen erreichen.",
+            "hu": "A téli bringázás Posedarjében tiszta kilátást nyújt egészen a Kornati-szigetekig. Vastagon beöltözve indulunk a templomtól, kihasználva a hátszelet Sveti Duh felé. A meleg ebéd elengedhetetlen a tagok átmozgatásához. A csúcspont a Maslenica-híd, ahol csípős a hideg, mielőtt pontosan a korai naplementére visszaérünk a kikötőbe.",
+            "ro": "Ciclismul de iarnă în Posedarje oferă vederi clare până la insulele Kornati. Pornim bine înfofoliți de la biserică, folosind vântul din spate spre Sveti Duh. Un prânz la căldură este esențial pentru a ne dezmorți. Punctul culminant este traversarea podului Maslenica, unde frigul este pătrunzător, înainte de a reveni în port exact pentru apusul timpuriu.",
+            "en": "Winter cycling in Posedarje offers clear views as far as the Kornati islands. We start bundled up from the church, using the tailwind toward Sveti Duh. A warm lunch is essential to loosen up. The highlight is the ride over the Maslenica bridge, where the cold is biting, before returning to the harbor just in time for the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Župna crkva Gospe od Ružarija",
+              "tip_5lang": {
+                "de": "Ein ruhiger Start; kaum Verkehr im winterlichen Ort.",
+                "hu": "Csendes kezdés; szinte nincs forgalom a téli faluban.",
+                "ro": "Un început liniștit; aproape zero trafic în localitatea hibernală.",
+                "en": "A quiet start; almost no traffic in the winter village."
+              }
+            },
+            {
+              "name": "Frühstück am Meer",
+              "tip_5lang": {
+                "de": "Trinken Sie etwas Heißes, bevor die Fahrt richtig losgeht.",
+                "hu": "Igyon valami forrót, mielőtt a túra igazán elkezdődik.",
+                "ro": "Beți ceva fierbinte înainte ca tura să înceapă cu adevărat.",
+                "en": "Drink something hot before the ride really starts."
+              }
+            },
+            {
+              "name": "Crkva sv. Duha",
+              "tip_5lang": {
+                "de": "Handschuhe nicht vergessen; der Fahrtwind ist eisig.",
+                "hu": "Ne felejtse el a kesztyűt; a menetszél jeges.",
+                "ro": "Nu uitați mănușile; vântul la pedalat este înghețat.",
+                "en": "Don't forget gloves; the riding wind is icy."
+              }
+            },
+            {
+              "name": "Ebéd egy tengerparti Konobában",
+              "tip_5lang": {
+                "de": "Energiereiches Essen hilft gegen die Kälte.",
+                "hu": "Az energiadús étel segít a hideg ellen.",
+                "ro": "Mâncarea bogată în calorii ajută împotriva frigului.",
+                "en": "Energy-rich food helps against the cold."
+              }
+            },
+            {
+              "name": "Plaža Sveti Duh",
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Strand; perfekt für Fotos.",
+                "hu": "Élvezze a magányt a strandon; tökéletes fotóhelyszín.",
+                "ro": "Bucurați-vă de singurătatea de pe plajă; perfect pentru fotografii.",
+                "en": "Enjoy the solitude on the beach; perfect for photos."
+              }
+            },
+            {
+              "name": "Maslenički most",
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft phänomenal.",
+                "hu": "A kilátás télen gyakran fenomenális.",
+                "ro": "Vizibilitatea la distanță este adesea fenomenală iarna.",
+                "en": "Distanced views are often phenomenal in winter."
+              }
+            },
+            {
+              "name": "Rückfahrt und Hafenpromenade",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schattenstellen, die gefroren sein könnten.",
+                "hu": "Ügyeljen az árnyékos helyekre, amelyek fagyottak lehetnek.",
+                "ro": "Atenție la porțiunile umbrite care pot fi înghețate.",
+                "en": "Watch out for shaded areas that might be frozen."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders am Oberkörper.",
+              "Prüfen Sie den Reifendruck; etwas weniger Druck gibt mehr Grip.",
+              "Lippenbalsam schützt vor dem Austrocknen durch die Bura.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee mit.",
+              "Die Sonne verschwindet früh; Lichtcheck vor der Abfahrt."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a felsőtesten.",
+              "Ellenőrizze a guminyomást; a kicsit alacsonyabb nyomás jobb tapadást ad.",
+              "Az ajakír véd a bóra szárító hatása ellen.",
+              "Vigyen magával termoszt forró teával.",
+              "A nap korán nyugszik; indulás előtt ellenőrizze a lámpákat."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, în special pe partea superioară.",
+              "Verificați presiunea în pneuri; o presiune ușor mai mică oferă aderență mai bună.",
+              "Balsamul de buze protejează împotriva uscării cauzate de vântul Bura.",
+              "Luați un termos cu ceai cald la voi.",
+              "Soarele apune devreme; verificați luminile înainte de plecare."
+            ],
+            "en": [
+              "Wear windproof clothing, especially on your upper body.",
+              "Check tire pressure; slightly lower pressure gives more grip.",
+              "Lip balm protects against drying out caused by the Bura wind.",
+              "Take a thermos with hot tea with you.",
+              "The sun disappears early; check your lights before departure."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -732,6 +1148,214 @@
           "In high season, parking at the beach can be limited.",
           "The Maslenica bridge is a must for photographers."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Posedarje komfortabel trotz Regen. Wir starten im Ortszentrum und besuchen die Kirchen, wobei das Auto stets als trockener Rückzugsort dient. Zum Mittagessen fahren wir zu einer gemütlichen Konoba im Ort. Der Nachmittag führt uns über die imposante Maslenica-Brücke, wo wir das Wetterdrama sicher aus dem Fenster beobachten, bevor wir am Novigrad-Meer den Tag beenden.",
+            "hu": "Autóval kényelmesen fedezhetjük fel Posedarjét az eső ellenére is. A központból indulunk és meglátogatjuk a templomokat, miközben az autó száraz menedékként szolgál. Ebédre egy hangulatos helyi konobát választunk. Délután átkelünk az impozáns Maslenica-hídon, biztonságban figyelve az időjárás drámáját, majd a Novigradi-tengernél zárjuk a napot.",
+            "ro": "Cu mașina explorăm confortabil Posedarje în ciuda ploii. Pornim din centrul localității și vizităm bisericile, mașina fiind un refugiu uscat permanent. Pentru prânz mergem la o konoba primitoare. După-amiaza traversăm podul Maslenica, observând spectacolul meteo de la adăpostul geamului, înainte de a încheia ziua pe malul mării.",
+            "en": "By car, we explore Posedarje comfortably despite the rain. We start in the town center and visit the churches, with the car always serving as a dry sanctuary. For lunch, we drive to a cozy local konoba. In the afternoon, we cross the imposing Maslenica bridge, safely watching the weather drama from the window before ending the day by the Novigrad Sea."
+          },
+          "stops": [
+            {
+              "name": "Ortszentrum Posedarje",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Zentrum, um kurze Wege im Regen zu haben.",
+                "hu": "Parkoljon közel a központhoz, hogy ne kelljen sokat gyalogolnia az esőben.",
+                "ro": "Parcați aproape de centru pentru a scurta drumul prin ploaie.",
+                "en": "Park close to the center to keep walking distances short in the rain."
+              }
+            },
+            {
+              "name": "Župna crkva Gospe od Ružarija",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zur Kirche schützt vor Nässe.",
+                "hu": "Egy rövid futás a parkolótól a templomig megvédi az ázástól.",
+                "ro": "Un sprint scurt de la parcare la biserică vă protejează de ploaie.",
+                "en": "A quick dash from the parking lot to the church keeps you dry."
+              }
+            },
+            {
+              "name": "Crkva sv. Duha",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Zufahrtsweg befahrbar und nicht überschwemmt ist.",
+                "hu": "Ellenőrizze, hogy a bekötőút járható-e és nincs-e elöntve.",
+                "ro": "Verificați dacă drumul de acces este practicabil și nu este inundat.",
+                "en": "Check if the access road is passable and not flooded."
+              }
+            },
+            {
+              "name": "Plaža Sveti Duh",
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer gemütlich vom Auto aus.",
+                "hu": "Figyelje a viharos tengert kényelmesen az autóból.",
+                "ro": "Observați marea învolburată confortabil din mașină.",
+                "en": "Watch the stormy sea comfortably from inside the car."
+              }
+            },
+            {
+              "name": "Ebéd egy helyi Konobában",
+              "tip_5lang": {
+                "de": "Suchen Sie eine Konoba mit nahen Parkmöglichkeiten.",
+                "hu": "Keressen olyan konobát, amelynek közelében van parkoló.",
+                "ro": "Căutați o konoba cu locuri de parcare în apropiere.",
+                "en": "Look for a konoba with parking spots nearby."
+              }
+            },
+            {
+              "name": "Maslenički most",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkbucht für ein kurzes Foto bei Regenpausen.",
+                "hu": "Használja a pihenőt egy gyors fotóra az esőszünetekben.",
+                "ro": "Folosiți refugiul pentru o fotografie rapidă în pauzele de ploaie.",
+                "en": "Use the lay-by for a quick photo during breaks in the rain."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Novigrad-Meer",
+              "tip_5lang": {
+                "de": "Die Wolkenstimmung ist oft dramatischer als bei Sonnenschein.",
+                "hu": "A felhős égbolt gyakran drámaibb látvány, mint a napsütés.",
+                "ro": "Atmosfera creată de nori este adesea mai dramatică decât soarele.",
+                "en": "Cloudy skies often provide a more dramatic mood than sunshine."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht vor Aquaplaning auf der Küstenstraße.",
+              "Die Sicht kann durch starken Regen und Gischt eingeschränkt sein.",
+              "Halten Sie die Fenster sauber, um Beschlagen zu vermeiden.",
+              "Die Maslenica-Brücke kann bei sehr starkem Wind für PKW gesperrt werden.",
+              "Nutzen Sie die Scheibenwischer auf höchster Stufe bei LKW-Gischt."
+            ],
+            "hu": [
+              "Vigyázzon az aquaplaning jelenségre a parti utakon.",
+              "A látási viszonyok a heves esőben és a tengeri permetben romolhatnak.",
+              "Tartsa tisztán az ablakokat a párásodás elkerülése érdekében.",
+              "A Maslenica-hidat nagyon erős szélben lezárhatják a személyautók előtt.",
+              "Használja az ablaktörlőt a legmagasabb fokozaton teherautók közelében."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile de coastă.",
+              "Vizibilitatea poate fi redusă de ploaia torențială și spray-ul mării.",
+              "Mențineți geamurile curate pentru a evita aburirea.",
+              "Podul Maslenica poate fi închis pentru autoturisme în caz de vânt extrem.",
+              "Folosiți ștergătoarele la viteză maximă când treceți pe lângă camioane."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the coastal roads.",
+              "Visibility can be limited by heavy rain and sea spray.",
+              "Keep windows clean to prevent fogging up.",
+              "The Maslenica bridge can be closed to cars during very strong winds.",
+              "Use windshield wipers on high when passing trucks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour durch Posedarje zeigt die schroffe Schönheit Dalmatiens. Wir starten im kühlen Zentrum und besuchen die historischen Kapellen. Die Heizung im Auto sorgt für Wohlbefinden zwischen den Stopps. Nach einem herzhaften Mittagessen führt die Route zur Maslenica-Brücke, dem windigsten Punkt der Region, bevor wir den klaren Sonnenuntergang über dem Novigrad-Meer genießen.",
+            "hu": "A téli autós túra Posedarje környékén Dalmácia nyers szépségét mutatja meg. A hűvös központból indulunk és felkeressük a történelmi kápolnákat. Az autó fűtése kényelmes pihenőt nyújt a megállók között. Egy kiadós ebéd után a Maslenica-hídhoz hajtunk, a régió legszelesebb pontjára, majd élvezzük a tiszta naplementét a Novigradi-tenger felett.",
+            "ro": "Turul cu mașina pe timp de iarnă în Posedarje dezvăluie frumusețea aspră a Dalmației. Pornim din centrul răcoros și vizităm capelele istorice. Încălzirea din mașină asigură confortul între opriri. După un prânz copios, traseul duce la podul Maslenica, cel mai vântos punct din regiune, înainte de a admira apusul clar peste Marea Novigrad.",
+            "en": "A winter car tour through Posedarje showcases the rugged beauty of Dalmatia. We start in the cool center and visit historical chapels. The car's heater ensures comfort between stops. After a hearty lunch, the route leads to the Maslenica bridge, the region's windiest point, before enjoying a clear sunset over the Novigrad Sea."
+          },
+          "stops": [
+            {
+              "name": "Ortszentrum Posedarje",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter im Überfluss vorhanden.",
+                "hu": "Télen bőségesen találunk parkolóhelyet.",
+                "ro": "Locurile de parcare sunt abundente pe timpul iernii.",
+                "en": "Parking spaces are plentiful in winter."
+              }
+            },
+            {
+              "name": "Župna crkva Gospe od Ružarija",
+              "tip_5lang": {
+                "de": "Im Inneren der Kirche ist es oft kühler als draußen; Jacke anlassen.",
+                "hu": "A templom belsejében gyakran hűvösebb van, mint kint; hagyja magán a kabátot.",
+                "ro": "Interiorul bisericii este adesea mai rece decât afară; păstrați jacheta.",
+                "en": "The church interior is often cooler than outside; keep your jacket on."
+              }
+            },
+            {
+              "name": "Crkva sv. Duha",
+              "tip_5lang": {
+                "de": "Vorsicht bei Vereisungen auf der Zufahrtsstraße im Schatten.",
+                "hu": "Vigyázzon a jegesedésre a bekötőút árnyékos részein.",
+                "ro": "Atenție la porțiunile înghețate de pe drumul de acces la umbră.",
+                "en": "Be careful of icy patches on the access road in the shade."
+              }
+            },
+            {
+              "name": "Plaža Sveti Duh",
+              "tip_5lang": {
+                "de": "Perfekter Ort für ein Winter-Picknick im warmen Auto.",
+                "hu": "Tökéletes helyszín egy téli piknikhez a meleg autóban.",
+                "ro": "Loc perfect pentru un picnic de iarnă în căldura mașinii.",
+                "en": "Perfect spot for a winter picnic in the warm car."
+              }
+            },
+            {
+              "name": "Ebéd egy helyi Konobában",
+              "tip_5lang": {
+                "de": "Probieren Sie Wintergerichte wie 'Sarma', falls verfügbar.",
+                "hu": "Kóstolja meg a téli ételeket, például a szarmát, ha kapható.",
+                "ro": "Încercați mâncărurile de iarnă precum sarmalele, dacă sunt disponibile.",
+                "en": "Try winter dishes like 'sarma' if available."
+              }
+            },
+            {
+              "name": "Maslenički most",
+              "tip_5lang": {
+                "de": "Halten Sie die Autotür bei starker Bura gut fest beim Aussteigen.",
+                "hu": "Erős bóra esetén fogja erősen az autó ajtaját kiszálláskor.",
+                "ro": "Țineți bine ușa mașinii la coborâre dacă bate vântul Bura.",
+                "en": "Hold the car door firmly when exiting during strong Bura winds."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Novigrad-Meer",
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist im Winter besonders klar für Fotos.",
+                "hu": "A délutáni fények télen különösen tiszták a fotózáshoz.",
+                "ro": "Lumina de după-amiază este extrem de clară pentru fotografii iarna.",
+                "en": "Afternoon light is particularly clear for photos in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutz in der Scheibenwaschanlage ist auch in Dalmatien ratsam.",
+              "Prüfen Sie vor der Abfahrt den Straßenzustand (HAK.hr) wegen Wind.",
+              "Batteriecheck ist vor winterlichen Fahrten wichtig.",
+              "Die Tankstellen an der Autobahn sind im Winter zuverlässiger als kleine im Ort.",
+              "Nehmen Sie Decken für längere Standzeiten im Auto mit."
+            ],
+            "hu": [
+              "A szélvédőmosó fagyállója Dalmáciában is ajánlott.",
+              "Indulás előtt ellenőrizze az útviszonyokat (HAK.hr) a szél miatt.",
+              "Az akkumulátor ellenőrzése fontos a téli túrák előtt.",
+              "Az autópálya melletti kutak télen megbízhatóbbak, mint a falusi kis kutak.",
+              "Vigyen magával takarót, ha hosszabb ideig várakozna az autóban."
+            ],
+            "ro": [
+              "Lichidul de parbriz antigel este recomandat și în Dalmația.",
+              "Verificați starea drumurilor (HAK.hr) înainte de plecare din cauza vântului.",
+              "Verificarea bateriei este importantă înainte de călătoriile de iarnă.",
+              "Benzinăriile de pe autostradă sunt mai sigure iarna decât cele mici din sat.",
+              "Luați pături în mașină pentru eventuale perioade lungi de staționare."
+            ],
+            "en": [
+              "Antifreeze in the windshield washer is advisable even in Dalmatia.",
+              "Check road conditions (HAK.hr) before departure due to wind alerts.",
+              "Battery check is important before winter drives.",
+              "Highway gas stations are more reliable in winter than small village ones.",
+              "Take blankets with you for longer stationary periods in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -956,6 +1580,196 @@
           "Check local bus schedules in advance.",
           "A taxi can be practical for short distances."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Posedarje mit dem Bus zu erkunden, bietet bei Regen eine entspannte Perspektive. Wir nutzen die lokalen Verbindungen zwischen den sakralen Stopps. Während draußen der Regen gegen die Busscheiben trommelt, planen wir den nächsten trockenen Aufenthalt in der Konoba. Ein kurzer Spaziergang am Hafen im Regenmantel schließt den Tag ab, bevor der Bus uns zurückbringt.",
+            "hu": "Posedarje felfedezése busszal esőben nyugalmas távlatokat nyit. A helyi járatokat használjuk a szakrális megállók között. Miközben kint az eső dobol a busz ablakán, megtervezzük a következő száraz pihenőt a konobában. Egy rövid kikötői séta esőköpenyben zárja a napot, mielőtt a busz visszavisz minket.",
+            "ro": "Explorarea localității Posedarje cu autobuzul pe ploaie oferă o perspectivă relaxată. Folosim conexiunile locale între opririle sacre. În timp ce ploaia bate în geamurile autobuzului, planificăm următoarea pauză uscată la konoba. O scurtă plimbare în port cu pelerina de ploaie încheie ziua înainte de returul cu autobuzul.",
+            "en": "Exploring Posedarje by bus in the rain offers a relaxed perspective. We use local connections between the sacred stops. While rain drums against the bus windows, we plan the next dry break at a konoba. A short harbor walk in a raincoat ends the day before the bus takes us back."
+          },
+          "stops": [
+            {
+              "name": "Župna crkva Gospe od Ružarija",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle liegt zentral; wenig Zeit im Regen.",
+                "hu": "A buszmegálló központi helyen van; kevés időt kell az esőben tölteni.",
+                "ro": "Stația de autobuz este centrală; timp minim petrecut în ploaie.",
+                "en": "The bus stop is centrally located; minimal time spent in the rain."
+              }
+            },
+            {
+              "name": "Crkva sv. Duha",
+              "tip_5lang": {
+                "de": "Vom Bus aus ist ein Fußweg nötig; Schirm bereithalten.",
+                "hu": "A busztól gyalogolni kell; tartsa készenlétben az esernyőt.",
+                "ro": "E necesară o porțiune pe jos de la autobuz; pregătiți umbrela.",
+                "en": "A walk is needed from the bus stop; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Plaža Sveti Duh",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist das Wartehäuschen der einzige Schutz.",
+                "hu": "Heves esőben a buszváró az egyetlen menedék.",
+                "ro": "Pe ploaie torențială, refugiul din stație este singurul adăpost.",
+                "en": "In heavy rain, the bus shelter is the only protection."
+              }
+            },
+            {
+              "name": "Ebéd Posedarjében",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal in der Nähe der Haupthaltestelle.",
+                "hu": "Keressen egy helyet a fő buszmegálló közelében.",
+                "ro": "Căutați un local în apropierea stației principale.",
+                "en": "Look for a place near the main bus stop."
+              }
+            },
+            {
+              "name": "Maslenički most",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten; Busse sind bei Regen seltener.",
+                "hu": "Ellenőrizze a visszautat; esőben ritkábbak lehetnek a buszok.",
+                "ro": "Verificați orarul de retur; autobuzele pot fi mai rare pe ploaie.",
+                "en": "Check return times; buses might be less frequent in the rain."
+              }
+            },
+            {
+              "name": "Hafen-Spaziergang",
+              "tip_5lang": {
+                "de": "Ein regennasser Hafen hat seine eigene, stille Ästhetik.",
+                "hu": "Az esőtől ázott kikötőnek megvan a maga csendes esztétikája.",
+                "ro": "Portul ud are propria sa estetică liniștită.",
+                "en": "A rain-soaked harbor has its own quiet aesthetic."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie eine Fahrplan-App herunter (z.B. Arriva).",
+              "Halten Sie Kleingeld für das Ticket bereit, falls Kartenzahlung streikt.",
+              "Die Busse können bei Regen wetterbedingt Verspätung haben.",
+              "Wartehäuschen bieten oft nur minimalen Windschutz.",
+              "Tragen Sie auffällige Regenbekleidung für mehr Sicherheit an Straßen."
+            ],
+            "hu": [
+              "Töltse le a menetrendi appot (pl. Arriva).",
+              "Legyen Önnél aprópénz a jegyhez, ha a kártyás fizetés nem működne.",
+              "A buszok esőben az útviszonyok miatt késhetnek.",
+              "A buszvárók gyakran csak minimális szélvédelmet nyújtanak.",
+              "Viseljen feltűnő esőruházatot a biztonság érdekében az utak mentén."
+            ],
+            "ro": [
+              "Descărcați o aplicație pentru orar (de ex. Arriva).",
+              "Aveți bani cash pentru bilet, în caz că plata cu cardul nu merge.",
+              "Autobuzele pot avea întârzieri pe ploaie din cauza condițiilor de trafic.",
+              "Refugiile din stații oferă adesea protecție minimă împotriva vântului.",
+              "Purtați haine de ploaie reflectorizante pentru siguranță lângă drumuri."
+            ],
+            "en": [
+              "Download a schedule app (e.g., Arriva).",
+              "Have small change ready for the ticket in case card payment fails.",
+              "Buses may be delayed in the rain due to road conditions.",
+              "Bus shelters often offer only minimal wind protection.",
+              "Wear bright rain gear for better visibility and safety along roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher ÖPNV in Posedarje ist ein lokales Erlebnis abseits der Massen. Wir nutzen den Bus, um die Highlights des Ortes zu verbinden, und genießen die Fahrt durch die klare Winterlandschaft. Zwischen den Stopps wärmen wir uns in den beheizten Innenräumen der Konobas auf. Der Tag endet mit einem erfrischenden Hafenbesuch, bevor wir den letzten Bus in der Dämmerung nehmen.",
+            "hu": "A téli tömegközlekedés Posedarjében igazi helyi élmény, távol a tömegtől. A buszt használjuk a látnivalók összekötésére, élvezve az utazást a tiszta téli tájon. A megállók között a konobák fűtött belső tereiben melegszünk fel. A nap egy frissítő kikötői látogatással zárul, mielőtt felszállunk az utolsó buszra a szürkületben.",
+            "ro": "Transportul public de iarnă în Posedarje este o experiență locală autentică. Folosim autobuzul pentru a lega principalele atracții, admirând peisajul hibernal clar. Între opriri, ne încălzim în interiorul konobelor. Ziua se încheie cu o vizită revigorantă în port înainte de a lua ultimul autobuz în amurg.",
+            "en": "Winter public transit in Posedarje is an authentic local experience. We use the bus to connect the main highlights, enjoying the ride through the clear winter scenery. Between stops, we warm up in the heated interiors of local konobas. The day ends with a refreshing harbor visit before catching the last bus at dusk."
+          },
+          "stops": [
+            {
+              "name": "Župna crkva Gospe od Ružarija",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse oft pünktlicher durch weniger Stau.",
+                "hu": "Télen a buszok gyakran pontosabbak a kevesebb dugó miatt.",
+                "ro": "Iarna, autobuzele sunt adesea mai punctuale datorită traficului redus.",
+                "en": "In winter, buses are often more punctual due to less traffic."
+              }
+            },
+            {
+              "name": "Crkva sv. Duha",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zur Haltestelle vor Sonnenuntergang.",
+                "hu": "Tervezze meg a visszautat a megállóhoz naplemente előtt.",
+                "ro": "Planificați drumul de întoarcere la stație înainte de apus.",
+                "en": "Plan your walk back to the bus stop before sunset."
+              }
+            },
+            {
+              "name": "Plaža Sveti Duh",
+              "tip_5lang": {
+                "de": "Ein einsamer Ort; im Winter ist hier kaum eine Seele.",
+                "hu": "Magányos hely; télen szinte senkit sem találni itt.",
+                "ro": "Un loc solitar; iarna nu e aproape nimeni aici.",
+                "en": "A solitary place; you'll find almost no one here in winter."
+              }
+            },
+            {
+              "name": "Ebéd Posedarjében",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit gemütlicher Winteratmosphäre.",
+                "hu": "Válasszon egy éttermet meghitt téli hangulattal.",
+                "ro": "Alegeți un restaurant cu o atmosferă de iarnă primitoare.",
+                "en": "Choose a restaurant with a cozy winter atmosphere."
+              }
+            },
+            {
+              "name": "Maslenički most",
+              "tip_5lang": {
+                "de": "Der Wind an der Haltestelle kann eisig sein; Mütze aufsetzen.",
+                "hu": "A szél a megállóban jeges lehet; viseljen sapkát.",
+                "ro": "Vântul în stație poate fi înghețat; purtați căciulă.",
+                "en": "The wind at the bus stop can be icy; wear a hat."
+              }
+            },
+            {
+              "name": "Hafen-Spaziergang",
+              "tip_5lang": {
+                "de": "Kurze Wege zur Haltestelle minimieren das Frieren.",
+                "hu": "A megállóhoz vezető rövid út segít elkerülni a fagyoskodást.",
+                "ro": "Drumurile scurte către stație minimizează expunerea la frig.",
+                "en": "Short paths to the bus stop minimize the time spent freezing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfahrpläne können von Sommerplänen abweichen.",
+              "Einige Linien verkehren im Winter seltener.",
+              "Warten Sie im Buswartehäuschen, um den Windschatten zu nutzen.",
+              "Busse sind im Winter oft besser beheizt als im Herbst.",
+              "Der letzte Bus fährt im Winter oft früher ab."
+            ],
+            "hu": [
+              "A téli menetrendek eltérhetnek a nyáriaktól.",
+              "Néhány járat télen ritkábban közlekedik.",
+              "Várakozzon a buszváróban, hogy kihasználja a szélvédelmet.",
+              "A buszok télen gyakran jobban fűtöttek, mint ősszel.",
+              "Az utolsó busz télen gyakran korábban indul."
+            ],
+            "ro": [
+              "Orarele de iarnă pot diferi de cele de vară.",
+              "Unele linii circulă mai rar pe timpul iernii.",
+              "Așteptați în refugiul stației pentru a vă adăposti de vânt.",
+              "Autobuzele sunt adesea mai bine încălzite iarna decât toamna.",
+              "Ultimul autobuz pleacă adesea mai devreme iarna."
+            ],
+            "en": [
+              "Winter schedules may differ from summer ones.",
+              "Some lines run less frequently in winter.",
+              "Wait in the bus shelter to take advantage of the windbreak.",
+              "Buses are often better heated in winter than in autumn.",
+              "The last bus often departs earlier in winter."
+            ]
+          }
+        }
       }
     }
   }

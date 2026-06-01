@@ -268,6 +268,188 @@
           "Don't forget your swimwear.",
           "Carry enough water with you."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am nebligen Hafen von Pomena. Im Nationalpark schützen die dichten Pinienwälder vor leichtem Regen, während Sie zu den Seen wandern. Ein langes Mittagessen in einer gemütlichen Konoba bietet den perfekten Rückzugsort. Nachmittags besuchen Sie das Inselkloster, dessen dicke Mauern Schutz bieten, bevor Sie den Tag bei mystischer Regenatmosphäre am Seeufer ausklingen lassen.",
+            "hu": "A nap a ködös Pomena kikötőjében indul. A Nemzeti Park sűrű fenyvesei természetes ernyőként védenek az eső elől a tavak felé vezető úton. Egy kiadós ebéd a helyi konobában tökéletes menedéket nyújt a záporok elől. Délután a kolostorsziget belső tereit fedezzük fel, majd a napot a tavak menti sejtelmes, esős táj látványával zárjuk.",
+            "ro": "Ziua începe în portul Pomena sub un cer plumburiu. Pădurile dese din Parcul Național oferă adăpost natural împotriva ploii în drum spre lacuri. Un prânz prelungit la o konoba locală este refugiul perfect. După-amiaza, vizităm mănăstirea de pe insulă, explorând interioarele sale istorice, și încheiem ziua admirând atmosfera mistică a malului lacului pe ploaie.",
+            "en": "The day begins at the misty Pomena Harbor. The National Park's dense pine forests provide natural shelter from the rain as you walk toward the lakes. A long lunch in a cozy local konoba offers the perfect refuge. In the afternoon, explore the interior of the island monastery, ending the day with the mystical atmosphere of the lakeside in the rain."
+          },
+          "stops": [
+            {
+              "name": "Pomena Harbor",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Cafés am Kai.",
+                "hu": "Keressen menedéket a rakparti kávézók ponyvái alatt.",
+                "ro": "Căutați adăpost sub copertinele cafenelelor de pe chei.",
+                "en": "Seek shelter under the awnings of the waterfront cafes."
+              }
+            },
+            {
+              "name": "Mljet National Park (Entrance)",
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen halten viel Regen ab.",
+                "hu": "A sűrű lombkoronák sok esőt felfognak az ösvényen.",
+                "ro": "Coroanele dese ale copacilor opresc multă ploaie.",
+                "en": "The dense tree canopies block much of the rain."
+              }
+            },
+            {
+              "name": "Lunch at a local Konoba",
+              "tip_5lang": {
+                "de": "Ideal, um die Regenkleidung am Kamin zu trocknen.",
+                "hu": "Ideális hely az esőkabátok megszárítására a kandallónál.",
+                "ro": "Ideal pentru uscarea hainelor de ploaie lângă șemineu.",
+                "en": "Ideal spot to dry your rain gear by the fireplace."
+              }
+            },
+            {
+              "name": "Otočić Svete Marije (Monastery Island)",
+              "tip_5lang": {
+                "de": "Die Kirche und das Kloster sind komplett regensicher.",
+                "hu": "A templom és a kolostor belső terei teljesen esőbiztosak.",
+                "ro": "Biserica și mănăstirea sunt complet ferite de ploaie.",
+                "en": "The church and monastery interiors are fully rainproof."
+              }
+            },
+            {
+              "name": "Beach break at Malo Jezero",
+              "tip_5lang": {
+                "de": "Das Wasser ist bei Regen oft wärmer als die Luft.",
+                "hu": "Esőben a tó vize gyakran melegebb, mint a levegő.",
+                "ro": "Apa lacului este adesea mai caldă decât aerul pe ploaie.",
+                "en": "The lake water is often warmer than the air in the rain."
+              }
+            },
+            {
+              "name": "Day end at the lakeside",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und den Dunst über dem Wasser.",
+                "hu": "Élvezze a csendet és a víz feletti párát.",
+                "ro": "Bucurați-vă de liniște și de aburii de deasupra apei.",
+                "en": "Enjoy the silence and the mist over the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe, da die Waldwege rutschig sein können.",
+              "Die Bootsüberfahrt zur Insel ist überdacht.",
+              "Packen Sie Ihre Elektronik in wasserdichte Beutel.",
+              "Nutzen Sie die Konobas für längere Pausen während der Schauer."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt, mert az erdei utak csúszósak lehetnek.",
+              "A szigetre tartó kishajó fedett, így nem ázik meg az út alatt.",
+              "Tegye az elektronikai eszközöket vízhatlan tasakba.",
+              "Használja ki a helyi éttermeket a nagyobb záporok idején."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă, drumurile pot fi alunecoase.",
+              "Barca spre insulă este acoperită, deci veți fi protejați.",
+              "Puneți dispozitivele electronice în pungi impermeabile.",
+              "Folosiți restaurantele locale pentru pauze lungi în timpul averselor."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes as forest paths can be slippery.",
+              "The boat transfer to the island is covered for protection.",
+              "Keep your electronics in waterproof bags.",
+              "Utilize the local taverns for longer breaks during heavy showers."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein ruhiger Wintermorgen in Pomena ohne Touristenmassen. Die Wanderung durch den Nationalpark ist erfrischend kühl, die Luft kristallklar. Mittags wärmen Sie sich bei regionalen Spezialitäten in einer Konoba auf. Der Besuch des Klosters Sveta Marija wirkt in der winterlichen Stille besonders spirituell, bevor die Sonne früh über den friedlichen Seen untergeht.",
+            "hu": "Csendes téli reggel Pomenában, turistaáradat nélkül. A nemzeti parki séta frissítően hűvös, a levegő kristálytiszta. Délben helyi specialitásokkal melegszünk fel egy konobában. A Szent Mária-kolostor látogatása a téli csendben különösen spirituális élmény, mielőtt a nap korán lenyugszik a békés tavak felett.",
+            "ro": "O dimineață liniștită de iarnă în Pomena, fără aglomerație. Plimbarea prin Parcul Național este răcoritoare, iar aerul este deosebit de curat. La prânz, ne încălzim cu specialități regionale într-o konoba. Vizita la mănăstirea Sfânta Maria este specială în liniștea iernii, înainte ca soarele să apună devreme peste lacuri.",
+            "en": "A quiet winter morning in Pomena, free from the crowds. The hike through the National Park is refreshingly cool with crystal-clear air. Warm up with regional specialties at a konoba for lunch. The visit to Sveta Marija monastery feels especially spiritual in the winter silence before an early sunset over the peaceful lakes."
+          },
+          "stops": [
+            {
+              "name": "Pomena Harbor",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wegen des Seewinds wichtig.",
+                "hu": "A tengeri szél miatt a réteges, meleg öltözet kötelező.",
+                "ro": "Hainele groase sunt necesare din cauza vântului marin.",
+                "en": "Warm clothing is essential due to the sea breeze."
+              }
+            },
+            {
+              "name": "Mljet National Park (Entrance)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit auf den Wanderwegen.",
+                "hu": "Élvezze az ösvények szokatlan magányát télen.",
+                "ro": "Bucurați-vă de singurătatea potecilor pe timp de iarnă.",
+                "en": "Enjoy the unusual solitude of the paths in winter."
+              }
+            },
+            {
+              "name": "Lunch at a local Konoba",
+              "tip_5lang": {
+                "de": "Fragen Sie nach heißem Eintopf oder lokalem Schnaps.",
+                "hu": "Kérjen forró egytálételt vagy helyi pálinkát melegítőnek.",
+                "ro": "Cereți o tocană fierbinte sau un rachiu local.",
+                "en": "Ask for hot stew or local brandy to warm up."
+              }
+            },
+            {
+              "name": "Otočić Svete Marije (Monastery Island)",
+              "tip_5lang": {
+                "de": "Im Inneren des Klosters ist es deutlich wärmer.",
+                "hu": "A kolostor falai között érezhetően enyhébb az idő.",
+                "ro": "În interiorul mănăstirii este considerabil mai cald.",
+                "en": "It is significantly warmer inside the monastery walls."
+              }
+            },
+            {
+              "name": "Beach break at Malo Jezero",
+              "tip_5lang": {
+                "de": "Ideal für ein kurzes, belebendes Winterbad.",
+                "hu": "Ideális hely egy rövid, frissítő téli mártózáshoz.",
+                "ro": "Ideal pentru o baie scurtă și revigorantă de iarnă.",
+                "en": "Ideal for a short, invigorating winter dip."
+              }
+            },
+            {
+              "name": "Day end at the lakeside",
+              "tip_5lang": {
+                "de": "Achtung: Der Sonnenuntergang erfolgt bereits gegen 16:30 Uhr.",
+                "hu": "Figyelem: a naplemente már 16:30 körül bekövetkezik.",
+                "ro": "Atenție: apusul are loc deja în jurul orei 16:30.",
+                "en": "Note: sunset occurs as early as 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Winter-Fahrpläne der Nationalpark-Boote.",
+              "Die Tage sind kurz, starten Sie Ihre Wanderung früh.",
+              "Viele Konobas haben im Winter eingeschränkte Öffnungszeiten.",
+              "Bringen Sie eine Thermoskanne mit heißem Tee mit."
+            ],
+            "hu": [
+              "Ellenőrizze a nemzeti parki hajók téli menetrendjét.",
+              "A nappalok rövidek, kezdje korán a túrát.",
+              "Sok étterem zárva tarthat vagy korábban zárhat télen.",
+              "Hozzon magával termoszt forró teával."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă al bărcilor din parcul național.",
+              "Zilele sunt scurte, începeți drumeția cât mai devreme.",
+              "Multe restaurante pot fi închise sau au program redus.",
+              "Aduceți un termos cu ceai fierbinte la voi."
+            ],
+            "en": [
+              "Check the winter ferry schedules for the National Park.",
+              "Days are short, so start your hike early in the morning.",
+              "Many restaurants might have limited hours or be closed.",
+              "Bring a thermos with hot tea for the walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -530,6 +712,188 @@
           "Watch out for hikers.",
           "Staying hydrated is key."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse, aber erfrischende Radtour ab Pomena. Die asphaltierten Wege im Park bieten auch bei Regen guten Halt. In Polače erkunden wir die römischen Ruinen zwischen den Schauern und genießen ein gemütliches Mittagessen am Hafen. Die Überfahrt zum Kloster Sveta Marija bietet eine kurze Pause vom Treten, bevor es im Regen zurück nach Pomena geht.",
+            "hu": "Vizes, de frissítő biciklitúra Pomenából. A park aszfaltozott útjai esőben is jó tapadást biztosítanak. Polačéban a római romokat a záporok között fedezzük fel, majd a kikötőben ebédelünk. A Szent Mária-kolostorhoz tartó hajózás rövid pihenőt ad a tekerésben, mielőtt az esőben visszatérünk Pomenába.",
+            "ro": "O tură cu bicicleta udă, dar revigorantă din Pomena. Drumurile asfaltate oferă aderență bună chiar și pe ploaie. În Polače, explorăm ruinele romane între averse și prânzim în port. Traversarea spre mănăstirea Sfânta Maria oferă o pauză de la pedalat înainte de întoarcerea prin ploaie.",
+            "en": "A wet but refreshing bike tour starting from Pomena. The paved paths in the park offer good grip even in the rain. In Polače, we explore Roman ruins between showers and enjoy lunch by the harbor. The boat crossing to Sveta Marija provides a short break from pedaling before heading back in the rain."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental in Pomena",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Fahrrädern mit Schutzblechen.",
+                "hu": "Kérjen sárvédővel felszerelt kerékpárt.",
+                "ro": "Cereți biciclete echipate cu aripi de protecție.",
+                "en": "Ask for bikes equipped with mudguards."
+              }
+            },
+            {
+              "name": "Mljet National Park (Bike path)",
+              "tip_5lang": {
+                "de": "Vorsicht in scharfen Kurven, der Asphalt kann rutschig sein.",
+                "hu": "Vigyázat az éles kanyarokban, az aszfalt csúszós lehet.",
+                "ro": "Atenție în curbele strânse, asfaltul poate fi alunecos.",
+                "en": "Caution in sharp turns, the asphalt can be slippery."
+              }
+            },
+            {
+              "name": "Late Antiquity Palace Polače",
+              "tip_5lang": {
+                "de": "Die antiken Mauern bieten punktuellen Schutz vor Wind.",
+                "hu": "Az antik falak helyenként védelmet nyújtanak a szél ellen.",
+                "ro": "Zidurile antice oferă protecție parțială împotriva vântului.",
+                "en": "The ancient walls offer partial protection from the wind."
+              }
+            },
+            {
+              "name": "Lunch in Polače Harbor",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit überdachter Terrasse.",
+                "hu": "Válasszon fedett terasszal rendelkező éttermet.",
+                "ro": "Alegeți un restaurant cu terasă acoperită.",
+                "en": "Choose a restaurant with a covered terrace."
+              }
+            },
+            {
+              "name": "Otočić Svete Marije (Crossing)",
+              "tip_5lang": {
+                "de": "Fahrräder bleiben sicher am Ufer geparkt.",
+                "hu": "A kerékpárokat biztonságosan a parton hagyhatja.",
+                "ro": "Bicicletele rămân parcate în siguranță pe mal.",
+                "en": "Bikes remain safely parked on the shore."
+              }
+            },
+            {
+              "name": "Beach and return ride",
+              "tip_5lang": {
+                "de": "Ein schnelles Bad wäscht den Straßenschmutz ab.",
+                "hu": "Egy gyors úszás lemossa az úti port és sarat.",
+                "ro": "O baie rapidă spală murdăria de pe drum.",
+                "en": "A quick swim washes off the road grit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine leichte Regenjacke und eine Brille gegen Spritzwasser.",
+              "Vermeiden Sie starkes Bremsen auf nassen Blättern.",
+              "Prüfen Sie vor Abfahrt den Luftdruck und die Bremsen.",
+              "Ein Handtuch im Rucksack ist nach der Tour sehr hilfreich."
+            ],
+            "hu": [
+              "Viseljen könnyű esőkabátot és szemüveget a felverődő víz ellen.",
+              "Kerülje az erős fékezést a vizes leveleken.",
+              "Indulás előtt ellenőrizze a guminyomást és a fékeket.",
+              "Egy törölköző a hátizsákban nagyon hasznos lesz a túra után."
+            ],
+            "ro": [
+              "Purtați o pelerină ușoară și ochelari contra stropilor de apă.",
+              "Evitați frânarea bruscă pe frunzele ude.",
+              "Verificați presiunea în pneuri și frânele înainte de plecare.",
+              "Un prosop în rucsac va fi foarte util după terminarea turei."
+            ],
+            "en": [
+              "Wear a light raincoat and glasses against road spray.",
+              "Avoid hard braking on wet leaves.",
+              "Check tire pressure and brakes before setting off.",
+              "A towel in your backpack will be very useful after the ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren auf Mljet bedeutet leere Wege und milde Temperaturen. Ab Pomena erkunden wir den Nationalpark ohne die Sommerhitze. Der Palast in Polače lässt sich ohne Menschenmassen intensiv studieren. Nach einem wärmenden Mittagessen besuchen wir die Klosterinsel. Die Rückfahrt erfolgt bei tiefstehender Wintersonne, die die Landschaft in goldenes Licht taucht.",
+            "hu": "A téli biciklizés Mljeten üres utakat és enyhe hőmérsékletet jelent. Pomenából indulva a nyári hőség nélkül járjuk be a parkot. A polačei palota tömeg nélkül alaposan felfedezhető. Melegítő ebéd után látogatjuk meg a kolostorszigetet. A visszaút az alacsonyan járó téli nap arany fényében telik.",
+            "ro": "Ciclismul de iarnă în Mljet înseamnă drumuri libere și temperaturi blânde. Din Pomena explorăm parcul fără arșița verii. Palatul din Polače poate fi studiat în tihnă. După un prânz cald, vizităm insula mănăstirii. Întoarcerea se face sub lumina aurie a soarelui de iarnă.",
+            "en": "Winter cycling on Mljet means empty paths and mild temperatures. Starting from Pomena, we explore the park without the summer heat. The palace in Polače can be studied thoroughly without the crowds. After a warming lunch, we visit the monastery island. The return ride is bathed in the golden light of the low winter sun."
+          },
+          "stops": [
+            {
+              "name": "Bike Rental in Pomena",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe gegen den kühlen Fahrtwind.",
+                "hu": "Viseljen kesztyűt a hűvös menetszél ellen.",
+                "ro": "Purtați mănuși împotriva vântului rece de mișcare.",
+                "en": "Wear gloves against the cool headwind."
+              }
+            },
+            {
+              "name": "Mljet National Park (Bike path)",
+              "tip_5lang": {
+                "de": "Perfekte Temperaturen für körperliche Anstrengung.",
+                "hu": "Tökéletes hőmérséklet az aktív testmozgáshoz.",
+                "ro": "Temperaturi perfecte pentru efort fizic activ.",
+                "en": "Perfect temperatures for active physical exertion."
+              }
+            },
+            {
+              "name": "Late Antiquity Palace Polače",
+              "tip_5lang": {
+                "de": "Keine Wartezeiten an den antiken Monumenten.",
+                "hu": "Nincs várakozási idő az antik műemlékeknél.",
+                "ro": "Nu există timp de așteptare la monumentele antice.",
+                "en": "No waiting times at the ancient monuments."
+              }
+            },
+            {
+              "name": "Lunch in Polače Harbor",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das ruhige Wintermeer.",
+                "hu": "Élvezze a kilátást a nyugodt téli tengerre.",
+                "ro": "Bucurați-vă de priveliștea mării calme de iarnă.",
+                "en": "Enjoy the view of the calm winter sea."
+              }
+            },
+            {
+              "name": "Otočić Svete Marije (Crossing)",
+              "tip_5lang": {
+                "de": "Das Boot fährt im Winter seltener, Fahrplan beachten.",
+                "hu": "A hajó télen ritkábban jár, figyelje a menetrendet.",
+                "ro": "Barca circulă mai rar iarna, atenție la orar.",
+                "en": "The boat runs less frequently in winter; watch the schedule."
+              }
+            },
+            {
+              "name": "Beach and return ride",
+              "tip_5lang": {
+                "de": "Fahren Sie zügig zurück, bevor es abkühlt.",
+                "hu": "Tekerjen tempósan vissza, mielőtt lehűl a levegő.",
+                "ro": "Pedalați susținut spre casă înainte de răcirea serii.",
+                "en": "Ride briskly back before the evening chill sets in."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung nach dem Zwiebelprinzip.",
+              "Die UV-Strahlung ist auch im Winter vorhanden, Sonnenschutz nutzen.",
+              "Nehmen Sie energiereiche Snacks für unterwegs mit.",
+              "Stellen Sie sicher, dass Ihr Fahrrad Reflektoren hat."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, a 'hagyma-elv' szerint.",
+              "Az UV-sugárzás télen is erős lehet, használjon fényvédőt.",
+              "Vigyen magával energiadús rágcsálnivalót az útra.",
+              "Ellenőrizze, hogy a kerékpáron vannak-e prizmák."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, conform principiului foilor de ceapă.",
+              "Radiațiile UV sunt prezente și iarna, folosiți protecție solară.",
+              "Luați cu voi gustări energizante pentru drum.",
+              "Asigurați-vă că bicicleta are elemente reflectorizante."
+            ],
+            "en": [
+              "Dress in layers according to the 'onion principle'.",
+              "UV radiation is present even in winter; use sunscreen.",
+              "Take energy-rich snacks for the journey.",
+              "Ensure your bike has reflectors for visibility."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -815,6 +1179,206 @@
           "Parking space is limited.",
           "Watch out for cyclists."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Inselrundfahrt im Auto, geschützt vor dem Regen. Wir starten am Aussichtspunkt Sobra, wo die Wolken tief über der Bucht hängen. Die Odysseus-Höhle besuchen wir nur bei leichtem Regen, ansonsten genießen wir den Blick von oben. Ein langes Mittagessen in Babino Polje wärmt uns auf. Der antike Palast in Polače und der Strand in Saplunara bieten auch bei Regen dramatische Fotomotive.",
+            "hu": "Kényelmes szigeti körút autóval, védve az esőtől. A sobrai kilátónál kezdünk, ahol a felhők alacsonyan szállnak az öv felett. Az Odüsszeusz-barlangot csak gyenge esőben keressük fel, egyébként fentről csodáljuk. Egy hosszú ebéd Babino Poljében felmelegít. A polačei palota és Saplunara strandja esőben is drámai fotótémát kínál.",
+            "ro": "Un tur relaxant al insulei cu mașina, protejați de ploaie. Începem la punctul de belvedere Sobra, cu nori joși peste golf. Vizităm Peștera lui Ulise doar dacă ploaia e slabă, altfel admirăm de sus. Un prânz lung în Babino Polje ne încălzește. Palatul din Polače și plaja Saplunara oferă cadre dramatice pentru fotografii chiar și pe ploaie.",
+            "en": "A comfortable island tour by car, protected from the rain. We start at the Sobra viewpoint, where clouds hang low over the bay. Visit Odysseus Cave only in light rain; otherwise, enjoy the view from above. A long lunch in Babino Polje warms us up. The palace in Polače and Saplunara beach offer dramatic photo opportunities even in the rain."
+          },
+          "stops": [
+            {
+              "name": "Sobra Viewpoint",
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto und genießen Sie das Wolkenspiel.",
+                "hu": "Maradjon az autóban, és élvezze a felhők játékát.",
+                "ro": "Rămâneți în mașină și admirați jocul norilor.",
+                "en": "Stay in the car and enjoy the play of the clouds."
+              }
+            },
+            {
+              "name": "Odisejeva špilja (Odysseus Cave)",
+              "tip_5lang": {
+                "de": "Der Abstiegspfad ist bei Regen extrem rutschig.",
+                "hu": "Az ereszkedő ösvény esőben rendkívül csúszós.",
+                "ro": "Poteca de coborâre este extrem de alunecoasă pe ploaie.",
+                "en": "The descent path is extremely slippery in the rain."
+              }
+            },
+            {
+              "name": "Lunch in Babino Polje",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Restauranteingang.",
+                "hu": "Parkoljon minél közelebb az étterem bejáratához.",
+                "ro": "Parcați cât mai aproape de intrarea restaurantului.",
+                "en": "Park as close to the restaurant entrance as possible."
+              }
+            },
+            {
+              "name": "Polače (Cluster B)",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen Auto und Sehenswürdigkeiten.",
+                "hu": "Rövid sétatávolság az autó és a látnivalók között.",
+                "ro": "Distanțe scurte de mers între mașină și obiective.",
+                "en": "Short walking distances between car and sights."
+              }
+            },
+            {
+              "name": "Late Antiquity Palace Polače",
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist für die Ruinenbesichtigung nötig.",
+                "hu": "A romok bejárásához esernyő szükséges.",
+                "ro": "O umbrelă este necesară pentru vizitarea ruinelor.",
+                "en": "An umbrella is necessary for visiting the ruins."
+              }
+            },
+            {
+              "name": "Saplunara Beach",
+              "tip_5lang": {
+                "de": "Das graue Meer wirkt hier besonders majestätisch.",
+                "hu": "A szürke tenger itt különösen fenséges látvány.",
+                "ro": "Marea gri arată deosebit de maiestuos aici.",
+                "en": "The gray sea looks particularly majestic here."
+              }
+            },
+            {
+              "name": "Ending in Saplunara",
+              "tip_5lang": {
+                "de": "Warten Sie den Regen im Auto bei Musik ab.",
+                "hu": "Várja meg az eső végét az autóban, zenét hallgatva.",
+                "ro": "Așteptați oprirea ploii în mașină ascultând muzică.",
+                "en": "Wait out the rain in the car while listening to music."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht auf den engen Inselstraßen bei Aquaplaning-Gefahr.",
+              "Stellen Sie sicher, dass Ihre Scheibenwischer einwandfrei funktionieren.",
+              "Halten Sie die Scheinwerfer auch tagsüber eingeschaltet.",
+              "Ein Mikrofasertuch hilft gegen beschlagene Scheiben."
+            ],
+            "hu": [
+              "Vigyázzon a szűk utakon az aquaplaning (vízen felúszás) veszélye miatt.",
+              "Ellenőrizze, hogy az ablaktörlők tökéletesen működnek-e.",
+              "Tartsa bekapcsolva a fényszórókat nappal is.",
+              "Egy mikroszálas kendő segíthet a bepárásodott szélvédőn."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile înguste ale insulei.",
+              "Asigurați-vă că ștergătoarele funcționează perfect.",
+              "Păstrați farurile aprinse și pe timpul zilei.",
+              "O lavetă din microfibră ajută contra parbrizului aburit."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the narrow island roads.",
+              "Ensure your windshield wipers are in perfect condition.",
+              "Keep your headlights on even during the day.",
+              "A microfiber cloth helps with fogged-up windows."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Insel Mljet gehört Ihnen im Winter fast allein. Die Fahrt beginnt in Sobra mit einer klaren Sicht bis zum Festland. Bei der Odysseus-Höhle genießen wir die Ruhe ohne Badegäste. Das Mittagessen in Babino Polje ist ein lokales Erlebnis. In Polače und Saplunara erleben wir die unberührte Natur in ihrer winterlichen Pracht, gekrönt von einem frühen, farbenfrohen Sonnenuntergang am Strand.",
+            "hu": "Mljet szigete télen szinte csak az öné. Az út Sobrában indul, ahonnan tiszta időben a szárazföldig is ellátni. Az Odüsszeusz-barlangnál élvezzük a nyugalmat fürdőzők nélkül. Az ebéd Babino Poljében igazi helyi élmény. Polačéban és Saplunarát érintetlen téli pompájában látjuk, a napot egy korai, színes naplemente koronázza meg.",
+            "ro": "Insula Mljet este aproape doar a voastră iarna. Drumul începe în Sobra cu o vizibilitate clară până la continent. La Peștera lui Ulise ne bucurăm de liniște fără turiști. Prânzul în Babino Polje este o experiență locală autentică. Polače și Saplunara ne arată natura virgină în splendoarea iernii, cu un apus colorat.",
+            "en": "Mljet island belongs almost exclusively to you in winter. The drive starts in Sobra with clear views all the way to the mainland. At Odysseus Cave, enjoy the peace without the swimmers. Lunch in Babino Polje is a true local experience. Polače and Saplunara show off untouched nature in winter splendor, crowned by an early, colorful sunset."
+          },
+          "stops": [
+            {
+              "name": "Sobra Viewpoint",
+              "tip_5lang": {
+                "de": "Klarste Fernsicht des ganzen Jahres.",
+                "hu": "Az egész év legtisztább távoli kilátása.",
+                "ro": "Cea mai clară vizibilitate la distanță din tot anul.",
+                "en": "Clearest distant views of the entire year."
+              }
+            },
+            {
+              "name": "Odisejeva špilja (Odysseus Cave)",
+              "tip_5lang": {
+                "de": "Kein Anstehen für Fotos am Höhleneingang.",
+                "hu": "Nincs sorban állás a barlangbejáratnál a fotókért.",
+                "ro": "Fără cozi pentru fotografii la intrarea în peșteră.",
+                "en": "No queuing for photos at the cave entrance."
+              }
+            },
+            {
+              "name": "Lunch in Babino Polje",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Herzen der Insel.",
+                "hu": "Élvezze a nyugalmat a sziget szívében.",
+                "ro": "Bucurați-vă de liniște în inima insulei.",
+                "en": "Enjoy the tranquility in the heart of the island."
+              }
+            },
+            {
+              "name": "Polače (Cluster B)",
+              "tip_5lang": {
+                "de": "Einfaches Parken direkt an den Ruinen.",
+                "hu": "Egyszerű parkolás közvetlenül a romoknál.",
+                "ro": "Parcare ușoară direct lângă ruine.",
+                "en": "Easy parking right by the ruins."
+              }
+            },
+            {
+              "name": "Late Antiquity Palace Polače",
+              "tip_5lang": {
+                "de": "Die Steine speichern tagsüber die milde Wintersonne.",
+                "hu": "A kövek nappal elnyelik az enyhe téli nap melegét.",
+                "ro": "Pietrele înmagazinează căldura soarelui blând de iarnă.",
+                "en": "The stones absorb the warmth of the mild winter sun."
+              }
+            },
+            {
+              "name": "Saplunara Beach",
+              "tip_5lang": {
+                "de": "Ideal für einen einsamen Strandspaziergang.",
+                "hu": "Ideális egy magányos tengerparti sétához.",
+                "ro": "Ideal pentru o plimbare solitară pe plajă.",
+                "en": "Ideal for a solitary walk on the beach."
+              }
+            },
+            {
+              "name": "Ending in Saplunara",
+              "tip_5lang": {
+                "de": "Nehmen Sie Decken für den Sonnenuntergang mit.",
+                "hu": "Vigyen magával takarót a naplemente nézéséhez.",
+                "ro": "Luați pături pentru a privi apusul.",
+                "en": "Take blankets with you for watching the sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tanken Sie voll, da einige Tankstellen Winterpausen machen.",
+              "Prüfen Sie den Reifendruck vor Fahrten in die Berge.",
+              "Fahren Sie vorsichtig bei möglichem Glatteis in Schattenlagen.",
+              "Hinterlassen Sie Ihren Reiseplan bei Ihrer Unterkunft."
+            ],
+            "hu": [
+              "Tankoljon tele, mert néhány benzinkút zárva tarthat.",
+              "Ellenőrizze a guminyomást a hegyi utak előtt.",
+              "Vezessen óvatosan, árnyékos helyeken lefagyás lehet.",
+              "Hagyja meg útitervét a szállásadójánál."
+            ],
+            "ro": [
+              "Faceți plinul, unele benzinării pot fi închise.",
+              "Verificați presiunea în pneuri înainte de drumurile montane.",
+              "Conduceți prudent, poate exista polei în zonele umbrite.",
+              "Lăsați itinerariul vostru la locul de cazare."
+            ],
+            "en": [
+              "Fill up your tank as some gas stations may be closed.",
+              "Check tire pressure before driving into the hills.",
+              "Drive carefully as there might be ice in shaded areas.",
+              "Leave your travel itinerary with your host."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1054,6 +1618,170 @@
           "Watch the connection times.",
           "Keep water with you."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Inselfahrzeug erkunden wir Mljet wetterfest. Ab Sobra bringt uns der Bus nach Babino Polje, wo wir das Inselzentrum im Regen erleben. Weiter geht es nach Polače, dem Tor zum Nationalpark. Die Wanderung zu den Seen unternehmen wir gut geschützt, bevor wir uns bei einem warmen Getränk aufwärmen und mit dem Bus zurück zum Hafen fahren.",
+            "hu": "A szigeti busszal fedetten fedezzük fel Mljettet. Sobrából indulva Babino Poljébe érünk, ahol esőben is zajlik az élet. Folytatjuk utunkat Polačéba, a nemzeti park kapujába. A tavakhoz vezető sétát jól felkészülve tesszük meg, majd egy meleg ital után busszal térünk vissza a kikötőbe.",
+            "ro": "Explorăm Mljet cu autobuzul insulei, feriți de intemperii. Din Sobra mergem la Babino Polje, inima insulei. Continuăm spre Polače, poarta parcului național. Plimbarea spre lacuri se face cu echipament adecvat, apoi ne încălzim cu o băutură caldă înainte de returul spre port.",
+            "en": "Explore Mljet weather-proof with the island bus. From Sobra, the bus takes us to Babino Polje, the island's heart. We continue to Polače, the gateway to the National Park. The walk to the lakes is done with proper gear, followed by a warm drink before taking the bus back to the harbor."
+          },
+          "stops": [
+            {
+              "name": "Sobra Bus Stop (Port)",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Wartebereich.",
+                "hu": "Várjon a fedett utasváróban.",
+                "ro": "Așteptați în zona de așteptare acoperită.",
+                "en": "Wait in the covered waiting area."
+              }
+            },
+            {
+              "name": "Babino Polje (Center)",
+              "tip_5lang": {
+                "de": "Kleine Läden bieten Schutz vor plötzlichen Güssen.",
+                "hu": "A kisboltok menedéket adnak a hirtelen záporok elől.",
+                "ro": "Magazinele mici oferă adăpost contra averselor bruște.",
+                "en": "Small shops offer shelter from sudden downpours."
+              }
+            },
+            {
+              "name": "Polače (National Park Bus)",
+              "tip_5lang": {
+                "de": "Holen Sie sich Informationen im Parkbüro.",
+                "hu": "Kérjen friss infókat a nemzeti park irodájában.",
+                "ro": "Cereți informații la biroul parcului.",
+                "en": "Get information at the park office."
+              }
+            },
+            {
+              "name": "Mljet National Park (Lakes)",
+              "tip_5lang": {
+                "de": "Die Elektroboote auf den Seen sind überdacht.",
+                "hu": "A tavakon közlekedő elektromos hajók fedettek.",
+                "ro": "Bărcile electrice de pe lacuri sunt acoperite.",
+                "en": "The electric boats on the lakes are covered."
+              }
+            },
+            {
+              "name": "Return to Harbor",
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig, um nicht im Regen zu warten.",
+                "hu": "Érkezzen időben, hogy ne kelljen az esőben állnia.",
+                "ro": "Sosiți la timp pentru a nu aștepta în ploaie.",
+                "en": "Arrive on time to avoid waiting in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Bargeld für das Busticket bereit.",
+              "Die Busse fahren bei Regen oft vorsichtiger und langsamer.",
+              "Tragen Sie Kleidung, die in beheizten Bussen nicht zu warm ist.",
+              "Ein kleiner Regenschirm passt gut in die Seitentasche."
+            ],
+            "hu": [
+              "Legyen önnél készpénz a buszjegyhez.",
+              "A buszok esőben gyakran óvatosabban és lassabban közlekednek.",
+              "Viseljen olyan ruhát, ami a fűtött buszon sem túl meleg.",
+              "Egy kis esernyő könnyen elfér az oldalzsebben."
+            ],
+            "ro": [
+              "Aveți bani gheață pregătiți pentru biletul de autobuz.",
+              "Autobuzele circulă adesea mai prudent și lent pe ploaie.",
+              "Purtați haine care nu sunt prea groase pentru autobuzul încălzit.",
+              "O umbrelă mică încape ușor în buzunarul lateral."
+            ],
+            "en": [
+              "Have cash ready for the bus ticket.",
+              "Buses often drive more cautiously and slowly in the rain.",
+              "Wear layers so you don't overheat in the heated bus.",
+              "A small umbrella fits easily in a side pocket."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Entdeckungsreise mit dem lokalen Bus. Ab Sobra geht es durch die ruhige Insellandschaft nach Babino Polje. Wir erleben das authentische Mljet ohne Sommertrubel. In Polače genießen wir die kühle Luft am Nationalparkeingang. Der Spaziergang an den Seen ist im Winter besonders friedlich, bevor uns der Bus pünktlich vor Einbruch der Dunkelheit zum Hafen zurückbringt.",
+            "hu": "Téli felfedezőút a helyi busszal. Sobrából indulva a békés szigeti tájon át érünk Babino Poljébe. Megismerjük az igazi Mljettet a nyári nyüzsgés nélkül. Polačéban élvezzük a friss levegőt a park bejáratánál. A tavi séta télen különösen békés, mielőtt a busz sötétedés előtt visszavisz a kikötőbe.",
+            "ro": "O călătorie de iarnă cu autobuzul local. Din Sobra trecem prin peisajul liniștit spre Babino Polje. Descoperim Mljet-ul autentic fără agitația verii. În Polače ne bucurăm de aerul curat la intrarea în parc. Plimbarea la lacuri este foarte pașnică iarna, înainte ca autobuzul să ne ducă înapoi.",
+            "en": "A winter discovery trip using the local bus. From Sobra, we travel through the peaceful island landscape to Babino Polje. Experience the authentic Mljet without the summer bustle. In Polače, enjoy the crisp air at the park entrance. The lakeside walk is especially peaceful in winter before the bus returns us to the port."
+          },
+          "stops": [
+            {
+              "name": "Sobra Bus Stop (Port)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den speziellen Winterfahrplan vorab.",
+                "hu": "Előre ellenőrizze a speciális téli menetrendet.",
+                "ro": "Verificați orarul special de iarnă în prealabil.",
+                "en": "Check the special winter schedule in advance."
+              }
+            },
+            {
+              "name": "Babino Polje (Center)",
+              "tip_5lang": {
+                "de": "Beobachten Sie das lokale Leben im Winter.",
+                "hu": "Figyelje meg a helyiek mindennapjait télen.",
+                "ro": "Observați viața locală pe timp de iarnă.",
+                "en": "Observe local daily life during the winter."
+              }
+            },
+            {
+              "name": "Polače (National Park Bus)",
+              "tip_5lang": {
+                "de": "Der Bus ist die einzige zuverlässige Verbindung im Winter.",
+                "hu": "Télen a busz az egyetlen megbízható közlekedési mód.",
+                "ro": "Autobuzul este singura legătură sigură pe timp de iarnă.",
+                "en": "The bus is the only reliable connection in winter."
+              }
+            },
+            {
+              "name": "Mljet National Park (Lakes)",
+              "tip_5lang": {
+                "de": "Die Boote fahren seltener, Fahrzeiten im Blick behalten.",
+                "hu": "A hajók ritkábban járnak, figyelje az indulási időket.",
+                "ro": "Bărcile circulă rar, supravegheați orele de plecare.",
+                "en": "Boats run less often; keep an eye on departure times."
+              }
+            },
+            {
+              "name": "Return to Harbor",
+              "tip_5lang": {
+                "de": "Der letzte Bus fährt oft kurz nach Sonnenuntergang.",
+                "hu": "Az utolsó busz gyakran röviddel naplemente után indul.",
+                "ro": "Ultimul autobuz pleacă adesea după apusul soarelui.",
+                "en": "The last bus often leaves shortly after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busverbindungen sind im Winter auf die Fähren abgestimmt.",
+              "Im Bus ist es angenehm warm, ideal zum Aufwärmen.",
+              "Tragen Sie Reflektoren, falls Sie zum Bus zurücklaufen.",
+              "Planen Sie Pufferzeiten ein, falls ein Bus ausfällt."
+            ],
+            "hu": [
+              "A buszjáratokat télen a kompokhoz igazítják.",
+              "A buszban kellemes meleg van, jó hely a felmelegedésre.",
+              "Viseljen fényvisszaverőt, ha sötétben gyalogol a buszhoz.",
+              "Tervezzen be tartalékidőt az esetleges késések miatt."
+            ],
+            "ro": [
+              "Cursa de autobuz este sincronizată cu feriboturile iarna.",
+              "În autobuz este cald, un loc bun pentru reîncălzire.",
+              "Purtați elemente reflectorizante dacă mergeți pe jos spre stație.",
+              "Planificați timp de rezervă pentru eventuale întârzieri."
+            ],
+            "en": [
+              "Bus connections are synchronized with ferries in winter.",
+              "The bus interior is comfortably warm, great for warming up.",
+              "Wear reflectors if walking to the bus stop in the dark.",
+              "Plan some buffer time in case of any delays."
+            ]
+          }
+        }
       }
     }
   }

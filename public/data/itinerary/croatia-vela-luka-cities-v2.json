@@ -288,6 +288,206 @@
           "Vela Luka is famous for its choir music; look out for evening performances.",
           "The town center is flat, but the path to the cave is steep."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt besinnlich in der St. Joseph Kirche, einem idealen Rückzugsort vor dem Regen. Mittags bietet das Kulturzentrum mit seinen Mosaiken trockenen Schutz und tiefe Einblicke in die Inselgeschichte. Am Nachmittag schlendern wir unter dem Regenschirm die Riva entlang zu einer gemütlichen Konoba für ein langes Mittagessen. Den Tag beschließen wir in der gewaltigen Vela Spila Höhle, die uns wie ein natürliches Dach hoch über dem Hafen vor den Elementen schützt.",
+            "hu": "A reggel a Szent József-templom belső nyugalmával indul, védve a szemerkélő esőtől. Délben a Kulturális Központ kiállításai és világhírű mozaikjai nyújtanak száraz menedéket a Riva mellett. Délután egy hangulatos konobában élvezzük a helyi ízeket, amíg kint dobol az eső az ablakon. Az estét a Vela Spila hatalmas barlangjában zárjuk, amely természetes tetőként óv meg minket a kikötő felett, egyedülálló hangulatot árasztva.",
+            "ro": "Dimineața începe liniștit în Biserica Sfântul Iosif, un refugiu ideal împotriva ploii. La prânz, Centrul Cultural oferă adăpost uscat și o incursiune în istoria insulei prin mozaicurile sale. După-amiaza ne plimbăm cu umbrela pe faleză spre o tavernă primitoare pentru un prânz prelungit. Încheiem ziua în uriașa peșteră Vela Spila, care ne protejează de intemperii ca un acoperiș natural deasupra portului.",
+            "en": "The morning starts peacefully in St. Joseph's Church, a perfect retreat from the drizzle. At noon, the Culture Center provides a dry shelter and deep insights into the island's history through its mosaics. In the afternoon, we stroll with an umbrella along the Riva to a cozy konoba for a long, hearty lunch. We conclude the day in the massive Vela Spila cave, which protects us from the elements like a natural roof high above the harbor."
+          },
+          "stops": [
+            {
+              "name": "Crkva svetog Josipa",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im Inneren, während es draußen regnet.",
+                "hu": "Élvezze a belső csendet, amíg kint esik az eső.",
+                "ro": "Bucurați-vă de liniștea din interior în timp ce afară plouă.",
+                "en": "Enjoy the inner silence while it rains outside."
+              }
+            },
+            {
+              "name": "Centar za kulturu",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Regenzeit bei archäologischen Funden zu verbringen.",
+                "hu": "Tökéletes hely az eső elöli menedékre a leletek között.",
+                "ro": "Locul perfect pentru a aștepta trecerea ploii printre exponate.",
+                "en": "Perfect place to wait out the rain among archaeological finds."
+              }
+            },
+            {
+              "name": "Uferpromenade Riva",
+              "tip_5lang": {
+                "de": "Vorsicht auf den glatten Steinplatten bei Nässe.",
+                "hu": "Vigyázzon a vizesen csúszós kőlapokra a parton.",
+                "ro": "Atenție la plăcile de piatră alunecoase când sunt ude.",
+                "en": "Be careful on the stone slabs, which are slippery when wet."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz am Fenster, um den Regen im Hafen zu beobachten.",
+                "hu": "Válasszon ablak melletti asztalt a kikötői eső látványához.",
+                "ro": "Alegeți o masă la fereastră pentru a vedea ploaia în port.",
+                "en": "Choose a window seat to watch the rain over the harbor."
+              }
+            },
+            {
+              "name": "Vela Spila",
+              "tip_5lang": {
+                "de": "Die Höhle bleibt trocken, aber der Aufstieg kann rutschig sein.",
+                "hu": "A barlang belül száraz, de a felfelé vezető út csúszhat.",
+                "ro": "Peștera rămâne uscată, dar urcarea poate fi alunecoasă.",
+                "en": "The cave stays dry inside, but the path up can be slippery."
+              }
+            },
+            {
+              "name": "Strandpause am Meer",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Pinien oder in einer Strandbar.",
+                "hu": "Keressen menedéket a fenyők alatt vagy egy parti bárban.",
+                "ro": "Căutați adăpost sub pini sau într-un bar de pe plajă.",
+                "en": "Seek shelter under the pines or in a beach bar."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Hafen",
+              "tip_5lang": {
+                "de": "Ein dramatischer Himmel spiegelt sich im nassen Asphalt.",
+                "hu": "A drámai égbolt visszatükröződik a vizes aszfalton.",
+                "ro": "Cerul dramatic se reflectă în asfaltul ud.",
+                "en": "The dramatic sky reflects on the wet pavement."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit, da der Wind am Hafen oft stark ist.",
+              "Die Riva-Steinplatten sind bei Regen extrem rutschig.",
+              "Das Kulturzentrum ist der beste Ort für längere Schauer.",
+              "Die Vela Spila bietet natürlichen Schutz vor Regen."
+            ],
+            "hu": [
+              "Vigyen erős esernyőt, mert a kikötőben gyakran fúj a szél.",
+              "A Riva kőlapjai esőben rendkívül csúszósak.",
+              "A Kulturális Központ a legjobb hely a tartós eső idejére.",
+              "A Vela Spila természetes védelmet nyújt a csapadék ellen."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă, deoarece vântul în port este adesea puternic.",
+              "Plăcile de piatră de pe faleză sunt extrem de alunecoase pe ploaie.",
+              "Centrul Cultural este cel mai bun loc în timpul ploilor de durată.",
+              "Vela Spila oferă protecție naturală împotriva ploii."
+            ],
+            "en": [
+              "Take a sturdy umbrella, as the wind in the harbor is often strong.",
+              "The Riva stone slabs are extremely slippery in the rain.",
+              "The Culture Center is the best place during long showers.",
+              "Vela Spila offers natural protection from the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frische Wintermorgen beginnt an der St. Joseph Kirche im ruhigen Ortskern. Mittags wärmen wir uns im Kulturzentrum auf, während die klare Luft eine fantastische Sicht auf das Meer bietet. Nach einem deftigen Mittagessen an der Riva steigen wir zur Vela Spila auf, wo es in der Tiefe der Höhle oft milder ist als draußen. Der Tag endet früh mit einem Spaziergang am leeren Strand, bevor die Wintersonne bereits gegen 16:30 Uhr hinter den Hügeln verschwindet.",
+            "hu": "A friss téli reggel a Szent József-templomnál indul a csendes városközpontban. Délben a Kulturális Központban melegszünk fel, miközben a tiszta téli levegő fantasztikus kilátást enged a tengerre. A Riva egyik konobájában elköltött tartalmas ebéd után felsétálunk a Vela Spilához, ahol a barlang mélyén gyakran enyhébb az idő, mint kint. A nap korán zárul egy sétával az üres strandon, mielőtt a téli nap már fél öt körül eltűnik a dombok mögött.",
+            "ro": "Dimineața proaspătă de iarnă începe la Biserica Sfântul Iosif, în centrul liniștit. La prânz ne încălzim în Centrul Cultural, în timp ce aerul curat oferă o vedere fantastică spre mare. După un prânz consistent pe faleză, urcăm la Vela Spila, unde în adâncul peșterii este adesea mai blând decât afară. Ziua se încheie devreme cu o plimbare pe plaja pustie, înainte ca soarele de iarnă să dispară după dealuri în jurul orei 16:30.",
+            "en": "The crisp winter morning begins at St. Joseph's Church in the quiet town center. At noon, we warm up in the Culture Center, while the clear winter air offers a fantastic view of the sea. After a hearty lunch at the Riva, we hike up to Vela Spila, where the cave's depths are often milder than outside. The day ends early with a walk on the empty beach before the winter sun disappears behind the hills around 4:30 PM."
+          },
+          "stops": [
+            {
+              "name": "Crkva svetog Josipa",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am Morgen, wenn sie am sonnigsten ist.",
+                "hu": "Látogassa meg a templomot reggel, amikor a legnaposabb.",
+                "ro": "Vizitați biserica dimineața, când este cel mai mult soare.",
+                "en": "Visit the church in the morning when it's sunniest."
+              }
+            },
+            {
+              "name": "Centar za kulturu",
+              "tip_5lang": {
+                "de": "Ein gut beheizter Ort, um der Winterkälte zu entfliehen.",
+                "hu": "Jól fűtött hely a téli hideg elöli menekülésre.",
+                "ro": "Un loc bine încălzit pentru a scăpa de frigul iernii.",
+                "en": "A well-heated place to escape the winter chill."
+              }
+            },
+            {
+              "name": "Uferpromenade Riva",
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre ohne sommerliche Touristenmassen.",
+                "hu": "Élvezze a nyugodt hangulatot a nyári tömeg nélkül.",
+                "ro": "Bucurați-vă de atmosfera liniștită fără masele de turiști.",
+                "en": "Enjoy the quiet atmosphere without the summer crowds."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Winterspezialitäten wie Pašticada.",
+                "hu": "Kóstolja meg a helyi téli ételeket, például a Pašticadát.",
+                "ro": "Gustați specialitățile locale de iarnă, cum ar fi Pašticada.",
+                "en": "Try local winter specialties like Pašticada."
+              }
+            },
+            {
+              "name": "Vela Spila",
+              "tip_5lang": {
+                "de": "Die Höhle hält im Winter eine relativ konstante Temperatur.",
+                "hu": "A barlang télen viszonylag állandó hőmérsékletet tart.",
+                "ro": "Peștera menține o temperatură relativ constantă iarna.",
+                "en": "The cave maintains a relatively constant temperature in winter."
+              }
+            },
+            {
+              "name": "Strandpause am Meer",
+              "tip_5lang": {
+                "de": "Perfekt für einen meditativen Spaziergang an der frischen Luft.",
+                "hu": "Tökéletes egy meditatív sétára a friss levegőn.",
+                "ro": "Perfect pentru o plimbare meditativă în aer curat.",
+                "en": "Perfect for a meditative walk in the fresh air."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Hafen",
+              "tip_5lang": {
+                "de": "Achtung: Der Sonnenuntergang findet bereits gegen 16:30 Uhr statt.",
+                "hu": "Figyelem: a naplemente már 16:30 körül bekövetkezik.",
+                "ro": "Atenție: apusul are loc deja în jurul orei 16:30.",
+                "en": "Note: sunset happens early, around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schichten, da der Bura-Wind sehr kalt sein kann.",
+              "Die meisten Strandcafés sind geschlossen, die Cafés im Hafen haben offen.",
+              "Planen Sie Outdoor-Aktivitäten vor 16:00 Uhr ein.",
+              "Genießen Sie die kristallklare Sicht, die es nur im Winter gibt."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, mert a bura szél nagyon hideg lehet.",
+              "A legtöbb strandbár zárva van, a kikötői kávézók nyitva tartanak.",
+              "Tervezze a kinti programokat 16:00 óra elé.",
+              "Élvezze a kristálytiszta kilátást, ami csak télen jellemző."
+            ],
+            "ro": [
+              "Purtați haine în straturi, deoarece vântul Bura poate fi foarte rece.",
+              "Majoritatea barurilor de pe plajă sunt închise, cafenelele din port sunt deschise.",
+              "Planificați activitățile în aer liber înainte de ora 16:00.",
+              "Bucurați-vă de vizibilitatea de cristal, specifică doar iernii."
+            ],
+            "en": [
+              "Wear layers, as the Bura wind can be very cold.",
+              "Most beach bars are closed, but harbor cafes remain open.",
+              "Plan outdoor activities before 4:00 PM.",
+              "Enjoy the crystal-clear views that only winter provides."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -512,6 +712,188 @@
           "Take plenty of water for the climb to Hum.",
           "The coastal road has low traffic and is safe."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen erklimmen wir am Morgen den Hum, wobei der nasse Asphalt volle Konzentration erfordert. Mittags bietet die Vela Spila einen trockenen Rastplatz für Radfahrer hoch über der Bucht. Nach einer kurzen Abfahrt wärmen wir uns in der St. Joseph Kirche im Zentrum auf, bevor ein herzhaftes Mittagessen im Hafen neue Energie spendet. Den Nachmittag nutzen wir für eine kühlere Fahrt zur Bucht Gradina, wobei die spritzende Gischt des Meeres mit dem Regen verschmilzt.",
+            "hu": "Az eső ellenére reggel feltekerünk a Hum-hegyre, ahol a vizes aszfalt teljes koncentrációt igényel. Délben a Vela Spila száraz pihenőhelyet nyújt a kerékpárosoknak magasan az öböl felett. Egy rövid legurulás után a Szent József-templomban melegszünk fel, majd egy tartalmas ebéd a kikötőben ad új energiát. A délutánt a Gradina-öböl felé vezető úton töltjük, ahol a tenger felcsapó permete összeolvad az esővel.",
+            "ro": "În ciuda ploii, urcăm dimineața pe dealul Hum, unde asfaltul ud necesită concentrare maximă. La prânz, Vela Spila oferă un loc de odihnă uscat pentru bicicliști, sus deasupra golfului. După o coborâre scurtă, ne încălzim în Biserica Sfântul Iosif din centru, urmată de un prânz consistent în port. După-amiaza o petrecem pe drumul spre golful Gradina, unde stropii mării se contopesc cu ploaia.",
+            "en": "Despite the rain, we climb Hum Hill in the morning, where the wet asphalt requires full concentration. At noon, Vela Spila offers a dry resting spot for cyclists high above the bay. After a quick descent, we warm up in St. Joseph's Church in the center, followed by a hearty lunch in the harbor. We spend the afternoon riding toward Gradina Bay, where the sea spray merges with the rain."
+          },
+          "stops": [
+            {
+              "name": "Hum",
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt auf nassen Straßen.",
+                "hu": "Vigyázzon a lejtőn a vizes utakon.",
+                "ro": "Atenție la coborâre pe drumurile ude.",
+                "en": "Be careful during the descent on wet roads."
+              }
+            },
+            {
+              "name": "Vela Spila",
+              "tip_5lang": {
+                "de": "Sicherer, trockener Ort zum Abstellen der Fahrräder am Eingang.",
+                "hu": "Biztonságos, száraz hely a bicikliknek a bejáratnál.",
+                "ro": "Loc sigur și uscat pentru biciclete la intrare.",
+                "en": "Safe, dry place to park bikes at the entrance."
+              }
+            },
+            {
+              "name": "Crkva svetog Josipa",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen im Herzen des Ortes.",
+                "hu": "Rövid pihenő szárazon a város szívében.",
+                "ro": "Scurtă pauză la uscat în inima localității.",
+                "en": "Short dry break in the heart of the town."
+              }
+            },
+            {
+              "name": "Mittagessen im Hafen",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit überdachtem Außenbereich für die Räder.",
+                "hu": "Keressen fedett tárolóval rendelkező helyet a gépeknek.",
+                "ro": "Căutați un local cu spațiu acoperit pentru biciclete.",
+                "en": "Look for a place with covered storage for the bikes."
+              }
+            },
+            {
+              "name": "Küstenfahrt zur Bucht Gradina",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen und schlammige Abschnitte am Straßenrand.",
+                "hu": "Ügyeljen a tócsákra és a saras szakaszokra az út szélén.",
+                "ro": "Atenție la bălți și porțiunile noroioase de pe marginea drumului.",
+                "en": "Watch out for puddles and muddy sections by the roadside."
+              }
+            },
+            {
+              "name": "Hafen-Gelato",
+              "tip_5lang": {
+                "de": "Ein heißer Tee ist jetzt vielleicht besser als Eis.",
+                "hu": "Egy forró tea most talán jobb, mint a fagylalt.",
+                "ro": "Un ceai fierbinte ar putea fi mai bun decât înghețata acum.",
+                "en": "A hot tea might be better than gelato right now."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie wasserfeste Packtaschen für Ihre Ausrüstung.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nasser Fahrbahn.",
+              "Tragen Sie helle Kleidung oder Reflektoren bei schlechter Sicht.",
+              "Die Abfahrt vom Hum kann bei Regen tückisch sein."
+            ],
+            "hu": [
+              "Használjon vízálló táskákat a felszereléséhez.",
+              "Csökkentse kicsit a guminyomást a jobb tapadásért vizes úton.",
+              "Viseljen világos ruhát vagy fényvisszaverőt rossz látási viszonyoknál.",
+              "A Humról való legurulás trükkös lehet esőben."
+            ],
+            "ro": [
+              "Folosiți genți impermeabile pentru echipament.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe carosabil ud.",
+              "Purtați haine reflectorizante în condiții de vizibilitate redusă.",
+              "Coborârea de pe Hum poate fi periculoasă pe ploaie."
+            ],
+            "en": [
+              "Use waterproof bags for your gear.",
+              "Reduce tire pressure slightly for better grip on wet roads.",
+              "Wear bright or reflective clothing in poor visibility.",
+              "The descent from Hum can be tricky in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen radeln wir zum Hum, wo die kühle Brise die Anstrengung belohnt. Mittags erreichen wir die Vela Spila, deren monumentale Öffnung im Winterlicht besonders eindrucksvoll wirkt. Nach einem Stopp an der St. Joseph Kirche genießen wir ein wärmendes Mittagessen im Hafenviertel. Die ruhige Fahrt zur Bucht Gradina bietet im Winter meditative Stille, bevor wir pünktlich zum frühen Sonnenuntergang für ein heißes Getränk in den Hafen zurückkehren.",
+            "hu": "Egy tiszta téli reggelen a Hum felé vesszük az irányt, ahol a hűvös szellő kárpótol az erőfeszítésért. Délben érjük el a Vela Spilát, melynek hatalmas bejárata a téli fényben különösen lenyűgöző. A Szent József-templomnál tett megálló után melengető ebédet fogyasztunk a kikötőben. A csendes tekerés a Gradina-öbölhöz meditatív nyugalmat áraszt télen, mielőtt a korai naplementére visszatérünk egy forró italra.",
+            "ro": "Într-o dimineață senină de iarnă, pedalăm spre Hum, unde briza rece răsplătește efortul. La prânz ajungem la Vela Spila, a cărei deschidere monumentală pare deosebit de impresionantă în lumina iernii. După o oprire la Biserica Sfântul Iosif, ne bucurăm de un prânz cald în zona portului. Călătoria liniștită spre golful Gradina oferă o tăcere meditativă iarna, înainte de a ne întoarce în port pentru o băutură caldă la apus.",
+            "en": "On a clear winter morning, we cycle to Hum, where the cool breeze rewards the effort. At noon, we reach Vela Spila, whose monumental entrance looks particularly impressive in the winter light. After a stop at St. Joseph's Church, we enjoy a warming lunch in the harbor area. The quiet ride to Gradina Bay offers meditative silence in winter, before returning to the harbor for a hot drink at the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Hum",
+              "tip_5lang": {
+                "de": "Windstopper-Kleidung ist für den Gipfel unerlässlich.",
+                "hu": "Szélálló ruházat elengedhetetlen a csúcson.",
+                "ro": "Hainele rezistente la vânt sunt esențiale pe vârf.",
+                "en": "Windbreaker clothing is essential for the summit."
+              }
+            },
+            {
+              "name": "Vela Spila",
+              "tip_5lang": {
+                "de": "Das Winterlicht fällt tief in die Höhle ein.",
+                "hu": "A téli fény mélyen bevilágít a barlangba.",
+                "ro": "Lumina iernii pătrunde adânc în peșteră.",
+                "en": "Winter light reaches deep into the cave."
+              }
+            },
+            {
+              "name": "Crkva svetog Josipa",
+              "tip_5lang": {
+                "de": "Ruhiger Moment im winterlich stillen Ort.",
+                "hu": "Csendes pillanat a téli nyugalmú városban.",
+                "ro": "Moment de liniște în localitatea tăcută de iarnă.",
+                "en": "Quiet moment in the winter-still town."
+              }
+            },
+            {
+              "name": "Mittagessen im Hafen",
+              "tip_5lang": {
+                "de": "Bevorzugen Sie Plätze in der Sonne, um sich aufzuwärmen.",
+                "hu": "Részesítse előnyben a napos helyeket a felmelegedéshez.",
+                "ro": "Preferați locurile la soare pentru a vă încălzi.",
+                "en": "Prefer sunny spots to warm up."
+              }
+            },
+            {
+              "name": "Küstenfahrt zur Bucht Gradina",
+              "tip_5lang": {
+                "de": "Die Straße ist fast autofrei und sehr friedlich.",
+                "hu": "Az út szinte autómentes és nagyon békés.",
+                "ro": "Drumul este aproape fără mașini și foarte liniștit.",
+                "en": "The road is almost car-free and very peaceful."
+              }
+            },
+            {
+              "name": "Hafen-Gelato",
+              "tip_5lang": {
+                "de": "Einige Gelaterien haben Winterpause, probieren Sie heiße Schokolade.",
+                "hu": "Néhány fagyizó zárva van, próbálja ki a forró csokoládét.",
+                "ro": "Unele gelaterii sunt închise, încercați ciocolată caldă.",
+                "en": "Some gelaterias are closed; try hot chocolate instead."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Lufttemperatur sinkt nach Sonnenuntergang rapide.",
+              "Vorsicht vor der Bura, die Seitenwinde können stark sein.",
+              "Inselstraßen sind im Winter oft mit feuchtem Laub bedeckt.",
+              "Prüfen Sie Ihre Fahrradbeleuchtung für den frühen Abend."
+            ],
+            "hu": [
+              "A levegő hőmérséklete naplemente után gyorsan esik.",
+              "Vigyázzon a burával, az oldalszél nagyon erős lehet.",
+              "A szigeti utak télen gyakran nedves levelekkel borítottak.",
+              "Ellenőrizze a világítást a korai sötétedés miatt."
+            ],
+            "ro": [
+              "Temperatura aerului scade rapid după apus.",
+              "Atenție la Bura, vântul lateral poate fi foarte puternic.",
+              "Drumurile de pe insulă sunt adesea acoperite cu frunze umede iarna.",
+              "Verificați luminile bicicletei pentru seara timpurie."
+            ],
+            "en": [
+              "Air temperature drops rapidly after sunset.",
+              "Beware of the Bura; side winds can be very strong.",
+              "Island roads are often covered with damp leaves in winter.",
+              "Check your bike lights for the early evening."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -754,6 +1136,206 @@
           "The road to Mount Hum is narrow, drive carefully.",
           "Check the boat schedule to Proizd at the harbor."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Vela Luka heute regenfest. Morgens parken wir direkt am Kulturzentrum und besichtigen trockenen Fußes die Funde der Insel. Nach einem kurzen Halt an der St. Joseph Kirche fahren wir zur Vela Spila, deren Eingangsbereich auch bei Guss Schutz bietet. Der Ausblick vom Hum ist heute wolkenverhangen und mystisch. Ein ausgiebiges Mittagessen in einer Konoba überbrückt den stärksten Regen, bevor wir den Tag mit einer Panoramafahrt entlang der Riva abschließen.",
+            "hu": "Autóval ma esőbiztosan fedezzük fel Vela Lukát. Reggel közvetlenül a Kulturális Központnál parkolunk, és száraz lábbal nézzük meg a sziget kincseit. A Szent József-templomnál tett rövid megálló után a Vela Spilához hajtunk, melynek bejárata felhőszakadáskor is védelmet nyújt. A kilátás a Humról ma felhőkbe burkolózó és misztikus. Egy kiadós ebéd egy konobában segít átvészelni a legnagyobb esőt, mielőtt a napot egy panoráma-autózással zárjuk a Riva mentén.",
+            "ro": "Cu mașina explorăm astăzi Vela Luka protejați de ploaie. Dimineața parcăm direct la Centrul Cultural și vizităm exponatele fără a ne uda. După o scurtă oprire la Biserica Sfântul Iosif, conducem spre Vela Spila, a cărei intrare oferă protecție chiar și pe furtună. Vederea de pe Hum este astăzi învăluită în nori și mistică. Un prânz bogat la o tavernă ne ajută să trecem de cea mai puternică ploaie, înainte de a încheia ziua cu o plimbare panoramică pe faleză.",
+            "en": "By car, we explore Vela Luka rainproof today. In the morning, we park right at the Culture Center and visit the island's treasures without getting wet. After a short stop at St. Joseph's Church, we drive to Vela Spila, whose entrance provides shelter even during downpours. The view from Hum is cloudy and mystical today. A long lunch in a konoba helps bridge the heaviest rain before we finish the day with a panoramic drive along the Riva."
+          },
+          "stops": [
+            {
+              "name": "Kulturzentrum Parkplatz (Cluster A)",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken ins Gebäude zu gelangen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy szárazon jusson be.",
+                "ro": "Parcați aproape de intrare pentru a ajunge uscat în clădire.",
+                "en": "Park close to the entrance to get inside dry."
+              }
+            },
+            {
+              "name": "Crkva svetog Josipa",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz zur Kirche.",
+                "hu": "Rövid séta a parkolótól a templomig.",
+                "ro": "Scurtă plimbare de la parcare la biserică.",
+                "en": "Short walk from the parking lot to the church."
+              }
+            },
+            {
+              "name": "Vela Spila (Cluster B)",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur wenige Schritte von der Höhle entfernt.",
+                "hu": "A parkoló csak pár lépésre van a barlangtól.",
+                "ro": "Parcarea este la doar câțiva pași de peșteră.",
+                "en": "The parking lot is just a few steps from the cave."
+              }
+            },
+            {
+              "name": "Hum Aussichtspunkt (Cluster C)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem warmen Auto.",
+                "hu": "Élvezze a kilátást közvetlenül a meleg autóból.",
+                "ro": "Bucurați-vă de priveliște direct din mașina caldă.",
+                "en": "Enjoy the view directly from your warm car."
+              }
+            },
+            {
+              "name": "Konoba Mittagessen (Cluster D)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkservice, falls vorhanden.",
+                "hu": "Használja a parkolóinas szolgáltatást, ha van.",
+                "ro": "Folosiți serviciul de parcare, dacă este disponibil.",
+                "en": "Use the parking service if available."
+              }
+            },
+            {
+              "name": "Insel Proizd (Boot vom Hafen)",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Boote bei starkem Wind fahren.",
+                "hu": "Ellenőrizze, hogy járnak-e a hajók erős szélben.",
+                "ro": "Verificați dacă bărcile circulă pe vânt puternic.",
+                "en": "Check if boats are running during strong winds."
+              }
+            },
+            {
+              "name": "Riva Spaziergang",
+              "tip_5lang": {
+                "de": "Eine langsame Fahrt entlang der Küste ist heute gemütlicher.",
+                "hu": "Egy lassú autózás a part mentén ma kényelmesebb.",
+                "ro": "O plimbare lentă cu mașina pe mal este mai confortabilă astăzi.",
+                "en": "A slow drive along the coast is more comfortable today."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Sicht auf den Bergstraßen kann bei Regen stark eingeschränkt sein.",
+              "Nutzen Sie die Parkplätze direkt am Hafen für kurze Wege.",
+              "Prüfen Sie den Status des Bootes nach Proizd telefonisch.",
+              "Lassen Sie keine nassen Regenschirme auf den Autositzen."
+            ],
+            "hu": [
+              "A hegyi utakon a látási viszonyok korlátozottak lehetnek.",
+              "Használja a kikötői parkolókat a rövid távok érdekében.",
+              "Telefonon ellenőrizze a Proizd-hajó indulását.",
+              "Ne hagyja a vizes esernyőket az autóüléseken."
+            ],
+            "ro": [
+              "Vizibilitatea pe drumurile montane poate fi limitată pe ploaie.",
+              "Folosiți parcările din port pentru distanțe scurte.",
+              "Verificați telefonic starea bărcii spre Proizd.",
+              "Nu lăsați umbrelele ude pe scaunele mașinii."
+            ],
+            "en": [
+              "Visibility on mountain roads can be limited in the rain.",
+              "Use harbor parking lots for short walking distances.",
+              "Check the Proizd boat status by phone.",
+              "Do not leave wet umbrellas on the car seats."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen nutzen wir das Auto für eine komfortable Tour. Wir beginnen am beheizten Kulturzentrum, gefolgt von der St. Joseph Kirche. Die Fahrt zur Vela Spila bietet im Winterlicht tolle Fotomotive. Auf dem Hum genießen wir die weite Fernsicht, die nur die kalte Winterluft ermöglicht. Nach einem warmen Mittagessen im Hafen lassen wir den Tag mit einer Fahrt zur Küste ausklingen, während die Sonne früh versinkt und wir es im Auto gemütlich warm haben.",
+            "hu": "Egy tiszta téli reggelen az autót használjuk a kényelmes túrához. A fűtött Kulturális Központnál kezdünk, majd a Szent József-templom következik. A Vela Spilához vezető út a téli fényben remek fotótémákat kínál. A Humon élvezzük a távoli kilátást, amit csak a hideg téli levegő tesz lehetővé. A kikötői meleg ebéd után a napot egy tengerparti autózással zárjuk, miközben a nap korán nyugszik, mi pedig az autó melegében pihenünk.",
+            "ro": "Într-o dimineață senină de iarnă, folosim mașina pentru un tur confortabil. Începem la Centrul Cultural încălzit, urmat de Biserica Sfântul Iosif. Drumul spre Vela Spila oferă motive foto excelente în lumina iernii. Pe Hum ne bucurăm de vizibilitatea la distanță, permisă doar de aerul rece de iarnă. După un prânz cald în port, încheiem ziua cu o plimbare cu mașina pe coastă, în timp ce soarele apune devreme iar noi stăm la căldură.",
+            "en": "On a clear winter morning, we use the car for a comfortable tour. We start at the heated Culture Center, followed by St. Joseph's Church. The drive to Vela Spila offers great photo opportunities in the winter light. On Hum, we enjoy the long-distance views that only cold winter air allows. After a warm lunch in the harbor, we end the day with a coastal drive as the sun sets early and we stay cozy in the car."
+          },
+          "stops": [
+            {
+              "name": "Kulturzentrum Parkplatz (Cluster A)",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter im Überfluss vorhanden.",
+                "hu": "Télen bőségesen áll rendelkezésre parkolóhely.",
+                "ro": "Parcările sunt din abundență în timpul iernii.",
+                "en": "Parking spaces are abundant during winter."
+              }
+            },
+            {
+              "name": "Crkva svetog Josipa",
+              "tip_5lang": {
+                "de": "Die Kirche ist oft kühler als das Auto, behalten Sie die Jacke an.",
+                "hu": "A templom gyakran hűvösebb, mint az autó, ne vegye le a kabátot.",
+                "ro": "Biserica este adesea mai rece decât mașina, păstrați haina pe dvs.",
+                "en": "The church is often cooler than the car; keep your jacket on."
+              }
+            },
+            {
+              "name": "Vela Spila (Cluster B)",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Licht der tiefstehenden Wintersonne.",
+                "hu": "Használja ki az alacsonyan járó téli nap fényeit.",
+                "ro": "Profitați de lumina soarelui de iarnă care stă jos.",
+                "en": "Take advantage of the low winter sun light."
+              }
+            },
+            {
+              "name": "Hum Aussichtspunkt (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Fernsicht bis nach Italien ist im Winter oft möglich.",
+                "hu": "Télen gyakran ellátni egészen Olaszországig.",
+                "ro": "Vizibilitatea până în Italia este adesea posibilă iarna.",
+                "en": "Views as far as Italy are often possible in winter."
+              }
+            },
+            {
+              "name": "Konoba Mittagessen (Cluster D)",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Tisch in der Nähe des Ofens.",
+                "hu": "Kérjen asztalt a kályha vagy fűtőtest közelében.",
+                "ro": "Cereți o masă lângă sobă sau calorifer.",
+                "en": "Ask for a table near the heater or stove."
+              }
+            },
+            {
+              "name": "Insel Proizd (Boot vom Hafen)",
+              "tip_5lang": {
+                "de": "Der Bootsverkehr ist im Winter stark eingeschränkt.",
+                "hu": "A hajóforgalom télen erősen korlátozott.",
+                "ro": "Circulația bărcilor este foarte limitată iarna.",
+                "en": "Boat service is very limited in winter."
+              }
+            },
+            {
+              "name": "Riva Spaziergang",
+              "tip_5lang": {
+                "de": "Genießen Sie die beleuchtete Riva am frühen Abend.",
+                "hu": "Élvezze a kivilágított Rivát kora este.",
+                "ro": "Bucurați-vă de faleza iluminată seara devreme.",
+                "en": "Enjoy the illuminated Riva in the early evening."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Inselstraßen können morgens glatt sein.",
+              "Die Sicht ist im Winter oft klarer als im Sommer.",
+              "Nutzen Sie die Standheizung, falls vorhanden.",
+              "Achten Sie auf Wildtiere, die im Winter öfter die Straßen kreuzen."
+            ],
+            "hu": [
+              "A szigeti utak reggelente jegesek vagy csúszósak lehetnek.",
+              "A látótávolság télen gyakran sokkal nagyobb, mint nyáron.",
+              "Használja az állóhelyzeti fűtést, ha van az autóban.",
+              "Figyeljen a vadállatokra, melyek télen többször kelnek át az úton."
+            ],
+            "ro": [
+              "Drumurile de pe insulă pot fi lunecoase dimineața.",
+              "Vizibilitatea este adesea mai clară iarna decât vara.",
+              "Folosiți încălzirea auxiliară, dacă este disponibilă.",
+              "Atenție la animalele sălbatice care traversează drumul mai des iarna."
+            ],
+            "en": [
+              "Island roads can be slippery in the morning.",
+              "Visibility is often much clearer in winter than in summer.",
+              "Use the car heater to stay comfortable between stops.",
+              "Watch out for wildlife crossing the roads more often in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -978,6 +1560,188 @@
           "Taxi boats to Proizd run every hour during the season.",
           "Most sights in the town are easily reachable on foot."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem lokalen Nahverkehr und Booten erkunden wir Vela Luka heute flexibel. Den Morgen verbringen wir trocken in der St. Joseph Kirche und im Kulturzentrum. Das Boot nach Proizd bietet bei Regen einen geschützten Innenraum, von dem aus wir die raue See beobachten können. Ein spätes Mittagessen an der Riva wärmt uns auf, bevor wir mit dem Bus oder Taxi zum Aufstieg zur Vela Spila fahren, wo uns die Höhle vor dem Abendregen schützt.",
+            "hu": "A helyi közlekedéssel és hajókkal ma rugalmasan fedezzük fel Vela Lukát. A reggelt szárazon töltjük a Szent József-templomban és a Kulturális Központban. A Proizd felé tartó hajó esőben zárt utasteret kínál, ahonnan figyelhetjük a morajló tengert. Egy késői ebéd a Riván felmelegít minket, mielőtt busszal vagy taxival a Vela Spilához indulunk, ahol a barlang megvéd az esti esőtől.",
+            "ro": "Cu transportul local și bărcile explorăm astăzi Vela Luka în mod flexibil. Dimineața o petrecem la uscat în Biserica Sfântul Iosif și în Centrul Cultural. Barca spre Proizd oferă un interior protejat pe ploaie, de unde putem observa marea agitată. Un prânz târziu pe faleză ne încălzește înainte de a merge cu autobuzul sau taxiul spre Vela Spila, unde peștera ne protejează de ploaia de seară.",
+            "en": "With local transport and boats, we explore Vela Luka flexibly today. We spend the morning dry in St. Joseph's Church and the Culture Center. The boat to Proizd offers a sheltered interior during rain, from where we can watch the rough sea. A late lunch at the Riva warms us up before taking a bus or taxi to the climb for Vela Spila, where the cave shields us from the evening rain."
+          },
+          "stops": [
+            {
+              "name": "Crkva svetog Josipa",
+              "tip_5lang": {
+                "de": "Bushaltestellen befinden sich in unmittelbarer Nähe.",
+                "hu": "A buszmegállók a közvetlen közelben vannak.",
+                "ro": "Stațiile de autobuz sunt în imediata apropiere.",
+                "en": "Bus stops are located in the immediate vicinity."
+              }
+            },
+            {
+              "name": "Centar za kulturu",
+              "tip_5lang": {
+                "de": "Warten Sie im Foyer auf den nächsten Bus oder das Boot.",
+                "hu": "Várjon a következő buszra vagy hajóra az előtérben.",
+                "ro": "Așteptați următorul autobuz sau barcă în hol.",
+                "en": "Wait for the next bus or boat in the foyer."
+              }
+            },
+            {
+              "name": "Boot nach Proizd (Cluster A)",
+              "tip_5lang": {
+                "de": "Sitzplätze unter Deck sind bei Regen sehr begehrt.",
+                "hu": "A fedélzet alatti helyek esőben nagyon népszerűek.",
+                "ro": "Locurile de sub punte sunt foarte căutate pe ploaie.",
+                "en": "Seats below deck are very popular during rain."
+              }
+            },
+            {
+              "name": "Insel Proizd (Cluster B)",
+              "tip_5lang": {
+                "de": "Suchen Sie das einzige Restaurant der Insel für Schutz auf.",
+                "hu": "Keresse fel a sziget egyetlen éttermét menedékért.",
+                "ro": "Căutați singurul restaurant de pe insulă pentru adăpost.",
+                "en": "Seek shelter in the island's only restaurant."
+              }
+            },
+            {
+              "name": "Riva Mittagessen (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Restaurants sind nur einen kurzen Sprung von der Anlegestelle entfernt.",
+                "hu": "Az éttermek csak egy rövid ugrásra vannak a kikötőtől.",
+                "ro": "Restaurantele sunt la doar un pas de debarcader.",
+                "en": "Restaurants are just a short hop from the pier."
+              }
+            },
+            {
+              "name": "Vela Spila Spaziergang",
+              "tip_5lang": {
+                "de": "Taxis sind eine gute Alternative zum Fußweg bei starkem Regen.",
+                "hu": "A taxi jó alternatíva a gyaloglás helyett erős esőben.",
+                "ro": "Taxisunt o alternativă bună la mersul pe jos în caz de ploaie puternică.",
+                "en": "Taxis are a good alternative to walking during heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan sorgfältig, da es bei Regen zu Verzögerungen kommen kann.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zwischen den Haltestellen.",
+              "Die Fähren haben beheizte Innenräume.",
+              "Nutzen Sie lokale Apps für Echtzeit-Updates."
+            ],
+            "hu": [
+              "Ellenőrizze alaposan a menetrendet, mert esőben késések lehetnek.",
+              "Viseljen vízálló cipőt a megállók közötti gyalogláshoz.",
+              "A kompok fűtött utastérrel rendelkeznek.",
+              "Használja a helyi alkalmazásokat a valós idejű frissítésekhez."
+            ],
+            "ro": [
+              "Verificați programul cu atenție, pot apărea întârzieri pe ploaie.",
+              "Purtați încălțăminte impermeabilă pentru drumul dintre stații.",
+              "Feriboturile au interioare încălzite.",
+              "Folosiți aplicațiile locale pentru actualizări în timp real."
+            ],
+            "en": [
+              "Check the schedule carefully, as there may be delays in the rain.",
+              "Wear waterproof shoes for the walk between stops.",
+              "Ferries have heated interiors.",
+              "Use local apps for real-time updates."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag in Vela Luka beginnt mit dem Bus im Ortszentrum. Nach dem Besuch der St. Joseph Kirche und des Kulturzentrums genießen wir die winterliche Stille im Hafen. Da das Boot nach Proizd seltener fährt, verbringen wir mehr Zeit im Ort und genießen ein langes Mittagessen. Am Nachmittag bringt uns der lokale Transport näher zur Vela Spila, wo wir die prähistorische Stätte fast alleine erkunden können, bevor wir im warmen Bus zurückkehren.",
+            "hu": "A téli nap Vela Lukában busszal indul a városközpontban. A Szent József-templom és a Kulturális Központ meglátogatása után a kikötő téli nyugalmát élvezzük. Mivel a Proizd-hajó ritkábban jár, több időt töltünk a városban egy hosszú ebéd kíséretében. Délután a helyi közlekedés közelebb visz minket a Vela Spilához, ahol szinte egyedül fedezhetjük fel az őskori lelőhelyet, mielőtt a meleg busszal visszatérünk.",
+            "ro": "Ziua de iarnă în Vela Luka începe cu autobuzul în centrul localității. După vizitarea Bisericii Sfântul Iosif și a Centrului Cultural, ne bucurăm de liniștea iernii în port. Deoarece barca spre Proizd circulă mai rar, petrecem mai mult timp în oraș cu un prânz lung. După-amiaza, transportul local ne duce mai aproape de Vela Spila, unde putem explora situl preistoric aproape singuri, înainte de a ne întoarce cu autobuzul cald.",
+            "en": "The winter day in Vela Luka begins with a bus in the town center. After visiting St. Joseph's Church and the Culture Center, we enjoy the winter tranquility in the harbor. Since the Proizd boat runs less frequently, we spend more time in town with a long lunch. In the afternoon, local transport brings us closer to Vela Spila, where we can explore the prehistoric site almost alone before returning on the warm bus."
+          },
+          "stops": [
+            {
+              "name": "Crkva svetog Josipa",
+              "tip_5lang": {
+                "de": "Die Busse fahren im Winter nach einem reduzierten Plan.",
+                "hu": "A buszok télen ritkított menetrend szerint járnak.",
+                "ro": "Autobuzele circulă după un program redus iarna.",
+                "en": "Buses run on a reduced schedule during winter."
+              }
+            },
+            {
+              "name": "Centar za kulturu",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als warmen Wartebereich.",
+                "hu": "Használja a múzeumot meleg várakozóhelyként.",
+                "ro": "Folosiți muzeul ca zonă de așteptare caldă.",
+                "en": "Use the museum as a warm waiting area."
+              }
+            },
+            {
+              "name": "Boot nach Proizd (Cluster A)",
+              "tip_5lang": {
+                "de": "Im Winter verkehren nur wenige oder gar keine Ausflugsboote.",
+                "hu": "Télen kevés vagy egyetlen kirándulóhajó sem közlekedik.",
+                "ro": "Iarna circulă puține bărci de excursie sau deloc.",
+                "en": "Few or no excursion boats run during winter."
+              }
+            },
+            {
+              "name": "Insel Proizd (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Insel ist im Winter ein einsames Naturparadies.",
+                "hu": "A sziget télen magányos természeti paradicsom.",
+                "ro": "Insula este un paradis natural solitar iarna.",
+                "en": "The island is a lonely natural paradise in winter."
+              }
+            },
+            {
+              "name": "Riva Mittagessen (Cluster A)",
+              "tip_5lang": {
+                "de": "Restaurants im Hafen sind der soziale Mittelpunkt im Winter.",
+                "hu": "A kikötői éttermek a közösségi élet központjai télen.",
+                "ro": "Restaurantele din port sunt centrul vieții sociale iarna.",
+                "en": "Harbor restaurants are the social hub in winter."
+              }
+            },
+            {
+              "name": "Vela Spila Spaziergang",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Sie den letzten Bus zurück nehmen.",
+                "hu": "Ügyeljen rá, hogy elérje az utolsó buszt visszafelé.",
+                "ro": "Asigurați-vă că prindeți ultimul autobuz de întoarcere.",
+                "en": "Make sure to catch the last bus back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Winterfahrplan weicht stark vom Sommerplan ab.",
+              "Busse sind im Winter oft die zuverlässigste Verbindung.",
+              "Die Riva ist im Winter der beste Ort, um auf Transportmittel zu warten.",
+              "Fragen Sie Einheimische nach aktuellen Fahrplanänderungen."
+            ],
+            "hu": [
+              "A téli menetrend jelentősen eltér a nyáritól.",
+              "Télen gyakran a busz a legmegbízhatóbb összeköttetés.",
+              "A Riva a legjobb hely a közlekedésre való várakozáshoz télen.",
+              "Kérdezze a helyieket az aktuális menetrendi változásokról."
+            ],
+            "ro": [
+              "Programul de iarnă diferă mult de cel de vară.",
+              "Autobuzul este adesea cea mai sigură legătură iarna.",
+              "Faleza este cel mai bun loc pentru a aștepta transportul iarna.",
+              "Întrebați localnicii despre modificările actuale ale programului."
+            ],
+            "en": [
+              "The winter schedule differs significantly from the summer one.",
+              "Buses are often the most reliable connection in winter.",
+              "The Riva is the best place to wait for transport in winter.",
+              "Ask locals about current schedule changes."
+            ]
+          }
+        }
       }
     }
   }

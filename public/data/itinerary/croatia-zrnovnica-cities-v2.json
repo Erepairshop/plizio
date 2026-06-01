@@ -292,6 +292,206 @@
           "Žrnovnica is ideal for escaping the heat of Split.",
           "Soparnik often needs to be pre-ordered or found at markets."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen an der Kirche Sv. Ante beginnt ruhig, während der Regen leise auf das Dach trommelt. Später bietet die Riva gemütliche Cafés, um dem Schauer bei einem Tee zu entkommen.\n\nMittags genießen wir die wohlige Wärme in einer Konoba, während draußen der Regen die Straßen wäscht. Die deftigen lokalen Gerichte schmecken bei diesem Wetter besonders gut.\n\nNachmittags zeigt sich der Antoničin mlin von seiner mystischen Seite. Das Rauschen des Flusses vermischt sich mit dem Prasseln der Tropfen im dichten Grün.\n\nAbends bietet der Steinbruch eine dramatische Kulisse unter grauen Wolken. Der Tag endet gemütlich bei einem Glas Wein im trockenen Innenraum einer Gaststätte.",
+            "hu": "A reggel csendesen indul a Szent Antal-templomnál, miközben az eső lágyan kopog a tetőn. Később a Riva kávézói nyújtanak menedéket a zápor elől egy tea mellett.\n\nDélben élvezzük a konoba barátságos melegét, miközben kint az eső mossa az utcákat. A kiadós helyi ételek különösen jól esnek ilyen borongós időben.\n\nDélután az Antoničin mlin misztikus arcát mutatja. A folyó zúgása elvegyül az esőcseppek kopogásával a sűrű növényzeten.\n\nEste a kőfejtő drámai látványt nyújt a szürke felhők alatt. A napot egy pohár bor mellett, egy vendéglő száraz belső terében zárjuk le kellemesen.",
+            "ro": "Dimineața la biserica Sf. Ante începe liniștit, în timp ce ploaia bate ușor în acoperiș. Mai târziu, cafenelele de pe Riva oferă adăpost împotriva aversei cu un ceai cald.\n\nLa prânz ne bucurăm de căldura primitoare dintr-o konoba, în timp ce afară ploaia spală străzile. Mâncărurile locale consistente au un gust deosebit pe această vreme.\n\nDupă-amiaza, Antoničin mlin își arată latura mistică. Susurul râului se amestecă cu ropotul picăturilor în vegetația deasă.\n\nSeara, cariera de piatră oferă un cadru dramatic sub norii cenușii. Ziua se încheie confortabil cu un pahar de vin în interiorul uscat al unei taverne.",
+            "en": "The morning at St. Anthony’s starts quietly as rain taps gently on the roof. Later, the Riva’s cozy cafes offer a perfect refuge from the showers over a warm tea.\n\nAt noon, enjoy the welcoming warmth of a konoba while the rain washes the streets outside. Hearty local dishes taste especially good in this gloomy weather.\n\nIn the afternoon, Antoničin mlin shows its mystical side. The sound of the rushing river mixes with the patter of raindrops on the dense greenery.\n\nIn the evening, the quarry provides a dramatic backdrop under grey clouds. The day ends comfortably with a glass of wine inside a dry, warm tavern."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Ante",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum als trockenen Rückzugsort.",
+                "hu": "Használja a belső teret száraz menedékként.",
+                "ro": "Folosiți interiorul ca refugiu uscat.",
+                "en": "Use the interior as a dry sanctuary."
+              }
+            },
+            {
+              "name": "Lokales Café an der Riva",
+              "tip_5lang": {
+                "de": "Ideal, um den stärksten Regen abzuwarten.",
+                "hu": "Ideális a legerősebb eső megvárására.",
+                "ro": "Ideal pentru a aștepta trecerea ploii grele.",
+                "en": "Ideal for waiting out the heaviest rain."
+              }
+            },
+            {
+              "name": "Rijeka Žrnovnica",
+              "tip_5lang": {
+                "de": "Vorsicht, die Uferwege können schlammig sein.",
+                "hu": "Vigyázat, a parti utak sarasak lehetnek.",
+                "ro": "Atenție, potecile de pe mal pot fi noroioase.",
+                "en": "Be careful, the riverbank paths can be muddy."
+              }
+            },
+            {
+              "name": "Antoničin mlin",
+              "tip_5lang": {
+                "de": "Das Vordach bietet Schutz vor leichtem Regen.",
+                "hu": "Az előtető védelmet nyújt az enyhe eső ellen.",
+                "ro": "Copertina oferă protecție împotriva ploii ușoare.",
+                "en": "The overhang offers protection from light rain."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz am Kamin.",
+                "hu": "Kérjen helyet a kandalló közelében.",
+                "ro": "Cereți un loc lângă șemineu.",
+                "en": "Ask for a seat near the fireplace."
+              }
+            },
+            {
+              "name": "Kava (Kamenolom)",
+              "tip_5lang": {
+                "de": "Die Felsen wirken bei Nässe besonders dunkel.",
+                "hu": "A sziklák nedvesen különösen sötétek.",
+                "ro": "Stâncile par deosebit de întunecate când sunt ude.",
+                "en": "The rocks look particularly dark when wet."
+              }
+            },
+            {
+              "name": "Aussichtspunkt zum Sonnenuntergang",
+              "tip_5lang": {
+                "de": "Ein Regenbogen über dem Meer ist oft möglich.",
+                "hu": "Gyakran látható szivárvány a tenger felett.",
+                "ro": "Un curcubeu peste mare este adesea posibil.",
+                "en": "A rainbow over the sea is often possible."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Wege am Fluss.",
+              "Ein großer Regenschirm ist wegen der Windböen besser als ein kleiner.",
+              "Die Konobas im Ort sind bekannt für ihre gemütliche Regenatmosphäre.",
+              "Meiden Sie bei Starkregen die unbefestigten Pfade im Steinbruch."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a folyóparti utakhoz.",
+              "A széllökések miatt egy nagyobb esernyő jobb, mint a kicsi.",
+              "A helyi konobák híresek a hangulatos esős légkörükről.",
+              "Heves esőzéskor kerülje a kőfejtő nem aszfaltozott ösvényeit."
+            ],
+            "ro": [
+              "Purtați încălțăminte de drumeție impermeabilă pentru malul râului.",
+              "O umbrelă mare este mai bună decât una mică din cauza vântului.",
+              "Konobele locale sunt cunoscute pentru atmosfera plăcută pe ploaie.",
+              "Evitați potecile neamenajate din carieră în caz de ploaie torențială."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the riverbank paths.",
+              "A large umbrella is better than a small one due to wind gusts.",
+              "Local konobas are famous for their cozy atmosphere during rain.",
+              "Avoid unpaved paths in the quarry during heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Žrnovnica ist klar und frisch. Die Kirche Sv. Ante steht stolz in der kühlen Luft, während die umliegenden Gipfel oft mit Puderzucker bestäubt sind.\n\nMittags wärmen wir uns bei einer kräftigen Suppe in der Konoba auf. Die Wintersonne scheint hell durch die Fenster und sorgt für eine friedliche Stimmung im Dorf.\n\nNachmittags ist der Spaziergang am Fluss besonders belebend. Die Kälte macht das Wasser kristallklar und die Luft rein.\n\nAbends sinkt die Sonne früh hinter die Hügel. Das Panorama vom Aussichtspunkt ist im klaren Winterlicht besonders scharf, bevor wir in die wohlige Wärme des Zentrums zurückkehren.",
+            "hu": "A téli reggel Žrnovnicában tiszta és friss. A Szent Antal-templom büszkén áll a hűvös levegőben, miközben a környező csúcsokat gyakran hó fedi.\n\nDélben egy forró levessel melegszünk fel a konobában. A téli nap fényesen süt be az ablakon, békés hangulatot árasztva a faluban.\n\nDélután a folyóparti séta különösen élénkítő. A hideg kristálytisztává teszi a vizet és tisztává a levegőt.\n\nEste a nap korán bukik a dombok mögé. A kilátópontról nyíló panoráma a tiszta téli fényben különösen éles, mielőtt visszatérnénk a központ barátságos melegébe.",
+            "ro": "Dimineața de iarnă în Žrnovnica este senină și proaspătă. Biserica Sf. Ante stă mândră în aerul rece, în timp ce vârfurile din jur sunt adesea înzăpezite.\n\nLa prânz ne încălzim cu o supă consistentă la konoba. Soarele de iarnă strălucește puternic prin ferestre, creând o atmosferă pașnică în sat.\n\nDupă-amiaza, plimbarea pe lângă râu este deosebit de revigorantă. Frigul face apa cristalină și aerul curat.\n\nSeara, soarele apune devreme după dealuri. Panorama de la punctul de observație este extrem de clară în lumina iernii, înainte de a ne întoarce la căldura centrului.",
+            "en": "The winter morning in Žrnovnica is clear and fresh. St. Anthony’s Church stands proud in the cool air, while surrounding peaks are often dusted with snow.\n\nAt noon, warm up with a hearty soup in the konoba. The winter sun shines brightly through the windows, creating a peaceful mood in the village.\n\nIn the afternoon, the walk by the river is especially invigorating. The cold makes the water crystal clear and the air remarkably pure.\n\nIn the evening, the sun sets early behind the hills. The panorama from the viewpoint is exceptionally sharp in the crisp winter light before we return to warmth."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Ante",
+              "tip_5lang": {
+                "de": "Achten Sie auf die kühle Stille im Inneren.",
+                "hu": "Figyeljen a belső tér hűvös csendjére.",
+                "ro": "Observați liniștea răcoroasă din interior.",
+                "en": "Note the cool silence inside."
+              }
+            },
+            {
+              "name": "Lokales Café an der Riva",
+              "tip_5lang": {
+                "de": "Bestellen Sie einen heißen Kakao oder Kaffee.",
+                "hu": "Rendeljen egy forró kakaót vagy kávét.",
+                "ro": "Comandați o ciocolată caldă sau o cafea.",
+                "en": "Order a hot cocoa or coffee."
+              }
+            },
+            {
+              "name": "Rijeka Žrnovnica",
+              "tip_5lang": {
+                "de": "Die Vegetation ist karg, aber die Sicht ist klarer.",
+                "hu": "A növényzet gyér, de a kilátás tisztább.",
+                "ro": "Vegetația este rară, dar vizibilitatea este mai bună.",
+                "en": "Vegetation is sparse, but visibility is clearer."
+              }
+            },
+            {
+              "name": "Antoničin mlin",
+              "tip_5lang": {
+                "de": "Das alte Holz wirkt im Winterfrost fast silbrig.",
+                "hu": "A régi fa a téli fagyban szinte ezüstösnek hat.",
+                "ro": "Lemnul vechi pare aproape argintiu în gerul iernii.",
+                "en": "The old wood looks almost silvery in the winter frost."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie Peka, das klassische Wintergericht.",
+                "hu": "Próbálja ki a Pekát, a klasszikus téli ételt.",
+                "ro": "Încercați Peka, mâncarea clasică de iarnă.",
+                "en": "Try Peka, the classic winter dish."
+              }
+            },
+            {
+              "name": "Kava (Kamenolom)",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stellen auf den Felsen.",
+                "hu": "Vigyázat a sziklák jeges foltjaira.",
+                "ro": "Atenție la porțiunile alunecoase de pe stânci.",
+                "en": "Watch out for slippery patches on the rocks."
+              }
+            },
+            {
+              "name": "Aussichtspunkt zum Sonnenuntergang",
+              "tip_5lang": {
+                "de": "Seien Sie wegen des frühen Sonnenuntergangs bis 16:15 da.",
+                "hu": "A korai napnyugta miatt legyen ott 16:15-ig.",
+                "ro": "Fiți acolo până la ora 16:15 pentru apusul devreme.",
+                "en": "Be there by 16:15 due to the early sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung nach dem Zwiebelprinzip gegen den Wind.",
+              "Die Bura kann sehr kalt sein; Mütze und Handschuhe sind Pflicht.",
+              "Genießen Sie die Ruhe, da im Winter kaum Touristen hier sind.",
+              "Überprüfen Sie die Öffnungszeiten der Konobas, manche machen Pause."
+            ],
+            "hu": [
+              "Viseljen réteges öltözetet a szél ellen.",
+              "A Bura nagyon hideg lehet; a sapka és kesztyű kötelező.",
+              "Élvezze a nyugalmat, mivel télen alig van turista.",
+              "Ellenőrizze a konobák nyitvatartását, néhányuk zárva lehet."
+            ],
+            "ro": [
+              "Purtați haine în straturi împotriva vântului.",
+              "Vântul Bura poate fi foarte rece; căciula și mănușile sunt obligatorii.",
+              "Bucurați-vă de liniște, deoarece sunt puțini turiști iarna.",
+              "Verificați programul konobelor, unele pot fi închise temporar."
+            ],
+            "en": [
+              "Wear layered clothing to protect against the wind.",
+              "The Bura wind can be very cold; hats and gloves are a must.",
+              "Enjoy the tranquility, as there are very few tourists in winter.",
+              "Check the opening hours of the konobas; some may have breaks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -524,6 +724,188 @@
           "Avoid the main road to Split during rush hours.",
           "Cycle in the morning while the valley is still cool."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour am Fluss Žrnovnica ein besonderes Abenteuer. Der Morgen beginnt mit einer erfrischenden Fahrt durch den Nebel am Ufer.\n\nMittags suchen wir Schutz beim Antoničin mlin, wo das prasselnde Wasser des Mühlrads mit dem Regen wetteifert. Die Luft ist herrlich sauber.\n\nDer Nachmittag führt uns zur Kirche und weiter zu einer ausgiebigen Pause. Die Ausrüstung kann im Restaurant trocknen, während wir uns stärken.\n\nZum Abschluss fordern uns die Wege zum Steinbruch heraus. Die Rückfahrt im sanften Nieselregen wirkt beruhigend und lässt die Landschaft in sattem Grün erstrahlen.",
+            "hu": "Az eső ellenére a Žrnovnica-folyó menti kerékpártúra különleges kalandot kínál. A reggel frissítő tekeréssel indul a parti ködben.\n\nDélben az Antoničin mlinnél keresünk menedéket, ahol a malomkerék zúgása verseng az esővel. A levegő csodálatosan tiszta.\n\nA délután a templomhoz, majd egy hosszabb pihenőhöz vezet. A felszerelés megszáradhat az étteremben, miközben erőt gyűjtünk.\n\nBefejezésül a kőfejtőhöz vezető utak próbára tesznek minket. A visszautazás a lágy szitáló esőben megnyugtató, és élénkzöldben láttatja a tájat.",
+            "ro": "În ciuda ploii, turul cu bicicleta pe lângă râul Žrnovnica oferă o aventură specială. Dimineața începe cu o plimbare revigorantă prin ceața de pe mal.\n\nLa prânz căutăm adăpost la Antoničin mlin, unde vuietul roții morii concurează cu ploaia. Aerul este minunat de curat.\n\nDupă-amiaza ne conduce la biserică și apoi la o pauză prelungită. Echipamentul se poate usca în restaurant în timp ce ne refacem forțele.\n\nLa final, drumurile spre carieră ne provoacă. Drumul de întoarcere prin burnița ușoară este liniștitor și face peisajul să strălucească în verde crud.",
+            "en": "Despite the rain, the bike tour along the Žrnovnica river is a unique adventure. The morning begins with a refreshing ride through the mist on the banks.\n\nAt noon, we seek shelter at Antoničin mlin, where the sound of the water mill competes with the rain. The air is wonderfully clean.\n\nThe afternoon leads to the church and then to an extended break. Your gear can dry in the restaurant while you recharge your energy.\n\nTo finish, the paths to the quarry challenge us. The return ride in the gentle drizzle is calming and makes the landscape glow in vibrant green."
+          },
+          "stops": [
+            {
+              "name": "Rijeka Žrnovnica (Radweg)",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Blättern auf dem Radweg.",
+                "hu": "Vigyázat a csúszós levelekkel a kerékpárúton.",
+                "ro": "Atenție la frunzele alunecoase de pe pista de biciclete.",
+                "en": "Beware of slippery leaves on the bike path."
+              }
+            },
+            {
+              "name": "Antoničin mlin",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter das Vordach.",
+                "hu": "Állítsa a kerékpárját az előtető alá.",
+                "ro": "Parcați bicicleta sub copertină.",
+                "en": "Park your bike under the overhang."
+              }
+            },
+            {
+              "name": "Crkva sv. Ante",
+              "tip_5lang": {
+                "de": "Kurzer Stopp zum Aufwärmen im Stehen.",
+                "hu": "Rövid megálló állva melegedni.",
+                "ro": "Scurtă oprire pentru a vă încălzi în picioare.",
+                "en": "Short stop to warm up while standing."
+              }
+            },
+            {
+              "name": "Lunch & Erfrischung",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Handschuhe an der Heizung.",
+                "hu": "Szárítsa meg a kesztyűit a fűtőtesten.",
+                "ro": "Uscați-vă mănușile pe calorifer.",
+                "en": "Dry your gloves on the radiator."
+              }
+            },
+            {
+              "name": "Kava (Kamenolom)",
+              "tip_5lang": {
+                "de": "Nur für erfahrene Fahrer bei Nässe geeignet.",
+                "hu": "Nedves időben csak tapasztalt bringásoknak.",
+                "ro": "Potrivit doar pentru bicicliști experimentați pe ud.",
+                "en": "Only suitable for experienced riders when wet."
+              }
+            },
+            {
+              "name": "Panorama-Rückweg",
+              "tip_5lang": {
+                "de": "Nutzen Sie gute Beleuchtung im grauen Licht.",
+                "hu": "Használjon jó világítást a szürkületben.",
+                "ro": "Folosiți lumini bune în lumina cenușie.",
+                "en": "Use good lighting in the grey light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter unverzichtbar.",
+              "Tragen Sie eine vollflächige Regenjacke und Regenhose.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip.",
+              "Vermeiden Sie scharfe Bremsmanöver auf den Uferwegen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Viseljen teljes esőkabátot és esőnadrágot.",
+              "Csökkentse kissé a guminyomást a jobb tapadásért.",
+              "Kerülje az éles fékezést a folyóparti utakon."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe această vreme.",
+              "Purtați jachetă și pantaloni de ploaie complet impermeabili.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună.",
+              "Evitați frânarea bruscă pe potecile de pe mal."
+            ],
+            "en": [
+              "Mudguards are indispensable in this weather.",
+              "Wear a full rain jacket and rain trousers.",
+              "Reduce tire pressure slightly for better grip.",
+              "Avoid sharp braking maneuvers on the river paths."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winter-Radtour erfordert Mut, belohnt aber mit einsamen Wegen. Der Morgen am Fluss ist eiskalt, aber die Sonne glitzert auf dem Wasser.\n\nMittags erreichen wir den Antoničin mlin, wo der Wind in den kahlen Bäumen singt. Die Kälte spornt uns an, schneller in die Pedale zu treten.\n\nNach dem Aufwärmen beim Mittagessen besuchen wir die Kirche. Die Ruhe im Dorf ist im Winter fast greifbar.\n\nDer Nachmittag am Steinbruch bietet weite Sichten. Da die Sonne früh sinkt, ist der Rückweg im Dämmerlicht eine atmosphärische Fahrt zurück in die Wärme.",
+            "hu": "A téli kerékpártúra bátorságot igényel, de magányos utakkal jutalmaz. A reggel a folyónál jéghideg, de a nap csillog a vízen.\n\nDélben érjük el az Antoničin mlin-t, ahol a szél énekel a kopár fák között. A hideg arra ösztönöz, hogy gyorsabban tekerjünk.\n\nAz ebédet követő bemelegedés után meglátogatjuk a templomot. A falu nyugalma télen szinte tapintható.\n\nA délután a kőfejtőnél tágas kilátást nyújt. Mivel a nap korán nyugszik, a visszautazás a szürkületben hangulatos tekerés a meleg felé.",
+            "ro": "Turul cu bicicleta iarna necesită curaj, dar răsplătește cu drumuri pustii. Dimineața la râu este înghețată, dar soarele sclipeste pe apă.\n\nLa prânz ajungem la Antoničin mlin, unde vântul cântă prin copacii golași. Frigul ne îndeamnă să pedalăm mai repede.\n\nDupă încălzirea de la prânz, vizităm biserica. Liniștea din sat este aproape palpabilă iarna.\n\nDupă-amiaza la carieră oferă vederi largi. Deoarece soarele apune devreme, drumul de întoarcere în amurg este o cursă atmosferică spre căldură.",
+            "en": "The winter bike tour requires courage but rewards you with lonely paths. The morning by the river is ice-cold, but the sun glitters on the water.\n\nAt noon, we reach Antoničin mlin, where the wind sings in the bare trees. The cold encourages us to pedal faster.\n\nAfter warming up at lunch, we visit the church. The village’s tranquility is almost tangible in winter.\n\nThe afternoon at the quarry offers wide views. Since the sun sets early, the return journey in the twilight is an atmospheric ride back to warmth."
+          },
+          "stops": [
+            {
+              "name": "Rijeka Žrnovnica (Radweg)",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe gegen die Kälte.",
+                "hu": "Viseljen szélálló kesztyűt a hideg ellen.",
+                "ro": "Purtați mănuși rezistente la vânt împotriva frigului.",
+                "en": "Wear windproof gloves against the cold."
+              }
+            },
+            {
+              "name": "Antoničin mlin",
+              "tip_5lang": {
+                "de": "Die feuchten Holzteile können gefroren sein.",
+                "hu": "A nedves fás részek fagyottak lehetnek.",
+                "ro": "Părțile umede din lemn pot fi înghețate.",
+                "en": "The damp wooden parts may be frozen."
+              }
+            },
+            {
+              "name": "Crkva sv. Ante",
+              "tip_5lang": {
+                "de": "Ideal für ein kurzes Stretching in der Kälte.",
+                "hu": "Ideális egy rövid nyújtáshoz a hidegben.",
+                "ro": "Ideal pentru o scurtă întindere în frig.",
+                "en": "Ideal for a short stretch in the cold."
+              }
+            },
+            {
+              "name": "Lunch & Erfrischung",
+              "tip_5lang": {
+                "de": "Heiße Getränke sind wichtiger als Kaltgetränke.",
+                "hu": "A forró italok fontosabbak, mint a hidegek.",
+                "ro": "Băuturile calde sunt mai importante decât cele reci.",
+                "en": "Hot drinks are more important than cold ones."
+              }
+            },
+            {
+              "name": "Kava (Kamenolom)",
+              "tip_5lang": {
+                "de": "Vorsicht vor schnellem Temperaturabfall im Schatten.",
+                "hu": "Vigyázat, az árnyékban gyorsan hűl a levegő.",
+                "ro": "Atenție la scăderea rapidă a temperaturii la umbră.",
+                "en": "Beware of rapid temperature drops in the shade."
+              }
+            },
+            {
+              "name": "Panorama-Rückweg",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Lichter voll geladen sind.",
+                "hu": "Győződjön meg róla, hogy a lámpák fel vannak töltve.",
+                "ro": "Asigurați-vă că luminile sunt complet încărcate.",
+                "en": "Ensure your lights are fully charged."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine Thermohose und Überschuhe.",
+              "Die Bura-Böen können das Lenken erschweren.",
+              "Planen Sie mehr Zeit für Aufwärmpausen ein.",
+              "Nutzen Sie helle Kleidung für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "Viseljen thermo-nadrágot és kamáslit.",
+              "A Bura-lökések nehezíthetik a kormányzást.",
+              "Tervezzen több időt a bemelegítő szünetekre.",
+              "Viseljen világos ruházatot a jobb láthatóságért."
+            ],
+            "ro": [
+              "Purtați pantaloni termici și protecții pentru încălțăminte.",
+              "Rafalele de Bura pot îngreuna direcția.",
+              "Planificați mai mult timp pentru pauze de încălzire.",
+              "Folosiți haine deschise la culoare pentru vizibilitate mai bună."
+            ],
+            "en": [
+              "Wear thermal trousers and shoe covers.",
+              "Bura gusts can make steering difficult.",
+              "Plan more time for warm-up breaks.",
+              "Use bright clothing for better visibility."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -756,6 +1138,188 @@
           "Žrnovnica is only 15 minutes away from Split.",
           "Ideal for a half-day trip by car."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen kein Hindernis. Der Morgen beginnt trocken bei der Kirche Sv. Ante, während wir den Schauer durch die Scheiben beobachten.\n\nMittags parken wir nah an der Riva für einen kurzen Sprint ins Café. Das Prasseln auf dem Autodach wirkt fast meditativ.\n\nNachmittags fahren wir zum Antoničin mlin. Dank des Autos bleiben wir bis zum Eingang trocken und können die wasserreichen Kaskaden bewundern.\n\nDer Tag endet mit einer Fahrt zum Steinbruch. Die nassen Felsen glänzen im Scheinwerferlicht, bevor wir gemütlich zurück zum Hotel rollen.",
+            "hu": "Autóval az eső nem akadály. A reggel szárazon indul a Szent Antal-templomnál, miközben az ablakon keresztül figyeljük a záport.\n\nDélben a Riva közelében parkolunk egy rövid sprintre a kávézóba. Az autótetőn kopogó eső szinte meditatív.\n\nDélután az Antoničin mlin-hez hajtunk. Az autónak köszönhetően a bejáratig szárazak maradunk, és megcsodálhatjuk a bővizű vízeséseket.\n\nA nap a kőfejtőhöz való utazással zárul. A nedves sziklák csillognak a fényszórók fényében, mielőtt kényelmesen visszagurulnánk a szállodába.",
+            "ro": "Cu mașina, ploaia nu este un obstacol. Dimineața începe uscat la biserica Sf. Ante, în timp ce observăm aversa prin geamuri.\n\nLa prânz parcăm aproape de Riva pentru un scurt sprint până la cafenea. Ropotul pe plafonul mașinii este aproape meditativ.\n\nDupă-amiaza conducem spre Antoničin mlin. Datorită mașinii rămânem uscați până la intrare și putem admira cascadele bogate în apă.\n\nZiua se încheie cu o drum spre carieră. Stâncile ude strălucesc în lumina farurilor înainte de a ne întoarce confortabil la hotel.",
+            "en": "In the car, rain is no obstacle. The morning starts dry at St. Anthony’s Church as we watch the showers through the windows.\n\nAt noon, we park close to the Riva for a quick sprint into the cafe. The drumming on the car roof feels almost meditative.\n\nIn the afternoon, we drive to Antoničin mlin. Thanks to the car, we stay dry until the entrance and can admire the full, rushing cascades.\n\nThe day ends with a drive to the quarry. The wet rocks glisten in the headlights before we roll comfortably back to the hotel."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Ante (Zentrum)",
+              "tip_5lang": {
+                "de": "Parkplätze direkt vor der Tür nutzen.",
+                "hu": "Használja a közvetlenül az ajtó előtti parkolókat.",
+                "ro": "Folosiți locurile de parcare direct în față.",
+                "en": "Use the parking spots right in front."
+              }
+            },
+            {
+              "name": "Kaffee-Stopp im Dorf",
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm im Auto griffbereit.",
+                "hu": "Tartsa az esernyőt kéznél az autóban.",
+                "ro": "Țineți umbrela la îndemână în mașină.",
+                "en": "Keep your umbrella handy in the car."
+              }
+            },
+            {
+              "name": "Antoničin mlin (Fluss-Cluster)",
+              "tip_5lang": {
+                "de": "Kurze Fahrwege zwischen den Mühlenabschnitten.",
+                "hu": "Rövid távok a malomrészek között.",
+                "ro": "Distanțe scurte de condus între secțiunile morii.",
+                "en": "Short driving distances between mill sections."
+              }
+            },
+            {
+              "name": "Rijeka Žrnovnica (Spaziergang)",
+              "tip_5lang": {
+                "de": "Suchen Sie befestigte Parkplätze am Ufer.",
+                "hu": "Keressen aszfaltozott parkolókat a parton.",
+                "ro": "Căutați locuri de parcare pavate pe mal.",
+                "en": "Look for paved parking spots on the bank."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Keine Sorge um nasse Kleidung im warmen Auto.",
+                "hu": "Ne aggódjon a vizes ruhák miatt a meleg autóban.",
+                "ro": "Nu vă faceți griji pentru hainele ude în mașina caldă.",
+                "en": "No need to worry about wet clothes in the warm car."
+              }
+            },
+            {
+              "name": "Kava (Kamenolom)",
+              "tip_5lang": {
+                "de": "Vorsicht auf unbefestigten Zufahrtswegen.",
+                "hu": "Vigyázat a nem aszfaltozott bekötőutakon.",
+                "ro": "Atenție pe drumurile de acces neasfaltate.",
+                "en": "Be careful on unpaved access roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt.",
+              "Vermeiden Sie tiefes Wasser in Senken am Fluss.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Parken Sie auf festem Untergrund, um nicht einzusinken."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Kerülje a mély vizet a folyóparti mélyedésekben.",
+              "Használja a klímát a párásodás ellen.",
+              "Szilárd talajon parkoljon, hogy ne süllyedjen el."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de plecare.",
+              "Evitați apa adâncă în zonele joase de lângă râu.",
+              "Folosiți aerul condiționat împotriva aburirii geamurilor.",
+              "Parcați pe teren solid pentru a nu vă împotmoli."
+            ],
+            "en": [
+              "Check your wipers before starting the trip.",
+              "Avoid deep water in low-lying areas near the river.",
+              "Use the AC to prevent windows from fogging up.",
+              "Park on firm ground to avoid getting stuck."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Žrnovnica ist komfortabel. Der Morgen führt uns zur kühlen Kirche Sv. Ante, wobei die Heizung im Auto für Behaglichkeit sorgt.\n\nMittags stoppen wir im Dorf für einen heißen Kaffee. Die klare Sicht lässt die Berge Mosor und Perun fast greifbar nah erscheinen.\n\nNachmittags am Antoničin mlin bewundern wir den Frost auf den Steinen. Das Auto erlaubt es uns, schnell zwischen den Sehenswürdigkeiten zu wechseln.\n\nZum Sonnenuntergang fahren wir zum Steinbruch. Das klare Winterlicht bietet spektakuläre Fotomotive, bevor wir uns auf den kurzen Weg zurück machen.",
+            "hu": "Egy téli kocsikázás Žrnovnicában kényelmes. A reggel a hűvös Szent Antal-templomhoz vezet, miközben az autó fűtése gondoskodik a kényelemről.\n\nDélben megállunk a faluban egy forró kávéra. A tiszta kilátás miatt a Mosor- és Perun-hegyek szinte karnyújtásnyira tűnnek.\n\nDélután az Antoničin mlin-nél megcsodáljuk a fagyot a köveken. Az autó lehetővé teszi a gyors váltást a látnivalók között.\n\nNapnyugtakor a kőfejtőhöz hajtunk. A tiszta téli fény látványos fotótémákat kínál, mielőtt elindulnánk a rövid úton visszafelé.",
+            "ro": "O plimbare de iarnă prin Žrnovnica este confortabilă. Dimineața ne duce la biserica răcoroasă Sf. Ante, în timp ce căldura din mașină asigură confortul.\n\nLa prânz ne oprim în sat pentru o cafea fierbinte. Vizibilitatea clară face ca munții Mosor și Perun să pară aproape.\n\nDupă-amiaza la Antoničin mlin admirăm bruma de pe pietre. Mașina ne permite să trecem rapid de la un obiectiv la altul.\n\nLa apus conducem spre carieră. Lumina clară a iernii oferă motive fotografice spectaculoase înainte de a porni pe drumul scurt de întoarcere.",
+            "en": "A winter drive through Žrnovnica is comfortable. The morning leads to the cool St. Anthony’s Church, with the car heater providing coziness.\n\nAt noon, stop in the village for a hot coffee. The clear views make the Mosor and Perun mountains appear almost within reach.\n\nIn the afternoon at Antoničin mlin, admire the frost on the stones. The car allows for quick transitions between sights.\n\nAt sunset, drive to the quarry. The crisp winter light offers spectacular photo opportunities before we head back on the short return trip."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Ante (Zentrum)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach der Besichtigung.",
+                "hu": "Használja az ülésfűtést a látogatás után.",
+                "ro": "Folosiți încălzirea în scaune după vizită.",
+                "en": "Use the seat heaters after the visit."
+              }
+            },
+            {
+              "name": "Kaffee-Stopp im Dorf",
+              "tip_5lang": {
+                "de": "Warme Parkplätze im Zentrum suchen.",
+                "hu": "Keressen védett parkolóhelyeket a központban.",
+                "ro": "Căutați locuri de parcare ferite în centru.",
+                "en": "Look for sheltered parking spots in the center."
+              }
+            },
+            {
+              "name": "Antoničin mlin (Fluss-Cluster)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Straßenglätte in Flussnähe.",
+                "hu": "Vigyázat a jeges utakkal a folyó közelében.",
+                "ro": "Atenție la polei pe drumurile de lângă râu.",
+                "en": "Watch out for icy roads near the river."
+              }
+            },
+            {
+              "name": "Rijeka Žrnovnica (Spaziergang)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die klare Luft zu genießen.",
+                "hu": "Rövid megálló a tiszta levegő élvezetéhez.",
+                "ro": "Scurtă oprire pentru a vă bucura de aerul curat.",
+                "en": "Short stop to enjoy the clear air."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt hinter Gebäuden.",
+                "hu": "Parkoljon szélvédett helyen az épületek mögött.",
+                "ro": "Parcați ferit de vânt în spatele clădirilor.",
+                "en": "Park in a wind-sheltered spot behind buildings."
+              }
+            },
+            {
+              "name": "Kava (Kamenolom)",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Frost rutschig sein.",
+                "hu": "A bekötőút fagyos időben csúszós lehet.",
+                "ro": "Accesul poate fi alunecos în caz de îngheț.",
+                "en": "The access road can be slippery during frost."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind wegen der Berglage ratsam.",
+              "Die Bura kann das Öffnen der Türen erschweren.",
+              "Halten Sie Enteiserspray für die Schlösser bereit.",
+              "Genießen Sie die Fahrt mit Panoramablick ohne Stau."
+            ],
+            "hu": [
+              "A hegyi elhelyezkedés miatt ajánlott a téli gumi.",
+              "A Bura megnehezítheti az ajtónyitást.",
+              "Legyen kéznél jégoldó spray a zárakhoz.",
+              "Élvezze a panorámás utat dugók nélkül."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate datorită zonei montane.",
+              "Vântul Bura poate îngreuna deschiderea ușilor.",
+              "Aveți la îndemână spray pentru dezghețarea yalelor.",
+              "Bucurați-vă de drumul panoramic fără blocaje."
+            ],
+            "en": [
+              "Winter tires are advisable due to the mountain location.",
+              "Bura gusts can make opening doors difficult.",
+              "Keep de-icer spray ready for the locks.",
+              "Enjoy the panoramic drive without traffic jams."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -970,6 +1534,170 @@
           "Buy tickets from the driver or at kiosks in Split.",
           "Avoid the midday heat for the walk up to the quarry."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir Žrnovnica bequem im Trockenen. Der Morgen beginnt am Dorfplatz, von wo aus wir schnell zur schützenden Kirche Sv. Ante spazieren.\n\nMittags bietet das Restaurant im Ort eine warme Zuflucht, während wir die Busfahrpläne für den Nachmittag prüfen. Die Wolken hängen tief über dem Fluss.\n\nNachmittags erkunden wir den Antoničin mlin. Der kurze Weg von der Haltestelle im Regen ist erfrischend und lässt die Natur lebendig wirken.\n\nDer Tag endet mit einer Fahrt zum Steinbruch. Die Rückreise im Bus bietet einen ruhigen Ausklang, während die Regentropfen an den Fenstern herablaufen.",
+            "hu": "Busszal kényelmesen és szárazon érjük el Žrnovnicát. A reggel a falu főterén indul, ahonnan gyorsan elsétálunk a védelmet nyújtó Szent Antal-templomhoz.\n\nDélben a helyi étterem nyújt meleg menedéket, miközben ellenőrizzük a délutáni buszmenetrendet. A felhők alacsonyan szállnak a folyó felett.\n\nDélután felfedezzük az Antoničin mlin-t. A buszmegállótól az esőben megtett rövid út frissítő, és élettel telivé teszi a természetet.\n\nA nap a kőfejtőhöz való utazással zárul. A buszos visszautazás nyugodt befejezést kínál, miközben az esőcseppek lefolynak az ablakokon.",
+            "ro": "Cu autobuzul ajungem în Žrnovnica confortabil și uscați. Dimineața începe în piața satului, de unde mergem rapid spre biserica Sf. Ante pentru adăpost.\n\nLa prânz, restaurantul din sat oferă un refugiu cald în timp ce verificăm programul autobuzelor pentru după-amiază. Norii atârnă jos peste râu.\n\nDupă-amiaza explorăm Antoničin mlin. Drumul scurt de la stație prin ploaie este revigorant și face natura să pară plină de viață.\n\nZiua se încheie cu o vizită la carieră. Călătoria de întoarcere cu autobuzul oferă un final liniștit, în timp ce picăturile de ploaie se scurg pe geamuri.",
+            "en": "By bus, we reach Žrnovnica comfortably and dry. The morning starts at the village square, from where we take a quick walk to the sheltering St. Anthony’s Church.\n\nAt noon, the local restaurant offers a warm sanctuary while we check the afternoon bus schedules. Clouds hang low over the river.\n\nIn the afternoon, we explore Antoničin mlin. The short walk from the stop in the rain is refreshing and makes nature feel alive.\n\nThe day ends with a visit to the quarry. The return bus journey provides a quiet conclusion as raindrops run down the windows."
+          },
+          "stops": [
+            {
+              "name": "Bushaltestelle Zentrum",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Wartehäuschen.",
+                "hu": "Várjon a váróteremben vagy a fedett megállóban.",
+                "ro": "Așteptați sub adăpostul stației.",
+                "en": "Wait under the bus stop shelter."
+              }
+            },
+            {
+              "name": "Crkva sv. Ante",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Haltestelle.",
+                "hu": "Csak 2 perc séta a megállótól.",
+                "ro": "La doar 2 minute de mers pe jos de stație.",
+                "en": "Only a 2-minute walk from the stop."
+              }
+            },
+            {
+              "name": "Rijeka Žrnovnica & Mlin",
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe für den Weg.",
+                "hu": "Viseljen vízálló cipőt az úthoz.",
+                "ro": "Purtați încălțăminte impermeabilă pentru drum.",
+                "en": "Wear waterproof shoes for the path."
+              }
+            },
+            {
+              "name": "Mittagessen im Ort",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich gut auf, bevor es weitergeht.",
+                "hu": "Melegedjen fel jól, mielőtt továbbindul.",
+                "ro": "Încălziți-vă bine înainte de a continua.",
+                "en": "Warm up well before moving on."
+              }
+            },
+            {
+              "name": "Kava (Kamenolom)",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fußweg bei Nässe genau.",
+                "hu": "Ellenőrizze alaposan a gyalogutat esőben.",
+                "ro": "Verificați cu atenție potecile pe ud.",
+                "en": "Check the walking paths carefully when wet."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie den digitalen Fahrplan immer griffbereit.",
+              "Die Busse verkehren bei Regen meist pünktlich.",
+              "Ein kleiner, stabiler Schirm ist ideal für den Bus.",
+              "Nutzen Sie die Wartezeiten für Fotos der Wolken."
+            ],
+            "hu": [
+              "Mindig legyen kéznél a digitális menetrend.",
+              "A buszok esőben is többnyire pontosak.",
+              "Egy kis, stabil esernyő ideális a buszhoz.",
+              "Használja ki a várakozási időt a felhők fotózására."
+            ],
+            "ro": [
+              "Aveți mereu la îndemână programul digital.",
+              "Autobuzele circulă de obicei la timp pe ploaie.",
+              "O umbrelă mică și stabilă este ideală pentru autobuz.",
+              "Folosiți timpii de așteptare pentru a fotografia norii."
+            ],
+            "en": [
+              "Always have the digital timetable ready.",
+              "Buses usually run on time even in the rain.",
+              "A small, sturdy umbrella is ideal for the bus.",
+              "Use the waiting times to take photos of the clouds."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet der Bus eine warme Verbindung nach Žrnovnica. Der Morgen ist frostig, aber die Busfahrt ist angenehm temperiert.\n\nMittags kehren wir für ein warmes Essen ein, während wir die klare Bergsicht durch die Fenster genießen. Die Zeitpläne sind im Winter verlässlich.\n\nNachmittags erkunden wir den Antoničin mlin. Die Kälte sorgt für eine ruhige Atmosphäre, und der kurze Fußweg hält uns warm.\n\nDer Tag endet früh, da es dunkel wird. Die Rückfahrt im Bus ist die perfekte Gelegenheit, die Fotos des Tages zu sichten, während draußen die Lichter des Dorfes leuchten.",
+            "hu": "Télen a busz meleg kapcsolatot biztosít Žrnovnicával. A reggel fagyos, de a buszút kellemes hőmérsékletű.\n\nDélben beülünk egy meleg ebédre, miközben az ablakon keresztül élvezzük a tiszta hegyi kilátást. A menetrendek télen is megbízhatóak.\n\nDélután felfedezzük az Antoničin mlin-t. A hideg nyugodt légkört teremt, a rövid séta pedig melegen tart minket.\n\nA nap korán véget ér, ahogy sötétedik. A buszos visszautazás tökéletes alkalom a napi fotók átnézésére, miközben kint kigyúlnak a falu fényei.",
+            "ro": "Iarna, autobuzul oferă o legătură caldă spre Žrnovnica. Dimineața este geroasă, dar călătoria cu autobuzul are o temperatură plăcută.\n\nLa prânz ne oprim pentru o masă caldă, în timp ce admirăm vederea clară spre munți prin ferestre. Orarele sunt de încredere iarna.\n\nDupă-amiaza explorăm Antoničin mlin. Frigul creează o atmosferă liniștită, iar scurta plimbare ne menține calzi.\n\nZiua se încheie devreme odată cu lăsarea întunericului. Călătoria de întoarcere este ocazia perfectă pentru a vedea pozele zilei, în timp ce afară luminează satul.",
+            "en": "In winter, the bus provides a warm link to Žrnovnica. The morning is frosty, but the bus ride is comfortably heated.\n\nAt noon, we stop for a warm meal while enjoying clear mountain views through the windows. Timetables remain reliable in winter.\n\nIn the afternoon, we explore Antoničin mlin. The cold creates a quiet atmosphere, and the short walk keeps us moving and warm.\n\nThe day ends early as it gets dark. The return bus trip is the perfect chance to review the day's photos while the village lights glow outside."
+          },
+          "stops": [
+            {
+              "name": "Bushaltestelle Zentrum",
+              "tip_5lang": {
+                "de": "Tragen Sie eine warme Mütze beim Warten.",
+                "hu": "Viseljen meleg sapkát várakozás közben.",
+                "ro": "Purtați o căciulă călduroasă în timp ce așteptați.",
+                "en": "Wear a warm hat while waiting."
+              }
+            },
+            {
+              "name": "Crkva sv. Ante",
+              "tip_5lang": {
+                "de": "Das Innere bietet Schutz vor dem kalten Wind.",
+                "hu": "A belső tér védelmet nyújt a hideg szél ellen.",
+                "ro": "Interiorul oferă protecție împotriva vântului rece.",
+                "en": "The interior offers protection from the cold wind."
+              }
+            },
+            {
+              "name": "Rijeka Žrnovnica & Mlin",
+              "tip_5lang": {
+                "de": "Zügiges Gehen hilft gegen die Kälte.",
+                "hu": "A gyors tempó segít a hideg ellen.",
+                "ro": "Mersul vioi ajută împotriva frigului.",
+                "en": "Brisk walking helps against the cold."
+              }
+            },
+            {
+              "name": "Mittagessen im Ort",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne Sommertrubel.",
+                "hu": "Élvezze a nyugalmat a nyári zsúfoltság nélkül.",
+                "ro": "Bucurați-vă de liniște fără aglomerația de vară.",
+                "en": "Enjoy the peace without the summer bustle."
+              }
+            },
+            {
+              "name": "Kava (Kamenolom)",
+              "tip_5lang": {
+                "de": "Beachten Sie das schwindende Licht ab 16:00.",
+                "hu": "Ügyeljen a fogyó fényre 16:00 után.",
+                "ro": "Țineți cont de lumina care scade după ora 16:00.",
+                "en": "Be aware of the fading light after 16:00."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Bus-App für Echtzeit-Infos.",
+              "Die Bura kann an den Haltestellen sehr ungemütlich sein.",
+              "Tragen Sie Handschuhe, um das Handy zu bedienen.",
+              "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit."
+            ],
+            "hu": [
+              "Használja a buszos applikációt a valós idejű infókért.",
+              "A Bura a megállókban nagyon kellemetlen lehet.",
+              "Viseljen kesztyűt a telefon használatához.",
+              "Tervezze meg a visszautat sötétedés előtt."
+            ],
+            "ro": [
+              "Folosiți aplicația de autobuz pentru info în timp real.",
+              "Vântul Bura poate fi foarte neplăcut în stații.",
+              "Purtați mănuși pentru a folosi telefonul.",
+              "Planificați întoarcerea înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Use the bus app for real-time information.",
+              "The Bura wind can be very uncomfortable at the stops.",
+              "Wear gloves that allow you to use your phone.",
+              "Plan your return journey before it gets dark."
+            ]
+          }
+        }
       }
     }
   }

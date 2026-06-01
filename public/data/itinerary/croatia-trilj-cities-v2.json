@@ -234,6 +234,196 @@
           "The water temperature of Cetina is very refreshing even in summer.",
           "Visit Trilj in September for local festivals."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Museum, um den Regenschauern zu entgehen. Mittags genießen Sie lokale Spezialitäten in einer gemütlichen Konoba am Flussufer. Am Nachmittag ermöglicht eine Regenpause einen kurzen Spaziergang zur Brücke und zur Festung Nutjak, wo der Nebel dem Canyon eine mystische Atmosphäre verleiht. Den Abend lassen Sie bei einem warmen Getränk im Stadtzentrum ausklingen.",
+            "hu": "A napot a múzeumban indítjuk, védve az esőtől. Ebédre egy vízparti konobát választunk, ahol a Cetina morajlását hallgathatjuk. Délután, az eső csendesedésekor teszünk egy gyors sétát a hídon és Nutjak váránál, ahol a köd különleges, misztikus hangulatot áraszt a kanyon felett. Az estét egy forró ital mellett, fedett helyen zárjuk.",
+            "ro": "Începeți ziua la muzeu pentru a evita ploaia de dimineață. Prânzul este savurat într-o konoba primitoare pe malul râului. După-amiaza, profităm de o pauză a ploii pentru o scurtă plimbare la pod și la fortăreața Nutjak, unde ceața oferă canionului o atmosferă mistică. Seara se încheie confortabil, cu o băutură caldă în centrul orașului.",
+            "en": "Start the day at the museum to escape the morning showers. For lunch, enjoy local specialties in a cozy riverside tavern. In the afternoon, a break in the rain allows for a quick walk to the bridge and Nutjak fortress, where the mist adds a mystical atmosphere to the canyon. End the evening with a warm drink in the town center."
+          },
+          "stops": [
+            {
+              "name": "Muzej triljskog kraja",
+              "tip_5lang": {
+                "de": "Idealer Zufluchtsort bei Regen, erkunden Sie die Funde von Tilurium im Trockenen.",
+                "hu": "Tökéletes menedék esőben, fedett helyen ismerhetjük meg a római kori leleteket.",
+                "ro": "Refugiu ideal pe ploaie, explorați descoperirile din Tilurium la adăpost.",
+                "en": "Perfect refuge from the rain, explore the Tilurium finds in a dry environment."
+              }
+            },
+            {
+              "name": "Most na Cetini",
+              "tip_5lang": {
+                "de": "Vorsicht, der Boden kann rutschig sein; genießen Sie den Blick auf den steigenden Fluss.",
+                "hu": "Vigyázat, a járófelület csúszós lehet; nézze meg a megduzzadt Cetina folyót.",
+                "ro": "Atenție, suprafața poate fi alunecoasă; admirați debitul crescut al râului.",
+                "en": "Caution, the surface may be slippery; enjoy the view of the rising river."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Tisch am Fenster, um das Regenwetter über der Cetina zu beobachten.",
+                "hu": "Válasszon ablak melletti asztalt, és figyelje az esőt a Cetina felett.",
+                "ro": "Alegeți o masă lângă fereastră pentru a urmări ploaia peste râul Cetina.",
+                "en": "Pick a window seat to watch the rain falling over the Cetina river."
+              }
+            },
+            {
+              "name": "Spaziergang am Fluss Cetina",
+              "tip_5lang": {
+                "de": "Ein stabiler Regenschirm ist bei den Windböen am Flussufer unerlässlich.",
+                "hu": "Egy erős esernyő elengedhetetlen a folyóparti széllökések miatt.",
+                "ro": "O umbrelă rezistentă este esențială din cauza rafalelor de vânt de pe mal.",
+                "en": "A sturdy umbrella is essential due to the wind gusts along the river."
+              }
+            },
+            {
+              "name": "Tvrđava Nutjak",
+              "tip_5lang": {
+                "de": "Die Pfade sind schlammig; wasserfeste Wanderschuhe sind absolut notwendig.",
+                "hu": "Az ösvények sárosak; vízálló túrabakancs használata kötelező.",
+                "ro": "Potecile sunt noroioase; bocancii impermeabili sunt absolut necesari.",
+                "en": "The paths are muddy; waterproof hiking boots are strictly necessary."
+              }
+            },
+            {
+              "name": "Naplemente-pihenő a kanyon felett",
+              "tip_5lang": {
+                "de": "Bei Regen oft neblig; die dramatischen Wolkenformationen sind dennoch fotogen.",
+                "hu": "Esőben gyakran ködös, de a drámai felhők látványa így is fotogén.",
+                "ro": "Adesea cețos pe ploaie; norii dramatici sunt totuși foarte fotogenici.",
+                "en": "Often misty in the rain; the dramatic cloud formations are still photogenic."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Regenpausen für die Außenbesichtigungen der Festung.",
+              "Die Innenräume des Museums bieten eine hervorragende Alternative für längere Schauer.",
+              "Tragen Sie rutschfeste Sohlen, da die Steinpfade in Trilj glatt werden.",
+              "Genießen Sie die lokale Cetina-Forelle in den beheizten Konobas.",
+              "Ein Regencape ist praktischer als ein Schirm bei Wind am Canyon."
+            ],
+            "hu": [
+              "Használja ki az esőszüneteket a vár és a folyópart megtekintésére.",
+              "A múzeum belső terei kiváló menedéket nyújtanak a nagyobb záporok alatt.",
+              "Viseljen csúszásmentes talpú cipőt, a köves utak nagyon csúsznak.",
+              "Kóstolja meg a helyi pisztrángot a fűtött beltéri éttermekben.",
+              "A kanyon szélén egy esőkabát praktikusabb választás az esernyőnél."
+            ],
+            "ro": [
+              "Folosiți pauzele dintre ploi pentru a vizita fortăreața și malul râului.",
+              "Interioarele muzeului oferă un adăpost excelent în timpul averselor mari.",
+              "Purtați încălțăminte cu talpă aderentă, deoarece piatra devine alunecoasă.",
+              "Savurați păstrăvul local în interiorul încălzit al tavernelor.",
+              "O pelerină de ploaie este mai practică decât umbrela în zona canionului."
+            ],
+            "en": [
+              "Use gaps between rain showers for outdoor visits to the fortress.",
+              "The museum's interior provides excellent shelter during heavy downpours.",
+              "Wear non-slip soles as the stone paths in Trilj become very slippery.",
+              "Enjoy local Cetina trout in the heated interiors of the taverns.",
+              "A raincoat is more practical than an umbrella in the windy canyon area."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Trilj an einem klaren Wintertag. Die frische Luft macht den Besuch im Museum am Morgen besonders angenehm. Mittags wärmen Sie sich mit herzhaften Eintöpfen in einer lokalen Gaststätte auf. Der Nachmittag führt zur Festung Nutjak, wo die tiefstehende Wintersonne den Canyon in goldenes Licht taucht. Wegen des frühen Sonnenuntergangs gegen 16:30 Uhr endet die Tour rechtzeitig im gemütlichen Cafe.",
+            "hu": "Fedezze fel Triljt egy tiszta téli napon. A friss levegő után a múzeum fűtött terei jól fognak esni délelőtt. Ebédre válasszon tápláló helyi ételeket, mint a sinji arambaši. Délután a Nutjak várához sétálunk, ahol az alacsony téli nap aranyba vonja a kanyont. A korai, 16:30-as naplemente után már egy meleg kávézóban pihenünk.",
+            "ro": "Explorați Trilj într-o zi senină de iarnă. Aerul proaspăt face vizita la muzeu de dimineață foarte plăcută. La prânz, încălziți-vă cu preparate locale consistente. După-amiaza duce spre fortăreața Nutjak, unde soarele palid de iarnă scaldă canionul în lumină aurie. Din cauza apusului devreme, în jurul orei 16:30, turul se încheie la o cafenea primitoare.",
+            "en": "Explore Trilj on a crisp winter day. The fresh air makes the morning museum visit particularly pleasant. At lunch, warm up with hearty stews in a local eatery. The afternoon leads to Nutjak fortress, where the low winter sun bathes the canyon in golden light. Due to the early sunset around 4:30 PM, the tour ends perfectly in a cozy cafe."
+          },
+          "stops": [
+            {
+              "name": "Muzej triljskog kraja",
+              "tip_5lang": {
+                "de": "Gut beheizte Räume; perfekt, um sich vor dem weiteren Spaziergang aufzuwärmen.",
+                "hu": "Jól fűtött helyiségek; tökéletes bemelegítés a további séta előtt.",
+                "ro": "Spații bine încălzite; perfect pentru a vă încălzi înainte de restul plimbării.",
+                "en": "Well-heated rooms; perfect for warming up before continuing the walk."
+              }
+            },
+            {
+              "name": "Most na Cetini",
+              "tip_5lang": {
+                "de": "Bei Bura-Wind sehr kalt; achten Sie auf mögliche Glätte auf den Steinen.",
+                "hu": "Bura szélben nagyon hideg; figyeljen az esetleges jegesedésre a köveken.",
+                "ro": "Foarte frig când bate vântul Bura; atenție la gheața de pe pietre.",
+                "en": "Very cold during Bura wind; watch out for possible ice on the stones."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Sinjski Arambaši, einem typischen Wintergericht der Region.",
+                "hu": "Kérjen sinji arambašit, a régió jellegzetes téli ételét.",
+                "ro": "Cereți Sinjski Arambaši, un preparat tradițional de iarnă din regiune.",
+                "en": "Ask for Sinjski Arambaši, a typical regional winter dish."
+              }
+            },
+            {
+              "name": "Spaziergang am Fluss Cetina",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Kleidung; die Luftfeuchtigkeit am Fluss verstärkt die Kälte.",
+                "hu": "Öltözzön rétegesen; a folyóparti pára miatt hidegebbnek érződik az idő.",
+                "ro": "Purtați haine groase; umiditatea de lângă râu accentuează senzația de frig.",
+                "en": "Dress warmly; the humidity near the river increases the chill factor."
+              }
+            },
+            {
+              "name": "Tvrđava Nutjak",
+              "tip_5lang": {
+                "de": "Beste Zeit ist 15:00 Uhr für das goldene Licht vor dem Sonnenuntergang.",
+                "hu": "A legjobb időpont 15:00 óra az aranyló fényekhez a naplemente előtt.",
+                "ro": "Momentul ideal este ora 15:00 pentru lumina aurie de dinaintea apusului.",
+                "en": "The best time is 3:00 PM for the golden light before sunset."
+              }
+            },
+            {
+              "name": "Naplemente-pihenő a kanyon felett",
+              "tip_5lang": {
+                "de": "Die Sonne verschwindet im Winter früh hinter den Bergen; bringen Sie eine Taschenlampe mit.",
+                "hu": "A nap télen korán eltűnik a hegyek mögött; legyen önnél zseblámpa.",
+                "ro": "Soarele apune devreme după munți iarna; aduceți o lanternă pentru întoarcere.",
+                "en": "The sun sets early behind the mountains in winter; bring a flashlight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders wenn die Bura weht.",
+              "Die Wintersonne ist stark, aber die Schatten im Canyon sind sehr kühl.",
+              "Planen Sie alle Außenaktivitäten vor 16:00 Uhr ein.",
+              "Wärmen Sie sich zwischendurch in den lokalen Cafés mit Tee auf.",
+              "Festes Schuhwerk schützt vor Bodenkälte auf den Naturpfaden."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen ha fúj a bóra.",
+              "A téli nap erős, de a kanyon árnyékos részei nagyon hidegek.",
+              "Minden kültéri programot tervezzen be délután 4 óra előtt.",
+              "Melegedjen fel a helyi kávézókban egy forró teával.",
+              "A vastag talpú cipő véd a talajmenti hideg ellen a várhoz vezető úton."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, mai ales dacă bate Bura.",
+              "Soarele de iarnă este puternic, dar umbrele din canion sunt foarte reci.",
+              "Planificați toate activitățile în aer liber înainte de ora 16:00.",
+              "Încălziți-vă periodic cu un ceai fierbinte în cafenelele locale.",
+              "Încălțămintea robustă protejează împotriva frigului de la sol pe poteci."
+            ],
+            "en": [
+              "Wear windproof clothing, especially if the Bura wind is blowing.",
+              "The winter sun is bright, but shadows in the canyon are very chilly.",
+              "Schedule all outdoor activities before 4:00 PM.",
+              "Warm up periodically with hot tea in the local cafes.",
+              "Sturdy boots protect against the ground cold on the nature trails."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -444,6 +634,178 @@
           "There are many shaded picnic spots in Grab.",
           "The roads are mostly low-traffic."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse, aber erfrischende Tour durch das Triljer Hinterland. Am Vormittag besuchen wir die Grab-Mühlen, wo das Wasser heute besonders laut tost. Mittags suchen wir Schutz in einem Restaurant am Fluss. Die Fahrt zum römischen Lager Tilurium erfordert bei Regen Konzentration, bietet aber einsame Wege. Die Tour endet mit einem kulturellen Stopp im Museum, während das Fahrrad sicher draußen parkt.",
+            "hu": "Vizes, de frissítő túra Trilj környékén. Délelőtt a Grabi malmokat nézzük meg, ahol a víz morajlása esőben még hangosabb. Ebédre egy folyóparti étteremben keresünk menedéket. A Tilurium római táborhoz vezető út esőben több koncentrációt igényel, de csendes utakat ígér. A napot a múzeumban zárjuk, ahol fedett helyen kulturálódhatunk.",
+            "ro": "O tură umedă, dar revigorantă prin împrejurimile orașului Trilj. Dimineața vizităm morile din Grab, unde vuietul apei este mai puternic pe ploaie. La prânz căutăm adăpost într-un restaurant de pe malul râului. Drumul spre tabăra romană Tilurium necesită concentrare pe ploaie, dar oferă drumuri pustii. Turul se încheie cu o vizită culturală la muzeu.",
+            "en": "A wet but refreshing bike tour through the Trilj hinterland. In the morning, we visit the Grab mills, where the water roars louder in the rain. For lunch, seek shelter in a riverside restaurant. The ride to the Tilurium Roman camp requires focus in the rain but offers quiet roads. The tour ends with a cultural stop at the museum while you dry off."
+          },
+          "stops": [
+            {
+              "name": "Grabski mlinovi",
+              "tip_5lang": {
+                "de": "Die Holzstege sind bei Nässe extrem rutschig; schieben Sie das Fahrrad lieber.",
+                "hu": "A fapallók esőben rendkívül csúszósak; inkább tolja a kerékpárt.",
+                "ro": "Podețele de lemn sunt extrem de alunecoase pe ploaie; mai bine împingeți bicicleta.",
+                "en": "The wooden walkways are extremely slippery when wet; better push your bike."
+              }
+            },
+            {
+              "name": "Rimski logor Tilurium",
+              "tip_5lang": {
+                "de": "Offenes Gelände; achten Sie auf Windböen beim Bergauffahren.",
+                "hu": "Nyitott terep; figyeljen a széllökésekre a felfelé vezető úton.",
+                "ro": "Teren deschis; atenție la rafalele de vânt în timpul urcării.",
+                "en": "Open terrain; watch out for wind gusts while cycling uphill."
+              }
+            },
+            {
+              "name": "Ebéd a folyóparton",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zum Trocknen Ihrer Kleidung; fragen Sie nach einem Heizkörper.",
+                "hu": "Használja ki az időt a ruhái szárítására; kérdezzen rá a fűtőtestre.",
+                "ro": "Folosiți timpul pentru a vă usca hainele; întrebați de un calorifer.",
+                "en": "Use the time to dry your gear; ask for a radiator if available."
+              }
+            },
+            {
+              "name": "Most na Cetini",
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig; die Markierungen auf der Brücke sind glatt.",
+                "hu": "Fékezzen időben; a hídon lévő útburkolati jelek csúsznak.",
+                "ro": "Frânați din timp; marcajele rutiere de pe pod sunt alunecoase.",
+                "en": "Brake early; the road markings on the bridge are slippery."
+              }
+            },
+            {
+              "name": "Muzej triljskog kraja",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Fahrräder vorhanden; idealer Abschluss im Trockenen.",
+                "hu": "Biztonságos kerékpárparkoló elérhető; ideális befejezés száraz helyen.",
+                "ro": "Loc sigur de parcare pentru biciclete; final ideal la adăpost.",
+                "en": "Safe bike parking available; ideal ending in a dry place."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Gute Schutzbleche sind bei den Feldwegen nach Grab unverzichtbar.",
+              "Vermeiden Sie plötzliches Bremsen auf nassem Kopfsteinpflaster.",
+              "Tragen Sie eine wasserdichte, atmungsaktive Jacke.",
+              "Halten Sie Ausschau nach kleinen Unterständen entlang der Cetina.",
+              "Überprüfen Sie den Reifendruck für besseren Grip auf nasser Fahrbahn."
+            ],
+            "hu": [
+              "A Grab felé vezető földutakon a sárvédő elengedhetetlen.",
+              "Kerülje a hirtelen fékezést a vizes aszfalton vagy köveken.",
+              "Viseljen vízálló, de lélegző esőkabátot.",
+              "Jegyezze meg a Cetina menti kisebb fedett beállókat.",
+              "Ellenőrizze a guminyomást a jobb tapadás érdekében a vizes úton."
+            ],
+            "ro": [
+              "Apărătorile bune sunt indispensabile pe drumurile spre Grab.",
+              "Evitați frânarea bruscă pe asfaltul ud sau piatră.",
+              "Purtați o jachetă impermeabilă și respirabilă.",
+              "Căutați micile adăposturi de-a lungul râului Cetina.",
+              "Verificați presiunea anvelopelor pentru o aderență mai bună pe carosabil ud."
+            ],
+            "en": [
+              "Good mudguards are essential on the dirt roads to Grab.",
+              "Avoid sudden braking on wet asphalt or stone surfaces.",
+              "Wear a waterproof but breathable cycling jacket.",
+              "Look out for small covered shelters along the Cetina river.",
+              "Check tire pressure for better grip on wet roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige, aber sonnige Wintertour. Wir starten früh in Grab, um die Eiszapfen an den alten Mühlen zu sehen. Der Anstieg nach Tilurium hält den Körper warm, oben bietet sich ein klarer Blick auf die schneebedeckten Berge. Nach einem wärmenden Mittagessen in Trilj führt der Weg über die Brücke direkt zum Museum, wo wir den Tag gemütlich ausklingen lassen.",
+            "hu": "Fagyos, de napsütéses téli túra. Korán indulunk Grabba, hogy lássuk a jégcsapokat a régi malmoknál. A Tiluriumhoz vezető emelkedő segít melegen tartani a testet, fentről tiszta kilátás nyílik a havas hegyekre. Egy meleg trilji ebéd után a hídon át egyenesen a múzeumba megyünk, ahol kényelmesen fejezzük be a napot.",
+            "ro": "O tură de iarnă geroasă, dar însorită. Pornim devreme spre Grab pentru a vedea țurțurii la vechile mori. Urcarea spre Tilurium menține corpul cald, iar de sus se vede clar spre munții înzăpeziți. După un prânz cald în Trilj, drumul peste pod ne duce direct la muzeu, unde încheiem ziua confortabil.",
+            "en": "A frosty but sunny winter bike tour. We start early in Grab to see the icicles on the old mills. The climb to Tilurium keeps the body warm, and the top offers a clear view of the snowy mountains. After a warming lunch in Trilj, the path over the bridge leads straight to the museum for a cozy finale."
+          },
+          "stops": [
+            {
+              "name": "Grabski mlinovi",
+              "tip_5lang": {
+                "de": "Oft gefrorene Pfützen am Morgen; fahren Sie vorsichtig in den schattigen Bereichen.",
+                "hu": "Reggelente gyakoriak a fagyott tócsák; óvatosan hajtson az árnyékos részeken.",
+                "ro": "Bălți înghețate dimineața; conduceți cu prudență în zonele umbrite.",
+                "en": "Frozen puddles are common in the morning; ride carefully in shaded areas."
+              }
+            },
+            {
+              "name": "Rimski logor Tilurium",
+              "tip_5lang": {
+                "de": "Sehr windexponiert; ziehen Sie eine extra Schicht für die Abfahrt an.",
+                "hu": "Nagyon szeles hely; vegyen fel egy plusz réteget a leereszkedés előtt.",
+                "ro": "Expus la vânt; puneți un strat suplimentar de haine pentru coborâre.",
+                "en": "Very exposed to wind; put on an extra layer for the downhill ride."
+              }
+            },
+            {
+              "name": "Ebéd a folyóparton",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz nah am Ofen oder Grill, um die Kälte aus den Knochen zu vertreiben.",
+                "hu": "Keressen helyet a kályha vagy a grill közelében, hogy átmelegedjen.",
+                "ro": "Căutați un loc lângă sobă sau grătar pentru a vă încălzi oasele.",
+                "en": "Find a seat near the stove or grill to drive away the chill."
+              }
+            },
+            {
+              "name": "Most na Cetini",
+              "tip_5lang": {
+                "de": "Starke Kaltluftströme über dem Wasser; halten Sie den Kopf und Hals warm.",
+                "hu": "Erős hideg légáramlatok a víz felett; védje a fejét és a nyakát.",
+                "ro": "Curenți de aer rece deasupra apei; protejați-vă capul și gâtul.",
+                "en": "Strong cold air currents over the water; keep your head and neck warm."
+              }
+            },
+            {
+              "name": "Muzej triljskog kraja",
+              "tip_5lang": {
+                "de": "Die Wärme im Museum ist nach der Tour eine wahre Wohltat.",
+                "hu": "A múzeumi meleg igazi áldás a téli biciklizés után.",
+                "ro": "Căldura din muzeu este o adevărată binecuvântare după tură.",
+                "en": "The warmth of the museum is a true blessing after the ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Handschuhe; die Finger kühlen am Lenker schnell aus.",
+              "Benutzen Sie Lippenbalsam gegen den kalten Fahrtwind.",
+              "Die Batterien von E-Bikes entladen sich bei Kälte schneller.",
+              "Halten Sie die Tour kurz und intensiv, um nicht auszukühlen.",
+              "Trinken Sie warme Getränke aus einer Thermoskanne während der Pausen."
+            ],
+            "hu": [
+              "Viseljen termokeresztyűt; az ujjak gyorsan áthűlnek a kormányon.",
+              "Használjon ajakírt a hideg menetszél ellen.",
+              "Az elektromos kerékpárok akkumulátora gyorsabban merül hidegben.",
+              "Tartsa a túrát rövidebbnek és intenzívebbnek a kihűlés elkerülésére.",
+              "Vigyen magával meleg italt termosztban a pihenőkhöz."
+            ],
+            "ro": [
+              "Purtați mănuși termice; degetele îngheață repede pe ghidon.",
+              "Folosiți balsam de buze împotriva vântului rece de la rulare.",
+              "Bateriile bicicletelor electrice se descarcă mai repede la frig.",
+              "Păstrați tura scurtă și intensă pentru a nu vă răci corpul.",
+              "Beți băuturi calde dintr-un termos în timpul pauzelor."
+            ],
+            "en": [
+              "Wear thermal gloves; fingers cool down quickly on the handlebars.",
+              "Use lip balm against the cold headwind.",
+              "Electric bike batteries discharge faster in the cold.",
+              "Keep the tour short and intense to avoid getting chilled.",
+              "Drink warm beverages from a thermos during breaks."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -672,6 +1034,196 @@
           "The road to Grab is narrow, drive carefully.",
           "There is little shade in Tilurium, bring a sun hat."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trilj mit dem Auto bietet den besten Komfort an einem Regentag. Wir besuchen die Festung Nutjak und Tilurium zwischen den Schauern. Mittags genießen wir ein entspanntes Essen im trockenen Stadtzentrum. Der Nachmittag gehört dem Museum und den Grab-Mühlen, die man bequem über befestigte Straßen erreicht. So bleibt man trotz Wetter flexibel und trocken.",
+            "hu": "Autóval Trilj felfedezése kényelmes marad esős időben is. A Nutjak várat és Tiluriumot a záporok közötti szünetekben nézzük meg. Ebédre egy kellemes éttermet választunk a városközpontban. Délután a múzeum és a Grabi malmok következnek, melyek aszfaltozott úton könnyen elérhetők. Így az időjárástól függetlenül szárazak maradunk.",
+            "ro": "Explorarea orașului Trilj cu mașina oferă cel mai bun confort într-o zi ploioasă. Vizităm fortăreața Nutjak și Tilurium între averse. La prânz ne bucurăm de o masă relaxată în centrul orașului. După-amiaza aparține muzeului și morilor din Grab, accesibile pe drumuri asfaltate. Astfel rămâneți flexibili și uscați.",
+            "en": "Exploring Trilj by car provides the best comfort on a rainy day. We visit Nutjak fortress and Tilurium between the showers. At lunch, enjoy a relaxed meal in the dry city center. The afternoon is dedicated to the museum and the Grab mills, easily reached via paved roads. This way, you stay flexible and dry regardless of the weather."
+          },
+          "stops": [
+            {
+              "name": "Tvrđava Nutjak",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Pfad, um den Weg im Regen zu verkürzen.",
+                "hu": "Parkoljon minél közelebb az ösvényhez, hogy lerövidítse az utat az esőben.",
+                "ro": "Parcați aproape de potecă pentru a scurta drumul prin ploaie.",
+                "en": "Park close to the path to shorten the walk in the rain."
+              }
+            },
+            {
+              "name": "Rimski logor Tilurium",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann bei starkem Regen rutschig sein; fahren Sie vorsichtig.",
+                "hu": "A bekötőút erős esőben csúszós lehet; vezessen óvatosan.",
+                "ro": "Drumul de acces poate fi alunecos pe ploaie torențială; conduceți cu grijă.",
+                "en": "The access road can be slippery in heavy rain; drive carefully."
+              }
+            },
+            {
+              "name": "Most na Cetini",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp direkt aus dem Auto möglich, falls es zu stark regnet.",
+                "hu": "Rövid fotómegálló az autóból is lehetséges, ha túl erősen esne az eső.",
+                "ro": "Oprire foto scurtă direct din mașină, dacă plouă prea tare.",
+                "en": "Short photo stop possible directly from the car if it rains too hard."
+              }
+            },
+            {
+              "name": "Ebéd a városban",
+              "tip_5lang": {
+                "de": "Parkplätze in der Nähe der Restaurants vorhanden; kein langer Fußweg nötig.",
+                "hu": "Parkolóhelyek elérhetők az éttermek közelében; nem kell sokat gyalogolni.",
+                "ro": "Locuri de parcare disponibile lângă restaurante; nu e nevoie de mers pe jos mult.",
+                "en": "Parking spaces available near the restaurants; no long walk needed."
+              }
+            },
+            {
+              "name": "Muzej triljskog kraja",
+              "tip_5lang": {
+                "de": "Perfekt für den späten Nachmittag, wenn der Regen zunimmt.",
+                "hu": "Tökéletes késő délutáni program, amikor erősödik az eső.",
+                "ro": "Perfect pentru după-amiaza târzie, când ploaia se intensifică.",
+                "en": "Perfect for late afternoon when the rain intensifies."
+              }
+            },
+            {
+              "name": "Grabski mlinovi",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf der schmalen Straße nach Grab.",
+                "hu": "Figyeljen a pocsolyákra a Grab felé vezető keskeny úton.",
+                "ro": "Atenție la bălțile de pe drumul îngust spre Grab.",
+                "en": "Watch out for puddles on the narrow road to Grab."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt in das Hinterland.",
+              "Halten Sie einen Regenschirm im Auto für die kurzen Wege zu den Ruinen bereit.",
+              "Nutzen Sie die Heizung, um die Luftfeuchtigkeit im Wagen zu reduzieren.",
+              "Planen Sie die Besichtigung von Tilurium für eine Regenpause ein.",
+              "Die Straßen im Hinterland können bei Nässe schmierig sein."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlőket.",
+              "Tartson esernyőt az autóban a romokhoz vezető rövid sétákhoz.",
+              "Használja a fűtést a belső páralecsapódás csökkentésére.",
+              "Tervezze Tilurium megtekintését az esőszünetekre.",
+              "A vidéki utak nedvesen csúszósak és nyálkásak lehetnek."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a pleca spre zonele rurale.",
+              "Țineți o umbrelă în mașină pentru drumurile scurte spre ruine.",
+              "Folosiți încălzirea pentru a reduce umiditatea din mașină.",
+              "Planificați vizitarea Tilurium în timpul pauzelor de ploaie.",
+              "Drumurile secundare pot fi alunecoase când sunt ude."
+            ],
+            "en": [
+              "Check your windshield wipers before heading into the hinterland.",
+              "Keep an umbrella in the car for short walks to the ruins.",
+              "Use the heater to reduce humidity inside the vehicle.",
+              "Plan the Tilurium visit for a break in the rain.",
+              "Rural roads can be greasy and slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Wintertour durch das Cetina-Tal. Mit dem Auto erreichen wir die Festung Nutjak am Morgen ohne Frostbeulen. Tilurium bietet im Winter eine glasklare Fernsicht. Nach einem herzhaften Mittagessen in Trilj besuchen wir das warme Museum. Den Tag krönen die Grab-Mühlen, wo das Wasser im Winter oft magisch dampft, bevor es dunkel wird.",
+            "hu": "Kellemes téli túra a Cetina-völgyben. Autóval fagyoskodás nélkül érjük el reggel Nutjak várát. Tilurium télen kristálytiszta távlati kilátást nyújt. Egy laktató trilji ebéd után a meleg múzeumot látogatjuk meg. A napot a Grabi malmok koronázzák meg, ahol a víz télen gyakran mágikusan gőzölög sötétedés előtt.",
+            "ro": "Un tur de iarnă confortabil prin valea Cetinei. Cu mașina ajungem dimineața la fortăreața Nutjak fără să înghețăm. Tilurium oferă iarna o vedere clară la distanță. După un prânz consistent în Trilj, vizităm muzeul călduros. Ziua este încununată de morile din Grab, unde apa aburește adesea magic înainte de lăsarea întunericului.",
+            "en": "A cozy winter tour through the Cetina Valley. By car, we reach Nutjak fortress in the morning without freezing. Tilurium offers crystal clear views in winter. After a hearty lunch in Trilj, we visit the warm museum. The day is crowned by the Grab mills, where the water often steams magically before dark."
+          },
+          "stops": [
+            {
+              "name": "Tvrđava Nutjak",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht zu lange im Leerlauf; genießen Sie die klare Winterluft.",
+                "hu": "Ne járassa sokáig a motort álló helyzetben; élvezze a tiszta téli levegőt.",
+                "ro": "Nu lăsați motorul pornit în staționare; bucurați-vă de aerul curat de iarnă.",
+                "en": "Don't idle the engine too long; enjoy the crisp winter air."
+              }
+            },
+            {
+              "name": "Rimski logor Tilurium",
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte auf der schattigen Auffahrt am Morgen.",
+                "hu": "Figyeljen a dér miatti csúszósságra az árnyékos emelkedőn reggel.",
+                "ro": "Atenție la polei pe urcarea umbrită de dimineață.",
+                "en": "Watch out for frost on the shaded uphill road in the morning."
+              }
+            },
+            {
+              "name": "Most na Cetini",
+              "tip_5lang": {
+                "de": "Bei Minusgraden kann die Brückenoberfläche tückisch glatt sein.",
+                "hu": "Fagypont alatt a híd felülete csalókán csúszós lehet.",
+                "ro": "La temperaturi sub zero, suprafața podului poate fi înșelător de alunecoasă.",
+                "en": "Below freezing, the bridge surface can be treacherously slippery."
+              }
+            },
+            {
+              "name": "Ebéd a városban",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Aufenthalt im Freien.",
+                "hu": "Használja az ülésfűtést a szabadban tett séta után.",
+                "ro": "Folosiți încălzirea în scaune după timpul petrecut afară.",
+                "en": "Use the seat heaters after your time spent outdoors."
+              }
+            },
+            {
+              "name": "Muzej triljskog kraja",
+              "tip_5lang": {
+                "de": "Ein warmer Stopp, um die Batterien für die letzte Etappe aufzuladen.",
+                "hu": "Meleg pihenő, hogy feltöltődjünk az utolsó szakasz előtt.",
+                "ro": "O oprire caldă pentru a vă reîncărca bateriile înainte de ultima etapă.",
+                "en": "A warm stop to recharge for the final stage of the day."
+              }
+            },
+            {
+              "name": "Grabski mlinovi",
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:00 Uhr, um das restliche Tageslicht zu nutzen.",
+                "hu": "Látogasson el ide du. 4 óra előtt, hogy kihasználja a maradék fényt.",
+                "ro": "Vizitați acest loc înainte de ora 16:00 pentru a profita de lumină.",
+                "en": "Visit here before 4:00 PM to make use of the remaining daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind im dalmatinischen Hinterland ab November ratsam.",
+              "Füllen Sie frostbeständiges Scheibenwaschmittel ein.",
+              "Die Bura kann das Fahrverhalten von hohen Fahrzeugen beeinflussen.",
+              "Halten Sie Decken im Auto für längere Stopps an Aussichtspunkten bereit.",
+              "Ein Eiskratzer ist für die Morgenstunden in Trilj unerlässlich."
+            ],
+            "hu": [
+              "A dalmát hátországban novembertől ajánlott a téli gumi.",
+              "Töltsön fagyálló szélvédőmosót a tartályba.",
+              "A bóra szél befolyásolhatja a magasabb autók menetstabilitását.",
+              "Tartson takarókat az autóban a kilátópontoknál tett megállókhoz.",
+              "A jégkaparó elengedhetetlen a trilji reggeleken."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate în hinterland din noiembrie.",
+              "Folosiți lichid de parbriz rezistent la îngheț.",
+              "Vântul Bura poate afecta stabilitatea vehiculelor înalte.",
+              "Țineți pături în mașină pentru opririle la punctele de belvedere.",
+              "Răzuitoarea de gheață este indispensabilă în diminețile din Trilj."
+            ],
+            "en": [
+              "Winter tires are recommended in the Dalmatian hinterland from November.",
+              "Use frost-resistant windshield washer fluid.",
+              "The Bura wind can affect the handling of high-profile vehicles.",
+              "Keep blankets in the car for longer stops at viewpoints.",
+              "An ice scraper is essential for the mornings in Trilj."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -900,6 +1452,196 @@
           "Everything in the center is within walking distance.",
           "Ask locals for the way to Gardun."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trilj mit öffentlichen Verkehrsmitteln erfordert an Regentagen Planung. Wir starten an der Brücke und flüchten schnell ins Museum. Ein warmer Kaffee am Hauptplatz überbrückt die Zeit bis zum nächsten Bus nach Tilurium. Mittags wärmen wir uns bei einem Folyóparti ebéd auf, bevor wir den Tag mit einem kurzen Korzó am Fluss beenden, wenn der Regen nachlässt.",
+            "hu": "A tömegközlekedés Triljben esős napokon tervezést igényel. A hídnál kezdünk, majd gyorsan a múzeumba menekülünk. Egy meleg kávé a főtéren segít kivárni a következő buszt Tilurium felé. Ebédre folyóparti fogásokat választunk, majd a napot egy rövid korzózással zárjuk a folyónál, amikor csendesedik az eső.",
+            "ro": "Transportul public în Trilj necesită planificare în zilele ploioase. Începem la pod și ne refugiem rapid în muzeu. O cafea caldă în piața centrală ajută la trecerea timpului până la următorul autobuz spre Tilurium. La prânz ne încălzim cu preparate pe malul râului, încheind ziua cu o scurtă plimbare pe corso.",
+            "en": "Using public transit in Trilj on rainy days requires planning. We start at the bridge and quickly seek refuge in the museum. A warm coffee in the main square helps bridge the time until the next bus to Tilurium. For lunch, warm up with riverside dishes before ending the day with a short walk along the river as the rain lets up."
+          },
+          "stops": [
+            {
+              "name": "Most na Cetini",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet nur begrenzten Schutz; halten Sie den Schirm bereit.",
+                "hu": "A buszmegálló csak korlátozott védelmet nyújt; tartsa készenlétben az esernyőt.",
+                "ro": "Stația de autobuz oferă adăpost limitat; țineți umbrela pregătită.",
+                "en": "The bus stop offers limited shelter; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Muzej triljskog kraja",
+              "tip_5lang": {
+                "de": "Guter Ort, um auf die nächste Verbindung zu warten, ohne nass zu werden.",
+                "hu": "Jó hely a következő csatlakozásra várni anélkül, hogy megáznánk.",
+                "ro": "Loc bun pentru a aștepta următoarea legătură fără să vă udați.",
+                "en": "Good place to wait for the next connection without getting wet."
+              }
+            },
+            {
+              "name": "Kávé a központi téren",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit Blick auf die Bushaltestelle.",
+                "hu": "Válasszon olyan kávézót, ahonnan rálátni a buszmegállóra.",
+                "ro": "Alegeți o cafenea cu vedere spre stația de autobuz.",
+                "en": "Choose a cafe with a view of the bus stop."
+              }
+            },
+            {
+              "name": "Rimski logor Tilurium",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Rückfahrzeiten genau, um nicht im Regen warten zu müssen.",
+                "hu": "Pontosan ellenőrizze a visszaindulási időket, hogy ne kelljen az esőben várnia.",
+                "ro": "Verificați exact orele de întoarcere pentru a nu aștepta în ploaie.",
+                "en": "Check return times carefully to avoid waiting in the rain."
+              }
+            },
+            {
+              "name": "Folyóparti ebéd",
+              "tip_5lang": {
+                "de": "Bitten Sie das Personal, Ihnen ein Taxi zu rufen, falls der Regen zu stark wird.",
+                "hu": "Kérje a személyzetet, hogy hívjanak taxit, ha túl erősen esne az eső.",
+                "ro": "Rugați personalul să vă cheme un taxi dacă ploaia devine prea puternică.",
+                "en": "Ask the staff to call a taxi for you if the rain becomes too heavy."
+              }
+            },
+            {
+              "name": "Cetina-folyó korzó",
+              "tip_5lang": {
+                "de": "Abkürzung zum Busbahnhof über die beleuchteten Hauptwege nehmen.",
+                "hu": "Használja a kivilágított főutakat rövidítésként a buszmegálló felé.",
+                "ro": "Folosiți drumurile principale iluminate ca scurtătură spre stație.",
+                "en": "Take shortcuts via illuminated main paths back to the bus stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie eine lokale Transport-App herunter oder fotografieren Sie den Fahrplan.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zwischen den Haltestellen.",
+              "Nutzen Sie die Wartezeiten in Museen oder Cafés.",
+              "Kleine Scheine für den Fahrkartenkauf beim Fahrer bereithalten.",
+              "Rechnen Sie mit wetterbedingten Verspätungen im Busverkehr."
+            ],
+            "hu": [
+              "Töltse le a helyi közlekedési alkalmazást vagy fotózza le a menetrendet.",
+              "Viseljen vízálló cipőt a megállók közötti gyalogláshoz.",
+              "Használja ki a várakozási időt múzeumlátogatásra vagy kávézásra.",
+              "Legyen önnél aprópénz a buszjegyehez.",
+              "Számoljon az eső miatti esetleges késésekkel a buszközlekedésben."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport sau fotografiați orarul.",
+              "Purtați încălțăminte impermeabilă pentru distanțele dintre stații.",
+              "Folosiți timpul de așteptare pentru vizite la muzeu sau cafenele.",
+              "Aveți pregătiți bani mărunți pentru biletul de autobuz.",
+              "Luați în calcul posibilele întârzieri cauzate de vreme."
+            ],
+            "en": [
+              "Download a local transit app or take a photo of the timetable.",
+              "Wear waterproof shoes for walking between stops.",
+              "Make use of waiting times by visiting museums or cafes.",
+              "Keep small change ready for buying bus tickets from the driver.",
+              "Expect weather-related delays in bus services."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Trilj im Winter per Transit ist eine Reise der Kontraste. Wir starten an der kühlen Brücke und suchen bald die Wärme des Museums. Ein heißer Kaffee bereitet uns auf den kurzen Ausflug nach Tilurium vor. Nach einem stärkenden Mittagessen nutzen wir die letzte Tageshelligkeit für einen Spaziergang am Fluss, bevor uns der beheizte Bus zurückbringt.",
+            "hu": "Téli utazás Triljben tömegközlekedéssel: a kontrasztok napja. A hűvös hídnál kezdünk, majd hamar a múzeum melegébe húzódunk. Egy forró kávé felkészít a rövid Tilurium-i kiruccanásra. Egy laktató ebéd után kihasználjuk az utolsó fényeket a folyóparti sétához, mielőtt a fűtött busz hazavisz.",
+            "ro": "Călătoria de iarnă în Trilj cu transportul public: o zi a contrastelor. Începem la podul răcoros și căutăm rapid căldura muzeului. O cafea fierbinte ne pregătește pentru scurta excursie la Tilurium. După un prânz consistent, profităm de ultima lumină pentru o plimbare pe râu, înainte ca autobuzul încălzit să ne preia.",
+            "en": "Winter travel in Trilj by transit is a journey of contrasts. We start at the chilly bridge and soon seek the warmth of the museum. A hot coffee prepares us for the short excursion to Tilurium. After a fortifying lunch, we use the last daylight for a walk along the river before the heated bus takes us back."
+          },
+          "stops": [
+            {
+              "name": "Most na Cetini",
+              "tip_5lang": {
+                "de": "Zügig zur nächsten Station gehen, um nicht auszukühlen.",
+                "hu": "Haladjon tempósan a következő állomásig, hogy ne hűljön le.",
+                "ro": "Mergeți vioi spre următoarea oprire pentru a nu vă răci.",
+                "en": "Walk briskly to the next stop to avoid getting cold."
+              }
+            },
+            {
+              "name": "Muzej triljskog kraja",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Zeit bis zum warmen Mittagsbus zu verbringen.",
+                "hu": "Ideális hely az időtöltésre a fűtött déli buszig.",
+                "ro": "Loc ideal pentru a petrece timpul până la autobuzul de prânz.",
+                "en": "Ideal place to spend time until the warm midday bus arrives."
+              }
+            },
+            {
+              "name": "Kávé a központi téren",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände an einer Tasse heißer Schokolade.",
+                "hu": "Melegítse fel kezeit egy csésze forró csokoládéval.",
+                "ro": "Încălziți-vă mâinile cu o ceașcă de ciocolată caldă.",
+                "en": "Warm your hands on a cup of hot chocolate."
+              }
+            },
+            {
+              "name": "Rimski logor Tilurium",
+              "tip_5lang": {
+                "de": "Die Wartezeit an der Haltestelle oben kann im Winter sehr kalt sein; bewegen Sie sich.",
+                "hu": "A fenti buszmegállóban a várakozás télen nagyon hideg lehet; mozogjon.",
+                "ro": "Așteptarea în stația de sus poate fi foarte rece iarna; mișcați-vă.",
+                "en": "Waiting at the uphill bus stop can be very cold in winter; keep moving."
+              }
+            },
+            {
+              "name": "Folyóparti ebéd",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der Gaststube so lange wie möglich.",
+                "hu": "Élvezze az étterem melegét, ameddig csak lehet.",
+                "ro": "Bucurați-vă de căldura restaurantului cât mai mult posibil.",
+                "en": "Enjoy the warmth of the restaurant as long as possible."
+              }
+            },
+            {
+              "name": "Cetina-folyó korzó",
+              "tip_5lang": {
+                "de": "Beachten Sie, dass es nach 16:30 Uhr schnell dunkel und kälter wird.",
+                "hu": "Vegye figyelembe, hogy du. fél 5 után gyorsan sötétedik és hűl le az idő.",
+                "ro": "Rețineți că după ora 16:30 se întunecă rapid și se face mai frig.",
+                "en": "Note that it gets dark and colder quickly after 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse sind im Winter oft gut beheizt, aber Haltestellen sind zugig.",
+              "Tragen Sie Thermo-Einlegesohlen für das Warten auf Asphalt.",
+              "Ein heißer Tee in einer Thermoskanne ist ein guter Begleiter.",
+              "Planen Sie die Rückreise vor Einbruch der Dunkelheit.",
+              "Prüfen Sie, ob Winterfahrpläne von den Sommerzeiten abweichen."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek, de a megállók huzatosak.",
+              "Használjon termotalpbetétet az aszfalton való várakozáshoz.",
+              "Egy forró tea a termoszban jó útitárs a téli napon.",
+              "Tervezze meg a visszautat sötétedés előtt.",
+              "Ellenőrizze, hogy a téli menetrend eltér-e a nyáritól."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna, dar stațiile sunt expuse curentului.",
+              "Folosiți branțuri termice pentru așteptarea pe asfalt.",
+              "Un ceai fierbinte în termos este un bun partener de drum.",
+              "Planificați întoarcerea înainte de lăsarea întunericului.",
+              "Verificați dacă orarul de iarnă diferă de cel de vară."
+            ],
+            "en": [
+              "Buses are usually well-heated in winter, but stops are drafty.",
+              "Wear thermal insoles for waiting on the cold pavement.",
+              "A hot tea in a thermos is a great companion.",
+              "Plan your return journey before it gets dark.",
+              "Check if winter schedules differ from summer ones."
+            ]
+          }
+        }
       }
     }
   }

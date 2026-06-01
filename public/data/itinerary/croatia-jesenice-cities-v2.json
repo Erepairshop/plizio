@@ -252,6 +252,214 @@
           "Bring enough water for the uphill walk.",
           "Krilo has many charming cafes right by the water."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Jesenice beginnt mit sanftem Regen, der die alten Steinhäuser von Staro Selo in ein mystisches Licht taucht. Ein Regenschirm ist Ihr bester Begleiter auf den steilen Pfaden zur Kirche St. Nikolaus.\n\nMittags bietet die Konoba einen gemütlichen Rückzugsort. Der Duft von frischem Fisch und Kaminfeuer lässt das graue Wetter draußen schnell vergessen.\n\nNachmittags führt der Weg hinunter zum Hafen Luka Krilo. Die nassen Kieselsteine am Strand von Mutogras glänzen im diffusen Licht, während die Wellen rhythmisch gegen die Küste schlagen.\n\nDer Abend klingt ruhig aus. Auch ohne klassischen Sonnenuntergang bietet der Blick auf die Adria eine dramatische, melancholische Kulisse für einen letzten Spaziergang am Kai.",
+            "hu": "A reggel Jesenicében szitáló esővel indul, ami misztikus fénybe öltözteti Staro Selo régi kőházait. Az esernyő kötelező kellék a Szent Miklós-templomhoz vezető meredek ösvényeken.\n\nDélben a konoba barátságos menedéket nyújt. A friss hal és a kandalló illata feledteti a kinti szürkeséget, miközben meleg étellel töltődünk fel.\n\nDélután az út a Luka Krilo kikötőhöz vezet. Mutogras strandján a nedves kavicsok csillognak a szórt fényben, a hullámok pedig ritmikusan verődnek a parthoz.\n\nAz este csendesen zárul. Klasszikus naplemente nélkül is drámai, melankolikus látványt nyújt az Adria, tökéletes hátteret biztosítva egy utolsó parti sétához.",
+            "ro": "Dimineața în Jesenice începe cu o ploaie ușoară, care îmbracă casele vechi de piatră din Staro Selo într-o lumină mistică. Umbrela este indispensabilă pe potecile abrupte spre Biserica Sf. Nicolae.\n\nLa prânz, konoba oferă un refugiu primitor. Mirosul de pește proaspăt și focul din șemineu vă fac să uitați de vremea gri de afară în timp ce savurați o masă caldă.\n\nDupă-amiaza, drumul coboară spre portul Luka Krilo. Pietrele umede de pe plaja Mutogras strălucesc în lumina difuză, în timp ce valurile se sparg ritmic de țărm.\n\nSeara se încheie liniștit. Chiar și fără un apus clasic, vederea spre marea Adriatică oferă un decor dramatic și melancolic pentru o ultimă plimbare pe dig.",
+            "en": "The morning in Jesenice starts with gentle rain, casting a mystical light over the old stone houses of Staro Selo. An umbrella is your best companion on the steep paths leading to St. Nicholas Church.\n\nAt noon, the local konoba provides a cozy retreat. The scent of fresh fish and a crackling fireplace makes you forget the gray weather outside while you enjoy a warm meal.\n\nIn the afternoon, the route leads down to Luka Krilo harbor. The wet pebbles at Mutogras beach glisten in the diffused light as waves rhythmically beat against the shore.\n\nThe evening ends quietly. Even without a classic sunset, the view of the Adriatic offers a dramatic, melancholic backdrop for a final walk along the quay."
+          },
+          "stops": [
+            {
+              "name": "Staro Selo Jesenice",
+              "tip_5lang": {
+                "de": "Vorsicht auf den glatten Kopfsteinpflastern; feste Sohlen sind wichtig.",
+                "hu": "Vigyázat a csúszós macskaköveken; a tapadós talpú cipő fontos.",
+                "ro": "Atenție pe pietrele lustruite de ploaie; tălpile aderente sunt esențiale.",
+                "en": "Watch out for slippery cobblestones; high-grip soles are important."
+              }
+            },
+            {
+              "name": "Crkva sv. Nikole",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorbau der Kirche als trockenen Aussichtspunkt.",
+                "hu": "Használja a templom előterét száraz kilátópontként.",
+                "ro": "Folosiți pridvorul bisericii ca punct de observație uscat.",
+                "en": "Use the church porch as a dry lookout point."
+              }
+            },
+            {
+              "name": "Panorama-Abstieg zur Küste",
+              "tip_5lang": {
+                "de": "Der Pfad kann schlammig sein; gehen Sie langsam und konzentriert.",
+                "hu": "Az ösvény sáros lehet; haladjon lassan és figyelmesen.",
+                "ro": "Poteca poate fi noroioasă; mergeți încet și cu atenție.",
+                "en": "The path can be muddy; walk slowly and stay focused."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Tisch in der Nähe des Grills für extra Wärme.",
+                "hu": "Kérjen asztalt a grill közelében az extra melegért.",
+                "ro": "Cereți o masă lângă grătar pentru un plus de căldură.",
+                "en": "Ask for a table near the grill for extra warmth."
+              }
+            },
+            {
+              "name": "Luka Krilo",
+              "tip_5lang": {
+                "de": "Beobachten Sie das Verladen der Schiffe unter den Vordächern am Kai.",
+                "hu": "Figyelje a hajók rakodását a móló melletti előtetők alól.",
+                "ro": "Urmăriți încărcarea navelor de sub copertinele de pe dig.",
+                "en": "Watch the ships being loaded from under the awnings on the quay."
+              }
+            },
+            {
+              "name": "Plaža Mutogras",
+              "tip_5lang": {
+                "de": "Die Brandung ist bei Regen oft kraftvoller und sehenswert.",
+                "hu": "A hullámverés esőben gyakran erőteljesebb és látványosabb.",
+                "ro": "Valurile sunt adesea mai puternice și spectaculoase pe ploaie.",
+                "en": "The surf is often more powerful and worth seeing in the rain."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Meer",
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Brise, bevor Sie ins Trockene zurückkehren.",
+                "hu": "Élvezze a hűvös szellőt, mielőtt visszatérne a szárazba.",
+                "ro": "Bucurați-vă de briza răcoroasă înainte de a vă întoarce la adăpost.",
+                "en": "Enjoy the cool breeze before returning to the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die steilen Oberdorf-Pfade.",
+              "Ein kompakter, windfester Regenschirm ist wegen der Meeresbrise ideal.",
+              "Die Konobas im Ort sind perfekte Orte für längere Pausen.",
+              "Planen Sie mehr Zeit für den Abstieg ein, da die Wege rutschig sind.",
+              "In den Cafés am Hafen gibt es oft überdachte Terrassen."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a felső falu meredek ösvényeihez.",
+              "A tengeri szél miatt egy kompakt, szélálló esernyő az ideális.",
+              "A helyi konobák tökéletes helyszínek a hosszabb pihenőkhöz.",
+              "Hagyjon több időt a leereszkedésre, mert az utak csúszósak.",
+              "A kikötői kávézók gyakran rendelkeznek fedett terasszal."
+            ],
+            "ro": [
+              "Purtați pantofi de drumeție impermeabili pentru potecile din satul de sus.",
+              "O umbrelă compactă și rezistentă la vânt este ideală din cauza brizei.",
+              "Konobele locale sunt locuri perfecte pentru pauze prelungite.",
+              "Planificați mai mult timp pentru coborâre, deoarece căile sunt alunecoase.",
+              "Cafenelele din port au adesea terase acoperite."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the steep upper village paths.",
+              "A compact, windproof umbrella is ideal due to the sea breeze.",
+              "Local konobas are perfect spots for extended breaks.",
+              "Allow more time for the descent as paths are slippery.",
+              "Harbor cafés often have covered terraces."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft in Jesenice sorgt am Morgen für eine atemberaubende Sicht bis zu den Inseln. Die Sonne steht tief über den verlassenen Gassen von Staro Selo.\n\nMittags lockt die Wärme der Konoba. In der Nebensaison ist es hier besonders ruhig, und die Einheimischen haben Zeit für ein kurzes Gespräch bei einer Suppe.\n\nNachmittags ist der Spaziergang an der Küste belebend. Der Wind 'Bura' kann kräftig wehen, aber das intensive Blau des Meeres entschädigt für die Kälte.\n\nDer frühe Abend bringt einen intensiven Sonnenuntergang. Schon gegen 16:30 Uhr färbt sich der Himmel über der Adria in leuchtendes Orange und Violett.",
+            "hu": "A tiszta téli levegő Jesenicében reggelente lélegzetelállító kilátást biztosít egészen a szigetekig. A nap alacsonyan jár Staro Selo elhagyatott utcái felett.\n\nDélben a konoba melege csalogat. A főszezonon kívül itt különösen nagy a nyugalom, a helyieknek is több idejük van egy rövid beszélgetésre.\n\nDélután a parti séta élénkítő hatású. A Bura szél erősen fújhat, de a tenger intenzív kékje kárpótol a hidegért.\n\nA korai este intenzív naplementét hoz. Már 16:30 körül élénk narancs és lila színekbe öltözik az ég az Adria felett.",
+            "ro": "Aerul curat de iarnă în Jesenice oferă dimineața o vizibilitate uimitoare până la insule. Soarele stă jos deasupra străzilor pustii din Staro Selo.\n\nLa prânz, căldura din konoba vă atrage. În extrasezon este deosebit de liniște aici, iar localnicii au timp pentru o scurtă conversație la o supă.\n\nDupă-amiaza, plimbarea pe coastă este revigorantă. Vântul 'Bura' poate sufla cu putere, dar albastrul intens al mării compensează frigul.\n\nSeara devreme aduce un apus intens. Deja în jurul orei 16:30, cerul deasupra Adriaticii se colorează în portocaliu și violet aprins.",
+            "en": "The clear winter air in Jesenice provides breathtaking views all the way to the islands in the morning. The sun hangs low over the deserted alleys of Staro Selo.\n\nAt noon, the warmth of the konoba beckons. In the off-season, it is particularly quiet here, and locals have time for a short chat over a bowl of soup.\n\nIn the afternoon, the coastal walk is invigorating. The 'Bura' wind can blow strongly, but the intense blue of the sea compensates for the cold.\n\nThe early evening brings an intense sunset. As early as 4:30 PM, the sky over the Adriatic turns into bright orange and violet."
+          },
+          "stops": [
+            {
+              "name": "Staro Selo Jesenice",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille; im Winter gehört das Dorf fast Ihnen allein.",
+                "hu": "Élvezze a csendet; télen a falu szinte csak az öné.",
+                "ro": "Bucurați-vă de liniște; iarna satul vă aparține aproape în întregime.",
+                "en": "Enjoy the silence; in winter, the village belongs almost entirely to you."
+              }
+            },
+            {
+              "name": "Crkva sv. Nikole",
+              "tip_5lang": {
+                "de": "Der Wind weht hier oben stärker; Mütze und Handschuhe einpacken.",
+                "hu": "Itt fent erősebben fúj a szél; sapka és kesztyű legyen önnél.",
+                "ro": "Vântul suflă mai tare aici sus; luați-vă căciula și mănușile.",
+                "en": "The wind blows stronger up here; pack a hat and gloves."
+              }
+            },
+            {
+              "name": "Panorama-Abstieg zur Küste",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif an schattigen Stellen des Pfades.",
+                "hu": "Ügyeljen a zúzmarára az ösvény árnyékos részein.",
+                "ro": "Fiți atenți la promoroacă în locurile umbroase ale potecii.",
+                "en": "Watch out for hoarfrost in shaded spots along the path."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie saisonale Schmorgerichte, die Energie für den Tag geben.",
+                "hu": "Kóstolja meg a szezonális sülteket, amelyek energiát adnak a naphoz.",
+                "ro": "Încercați mâncărurile scăzute sezoniere, care vă dau energie pentru zi.",
+                "en": "Try seasonal stews that provide energy for the day."
+              }
+            },
+            {
+              "name": "Luka Krilo",
+              "tip_5lang": {
+                "de": "Die Cafés im Hafen sind gut beheizt und bieten tollen Meerblick.",
+                "hu": "A kikötői kávézók jól fűtöttek és nagyszerű kilátást nyújtanak.",
+                "ro": "Cafenelele din port sunt bine încălzite și oferă o vedere frumoasă.",
+                "en": "Harbor cafés are well-heated and offer great sea views."
+              }
+            },
+            {
+              "name": "Plaža Mutogras",
+              "tip_5lang": {
+                "de": "Ideal für einen schnellen, windgeschützten Strandspaziergang.",
+                "hu": "Ideális egy gyors, szélvédett tengerparti sétához.",
+                "ro": "Ideal pentru o plimbare rapidă pe plajă, ferită de vânt.",
+                "en": "Ideal for a quick, wind-sheltered beach walk."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Meer",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang findet im Winter viel früher statt (ca. 16:30).",
+                "hu": "A naplemente télen sokkal korábban van (kb. 16:30).",
+                "ro": "Apusul de soare are loc mult mai devreme iarna (aprox. 16:30).",
+                "en": "Sunset occurs much earlier in winter (around 4:30 PM)."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung im Zwiebelprinzip gegen den Bura-Wind.",
+              "Die Sonne geht früh unter; starten Sie Ihre Tour rechtzeitig.",
+              "Prüfen Sie die Öffnungszeiten der Konobas in der Nebensaison.",
+              "Die Sicht ist im Winter oft klarer als im heißen Sommer.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee für das Oberdorf mit."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a Bura szél ellen.",
+              "A nap korán nyugszik; kezdje el időben a túrát.",
+              "Ellenőrizze a konobák nyitvatartását a holtszezonban.",
+              "A látási viszonyok télen gyakran tisztábbak, mint a forró nyáron.",
+              "Vigyen termoszban meleg teát a felső faluba."
+            ],
+            "ro": [
+              "Purtați haine în straturi împotriva vântului Bura.",
+              "Soarele apune devreme; începeți turul din timp.",
+              "Verificați programul de funcționare al konobelor în extrasezon.",
+              "Vizibilitatea este adesea mai clară iarna decât în vara fierbinte.",
+              "Luați un termos cu ceai cald pentru satul de sus."
+            ],
+            "en": [
+              "Wear layered clothing to protect against the Bura wind.",
+              "The sun sets early; start your tour in good time.",
+              "Check the opening hours of the konobas in the off-season.",
+              "Visibility is often clearer in winter than in the hot summer.",
+              "Bring a thermos of warm tea for the upper village area."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -480,6 +688,196 @@
           "An e-bike makes the climb to the village much more comfortable.",
           "Avoid the main road (Magistrala) during rush hours."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen verlangt nach guter Regenbekleidung für die Fahrt entlang der Küste nach Mutogras. Die Straßen sind leerer, aber Vorsicht vor Pfützen ist geboten.\n\nDank der Anstrengung beim Auffahren zum Dorf bleibt man trotz des Regens warm. Die Aussichtspunkte wirken in den Wolken fast wie aus einer anderen Welt.\n\nMittags ist Staro Selo ein stiller Ort, wo das Prasseln des Regens auf die alten Dächer die einzige Musik ist. Das Fahrrad kann unter Dachvorsprüngen geparkt werden.\n\nDer Nachmittag am Kai von Luka Krilo bietet eine kurze Verschnaufpause. Ein heißer Kaffee im Trockenen bereitet Sie auf die kurze Rückfahrt vor.",
+            "hu": "A reggel jó esőruházatot igényel a Mutogras felé vezető parti úton. Az utcák üresebbek, de vigyázni kell a tócsákkal.\n\nA faluba való felkapaszkodás közbeni erőfeszítés melegen tart az eső ellenére is. A kilátópontok a felhőkben szinte földöntúlinak tűnnek.\n\nDélben Staro Selo csendes hely, ahol az eső kopogása a régi tetőkön az egyetlen zene. A kerékpárt az ereszek alá lehet parkolni.\n\nA délután a Luka Krilo kikötőben egy rövid lélegzetvételnyi szünetet kínál. Egy forró kávé a szárazon felkészít a rövid visszútra.",
+            "ro": "Dimineața necesită echipament de ploaie bun pentru drumul de-a lungul coastei spre Mutogras. Străzile sunt mai goale, dar trebuie să fiți atenți la bălți.\n\nDatorită efortului de a urca spre sat, rămâneți calzi în ciuda ploii. Punctele de belvedere par desprinse din altă lume printre nori.\n\nLa prânz, Staro Selo este un loc liniștit, unde ropotul ploii pe acoperișurile vechi este singura muzică. Bicicleta poate fi parcată sub streșini.\n\nDupă-amiaza în portul Luka Krilo oferă o scurtă pauză de respirație. O cafea fierbinte la adăpost vă pregătește pentru scurtul drum de întoarcere.",
+            "en": "The morning calls for good rain gear for the ride along the coast to Mutogras. The streets are emptier, but caution is needed with puddles.\n\nThanks to the effort of climbing up to the village, you stay warm despite the rain. The viewpoints in the clouds seem almost otherworldly.\n\nAt noon, Staro Selo is a quiet place where the patter of rain on the old roofs is the only music. The bike can be parked under eaves.\n\nIn the afternoon at Luka Krilo harbor, there's a brief breathing space. A hot coffee in the dry prepares you for the short ride back."
+          },
+          "stops": [
+            {
+              "name": "Küstenfahrt nach Mutogras",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Gischt der vorbeifahrenden Autos am Straßenrand.",
+                "hu": "Ügyeljen az elhaladó autók által felvert vízpermetre az út szélén.",
+                "ro": "Atenție la stropii aruncați de mașinile care trec pe lângă drum.",
+                "en": "Watch out for spray from passing cars on the roadside."
+              }
+            },
+            {
+              "name": "Plaža Mutogras",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus; der Wind kann die Kälte verstärken.",
+                "hu": "Egy rövid megálló elég; a szél felerősítheti a hideget.",
+                "ro": "O scurtă oprire este suficientă; vântul poate intensifica frigul.",
+                "en": "A short stop is enough; the wind can intensify the cold."
+              }
+            },
+            {
+              "name": "Anstrengende Auffahrt zum Dorf",
+              "tip_5lang": {
+                "de": "Reduzieren Sie den Reifendruck minimal für besseren Grip auf nasser Fahrbahn.",
+                "hu": "Csökkentse minimálisan a guminyomást a jobb tapadásért a nedves úton.",
+                "ro": "Reduceți minim presiunea în pneuri pentru o aderență mai bună pe carosabil ud.",
+                "en": "Reduce tire pressure slightly for better grip on wet roads."
+              }
+            },
+            {
+              "name": "Staro Selo Jesenice",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einer Steinmauer im Windschatten.",
+                "hu": "Parkolja le kerékpárját egy kőfalnál, szélvédett helyen.",
+                "ro": "Parcați bicicleta lângă un zid de piatră, la adăpost de vânt.",
+                "en": "Park your bike against a stone wall in the lee of the wind."
+              }
+            },
+            {
+              "name": "Luka Krilo",
+              "tip_5lang": {
+                "de": "Vorsicht beim Überfahren der glatten Metallschienen am Kai.",
+                "hu": "Vigyázat a sima fém síneken való áthaladáskor a mólón.",
+                "ro": "Atenție când treceți peste șinele metalice alunecoase de pe dig.",
+                "en": "Watch out when riding over smooth metal rails on the quay."
+              }
+            },
+            {
+              "name": "Nachmittagspause am Kai",
+              "tip_5lang": {
+                "de": "Ein warmes Getränk hilft, die Körperkerntemperatur stabil zu halten.",
+                "hu": "Egy meleg ital segít stabilan tartani a testhőt.",
+                "ro": "O băutură caldă ajută la menținerea temperaturii corpului stabilă.",
+                "en": "A warm drink helps keep your core body temperature stable."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie Schutzbleche, um den Rücken vor Schlamm zu schützen.",
+              "Vermeiden Sie scharfe Bremsmanöver auf den nassen Küstenstraßen.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit.",
+              "Die Bergauffahrt wärmt, aber nehmen Sie für die Abfahrt eine Windjacke mit.",
+              "Überprüfen Sie Ihre Bremsbeläge vor der Fahrt durch das Hügelland."
+            ],
+            "hu": [
+              "Használjon sárvédőt, hogy megvédje hátát a sártól.",
+              "Kerülje az éles fékezéseket a nedves parti utakon.",
+              "Viseljen neon sárga esőruhát a jobb láthatóságért.",
+              "A felfelé út felmelegít, de a lejtőhöz vigyen szélkabátot.",
+              "Ellenőrizze a fékbetéteket a dombos vidéken való túra előtt."
+            ],
+            "ro": [
+              "Folosiți apărători de noroi pentru a vă proteja spatele.",
+              "Evitați frânările bruște pe drumurile de coastă umede.",
+              "Purtați echipament de ploaie galben neon pentru o mai bună vizibilitate.",
+              "Urcarea vă încălzește, dar luați o jachetă de vânt pentru coborâre.",
+              "Verificați plăcuțele de frână înainte de tura prin zona deluroasă."
+            ],
+            "en": [
+              "Use mudguards to protect your back from mud splashes.",
+              "Avoid sharp braking maneuvers on wet coastal roads.",
+              "Wear neon yellow rain gear for better visibility.",
+              "The uphill climb warms you, but take a windbreaker for the descent.",
+              "Check your brake pads before riding through the hilly terrain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen bietet perfekte Bedingungen für eine tour entlang der Küste, solange die Bura nicht zu stark weht. Das Licht auf dem Meer ist im Dezember einzigartig.\n\nDie Auffahrt nach Staro Selo ist eine gute Übung, um die Kälte zu vertreiben. Oben angekommen, belohnt die glasklare Sicht auf die Insel Brač jede Anstrengung.\n\nNachmittags ist der Hafen von Krilo fast menschenleer. Das Fahrrad lässt sich leicht überall abstellen, während man kurz am Ufer verweilt.\n\nDen Tag beendet man am besten in einem der Cafés an der Riva. Der Sonnenuntergang ist kurz, aber die Farben sind im Winter am intensivsten.",
+            "hu": "A téli reggel tökéletes feltételeket kínál egy parti túrához, amíg a Bura nem fúj túl erősen. A tenger feletti fények decemberben egyedülállóak.\n\nA Staro Selo felé vezető emelkedő jó gyakorlat a hideg elűzésére. Felérve a Brač-szigetre nyíló kristálytiszta kilátás minden fáradságot megér.\n\nDélután Krilo kikötője szinte teljesen üres. A kerékpárt bárhol könnyen le lehet tenni, miközben rövid időt a parton töltünk.\n\nA napot legcélszerűbb a parti kávézók egyikében zárni. A naplemente rövid, de a színek télen a legintenzívebbek.",
+            "ro": "Dimineața de iarnă oferă condiții perfecte pentru o tură pe coastă, atât timp cât Bura nu suflă prea tare. Lumina de pe mare este unică în decembrie.\n\nUrcarea spre Staro Selo este un exercițiu bun pentru a alunga frigul. Odată ajunși sus, vederea clară spre insula Brač răsplătește orice efort.\n\nDupă-amiaza, portul Krilo este aproape pustiu. Bicicleta poate fi lăsată ușor oriunde în timp ce poposiți puțin pe mal.\n\nZiua se încheie cel mai bine la una dintre cafenelele de pe rivă. Apusul este scurt, dar culorile sunt cele mai intense iarna.",
+            "en": "The winter morning offers perfect conditions for a coastal tour, as long as the Bura isn't blowing too hard. The light on the sea is unique in December.\n\nThe climb to Staro Selo is a good exercise to ward off the cold. Once at the top, the crystal-clear view of Brač island rewards every effort.\n\nIn the afternoon, Krilo harbor is almost deserted. The bike can easily be parked anywhere while you linger briefly on the shore.\n\nThe day is best finished in one of the cafés along the Riva. The sunset is brief, but the colors are most intense in winter."
+          },
+          "stops": [
+            {
+              "name": "Küstenfahrt nach Mutogras",
+              "tip_5lang": {
+                "de": "Tragen Sie eine winddichte Maske oder einen Schal gegen die kalte Luft.",
+                "hu": "Viseljen szélálló maszkot vagy sálat a hideg levegő ellen.",
+                "ro": "Purtați o mască rezistentă la vânt sau un fular împotriva aerului rece.",
+                "en": "Wear a windproof mask or scarf against the cold air."
+              }
+            },
+            {
+              "name": "Plaža Mutogras",
+              "tip_5lang": {
+                "de": "Machen Sie Fotos von den klaren Wellen; das Wasser ist im Winter sehr sauber.",
+                "hu": "Készítsen fotókat a tiszta hullámokról; a víz télen nagyon tiszta.",
+                "ro": "Faceți fotografii valurilor clare; apa este foarte curată iarna.",
+                "en": "Take photos of the clear waves; the water is very clean in winter."
+              }
+            },
+            {
+              "name": "Anstrengende Auffahrt zum Dorf",
+              "tip_5lang": {
+                "de": "Vermeiden Sie übermäßiges Schwitzen, um bei der Abfahrt nicht auszukühlen.",
+                "hu": "Kerülje a túlzott izzadást, hogy a leereszkedésnél ne hűljön ki.",
+                "ro": "Evitați transpirația excesivă pentru a nu răci la coborâre.",
+                "en": "Avoid excessive sweating to prevent getting chilled during the descent."
+              }
+            },
+            {
+              "name": "Staro Selo Jesenice",
+              "tip_5lang": {
+                "de": "Suchen Sie sonnige Plätze zwischen den Steinhäusern für eine Pause.",
+                "hu": "Keressen napos helyeket a kőházak között egy pihenőhöz.",
+                "ro": "Căutați locuri însorite între casele de piatră pentru o pauză.",
+                "en": "Look for sunny spots between the stone houses for a break."
+              }
+            },
+            {
+              "name": "Luka Krilo",
+              "tip_5lang": {
+                "de": "Die Boote im Winterlager bieten interessante Fotomotive.",
+                "hu": "A téliesített hajók érdekes fotótémákat kínálnak.",
+                "ro": "Bărcile aflate în conservare pentru iarnă oferă motive foto interesante.",
+                "en": "Boats in winter storage offer interesting photo subjects."
+              }
+            },
+            {
+              "name": "Nachmittagspause am Kai",
+              "tip_5lang": {
+                "de": "Setzen Sie sich in ein Café mit Glasfront für den Ausblick ohne Wind.",
+                "hu": "Üljön be egy üvegfrontos kávézóba a kilátásért szél nélkül.",
+                "ro": "Așezați-vă într-o cafenea cu geamuri mari pentru priveliște fără vânt.",
+                "en": "Sit in a café with a glass front for the view without the wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind für die Bremskontrolle unerlässlich.",
+              "Vermeiden Sie Fahrten bei starkem Bura-Wind (Gefahr von Böen).",
+              "Die Tage sind kurz; planen Sie das Ende der Tour für 16:00 Uhr ein.",
+              "Tragen Sie isolierte Überschuhe, um die Füße warm zu halten.",
+              "Nutzen Sie die Mittagssonne für die Fahrten im offenen Gelände."
+            ],
+            "hu": [
+              "A meleg kesztyű elengedhetetlen a fékkontrollhoz.",
+              "Kerülje a túrázást erős Bura szélben (széllökések veszélye).",
+              "A nappalok rövidek; tervezze a túra végét 16:00 órára.",
+              "Viseljen hőszigetelt kamáslit a lábak melegen tartásához.",
+              "Használja ki a déli napsütést a nyílt terepen való tekeréshez."
+            ],
+            "ro": [
+              "Mănușile calde sunt esențiale pentru controlul frânelor.",
+              "Evitați deplasările pe vânt puternic Bura (pericol de rafale).",
+              "Zilele sunt scurte; planificați finalul turei pentru ora 16:00.",
+              "Purtați huse izolate pentru pantofi pentru a menține picioarele calde.",
+              "Profitați de soarele de la prânz pentru porțiunile de drum deschis."
+            ],
+            "en": [
+              "Warm gloves are essential for maintaining brake control.",
+              "Avoid riding during strong Bura winds (danger of gusts).",
+              "Days are short; plan the end of your tour for 4:00 PM.",
+              "Wear insulated overshoes to keep your feet warm.",
+              "Take advantage of the midday sun for rides in open terrain."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -726,6 +1124,214 @@
           "Parking at Mutogras beach fills up quickly in peak summer.",
           "Use the car to also visit nearby Omiš."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist bei Regen der ideale Rückzugsort für die Tour durch Jesenice. Morgens geht es trocken hinauf nach Staro Selo, wo man den regen auf das Autodach trommeln hört.\n\nDie kurzen Wege zwischen Kirche und Hafen lassen sich bequem überbrücken. In der Konoba wartet ein gemütlicher Mittagstisch, direkt am Hafenparkplatz.\n\nNachmittags bietet das Auto Schutz, während man die stürmische Adria an der Küstenstraße beobachtet. Der Strand von Mutogras wirkt aus dem Fenster fast wie ein Schwarz-Weiß-Gemälde.\n\nDen Abend beschließt man bei einem Kaffee an der Riva, bevor man im trockenen Wagen die Rückreise antritt. Die Lichter des Hafens spiegeln sich in den Pfützen auf dem Asphalt.",
+            "hu": "Az autó esőben az ideális menedék a jesenicei túrához. Reggel szárazon jutunk fel Staro Selóba, ahol hallgathatjuk az eső kopogását az autótetőn.\n\nA templom és a kikötő közötti rövid szakaszok kényelmesen megtehetők. A kikötői parkoló mellett barátságos ebéd vár a konobában.\n\nDélután az autó védelmet nyújt, miközben a viharos Adriát figyeljük a parti útról. Mutogras strandja az ablakból nézve szinte olyan, mint egy fekete-fehér festmény.\n\nAz estét egy kávéval zárjuk a riván, mielőtt a száraz autóval elindulnánk vissza. A kikötő fényei megcsillannak az aszfalt tócsáiban.",
+            "ro": "Mașina este refugiul ideal pe ploaie pentru turul prin Jesenice. Dimineața urcați la Staro Selo la adăpost, unde ascultați ploaia bătând în plafonul mașinii.\n\nDistanțele scurte între biserică și port pot fi parcurse confortabil. În konoba de lângă parcarea din port vă așteaptă un prânz primitor.\n\nDupă-amiaza, mașina oferă protecție în timp ce observați marea Adriatică agitată de pe drumul de coastă. Plaja Mutogras pare aproape o pictură alb-negru privită de la fereastră.\n\nSeara se încheie cu o cafea pe rivă, înainte de a porni la drum în mașina uscată. Luminile portului se oglindesc în bălțile de pe asfalt.",
+            "en": "The car is the ideal retreat during rain for a tour through Jesenice. In the morning, you head up to Staro Selo staying dry, listening to the rain drumming on the car roof.\n\nThe short distances between the church and the harbor are easily bridged. A cozy lunch awaits in the konoba right by the harbor parking lot.\n\nIn the afternoon, the car provides shelter while watching the stormy Adriatic from the coastal road. Mutogras beach looks almost like a black-and-white painting through the window.\n\nThe evening concludes with a coffee on the Riva before heading back in the dry car. The harbor lights reflect in the puddles on the asphalt."
+          },
+          "stops": [
+            {
+              "name": "Staro Selo Jesenice",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Dorfeingang, um die Gehwege im Regen zu minimieren.",
+                "hu": "Parkoljon közel a falu bejáratához, hogy minimális legyen a gyalogút az esőben.",
+                "ro": "Parcați aproape de intrarea în sat pentru a minimiza mersul pe jos prin ploaie.",
+                "en": "Park close to the village entrance to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Crkva sv. Nikole",
+              "tip_5lang": {
+                "de": "Der Parkplatz an der Kirche bietet auch bei Regen eine gute Aussicht.",
+                "hu": "A templom melletti parkoló esőben is jó kilátást nyújt.",
+                "ro": "Parcarea de lângă biserică oferă o priveliște bună chiar și pe ploaie.",
+                "en": "The parking lot by the church offers a good view even in the rain."
+              }
+            },
+            {
+              "name": "Luka Krilo",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz direkt an der Werft.",
+                "hu": "Használja a közvetlenül a hajógyár melletti nagy parkolót.",
+                "ro": "Folosiți parcarea mare situată direct lângă șantierul naval.",
+                "en": "Use the large parking lot located directly by the shipyard."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "In der Nähe gibt es oft überdachte Parkplätze oder kurze Wege zum Eingang.",
+                "hu": "A közelben gyakran vannak fedett parkolók vagy rövid utak a bejáratig.",
+                "ro": "În apropiere există adesea parcări acoperite sau distanțe scurte până la intrare.",
+                "en": "There are often covered parking spots or short distances to the entrance nearby."
+              }
+            },
+            {
+              "name": "Plaža Mutogras",
+              "tip_5lang": {
+                "de": "Genießen Sie die Brandung sicher und trocken vom Beifahrersitz aus.",
+                "hu": "Élvezze a hullámverést biztonságban és szárazon az anyósülésről.",
+                "ro": "Bucurați-vă de spectacolul valurilor în siguranță și la uscat de pe locul pasagerului.",
+                "en": "Enjoy the surf safely and dry from the passenger seat."
+              }
+            },
+            {
+              "name": "Spaziergang an der Riva",
+              "tip_5lang": {
+                "de": "Ein Regenschirm im Kofferraum ist für diesen Stopp Pflicht.",
+                "hu": "Egy esernyő a csomagtartóban kötelező ehhez a megállóhoz.",
+                "ro": "O umbrelă în portbagaj este obligatorie pentru această oprire.",
+                "en": "An umbrella in the trunk is mandatory for this stop."
+              }
+            },
+            {
+              "name": "Sonnenuntergangs-Punkt",
+              "tip_5lang": {
+                "de": "Suchen Sie eine Haltebucht mit Blick nach Westen für den Sonnenuntergang.",
+                "hu": "Keressen egy nyugatra néző pihenőhelyet a naplementéhez.",
+                "ro": "Căutați un refugiu cu vedere spre vest pentru apusul soarelui.",
+                "en": "Find a lay-by with a westward view for the sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt durch die Küstenhügel.",
+              "Vermeiden Sie das Parken unter instabilen Bäumen bei starkem Wind.",
+              "Halten Sie ein Handtuch im Auto bereit, falls Sie nass werden.",
+              "Die Küstenstraße kann bei Starkregen rutschig sein; fahren Sie vorsichtig.",
+              "Nutzen Sie die Sitzheizung für zusätzlichen Komfort nach dem Dorfbesuch."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a parti dombokon való utazás előtt.",
+              "Kerülje a parkolást instabil fák alatt erős szélben.",
+              "Tartson egy törölközőt az autóban, ha esetleg megázna.",
+              "A parti út heves esőzéskor csúszós lehet; vezessen óvatosan.",
+              "Használja az ülésfűtést az extra kényelemért a falulátogatás után."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de a pleca spre dealurile de coastă.",
+              "Evitați parcarea sub copaci instabili în caz de vânt puternic.",
+              "Țineți un prosop în mașină în caz că vă udă ploaia.",
+              "Drumul de coastă poate fi alunecos la ploi torențiale; conduceți cu grijă.",
+              "Folosiți încălzirea în scaune pentru un plus de confort după vizitarea satului."
+            ],
+            "en": [
+              "Check your wipers before driving through the coastal hills.",
+              "Avoid parking under unstable trees during strong winds.",
+              "Keep a towel in the car in case you get wet.",
+              "The coastal road can be slippery during heavy rain; drive carefully.",
+              "Use the seat heating for extra comfort after visiting the village."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen ist die Fahrt hinauf nach Jesenice ein Erlebnis für sich. Die Sonne glitzert auf den frostigen Dächern von Staro Selo.\n\nMittags lässt es sich bequem am Hafen parken. Die Konoba bietet warme Gerichte, die man in der ruhigen Nebensaison ohne Reservierung genießen kann.\n\nNachmittags führt die Tour entlang der Küste, wo die tiefstehende Sonne das Meer in flüssiges Silber verwandelt. Das Auto hält den kalten Wind draußen.\n\nDer Sonnenuntergang ist im Winter das Highlight des Tages. Pünktlich um 16:30 Uhr findet man die besten Fotopunkte direkt an der Straße, ohne das Auto verlassen zu müssen.",
+            "hu": "Egy tiszta téli reggelen az út Jesenicébe önmagában is élmény. A nap csillog Staro Selo zúzmarás tetőin.\n\nDélben kényelmesen lehet parkolni a kikötőben. A konoba meleg ételeket kínál, amiket a nyugodt holtszezonban foglalás nélkül is élvezhetünk.\n\nDélután a túra a part mentén folytatódik, ahol az alacsonyan járó nap folyékony ezüstté változtatja a tengert. Az autó távol tartja a hideg szelet.\n\nA naplemente télen a nap fénypontja. Pontban 16:30-kor a legjobb fotópontok közvetlenül az út mentén találhatók, anélkül, hogy ki kellene szállni az autóból.",
+            "ro": "Într-o dimineață senină de iarnă, drumul spre Jesenice este o experiență în sine. Soarele sclipeste pe acoperișurile înghețate din Staro Selo.\n\nLa prânz se poate parca confortabil în port. Konoba oferă mâncăruri calde, pe care le puteți savura în liniștea extrasezonului fără rezervare.\n\nDupă-amiaza, turul continuă de-a lungul coastei, unde soarele care stă jos transformă marea în argint lichid. Mașina ține la distanță vântul rece.\n\nApusul este punctul culminant al zilei iarna. La ora 16:30 fix, cele mai bune puncte foto se află direct lângă drum, fără a fi nevoie să părăsiți mașina.",
+            "en": "On a clear winter morning, the drive up to Jesenice is an experience in itself. The sun glistens on the frosty roofs of Staro Selo.\n\nAt noon, parking at the harbor is easy. The local konoba offers warm dishes that can be enjoyed without a reservation during the quiet off-season.\n\nIn the afternoon, the tour continues along the coast, where the low sun turns the sea into liquid silver. The car keeps the cold wind at bay.\n\nThe sunset is the highlight of the day in winter. At exactly 4:30 PM, the best photo spots can be found right by the road without having to leave the car."
+          },
+          "stops": [
+            {
+              "name": "Staro Selo Jesenice",
+              "tip_5lang": {
+                "de": "Vorsicht bei schattigen Kurven; dort kann sich Eis halten.",
+                "hu": "Vigyázat az árnyékos kanyarokban; ott megmaradhat a jég.",
+                "ro": "Atenție la curbele umbroase; acolo se poate menține gheața.",
+                "en": "Caution on shaded curves; ice can persist there."
+              }
+            },
+            {
+              "name": "Crkva sv. Nikole",
+              "tip_5lang": {
+                "de": "Die klare Luft bietet eine Fernsicht bis fast nach Italien.",
+                "hu": "A tiszta levegő miatt szinte Olaszországig el lehet látni.",
+                "ro": "Aerul curat oferă o vizibilitate până aproape de Italia.",
+                "en": "The clear air offers a view almost as far as Italy."
+              }
+            },
+            {
+              "name": "Luka Krilo",
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt hinter den Gebäuden am Kai.",
+                "hu": "Parkoljon szélvédett helyen a kikötői épületek mögött.",
+                "ro": "Parcați ferit de vânt în spatele clădirilor de pe dig.",
+                "en": "Park sheltered from the wind behind the buildings on the quay."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das winterliche Meer aus dem warmen Gastraum.",
+                "hu": "Élvezze a téli tenger látványát a meleg vendégtérből.",
+                "ro": "Bucurați-vă de vederea mării de iarnă din interiorul cald.",
+                "en": "Enjoy the view of the winter sea from the warm dining room."
+              }
+            },
+            {
+              "name": "Plaža Mutogras",
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp reicht; der Wind am Strand ist im Winter eisig.",
+                "hu": "Egy rövid fotómegálló elég; a szél a strandon télen jeges.",
+                "ro": "O scurtă oprire pentru poze e suficientă; vântul pe plajă e înghețat iarna.",
+                "en": "A short photo stop is enough; the wind on the beach is icy in winter."
+              }
+            },
+            {
+              "name": "Spaziergang an der Riva",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schuhe; der Steinboden strahlt Kälte ab.",
+                "hu": "Viseljen meleg cipőt; a kőpadló ontja magából a hideget.",
+                "ro": "Purtați pantofi călduroși; pavajul de piatră emană frig.",
+                "en": "Wear warm shoes; the stone ground radiates cold."
+              }
+            },
+            {
+              "name": "Sonnenuntergangs-Punkt",
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig; das Lichtspektakel dauert im Winter nur kurz.",
+                "hu": "Érkezzen időben; a fényáradat télen csak rövid ideig tart.",
+                "ro": "Veniți din timp; spectacolul de lumini dure mint puțin iarna.",
+                "en": "Arrive in good time; the light show lasts only a short time in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind Pflicht, wenn Sie in die höheren Lagen fahren.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Nehmen Sie eine Decke für Pausen im Auto mit.",
+              "Nutzen Sie die tiefstehende Sonne für dramatische Landschaftsfotos.",
+              "Die Bergstraßen können nach Sonnenuntergang schnell überfrieren."
+            ],
+            "hu": [
+              "Téli gumi kötelező, ha a magasabban fekvő részekre megy.",
+              "Ellenőrizze a fagyállót az ablakmosó tartályban.",
+              "Vigyen egy takarót az autóba a pihenőkhöz.",
+              "Használja ki az alacsonyan járó napot a drámai tájképekhez.",
+              "A hegyi utak naplemente után gyorsan lefagyhatnak."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii dacă mergeți în zonele înalte.",
+              "Verificați antigelul din lichidul de parbriz.",
+              "Luați o pătură în mașină pentru pauze.",
+              "Profitați de soarele care stă jos pentru fotografii de peisaj dramatice.",
+              "Drumurile de munte pot îngheța rapid după apusul soarelui."
+            ],
+            "en": [
+              "Winter tires are mandatory if you drive to higher elevations.",
+              "Check the antifreeze in your windshield washer system.",
+              "Take a blanket for breaks in the car.",
+              "Take advantage of the low sun for dramatic landscape photos.",
+              "Mountain roads can freeze over quickly after sunset."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -936,6 +1542,178 @@
           "Buy tickets directly from the driver or via the app.",
           "The stops are well marked, look for the name 'Krilo'."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regenmorgen in Jesenice macht die Fahrt mit dem Bus zu einem gemütlichen Erlebnis. Von Staro Selo aus lässt sich das graue Meer durch die beschlagenen Scheiben beobachten.\n\nMittags bietet die Ankunft im Hafen Luka Krilo kurze Wege zu den Konobas. Man verbringt mehr Zeit im Inneren, wo es warm und trocken ist.\n\nNachmittags ist der Strand von Mutogras nur einen kurzen Fußweg von der Bushaltestelle entfernt. Der regen hält die Massen fern, was den Ort fast privat wirken lässt.\n\nDen Abend beendet man in einem Café an der Haltestelle. Mit einem warmen Getränk wartet es sich leichter auf den Bus zurück in die Stadt.",
+            "hu": "Az esős reggel Jesenicében a buszozást kényelmes élménnyé teszi. Staro Selóból a szürke tengert a bepárásodott ablakokon keresztül figyelhetjük.\n\nDélben a Luka Krilo kikötőbe érkezve csak rövid utat kell megtennünk a konobákig. Több időt töltünk bent, ahol meleg és száraz minden.\n\nDélután Mutogras strandja csak egy rövid sétára van a buszmegállótól. Az eső távol tartja a tömeget, így a hely szinte privátnak tűnik.\n\nAz estét a buszmegálló melletti kávézóban zárjuk. Egy meleg itallal könnyebb várni a városba visszainduló buszra.",
+            "ro": "O dimineață ploioasă în Jesenice face din călătoria cu autobuzul o experiență confortabilă. Din Staro Selo, marea gri poate fi observată prin geamurile aburite.\n\nLa prânz, sosirea în portul Luka Krilo oferă distanțe scurte până la konobe. Veți petrece mai mult timp în interior, unde este cald și uscat.\n\nDupă-amiaza, plaja Mutogras este la doar o scurtă plimbare de stația de autobuz. Ploaia ține mulțimile la distanță, făcând locul să pară aproape privat.\n\nSeara se încheie într-o cafenea de lângă stație. Cu o băutură caldă, așteptarea autobuzului spre oraș este mai ușoară.",
+            "en": "A rainy morning in Jesenice makes the bus ride a cozy experience. From Staro Selo, the gray sea can be observed through misty windows.\n\nAt noon, arriving at Luka Krilo harbor means short walks to the local konobas. You spend more time indoors where it's warm and dry.\n\nIn the afternoon, Mutogras beach is just a short walk from the bus stop. The rain keeps the crowds away, making the place feel almost private.\n\nThe evening ends in a café by the stop. With a warm drink, waiting for the bus back to the city is much easier."
+          },
+          "stops": [
+            {
+              "name": "Staro Selo Jesenice",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten; bei Regen können Busse Verspätung haben.",
+                "hu": "Ellenőrizze az indulási időket; esőben a buszok késhetnek.",
+                "ro": "Verificați orele de plecare; autobuzele pot avea întârzieri pe ploaie.",
+                "en": "Check departure times; buses can be delayed in the rain."
+              }
+            },
+            {
+              "name": "Luka Krilo",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Dach der Bushaltestelle auf den Anschluss.",
+                "hu": "Várja a csatlakozást a buszmegálló teteje alatt.",
+                "ro": "Așteptați legătura sub acoperișul stației de autobuz.",
+                "en": "Wait for your connection under the bus stop roof."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant in Sichtweite der Bushaltestelle.",
+                "hu": "Válasszon olyan éttermet, amely rálát a buszmegállóra.",
+                "ro": "Alegeți un restaurant cu vedere spre stația de autobuz.",
+                "en": "Choose a restaurant within sight of the bus stop."
+              }
+            },
+            {
+              "name": "Plaža Mutogras",
+              "tip_5lang": {
+                "de": "Ein kurzes Verweilen reicht aus, um die Seeluft zu genießen.",
+                "hu": "Egy rövid időzés is elég a tengeri levegő élvezetéhez.",
+                "ro": "O scurtă oprire este suficientă pentru a vă bucura de aerul mării.",
+                "en": "A short linger is enough to enjoy the sea air."
+              }
+            },
+            {
+              "name": "Eispause am Meer",
+              "tip_5lang": {
+                "de": "Statt Eis ist ein heißer Kakao oder Tee die bessere Wahl.",
+                "hu": "Fagylalt helyett egy forró kakaó vagy tea jobb választás.",
+                "ro": "În loc de înghețată, o ciocolată caldă sau un ceai este alegerea mai bună.",
+                "en": "Instead of ice cream, hot cocoa or tea is a better choice."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haben Sie die 'Promet Split' App für Echtzeit-Infos bereit.",
+              "Nehmen Sie Kleingeld für das Ticket beim Busfahrer mit.",
+              "Die Haltestellen bieten oft nur wenig Schutz; Schirm mitnehmen.",
+              "Die Busfrequenz kann in der Nebensaison und bei Regen sinken.",
+              "Nutzen Sie die Zeit im Bus, um die Route auf der Karte zu planen."
+            ],
+            "hu": [
+              "Legyen kéznél a 'Promet Split' app a valós idejű infókhoz.",
+              "Vigyen aprópénzt a buszvezetőnél váltható jegyhez.",
+              "A megállók gyakran kevés védelmet nyújtanak; vigyen esernyőt.",
+              "A buszok gyakorisága csökkenhet holtszezonban és esőben.",
+              "Használja ki a buszon töltött időt az útvonal tervezésére."
+            ],
+            "ro": [
+              "Aveți pregătită aplicația 'Promet Split' pentru informații în timp real.",
+              "Luați mărunțiș pentru biletul cumpărat de la șofer.",
+              "Stațiile oferă adesea puțină protecție; luați o umbrelă.",
+              "Frecvența autobuzelor poate scădea în extrasezon și pe ploaie.",
+              "Folosiți timpul din autobuz pentru a planifica ruta pe hartă."
+            ],
+            "en": [
+              "Have the 'Promet Split' app ready for real-time info.",
+              "Take small change for the ticket from the bus driver.",
+              "Stops often offer little protection; bring an umbrella.",
+              "Bus frequency may decrease in the off-season and during rain.",
+              "Use the time on the bus to plan your route on the map."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem kalten Wintermorgen bringt Sie der Bus sicher in das Oberdorf von Jesenice. Die klare Luft und die leeren Sitze sorgen für eine entspannte Fahrt.\n\nMittags ist der Hafen von Luka Krilo ein ruhiger Ankerpunkt. Die kurzen Wege zwischen den Haltestellen und den warmen Konobas sind im Winter ideal.\n\nNachmittags lädt der Strand von Mutogras zu einem kurzen, erfrischenden Spaziergang ein. Der Wind fegt über das Wasser, während man auf den nächsten Bus wartet.\n\nDen Abend verbringt man am besten an einem gut beleuchteten Platz in der Nähe der Haltestelle. Die Rückfahrt in der Dunkelheit bietet einen tollen Blick auf die Lichter der Küste.",
+            "hu": "Egy hideg téli reggelen a busz biztonságban elvisz Jesenice felső falujába. A tiszta levegő és az üres ülések nyugodt utazást biztosítanak.\n\nDélben a Luka Krilo kikötő csendes pont. A megállók és a meleg konobák közötti rövid utak télen ideálisak.\n\nDélután Mutogras strandja egy rövid, frissítő sétára hívogat. A szél végigsöpör a vízen, miközben a következő buszra várunk.\n\nAz estét legcélszerűbb egy jól kivilágított helyen, a megálló közelében tölteni. A sötétben való visszautazás remek kilátást nyújt a part menti fényekre.",
+            "ro": "Într-o dimineață rece de iarnă, autobuzul vă duce în siguranță în satul de sus din Jesenice. Aerul curat și scaunele libere fac călătoria relaxantă.\n\nLa prânz, portul Luka Krilo este un punct de ancorare liniștit. Distanțele scurte între stații și konobele calde sunt ideale iarna.\n\nDupă-amiaza, plaja Mutogras vă invită la o scurtă plimbare revigorantă. Vântul mătură apa în timp ce așteptați următorul autobuz.\n\nSeara este cel mai bine să o petreceți într-un loc bine luminat lângă stație. Drumul de întoarcere pe întuneric oferă o vedere minunată asupra luminilor coastei.",
+            "en": "On a cold winter morning, the bus takes you safely to the upper village of Jesenice. The clear air and empty seats make for a relaxed journey.\n\nAt noon, Luka Krilo harbor is a quiet anchor point. The short distances between stops and warm local konobas are ideal in winter.\n\nIn the afternoon, Mutogras beach invites you for a short, refreshing walk. The wind sweeps across the water while you wait for the next bus.\n\nThe evening is best spent in a well-lit spot near the stop. The ride back in the dark offers a great view of the coastal lights."
+          },
+          "stops": [
+            {
+              "name": "Staro Selo Jesenice",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Kleidung; die Wartezeiten im Freien können kühl sein.",
+                "hu": "Öltözzön melegen; a szabadban való várakozás hűvös lehet.",
+                "ro": "Purtați haine groase; timpii de așteptare în aer liber pot fi reci.",
+                "en": "Wear warm clothing; waiting outdoors can be chilly."
+              }
+            },
+            {
+              "name": "Luka Krilo",
+              "tip_5lang": {
+                "de": "Im Winter verkehren Busse seltener; planen Sie genau.",
+                "hu": "Télen a buszok ritkábban járnak; tervezzen pontosan.",
+                "ro": "Iarna autobuzele circulă mai rar; planificați-vă timpul cu grijă.",
+                "en": "Buses run less frequently in winter; plan carefully."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Restaurant als warmen Warteraum bis zur Abfahrt.",
+                "hu": "Használja az éttermet meleg váróteremként az indulásig.",
+                "ro": "Folosiți restaurantul ca sală de așteptare caldă până la plecare.",
+                "en": "Use the restaurant as a warm waiting room until departure."
+              }
+            },
+            {
+              "name": "Plaža Mutogras",
+              "tip_5lang": {
+                "de": "Halten Sie sich in Bewegung, um am windigen Strand warm zu bleiben.",
+                "hu": "Maradjon mozgásban, hogy melegen tartsa magát a szeles strandon.",
+                "ro": "Rămâneți în mișcare pentru a vă menține căldura pe plaja vântoasă.",
+                "en": "Keep moving to stay warm on the windy beach."
+              }
+            },
+            {
+              "name": "Eispause am Meer",
+              "tip_5lang": {
+                "de": "Genießen Sie stattdessen eine heiße Suppe in einem lokalen Lokal.",
+                "hu": "Élvezzen inkább egy forró levest egy helyi vendéglőben.",
+                "ro": "Savurați în schimb o supă caldă într-un local din apropiere.",
+                "en": "Enjoy a hot soup in a local eatery instead."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf den Winterfahrplan (Vozni Red).",
+              "Der Bus ist die sicherste Option bei frostigen Straßen im Hügelland.",
+              "Setzen Sie sich auf die Meerseite des Busses für die beste Aussicht.",
+              "Busse können im Winter gut beheizt sein; Kleidung im Zwiebelprinzip.",
+              "Die Haltestelle in der Nähe der Marina bietet den besten Windschutz."
+            ],
+            "hu": [
+              "Ügyeljen a téli menetrendre (Vozni Red).",
+              "A busz a legbiztonságosabb opció a dombvidék fagyos útjain.",
+              "Üljön a busz tenger felőli oldalára a legjobb kilátásért.",
+              "A buszok télen jól fűtöttek lehetnek; öltözzön rétegesen.",
+              "A marina közelében lévő megálló nyújtja a legjobb szélvédelmet."
+            ],
+            "ro": [
+              "Fiți atenți la mersul autobuzelor de iarnă (Vozni Red).",
+              "Autobuzul este cea mai sigură opțiune pe drumurile înghețate din dealuri.",
+              "Așezați-vă pe partea cu marea pentru cea mai bună priveliște.",
+              "Autobuzele pot fi bine încălzite iarna; purtați haine în straturi.",
+              "Stația de lângă marină oferă cea mai bună protecție împotriva vântului."
+            ],
+            "en": [
+              "Pay attention to the winter timetable (Vozni Red).",
+              "The bus is the safest option on frosty roads in the hills.",
+              "Sit on the sea side of the bus for the best views.",
+              "Buses can be well-heated in winter; dress in layers.",
+              "The stop near the marina offers the best wind protection."
+            ]
+          }
+        }
       }
     }
   }

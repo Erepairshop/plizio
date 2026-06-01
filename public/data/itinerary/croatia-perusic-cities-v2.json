@@ -264,6 +264,188 @@
           "Locals are proud of their potatoes (Lički krumpir) – a must-try!",
           "Lika can get cool in the evening even in summer, bring a light jacket."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag unter dem schützenden Dach eines Cafés am Hauptplatz. Die Heilig-Kreuz-Kirche bietet danach einen trockenen Rückzugsort für Besichtigungen. Ein ausgiebiges Mittagessen in einer Konoba lässt den Regen draußen vergessen. Am Nachmittag wirken der Türkische Turm und der Fluss Lika im Nebel besonders mystisch, bevor Sie den Tag gemütlich im Warmen ausklingen lassen.",
+            "hu": "Kezdje a napot a főtér egyik fedett teraszán egy meleg kávéval. A Szent Kereszt-templom tökéletes belső program, amíg eláll az eső. Ebédeljen hosszan egy barátságos konobában, élvezve a helyi ízeket. Délután a Turska kula és a Lika-folyó látványa a szemerkélő esőben is különleges, párás atmoszférát áraszt. Az estét töltse egy hangulatos beltéri helyszínen.",
+            "ro": "Începeți ziua cu o cafea pe o terasă acoperită din piața centrală. Biserica Sfintei Cruci oferă un refugiu uscat și liniștit pentru explorare. Prânzul prelungit într-o konoba locală vă va face să uitați de vremea de afară. După-amiaza, Turnul Turcesc și râul Lika capătă o aură mistică prin ploaie, iar seara se încheie perfect cu o băutură caldă la interior.",
+            "en": "Start your day with a coffee under a covered terrace at the main square. The Church of the Holy Cross provides a dry sanctuary for exploration. Enjoy a long lunch in a cozy local Konoba to escape the damp weather. In the afternoon, the Turkish Tower and the Lika River take on a mystical atmosphere in the rain. End your walk with a warm drink as the day fades."
+          },
+          "stops": [
+            {
+              "name": "Morning Coffee at the Main Square",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz unter der Markise, um dem Regen zuzusehen.",
+                "hu": "Válasszon egy ernyővel védett asztalt a friss, esős levegőhöz.",
+                "ro": "Alegeți o masă sub copertină pentru a privi ploaia confortabil.",
+                "en": "Choose a table under the awning to watch the rain comfortably."
+              }
+            },
+            {
+              "name": "Church of the Holy Cross",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine ausführliche Innenbesichtigung.",
+                "hu": "Használja ki az időt a templombelső alapos felfedezésére.",
+                "ro": "Profită de timp pentru o vizită detaliată a interiorului.",
+                "en": "Take your time for a detailed indoor tour of the architecture."
+              }
+            },
+            {
+              "name": "Turkish Tower (Turska kula)",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a kövek nedvesen csúszóssá válhatnak a toronynál.",
+                "ro": "Atenție, pietrele pot deveni alunecoase când sunt ude.",
+                "en": "Be careful, the stones can become slippery when wet."
+              }
+            },
+            {
+              "name": "Lunch in a local Konoba",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung zu trocknen.",
+                "hu": "Ideális helyszín az esőkabátok megszárításához az ebéd alatt.",
+                "ro": "Locul ideal pentru a vă usca hainele în timpul prânzului.",
+                "en": "The perfect spot to dry your rain gear while you eat."
+              }
+            },
+            {
+              "name": "Walk by the Lika River",
+              "tip_5lang": {
+                "de": "Wasserfeste Schuhe sind für den ufernahen Pfad ratsam.",
+                "hu": "A folyóparti ösvényhez vízálló cipő viselése ajánlott.",
+                "ro": "Încălțămintea impermeabilă este recomandată pentru poteca de pe mal.",
+                "en": "Waterproof shoes are recommended for the riverside path."
+              }
+            },
+            {
+              "name": "Sunset Viewpoint",
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische Wolkenstimmung über der Lika.",
+                "hu": "Élvezze a drámai felhőjátékot a Lika-vidék felett.",
+                "ro": "Bucurați-vă de atmosfera dramatică a norilor peste regiune.",
+                "en": "Enjoy the dramatic cloud formations over the Lika region."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind in der Lika kräftig sein kann.",
+              "Die Kirche und die Konobas sind Ihre besten Anlaufstellen bei Starkregen.",
+              "Ein Regenschirm ist im Ort nützlich, am Turm ist eine Kapuze praktischer.",
+              "Achten Sie auf Pfützen auf den unbefestigten Wegen nahe des Flusses."
+            ],
+            "hu": [
+              "Viseljen jó minőségű esőkabátot, mert a likai szél felerősítheti a csapadékot.",
+              "A templom és a helyi éttermek kiváló menedéket nyújtanak felhőszakadáskor.",
+              "A városban az esernyő jó, de a torony környékén a kapucni praktikusabb.",
+              "Vigyázzon a tócsákra a folyóparti aszfaltozatlan szakaszokon."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate, vântul în Lika poate fi puternic.",
+              "Biserica și restaurantele locale sunt cele mai bune refugii în caz de aversă.",
+              "O umbrelă e utilă în oraș, dar la turn o glugă este mai practică.",
+              "Fiți atenți la bălți pe secțiunile neasfaltate de lângă râu."
+            ],
+            "en": [
+              "Wear a high-quality rain jacket as the Lika wind can be quite strong.",
+              "The church and local restaurants are your best shelters during heavy downpours.",
+              "An umbrella is fine in town, but a hood is more practical near the tower.",
+              "Watch out for puddles on the unpaved sections near the river."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein heißer Kaffee wärmt Sie am frostigen Morgen in Perušić auf. Die barocke Heilig-Kreuz-Kirche strahlt in der Winterstille eine besondere Ruhe aus. Mittags lockt eine beheizte Konoba mit deftigen likaner Spezialitäten wie Sauerkraut und Würsten. Der Aufstieg zum Türkischen Turm bietet einen klaren Blick über die verschneite Ebene, bevor die Sonne früh hinter den Bergen versinkt.",
+            "hu": "Egy forró kávé segít az ébredésben a fagyos perusići reggelen. A barokk Szent Kereszt-templom csendes nyugalmat áraszt a téli hidegben. Ebédre keressen egy fűtött konobát, és kóstolja meg a kiadós likai káposztás ételeket. A Turska kula felé sétálva a zúzmarás táj varázslatos, de készüljön fel, hogy a nap korán eltűnik a hegyek mögött.",
+            "ro": "O cafea fierbinte vă va încălzi în dimineața geroasă din Perušić. Biserica barocă a Sfintei Cruci emană o liniște aparte în aerul rece de iarnă. La prânz, o konoba încălzită vă așteaptă cu preparate consistente specifice zonei Lika. Urcarea spre Turnul Turcesc oferă o priveliște clară peste câmpia înzăpezită înainte ca soarele să apună devreme.",
+            "en": "A hot coffee warms you up on a frosty morning in Perušić. The baroque Church of the Holy Cross exudes a special tranquility in the winter air. At noon, a heated Konoba invites you to taste hearty Lika specialties. The walk to the Turkish Tower offers clear views over the snowy plains before the sun sets early behind the mountains."
+          },
+          "stops": [
+            {
+              "name": "Morning Coffee at the Main Square",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz nah am Heizkörper im Innenraum.",
+                "hu": "Keressen egy fűtőtest melletti asztalt a benti részben.",
+                "ro": "Căutați un loc lângă calorifer în interiorul cafenelei.",
+                "en": "Find a seat near the heater inside the café to warm up."
+              }
+            },
+            {
+              "name": "Church of the Holy Cross",
+              "tip_5lang": {
+                "de": "Beachten Sie die festliche Dekoration in der Weihnachtszeit.",
+                "hu": "Csodálja meg az ünnepi díszítést az adventi időszakban.",
+                "ro": "Admirați decorațiunile festive în timpul perioadei de Crăciun.",
+                "en": "Admire the festive decorations during the Christmas season."
+              }
+            },
+            {
+              "name": "Turkish Tower (Turska kula)",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe für den Aufstieg zum kalten Mauerwerk.",
+                "hu": "Viseljen kesztyűt, a torony hideg kövei hamar lehűtik a kezet.",
+                "ro": "Purtați mănuși pentru urcarea spre zidurile reci de piatră.",
+                "en": "Wear gloves for the climb as the stone walls will be very cold."
+              }
+            },
+            {
+              "name": "Lunch in a local Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie 'Lički kupus' (Likaner Kraut) zum Aufwärmen.",
+                "hu": "Kóstolja meg a Lički kupus-t (likai káposzta) a benti melegben.",
+                "ro": "Încercați „Lički kupus” (varză de Lika) pentru a vă încălzi.",
+                "en": "Try 'Lički kupus' (Lika cabbage) to warm up from the inside."
+              }
+            },
+            {
+              "name": "Walk by the Lika River",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Eisformationen am Uferrand.",
+                "hu": "Csodálja meg a jégcsapokat és jégalakzatokat a folyóparton.",
+                "ro": "Admirați formațiunile de gheață de pe marginea râului.",
+                "en": "Admire the ice formations and frost along the riverbanks."
+              }
+            },
+            {
+              "name": "Sunset Viewpoint",
+              "tip_5lang": {
+                "de": "Seien Sie gegen 16:15 Uhr hier, bevor es dunkel wird.",
+                "hu": "Érkezzen 16:15 körül, mert télen hamar sötétedik.",
+                "ro": "Fiți aici în jurul orei 16:15, înainte să se întunece.",
+                "en": "Be here around 16:15 before it gets dark in the winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Schichten und Winterschuhe sind in dieser Bergregion Pflicht.",
+              "Die Sonne geht im Winter gegen 16:30 Uhr unter, planen Sie das ein.",
+              "Die Wege können vereist sein, besonders die Treppen zum Turm.",
+              "Kombinieren Sie Außenstopps mit Aufenthalten in warmen Gaststätten."
+            ],
+            "hu": [
+              "A réteges öltözködés és hótaposó kötelező ebben a hegyvidéki régióban.",
+              "Télen a naplemente 16:30 körül van, addigra fejezze be a kinti nézelődést.",
+              "Az utak jegesek lehetnek, különösen a toronyhoz vezető lépcsők.",
+              "Szakítsa meg a sétát rendszeresen fűtött beltéri helyszíneken."
+            ],
+            "ro": [
+              "Straturile calde și încălțămintea de iarnă sunt obligatorii în această zonă.",
+              "Soarele apune în jur de 16:30 iarna, planificați-vă timpul în consecință.",
+              "Potecile pot fi înghețate, în special treptele spre turn.",
+              "Alternați opririle în aer liber cu pauze în restaurante încălzite."
+            ],
+            "en": [
+              "Warm layers and winter boots are mandatory in this mountain region.",
+              "The sun sets around 16:30 in winter, so plan your outdoor time accordingly.",
+              "Paths can be icy, especially the steps leading up to the tower.",
+              "Alternate outdoor stops with breaks in heated indoor venues."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -522,6 +704,188 @@
           "Take enough water; it's cool inside the caves (approx. 10°C).",
           "Watch for forest paths; a mountain bike is advantageous."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Perušić für Radfahrer reizvolle Perspektiven. Starten Sie am Türkischen Turm, wo die nassen Steine eine besondere Atmosphäre schaffen. Die Grabovača-Höhle ist das perfekte Ziel, da sie unter der Erde völlig trocken ist. Nach einem Picknick unter einem Unterstand geht es entlang der Lika zurück, wobei der Regen die Natur in sattem Grün erstrahlen lässt.",
+            "hu": "Az eső ellenére a perusići bringázás frissítő élmény lehet. Kezdjen a Turska kulánál, ahol a vizes kövek sötét tónusai különlegesek. A Grabovača-barlang a legjobb úti cél esőben, hiszen a föld alatt garantáltan száraz marad. Egy fedett helyen elköltött piknik után a Lika mentén tekerhet vissza, élvezve a harsányzöld tájat.",
+            "ro": "În ciuda ploii, ciclismul în Perušić oferă perspective verzi. Începeți la Turnul Turcesc, unde pietrele ude creează o atmosferă aparte. Peștera Grabovača este destinația perfectă, fiind complet uscată în subteran. După un picnic sub un foișor, pedalați înapoi pe lângă Lika, unde ploaia intensifică culorile naturii.",
+            "en": "Despite the rain, cycling in Perušić offers refreshing views. Start at the Turkish Tower, where wet stones create a unique mood. The Grabovača Cave is the perfect rainy day goal as it stays completely dry underground. After a picnic under a shelter, cycle back along the Lika River, enjoying the lush green scenery."
+          },
+          "stops": [
+            {
+              "name": "Turkish Tower",
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfes Bremsen auf dem nassen Kopfsteinpflaster.",
+                "hu": "Kerülje az erős fékezést a nedves, csúszós macskaköveken.",
+                "ro": "Evitați frânările bruște pe pietrele ude de lângă turn.",
+                "en": "Avoid sharp braking on the wet cobblestones near the tower."
+              }
+            },
+            {
+              "name": "Church of the Holy Cross",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab, um den Sattel trocken zu halten.",
+                "hu": "Támassza a bringát az eresz alá, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta sub streașină pentru a păstra șaua uscată.",
+                "en": "Park your bike under the eaves to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Cave Park Grabovača",
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um dem Regen für zwei Stunden zu entkommen.",
+                "hu": "Tökéletes helyszín, hogy két órára elmeneküljön az eső elől.",
+                "ro": "Locul perfect pentru a scăpa de ploaie timp de două ore.",
+                "en": "The perfect place to escape the rain for two hours underground."
+              }
+            },
+            {
+              "name": "Nature Picnic",
+              "tip_5lang": {
+                "de": "Nutzen Sie eine der hölzernen Schutzhütten im Park.",
+                "hu": "Használja a park egyik fa esőbeállóját a pihenéshez.",
+                "ro": "Folosiți unul dintre adăposturile de lemn din parc.",
+                "en": "Use one of the wooden shelters in the park for your break."
+              }
+            },
+            {
+              "name": "Lika River (Riverside point)",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf den Waldwegen.",
+                "hu": "Vigyázzon a mély tócsákra az erdei utakon a folyó mellett.",
+                "ro": "Atenție la bălțile adânci de pe potecile de pădure.",
+                "en": "Watch out for deep puddles on the forest paths near the river."
+              }
+            },
+            {
+              "name": "Perušić Village Square",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihr Rad nach der Fahrt kurz ab.",
+                "hu": "A túra után törölje szárazra a kerékpár láncát és vázát.",
+                "ro": "Ștergeți bicicleta după tură pentru a evita coroziunea.",
+                "en": "Wipe down your bike after the ride to prevent rust."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Rad sind bei Regen in der Lika unerlässlich.",
+              "Tragen Sie wasserfeste Kleidung und Handschuhe für besseren Grip.",
+              "Die Höhle Grabovača bietet ganzjährig Schutz vor jedem Wetter.",
+              "Vermeiden Sie bei starkem Regen unbefestigte, schlammige Steigungen."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen az esős likai utakon.",
+              "Viseljen vízálló ruházatot és kesztyűt a jobb kormányfogásért.",
+              "A Grabovača-barlang egész évben menedéket nyújt az időjárás elől.",
+              "Heves esőzéskor kerülje a burkolatlan, sáros emelkedőket."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe drumurile din Lika când plouă.",
+              "Purtați haine impermeabile și mănuși pentru o aderență mai bună.",
+              "Peștera Grabovača oferă protecție împotriva vremii în orice sezon.",
+              "Evitați pantele noroioase neasfaltate în timpul ploilor torențiale."
+            ],
+            "en": [
+              "Mudguards are essential on Lika roads during rainy weather.",
+              "Wear waterproof clothing and gloves for better grip on the handlebars.",
+              "Grabovača Cave provides shelter from the weather all year round.",
+              "Avoid unpaved, muddy inclines during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter erfordert in Perušić gute Vorbereitung. Starten Sie am kühlen Türkischen Turm und spüren Sie die klare Bergluft. Die Grabovača-Höhle bietet mit konstanten 8 Grad sogar ein Aufwärmen gegenüber der Außenluft. Nach einer kräftigen Mahlzeit radeln Sie durch die oft verschneite Lika-Landschaft zurück, bevor die Kälte am frühen Abend zunimmt.",
+            "hu": "A téli kerékpározás Perušić környékén jó állóképességet igényel. Kezdjen a Turska kulánál a friss, csípős levegőn. A Grabovača-barlang állandó 8 foka ilyenkor szinte melegnek hat a kinti fagyhoz képest. Egy laktató ebéd után tekerjen vissza a zúzmarás tájon, de figyeljen, mert a hideg sötétedés után hirtelen fokozódik.",
+            "ro": "Ciclismul de iarnă în Perušić necesită echipament adecvat. Începeți la Turnul Turcesc în aerul rece de munte. Peștera Grabovača, cu cele 8 grade constante, oferă chiar o încălzire față de gerul de afară. După o masă consistentă, pedalați prin peisajul înghețat al regiunii Lika înainte ca frigul să se intensifice seara.",
+            "en": "Winter cycling in Perušić requires good preparation. Start at the chilly Turkish Tower in the crisp mountain air. Grabovača Cave, with its constant 8°C, actually feels warm compared to the freezing outside air. After a hearty meal, cycle back through the frosty Lika landscape before the cold intensifies in the early evening."
+          },
+          "stops": [
+            {
+              "name": "Turkish Tower",
+              "tip_5lang": {
+                "de": "Vorsicht vor Glatteis in schattigen Waldabschnitten.",
+                "hu": "Vigyázzon a lefagyásokra az árnyékos erdei útszakaszokon.",
+                "ro": "Atenție la porțiunile de gheață în zonele împădurite umbrite.",
+                "en": "Watch out for black ice in shaded forest sections."
+              }
+            },
+            {
+              "name": "Church of the Holy Cross",
+              "tip_5lang": {
+                "de": "Kurze Pause im Inneren, um die Finger aufzuwärmen.",
+                "hu": "Tartson rövid szünetet bent, hogy felmelegítse az ujjait.",
+                "ro": "Faceți o scurtă pauză în interior pentru a vă încălzi mâinile.",
+                "en": "Take a short break inside to warm up your fingers."
+              }
+            },
+            {
+              "name": "Cave Park Grabovača",
+              "tip_5lang": {
+                "de": "Die Höhlentemperatur ist im Winter angenehm mild.",
+                "hu": "A barlang hőmérséklete télen kellemesen enyhének tűnik.",
+                "ro": "Temperatura din peșteră este plăcut de blândă iarna.",
+                "en": "The cave temperature feels pleasantly mild during winter."
+              }
+            },
+            {
+              "name": "Nature Picnic",
+              "tip_5lang": {
+                "de": "Bringen Sie eine Thermoskanne mit heißem Tee mit.",
+                "hu": "Hozzon magával forró teát termoszban a pihenőhöz.",
+                "ro": "Aduceți un termos cu ceai fierbinte pentru pauză.",
+                "en": "Bring a thermos with hot tea for your outdoor break."
+              }
+            },
+            {
+              "name": "Lika River (Riverside point)",
+              "tip_5lang": {
+                "de": "Tragen Sie Überschuhe gegen den kalten Fahrtwind.",
+                "hu": "Használjon kamáslit a lábak melegen tartásához a menetszélben.",
+                "ro": "Purtați huse pentru pantofi împotriva vântului rece.",
+                "en": "Wear shoe covers to protect against the cold biting wind."
+              }
+            },
+            {
+              "name": "Perušić Village Square",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour, bevor der Frost abends anzieht.",
+                "hu": "Fejezze be a túrát, mielőtt este beáll a kemény fagy.",
+                "ro": "Încheiați turul înainte ca gerul să se intensifice seara.",
+                "en": "Finish your tour before the hard frost sets in for the night."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterschuhe und Thermosocken sind bei Radtouren in der Lika Pflicht.",
+              "Achten Sie auf gestreutes Salz, das die Fahrradkette angreifen kann.",
+              "Die Lichtverhältnisse sind im Winter oft getrübt, nutzen Sie Reflektoren.",
+              "Halten Sie die Pausen kurz, um nicht auszukühlen."
+            ],
+            "hu": [
+              "A téli cipő és termozokni kötelező a likai bringázáshoz.",
+              "Vigyázzon az utakon leszórt sóra, mert károsíthatja a láncot.",
+              "A látási viszonyok télen korlátozottak lehetnek, használjon lámpát.",
+              "Tartsa röviden a pihenőket, hogy ne hűljön ki a teste."
+            ],
+            "ro": [
+              "Încălțămintea de iarnă și șosetele termice sunt obligatorii în Lika.",
+              "Atenție la sarea de pe drum, care poate coroda lanțul bicicletei.",
+              "Vizibilitatea poate fi redusă iarna, folosiți lumini și reflectorizante.",
+              "Păstrați pauzele scurte pentru a nu vă răci corpul prea tare."
+            ],
+            "en": [
+              "Winter boots and thermal socks are mandatory for cycling in Lika.",
+              "Watch out for road salt, which can damage your bike chain.",
+              "Visibility is often reduced in winter, so use lights and reflectors.",
+              "Keep your breaks short to prevent your body from cooling down."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -780,6 +1144,188 @@
           "Parking in Perušić is mostly free.",
           "There is plenty of wildlife in Lika; drive carefully at night."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Perušić auch bei Regen komfortabel. Besuchen Sie die historischen Stätten im Zentrum, bevor Sie zum Höhlenpark Grabovača fahren, wo das Wetter keine Rolle spielt. Ein gemütliches Mittagessen mit Likaner Spezialitäten bietet die perfekte Pause. Am Nachmittag genießen Sie die Fahrt entlang der Lika, während die Regentropfen die Landschaft verzaubern.",
+            "hu": "Autóval az esős időben is kényelmesen felfedezheti Perušić környékét. Látogassa meg a központ nevezetességeit, majd guruljon el a Grabovača barlangparkhoz, ahol az időjárás nem akadály. Egy laktató ebéd után élvezze az autózást a Lika mentén, megfigyelve a táj különleges, párás színeit a szélvédő mögül.",
+            "ro": "Cu mașina, puteți explora Perušić în confort chiar și pe ploaie. Vizitați obiectivele din centru, apoi conduceți spre parcul Grabovača, unde vremea nu contează în subteran. Un prânz consistent cu specialități locale oferă pauza perfectă. După-amiaza, bucurați-vă de drumul pe lângă râul Lika, admirând peisajul prin ploaie.",
+            "en": "By car, you can explore Perušić comfortably even in the rain. Visit the historical sites in the center before driving to Grabovača Cave Park, where the weather doesn't matter. A cozy lunch with local specialties provides the perfect break. In the afternoon, enjoy the drive along the Lika River as raindrops blur the lush landscape."
+          },
+          "stops": [
+            {
+              "name": "Perušić Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken zu bleiben.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, hogy elkerülje az esőt.",
+                "ro": "Parcați aproape de intrare pentru a rămâne uscat.",
+                "en": "Park as close to the entrance as possible to stay dry."
+              }
+            },
+            {
+              "name": "Church of the Holy Cross",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz direkt vor der Kirche.",
+                "hu": "Használja a templom előtti szilárd burkolatú parkolót.",
+                "ro": "Folosiți parcarea pavată direct din fața bisericii.",
+                "en": "Use the paved parking area directly in front of the church."
+              }
+            },
+            {
+              "name": "Turkish Tower",
+              "tip_5lang": {
+                "de": "Lassen Sie den Regenschirm griffbereit im Auto.",
+                "hu": "Tartsa az esernyőt az utastérben, könnyen elérhető helyen.",
+                "ro": "Țineți umbrela la îndemână în interiorul mașinii.",
+                "en": "Keep your umbrella handy in the cabin for the short walk."
+              }
+            },
+            {
+              "name": "Cave Park Grabovača (Cluster B)",
+              "tip_5lang": {
+                "de": "Ideales Ziel bei Regen, die Höhle ist absolut trocken.",
+                "hu": "Kiváló úti cél esőben, a barlang teljesen száraz.",
+                "ro": "Destinație ideală pe ploaie, peștera este complet uscată.",
+                "en": "Ideal rainy day destination as the cave is perfectly dry."
+              }
+            },
+            {
+              "name": "Lika Gastronomic Experience",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Regen aus dem warmen Fenster.",
+                "hu": "Élvezze az esős táj látványát a meleg étterem ablakából.",
+                "ro": "Bucurați-vă de vederea ploii de la fereastra caldă.",
+                "en": "Enjoy the view of the rain from a warm window seat."
+              }
+            },
+            {
+              "name": "Lika River (Cluster C)",
+              "tip_5lang": {
+                "de": "Vorsicht bei Aquaplaning auf den Uferstraßen.",
+                "hu": "Vigyázzon a víztócsákra és a felúszás veszélyére a parti utakon.",
+                "ro": "Atenție la acvaplanare pe drumurile de pe malul râului.",
+                "en": "Be careful of hydroplaning on the riverside roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt durch die Lika.",
+              "Einige Zufahrten zum Fluss können bei starkem Regen matschig sein.",
+              "Nutzen Sie die Parkplätze an der Grabovača-Höhle für kurze Wege.",
+              "Fahren Sie bei Nebel auf den Bergstraßen besonders vorsichtig."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a likai túra előtt.",
+              "Néhány folyóparti bekötőút sáros lehet heves esőzés után.",
+              "Használja a Grabovača barlang melletti parkolót a kényelemért.",
+              "Köd esetén vezessen fokozott óvatossággal a hegyi utakon."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de drumul prin regiunea Lika.",
+              "Unele drumuri de acces la râu pot fi noroioase după ploi grele.",
+              "Folosiți parcarea de la peștera Grabovača pentru acces rapid.",
+              "Conduceți cu prudență sporită pe drumurile montane în caz de ceață."
+            ],
+            "en": [
+              "Check your windshield wipers before driving through Lika.",
+              "Some access roads to the river can be muddy after heavy rain.",
+              "Use the parking lot at Grabovača Cave for easy access.",
+              "Drive with extra caution on mountain roads during foggy conditions."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter zeigt sich die Lika oft tief verschneit. Das Auto bietet Schutz vor der klirrenden Kälte, während Sie zwischen den Sehenswürdigkeiten wechseln. Die Grabovača-Höhle ist ein Highlight, da sie im Winter wärmer als die Außenwelt ist. Nach einem herzhaften Likaner Mittagessen führt die Fahrt durch die glitzernde Winterlandschaft entlang der Lika, bevor es früh dunkel wird.",
+            "hu": "Télen a Lika-vidék gyakran vastag hóba burkolózik. Az autó védelmet nyújt a metsző hideg ellen a látnivalók közötti út során. A Grabovača-barlang ilyenkor igazi menedék, mivel melegebb a kinti levegőnél. Egy kiadós ebéd után autózzon a csillogó, havas tájon a Lika mentén, élvezve a téli fényeket a korai sötétedés előtt.",
+            "ro": "Iarna, regiunea Lika este adesea acoperită de zăpadă. Mașina oferă protecție împotriva gerului în timp ce vă deplasați între obiective. Peștera Grabovača este un punct culminant, fiind mai caldă decât exteriorul. După un prânz sățios, conduceți prin peisajul sclipitor de iarnă de-a lungul râului Lika înainte de înserarea timpurie.",
+            "en": "In winter, the Lika region is often covered in deep snow. The car provides shelter from the biting cold as you move between sights. Grabovača Cave is a winter highlight, as it stays warmer than the outside air. After a hearty Lika lunch, drive through the sparkling winter landscape along the Lika River before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Perušić Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Heizen Sie den Innenraum gut vor dem Aussteigen vor.",
+                "hu": "Fűtse fel az utasteret alaposan, mielőtt kiszállna nézelődni.",
+                "ro": "Încălziți bine habitaclul înainte de a coborî din mașină.",
+                "en": "Warm up the car interior well before stepping out to explore."
+              }
+            },
+            {
+              "name": "Church of the Holy Cross",
+              "tip_5lang": {
+                "de": "Vorsicht vor gefrorenen Flächen auf dem Parkplatz.",
+                "hu": "Vigyázzon a jeges foltokra a templom melletti parkolóban.",
+                "ro": "Atenție la petele de gheață din parcarea bisericii.",
+                "en": "Watch out for icy patches in the church parking lot."
+              }
+            },
+            {
+              "name": "Turkish Tower",
+              "tip_5lang": {
+                "de": "Parken Sie sicherheitshalber unten, falls der Weg glatt ist.",
+                "hu": "Parkoljon lent, ha az emelkedő túl jegesnek tűnik.",
+                "ro": "Parcați jos dacă drumul în pantă pare prea înghețat.",
+                "en": "Park at the bottom if the incline looks too icy for safety."
+              }
+            },
+            {
+              "name": "Cave Park Grabovača (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Zufahrt wird meist geräumt, aber Winterreifen sind Pflicht.",
+                "hu": "Az utat takarítják, de a téli gumi kötelező a feljutáshoz.",
+                "ro": "Drumul e deszăpezit, dar anvelopele de iarnă sunt obligatorii.",
+                "en": "The road is usually plowed, but winter tires are mandatory."
+              }
+            },
+            {
+              "name": "Lika Gastronomic Experience",
+              "tip_5lang": {
+                "de": "Ein heißes Getränk bereitet Sie auf die Weiterfahrt vor.",
+                "hu": "Egy forró ital felkészíti a szervezetét a további útra.",
+                "ro": "O băutură fierbinte vă va pregăti pentru restul drumului.",
+                "en": "A hot drink will prepare you for the rest of your drive."
+              }
+            },
+            {
+              "name": "Lika River (Cluster C)",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tageslicht für Fotos am gefrorenen Fluss.",
+                "hu": "Használja ki a nappali fényeket a jeges folyó fotózásához.",
+                "ro": "Profită de lumina zilei pentru poze cu râul înghețat.",
+                "en": "Make the most of the daylight for photos of the frozen river."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen und Schneeketten sind in der Lika im Winter ein Muss.",
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Bergstraßen können bei plötzlichem Schneefall tückisch sein.",
+              "Halten Sie die Tankfüllung für unvorhergesehene Stopps hoch."
+            ],
+            "hu": [
+              "A téli gumi és a hólánc kötelező felszerelés a Likában.",
+              "Ellenőrizze a fagyálló szintjét az ablakmosó tartályban.",
+              "A hegyi utak hirtelen hóeséskor veszélyessé válhatnak.",
+              "Tartson magas üzemanyagszintet a váratlan helyzetek esetére."
+            ],
+            "ro": [
+              "Anvelopele de iarnă și lanțurile sunt obligatorii în Lika iarna.",
+              "Verificați nivelul lichidului de parbriz antigel.",
+              "Drumurile montane pot deveni periculoase în caz de ninsoare bruscă.",
+              "Păstrați rezervorul plin pentru opriri neprevăzute."
+            ],
+            "en": [
+              "Winter tires and snow chains are mandatory in Lika during winter.",
+              "Check the antifreeze level in your windshield washer fluid.",
+              "Mountain roads can be treacherous during sudden snowfalls.",
+              "Keep your fuel tank full in case of unexpected delays."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1015,6 +1561,170 @@
           "In Perušić, almost everything is accessible on foot from the station.",
           "Taxis are rare; book in advance if planning to visit Grabovača."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Anreise mit dem Zug nach Perušić ist bei Regen besonders gemütlich. Vom Bahnhof aus erreichen Sie die Kirche und den Ortskern in wenigen Gehminuten. Ein langes Mittagessen in einer Konoba schützt Sie vor den Schauern. Am Nachmittag bietet der Spaziergang entlang der Lika trotz Regen frische Luft, bevor Sie den Abend im trockenen Bahnhofsgebäude erwarten.",
+            "hu": "A perusići vonatút esőben különösen hangulatos és megnyugtató. A vasútállomástól pár perc sétával elérheti a templomot és a központot. Egy kiadós ebéd a helyi konobában segít kivárni a nagyobb záporokat. Délután a Lika-menti séta esőben is frissítő, az estét pedig töltse a vasútállomás fedett várótermében.",
+            "ro": "Călătoria cu trenul spre Perušić este foarte relaxantă pe ploaie. De la gară, puteți ajunge la biserică și în centru în câteva minute de mers. Un prânz prelungit într-o konoba vă va feri de aversă. După-amiaza, plimbarea pe lângă Lika oferă aer proaspăt, iar seara o puteți petrece în interiorul gării.",
+            "en": "The train journey to Perušić is especially cozy on a rainy day. From the station, you can reach the church and the town center in a few minutes. A long lunch in a local Konoba helps you wait out the heavy showers. In the afternoon, a walk by the Lika River is refreshing despite the rain, and you can wait for your evening train in the dry station."
+          },
+          "stops": [
+            {
+              "name": "Perušić Train Station",
+              "tip_5lang": {
+                "de": "Warten Sie im überdachten Bereich auf Ihren Anschluss.",
+                "hu": "Várjon a csatlakozásra a fedett peronon vagy a váróban.",
+                "ro": "Așteptați trenul în zona acoperită sau în sala de așteptare.",
+                "en": "Wait for your connection in the covered area or waiting room."
+              }
+            },
+            {
+              "name": "Church of the Holy Cross",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Bahnhof zur Kirche hält Sie trocken.",
+                "hu": "Egy rövid séta az állomástól, készüljön az esernyővel.",
+                "ro": "O scurtă plimbare de la gară, aveți umbrela pregătită.",
+                "en": "A short walk from the station, have your umbrella ready."
+              }
+            },
+            {
+              "name": "Turkish Tower",
+              "tip_5lang": {
+                "de": "Vorsicht, der Pfad kann bei Regen schlammig sein.",
+                "hu": "Vigyázzon, az ösvény esőben sáros lehet a torony felé.",
+                "ro": "Atenție, poteca poate fi noroioasă spre turn pe ploaie.",
+                "en": "Be careful, the path to the tower can be muddy when it rains."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant nah am Bahnhofsweg.",
+                "hu": "Válasszon éttermet az állomás felé vezető út közelében.",
+                "ro": "Alegeți un restaurant aproape de drumul spre gară.",
+                "en": "Choose a restaurant close to the path back to the station."
+              }
+            },
+            {
+              "name": "Lika River / Park Time",
+              "tip_5lang": {
+                "de": "Behalten Sie die Abfahrtszeiten trotz Regen im Blick.",
+                "hu": "Az eső ellenére figyeljen a vonat pontos indulási idejére.",
+                "ro": "Fiți atenți la orele de plecare, în ciuda ploii.",
+                "en": "Keep an eye on the departure schedule despite the weather."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Der Bahnhof bietet Schutz, falls Sie zu früh für den Zug zurück sind.",
+              "Tragen Sie wasserfeste Schuhe für den kurzen Fußweg vom Gleis.",
+              "Prüfen Sie bei starkem Regen mögliche Verzögerungen im Bahnverkehr.",
+              "Ein Regenschirm ist für den Weg zwischen den Stationen wichtig."
+            ],
+            "hu": [
+              "A vasútállomás jó menedék, ha túl korán ér vissza a vonathoz.",
+              "Viseljen vízálló cipőt az állomástól vezető gyalogos utakhoz.",
+              "Heves esőzéskor ellenőrizze a vonatok esetleges késését.",
+              "Az esernyő elengedhetetlen a megállók közötti közlekedéshez."
+            ],
+            "ro": [
+              "Gara oferă adăpost dacă ajungeți prea devreme pentru tren.",
+              "Purtați încălțăminte impermeabilă pentru drumul de la gară.",
+              "Verificați posibilele întârzieri ale trenurilor în caz de furtună.",
+              "O umbrelă este esențială pentru deplasarea între obiective."
+            ],
+            "en": [
+              "The station provides shelter if you arrive back early for your train.",
+              "Wear waterproof shoes for the short walk from the platform.",
+              "Check for potential train delays during heavy rainstorms.",
+              "An umbrella is essential for walking between the stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Zugfahrt durch die verschneite Lika ist ein winterliches Erlebnis. In Perušić angekommen, wärmt Sie der Weg zur barocken Kirche auf. Mittags bietet ein Restaurant im Zentrum heiße Suppen und Likaner Kost. Ein kurzer Winterspaziergang zur Lika zeigt die stille, frostige Seite des Ortes, bevor Sie sich im beheizten Zug auf die Rückreise machen.",
+            "hu": "A havas Likán átvezető vonatút igazi téli élmény. Perušićba érve a barokk templom felé vezető séta segít a bemelegedésben. Ebédre keressen egy központi éttermet egy forró levesért és helyi finomságokért. A Lika-folyó menti rövid séta a táj fagyos nyugalmát mutatja meg, mielőtt felszállna a fűtött vonatra.",
+            "ro": "Călătoria cu trenul prin regiunea Lika înzăpezită este o experiență de iarnă autentică. Ajunși în Perušić, plimbarea spre biserică vă va încălzi. La prânz, alegeți un restaurant central pentru supe calde. O scurtă plimbare pe lângă râul Lika vă arată liniștea geroasă a locului înainte de a urca în trenul încălzit.",
+            "en": "The train ride through the snowy Lika region is a true winter experience. Arriving in Perušić, the walk to the baroque church will warm you up. At noon, find a central restaurant for hot soup and local dishes. A short winter walk by the Lika River shows the quiet, frosty side of town before you head back on the heated train."
+          },
+          "stops": [
+            {
+              "name": "Perušić Train Station",
+              "tip_5lang": {
+                "de": "Warten Sie im beheizten Warteraum der Station.",
+                "hu": "Várjon a vonat indulására a fűtött váróteremben.",
+                "ro": "Așteptați trenul în sala de așteptare încălzită a gării.",
+                "en": "Wait for your train inside the heated station waiting room."
+              }
+            },
+            {
+              "name": "Church of the Holy Cross",
+              "tip_5lang": {
+                "de": "Achten Sie auf geräumte Wege vom Bahnhof zum Zentrum.",
+                "hu": "Figyeljen a letakarított utakra az állomástól a központig.",
+                "ro": "Fiți atenți la drumurile deszăpezite dintre gară și centru.",
+                "en": "Look for cleared paths when walking from the station to the center."
+              }
+            },
+            {
+              "name": "Turkish Tower",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei Schnee anstrengend, aber lohnenswert sein.",
+                "hu": "A kapaszkodó hóban fárasztó lehet, de a látvány megéri.",
+                "ro": "Urcarea prin zăpadă poate fi obositoare, dar merită efortul.",
+                "en": "The climb through snow can be tiring, but the view is worth it."
+              }
+            },
+            {
+              "name": "Lunch in the Center",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit gemütlichem Kamin oder guter Heizung.",
+                "hu": "Keressen egy kandallós vagy jól fűtött éttermet az ebédhez.",
+                "ro": "Căutați un local cu șemineu sau încălzire bună pentru prânz.",
+                "en": "Look for a place with a cozy fireplace or good heating for lunch."
+              }
+            },
+            {
+              "name": "Lika River / Park Time",
+              "tip_5lang": {
+                "de": "Kehren Sie rechtzeitig zum Bahnhof zurück, bevor die Kälte anzieht.",
+                "hu": "Térjen vissza időben az állomásra, mielőtt fokozódna a fagy.",
+                "ro": "Întoarceți-vă la gară la timp, înainte ca gerul să se intensifice.",
+                "en": "Head back to the station in time, before the frost gets sharper."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Winterschuhe für die Wartezeit am Bahnsteig.",
+              "Informieren Sie sich über wetterbedingte Fahrplanänderungen.",
+              "Der Zug ist oft die sicherste Verbindung in die verschneite Lika.",
+              "Halten Sie Mütze und Handschuhe für die Wege zwischen den Stopps bereit."
+            ],
+            "hu": [
+              "Viseljen meleg téli lábbelit a peronon való várakozáshoz.",
+              "Tájékozódjon az időjárás miatti esetleges menetrend-változásokról.",
+              "A vonat gyakran a legbiztosabb közlekedés a havas Likában.",
+              "Készítse elő a sapkát és kesztyűt a megállók közötti sétákhoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte de iarnă călduroasă pentru așteptarea pe peron.",
+              "Informați-vă despre eventualele modificări de mers al trenurilor.",
+              "Trenul este adesea cea mai sigură legătură spre Lika înzăpezită.",
+              "Aveți căciula și mănușile pregătite pentru drumurile dintre obiective."
+            ],
+            "en": [
+              "Wear warm winter boots for waiting on the platform.",
+              "Check for any weather-related changes to the train schedule.",
+              "The train is often the most reliable way to reach snowy Lika.",
+              "Keep your hat and gloves ready for the walks between stops."
+            ]
+          }
+        }
       }
     }
   }

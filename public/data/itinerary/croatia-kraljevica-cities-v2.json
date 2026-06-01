@@ -350,6 +350,224 @@
           "Bring your swimwear, the water at Oštro is exceptionally clear.",
           "Kraljevica is much quieter and more authentic than nearby tourist hubs."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen am nebligen Ufer, Schiffe im Dunst. Mittags Zuflucht in einer warmen Konoba bei deftigem Fischeintopf. Nachmittags Erkundung der Frankopan-Schlösser, deren dicke Mauern den Regen aussperren. Abends ein kurzer, stimmungsvoller Spaziergang mit Schirm auf der Halbinsel Oštro, während die Wellen gegen die Felsen peitschen.",
+            "hu": "Reggel a párás kikötőben a ködből előbukkanó hajók látványa fogadja. Délben keressen menedéket egy konobában egy tál forró maneštra mellett. Délután a Frankopán-kastélyok vastag falai között kalandozhat szárazon. Este egy rövid, esernyős séta az Oštro-félszigeten, ahol a morajló tenger látványa különösen drámai.",
+            "ro": "Dimineața pe faleza cețoasă, cu navele apărând din negură. La prânz, refugiu într-o konoba caldă cu o tocană de pește aburindă. După-amiaza, explorarea castelelor Frankopan, ale căror ziduri groase țin ploaia la distanță. Seara, o plimbare scurtă cu umbrela pe peninsula Oštro, cu marea zbuciumată în fundal.",
+            "en": "Morning at the misty Riva with ships emerging from the haze. At noon, seek refuge in a warm konoba over a steaming bowl of fish stew. In the afternoon, explore the Frankopan castles where thick walls keep the rain out. In the evening, a short, atmospheric walk with an umbrella on Oštro Peninsula as the waves crash below."
+          },
+          "stops": [
+            {
+              "name": "Riva Waterfront",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steine sind bei Nässe sehr rutschig.",
+                "hu": "Vigyázzon, a kövek vizesen nagyon csúszósak.",
+                "ro": "Atenție, pietrele sunt foarte alunecoase când sunt ude.",
+                "en": "Careful, the stones are very slippery when wet."
+              }
+            },
+            {
+              "name": "Kraljevica Shipyard",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den historischen Werkstattdächern.",
+                "hu": "Keressen menedéket a történelmi műhelytetők alatt.",
+                "ro": "Căutați adăpost sub acoperișurile atelierelor istorice.",
+                "en": "Seek shelter under the historic workshop roofs."
+              }
+            },
+            {
+              "name": "Stari Grad Castle",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die Geschichte im Trockenen zu erleben.",
+                "hu": "Tökéletes hely a történelem felfedezéséhez szárazon.",
+                "ro": "Locul perfect pentru a descoperi istoria la adăpost.",
+                "en": "Perfect place to discover history while staying dry."
+              }
+            },
+            {
+              "name": "Lunch in a local Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie die warme 'Maneštra'-Suppe gegen den Regen.",
+                "hu": "Kóstolja meg a meleg maneštra levest az eső ellen.",
+                "ro": "Încercați supa caldă 'Maneštra' împotriva ploii.",
+                "en": "Try the warm 'Maneštra' soup to beat the rain."
+              }
+            },
+            {
+              "name": "Nova Kraljevica Castle",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Besucherzentrum im Inneren des Schlosses.",
+                "hu": "Látogassa meg a kastély belsejében lévő látogatóközpontot.",
+                "ro": "Vizitați centrul de vizitare din interiorul castelului.",
+                "en": "Visit the visitor center inside the castle."
+              }
+            },
+            {
+              "name": "Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Ein ruhiger, überdachter Ort für einen Moment der Stille.",
+                "hu": "Csendes, fedett hely egy pillanatnyi nyugalomhoz.",
+                "ro": "Un loc liniștit și acoperit pentru un moment de tăcere.",
+                "en": "A quiet, covered spot for a moment of silence."
+              }
+            },
+            {
+              "name": "Oštro Peninsula",
+              "tip_5lang": {
+                "de": "Ein stabiler Regenschirm ist wegen des Windes wichtig.",
+                "hu": "A szél miatt egy erős esernyő elengedhetetlen.",
+                "ro": "O umbrelă rezistentă este esențială din cauza vântului.",
+                "en": "A sturdy umbrella is essential due to the wind."
+              }
+            },
+            {
+              "name": "Sunset at the Lighthouse",
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatischen Wolken über dem Meer.",
+                "hu": "Élvezze a drámai felhőket a tenger felett.",
+                "ro": "Admirați norii dramatici deasupra mării.",
+                "en": "Enjoy the dramatic clouds over the sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Riva.",
+              "Die Schlösser bieten stundenlangen Schutz vor Regen.",
+              "Ein stabiler Sturmschirm ist besser als ein leichter.",
+              "Die lokale Küche ist ideal zum Aufwärmen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a kikötői sétához.",
+              "A kastélyok órákig tartó védelmet nyújtanak az eső ellen.",
+              "Egy erős viharesernyő jobb, mint a könnyű változatok.",
+              "A helyi konyha kiváló a felmelegedéshez."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru faleză.",
+              "Castelele oferă ore întregi de protecție contra ploii.",
+              "O umbrelă rezistentă este mai bună decât una ușoară.",
+              "Bucătăria locală este ideală pentru a vă încălzi."
+            ],
+            "en": [
+              "Wear waterproof shoes for the waterfront walk.",
+              "The castles provide hours of shelter from the rain.",
+              "A sturdy storm umbrella is better than lightweight ones.",
+              "Local cuisine is excellent for warming up."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Morgen an der Adria, die Bura bläst reinigend über das Wasser. Mittags Aufwärmen in einer gemütlichen Taverne. Nachmittags bieten die dicken Mauern der Schlösser Schutz vor dem schneidenden Wind. Der Tag endet früh mit einem spektakulären Sonnenuntergang am Leuchtturm, bevor man sich bei einem Heißgetränk aufwärmt.",
+            "hu": "Friss reggel az Adrián, a Bura tisztító ereje söpör végig a vízen. Délben melegedjen fel egy barátságos tavernban. Délután a kastélyok falai nyújtanak menedéket a metsző szél elől. A nap korán ér véget a világítótoronynál látható látványos naplementével, mielőtt egy forró italra vágyna.",
+            "ro": "O dimineață proaspătă la Adriatică, cu vântul Bura măturând apa. La prânz, încălziți-vă într-o tavernă primitoare. După-amiaza, zidurile castelelor oferă adăpost contra vântului tăios. Ziua se încheie devreme cu un apus spectaculos la far, înainte de a căuta o băutură caldă.",
+            "en": "A crisp morning by the Adriatic, with the Bura wind sweeping across the water. At noon, warm up in a cozy tavern. In the afternoon, the castle walls provide shelter from the biting wind. The day ends early with a spectacular sunset at the lighthouse before heading for a hot drink."
+          },
+          "stops": [
+            {
+              "name": "Riva Waterfront",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, der Wind am Wasser ist kalt.",
+                "hu": "Öltözzön rétegesen, a vízparti szél hideg.",
+                "ro": "Îmbrăcați-vă gros, vântul de pe faleză este rece.",
+                "en": "Dress in layers, the wind by the water is cold."
+              }
+            },
+            {
+              "name": "Kraljevica Shipyard",
+              "tip_5lang": {
+                "de": "Ein kurzer Blick auf die Industriegeschichte im Winterlicht.",
+                "hu": "Rövid betekintés az ipari múltba téli fényeknél.",
+                "ro": "O scurtă privire în istoria industrială în lumina iernii.",
+                "en": "A quick look into industrial history in winter light."
+              }
+            },
+            {
+              "name": "Stari Grad Castle",
+              "tip_5lang": {
+                "de": "Die Innenräume sind deutlich wärmer als der Außenbereich.",
+                "hu": "A belső terek jóval melegebbek a kinti szélénél.",
+                "ro": "Interioarele sunt mult mai calde decât exteriorul.",
+                "en": "The interiors are much warmer than the outside wind."
+              }
+            },
+            {
+              "name": "Lunch in a local Konoba",
+              "tip_5lang": {
+                "de": "Genießen Sie ein Glas lokalen Rotwein zum Aufwärmen.",
+                "hu": "Élvezzen egy pohár helyi vörösbort a felmelegedéshez.",
+                "ro": "Savurați un pahar de vin roșu local pentru a vă încălzi.",
+                "en": "Enjoy a glass of local red wine to warm up."
+              }
+            },
+            {
+              "name": "Nova Kraljevica Castle",
+              "tip_5lang": {
+                "de": "Perfekt für eine ausgiebige Besichtigung ohne Hitze.",
+                "hu": "Tökéletes egy alapos látogatáshoz hőség nélkül.",
+                "ro": "Perfect pentru o vizită detaliată fără căldură.",
+                "en": "Perfect for an in-depth visit without the summer heat."
+              }
+            },
+            {
+              "name": "Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Beachten Sie die winterliche Stille im Viertel.",
+                "hu": "Figyelje meg a környék téli csendjét.",
+                "ro": "Observați liniștea iernatică din cartier.",
+                "en": "Observe the winter silence in the neighborhood."
+              }
+            },
+            {
+              "name": "Oštro Peninsula",
+              "tip_5lang": {
+                "de": "Die Bura kann hier sehr stark wehen, Vorsicht.",
+                "hu": "A Bura itt nagyon erősen fújhat, legyen óvatos.",
+                "ro": "Vântul Bura poate sufla foarte tare aici, atenție.",
+                "en": "The Bura wind can blow very strongly here, be careful."
+              }
+            },
+            {
+              "name": "Sunset at the Lighthouse",
+              "tip_5lang": {
+                "de": "Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
+                "hu": "A naplemente télen már 16:30 körül bekövetkezik.",
+                "ro": "Apusul soarelui este deja în jurul orei 16:30 iarna.",
+                "en": "Sunset is already around 16:30 in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Kleidung ist wegen der Bura ein Muss.",
+              "Planen Sie den Rückweg vor Einbruch der Dunkelheit.",
+              "Die Schlösser sind die besten Rückzugsorte.",
+              "Heiße Getränke in Thermoskannen mitnehmen."
+            ],
+            "hu": [
+              "Szélálló ruházat kötelező a Bura miatt.",
+              "Tervezze a visszautat sötétedés előtt.",
+              "A kastélyok a legjobb menedékhelyek.",
+              "Vigyen magával forró italt termoszban."
+            ],
+            "ro": [
+              "Hainele rezistente la vânt sunt obligatorii pentru Bura.",
+              "Planificați întoarcerea înainte de lăsarea întunericului.",
+              "Castelele sunt cele mai bune locuri de retragere.",
+              "Luați băuturi calde în termos."
+            ],
+            "en": [
+              "Windproof clothing is a must due to the Bura.",
+              "Plan your return before darkness falls.",
+              "The castles are the best retreats.",
+              "Take hot drinks in thermoses with you."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -631,6 +849,206 @@
           "Carry enough water, especially during the summer months.",
           "Be mindful of pedestrians when riding in the harbor area."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Fahrt entlang der Küste, das Meer und der Regen verschmelzen. Mittags Trockenpause in der Stadt. Nachmittags Besuch der kulturellen Schätze im Schutze der Burgmauern. Die Fahrt nach Oštro ist kurz und knackig, perfekt um den Elementen zu trotzen, bevor man sich wieder aufwärmt.",
+            "hu": "Frissítő tekerés a parton, ahol a tenger és az eső összeér. Délben pihenő a városban. Délután látogatás a várfalak védelmében rejlő kulturális kincsekhez. Az út Oštro felé rövid és intenzív, tökéletes az elemekkel való szembenézéshez a felmelegedés előtt.",
+            "ro": "O plimbare revigorantă pe coastă, unde marea și ploaia se contopesc. La prânz, pauză de uscare în oraș. După-amiaza, vizită la comorile culturale la adăpostul zidurilor cetății. Drumul spre Oštro este scurt și intens, perfect pentru a înfrunta elementele înainte de încălzire.",
+            "en": "A refreshing ride along the coast where sea and rain merge. At noon, a drying break in town. In the afternoon, visit cultural treasures sheltered by castle walls. The ride to Oštro is short and brisk, perfect for facing the elements before warming up again."
+          },
+          "stops": [
+            {
+              "name": "Nova Kraljevica Castle",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Eingangsbereich.",
+                "hu": "Parkolja le a bringát a fedett bejáratnál.",
+                "ro": "Parcați bicicleta în zona de intrare acoperită.",
+                "en": "Park your bike in the covered entrance area."
+              }
+            },
+            {
+              "name": "Stari Grad Castle",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenhöfe als Regenschutz.",
+                "hu": "Használja a belső udvarokat esővédőként.",
+                "ro": "Folosiți curțile interioare ca adăpost contra ploii.",
+                "en": "Use the inner courtyards as rain cover."
+              }
+            },
+            {
+              "name": "Lunch at the Riva",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit überdachter Terrasse.",
+                "hu": "Válasszon éttermet fedett terasszal.",
+                "ro": "Alegeți un restaurant cu terasă acoperită.",
+                "en": "Choose a restaurant with a covered terrace."
+              }
+            },
+            {
+              "name": "Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen vor der Weiterfahrt.",
+                "hu": "Rövid pihenő szárazon a továbbindulás előtt.",
+                "ro": "Scurtă pauză la uscat înainte de a pleca mai departe.",
+                "en": "Short break in the dry before moving on."
+              }
+            },
+            {
+              "name": "Coastal ride to Oštro",
+              "tip_5lang": {
+                "de": "Vorsicht vor Pfützen und rutschigem Asphalt.",
+                "hu": "Vigyázzon a tócsákra és a csúszós aszfaltra.",
+                "ro": "Atenție la bălți și la asfaltul alunecos.",
+                "en": "Watch out for puddles and slippery asphalt."
+              }
+            },
+            {
+              "name": "Oštro Peninsula (Beach time)",
+              "tip_5lang": {
+                "de": "Unter den Pinien finden Sie etwas Regenschutz.",
+                "hu": "A fenyők alatt némi védelmet talál az eső ellen.",
+                "ro": "Sub pini veți găsi ceva protecție contra ploii.",
+                "en": "Find some rain protection under the pine trees."
+              }
+            },
+            {
+              "name": "Kraljevica Shipyard",
+              "tip_5lang": {
+                "de": "Die großen Hallen bieten Schutz vor Schauern.",
+                "hu": "A nagy csarnokok védelmet nyújtanak a záporoktól.",
+                "ro": "Halele mari oferă protecție împotriva averselor.",
+                "en": "Large halls provide protection from showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung ist unerlässlich.",
+              "Prüfen Sie Ihre Bremsen bei nassen Bedingungen.",
+              "Meiden Sie lackierte Linien auf der Straße.",
+              "Schutzbleche am Rad halten Sie deutlich trockener."
+            ],
+            "hu": [
+              "Teljes esőruházat elengedhetetlen.",
+              "Ellenőrizze a fékeket nedves körülmények között.",
+              "Kerülje a felfestett vonalakat az úton.",
+              "A sárvédő sokat segít a szárazon maradásban."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie este esențial.",
+              "Verificați frânele în condiții de umiditate.",
+              "Evitați liniile vopsite pe carosabil.",
+              "Apărătorile de noroi vă mențin mult mai uscat."
+            ],
+            "en": [
+              "Full rain gear is essential for the ride.",
+              "Check your brakes in wet conditions.",
+              "Avoid painted lines on the road.",
+              "Mudguards will keep you much drier."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Zügiges Radeln gegen den Winterwind, die klare Luft weckt die Lebensgeister. Mittags Aufwärmstopp im Zentrum. Nachmittags bieten die historischen Stätten einen windgeschützten Einblick in die Vergangenheit. Eine schnelle Fahrt zur Oštro-Halbinsel belohnt mit einsamen Wegen und weiten Ausblicken, bevor die Kälte zur Rückkehr mahnt.",
+            "hu": "Gyors tekerés a téli széllel szemben, a tiszta levegő felélénkíti a szellemet. Délben melegedő megálló a központban. Délután a történelmi helyszínek szélvédett betekintést nyújtanak a múltba. Egy gyors kanyar Oštro felé magányos utakkal és tágas kilátással jutalmaz, mielőtt a hideg visszatérésre intene.",
+            "ro": "Pedalare rapidă contra vântului de iarnă, aerul curat revigorează spiritul. La prânz, oprire pentru încălzire în centru. După-amiaza, siturile istorice oferă o privire în trecut, ferită de vânt. O tură rapidă spre Oštro vă răsplătește cu drumuri pustii și vederi ample.",
+            "en": "Brisk cycling against the winter wind, the clear air awakens the spirit. At noon, a warming stop in the center. In the afternoon, historic sites offer a wind-sheltered glimpse into the past. A quick ride to Oštro rewards with lonely paths and wide views before the cold urges a return."
+          },
+          "stops": [
+            {
+              "name": "Nova Kraljevica Castle",
+              "tip_5lang": {
+                "de": "Ein geschützter Ort zum Abstellen der Fahrräder.",
+                "hu": "Védett hely a kerékpárok leállításához.",
+                "ro": "Un loc protejat pentru a lăsa bicicletele.",
+                "en": "A sheltered spot to park your bicycles."
+              }
+            },
+            {
+              "name": "Stari Grad Castle",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf.",
+                "hu": "Melegedjen fel a kiállítótermekben.",
+                "ro": "Încălziți-vă în sălile de expoziție.",
+                "en": "Warm up in the exhibition rooms."
+              }
+            },
+            {
+              "name": "Lunch at the Riva",
+              "tip_5lang": {
+                "de": "Heiße Schokolade ist nach der Fahrt sehr zu empfehlen.",
+                "hu": "A forró csokoládé nagyon ajánlott a tekerés után.",
+                "ro": "Ciocolata caldă este foarte recomandată după drum.",
+                "en": "Hot chocolate is highly recommended after the ride."
+              }
+            },
+            {
+              "name": "Church of St. Nicholas",
+              "tip_5lang": {
+                "de": "Ein ruhiger Moment fernab vom kalten Seewind.",
+                "hu": "Csendes pillanat távol a hideg tengeri széltől.",
+                "ro": "Un moment liniștit departe de vântul rece marin.",
+                "en": "A quiet moment away from the cold sea wind."
+              }
+            },
+            {
+              "name": "Coastal ride to Oštro",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe gegen den eisigen Fahrtwind.",
+                "hu": "Viseljen kesztyűt a jeges menetszél ellen.",
+                "ro": "Purtați mănuși contra vântului înghețat de mers.",
+                "en": "Wear gloves against the icy headwind."
+              }
+            },
+            {
+              "name": "Oštro Peninsula (Beach time)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am winterlich leeren Strand.",
+                "hu": "Élvezze a téli, üres strand nyugalmát.",
+                "ro": "Bucurați-vă de liniștea plajei pustii de iarnă.",
+                "en": "Enjoy the peace of the winter-empty beach."
+              }
+            },
+            {
+              "name": "Kraljevica Shipyard",
+              "tip_5lang": {
+                "de": "Das Werftgelände wirkt im Winterlicht besonders rau.",
+                "hu": "A hajógyár téli fényben különösen nyersnek tűnik.",
+                "ro": "Șantierul naval pare deosebit de brut în lumina iernii.",
+                "en": "The shipyard area looks especially raw in winter light."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Thermo-Unterwäsche und Schichten sind wichtig.",
+              "Achten Sie auf vereiste Stellen an Brücken.",
+              "Warme Handschuhe und Ohrenschützer nutzen.",
+              "Die Sonne geht im Winter sehr früh unter."
+            ],
+            "hu": [
+              "Termo-aláöltözet és réteges öltözködés fontos.",
+              "Ügyeljen a jeges foltokra a hidakon.",
+              "Használjon meleg kesztyűt és fülvédőt.",
+              "A nap télen nagyon korán nyugszik."
+            ],
+            "ro": [
+              "Lenjeria termică și straturile sunt importante.",
+              "Atenție la porțiunile înghețate de pe poduri.",
+              "Folosiți mănuși calde și protecții pentru urechi.",
+              "Soarele apune foarte devreme iarna."
+            ],
+            "en": [
+              "Thermal underwear and layers are important.",
+              "Watch out for icy patches on bridges.",
+              "Use warm gloves and ear protectors.",
+              "The sun sets very early in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -935,6 +1353,224 @@
           "The Krk bridge is toll-free for passenger cars.",
           "Take advantage of the short driving distances for maximum flexibility."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemes Sightseeing vom warmen Auto aus, während die Regentropfen auf das Dach trommeln. Mittags Stopp im Stadtzentrum für ein gemütliches Essen. Nachmittags Erkundung der historischen Burgen mit minimalen Fußwegen im Freien. Ein kurzer Abstecher zum Krk-Brücken-Aussichtspunkt zeigt das tosende Meer in seiner ganzen Pracht.",
+            "hu": "Kényelmes városnézés a meleg autóból, miközben az eső kopog a tetőn. Ebédeljen a városközpontban egy hangulatos helyen. Délután fedezze fel a történelmi várakat minimális kinti sétával. Egy rövid kitérő a Krk-híd kilátójához megmutatja a tajtékzó tengert a maga teljességében.",
+            "ro": "Vizitarea obiectivelor turistice din mașina caldă, în timp ce ploaia bate în plafon. La prânz, oprire în centrul orașului pentru o masă relaxată. După-amiaza, explorarea castelelor istorice cu mers pe jos minim în exterior. O scurtă vizită la podul Krk arată marea înfuriată.",
+            "en": "Comfortable sightseeing from a warm car while raindrops drum on the roof. At noon, stop in the city center for a cozy meal. In the afternoon, explore historic castles with minimal outdoor walking. A short detour to the Krk Bridge viewpoint reveals the roaring sea in all its glory."
+          },
+          "stops": [
+            {
+              "name": "Kraljevica Center (Parking)",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz nah an den Arkaden.",
+                "hu": "Keressen parkolót az árkádok közelében.",
+                "ro": "Căutați un loc de parcare aproape de arcade.",
+                "en": "Find a parking spot close to the arcades."
+              }
+            },
+            {
+              "name": "Kraljevica Shipyard",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang für kurze Wege.",
+                "hu": "Parkoljon közvetlenül a bejáratnál a rövid sétáért.",
+                "ro": "Parcați chiar la intrare pentru un drum scurt.",
+                "en": "Park right at the entrance for a short walk."
+              }
+            },
+            {
+              "name": "Stari Grad Castle",
+              "tip_5lang": {
+                "de": "Die dicken Mauern sind ein perfekter Regenschutz.",
+                "hu": "A vastag falak tökéletes esővédelmet nyújtanak.",
+                "ro": "Zidurile groase sunt o protecție perfectă contra ploii.",
+                "en": "The thick walls are a perfect rain shelter."
+              }
+            },
+            {
+              "name": "Lunch in town",
+              "tip_5lang": {
+                "de": "Restaurants im Zentrum sind gut erreichbar.",
+                "hu": "A központi éttermek könnyen megközelíthetők.",
+                "ro": "Restaurantele din centru sunt ușor accesibile.",
+                "en": "Restaurants in the center are easily accessible."
+              }
+            },
+            {
+              "name": "Nova Kraljevica Castle",
+              "tip_5lang": {
+                "de": "Das Besucherzentrum bietet viel Indoor-Programm.",
+                "hu": "A látogatóközpont sok beltéri programot kínál.",
+                "ro": "Centrul de vizitare oferă multe programe de interior.",
+                "en": "The visitor center offers plenty of indoor activities."
+              }
+            },
+            {
+              "name": "Oštro Peninsula (by car)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Meerblick vom Auto aus.",
+                "hu": "Élvezze a tengeri kilátást az autóból.",
+                "ro": "Bucurați-vă de vederea la mare din mașină.",
+                "en": "Enjoy the sea view from the comfort of the car."
+              }
+            },
+            {
+              "name": "Krk Bridge Viewpoint",
+              "tip_5lang": {
+                "de": "Spektakuläre Fotos vom grauen Meer möglich.",
+                "hu": "Spektakuláris fotók készíthetők a szürke tengerről.",
+                "ro": "Se pot face fotografii spectaculoase cu marea gri.",
+                "en": "Spectacular photos of the grey sea are possible."
+              }
+            },
+            {
+              "name": "Sunset by the shore",
+              "tip_5lang": {
+                "de": "Im Auto bleiben und den Himmel beobachten.",
+                "hu": "Maradjon az autóban és figyelje az eget.",
+                "ro": "Rămâneți în mașină și observați cerul.",
+                "en": "Stay in the car and watch the sky change."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Küstenstraße.",
+              "Parken Sie bevorzugt in der Nähe von Eingängen.",
+              "Haben Sie immer einen Schirm im Auto griffbereit.",
+              "Die Sicht kann bei starkem Regen eingeschränkt sein."
+            ],
+            "hu": [
+              "Ügyeljen a vízátfolyásokra a parti úton.",
+              "Lehetőleg a bejáratok közelében parkoljon.",
+              "Legyen mindig kéznél esernyő az autóban.",
+              "A látási viszonyok korlátozottak lehetnek esőben."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul de coastă.",
+              "Parcați preferabil aproape de intrări.",
+              "Aveți întotdeauna o umbrelă la îndemână în mașină.",
+              "Vizibilitatea poate fi redusä în caz de ploaie torențială."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the coastal road.",
+              "Park near entrances whenever possible.",
+              "Always keep an umbrella handy in the car.",
+              "Visibility can be limited during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Warme Fahrt durch die winterliche Küstenlandschaft, die Krk-Brücke glänzt im kalten Licht. Mittags Einkehr für lokale Spezialitäten. Nachmittags bieten die Schlösser eine Reise in die Geschichte ohne den beißenden Wind. Ein Abstecher zur Küste zeigt die raue Schönheit des Kvarners im Winter, bevor man gemütlich zurückfährt.",
+            "hu": "Meleg utazás a téli parti tájon, a Krk-híd ragyog a hideg fényben. Délben térjen be egy helyi specialitásra. Délután a kastélyok történelmi utazást kínálnak a metsző szél nélkül. Egy kitérő a partra megmutatja a Kvarner nyers téli szépségét, mielőtt kényelmesen visszaindulna.",
+            "ro": "Călătorie caldă prin peisajul de coastă iernatic, podul Krk strălucind în lumina rece. La prânz, opriți pentru specialități locale. După-amiaza, castelele oferă o călătorie în istorie fără vântul tăios. O vizită la coastă arată frumusețea brută a iernii.",
+            "en": "A warm drive through the winter coastal landscape, with the Krk Bridge gleaming in the cold light. At noon, stop for local specialties. In the afternoon, the castles offer a journey into history without the biting wind. A trip to the coast shows the raw winter beauty of Kvarner before a cozy drive back."
+          },
+          "stops": [
+            {
+              "name": "Kraljevica Center (Parking)",
+              "tip_5lang": {
+                "de": "Das Auto bleibt im Stadtzentrum angenehm warm.",
+                "hu": "Az autó kellemesen meleg marad a városközpontban.",
+                "ro": "Mașina rămâne plăcut de caldă în centrul orașului.",
+                "en": "The car stays pleasantly warm in the city center."
+              }
+            },
+            {
+              "name": "Kraljevica Shipyard",
+              "tip_5lang": {
+                "de": "Das Metall der Kräne wirkt im Winter frostig.",
+                "hu": "A daruk fémszerkezete fagyosnak hat télen.",
+                "ro": "Structura metalică a macaralelor pare înghețată iarna.",
+                "en": "The metal of the cranes looks frosty in winter."
+              }
+            },
+            {
+              "name": "Stari Grad Castle",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe ohne die Touristenmassen.",
+                "hu": "Élvezze a nyugalmat a turistatömegek nélkül.",
+                "ro": "Bucurați-vă de liniște fără masele de turiști.",
+                "en": "Enjoy the peace without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Lunch in town",
+              "tip_5lang": {
+                "de": "Bestellen Sie wärmende, herzhafte Gerichte.",
+                "hu": "Rendeljen melengető, laktató ételeket.",
+                "ro": "Comandați mâncăruri calde și consistente.",
+                "en": "Order warming, hearty local dishes."
+              }
+            },
+            {
+              "name": "Nova Kraljevica Castle",
+              "tip_5lang": {
+                "de": "Ein idealer Ort für Geschichtsliebhaber im Winter.",
+                "hu": "Ideális hely a történelem kedvelőinek télen.",
+                "ro": "Un loc ideal pentru iubitorii de istorie iarna.",
+                "en": "An ideal place for history buffs in winter."
+              }
+            },
+            {
+              "name": "Oštro Peninsula (by car)",
+              "tip_5lang": {
+                "de": "Fotografieren Sie die raue See aus dem Fenster.",
+                "hu": "Fotózza le a nyers tengert az ablakból.",
+                "ro": "Fotografiați marea agitată de la fereastră.",
+                "en": "Photograph the raw sea from the window."
+              }
+            },
+            {
+              "name": "Krk Bridge Viewpoint",
+              "tip_5lang": {
+                "de": "Die Bura kann das Auto am Aussichtspunkt rütteln.",
+                "hu": "A Bura megrázhatja az autót a kilátópontnál.",
+                "ro": "Vântul Bura poate zgâlțâi mașina la belvedere.",
+                "en": "The Bura can shake the car at the viewpoint."
+              }
+            },
+            {
+              "name": "Sunset by the shore",
+              "tip_5lang": {
+                "de": "Die klügste Wahl für einen Sonnenuntergang im Winter.",
+                "hu": "A legokosabb választás naplementéhez télen.",
+                "ro": "Cea mai inteligentă alegere pentru apus iarna.",
+                "en": "The smartest choice for a winter sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei Kälte.",
+              "Frostschutz für die Scheibenwischanlage wichtig.",
+              "Die Küstenstraße kann bei Bura tückisch sein.",
+              "Halten Sie eine warme Decke im Auto bereit."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a hidegben.",
+              "Fagyálló szélvédőmosó használata fontos.",
+              "A parti út trükkös lehet erős Bura esetén.",
+              "Tartson egy meleg takarót az autóban."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope la frig.",
+              "Antigelul pentru parbriz este esențial.",
+              "Drumul de coastă poate fi periculos pe Bura.",
+              "Țineți o pătură caldă pregătită în mașină."
+            ],
+            "en": [
+              "Check tire pressure in cold weather.",
+              "Antifreeze for windshield wipers is important.",
+              "The coastal road can be tricky during Bura.",
+              "Keep a warm blanket ready in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1216,6 +1852,206 @@
           "Tickets can often be purchased directly from the driver.",
           "Sidewalks in the center are well-maintained for walking."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus trocken durch Kraljevica, die Fenster beschlagen leicht. Mittags Aufwärmen in einer Taverne nahe der Haltestelle. Nachmittags bieten die historischen Burgen eine kulturelle Flucht vor dem Regen. Die Fahrt zur Halbinsel Oštro ist dank Transit bequem, sodass man den Elementen nur kurz ausgesetzt ist.",
+            "hu": "Busszal szárazon Kraljevica-szerte, az ablakok enyhén párásak. Délben melegedjen fel egy megálló közeli tavernban. Délután a történelmi várak kulturális menekülést kínálnak az eső elől. Az Oštro-félszigetre való eljutás a tömegközlekedéssel kényelmes és gyors.",
+            "ro": "Cu autobuzul la uscat prin Kraljevica, geamurile se aburesc ușor. La prânz, încălziți-vă într-o tavernă lângă stație. După-amiaza, castelele oferă o evadare culturală din ploaie. Drumul spre peninsula Oštro este confortabil datorită transportului în comun.",
+            "en": "By bus dry through Kraljevica, windows fogging up slightly. At noon, warm up in a tavern near the stop. In the afternoon, historic castles offer a cultural escape from the rain. Reaching Oštro Peninsula is convenient via transit, minimizing exposure to the elements."
+          },
+          "stops": [
+            {
+              "name": "Kraljevica Central Bus Stop",
+              "tip_5lang": {
+                "de": "Warten Sie im Unterstand auf den nächsten Bus.",
+                "hu": "Várjon a váróban a következő buszra.",
+                "ro": "Așteptați în stația acoperită următorul autobuz.",
+                "en": "Wait in the shelter for the next bus."
+              }
+            },
+            {
+              "name": "Stari Grad Castle",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Bushaltestelle.",
+                "hu": "Csak rövid séta a buszmegállótól.",
+                "ro": "Doar o scurtă plimbare de la stația de autobuz.",
+                "en": "Only a short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Nova Kraljevica Castle",
+              "tip_5lang": {
+                "de": "Das Schloss bietet viele überdachte Bereiche.",
+                "hu": "A kastély számos fedett területtel rendelkezik.",
+                "ro": "Castelul are multe zone acoperite.",
+                "en": "The castle has many covered areas."
+              }
+            },
+            {
+              "name": "Konoba (lunch)",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal in der Nähe der Route.",
+                "hu": "Válasszon egy helyet az útvonal közelében.",
+                "ro": "Alegeți un local aproape de traseu.",
+                "en": "Choose a place near the transit route."
+              }
+            },
+            {
+              "name": "Transfer to Oštro Peninsula",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan bei Regen genau.",
+                "hu": "Esőben ellenőrizze pontosan a menetrendet.",
+                "ro": "Verificați orarul cu atenție în caz de ploaie.",
+                "en": "Check the timetable carefully when it rains."
+              }
+            },
+            {
+              "name": "Oštro Beach Break",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem dichten Pinienhain.",
+                "hu": "Keressen menedéket a sűrű fenyőliget alatt.",
+                "ro": "Căutați adăpost sub pădurea de pini deasă.",
+                "en": "Seek shelter under the dense pine grove."
+              }
+            },
+            {
+              "name": "Return to the center",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus, um schnell ins Trockene zu kommen.",
+                "hu": "Használja a buszt, hogy gyorsan szárazra érjen.",
+                "ro": "Folosiți autobuzul pentru a ajunge rapid la uscat.",
+                "en": "Use the bus to quickly get back to the dry center."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Businfos.",
+              "Haben Sie Kleingeld für das Ticket bereit.",
+              "Die Busse sind im Winter meist gut beheizt.",
+              "Regenschirm ist für den Weg zur Haltestelle nötig."
+            ],
+            "hu": [
+              "Használja az appot a valós idejű infókért.",
+              "Legyen aprópénze a jegyvásárláshoz.",
+              "A buszok télen általában jól fűtöttek.",
+              "Esernyő kell a megállóig tartó sétához."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru informații în timp real.",
+              "Aveți bani mărunți pentru bilet.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "E nevoie de umbrelă pentru drumul spre stație."
+            ],
+            "en": [
+              "Use the app for real-time bus info.",
+              "Have small change ready for tickets.",
+              "Buses are usually well-heated in winter.",
+              "An umbrella is needed for the walk to the stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Transit durch Kraljevica, die Busse bieten eine warme Pause zwischen den Sehenswürdigkeiten. Mittags Einkehr im Stadtzentrum. Nachmittags Erkundung der Frankopan-Geschichte im Schutz der massiven Steinmauern. Der Tag endet mit einem Blick auf den winterlichen Kvarner, bevor der Abendbus Sie sicher zurückbringt.",
+            "hu": "Téli tömegközlekedés Kraljevicában, a buszok meleg pihenőt nyújtanak a látnivalók között. Délben térjen be egy ebédre a városközpontban. Délután fedezze fel a Frankopán-történelmet a masszív kőfalak védelmében. A nap a téli Kvarner látványával zárul, mielőtt az esti busz hazaszállítaná.",
+            "ro": "Transport de iarnă prin Kraljevica, autobuzele oferind o pauză caldă între obiective. La prânz, opriți pentru masă în centru. După-amiaza, descoperiți istoria Frankopan la adăpostul zidurilor de piatră. Ziua se încheie cu o vedere spre Kvarnerul iernatic.",
+            "en": "Winter transit through Kraljevica, with buses offering a warm break between sights. At noon, stop for lunch in the city center. In the afternoon, discover Frankopan history sheltered by massive stone walls. The day ends with a view of winter Kvarner before the evening bus takes you back."
+          },
+          "stops": [
+            {
+              "name": "Kraljevica Central Bus Stop",
+              "tip_5lang": {
+                "de": "Warten Sie im windgeschützten Bereich.",
+                "hu": "Várjon a szélvédett területen.",
+                "ro": "Așteptați în zona ferită de vânt.",
+                "en": "Wait in the wind-sheltered area."
+              }
+            },
+            {
+              "name": "Stari Grad Castle",
+              "tip_5lang": {
+                "de": "Besuch der Ausstellungen im warmen Inneren.",
+                "hu": "Látogassa meg a kiállításokat a meleg belsőben.",
+                "ro": "Vizitați expozițiile în interiorul cald.",
+                "en": "Visit the exhibitions in the warm interior."
+              }
+            },
+            {
+              "name": "Nova Kraljevica Castle",
+              "tip_5lang": {
+                "de": "Großartige Akustik in den kühlen Winterhallen.",
+                "hu": "Nagyszerű akusztika a hűvös téli csarnokokban.",
+                "ro": "Acustică grozavă în halele răcoroase de iarnă.",
+                "en": "Great acoustics in the cool winter halls."
+              }
+            },
+            {
+              "name": "Konoba (lunch)",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal mit gutem Heizsystem.",
+                "hu": "Válasszon jól fűtött vendéglátóhelyet.",
+                "ro": "Alegeți un local cu sistem de încălzire bun.",
+                "en": "Choose a place with a good heating system."
+              }
+            },
+            {
+              "name": "Transfer to Oštro Peninsula",
+              "tip_5lang": {
+                "de": "Winterfahrpläne können seltener getaktet sein.",
+                "hu": "A téli menetrend ritkább lehet.",
+                "ro": "Orarele de iarnă pot fi mai rare.",
+                "en": "Winter timetables may have fewer connections."
+              }
+            },
+            {
+              "name": "Oštro Beach Break",
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Licht am einsamen Ufer.",
+                "hu": "Élvezze a tiszta fényeket a magányos parton.",
+                "ro": "Bucurați-vă de lumina clară pe țărmul pustiu.",
+                "en": "Enjoy the clear light on the lonely shore."
+              }
+            },
+            {
+              "name": "Return to the center",
+              "tip_5lang": {
+                "de": "Der letzte Bus vor der Dunkelheit ist ideal.",
+                "hu": "A sötétedés előtti utolsó busz az ideális.",
+                "ro": "Ultimul autobuz înainte de întuneric este ideal.",
+                "en": "The last bus before dark is ideal."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Fahrplan vorab online.",
+              "Abends können die Intervalle länger sein.",
+              "Suchen Sie beheizte Wartebereiche.",
+              "Tragen Sie warme Kleidung für die Wartezeit."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet előre online.",
+              "Este a járatok ritkábbak lehetnek.",
+              "Keressen fűtött várakozóhelyeket.",
+              "Viseljen meleg ruhát a várakozáshoz."
+            ],
+            "ro": [
+              "Verificați orarul în avans online.",
+              "Seara, intervalele pot fi mai lungi.",
+              "Căutați zone de așteptare încălzite.",
+              "Purtați haine calde pentru timpul de așteptare."
+            ],
+            "en": [
+              "Check the timetable online in advance.",
+              "Intervals may be longer in the evening.",
+              "Look for heated waiting areas.",
+              "Wear warm clothes for the waiting time."
+            ]
+          }
+        }
       }
     }
   }

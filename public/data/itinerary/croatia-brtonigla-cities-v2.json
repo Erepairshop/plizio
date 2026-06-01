@@ -290,6 +290,224 @@
           "Mramornica Cave is a constant 14 degrees, bring a jacket.",
           "Book a table in advance for dinner at San Rocco."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag unter dem schützenden Dach der St. Zenon Kirche. Ein kurzer Spaziergang durch die glänzenden Gassen der Altstadt führt Sie in die gemütliche Wärme einer lokalen Konoba. Der Nachmittag gehört der Mramornica-Höhle, die als perfektes, trockenes Refugium dient. Den Abend lassen Sie bei exzellenten Weinen im San Rocco ausklingen, während der Regen sanft gegen die Scheiben trommelt.",
+            "hu": "Kezdje a napot a Szent Zénó templom oltalmazó falai között. Az esőtől fénylő óvárosi utcák után meneküljön egy hangulatos konoba melegébe. A délutánt töltse a Mramornica-barlangban, amely ilyenkor tökéletes száraz menedéket nyújt. Az estét a San Rocco belső terében zárja egy pohár helyi borral, miközben hallgatja az eső kopogását az ablakon.",
+            "ro": "Începeți ziua sub acoperișul protector al bisericii Sf. Zenon. După o plimbare pe străzile lucioase ale orașului vechi, retrageți-vă în căldura unei konoba primitoare. După-amiaza aparține peșterii Mramornica, care servește ca refugiu perfect și uscat. Încheiați seara la San Rocco cu vinuri excelente, în timp ce ploaia bate ușor în geamuri.",
+            "en": "Start the day under the protective roof of St. Zenon Church. A walk through the glistening old town alleys leads you to the cozy warmth of a local konoba. Spend the afternoon in Mramornica Cave, which serves as a perfect dry refuge. End the evening at San Rocco with excellent wines while the rain drums softly against the windows."
+          },
+          "stops": [
+            {
+              "name": "Župna crkva sv. Zenona",
+              "tip_4lang": {
+                "de": "Trockener Start in den Tag.",
+                "hu": "Száraz kezdés a templomban.",
+                "ro": "Început uscat în biserică.",
+                "en": "Dry start inside the church."
+              }
+            },
+            {
+              "name": "Altstadtspaziergang",
+              "tip_4lang": {
+                "de": "Vorsicht, rutschiges Pflaster.",
+                "hu": "Vigyázat, csúszós kövezet.",
+                "ro": "Atenție la pavajul alunecos.",
+                "en": "Caution, slippery pavement."
+              }
+            },
+            {
+              "name": "Park prirode Škarline",
+              "tip_4lang": {
+                "de": "Festes Schuhwerk für Matsch.",
+                "hu": "Sárálló cipő ajánlott.",
+                "ro": "Încălțăminte pentru noroi.",
+                "en": "Sturdy shoes for mud."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_4lang": {
+                "de": "Längere Pause im Trockenen.",
+                "hu": "Hosszabb pihenő a szárazon.",
+                "ro": "Pauză prelungită la uscat.",
+                "en": "Longer break in the dry."
+              }
+            },
+            {
+              "name": "Špilja Mramornica",
+              "tip_4lang": {
+                "de": "Bestes Ziel bei Regen.",
+                "hu": "Legjobb célpont esőben.",
+                "ro": "Cea mai bună țintă pe ploaie.",
+                "en": "Best destination in rain."
+              }
+            },
+            {
+              "name": "Helyi bor- és olívaolaj bolt",
+              "tip_4lang": {
+                "de": "Souvenirkauf unterm Dach.",
+                "hu": "Ajándékvásárlás fedél alatt.",
+                "ro": "Cumpărături sub acoperiș.",
+                "en": "Souvenir shopping indoors."
+              }
+            },
+            {
+              "name": "San Rocco",
+              "tip_4lang": {
+                "de": "Warme Atmosphäre genießen.",
+                "hu": "Élvezze a meleg hangulatot.",
+                "ro": "Bucurați-vă de atmosfera caldă.",
+                "en": "Enjoy the warm atmosphere."
+              }
+            },
+            {
+              "name": "Sonnenuntergang über den Weinbergen",
+              "tip_4lang": {
+                "de": "Dramatische Wolkenstimmung.",
+                "hu": "Dramatikus felhős kilátás.",
+                "ro": "Vedere dramatică cu nori.",
+                "en": "Dramatic cloudy views."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit.",
+              "Die Mramornica-Höhle ist bei jedem Wetter trocken.",
+              "Tragen Sie wasserfeste Wanderschuhe.",
+              "Planen Sie mehr Zeit für Indoor-Stopps ein."
+            ],
+            "hu": [
+              "Vigyen magával strapabíró esernyőt.",
+              "A Mramornica-barlang minden időben száraz.",
+              "Viseljen vízálló túracipőt.",
+              "Tervezzen több időt a benti megállókra."
+            ],
+            "ro": [
+              "Luați o umbrelă rezistentă.",
+              "Peștera Mramornica este uscată pe orice vreme.",
+              "Purtați pantofi de drumeție impermeabili.",
+              "Alocați mai mult timp pentru opririle în interior."
+            ],
+            "en": [
+              "Take a sturdy umbrella with you.",
+              "Mramornica Cave is dry in any weather.",
+              "Wear waterproof hiking shoes.",
+              "Plan more time for indoor stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das ruhige Brtonigla im sanften Winterlicht. Nach dem Kirchenbesuch wärmt ein kräftiger Espresso in der Altstadt Geist und Körper. Die Wanderung durch den Park bietet klare Luft und Stille, gefolgt von einer heißen Suppe in der Konoba. In der Höhle herrscht eine angenehm milde Temperatur, bevor Sie den frühen Sonnenuntergang bei einem Glas kräftigen Rotweins bewundern.",
+            "hu": "Tapasztalja meg a csendes Brtoniglát a lágy téli fényekben. A templomlátogatás után egy erős eszpresszó melengeti át az óvárosban. A parkbéli séta tiszta levegőt és nyugalmat ígér, amit forró leves követ a konobában. A barlangban ilyenkor is kellemes az idő, mielőtt a korai naplementét egy pohár testes vörösborral köszöntené.",
+            "ro": "Experimentați liniștea din Brtonigla în lumina blândă a iernii. După vizita la biserică, un espresso tare vă va încălzi în centrul vechi. Plimbarea prin parc oferă aer curat și liniște, urmată de o supă fierbinte în konoba. În peșteră temperatura este plăcută, înainte de a admira apusul timpuriu cu un pahar de vin roșu.",
+            "en": "Experience quiet Brtonigla in the soft winter light. After the church visit, a strong espresso warms the soul in the old town. The park walk offers crisp air and silence, followed by hot soup in the konoba. The cave maintains a pleasant temperature before you watch the early sunset with a glass of bold red wine."
+          },
+          "stops": [
+            {
+              "name": "Župna crkva sv. Zenona",
+              "tip_4lang": {
+                "de": "Windgeschützter Ort.",
+                "hu": "Szélvédett helyszín.",
+                "ro": "Loc ferit de vânt.",
+                "en": "Sheltered location."
+              }
+            },
+            {
+              "name": "Altstadtspaziergang",
+              "tip_4lang": {
+                "de": "Warmer Kaffee zwischendurch.",
+                "hu": "Meleg kávé útközben.",
+                "ro": "Cafea caldă pe drum.",
+                "en": "Warm coffee on the way."
+              }
+            },
+            {
+              "name": "Park prirode Škarline",
+              "tip_4lang": {
+                "de": "Mütze und Handschuhe!",
+                "hu": "Sapka és kesztyű!",
+                "ro": "Căciulă și mănuși!",
+                "en": "Hat and gloves!"
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_4lang": {
+                "de": "Heimelige Kaminwärme.",
+                "hu": "Otthonos kandallótűz.",
+                "ro": "Căldura șemineului.",
+                "en": "Cozy fireplace warmth."
+              }
+            },
+            {
+              "name": "Špilja Mramornica",
+              "tip_4lang": {
+                "de": "Konstante 14 Grad.",
+                "hu": "Állandó 14 fok.",
+                "ro": "Constant 14 grade.",
+                "en": "Constant 14 degrees."
+              }
+            },
+            {
+              "name": "Helyi bor- és olívaolaj bolt",
+              "tip_4lang": {
+                "de": "Lokale Produkte probieren.",
+                "hu": "Kóstoljon helyi termékeket.",
+                "ro": "Gustați produse locale.",
+                "en": "Taste local products."
+              }
+            },
+            {
+              "name": "San Rocco",
+              "tip_4lang": {
+                "de": "Perfekter Winterabend.",
+                "hu": "Tökéletes téli este.",
+                "ro": "Seară perfectă de iarnă.",
+                "en": "Perfect winter evening."
+              }
+            },
+            {
+              "name": "Sonnenuntergang über den Weinbergen",
+              "tip_4lang": {
+                "de": "Sonnenuntergang ca. 16:45.",
+                "hu": "Naplemente kb. 16:45.",
+                "ro": "Apus în jur de 16:45.",
+                "en": "Sunset around 16:45."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip.",
+              "Achtung vor der Bora (kalter Wind).",
+              "Die Sonne geht bereits vor 17:00 unter.",
+              "Die Höhle ist wärmer als die Außenluft."
+            ],
+            "hu": [
+              "Öltözzön rétegesen.",
+              "Vigyázzon a Bórával (hideg szél).",
+              "A nap már 17:00 előtt lemegy.",
+              "A barlang melegebb, mint a kinti levegő."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi.",
+              "Atenție la Bora (vânt rece).",
+              "Soarele apune deja înainte de 17:00.",
+              "Peștera este mai caldă decât aerul exterior."
+            ],
+            "en": [
+              "Dress in layers.",
+              "Beware of the Bora (cold wind).",
+              "The sun sets before 17:00.",
+              "The cave is warmer than the outside air."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -554,6 +772,224 @@
           "There are some climbs, an e-bike is recommended.",
           "Take enough water with you, especially in summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Tour für echte Radsportler. Die befestigten Wege führen sicher zur Kirche und durch die Altstadt. In der Natur sollte man auf Schlamm vorbereitet sein, doch das Mittagessen entschädigt für jede Mühe. Die Mramornica-Höhle bietet eine willkommene Pause im Trockenen. Nach der Rückfahrt wärmen die Spa-Einrichtungen oder die Kulinarik des San Rocco die müden Glieder.",
+            "hu": "Frissítő túra az igazi bringásoknak. A kövezett utak biztonságosan vezetnek a templomhoz és az óvárosba. A természetben készüljön fel a sárra, de az ebéd minden fáradozásért kárpótol. A Mramornica-barlang üdvözlendő száraz szünetet biztosít. A visszaút után a San Rocco kényelme vagy wellness szolgáltatásai melengetik át a fáradt tagokat.",
+            "ro": "Un tur revigorant pentru cicliștii adevărați. Drumurile pavate duc în siguranță la biserică și prin orașul vechi. În natură trebuie să fiți pregătiți pentru noroi, dar prânzul compensează orice efort. Peștera Mramornica oferă o pauză binemeritată la uscat. După întoarcere, facilitățile de la San Rocco încălzesc membrele obosite.",
+            "en": "A refreshing tour for true cyclists. Paved paths lead safely to the church and through the old town. Be prepared for mud in nature, but lunch makes up for every effort. Mramornica Cave offers a welcome dry break. After the return ride, San Rocco's comfort or spa facilities warm up tired limbs."
+          },
+          "stops": [
+            {
+              "name": "Župna crkva sv. Zenona",
+              "tip_4lang": {
+                "de": "Fahrrad sicher abstellen.",
+                "hu": "Biztonságos bringatárolás.",
+                "ro": "Parcare sigură biciclete.",
+                "en": "Safe bike parking."
+              }
+            },
+            {
+              "name": "Altstadt-Rundfahrt",
+              "tip_4lang": {
+                "de": "Vorsicht auf nassem Stein.",
+                "hu": "Vigyázzon a nedves kövön.",
+                "ro": "Atenție pe piatra udă.",
+                "en": "Careful on wet stone."
+              }
+            },
+            {
+              "name": "Park prirode Škarline",
+              "tip_4lang": {
+                "de": "Rutschengefahr auf Wegen.",
+                "hu": "Csúszásveszély az utakon.",
+                "ro": "Risc de alunecare pe poteci.",
+                "en": "Slipping hazard on trails."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_4lang": {
+                "de": "Kleidung kurz trocknen.",
+                "hu": "Ruhák rövid szárítása.",
+                "ro": "Uscarea scurtă a hainelor.",
+                "en": "Briefly dry your clothes."
+              }
+            },
+            {
+              "name": "Špilja Mramornica",
+              "tip_4lang": {
+                "de": "Rad draußen parken.",
+                "hu": "Bringaparkoló kint.",
+                "ro": "Parcare biciclete afară.",
+                "en": "Bike parking outside."
+              }
+            },
+            {
+              "name": "Rundfahrt durch die Weinberge",
+              "tip_4lang": {
+                "de": "Schutzbleche empfohlen.",
+                "hu": "Sárvédő ajánlott.",
+                "ro": "Apărători recomandate.",
+                "en": "Mudguards recommended."
+              }
+            },
+            {
+              "name": "San Rocco",
+              "tip_4lang": {
+                "de": "Belohnung nach der Tour.",
+                "hu": "Jutalom a túra után.",
+                "ro": "Răsplată după tur.",
+                "en": "Reward after the tour."
+              }
+            },
+            {
+              "name": "Aussichtspunkt-Finale",
+              "tip_4lang": {
+                "de": "Schnell ins Trockene.",
+                "hu": "Gyorsan fedél alá.",
+                "ro": "Rapid la adăpost.",
+                "en": "Quickly to shelter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie wasserfeste Packtaschen.",
+              "Prüfen Sie Ihre Bremsen bei Nässe.",
+              "Tragen Sie eine auffällige Regenjacke.",
+              "Vermeiden Sie tiefe Pfützen."
+            ],
+            "hu": [
+              "Használjon vízálló táskákat.",
+              "Ellenőrizze a fékeket esőben.",
+              "Viseljen feltűnő esőkabátot.",
+              "Kerülje a mély tócsákat."
+            ],
+            "ro": [
+              "Folosiți genți impermeabile.",
+              "Verificați frânele pe ud.",
+              "Purtați o jachetă reflectorizantă.",
+              "Evitați bălțile adânci."
+            ],
+            "en": [
+              "Use waterproof panniers.",
+              "Check your brakes in the wet.",
+              "Wear a high-visibility rain jacket.",
+              "Avoid deep puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klare Luft und weite Sichten machen die Wintertour besonders. Die Anstiege halten den Körper warm, während die Abfahrten durch die Weinberge erfrischend sind. Ein Stop in der Konoba für eine warme Mahlzeit ist essenziell. Die Höhle bietet eine willkommene Aufwärmpause mit milden 14 Grad. Beenden Sie die Tour zeitig, um das goldene Licht vor dem frühen Sonnenuntergang einzufangen.",
+            "hu": "A tiszta levegő és a távoli kilátás különlegessé teszi a téli túrát. Az emelkedők melegen tartják a testet, a lejtők pedig frissítőek a szőlősök között. Egy megálló a konobában meleg ételre elengedhetetlen. A barlang kellemes, 14 fokos melegedő szünetet kínál. Fejezze be időben a túrát, hogy elkapja az arany fényeket a korai naplemente előtt.",
+            "ro": "Aerul curat și vizibilitatea fac turul de iarnă deosebit. Urcările mențin corpul cald, iar coborârile prin vii sunt revigorante. O oprire în konoba pentru o masă caldă este esențială. Peștera oferă o pauză de încălzire la 14 grade. Terminați turul devreme pentru a surprinde lumina aurie înainte de apus.",
+            "en": "Crisp air and wide views make the winter tour special. The climbs keep the body warm, while the descents through the vineyards are refreshing. A stop in the konoba for a warm meal is essential. The cave offers a welcome warm-up break at 14 degrees. Finish the tour early to catch the golden light before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Župna crkva sv. Zenona",
+              "tip_4lang": {
+                "de": "Handschuhe anbehalten.",
+                "hu": "Kesztyű maradjon kézen.",
+                "ro": "Păstrați mănușile.",
+                "en": "Keep gloves on."
+              }
+            },
+            {
+              "name": "Altstadt-Rundfahrt",
+              "tip_4lang": {
+                "de": "Kurze Fotostopps.",
+                "hu": "Rövid fotómegállók.",
+                "ro": "Opriri scurte foto.",
+                "en": "Short photo stops."
+              }
+            },
+            {
+              "name": "Park prirode Škarline",
+              "tip_4lang": {
+                "de": "Kühler Fahrtwind im Tal.",
+                "hu": "Hűvös menetszél a völgyben.",
+                "ro": "Vânt rece în vale.",
+                "en": "Cool wind in the valley."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_4lang": {
+                "de": "Warmer Tee zur Stärkung.",
+                "hu": "Meleg tea az erőért.",
+                "ro": "Ceai cald pentru energie.",
+                "en": "Warm tea for energy."
+              }
+            },
+            {
+              "name": "Špilja Mramornica",
+              "tip_4lang": {
+                "de": "Helm ab, Temperatur genießen.",
+                "hu": "Sisak le, élvezze a hőt.",
+                "ro": "Casca jos, bucurați-vă de căldură.",
+                "en": "Helmet off, enjoy the temp."
+              }
+            },
+            {
+              "name": "Rundfahrt durch die Weinberge",
+              "tip_4lang": {
+                "de": "Helle Kleidung tragen.",
+                "hu": "Viseljen világos ruhát.",
+                "ro": "Purtați haine deschise.",
+                "en": "Wear bright clothing."
+              }
+            },
+            {
+              "name": "San Rocco",
+              "tip_4lang": {
+                "de": "Rad sicher verstauen.",
+                "hu": "Bringa elrakása.",
+                "ro": "Depozitare bicicletă.",
+                "en": "Store bike safely."
+              }
+            },
+            {
+              "name": "Aussichtspunkt-Finale",
+              "tip_4lang": {
+                "de": "Licht an für den Rückweg.",
+                "hu": "Lámpa be a hazatéréshez.",
+                "ro": "Luminile aprinse la retur.",
+                "en": "Lights on for return ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Kleidung ist Pflicht.",
+              "Trinken Sie ausreichend warmen Tee.",
+              "Laden Sie die Lampenakkus voll auf.",
+              "Vermeiden Sie langes Stehenbleiben."
+            ],
+            "hu": [
+              "Szélálló ruházat kötelező.",
+              "Igyon elegendő meleg teát.",
+              "Töltse fel teljesen a lámpákat.",
+              "Kerülje a hosszú ácsorgást."
+            ],
+            "ro": [
+              "Hainele rezistente la vânt sunt obligatorii.",
+              "Beți suficient ceai cald.",
+              "Încărcați bateriile luminilor.",
+              "Evitați staționarea prelungită."
+            ],
+            "en": [
+              "Windproof clothing is mandatory.",
+              "Drink enough warm tea.",
+              "Charge your light batteries fully.",
+              "Avoid standing still for too long."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -818,6 +1254,224 @@
           "The roads to the nature park are narrow, drive carefully.",
           "Combine the cave visit with a stop at local winemakers."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Istrien bequem vom Auto aus. Die kurzen Wege zwischen den Clustern schützen vor dem Wetter. Besuchen Sie die historischen Orte und den Naturpark, bevor Sie zum ausgiebigen Mittagessen einkehren. Die Mramornica-Höhle ist ein wetterfestes Highlight, das Sie trockenen Fußes erreichen. Der Tag endet perfekt mit einer Weinverkostung und einem exzellenten Dinner im San Rocco.",
+            "hu": "Élvezze Isztriát kényelmesen az autóból. A közeli megállók megvédik az időjárástól. Látogassa meg a történelmi helyeket és a natúrparkot, mielőtt betérne egy bőséges ebédre. A Mramornica-barlang időjárásálló fénypont, amelyet száraz lábbal érhet el. A napot borkóstoló és egy kiváló vacsora zárja a San Rocco étteremben.",
+            "ro": "Bucurați-vă de Istria confortabil din mașină. Distanțele scurte între grupuri vă protejează de vreme. Vizitați locurile istorice și parcul natural înainte de un prânz copios. Peștera Mramornica este un punct culminant rezistent la vreme, la care ajungeți uscat. Ziua se încheie cu o degustare de vinuri și o cină excelentă la San Rocco.",
+            "en": "Enjoy Istria comfortably from your car. Short distances between clusters keep you protected from the weather. Visit historical sites and the nature park before stopping for a hearty lunch. Mramornica Cave is a weather-proof highlight reachable with dry feet. The day ends perfectly with wine tasting and an excellent dinner at San Rocco."
+          },
+          "stops": [
+            {
+              "name": "Župna crkva sv. Zenona (Cluster A)",
+              "tip_4lang": {
+                "de": "Parken nah am Eingang.",
+                "hu": "Parkolás a bejáratnál.",
+                "ro": "Parcare lângă intrare.",
+                "en": "Park close to the entrance."
+              }
+            },
+            {
+              "name": "Altstadtbummel (Cluster A)",
+              "tip_4lang": {
+                "de": "Kurze Wege im Regen.",
+                "hu": "Rövid utak az esőben.",
+                "ro": "Distanțe scurte pe ploaie.",
+                "en": "Short walks in the rain."
+              }
+            },
+            {
+              "name": "Park prirode Škarline (Cluster B)",
+              "tip_4lang": {
+                "de": "Sicht aus dem Auto.",
+                "hu": "Kilátás az autóból.",
+                "ro": "Vedere din mașină.",
+                "en": "View from the car."
+              }
+            },
+            {
+              "name": "Mittagessen in Brtonigla (Cluster A)",
+              "tip_4lang": {
+                "de": "Gemütlich drinnen sitzen.",
+                "hu": "Kényelmes benti ülés.",
+                "ro": "Stați comod în interior.",
+                "en": "Sit comfortably inside."
+              }
+            },
+            {
+              "name": "Špilja Mramornica (Cluster C)",
+              "tip_4lang": {
+                "de": "Auto direkt am Parkplatz.",
+                "hu": "Autó a parkolóban.",
+                "ro": "Mașina în parcare.",
+                "en": "Car right at the parking lot."
+              }
+            },
+            {
+              "name": "San Rocco (Cluster A)",
+              "tip_4lang": {
+                "de": "Eleganter Stopp im Trockenen.",
+                "hu": "Elegáns, száraz megálló.",
+                "ro": "Oprire elegantă la uscat.",
+                "en": "Elegant dry stop."
+              }
+            },
+            {
+              "name": "Weinverkostung (Cluster A)",
+              "tip_4lang": {
+                "de": "Nicht trinken beim Fahren!",
+                "hu": "Sofőr ne igyon!",
+                "ro": "Șoferul nu bea!",
+                "en": "Driver stays sober!"
+              }
+            },
+            {
+              "name": "Naplemente-kilátó",
+              "tip_4lang": {
+                "de": "Blick durch die Frontscheibe.",
+                "hu": "Kilátás a szélvédőn át.",
+                "ro": "Vedere prin parbriz.",
+                "en": "View through the windshield."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkplätze nah am Ziel.",
+              "Vermeiden Sie unbefestigte Seitenwege.",
+              "Lassen Sie die Klimaanlage gegen Beschlag laufen.",
+              "Halten Sie einen Schirm im Auto bereit."
+            ],
+            "hu": [
+              "Használja a közeli parkolókat.",
+              "Kerülje a burkolatlan mellékutakat.",
+              "Használja a klímát a pára ellen.",
+              "Tartson ernyőt az autóban."
+            ],
+            "ro": [
+              "Folosiți parcările apropiate.",
+              "Evitați drumurile laterale neasfaltate.",
+              "Folosiți clima împotriva aburirii.",
+              "Țineți o umbrelă în mașină."
+            ],
+            "en": [
+              "Use parking spaces close to destinations.",
+              "Avoid unpaved side roads.",
+              "Run air conditioning to de-fog windows.",
+              "Keep an umbrella ready in the car."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Brtonigla im Winter lässt sich am besten mit dem Auto erkunden. Genießen Sie die beheizte Fahrt zwischen den charmanten Sehenswürdigkeiten. Der Naturpark wirkt im Winter besonders mystisch. Nach einem wärmenden Mittagessen bietet die Höhle eine konstante Temperatur. Schließen Sie den Tag mit einer Weinverkostung und dem Blick auf die weiten Weinberge im sanften Winterlicht ab.",
+            "hu": "Télen Brtonigla felfedezése autóval a legkényelmesebb. Élvezze a fűtött utazást a bájos látnivalók között. A natúrpark ilyenkor különösen misztikus. Egy melegítő ebéd után a barlang állandó hőmérséklete hívogat. Zárja a napot borkóstolóval és a téli fényekben úszó szőlőültetvények látványával.",
+            "ro": "Iarna, Brtonigla se explorează cel mai bine cu mașina. Bucurați-vă de călătoria încălzită între obiectivele fermecătoare. Parcul natural pare mistic iarna. După un prânz cald, peștera oferă o temperatură constantă. Încheiați ziua cu o degustare de vin și vederea podgoriilor în lumina iernii.",
+            "en": "Exploring Brtonigla in winter is most comfortable by car. Enjoy the heated ride between charming sights. The nature park looks particularly mystical in winter. After a warming lunch, the cave offers a constant temperature. Close the day with wine tasting and views of the vineyards in soft winter light."
+          },
+          "stops": [
+            {
+              "name": "Župna crkva sv. Zenona (Cluster A)",
+              "tip_4lang": {
+                "de": "Kurzer Kälteschock.",
+                "hu": "Rövid hidegsokk.",
+                "ro": "Scurt șoc de frig.",
+                "en": "Brief cold shock."
+              }
+            },
+            {
+              "name": "Altstadtbummel (Cluster A)",
+              "tip_4lang": {
+                "de": "Warmer Stopp zwischendurch.",
+                "hu": "Meleg megálló közben.",
+                "ro": "Oprire caldă pe parcurs.",
+                "en": "Warm stop in between."
+              }
+            },
+            {
+              "name": "Park prirode Škarline (Cluster B)",
+              "tip_4lang": {
+                "de": "Eisige Wege möglich.",
+                "hu": "Jeges utak lehetségesek.",
+                "ro": "Posibile drumuri înghețate.",
+                "en": "Icy paths possible."
+              }
+            },
+            {
+              "name": "Mittagessen in Brtonigla (Cluster A)",
+              "tip_4lang": {
+                "de": "Lange Pause zum Aufwärmen.",
+                "hu": "Hosszú melegedő szünet.",
+                "ro": "Pauză lungă de încălzire.",
+                "en": "Long break for warming up."
+              }
+            },
+            {
+              "name": "Špilja Mramornica (Cluster C)",
+              "tip_4lang": {
+                "de": "Kein Frost in der Höhle.",
+                "hu": "Nincs fagy a barlangban.",
+                "ro": "Fără îngheț în peșteră.",
+                "en": "No frost in the cave."
+              }
+            },
+            {
+              "name": "San Rocco (Cluster A)",
+              "tip_4lang": {
+                "de": "Luxuriöses Winterflair.",
+                "hu": "Luxus téli hangulat.",
+                "ro": "Atmosferă de iarnă de lux.",
+                "en": "Luxurious winter flair."
+              }
+            },
+            {
+              "name": "Weinverkostung (Cluster A)",
+              "tip_4lang": {
+                "de": "Wein im Warmen genießen.",
+                "hu": "Élvezze a bort a melegben.",
+                "ro": "Vin în interior cald.",
+                "en": "Enjoy wine in the warm."
+              }
+            },
+            {
+              "name": "Naplemente-kilátó",
+              "tip_4lang": {
+                "de": "Heizung an beim Schauen.",
+                "hu": "Fűtés be nézelődés közben.",
+                "ro": "Căldura pornită la vedere.",
+                "en": "Heater on while watching."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei Kälte.",
+              "Haben Sie Enteiser-Spray dabei.",
+              "Achtung bei Glätte auf Nebenstraßen.",
+              "Genießen Sie die Sitzheizung."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást.",
+              "Legyen jégoldó spray-je.",
+              "Vigyázzon a csúszós utakon.",
+              "Élvezze az ülésfűtést."
+            ],
+            "ro": [
+              "Verificați presiunea roților.",
+              "Aveți spray de dezghețare.",
+              "Atenție la polei pe drumuri.",
+              "Bucurați-vă de scaunele încălzite."
+            ],
+            "en": [
+              "Check tire pressure in the cold.",
+              "Have de-icer spray ready.",
+              "Watch for ice on side roads.",
+              "Enjoy the heated seats."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1064,6 +1718,206 @@
           "Most sights in the village are close to each other.",
           "Plan a bit more time for the hikes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Brtonigla stressfrei mit lokalen Verbindungen. Die Haltestellen im Zentrum bieten schnellen Zugang zur Kirche und Altstadt. Nutzen Sie die Regenlücken für den Besuch des Naturparks Škarline. Die Mramornica-Höhle bleibt das ideale Schlechtwetter-Ziel. Den Abend verbringen Sie entspannt bei regionalen Spezialitäten, bevor Sie den Rückweg antreten.",
+            "hu": "Fedezze fel Brtoniglát stresszmentesen helyi járatokkal. A központi megállók gyors hozzáférést adnak a templomhoz és az óvároshoz. Használja ki az esőszünetet a Škarline parkhoz. A Mramornica-barlang továbbra is ideális rosszidős célpont. Az estét töltse regionális finomságokkal, mielőtt visszaindulna.",
+            "ro": "Explorați Brtonigla fără stres cu conexiunile locale. Stațiile centrale oferă acces rapid la biserică și centrul vechi. Profitați de pauzele de ploaie pentru parcul Škarline. Peștera Mramornica rămâne ținta ideală pe vreme rea. Seara, relaxați-vă cu specialități regionale înainte de plecare.",
+            "en": "Explore Brtonigla stress-free with local connections. Central stops offer quick access to the church and old town. Use rain breaks to visit Škarline Park. Mramornica Cave remains the ideal bad-weather destination. Spend the evening relaxed with regional specialties before heading back."
+          },
+          "stops": [
+            {
+              "name": "Brtonigla Zentrum",
+              "tip_4lang": {
+                "de": "Zentraler Unterstand.",
+                "hu": "Központi esőbeálló.",
+                "ro": "Adăpost central.",
+                "en": "Central shelter."
+              }
+            },
+            {
+              "name": "Altstadtspaziergang",
+              "tip_4lang": {
+                "de": "Kurze Wege zum Bus.",
+                "hu": "Rövid út a buszig.",
+                "ro": "Drum scurt la autobuz.",
+                "en": "Short walk to bus."
+              }
+            },
+            {
+              "name": "Park prirode Škarline",
+              "tip_4lang": {
+                "de": "Wetter-App checken.",
+                "hu": "Nézze az időjárás-appot.",
+                "ro": "Verificați aplicația meteo.",
+                "en": "Check the weather app."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_4lang": {
+                "de": "Warten im Trockenen.",
+                "hu": "Várjon a szárazon.",
+                "ro": "Așteptați la uscat.",
+                "en": "Wait in the dry."
+              }
+            },
+            {
+              "name": "Špilja Mramornica",
+              "tip_4lang": {
+                "de": "Trockener Fußweg.",
+                "hu": "Száraz gyalogút.",
+                "ro": "Drum pe jos uscat.",
+                "en": "Dry walking path."
+              }
+            },
+            {
+              "name": "San Rocco Ausklang",
+              "tip_4lang": {
+                "de": "Abfahrt im Blick behalten.",
+                "hu": "Figyelje az indulást.",
+                "ro": "Urmăriți ora plecării.",
+                "en": "Watch the departure time."
+              }
+            },
+            {
+              "name": "Sonnenuntergang-Punkt",
+              "tip_4lang": {
+                "de": "Sicht bei Bewölkung.",
+                "hu": "Kilátás felhős időben.",
+                "ro": "Vedere pe timp înnorat.",
+                "en": "View when cloudy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Planen Sie Pufferzeiten ein.",
+              "Halten Sie die Fahrpläne bereit.",
+              "Tragen Sie wasserfeste Schuhe.",
+              "Zentraler Treffpunkt bei Regen."
+            ],
+            "hu": [
+              "Tervezzen ráhagyással.",
+              "Legyenek kéznél a menetrendek.",
+              "Viseljen vízálló cipőt.",
+              "Központi találka esőben."
+            ],
+            "ro": [
+              "Planificați cu timp de rezervă.",
+              "Aveți orarele la îndemână.",
+              "Purtați pantofi impermeabili.",
+              "Loc de întâlnire central."
+            ],
+            "en": [
+              "Plan with buffer times.",
+              "Keep schedules handy.",
+              "Wear waterproof shoes.",
+              "Central meeting point in rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Brtonigla mit den öffentlichen Verkehrsmitteln. Die beheizten Busse bieten eine gemütliche Basis für Ihre Entdeckungstour. Nach dem Besuch der St. Zenon Kirche und dem Naturpark wärmen Sie sich in einer Konoba auf. Die Mramornica-Höhle bietet eine willkommene Temperaturkonstanz. Achten Sie auf den frühen Sonnenuntergang, um Ihren Rückweg rechtzeitig zu planen.",
+            "hu": "Tapasztalja meg a téli Brtoniglát tömegközlekedéssel. A fűtött buszok kényelmes bázist nyújtanak a felfedezéshez. A Szent Zénó templom és a natúrpark után melegedjen fel egy konobában. A Mramornica-barlang üdvözlendő állandó hőmérsékletet kínál. Ügyeljen a korai naplementére a hazatérés tervezésekor.",
+            "ro": "Experimentați Brtonigla iarna cu transportul public. Autobuzele încălzite oferă o bază confortabilă pentru explorare. După vizita la biserică și parcul natural, încălziți-vă într-o konoba. Peștera Mramornica oferă o temperatură constantă. Atenție la apusul timpuriu pentru planificarea returului.",
+            "en": "Experience winter Brtonigla with public transport. Heated buses provide a cozy base for your discovery tour. After visiting St. Zenon Church and the nature park, warm up in a konoba. Mramornica Cave offers a welcome temperature stability. Watch for the early sunset to plan your return trip in time."
+          },
+          "stops": [
+            {
+              "name": "Brtonigla Zentrum",
+              "tip_4lang": {
+                "de": "Bus kommt pünktlich.",
+                "hu": "Busz pontosan jön.",
+                "ro": "Autobuzul vine la timp.",
+                "en": "Bus arrives on time."
+              }
+            },
+            {
+              "name": "Altstadtspaziergang",
+              "tip_4lang": {
+                "de": "Warm anziehen für Pausen.",
+                "hu": "Öltözzön melegen a szünetre.",
+                "ro": "Haine groase pentru pauze.",
+                "en": "Dress warm for breaks."
+              }
+            },
+            {
+              "name": "Park prirode Škarline",
+              "tip_4lang": {
+                "de": "Frische Winterluft.",
+                "hu": "Friss téli levegő.",
+                "ro": "Aer proaspăt de iarnă.",
+                "en": "Fresh winter air."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_4lang": {
+                "de": "Aufwärmen obligatorisch.",
+                "hu": "Melegedés kötelező.",
+                "ro": "Încălzirea obligatorie.",
+                "en": "Warming up mandatory."
+              }
+            },
+            {
+              "name": "Špilja Mramornica",
+              "tip_4lang": {
+                "de": "Höhle ist frostfrei.",
+                "hu": "A barlang fagymentes.",
+                "ro": "Peștera e fără îngheț.",
+                "en": "Cave is frost-free."
+              }
+            },
+            {
+              "name": "San Rocco Ausklang",
+              "tip_4lang": {
+                "de": "Warmer Abschied.",
+                "hu": "Meleg búcsú.",
+                "ro": "Rămas bun cald.",
+                "en": "Warm farewell."
+              }
+            },
+            {
+              "name": "Sonnenuntergang-Punkt",
+              "tip_4lang": {
+                "de": "Frühes Ende planen.",
+                "hu": "Tervezzen korai zárást.",
+                "ro": "Planificați final devreme.",
+                "en": "Plan an early end."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Wärme im Bus.",
+              "Winter-Fahrpläne beachten.",
+              "Handschuhe nicht vergessen.",
+              "Warme Getränke mitführen."
+            ],
+            "hu": [
+              "Használja a busz melegét.",
+              "Figyelje a téli menetrendet.",
+              "Ne felejtse a kesztyűt.",
+              "Vigyen meleg italt."
+            ],
+            "ro": [
+              "Folosiți căldura din autobuz.",
+              "Atenție la orarul de iarnă.",
+              "Nu uitați mănușile.",
+              "Aveți băuturi calde."
+            ],
+            "en": [
+              "Enjoy the heat in the bus.",
+              "Note winter schedules.",
+              "Don't forget gloves.",
+              "Carry warm drinks."
+            ]
+          }
+        }
       }
     }
   }

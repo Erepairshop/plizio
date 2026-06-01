@@ -292,6 +292,206 @@
           "Parking spaces are limited, arrive early in the morning.",
           "Visit the belvedere at sunset for the best light."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Morgen am Stadttor, die Steine glänzen silbern. Mittags bietet die Etno-Sammlung perfekten Schutz vor dem Guss. Nachmittags besuchen wir die Kirche Sv. Marko unter dem Regenschirm. Den Abend lassen wir gemütlich bei regionalen Spezialitäten in der warmen Konoba ausklingen.",
+            "hu": "Esős reggel a városkapunál, a nedves kövek csillognak a fényben. Délben az Etno-gyűjtemény nyújt menedéket a zápor elől. Délután esernyővel járjuk be a Szent Márk templom környékét. Az estét a konoba barátságos melegében, helyi borok mellett zárjuk.",
+            "ro": "O dimineață ploioasă la poarta orașului, unde piatra veche strălucește sub stropi. La prânz, colecția Etno oferă adăpostul perfect împotriva ploii. După-amiaza vizităm biserica Sf. Marcu sub umbrelă. Seara se încheie confortabil în konoba, cu preparate tradiționale calde.",
+            "en": "A rainy morning at the city gate, with ancient stones glistening in the wet. At noon, the Etno collection provides the perfect shelter from the downpour. In the afternoon, we explore St. Mark's church under an umbrella. The evening ends cozily in the konoba with warm local dishes."
+          },
+          "stops": [
+            {
+              "name": "Gradska vrata",
+              "tip_5lang": {
+                "de": "Vorsicht auf den glatten mittelalterlichen Pflastersteinen bei Nässe.",
+                "hu": "Vigyázat, a középkori macskakövek vizesen rendkívül csúszósak.",
+                "ro": "Atenție la pietrele medievale care devin foarte alunecoase pe ploaie.",
+                "en": "Caution: the medieval cobblestones become very slippery when wet."
+              }
+            },
+            {
+              "name": "Crkvica Svete Ane",
+              "tip_5lang": {
+                "de": "Ein kleiner Unterstand unter dem Vordach schützt kurz vor dem Regen.",
+                "hu": "Az apró templom előtere rövid menedéket nyújt az égi áldás elől.",
+                "ro": "Pridvorul micuței biserici oferă un scurt adăpost împotriva ploii.",
+                "en": "The small porch of the church provides a brief shelter from the rain."
+              }
+            },
+            {
+              "name": "Etno zbirka Veprinac",
+              "tip_5lang": {
+                "de": "Idealer Ort, um die Regenpause für Kultur im Trockenen zu nutzen.",
+                "hu": "Tökéletes helyszín a zápor átvészelésére, fedett kiállítótérrel.",
+                "ro": "Locul ideal pentru a aștepta oprirea ploii vizitând expoziția interioară.",
+                "en": "Ideal place to wait out the rain while exploring the indoor exhibition."
+              }
+            },
+            {
+              "name": "Crkva Svetog Marka",
+              "tip_5lang": {
+                "de": "Der Blick auf die Kvarner Bucht ist auch mit Regenwolken dramatisch schön.",
+                "hu": "A Kvarner-öböl látványa az esőfelhőkkel együtt is drámai élmény.",
+                "ro": "Panorama spre Golful Kvarner este spectaculoasă chiar și printre nori.",
+                "en": "The view of Kvarner Bay remains dramatic and beautiful even through the rain."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Belvedere",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos, bevor der Nebel die Sicht eventuell einschränkt.",
+                "hu": "Gyors fotómegálló, mielőtt a pára és a köd teljesen elnyeli a kilátást.",
+                "ro": "Oprire scurtă pentru fotografii înainte ca ceața să acopere vizibilitatea.",
+                "en": "Quick photo stop before the mist potentially obscures the view."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Genießen Sie den Duft von Kaminfeuer und deftiger istrischer Küche.",
+                "hu": "Élvezze a kandalló illatát és a laktató isztriai ételek ízét.",
+                "ro": "Bucurați-vă de mirosul de șemineu și de bucătăria istriană consistentă.",
+                "en": "Enjoy the smell of the fireplace and hearty Istrian cuisine."
+              }
+            },
+            {
+              "name": "Panoramaweg Waldspaziergang",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk ist Pflicht, da der Waldboden aufweichen kann.",
+                "hu": "Vízálló túrabakancs ajánlott, az erdei ösvény sárossá válhat.",
+                "ro": "Încălțămintea impermeabilă este necesară, poteca poate fi noroioasă.",
+                "en": "Waterproof boots are a must as the forest trail can become muddy."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Schuhe mit gutem Profil für die steilen Steingassen.",
+              "Die Etno-Sammlung bietet eine gute Innenalternative bei starkem Guss.",
+              "Ein stabiler Regenschirm ist wegen der Aufwindlage am Berg wichtig.",
+              "In der Konoba gibt es meist warme Suppen (Maneštra) zum Aufwärmen."
+            ],
+            "hu": [
+              "Válasszon tapadós talpú cipőt a meredek, csúszós kőfalakhoz.",
+              "Az Etno-gyűjtemény remek beltéri program felhőszakadás esetén.",
+              "Erős vázú esernyőt vigyen, mert a hegyoldalban gyakori a szél.",
+              "Kóstolja meg a forró Maneštra levest a helyi fogadóban."
+            ],
+            "ro": [
+              "Purtați încălțăminte cu aderență bună pentru străzile abrupte din piatră.",
+              "Colecția Etno este o alternativă excelentă de interior în caz de furtună.",
+              "Folosiți o umbrelă rezistentă, vântul de munte poate fi puternic.",
+              "Încercați supa caldă Maneštra în konoba pentru a vă încălzi."
+            ],
+            "en": [
+              "Wear shoes with good grip for the steep and slippery stone alleys.",
+              "The Etno collection is a great indoor alternative during heavy showers.",
+              "Use a sturdy umbrella as mountain winds can be unpredictable.",
+              "Try the hot Maneštra soup in the konoba to warm up during your break."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kalter Wintermorgen in den Bergen über Opatija. Mittags wärmen wir uns in der kleinen Etno-Sammlung auf. Der Nachmittag bietet scharfe Fernsichten von Sv. Marko auf die Inseln. Da die Sonne früh untergeht, genießen wir das Abendessen in der Konoba bei Kerzenschein.",
+            "hu": "Tiszta, hideg téli reggel az Opatija feletti hegyekben. Délben az apró Etno-gyűjteményben melegszünk fel. Délután a Szent Márk templomtól kristálytiszta kilátás nyílik a szigetekre. Mivel korán sötétedik, a vacsorát már gyertyafény mellett költjük el a konobában.",
+            "ro": "O dimineață de iarnă rece și senină în munții de deasupra Opatijei. La prânz ne încălzim în mica colecție Etno. După-amiaza oferă vederi clare de la Sf. Marcu spre insulele îndepărtate. Deoarece soarele apune devreme, cina în konoba este la lumina lumânărilor.",
+            "en": "A crisp, cold winter morning in the mountains above Opatija. At noon, we warm up inside the small Etno collection. The afternoon offers sharp, clear views of the islands from St. Mark's. Since the sun sets early, we enjoy dinner in the konoba by candlelight."
+          },
+          "stops": [
+            {
+              "name": "Gradska vrata",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Eisglätte im Schatten des Torgangs.",
+                "hu": "Ügyeljen a kapualj árnyékos részein előforduló jegesedésre.",
+                "ro": "Atenție la porțiunile înghețate din umbra porții orașului.",
+                "en": "Watch out for potential icy patches in the shadows of the gate."
+              }
+            },
+            {
+              "name": "Crkvica Svete Ane",
+              "tip_5lang": {
+                "de": "Im Winter oft geschlossen, aber von außen im klaren Licht sehr fotogen.",
+                "hu": "Télen gyakran zárva, de kívülről fotogén a téli napsütésben.",
+                "ro": "Adesea închisă iarna, dar foarte fotogenică în lumina rece.",
+                "en": "Often closed in winter, but very photogenic in the crisp light."
+              }
+            },
+            {
+              "name": "Etno zbirka Veprinac",
+              "tip_5lang": {
+                "de": "Ein warmer Zwischenstopp, um die Hände aufzutauen.",
+                "hu": "Kellemes beltéri megálló a kezek felmelegítésére.",
+                "ro": "O oprire caldă la interior pentru a vă dezmorți mâinile.",
+                "en": "A warm indoor stop to defrost your hands during the walk."
+              }
+            },
+            {
+              "name": "Crkva Svetog Marka",
+              "tip_5lang": {
+                "de": "Zieh dich warm an, der Wind auf dem Kirchplatz kann eisig sein.",
+                "hu": "Öltözzön rétegesen, a templom melletti téren erős lehet a szél.",
+                "ro": "Îmbrăcați-vă gros, vântul poate fi tăios pe esplanada bisericii.",
+                "en": "Dress warmly; the wind on the church square can be biting."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Belvedere",
+              "tip_5lang": {
+                "de": "Beste Zeit für Fernsicht bis Cres und Krk bei klarer Winterluft.",
+                "hu": "A tiszta téli levegőben ellátni egészen Cres és Krk szigetéig.",
+                "ro": "Cel mai bun moment pentru vizibilitate maximă spre Cres și Krk.",
+                "en": "Best time for long-distance views to Cres and Krk in the clear air."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie Wildgerichte oder hausgemachte Pasta mit Trüffeln.",
+                "hu": "Kóstolja meg a vadhúsételeket vagy a házi szarvasgombás tésztát.",
+                "ro": "Încercați preparatele din vânat sau pastele cu trufe.",
+                "en": "Try the game dishes or homemade pasta with local truffles."
+              }
+            },
+            {
+              "name": "Panoramaweg Waldspaziergang",
+              "tip_5lang": {
+                "de": "Starten Sie spätestens um 15 Uhr, bevor es im Wald dunkel wird.",
+                "hu": "Legkésőbb 15 órakor induljon el, mielőtt az erdőben besötétedik.",
+                "ro": "Începeți plimbarea cel târziu la ora 15:00 pentru a evita întunericul.",
+                "en": "Start by 3 PM at the latest to avoid being caught in the dark woods."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bura (Fallwind) kann die gefühlte Temperatur stark senken.",
+              "Veprinac liegt auf 500m, hier ist es oft 5 Grad kühler als am Meer.",
+              "Die Sonne verschwindet gegen 16:30 Uhr hinter dem Berg Učka.",
+              "Die meisten Wanderwege sind auch im Winter begehbar, aber oft feucht."
+            ],
+            "hu": [
+              "A bóra szél jelentősen csökkentheti a hőérzetet.",
+              "Veprinac 500 méteren fekszik, itt gyakran 5 fokkal hidegebb van.",
+              "A nap 16:30 körül tűnik el az Učka-hegy mögött.",
+              "A túraösvények télen is járhatók, de a kövek nyirkosak lehetnek."
+            ],
+            "ro": [
+              "Vântul Bura poate scădea semnificativ temperatura resimțită.",
+              "Veprinac e la 500m altitudine, e mai rece cu 5 grade decât pe mal.",
+              "Soarele apune în spatele muntelui Učka în jurul orei 16:30.",
+              "Traseele sunt practicabile și iarna, dar pot fi umede și reci."
+            ],
+            "en": [
+              "The Bura wind can significantly lower the perceived temperature.",
+              "Veprinac is at 500m elevation, usually 5 degrees colder than the coast.",
+              "The sun disappears behind Mount Učka around 4:30 PM.",
+              "Most hiking paths are accessible in winter but can be damp."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -538,6 +738,206 @@
           "Watch out for hikers on narrow paths.",
           "The climb to Veprinac requires good fitness."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Start unter bewölktem Himmel am Stadttor. Die Auffahrt zur Kirche Sv. Marko erfordert bei Nässe volle Konzentration. Mittags wärmen wir uns in der Konoba auf, während die Fahrräder im Trockenen stehen. Die Abfahrt zur Küste nach Ičići bietet trotz Regen tolle Ausblicke.",
+            "hu": "Felhős égbolt alatt indulunk a városkaputól. A Szent Márk templomhoz vezető út vizesen koncentrációt igényel. Délben a konobában melegszünk fel, amíg a gépek fedett helyen pihennek. Az Ičići felé vezető lejtő az eső ellenére is látványos.",
+            "ro": "Pornim sub un cer înnorat de la poarta orașului. Urcarea spre Sf. Marcu necesită concentrare pe asfaltul ud. La prânz ne refacem forțele în konoba. Coborârea spre coasta Ičići oferă panorame frumoase în ciuda ploii.",
+            "en": "Starting under cloudy skies at the city gate. The climb to St. Mark's requires focus on the wet surface. At noon, we warm up in the konoba while the bikes stay dry. The descent to the coast at Ičići offers great views despite the rain."
+          },
+          "stops": [
+            {
+              "name": "Gradska vrata",
+              "tip_5lang": {
+                "de": "Vermeiden Sie hektische Lenkbewegungen auf dem nassen Kopfsteinpflaster.",
+                "hu": "Kerülje a hirtelen kormánymozdulatokat a nedves macskaköveken.",
+                "ro": "Evitați mișcările bruște de ghidon pe pavajul ud.",
+                "en": "Avoid sudden steering movements on the wet cobblestones."
+              }
+            },
+            {
+              "name": "Crkva Svetog Marka",
+              "tip_5lang": {
+                "de": "Die Rampe zur Kirche kann bei Regen rutschig sein.",
+                "hu": "A templomhoz vezető emelkedő esőben csúszóssá válhat.",
+                "ro": "Rampa spre biserică poate fi alunecoasă pe timp de ploaie.",
+                "en": "The ramp leading to the church can be slippery during rainfall."
+              }
+            },
+            {
+              "name": "Radpause in Poljane",
+              "tip_5lang": {
+                "de": "Kurze Pause unter einem Vordach, um die Bremsen zu prüfen.",
+                "hu": "Rövid megálló egy eresz alatt a fékek ellenőrzésére.",
+                "ro": "Scurtă pauză sub un adăpost pentru verificarea frânelor.",
+                "en": "Short break under a porch to check your brakes."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz, an dem die Räder regengeschützt stehen.",
+                "hu": "Kérjen olyan helyet, ahol a kerékpárok fedett helyen maradhatnak.",
+                "ro": "Întrebați unde puteți lăsa bicicletele la adăpost de ploaie.",
+                "en": "Ask for a spot where bikes can be parked out of the rain."
+              }
+            },
+            {
+              "name": "Etno zbirka Veprinac",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als längere Regenpause.",
+                "hu": "Használja ki a múzeumlátogatást egy hosszabb esőszünetre.",
+                "ro": "Vizitați muzeul pentru a evita o repriză mai lungă de ploaie.",
+                "en": "Use the museum visit as an extended break from the rain."
+              }
+            },
+            {
+              "name": "Küstenstraße nach Ičići",
+              "tip_5lang": {
+                "de": "Vorsicht in den Kurven, Fahrbahnmarkierungen sind extrem glatt.",
+                "hu": "Óvatosan a kanyarokban, az útburkolati jelek nagyon csúsznak.",
+                "ro": "Atenție în curbe, marcajele rutiere sunt extrem de alunecoase.",
+                "en": "Be careful in curves; road markings are extremely slippery when wet."
+              }
+            },
+            {
+              "name": "Naplemente a parton",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang fällt meist aus, aber die Lichtstimmung ist mystisch.",
+                "hu": "A naplemente elmaradhat, de a fények misztikus hangulatot árasztanak.",
+                "ro": "Apusul poate fi mascat de nori, dar atmosfera luminii este mistică.",
+                "en": "The sunset might be hidden, but the lighting creates a mystical mood."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie vor der Abfahrt nach Ičići unbedingt Ihre Bremsen.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit.",
+              "Vermeiden Sie Fahrbahnmarkierungen und Gullydeckel.",
+              "Ein Schutzblech schützt vor aufspritzendem Schlamm in den Bergen."
+            ],
+            "hu": [
+              "Az Ičići felé tartó lejtő előtt mindenképp ellenőrizze a fékeket.",
+              "Viseljen feltűnő esőruházatot a jobb láthatóság érdekében.",
+              "Kerülje az útburkolati jeleket és a csatornafedeleket.",
+              "A sárvédő elengedhetetlen a hegyi utakon felcsapódó sár ellen."
+            ],
+            "ro": [
+              "Verificați frânele înainte de coborârea spre Ičići.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate.",
+              "Evitați marcajele rutiere și capacele de canalizare.",
+              "Aripile la bicicletă sunt utile împotriva noroiului de pe munte."
+            ],
+            "en": [
+              "Be sure to check your brakes before the descent to Ičići.",
+              "Wear high-visibility rain gear for better safety on the road.",
+              "Avoid riding on road markings and manhole covers.",
+              "Mudguards are highly recommended for the mountain roads."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Knackig kalte Bergluft beim Start in Veprinac. Die Fahrt nach Poljane bietet glasklare Sichten auf das Meer. Mittags gibt es heißen Tee in der Konoba, bevor wir die Etno-Sammlung besuchen. Die Abfahrt erfolgt frühzeitig, um vor der Dämmerung in Ičići zu sein.",
+            "hu": "Ropogós, hideg hegyi levegő a veprinaci indulásnál. A Poljane felé vezető út kristálytiszta tengeri panorámát kínál. Délben forró teát iszunk a konobában, majd múzeumlátogatás következik. Korán indulunk tovább, hogy sötétedés előtt leérjünk Ičićibe.",
+            "ro": "Aer rece de munte la plecarea din Veprinac. Drumul spre Poljane oferă vederi clare asupra mării. La prânz bem ceai fierbinte în konoba înainte de vizita la muzeu. Coborâm devreme pentru a ajunge în Ičići înainte de lăsarea serii.",
+            "en": "Crisp mountain air as we start in Veprinac. The ride to Poljane offers crystal clear views of the sea. At noon, we enjoy hot tea in the konoba before visiting the Etno collection. We start our descent early to reach Ičići before dusk."
+          },
+          "stops": [
+            {
+              "name": "Gradska vrata",
+              "tip_5lang": {
+                "de": "Kaltstart: Achten Sie auf steife Finger bei der Abfahrt.",
+                "hu": "Hidegindítás: ügyeljen a megfagyott ujjakra a lejtmenetben.",
+                "ro": "Start la rece: atenție la degetele amorțite la coborâre.",
+                "en": "Cold start: watch out for stiff fingers during the descent."
+              }
+            },
+            {
+              "name": "Crkva Svetog Marka",
+              "tip_5lang": {
+                "de": "Bester Fotostopp für ein Panorama ohne Sommerdunst.",
+                "hu": "Legjobb fotómegálló a nyári pára nélküli panorámához.",
+                "ro": "Cel mai bun punct foto pentru panoramă fără negura verii.",
+                "en": "Best photo stop for a panorama without the summer haze."
+              }
+            },
+            {
+              "name": "Radpause in Poljane",
+              "tip_5lang": {
+                "de": "Nur kurz halten, um nicht auszukühlen.",
+                "hu": "Csak rövid megállót tartsunk, nehogy megfázzunk.",
+                "ro": "Faceți doar o scurtă pauză pentru a nu vă răci.",
+                "en": "Keep the break short to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Wählen Sie energiereiche Gerichte für die kalte Weiterfahrt.",
+                "hu": "Válasszon energiadús ételeket a hidegben való folytatáshoz.",
+                "ro": "Alegeți preparate bogate în calorii pentru continuarea drumului.",
+                "en": "Choose high-energy dishes to keep you warm for the rest of the ride."
+              }
+            },
+            {
+              "name": "Etno zbirka Veprinac",
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Kellemes hely a felmelegedésre a látnivalók között.",
+                "ro": "Un loc plăcut pentru a vă încălzi între vizite.",
+                "en": "A pleasant place to warm up between sightseeing stops."
+              }
+            },
+            {
+              "name": "Küstenstraße nach Ičići",
+              "tip_5lang": {
+                "de": "Vorsicht bei Raureif in schattigen Waldabschnitten.",
+                "hu": "Vigyázat a zúzmarás részekkel az árnyékos erdőben.",
+                "ro": "Atenție la chiciură în porțiunile umbrite de pădure.",
+                "en": "Watch out for frost in the shaded forest sections."
+              }
+            },
+            {
+              "name": "Naplemente a parton",
+              "tip_5lang": {
+                "de": "Gegen 16:15 Uhr einplanen, danach sinken die Temperaturen schnell.",
+                "hu": "16:15 körül érkezzen meg, utána gyorsan hűl a levegő.",
+                "ro": "Plănuiți sosirea în jur de 16:15, temperatura scade brusc după.",
+                "en": "Aim for 4:15 PM; temperatures drop rapidly after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Abfahrt.",
+              "Handschuhe und Überschuhe sind im Winter in dieser Höhe Pflicht.",
+              "Das Tageslicht endet früh, funktionierendes Licht am Rad ist wichtig.",
+              "Die Bura kann das Radfahren bei Seitenwind gefährlich machen."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a lejtőkön.",
+              "A kesztyű és a kamásli elengedhetetlen ezen a magasságon.",
+              "Korán sötétedik, a működő világítás életmentő lehet.",
+              "Az erős bóra szél veszélyessé teheti a közlekedést."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, mai ales pentru coborâre.",
+              "Mănușile și protecțiile pentru pantofi sunt obligatorii iarna aici.",
+              "Lumina zilei se termină devreme, aveți nevoie de faruri bune.",
+              "Vântul Bura poate fi periculos în rafale laterale."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the long descents.",
+              "Gloves and shoe covers are essential at this altitude in winter.",
+              "Daylight ends early; ensure your bike lights are working perfectly.",
+              "The Bura wind can make cycling dangerous due to strong side gusts."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -784,6 +1184,206 @@
           "The road to Veprinac is winding, drive carefully.",
           "A rental car is ideal for this combined day."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Komfortable Fahrt zum Stadttor trotz Regen. Die Etno-Sammlung ist ein trockenes Highlight am Vormittag. Mittags genießen wir die istrische Küche in der Konoba, während es draußen prasselt. Die Fahrt zum Strand von Ičići bietet dramatische Meeresansichten durch die Scheibe.",
+            "hu": "Kényelmes autózás a városkapuhoz az eső ellenére. Az Etno-gyűjtemény remek délelőtti program szárazon. Délben isztriai ízeket élvezünk a fogadóban, miközben odakint esik. Az Ičići felé vezető út drámai tengeri látványt kínál az ablakon át.",
+            "ro": "Călătorie confortabilă spre poarta orașului în ciuda ploii. Colecția Etno este un punct de atracție uscat dimineața. La prânz savurăm bucătăria istriană în konoba. Drumul spre plaja Ičići oferă vederi dramatice asupra mării prin parbriz.",
+            "en": "A comfortable drive to the city gate despite the rain. The Etno collection is a dry morning highlight. At noon, we enjoy Istrian flavors in the konoba while it pours outside. The drive to Ičići beach offers dramatic sea views through the window."
+          },
+          "stops": [
+            {
+              "name": "Gradska vrata (Cluster A)",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Tor, um den Fußweg im Regen kurz zu halten.",
+                "hu": "Parkoljon közel a kapuhoz, hogy lerövidítse az esőben való gyaloglást.",
+                "ro": "Parcați aproape de poartă pentru a minimiza mersul prin ploaie.",
+                "en": "Park close to the gate to shorten the walk in the rain."
+              }
+            },
+            {
+              "name": "Etno zbirka Veprinac",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur wenige Schritte entfernt.",
+                "hu": "A parkolóhely alig pár lépésre található a múzeumtól.",
+                "ro": "Parcarea se află la doar câțiva pași de intrare.",
+                "en": "The parking area is just a few steps away from the museum."
+              }
+            },
+            {
+              "name": "Crkva Svetog Marka",
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen, die Steinflächen sind sehr glatt.",
+                "hu": "Vigyázzon kiszálláskor, a kőfelületek rendkívül csúszósak.",
+                "ro": "Atenție la coborârea din mașină, suprafețele de piatră sunt alunecoase.",
+                "en": "Be careful when getting out of the car; stone surfaces are very slippery."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Gemütliches Ambiente, perfekt um den Regenguss abzuwarten.",
+                "hu": "Barátságos hangulat, tökéletes a zápor átvészelésére.",
+                "ro": "Ambianță plăcută, ideală pentru a aștepta trecerea ploii.",
+                "en": "Cozy atmosphere, perfect for waiting out the downpour."
+              }
+            },
+            {
+              "name": "Strand von Ičići (Cluster B)",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen sicher aus einem Strandcafé.",
+                "hu": "Figyelje a hullámokat biztonságban egy parti kávézóból.",
+                "ro": "Observați valurile în siguranță de la o cafenea de pe plajă.",
+                "en": "Watch the waves safely from a cozy seaside café."
+              }
+            },
+            {
+              "name": "Küstenspaziergang Riva",
+              "tip_5lang": {
+                "de": "Nur mit festem Schirm zu empfehlen, da es windig sein kann.",
+                "hu": "Csak erős esernyővel ajánlott a szeles partparti sétányon.",
+                "ro": "Recomandat doar cu o umbrelă rezistentă, fiind o zonă cu vânt.",
+                "en": "Recommended only with a sturdy umbrella due to coastal winds."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Meer",
+              "tip_5lang": {
+                "de": "Genießen Sie die Lichtspiele der Wolken vom Auto aus.",
+                "hu": "Élvezze a felhők és fények játékát az autó kényelméből.",
+                "ro": "Bucurați-vă de spectacolul norilor din confortul mașinii.",
+                "en": "Enjoy the interplay of clouds and light from the comfort of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Bergstraße nach Veprinac hat bei Regen viele tückische Kurven.",
+              "Nutzen Sie die Parkplätze direkt im Zentrum von Veprinac.",
+              "In Ičići gibt es direkt am Strand kostenpflichtige Parkplätze.",
+              "Ein Regenschirm pro Person ist für die kurzen Wege unerlässlich."
+            ],
+            "hu": [
+              "A Veprinacba vezető hegyi út kanyarjai esőben trükkösek lehetnek.",
+              "Használja a közvetlenül Veprinac központjában lévő parkolókat.",
+              "Ičićiben közvetlenül a strandnál talál fizetős parkolóhelyeket.",
+              "Személyenként egy esernyő elengedhetetlen a rövid sétákhoz."
+            ],
+            "ro": [
+              "Drumul montan spre Veprinac are curbe periculoase pe ploaie.",
+              "Folosiți parcările din centrul localității Veprinac.",
+              "În Ičići există parcări cu plată chiar lângă plajă.",
+              "O umbrelă pentru fiecare persoană este esențială pentru plimbări."
+            ],
+            "en": [
+              "The mountain road to Veprinac has many tricky turns in the rain.",
+              "Use the parking lots located right in the center of Veprinac.",
+              "In Ičići, there are paid parking spaces right next to the beach.",
+              "An umbrella for each person is essential for short walks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klarer Wintertag mit hervorragender Fernsicht. Nach dem Vormittag in Veprinac lockt die Wärme der Etno-Sammlung. Mittags kehren wir in die Konoba ein. Am Nachmittag genießen wir die ruhige Winteratmosphäre am Strand von Ičići und den frühen Sonnenuntergang.",
+            "hu": "Tiszta téli nap kiváló látási viszonyokkal. A veprinaci délelőtt után az Etno-gyűjtemény melege hívogat. Délben a helyi fogadóban ebédelünk. Délután Ičići strandjának nyugodt téli hangulatát és a korai naplementét élvezzük.",
+            "ro": "O zi de iarnă senină cu vizibilitate excelentă. După dimineața în Veprinac, căldura colecției Etno este binevenită. La prânz luăm masa în konoba. După-amiaza savurăm atmosfera liniștită de iarnă pe plaja Ičići și apusul devreme.",
+            "en": "A clear winter day with excellent visibility. After a morning in Veprinac, the warmth of the Etno collection is inviting. At noon, we dine in the konoba. In the afternoon, we enjoy the quiet winter vibe at Ičići beach and the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Gradska vrata (Cluster A)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif an schattigen Stellen der Bergstraße.",
+                "hu": "Ügyeljen a zúzmarára a hegyi út árnyékos kanyarjaiban.",
+                "ro": "Atenție la chiciură în porțiunile umbrite ale drumului montan.",
+                "en": "Watch for frost in the shaded sections of the mountain road."
+              }
+            },
+            {
+              "name": "Etno zbirka Veprinac",
+              "tip_5lang": {
+                "de": "Gemütlicher Stopp zum Aufwärmen im Winter.",
+                "hu": "Meghitt megálló a téli hidegben való felmelegedésre.",
+                "ro": "O oprire primitoare pentru încălzire pe timp de iarnă.",
+                "en": "A cozy stop to warm up during the winter chill."
+              }
+            },
+            {
+              "name": "Crkva Svetog Marka",
+              "tip_5lang": {
+                "de": "Spektakuläre Fotos der verschneiten Gorski Kotar Berge möglich.",
+                "hu": "Látványos fotókat készíthet a Gorski Kotar havas hegyeiről.",
+                "ro": "Puteți face fotografii spectaculoase cu munții Gorski Kotar înzăpeziți.",
+                "en": "Spectacular photos of the snowy Gorski Kotar mountains are possible."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Saisonal gibt es oft Gerichte mit Maronen aus der Region.",
+                "hu": "Szezonálisan gyakran kínálnak helyi szelídgesztenyés ételeket.",
+                "ro": "Sezonier, găsiți adesea preparate cu castane din regiune.",
+                "en": "Seasonal chestnut dishes from the region are often available."
+              }
+            },
+            {
+              "name": "Strand von Ičići (Cluster B)",
+              "tip_5lang": {
+                "de": "Sehr ruhig im Winter, ideal für einen klaren Kopf.",
+                "hu": "Télen nagyon csendes, tökéletes a pihenéshez.",
+                "ro": "Foarte liniștit iarna, ideal pentru relaxare.",
+                "en": "Very quiet in winter, ideal for clearing your head by the sea."
+              }
+            },
+            {
+              "name": "Küstenspaziergang Riva",
+              "tip_5lang": {
+                "de": "Die Meeresluft ist im Winter besonders belebend.",
+                "hu": "A tengeri levegő télen különösen frissítő és élénkítő.",
+                "ro": "Aerul mării este deosebit de revigorant pe timp de iarnă.",
+                "en": "The sea air is particularly invigorating in winter."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Meer",
+              "tip_5lang": {
+                "de": "Frühzeitig um 16:15 Uhr vor Ort sein.",
+                "hu": "Érkezzen meg korán, már 16:15 körül a parton legyen.",
+                "ro": "Fiți prezenți devreme, în jur de ora 16:15 pe plajă.",
+                "en": "Be there early, around 4:15 PM, to catch the full sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind auf der Bergstraße nach Veprinac ratsam.",
+              "Die Heizung im Auto sorgt für angenehme Übergänge zwischen den Stopps.",
+              "Die Fernsicht auf die Kvarner-Inseln ist im Winter am besten.",
+              "Parkplätze sind in der Nebensaison fast überall leicht zu finden."
+            ],
+            "hu": [
+              "A Veprinacba vezető úton téli gumi használata ajánlott.",
+              "Az autó fűtése kényelmessé teszi a megállók közötti átmenetet.",
+              "A Kvarner-szigetekre nyíló kilátás télen a legtisztább.",
+              "Szezonon kívül szinte mindenhol könnyű parkolóhelyet találni."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate pe drumul spre Veprinac.",
+              "Încălzirea din mașină asigură confort între opriri.",
+              "Vizibilitatea spre insulele Kvarner este optimă iarna.",
+              "Locurile de parcare sunt ușor de găsit în afara sezonului."
+            ],
+            "en": [
+              "Winter tires are advisable on the mountain road to Veprinac.",
+              "Car heating makes transitions between stops very comfortable.",
+              "Visibility of the Kvarner islands is at its best in winter.",
+              "Parking spaces are easy to find almost everywhere in low season."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1012,6 +1612,188 @@
           "Check the current schedule for bus line 34.",
           "The Opatija bus station is the central hub."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Busfahrt durch die Wolken hinauf nach Veprinac. Vormittags besuchen wir die Kirchen und nutzen die Etno-Sammlung als Regenschutz. Das Mittagessen in der Konoba ist die perfekte Pause. Am Nachmittag bringt uns der Bus zur Riva Opatija, wo wir den Tag im Café ausklingen lassen.",
+            "hu": "Buszozás a felhőkön át fel Veprinacba. Délelőtt a templomokat látogatjuk meg, az Etno-gyűjteményt pedig eső elleni menedékként használjuk. A konobában elköltött ebéd tökéletes pihenő. Délután busszal megyünk Opatijába, ahol egy kávézóban zárjuk a napot.",
+            "ro": "Călătorie cu autobuzul prin nori până în Veprinac. Dimineața vizităm bisericile și folosim colecția Etno ca adăpost. Prânzul în konoba este pauza perfectă. După-amiaza autobuzul ne duce la Riva Opatija pentru un final de zi la cafenea.",
+            "en": "Bus ride through the clouds up to Veprinac. In the morning, we visit the churches and use the Etno collection as rain cover. Lunch in the konoba is the perfect break. In the afternoon, the bus takes us to Riva Opatija for a café finish."
+          },
+          "stops": [
+            {
+              "name": "Gradska vrata (Veprinac Center)",
+              "tip_5lang": {
+                "de": "Warten Sie unter dem Torbogen, falls der Bus Verspätung hat.",
+                "hu": "Várjon a városkapu íve alatt, ha késne a busz.",
+                "ro": "Așteptați sub arcada porții dacă autobuzul întârzie.",
+                "en": "Wait under the gate archway if the bus is delayed."
+              }
+            },
+            {
+              "name": "Crkvica Svete Ane",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg von der Haltestelle, halten Sie den Schirm bereit.",
+                "hu": "Rövid séta a megállótól, tartsa készenlétben az esernyőt.",
+                "ro": "Scurtă plimbare de la stație, pregătiți umbrela.",
+                "en": "Short walk from the bus stop; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Crkva Svetog Marka",
+              "tip_5lang": {
+                "de": "Die Aussichtsterrasse ist bei Regen oft menschenleer und friedlich.",
+                "hu": "A kilátóterasz esőben gyakran néptelen és békés.",
+                "ro": "Terasa panoramică este adesea pustie și liniștită pe ploaie.",
+                "en": "The viewing terrace is often deserted and peaceful in the rain."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Prüfen Sie hier die Busabfahrtszeiten für die Weiterfahrt.",
+                "hu": "Itt ellenőrizze a busz menetrendjét a továbbutazáshoz.",
+                "ro": "Verificați aici orarul autobuzului pentru continuarea drumului.",
+                "en": "Check the bus schedule here for your next connection."
+              }
+            },
+            {
+              "name": "Riva Opatija (Transfer)",
+              "tip_5lang": {
+                "de": "Die Haltestellen in Opatija sind meist überdacht.",
+                "hu": "Opatija buszmegállói többnyire fedettek.",
+                "ro": "Stațiile de autobuz din Opatija sunt majoritatea acoperite.",
+                "en": "Most bus stops in Opatija are covered, providing shelter."
+              }
+            },
+            {
+              "name": "Hafenpromenade Sonnenuntergang",
+              "tip_5lang": {
+                "de": "Ein Spaziergang am Hafen ist auch mit Schirm sehr romantisch.",
+                "hu": "A kikötői séta esernyővel is nagyon romantikus.",
+                "ro": "O plimbare în port este romantică chiar și cu umbrela.",
+                "en": "A harbor stroll is very romantic even with an umbrella."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Infos zu den Buslinien 34 oder 37.",
+              "Die Busse fahren bei Regen zuverlässig, aber evtl. langsamer.",
+              "In Veprinac gibt es nur wenige überdachte Haltestellen.",
+              "Kaufen Sie Tickets vorab am Kiosk, um Zeit zu sparen."
+            ],
+            "hu": [
+              "Használja az alkalmazást a 34-es vagy 37-es busz valós idejű infóihoz.",
+              "A buszok esőben is megbízhatóak, de lassabbak lehetnek.",
+              "Veprinacban kevés a fedett várakozóhely.",
+              "Vegye meg a jegyet előre az újságosnál az időtakarékosság végett."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru info în timp real despre liniile 34 sau 37.",
+              "Autobuzele sunt sigure pe ploaie, dar pot avea mici întârzieri.",
+              "În Veprinac sunt puține stații acoperite.",
+              "Cumpărați biletele din timp de la chioșcuri pentru a economisi timp."
+            ],
+            "en": [
+              "Use the app for real-time info on bus lines 34 or 37.",
+              "Buses are reliable in the rain but may move more slowly.",
+              "There are few covered bus stops in Veprinac.",
+              "Buy tickets in advance at a kiosk to save time."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Ausflug mit dem Bus nach Veprinac. Vormittags erkunden wir die Altstadt und wärmen uns in der Etno-Sammlung auf. Nach dem Mittagessen in der Konoba fahren wir hinunter nach Opatija. Die Hafenpromenade bietet bei klarer Winterluft eine traumhafte Kulisse.",
+            "hu": "Téli kirándulás busszal Veprinacba. Délelőtt az óvárost fedezzük fel, majd az Etno-gyűjteményben melegszünk fel. A fogadóban elköltött ebéd után Opatijába utazunk. A kikötői sétány a tiszta téli levegőben álomszerű látványt nyújt.",
+            "ro": "Excursie de iarnă cu autobuzul în Veprinac. Dimineața explorăm orașul vechi și ne încălzim în colecția Etno. După prânzul în konoba, coborâm în Opatija. Promenada portului oferă un cadru de vis în aerul curat de iarnă.",
+            "en": "Winter bus trip to Veprinac. In the morning, we explore the old town and warm up in the Etno collection. After lunch in the konoba, we travel down to Opatija. The harbor promenade offers a dreamlike setting in the clear winter air."
+          },
+          "stops": [
+            {
+              "name": "Gradska vrata (Veprinac Center)",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, das Warten am Berg kann zugig sein.",
+                "hu": "Öltözzön melegen, a hegyen való várakozás szeles lehet.",
+                "ro": "Îmbrăcați-vă bine, așteptarea pe munte poate fi friguroasă.",
+                "en": "Dress warmly; waiting on the mountain can be drafty."
+              }
+            },
+            {
+              "name": "Crkvica Svete Ane",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für das klassische Veprinac-Foto.",
+                "hu": "Rövid megálló a klasszikus veprinaci fotóhoz.",
+                "ro": "O oprire scurtă pentru fotografia clasică din Veprinac.",
+                "en": "A quick stop for the classic Veprinac photo."
+              }
+            },
+            {
+              "name": "Crkva Svetog Marka",
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter ist die Busfahrt allein wert.",
+                "hu": "A téli panoráma önmagában megéri a buszos utazást.",
+                "ro": "Panorama de iarnă merită singură călătoria cu autobuzul.",
+                "en": "The winter panorama alone is worth the bus trip."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe fernab des Sommertrubels.",
+                "hu": "Élvezze a nyári nyüzsgéstől távoli nyugalmat.",
+                "ro": "Bucurați-vă de liniște, departe de agitația verii.",
+                "en": "Enjoy the peace and quiet away from the summer crowds."
+              }
+            },
+            {
+              "name": "Riva Opatija (Transfer)",
+              "tip_5lang": {
+                "de": "Opatija ist im Winter wunderschön beleuchtet.",
+                "hu": "Opatija télen gyönyörű díszkivilágítást kap.",
+                "ro": "Opatija este superb iluminată pe timp de iarnă.",
+                "en": "Opatija is beautifully illuminated during the winter season."
+              }
+            },
+            {
+              "name": "Hafenpromenade Sonnenuntergang",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter besonders farbenintensiv.",
+                "hu": "A téli naplemente színei különösen intenzívek.",
+                "ro": "Culorile apusului de iarnă sunt deosebit de intense.",
+                "en": "Winter sunsets are known for their particularly intense colors."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie den ausgedünnten Fahrplan an Winterwochenenden.",
+              "Der Bus ist im Winter meist gut geheizt.",
+              "In Veprinac ist es deutlich kälter als in Opatija, planen Sie das ein.",
+              "Die letzte Rückfahrt sollte man bei Dunkelheit nicht verpassen."
+            ],
+            "hu": [
+              "Ügyeljen a ritkított téli hétvégi menetrendre.",
+              "A buszok télen általában jól fűtöttek.",
+              "Veprinacban sokkal hidegebb van, mint Opatijában, készüljön fel.",
+              "Ne késse le az utolsó visszjáratot sötétedés után."
+            ],
+            "ro": [
+              "Atenție la orarul redus în weekendurile de iarnă.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "În Veprinac e mult mai frig decât în Opatija, plănuiți corespunzător.",
+              "Nu ratați ultima cursă de întoarcere după lăsarea întunericului."
+            ],
+            "en": [
+              "Note the reduced bus schedule on winter weekends.",
+              "Buses are usually well-heated during the winter months.",
+              "It is significantly colder in Veprinac than in Opatija; plan ahead.",
+              "Don't miss the last return trip after it gets dark."
+            ]
+          }
+        }
       }
     }
   }

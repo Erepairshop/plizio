@@ -303,6 +303,214 @@
           "Bring water shoes for the pebble beach.",
           "Reserve a table in the konoba during peak season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der schützenden St. Martinskirche. Genießen Sie einen heißen Tee am Dorfplatz, während der Regen gegen die Fenster prasselt. Mittags bietet die Bucht von Kuje eine dramatische Kulisse mit aufgewühltem Meer. Den Nachmittag verbringen Sie gemütlich in einer warmen Konoba bei istrischen Spezialitäten, bevor ein kurzer, erfrischender Hafenspaziergang den Tag abrundet.",
+            "hu": "Kezdje a napot a Szent Márton-templom védelmében. Élvezzen egy forró teát a falu főterén, miközben az eső kopog az ablakon. Délben a Kuje-öböl drámai látványt nyújt a felkorbolt tengerrel. A délutánt töltheti egy meleg konobában isztriai ételek mellett, majd egy rövid, frissítő kikötői séta zárja a napot, ahol a sós tengeri levegő esővel keveredik.",
+            "ro": "Începeți ziua sub protecția bisericii Sf. Martin. Savurați un ceai fierbinte în piața satului în timp ce ploaia bate în geamuri. La prânz, golful Kuje oferă un peisaj dramatic cu marea agitată. Petreceți după-amiaza într-o konoba călduroasă cu specialități istriene, iar seara o scurtă plimbare revigorantă prin port încheie ziua în aerul sărat.",
+            "en": "Start the day under the protection of St. Martin's Church. Enjoy a hot tea at the village square while the rain taps on the windows. At noon, Kuje Bay offers a dramatic backdrop with the churning sea. Spend the afternoon in a warm konoba with Istrian specialties, and a short, refreshing harbour walk concludes the day in the salty, rain-washed air."
+          },
+          "stops": [
+            {
+              "name": "Church of St. Martin",
+              "tip_4lang": {
+                "de": "Idealer Ort, um den ersten Schauer trocken abzuwarten.",
+                "hu": "Tökéletes helyszín az első zápor szárazon történő megvárásához.",
+                "ro": "Locul ideal pentru a aștepta trecerea primei averse la adăpost.",
+                "en": "Ideal place to wait out the first shower in the dry."
+              }
+            },
+            {
+              "name": "Morning Coffee at the Village Square",
+              "tip_4lang": {
+                "de": "Wählen Sie einen Tisch im Innenbereich für gemütliche Regenstimmung.",
+                "hu": "Válasszon belső asztalt a barátságos esős hangulathoz.",
+                "ro": "Alegeți o masă în interior pentru o atmosferă plăcută de ploaie.",
+                "en": "Choose an indoor table for a cozy rainy atmosphere."
+              }
+            },
+            {
+              "name": "Church of Mother of God from Kuj",
+              "tip_4lang": {
+                "de": "Kleiner Rückzugsort mit Blick auf die graue Adria.",
+                "hu": "Kis menedékhely kilátással a szürke Adriára.",
+                "ro": "Mic refugiu cu vedere spre marea Adriatică gri.",
+                "en": "Small retreat with a view of the grey Adriatic."
+              }
+            },
+            {
+              "name": "Kuje Bay",
+              "tip_4lang": {
+                "de": "Beobachten Sie die Wellen geschützt unter dem Vordach am Ufer.",
+                "hu": "Figyelje a hullámokat a parti előtető alól védve.",
+                "ro": "Observați valurile protejați sub streșina de pe mal.",
+                "en": "Watch the waves protected under the shoreline overhang."
+              }
+            },
+            {
+              "name": "Lunch in a Konoba",
+              "tip_4lang": {
+                "de": "Trocknen Sie sich bei einer heißen Maneštra-Suppe auf.",
+                "hu": "Melegedjen fel egy forró Maneštra leves mellett.",
+                "ro": "Încălziți-vă cu o supă fierbinte Maneštra.",
+                "en": "Warm up and dry off with a hot Maneštra soup."
+              }
+            },
+            {
+              "name": "Harbour Walk",
+              "tip_4lang": {
+                "de": "Vorsicht, die Steine an der Mole können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a móló kövei nedvesen csúszósak lehetnek.",
+                "ro": "Atenție, pietrele de pe dig pot fi alunecoase când sunt ude.",
+                "en": "Caution, the stones on the pier can be slippery when wet."
+              }
+            },
+            {
+              "name": "Sunset at the Viewpoint",
+              "tip_4lang": {
+                "de": "Ein Regenschirm schützt vor dem Wind; genießen Sie das Lichtspiel.",
+                "hu": "Egy esernyő megvéd a széltől; élvezze a felhők fényjátékát.",
+                "ro": "O umbrelă vă protejează de vânt; savurați jocul de lumini.",
+                "en": "An umbrella protects against the wind; enjoy the light through clouds."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Küstenwege.",
+              "Die Konobas im Ortskern sind die besten Rückzugsorte bei Starkregen.",
+              "Nutzen Sie die Kirchenbesichtigungen als natürliche Regenpausen.",
+              "Ein Taschenregenschirm ist wegen des Windes praktischer als ein großer.",
+              "Achten Sie auf Pfützen auf den unbefestigten Wegen zur Bucht."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a parti ösvényekhez.",
+              "A faluközpont konobái a legjobb menedékek heves esőzéskor.",
+              "Használja a templomlátogatásokat természetes esőszünetként.",
+              "A szél miatt egy összecsukható esernyő praktikusabb, mint a boternyő.",
+              "Ügyeljen a tócsákra az öbölhöz vezető burkolatlan utakon."
+            ],
+            "ro": [
+              "Purtați pantofi de trekking impermeabili pentru potecile de coastă.",
+              "Konobele din centrul satului sunt cele mai bune refugii în caz de ploaie torențială.",
+              "Folosiți vizitele la biserici ca pauze naturale de ploaie.",
+              "O umbrelă pliabilă este mai practică decât una mare din cauza vântului.",
+              "Atenție la bălți pe drumurile neasfaltate spre golf."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the coastal paths.",
+              "The konobas in the village center are the best retreats during heavy rain.",
+              "Use church visits as natural rain breaks.",
+              "A pocket umbrella is more practical than a large one due to the wind.",
+              "Watch out for puddles on the unpaved paths to the bay."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne über Ližnjan ist mild, aber die Bora kann kühl wehen. Morgens besichtigen Sie die ruhigen Kirchen ohne Touristenströme. Mittags wärmen Sie sich bei einem Kaffee am Platz auf. Die Bucht von Kuje lädt zu einem einsamen Spaziergang ein. Da die Sonne gegen 16:30 Uhr untergeht, genießen Sie das goldene Licht am Hafen frühzeitig vor einem gemütlichen Abendessen.",
+            "hu": "A téli nap Ližnjan felett enyhe, de a bóra hideg lehet. Reggel látogassa meg a csendes templomokat turisták nélkül. Délben melegedjen fel egy kávéval a téren. A Kuje-öböl magányos sétára hívogat. Mivel a nap 16:30 körül nyugszik, élvezze korán az aranyló fényeket a kikötőben, mielőtt egy hangulatos vacsorára indulna.",
+            "ro": "Soarele de iarnă peste Ližnjan este blând, dar bora poate fi rece. Dimineața vizitați bisericile liniștite, fără fluxuri de turiști. La prânz încălziți-vă cu o cafea în piață. Golful Kuje invită la o plimbare solitară. Deoarece soarele apune în jur de 16:30, savurați lumina aurie în port devreme, înainte de o cină primitoare.",
+            "en": "The winter sun over Ližnjan is mild, but the Bora wind can be chilly. In the morning, visit the quiet churches without the tourist crowds. At noon, warm up with a coffee at the square. Kuje Bay invites you for a solitary walk. Since the sun sets around 4:30 PM, enjoy the golden light at the harbour early before a cozy dinner."
+          },
+          "stops": [
+            {
+              "name": "Church of St. Martin",
+              "tip_4lang": {
+                "de": "Die dicken Mauern speichern die Kälte; ziehen Sie sich warm an.",
+                "hu": "A vastag falak tartják a hideget; öltözzön fel melegen.",
+                "ro": "Zidurile groase rețin frigul; îmbrăcați-vă bine.",
+                "en": "The thick walls retain the cold; dress warmly."
+              }
+            },
+            {
+              "name": "Morning Coffee at the Village Square",
+              "tip_4lang": {
+                "de": "Ein sonniger Platz im Freien ist trotz Kälte oft angenehm.",
+                "hu": "Egy napsütötte kinti asztal a hideg ellenére is kellemes lehet.",
+                "ro": "Un loc însorit afară este adesea plăcut în ciuda frigului.",
+                "en": "A sunny spot outside is often pleasant despite the cold."
+              }
+            },
+            {
+              "name": "Church of Mother of God from Kuj",
+              "tip_4lang": {
+                "de": "Genießen Sie die absolute Stille der Nebensaison.",
+                "hu": "Élvezze a holtszezon abszolút csendjét.",
+                "ro": "Bucurați-vă de liniștea absolută a extrasezonului.",
+                "en": "Enjoy the absolute silence of the off-season."
+              }
+            },
+            {
+              "name": "Kuje Bay",
+              "tip_4lang": {
+                "de": "Perfekt für einen windgeschützten Strandspaziergang.",
+                "hu": "Tökéletes egy széltől védett tengerparti sétához.",
+                "ro": "Perfect pentru o plimbare pe plajă ferită de vânt.",
+                "en": "Perfect for a beach walk sheltered from the wind."
+              }
+            },
+            {
+              "name": "Lunch in a Konoba",
+              "tip_4lang": {
+                "de": "Probieren Sie saisonale Gerichte wie getrockneten Kabeljau (Bakalar).",
+                "hu": "Kóstolja meg a szezonális ételeket, például a tőkehalat (Bakalar).",
+                "ro": "Gustați mâncărurile sezoniere, cum ar fi codul uscat (Bakalar).",
+                "en": "Try seasonal dishes like dried cod (Bakalar)."
+              }
+            },
+            {
+              "name": "Harbour Walk",
+              "tip_4lang": {
+                "de": "Das Licht am Nachmittag ist im Winter besonders klar.",
+                "hu": "A délutáni fények télen különösen tiszták.",
+                "ro": "Lumina de după-amiază este deosebit de clară iarna.",
+                "en": "The afternoon light is particularly clear in winter."
+              }
+            },
+            {
+              "name": "Sunset at the Viewpoint",
+              "tip_4lang": {
+                "de": "Seien Sie spätestens um 16:15 Uhr hier für den Sonnenuntergang.",
+                "hu": "Legyen itt legkésőbb 16:15-kor a naplemente miatt.",
+                "ro": "Fiți aici cel târziu la 16:15 pentru apusul soarelui.",
+                "en": "Be here by 4:15 PM at the latest for the sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung hilft gegen den kalten Wind.",
+              "Die Sonne verschwindet früh hinter den Hügeln.",
+              "Viele Außenbereiche der Cafés haben Heizstrahler.",
+              "Besuchen Sie die archäologischen Stätten in Kuje ohne Hitze.",
+              "Die Bora-Winde können an der Küste sehr kräftig sein."
+            ],
+            "hu": [
+              "A réteges öltözködés segít a hideg szél ellen.",
+              "A nap korán eltűnik a dombok mögött.",
+              "Sok kávézó teraszán van kültéri fűtőtest.",
+              "Látogassa meg a Kuje-i régészeti lelőhelyeket hőség nélkül.",
+              "A bóra szél nagyon erős lehet a parton."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi ajută împotriva vântului rece.",
+              "Soarele dispare devreme în spatele dealurilor.",
+              "Multe terase ale cafenelelor au încălzitoare exterioare.",
+              "Vizitați siturile arheologice din Kuje fără arșiță.",
+              "Vântul Bora poate fi foarte puternic pe coastă."
+            ],
+            "en": [
+              "Layered clothing helps against the cold wind.",
+              "The sun disappears early behind the hills.",
+              "Many cafe terraces have outdoor heaters.",
+              "Visit the archaeological sites in Kuje without the summer heat.",
+              "Bora winds can be very strong on the coast."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -607,6 +815,232 @@
           "Take enough water, as there is no shade on the peninsula.",
           "A mountain bike is ideal for the gravel paths."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert gute Ausrüstung. Besuchen Sie die Kirche St. Martin, bevor Sie zur Marlera-Halbinsel aufbrechen. Der unbefestigte Weg kann schlammig sein, was das Abenteuer steigert. Suchen Sie Schutz am Leuchtturm und genießen Sie die Aussicht. Nach dem Mittagessen im Dorf wärmen Sie sich in der Kuje-Bucht auf, bevor ein Eisstopp den nassen, aber aktiven Tag abschließt.",
+            "hu": "Egy kerékpártúra esőben jó felszerelést igényel. Látogassa meg a Szent Márton-templomot, mielőtt a Marlera-félszigetre indulna. A burkolatlan út saras lehet, ami növeli a kalandot. Keressen menedéket a világítótoronynál és élvezze a kilátást. Ebéd után a faluban melegedjen fel a Kuje-öbölben, majd egy fagylaltozás zárja ezt a vizes, de aktív napot.",
+            "ro": "O tură cu bicicleta pe ploaie necesită echipament bun. Vizitați biserica Sf. Martin înainte de a pleca spre peninsula Marlera. Drumul neasfaltat poate fi noroios, ceea ce sporește aventura. Căutați adăpost la far și savurați priveliștea. După prânzul în sat, încălziți-vă în golful Kuje, iar o oprire pentru înghețată încheie această zi udă, dar activă.",
+            "en": "A bike tour in the rain requires good gear. Visit St. Martin's Church before heading to the Marlera peninsula. The unpaved path can be muddy, which adds to the adventure. Seek shelter at the lighthouse and enjoy the view. After lunch in the village, warm up near Kuje Bay, and a gelato stop concludes this wet but active day."
+          },
+          "stops": [
+            {
+              "name": "Church of St. Martin",
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Dachvorsprung ab.",
+                "hu": "Állítsa a kerékpárját az ereszhajlás alá.",
+                "ro": "Parcați bicicleta sub streșină.",
+                "en": "Park your bike under the roof overhang."
+              }
+            },
+            {
+              "name": "Marlera Peninsula",
+              "tip_4lang": {
+                "de": "Vorsicht vor tiefem Schlamm auf den Feldwegen.",
+                "hu": "Vigyázat, mély sár lehet a mezei utakon.",
+                "ro": "Atenție la noroiul adânc de pe drumurile de câmp.",
+                "en": "Beware of deep mud on the field paths."
+              }
+            },
+            {
+              "name": "Marlera Lighthouse",
+              "tip_4lang": {
+                "de": "Hinter dem Gebäude finden Sie Schutz vor dem Schlagregen.",
+                "hu": "Az épület mögött menedéket talál a verőfényes eső elől.",
+                "ro": "În spatele clădirii găsiți adăpost de ploaia bătută de vânt.",
+                "en": "You'll find shelter from driving rain behind the building."
+              }
+            },
+            {
+              "name": "Hidden Cove Swim Break",
+              "tip_4lang": {
+                "de": "Statt Schwimmen: Genießen Sie das Tosen der Wellen.",
+                "hu": "Úszás helyett: Élvezze a hullámok morajlását.",
+                "ro": "În loc de înot: Bucurați-vă de vuietul valurilor.",
+                "en": "Instead of swimming: Enjoy the roar of the waves."
+              }
+            },
+            {
+              "name": "Lunch in the Village",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Pause, um Ihre Regenbekleidung auszuschütteln.",
+                "hu": "Használja a szünetet az esőruházat kirázására.",
+                "ro": "Folosiți pauza pentru a vă scutura echipamentul de ploaie.",
+                "en": "Use the break to shake out your rain gear."
+              }
+            },
+            {
+              "name": "Kuje Bay",
+              "tip_4lang": {
+                "de": "Die Asphaltstraße zurück ins Dorf ist sicherer bei Nässe.",
+                "hu": "A faluba visszavezető aszfaltút biztonságosabb nedves időben.",
+                "ro": "Drumul asfaltat înapoi în sat este mai sigur pe ploaie.",
+                "en": "The asphalt road back to the village is safer when wet."
+              }
+            },
+            {
+              "name": "Church of Mother of God from Kuj",
+              "tip_4lang": {
+                "de": "Kurzer Stopp zum Verschnaufen im Trockenen.",
+                "hu": "Rövid pihenő a szárazban.",
+                "ro": "Scurt popas pentru respirație la uscat.",
+                "en": "Short stop to catch your breath in the dry."
+              }
+            },
+            {
+              "name": "Gelato Stop",
+              "tip_4lang": {
+                "de": "Eis schmeckt auch bei Regen – oder wählen Sie einen heißen Kakao.",
+                "hu": "A fagyi esőben is finom – vagy válasszon egy forró kakaót.",
+                "ro": "Înghețata e bună și pe ploaie – sau alegeți o cacao fierbinte.",
+                "en": "Gelato is good in the rain too – or choose a hot cocoa."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Rad sind bei den Schotterwegen ein Muss.",
+              "Vermeiden Sie scharfe Bremsmanöver auf nassem Asphalt.",
+              "Packen Sie Wertsachen in wasserdichte Beutel.",
+              "Die Wege auf Marlera können bei viel Regen unpassierbar werden.",
+              "Wählen Sie eine Route mit mehr Asphaltanteil."
+            ],
+            "hu": [
+              "A sárvédő kötelező a kavicsos utakon.",
+              "Kerülje az éles fékezést a nedves aszfalton.",
+              "Csomagolja az értékeit vízhatlan zacskókba.",
+              "A marlerai utak nagy esőben járhatatlanná válhatnak.",
+              "Válasszon több aszfaltozott szakaszt tartalmazó útvonalat."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt obligatorii pe drumurile cu pietriș.",
+              "Evitați frânările bruște pe asfaltul ud.",
+              "Puneți obiectele de valoare în pungi impermeabile.",
+              "Drumurile din Marlera pot deveni impracticabile la ploaie mare.",
+              "Alegeți o rută cu mai multe porțiuni asfaltate."
+            ],
+            "en": [
+              "Mudguards are a must on the gravel paths.",
+              "Avoid sudden braking on wet asphalt.",
+              "Pack valuables in waterproof bags.",
+              "Paths on Marlera can become impassable during heavy rain.",
+              "Choose a route with more asphalt sections."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winter-Radtour führt Sie durch die klare istrische Luft. Nach der St. Martinskirche erkunden Sie die Marlera-Halbinsel, die im Winter fast menschenleer ist. Der Leuchtturm bietet ein raues Panorama. Statt Schwimmen genießen Sie ein Picknick mit Aussicht. Mittags wärmt Sie die Sonne im Dorf auf. Die Kuje-Bucht zeigt sich von ihrer ruhigen Seite, bevor Sie den Tag mit einem Heißgetränk beenden.",
+            "hu": "Egy téli biciklitúra a tiszta isztriai levegőn vezet keresztül. A Szent Márton-templom után fedezze fel a Marlera-félszigetet, amely télen szinte néptelen. A világítótorony nyers panorámát kínál. Úszás helyett élvezzen egy pikniket a kilátással. Délben a nap felmelegíti a faluban. A Kuje-öböl a nyugodt arcát mutatja, mielőtt egy forró itallal zárná a napot.",
+            "ro": "O tură de iarnă cu bicicleta vă poartă prin aerul curat istrian. După biserica Sf. Martin, explorați peninsula Marlera, aproape pustie iarna. Farul oferă o panoramă aspră. În loc de înot, savurați un picnic cu vedere. La prânz, soarele vă încălzește în sat. Golful Kuje își arată latura liniștită, înainte de a încheia ziua cu o băutură fierbinte.",
+            "en": "A winter bike tour takes you through the crisp Istrian air. After St. Martin's Church, explore the Marlera peninsula, which is almost deserted in winter. The lighthouse offers a rugged panorama. Instead of swimming, enjoy a picnic with a view. At noon, the sun warms you up in the village. Kuje Bay shows its quiet side before you end the day with a hot drink."
+          },
+          "stops": [
+            {
+              "name": "Church of St. Martin",
+              "tip_4lang": {
+                "de": "Kurzer Stopp; lassen Sie den Körper nicht auskühlen.",
+                "hu": "Rövid megálló; ne hagyja kihűlni a testét.",
+                "ro": "Popas scurt; nu lăsați corpul să se răcească.",
+                "en": "Short stop; don't let your body cool down."
+              }
+            },
+            {
+              "name": "Marlera Peninsula",
+              "tip_4lang": {
+                "de": "Der Wind ist hier stärker; Windstopper-Kleidung ist Pflicht.",
+                "hu": "Itt erősebb a szél; a szélálló ruházat kötelező.",
+                "ro": "Vântul este mai puternic aici; hainele windstopper sunt obligatorii.",
+                "en": "The wind is stronger here; windstopper clothing is a must."
+              }
+            },
+            {
+              "name": "Marlera Lighthouse",
+              "tip_4lang": {
+                "de": "Ein spektakulärer Ort für Winterfotos bei klarem Himmel.",
+                "hu": "Látványos hely téli fotókhoz tiszta égbolt mellett.",
+                "ro": "Un loc spectaculos pentru fotografii de iarnă sub cerul senin.",
+                "en": "A spectacular spot for winter photos under clear skies."
+              }
+            },
+            {
+              "name": "Hidden Cove Swim Break",
+              "tip_4lang": {
+                "de": "Nutzen Sie die Zeit für Dehnübungen in der Sonne.",
+                "hu": "Használja az időt nyújtásra a napsütésben.",
+                "ro": "Folosiți timpul pentru exerciții de stretching la soare.",
+                "en": "Use the time for stretching in the sun."
+              }
+            },
+            {
+              "name": "Lunch in the Village",
+              "tip_4lang": {
+                "de": "Ein Platz am Fenster fängt die wertvollen Sonnenstrahlen ein.",
+                "hu": "Egy ablak melletti asztal befogja az értékes napsugarakat.",
+                "ro": "Un loc la fereastră captează razele prețioase ale soarelui.",
+                "en": "A window seat catches the precious sun rays."
+              }
+            },
+            {
+              "name": "Kuje Bay",
+              "tip_4lang": {
+                "de": "Die tiefstehende Sonne glitzert wunderschön auf dem Wasser.",
+                "hu": "Az alacsonyan járó nap gyönyörűen csillog a vízen.",
+                "ro": "Soarele jos sclipește minunat pe apă.",
+                "en": "The low sun glitters beautifully on the water."
+              }
+            },
+            {
+              "name": "Church of Mother of God from Kuj",
+              "tip_4lang": {
+                "de": "Die Abendruhe beginnt hier im Winter sehr früh.",
+                "hu": "Az esti nyugalom télen nagyon korán kezdődik itt.",
+                "ro": "Liniștea serii începe foarte devreme aici iarna.",
+                "en": "The evening peace starts very early here in winter."
+              }
+            },
+            {
+              "name": "Gelato Stop",
+              "tip_4lang": {
+                "de": "Fragen Sie nach einer heißen Schokolade statt Eis.",
+                "hu": "Kérjen forró csokoládét fagyi helyett.",
+                "ro": "Cereți o ciocolată caldă în loc de înghețată.",
+                "en": "Ask for a hot chocolate instead of gelato."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe; der Fahrtwind ist im Winter eisig.",
+              "Achten Sie auf die kürzere Tageszeit; Licht am Rad prüfen.",
+              "Die unbefestigten Wege sind im Winter oft fester als im Sommer.",
+              "Trinken Sie auch bei Kälte genug Wasser.",
+              "Die Sicht auf die Kvarner-Inseln ist im Winter oft besser."
+            ],
+            "hu": [
+              "Viseljen kesztyűt; a menetszél télen jeges lehet.",
+              "Ügyeljen a rövidebb nappalokra; ellenőrizze a lámpákat.",
+              "A burkolatlan utak télen gyakran keményebbek, mint nyáron.",
+              "Hidegben is igyon elég vizet.",
+              "A Kvarner-szigetekre nyíló kilátás télen gyakran szebb."
+            ],
+            "ro": [
+              "Purtați mănuși; vântul la mersul cu bicicleta e înghețat iarna.",
+              "Atenție la ziua scurtă; verificați luminile bicicletei.",
+              "Drumurile neasfaltate sunt adesea mai ferme iarna decât vara.",
+              "Beți destulă apă chiar dacă e frig.",
+              "Vizibilitatea spre insulele Kvarner e adesea mai bună iarna."
+            ],
+            "en": [
+              "Wear gloves; the wind chill is icy in winter.",
+              "Watch out for the shorter days; check your bike lights.",
+              "Unpaved paths are often firmer in winter than in summer.",
+              "Drink enough water even in the cold.",
+              "Visibility towards the Kvarner islands is often better in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -865,6 +1299,196 @@
           "Parking in the center is mostly free.",
           "Combine the trip with a visit to nearby Medulin."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Ližnjan auch bei Regen komfortabel. Besuchen Sie die St. Martinskirche und entspannen Sie bei einem Kaffee im Zentrum. Die Fahrt zur Bucht von Kuje bietet tolle Ausblicke auf die stürmische See, ohne nass zu werden. Der Marlera-Leuchtturm wirkt bei Regen besonders mystisch. Ein ausgedehntes Mittagessen in einer Konoba macht den Regentag zum kulinarischen Erlebnis.",
+            "hu": "Autóval Ližnjan esőben is kényelmes. Látogassa meg a Szent Márton-templomot és pihenjen egy kávé mellett a központban. Az út a Kuje-öbölbe nagyszerű kilátást nyújt a viharos tengerre anélkül, hogy megázna. A marlerai világítótorony esőben különösen misztikus. Egy hosszú ebéd egy konobában a borús napot gasztronómiai élménnyé teszi.",
+            "ro": "Cu mașina, Ližnjan este confortabil chiar și pe ploaie. Vizitați biserica Sf. Martin și relaxați-vă cu o cafea în centru. Drumul spre golful Kuje oferă vederi superbe spre marea înfuriată, fără să vă udați. Farul Marlera pare deosebit de mistic pe ploaie. Un prânz prelungit într-o konoba transformă ziua ploioasă într-o experiență culinară.",
+            "en": "Ližnjan is comfortable by car even in the rain. Visit St. Martin's Church and relax with a coffee in the center. The drive to Kuje Bay offers great views of the stormy sea without getting wet. The Marlera lighthouse looks particularly mystical in the rain. A long lunch in a konoba turns the rainy day into a culinary highlight."
+          },
+          "stops": [
+            {
+              "name": "Church of St. Martin",
+              "tip_4lang": {
+                "de": "Parkplatz direkt vor dem Eingang nutzen.",
+                "hu": "Használja a közvetlenül a bejárat előtti parkolót.",
+                "ro": "Folosiți parcarea direct din fața intrării.",
+                "en": "Use the parking spot directly in front of the entrance."
+              }
+            },
+            {
+              "name": "Morning Coffee in the Center",
+              "tip_4lang": {
+                "de": "Suchen Sie Cafés mit Parkplätzen in der Nähe.",
+                "hu": "Keressen kávézót közeli parkolási lehetőséggel.",
+                "ro": "Căutați cafenele cu parcare în apropiere.",
+                "en": "Look for cafes with nearby parking."
+              }
+            },
+            {
+              "name": "Church of Mother of God from Kuj",
+              "tip_4lang": {
+                "de": "Vom Auto aus hat man einen guten Blick auf die Fassade.",
+                "hu": "Az autóból is jó kilátás nyílik a homlokzatra.",
+                "ro": "Din mașină aveți o vedere bună spre fațadă.",
+                "en": "You have a good view of the facade from the car."
+              }
+            },
+            {
+              "name": "Kuje Bay & Archaeology",
+              "tip_4lang": {
+                "de": "Die Ausgrabungen sind im Regen schwer zu besichtigen; Fokus auf das Meer.",
+                "hu": "Az ásatásokat esőben nehéz megnézni; fókuszáljon a tengerre.",
+                "ro": "Săpăturile sunt greu de vizitat pe ploaie; concentrați-vă pe mare.",
+                "en": "Archaeology is hard to visit in the rain; focus on the sea."
+              }
+            },
+            {
+              "name": "Marlera Lighthouse",
+              "tip_4lang": {
+                "de": "Bleiben Sie im Auto und genießen Sie das Panorama.",
+                "hu": "Maradjon az autóban és élvezze a panorámát.",
+                "ro": "Rămâneți în mașină și savurați panorama.",
+                "en": "Stay in the car and enjoy the panorama."
+              }
+            },
+            {
+              "name": "Late Lunch in the Konoba",
+              "tip_4lang": {
+                "de": "Der perfekte Ort, um das Ende des Regens abzuwarten.",
+                "hu": "Tökéletes hely az eső végének megvárásához.",
+                "ro": "Locul perfect pentru a aștepta oprirea ploii.",
+                "en": "The perfect place to wait for the rain to stop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig auf den schmalen Straßen bei Aquaplaning-Gefahr.",
+              "Die Zufahrt zum Leuchtturm kann bei starkem Regen matschig sein.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Parken Sie nicht unter Bäumen bei möglichem Sturm.",
+              "Lassen Sie keine nassen Schirme auf den Polstern liegen."
+            ],
+            "hu": [
+              "Vezessen óvatosan a szűk utakon a vízenfutás veszélye miatt.",
+              "A világítótoronyhoz vezető út nagy esőben sáros lehet.",
+              "Használja a légkondicionálót a szélvédő párátlanítására.",
+              "Viharos szélben ne parkoljon fák alá.",
+              "Ne hagyja a vizes esernyőt az üléseken."
+            ],
+            "ro": [
+              "Conduceți cu atenție pe drumurile înguste, risc de acvaplanare.",
+              "Accesul la far poate fi noroios în caz de ploaie puternică.",
+              "Folosiți aerul condiționat împotriva aburirii geamurilor.",
+              "Nu parcați sub copaci în caz de furtună.",
+              "Nu lăsați umbrelele ude pe tapițerie."
+            ],
+            "en": [
+              "Drive carefully on narrow roads due to aquaplaning risk.",
+              "Access to the lighthouse can be muddy during heavy rain.",
+              "Use the AC to prevent windows from fogging up.",
+              "Do not park under trees during potential storms.",
+              "Don't leave wet umbrellas on the car seats."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto die ideale Basis, um Ližnjan warm zu erkunden. Starten Sie bei St. Martin und genießen Sie die klare Luft. Die Fahrt zum Marlera-Leuchtturm ist im Winter ungestört; das raue Meer ist ein toller Anblick. In der Kuje-Bucht können Sie kurz verweilen, bevor Sie im Dorf zu Mittag essen. Dank des Autos erreichen Sie alle Punkte bequem vor Einbruch der frühen Dunkelheit.",
+            "hu": "Télen az autó ideális bázist nyújt Ližnjan meleg felfedezéséhez. Kezdjen a Szent Mártonnál és élvezze a tiszta levegőt. Az út a marlerai világítótoronyhoz télen zavartalan; a nyers tenger látványa lenyűgöző. A Kuje-öbölben tehet egy rövid kitérőt az ebéd előtt. Az autónak köszönhetően minden pontot kényelmesen elér a korai sötétedés előtt.",
+            "ro": "Iarna, mașina oferă baza ideală pentru a explora Ližnjan la căldură. Începeți la Sf. Martin și savurați aerul curat. Drumul spre farul Marlera este neîntrerupt iarna; marea aspră e o priveliște superbă. În golful Kuje puteți zăbovi scurt înainte de prânz. Datorită mașinii, ajungeți confortabil la toate punctele înainte de lăsarea întunericului.",
+            "en": "In winter, the car provides an ideal warm base for exploring Ližnjan. Start at St. Martin's and enjoy the crisp air. The drive to the Marlera lighthouse is peaceful in winter; the rugged sea is a great sight. You can linger briefly at Kuje Bay before lunching in the village. Thanks to the car, you'll reach all spots comfortably before the early darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Church of St. Martin",
+              "tip_4lang": {
+                "de": "Kurze Besichtigung; das Auto bleibt warm aufgeheizt.",
+                "hu": "Rövid látogatás; az autó melegen tartva marad.",
+                "ro": "Vizită scurtă; mașina rămâne încălzită.",
+                "en": "Short visit; keep the car warmed up."
+              }
+            },
+            {
+              "name": "Morning Coffee in the Center",
+              "tip_4lang": {
+                "de": "Ideal, um den weiteren Tagesablauf im Warmen zu planen.",
+                "hu": "Ideális a nap további részének megtervezéséhez a melegben.",
+                "ro": "Ideal pentru a planifica restul zilei la căldură.",
+                "en": "Ideal for planning the rest of your day in the warm."
+              }
+            },
+            {
+              "name": "Church of Mother of God from Kuj",
+              "tip_4lang": {
+                "de": "Parken Sie so, dass Sie das Meer im Blick haben.",
+                "hu": "Úgy parkoljon, hogy rálásson a tengerre.",
+                "ro": "Parcați astfel încât să aveți marea în vedere.",
+                "en": "Park so that you have a view of the sea."
+              }
+            },
+            {
+              "name": "Kuje Bay & Archaeology",
+              "tip_4lang": {
+                "de": "Ein Spaziergang am leeren Strand ist im Winter sehr erholsam.",
+                "hu": "Egy séta az üres strandon télen nagyon pihentető.",
+                "ro": "O plimbare pe plaja goală este foarte relaxantă iarna.",
+                "en": "A walk on the empty beach is very relaxing in winter."
+              }
+            },
+            {
+              "name": "Marlera Lighthouse",
+              "tip_4lang": {
+                "de": "Vorsicht bei starkem Wind beim Aussteigen aus dem Auto.",
+                "hu": "Vigyázat az erős szélnél az autóból való kiszálláskor.",
+                "ro": "Atenție la vântul puternic când coborâți din mașină.",
+                "en": "Be careful of strong winds when getting out of the car."
+              }
+            },
+            {
+              "name": "Late Lunch in the Konoba",
+              "tip_4lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre am Kamin, falls vorhanden.",
+                "hu": "Élvezze a kandalló melletti hangulatot, ha van.",
+                "ro": "Bucurați-vă de atmosfera de lângă șemineu, dacă există.",
+                "en": "Enjoy the cozy atmosphere by the fireplace, if available."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck; Kälte beeinflusst diesen.",
+              "Winterreifen sind in Kroatien bei entsprechenden Bedingungen Pflicht.",
+              "Halten Sie Enteiserspray für die Scheiben bereit.",
+              "Die Wege an der Küste können bei Frost glatt sein.",
+              "Nutzen Sie die Sitzheizung für extra Komfort nach Spaziergängen."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást; a hideg befolyásolja azt.",
+              "Horvátországban téli útviszonyok között kötelező a téli gumi.",
+              "Legyen kéznél jégoldó spray a szélvédőhöz.",
+              "A parti utak fagy esetén csúszósak lehetnek.",
+              "Használja az ülésfűtést a séták utáni extra kényelemért."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope; frigul o influențează.",
+              "Anvelopele de iarnă sunt obligatorii în Croația în condiții specifice.",
+              "Aveți la îndemână spray de dezghețare pentru parbriz.",
+              "Drumurile de pe coastă pot fi alunecoase în caz de îngheț.",
+              "Folosiți încălzirea în scaune pentru confort extra după plimbări."
+            ],
+            "en": [
+              "Check tire pressure; cold affects it.",
+              "Winter tires are mandatory in Croatia in wintry conditions.",
+              "Keep de-icer spray ready for the windshield.",
+              "Coastal roads can be slippery during frost.",
+              "Use seat heating for extra comfort after walks."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1123,6 +1747,196 @@
           "Take sun protection for the walk to the bay.",
           "Wear sturdy shoes for the unpaved paths."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen Sie Ližnjan auch bei Regen sicher. Verbringen Sie Zeit in den Kirchen und im gemütlichen Dorfkern. Der Weg zur Kuje-Bucht ist bei Regen eine Herausforderung, aber der Blick auf die Adria belohnt Sie. Ein warmes Mittagessen ist der Höhepunkt, bevor Sie sich am Hafen von der stürmischen See verabschieden und den Bus zurück nehmen.",
+            "hu": "Busszal esőben is biztonságosan elérheti Ližnjant. Töltsön időt a templomokban és a barátságos faluközpontban. Az út a Kuje-öbölhöz esőben kihívást jelenthet, de az Adriára nyíló kilátás kárpótolja. Egy meleg ebéd a nap fénypontja, mielőtt a kikötőben elbúcsúzna a viharos tengertől és visszaszállna a buszra.",
+            "ro": "Cu autobuzul ajungeți în siguranță la Ližnjan chiar și pe ploaie. Petreceți timp în biserici și în centrul primitor al satului. Drumul spre golful Kuje e o provocare pe ploaie, dar vederea spre Adriatică merită. Un prânz cald e punctul culminant, înainte de a vă lua rămas bun de la marea agitată în port și a lua busul înapoi.",
+            "en": "You can reach Ližnjan safely by bus even in the rain. Spend time in the churches and the cozy village core. The walk to Kuje Bay is a challenge in the rain, but the view of the Adriatic rewards you. A warm lunch is the highlight before you say goodbye to the stormy sea at the harbour and catch the bus back."
+          },
+          "stops": [
+            {
+              "name": "Ližnjan Bus Station",
+              "tip_4lang": {
+                "de": "Das Wartehäuschen bietet Schutz vor dem ersten Guss.",
+                "hu": "A buszváró védelmet nyújt az első zápor elől.",
+                "ro": "Refugiul din stație oferă protecție de prima aversă.",
+                "en": "The bus shelter provides protection from the first downpour."
+              }
+            },
+            {
+              "name": "Church of St. Martin",
+              "tip_4lang": {
+                "de": "Nur ein kurzer Fußweg von der Haltestelle.",
+                "hu": "Csak egy rövid séta a megállótól.",
+                "ro": "Doar o scurtă plimbare de la stație.",
+                "en": "Just a short walk from the bus stop."
+              }
+            },
+            {
+              "name": "Church of Mother of God from Kuj",
+              "tip_4lang": {
+                "de": "Der Weg hierher führt über offenes Gelände; Schirm fest halten.",
+                "hu": "Az idevezető út nyílt terepen visz; fogja erősen az esernyőt.",
+                "ro": "Drumul până aici e pe teren deschis; țineți bine umbrela.",
+                "en": "The path here is across open ground; hold your umbrella tight."
+              }
+            },
+            {
+              "name": "Kuje Bay & Beach Time",
+              "tip_4lang": {
+                "de": "Suchen Sie ein Lokal am Strand für trockene Aussichten.",
+                "hu": "Keressen egy vízparti helyet a száraz kilátáshoz.",
+                "ro": "Căutați un local pe plajă pentru vederi la adăpost.",
+                "en": "Look for a place by the beach for dry views."
+              }
+            },
+            {
+              "name": "Lunch in the Village Konoba",
+              "tip_4lang": {
+                "de": "Planen Sie genug Zeit ein, um trocken zum Bus zu kommen.",
+                "hu": "Hagyjon elég időt, hogy szárazon érjen a buszhoz.",
+                "ro": "Planificați destul timp pentru a ajunge uscat la autobuz.",
+                "en": "Allow enough time to get to the bus dry."
+              }
+            },
+            {
+              "name": "Farewell Drink at the Harbour",
+              "tip_4lang": {
+                "de": "Ein letzter Blick auf den Regen über dem Meer.",
+                "hu": "Utolsó pillantás a tenger feletti esőre.",
+                "ro": "O ultimă privire spre ploaia de deasupra mării.",
+                "en": "A last look at the rain over the sea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan vorab online (Pulapromet).",
+              "Tragen Sie bei Regen Kleidung mit Reflektoren für bessere Sichtbarkeit.",
+              "Haben Sie Kleingeld für das Busticket bereit.",
+              "Die Busse fahren bei Regen oft etwas langsamer.",
+              "Die Haltestellen im Dorf haben meist kleine Unterstände."
+            ],
+            "hu": [
+              "Ellenőrizze előre a buszmenetrendet online (Pulapromet).",
+              "Esőben viseljen fényvisszaverő ruházatot a jobb láthatóságért.",
+              "Legyen kéznél aprópénz a buszjegyhez.",
+              "Esőben a buszok gyakran kicsit lassabban közlekednek.",
+              "A falusi megállóknak általában van kis várója."
+            ],
+            "ro": [
+              "Verificați orarul autobuzelor online în prealabil (Pulapromet).",
+              "Purtați haine cu reflectorizante pe ploaie pentru vizibilitate.",
+              "Aveți pregătit mărunțiș pentru biletul de autobuz.",
+              "Autobuzele circulă adesea mai încet pe ploaie.",
+              "Stațiile din sat au de obicei mici adăposturi."
+            ],
+            "en": [
+              "Check the bus schedule online in advance (Pulapromet).",
+              "Wear reflective gear in the rain for better visibility.",
+              "Have small change ready for the bus ticket.",
+              "Buses often travel a bit slower in the rain.",
+              "Village bus stops usually have small shelters."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit dem Bus nach Ližnjan zeigt das Dorf von seiner authentischsten Seite. Nach der Ankunft besichtigen Sie die Kirchen und genießen die Stille. Ein Spaziergang zur Kuje-Bucht ist bei Wintersonne herrlich. Das Mittagessen in der Konoba wärmt Sie auf, bevor ein Abschiedsgetränk am Hafen den Ausflug abrundet. Achten Sie auf den Busplan, da die Frequenz im Winter geringer sein kann.",
+            "hu": "Egy téli buszos kirándulás Ližnjanba a falu legautentikusabb arcát mutatja meg. Érkezés után nézze meg a templomokat és élvezze a csendet. Egy séta a Kuje-öbölhöz a téli napsütésben csodálatos. Az ebéd a konobában felmelegíti, mielőtt egy búcsúital a kikötőben lezárná a kirándulást. Ügyeljen a buszmenetrendre, mert télen ritkább lehet.",
+            "ro": "O excursie de iarnă cu autobuzul la Ližnjan arată satul în cea mai autentică formă. După sosire, vizitați bisericile și savurați liniștea. O plimbare spre golful Kuje sub soarele de iarnă e minunată. Prânzul în konoba vă încălzește înainte ca o băutură în port să încheie excursia. Atenție la orar, frecvența autobuzelor poate fi mai mică iarna.",
+            "en": "A winter trip by bus to Ližnjan shows the village at its most authentic. After arrival, visit the churches and enjoy the silence. A walk to Kuje Bay in the winter sun is wonderful. Lunch in the konoba warms you up before a farewell drink at the harbour rounds off the trip. Keep an eye on the bus schedule, as frequency may be lower in winter."
+          },
+          "stops": [
+            {
+              "name": "Ližnjan Bus Station",
+              "tip_4lang": {
+                "de": "Ziehen Sie sich für die Wartezeit an der Haltestelle dick an.",
+                "hu": "Öltözzön fel jól a megállóban való várakozáshoz.",
+                "ro": "Îmbrăcați-vă bine pentru așteptarea în stație.",
+                "en": "Dress warmly for the wait at the bus stop."
+              }
+            },
+            {
+              "name": "Church of St. Martin",
+              "tip_4lang": {
+                "de": "Ein ruhiger Ort zur Besinnung im Winter.",
+                "hu": "Csendes hely az elmélyüléshez télen.",
+                "ro": "Un loc liniștit pentru reflecție iarna.",
+                "en": "A quiet place for reflection in winter."
+              }
+            },
+            {
+              "name": "Church of Mother of God from Kuj",
+              "tip_4lang": {
+                "de": "Im Winter ist der Weg hierher oft sehr windig.",
+                "hu": "Télen az idevezető út gyakran nagyon szeles.",
+                "ro": "Iarna, drumul până aici este adesea foarte vântos.",
+                "en": "In winter, the path here is often very windy."
+              }
+            },
+            {
+              "name": "Kuje Bay & Beach Time",
+              "tip_4lang": {
+                "de": "Genießen Sie die Einsamkeit am Strand.",
+                "hu": "Élvezze a magányt a tengerparton.",
+                "ro": "Bucurați-vă de singurătatea de pe plajă.",
+                "en": "Enjoy the solitude on the beach."
+              }
+            },
+            {
+              "name": "Lunch in the Village Konoba",
+              "tip_4lang": {
+                "de": "Fragen Sie nach dem Tagesgericht (Marenda) für Einheimische.",
+                "hu": "Kérdezzen rá a helyieknek kínált napi ajánlatra (Marenda).",
+                "ro": "Întrebați de meniul zilei (Marenda) pentru localnici.",
+                "en": "Ask for the daily special (Marenda) for locals."
+              }
+            },
+            {
+              "name": "Farewell Drink at the Harbour",
+              "tip_4lang": {
+                "de": "Behalten Sie die Zeit für den letzten Bus im Auge.",
+                "hu": "Tartsa szemmel az utolsó busz indulási idejét.",
+                "ro": "Fiți atenți la ora ultimului autobuz.",
+                "en": "Keep an eye on the time for the last bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Im Winter gibt es weniger Busverbindungen am Wochenende.",
+              "Die Fahrt von Pula nach Ližnjan dauert etwa 20 Minuten.",
+              "Die Busse sind im Winter meist gut beheizt.",
+              "Nutzen Sie die App von Pulapromet für Echtzeit-Infos.",
+              "Der letzte Bus fährt oft schon am frühen Abend ab."
+            ],
+            "hu": [
+              "Télen hétvégente kevesebb a buszjárat.",
+              "Az út Pulából Ližnjanba körülbelül 20 percet vesz igénybe.",
+              "A buszok télen általában jól fűtöttek.",
+              "Használja a Pulapromet alkalmazást a valós idejű információkért.",
+              "Az utolsó busz gyakran már kora este elindul."
+            ],
+            "ro": [
+              "Iarna sunt mai puține conexiuni de autobuz în weekend.",
+              "Călătoria de la Pula la Ližnjan durează aproximativ 20 de minute.",
+              "Autobuzele sunt de obicei bine încălzite iarna.",
+              "Folosiți aplicația Pulapromet pentru info în timp real.",
+              "Ultimul autobuz pleacă adesea devreme în seară."
+            ],
+            "en": [
+              "There are fewer bus connections on weekends in winter.",
+              "The trip from Pula to Ližnjan takes about 20 minutes.",
+              "Buses are usually well-heated in winter.",
+              "Use the Pulapromet app for real-time info.",
+              "The last bus often departs early in the evening."
+            ]
+          }
+        }
       }
     }
   }

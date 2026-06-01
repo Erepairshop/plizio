@@ -230,6 +230,188 @@
           "Comfortable hiking shoes are mandatory for the paths to the viewpoints.",
           "Take plenty of water, as there is little shade in summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt im Schutze der Kula Turan, wo die dicken Mauern den Wind abhalten. Mittags lockt die Wärme einer traditionellen Konoba zu einer ausgedehnten Pause mit lokalen Spezialitäten. Nachmittags führt der Weg durch die nebligen Gassen von Bribir, wobei die tief hängenden Wolken über dem Vinodol-Tal eine mystische Atmosphäre schaffen. Der Tag endet gemütlich bei einem Glas Wein im Trockenen.",
+            "hu": "Az esős reggel a Kula Turan vastag falai között indul, ahol az ódon kőépület menedéket nyújt a szél elől. Ebédidőben egy helyi konoba melegében élvezhetjük a vinodoli ízeket, miközben kint kopog az eső. Délután a ködbe burkolózó Bribir utcáin sétálunk, ahol a felhők misztikus keretet adnak a tájnak. A napot egy pohár bor mellett, fedett helyen zárjuk, figyelve a völgyre telepedő szürkületet.",
+            "ro": "O dimineață ploioasă începe la adăpostul turnului Kula Turan, unde zidurile groase opresc vântul. La prânz, căldura unei konoba tradiționale invită la o pauză prelungită cu specialități locale. După-amiaza, drumul continuă prin străzile cețoase din Bribir, norii joși creând o atmosferă mistică deasupra văii Vinodol. Ziua se încheie confortabil cu un pahar de vin, privind ploaia de la adăpost.",
+            "en": "A rainy morning starts sheltered by the thick walls of Kula Turan, keeping the damp wind at bay. At noon, the warmth of a traditional konoba invites a long break with hearty local dishes. In the afternoon, the misty streets of Bribir offer a mystical vibe as low clouds hang over the Vinodol valley. The day ends cozily indoors with a glass of local wine, watching the rain settle over the hills."
+          },
+          "stops": [
+            {
+              "name": "Kula Turan (Bribir)",
+              "tip_5lang": {
+                "de": "Die Innenräume bieten perfekten Schutz vor dem Guss.",
+                "hu": "A belső terek tökéletes menedéket nyújtanak az eső elől.",
+                "ro": "Spațiile interioare oferă adăpost perfect împotriva ploii.",
+                "en": "The indoor spaces provide perfect shelter from the downpour."
+              }
+            },
+            {
+              "name": "Historischer Ortskern Bribir",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden und Dachvorsprünge der alten Häuser.",
+                "hu": "Használja ki a régi házak árkádjait és ereszaljait.",
+                "ro": "Folosiți arcadele și streșinile caselor vechi.",
+                "en": "Take advantage of the old houses' arcades and eaves."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenjacke in Ruhe zu trocknen.",
+                "hu": "Ideális hely az esőkabát nyugodt megszárításához.",
+                "ro": "Un loc ideal pentru a vă usca haina de ploaie în liniște.",
+                "en": "An ideal spot to let your raincoat dry in peace."
+              }
+            },
+            {
+              "name": "Oči Vinodola (Aussichtspunkt)",
+              "tip_5lang": {
+                "de": "Vorsicht bei rutschigen Steinen auf dem Weg zum Plateau.",
+                "hu": "Vigyázat, a platóra vezető kövek esőben csúszósak lehetnek.",
+                "ro": "Atenție la pietrele alunecoase de pe drumul spre platou.",
+                "en": "Careful with slippery stones on the path to the plateau."
+              }
+            },
+            {
+              "name": "Kaffee-Pause am Berg",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Wolken bei einem heißen Tee.",
+                "hu": "Élvezze a felhők látványát egy forró tea mellett.",
+                "ro": "Bucurați-vă de vederea norilor cu un ceai fierbinte.",
+                "en": "Enjoy the view of the clouds with a hot tea."
+              }
+            },
+            {
+              "name": "Abendlicher Rückweg",
+              "tip_5lang": {
+                "de": "Reflektierende Kleidung ist bei schlechter Sicht ratsam.",
+                "hu": "Rossz látási viszonyoknál ajánlott a fényvisszaverő ruházat.",
+                "ro": "Se recomandă îmbrăcăminte reflectorizantă în condiții de vizibilitate redusă.",
+                "en": "Reflective clothing is advised in poor visibility."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Hangwinde wichtig.",
+              "Wasserdichte Wanderschuhe sind auf den Pflastersteinen Pflicht.",
+              "Planen Sie längere Pausen in den Cafés von Bribir ein.",
+              "Die Sicht kann schnell wechseln, bleiben Sie auf markierten Wegen."
+            ],
+            "hu": [
+              "A hegyi szelek miatt egy erős esernyő elengedhetetlen.",
+              "A macskaköveken kötelező a vízálló túracipő.",
+              "Tervezzen hosszabb pihenőket Bribir kávézóiban.",
+              "A látótávolság gyorsan változhat, maradjon a jelzett utakon."
+            ],
+            "ro": [
+              "O umbrelă rezistentă este esențială din cauza vânturilor de munte.",
+              "Încălțămintea de munte impermeabilă este obligatorie pe pavaj.",
+              "Planificați pauze mai lungi în cafenelele din Bribir.",
+              "Vizibilitatea se poate schimba rapid, rămâneți pe traseele marcate."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to mountain winds.",
+              "Waterproof hiking shoes are a must on the cobblestones.",
+              "Plan for longer breaks in the cafes of Bribir.",
+              "Visibility can change quickly; stay on marked paths."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen lässt die Steine von Bribir fast weiß erscheinen. Ein kurzer Rundgang durch den historischen Kern wird durch den Duft von Holzfeuern aus den Schornsteinen begleitet. Mittags wärmt eine deftige Suppe in der Konoba Körper und Geist. Da die Sonne bereits früh hinter den Bergen verschwindet, nutzen wir das goldene Nachmittagslicht für den Aussichtspunkt, bevor die Kälte des Abends einsetzt.",
+            "hu": "A friss téli reggelen Bribir kövei szinte fehéren csillognak. A történelmi központban tett rövid séta alatt a kéményekből felszálló fahasáb-füst illata kísér minket. Ebédre egy laktató leves a konobában melengeti át a testet és lelket. Mivel a nap korán eltűnik a hegyek mögött, a délutáni arany órákat az Oči Vinodola kilátónál töltjük, mielőtt beállna az esti fagy.",
+            "ro": "Aerul clar de iarnă de dimineață face ca pietrele din Bribir să pară aproape albe. O scurtă plimbare prin centrul istoric este însoțită de mirosul de foc de lemne de la coșuri. La prânz, o supă consistentă în konoba încălzește corpul și spiritul. Deoarece soarele dispare devreme după munți, profităm de lumina aurie a după-amiezii la belvedere înainte de gerul serii.",
+            "en": "The crisp winter morning air makes the stones of Bribir appear almost white. A short walk through the historic core is accompanied by the scent of woodsmoke from the chimneys. At noon, a hearty soup in the konoba warms both body and soul. As the sun sets early behind the mountains, we take advantage of the golden afternoon light at the viewpoint before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": "Kula Turan (Bribir)",
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, das Metallgeländer ist sehr kalt.",
+                "hu": "Viseljen kesztyűt, a fémkorlátok télen jéghidegek.",
+                "ro": "Purtați mănuși, balustrada metalică este foarte rece.",
+                "en": "Wear gloves; the metal railings are freezing in winter."
+              }
+            },
+            {
+              "name": "Historischer Ortskern Bribir",
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Schatten der Mauern.",
+                "hu": "Ügyeljen a falak árnyékában kialakuló jegesedésre.",
+                "ro": "Atenție la porțiunile înghețate la umbra zidurilor.",
+                "en": "Watch out for icy patches in the shadows of the walls."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem hausgemachten Glühwein oder Tee.",
+                "hu": "Kérdezzen rá a házi forralt borra vagy teára.",
+                "ro": "Întrebați de vinul fiert de casă sau de ceai.",
+                "en": "Ask for the homemade mulled wine or herbal tea."
+              }
+            },
+            {
+              "name": "Oči Vinodola (Aussichtspunkt)",
+              "tip_5lang": {
+                "de": "Der Wind weht hier oben im Winter besonders scharf.",
+                "hu": "Télen a szél itt fent különösen metsző lehet.",
+                "ro": "Vântul bate deosebit de tăios aici sus în timpul iernii.",
+                "en": "The wind up here can be particularly biting in winter."
+              }
+            },
+            {
+              "name": "Kaffee-Pause am Berg",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz direkt am Kaminofen.",
+                "hu": "Keressen egy helyet közvetlenül a kandalló mellett.",
+                "ro": "Căutați un loc chiar lângă șemineu.",
+                "en": "Find a spot right next to the fireplace."
+              }
+            },
+            {
+              "name": "Abendlicher Rückweg",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang beginnt bereits gegen 16:15 Uhr.",
+                "hu": "A naplemente már 16:15 körül elkezdődik.",
+                "ro": "Apusul începe deja în jurul orei 16:15.",
+                "en": "Sunset starts early, around 16:15."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung schützt vor dem Bergwind.",
+              "Die Sonne verschwindet früh, starten Sie rechtzeitig.",
+              "Warme Getränke in der Thermoskanne sind hilfreich.",
+              "Feste Sohlen isolieren gegen die Bodenkälte der Steinwege."
+            ],
+            "hu": [
+              "A réteges öltözködés véd a metsző hegyi széltől.",
+              "A nap korán nyugszik, induljon időben.",
+              "Egy termosz meleg ital sokat segít a séta alatt.",
+              "A vastag talpú cipő szigetel a köves utak hidege ellen."
+            ],
+            "ro": [
+              "Îmbrăcămintea în straturi protejează de vântul de munte.",
+              "Soarele apune devreme, începeți traseul la timp.",
+              "O termos cu băutură caldă este de mare ajutor.",
+              "Tălpile groase izolează împotriva frigului drumurilor de piatră."
+            ],
+            "en": [
+              "Layering clothes protects against the biting mountain wind.",
+              "The sun sets early, so start your tour on time.",
+              "A thermos with a warm drink is very helpful.",
+              "Thick soles insulate against the cold of the stone paths."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -490,6 +672,224 @@
           "The roads to the viewpoints are narrow and winding.",
           "In Drivenik, park directly below the castle."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt beim nebelverhangenen Kaštel Drivenik, das im Regen noch trutziger wirkt. Entlang des Tribalj-Sees tanzen die Tropfen auf der Wasseroberfläche, während wir die Aussicht aus dem warmen Auto genießen. Mittags kehren wir in ein gemütliches Restaurant in Tribalj ein. Die Fahrt nach Bribir führt über kurvige Bergstraßen, die im Dunst verschwinden, bevor wir den Tag an einem windgeschützten Aussichtspunkt ausklingen lassen.",
+            "hu": "Az utazás a ködbe vesző driveniki várnál kezdődik, amely az esőben még zordabbnak tűnik. A Tribalj-tó partján a vízcseppek táncolnak a felszínen, miközben mi a fűtött autóból csodáljuk a tájat. Ebédre egy barátságos tribalji étterembe térünk be. A Bribirbe vezető út szerpentinjei misztikusan tűnnek el a párában, majd a napot egy szélvédett kilátópontnál zárjuk.",
+            "ro": "Călătoria începe la castelul Drivenik învăluit în ceață, care pare și mai impunător în ploaie. De-a lungul lacului Tribalj, picăturile dansează pe suprafața apei, în timp ce noi admirăm peisajul din mașina caldă. La prânz oprim la un restaurant primitor în Tribalj. Drumul spre Bribir trece prin serpentine care dispar în negură, înainte de a încheia ziua la un punct de belvedere ferit de vânt.",
+            "en": "The drive begins at the mist-covered Drivenik Castle, appearing even more formidable in the rain. Along Lake Tribalj, droplets dance on the water as we enjoy the view from the warm car. At noon, we stop at a cozy restaurant in Tribalj. The drive to Bribir leads through mountain curves vanishing into the haze, before ending the day at a wind-sheltered viewpoint."
+          },
+          "stops": [
+            {
+              "name": "Kaštel Drivenik",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az ázást.",
+                "ro": "Parcați aproape de intrare pentru a nu vă uda.",
+                "en": "Park close to the entrance to avoid getting wet."
+              }
+            },
+            {
+              "name": "Dorfspaziergang Drivenik",
+              "tip_5lang": {
+                "de": "Kurzer Gang zum Fotopunkt, dann zurück ins Trockene.",
+                "hu": "Rövid séta a fotópontig, aztán irány vissza a szárazra.",
+                "ro": "Scurtă plimbare până la punctul foto, apoi înapoi la uscat.",
+                "en": "Quick walk to the photo spot, then back to the dry car."
+              }
+            },
+            {
+              "name": "Tribaljsko jezero",
+              "tip_5lang": {
+                "de": "Der Blick durch die beschlagfreien Scheiben ist am besten.",
+                "hu": "A kilátás a páramentesített ablakokon keresztül a legjobb.",
+                "ro": "Vederea prin geamurile dezaburite este cea mai bună.",
+                "en": "The view through defogged windows is best."
+              }
+            },
+            {
+              "name": "Mittagessen in Tribalj",
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Gästeparkplatz, falls vorhanden.",
+                "hu": "Használja a fedett vendégparkolót, ha van ilyen.",
+                "ro": "Folosiți parcarea acoperită pentru oaspeți, dacă există.",
+                "en": "Use the covered guest parking if available."
+              }
+            },
+            {
+              "name": "Kula Turan (Bribir)",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum im Turm, um trocken zu bleiben.",
+                "hu": "Látogassa meg a torony múzeumát, hogy száraz maradjon.",
+                "ro": "Vizitați muzeul din turn pentru a rămâne uscat.",
+                "en": "Visit the museum inside the tower to stay dry."
+              }
+            },
+            {
+              "name": "Altstadt-Rundgang Bribir",
+              "tip_5lang": {
+                "de": "Die engen Gassen bieten etwas Schutz vor dem Wind.",
+                "hu": "A szűk utcák némi védelmet nyújtanak a szél ellen.",
+                "ro": "Străzile înguste oferă puțină protecție împotriva vântului.",
+                "en": "The narrow alleys offer some protection from the wind."
+              }
+            },
+            {
+              "name": "Oči Vinodola (Aussichtspunkt)",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie das Panorama.",
+                "hu": "Heves esőben maradjon az autóban, és onnan csodálja a panorámát.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină pentru panoramă.",
+                "en": "In heavy rain, stay in the car and enjoy the panorama from there."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Hang",
+              "tip_5lang": {
+                "de": "Die Scheinwerfer helfen auf den nebligen Bergstraßen.",
+                "hu": "A fényszórók sokat segítenek a ködös hegyi utakon.",
+                "ro": "Farurile ajută pe drumurile montane cețoase.",
+                "en": "Headlights are essential on the misty mountain roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt in die Berge.",
+              "Achten Sie auf Steinschlag nach starken Regenfällen.",
+              "Die Bergstraßen können bei Nässe rutschig sein.",
+              "Halten Sie die Fenster für die beste Sicht beschlagfrei."
+            ],
+            "hu": [
+              "Ellenőrizze az ablaktörlőket a hegyi út előtt.",
+              "Heves esőzés után figyeljen az esetleges kőomlásokra.",
+              "A hegyi utak vizesen csúszósak lehetnek.",
+              "Tartsa párátlanul az ablakokat a legjobb kilátásért."
+            ],
+            "ro": [
+              "Verificați ștergătoarele înainte de drumul la munte.",
+              "Atenție la căderile de pietre după ploi torențiale.",
+              "Drumurile montane pot fi alunecoase pe carosabil umed.",
+              "Mențineți geamurile dezaburite pentru cea mai bună vizibilitate."
+            ],
+            "en": [
+              "Check your wipers before heading into the mountains.",
+              "Watch out for rockfalls after heavy rain.",
+              "Mountain roads can be slippery when wet.",
+              "Keep windows defogged for the best panoramic views."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger, aber frostiger Wintermorgen führt uns zum Kaštel Drivenik, dessen Mauern in der tiefstehenden Sonne glänzen. Der Tribalj-See wirkt im Winterlicht wie ein Spiegel, umrahmt von kahlen Bergen. Mittags genießen wir die Wärme eines Kaminfeuers in einem lokalen Gasthaus. Am Nachmittag erkunden wir das ruhige Bribir, bevor wir rechtzeitig zum Sonnenuntergang an den 'Augen von Vinodol' eintreffen, um das Alpenglühen zu beobachten.",
+            "hu": "A napos, de fagyos téli reggel a driveniki várhoz vezet, melynek falai ragyognak az alacsonyan járó napfényben. A Tribalj-tó a téli fényben tükörként fest a kopár hegyek ölelésében. Ebédre egy helyi vendéglő kandallójának tüzénél melegszünk fel. Délután a csendes Bribirt fedezzük fel, majd időben érkezünk az Oči Vinodola kilátóhoz, hogy elkapjuk a hegyek feletti alkonypírt.",
+            "ro": "O dimineață de iarnă însorită, dar geroasă, ne duce la castelul Drivenik, ale cărui ziduri strălucesc în soarele de joasă altitudine. Lacul Tribalj arată ca o oglindă în lumina iernii, încadrat de munți golași. La prânz, ne bucurăm de căldura unui șemineu într-un han local. După-amiaza explorăm liniștitul Bribir, înainte de a ajunge la timp pentru apus la belvedere.",
+            "en": "A sunny but frosty winter morning leads us to Drivenik Castle, its walls glistening in the low sun. Lake Tribalj acts like a mirror in the winter light, framed by barren mountains. At noon, we enjoy the warmth of a fireplace in a local inn. In the afternoon, we explore quiet Bribir, arriving just in time at the 'Eyes of Vinodol' to catch the sunset glow."
+          },
+          "stops": [
+            {
+              "name": "Kaštel Drivenik",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten auf dem unbefestigten Parkplatz.",
+                "hu": "Vigyázzon a jégfoltokkal a burkolatlan parkolóban.",
+                "ro": "Atenție la porțiunile de gheață din parcarea neasfaltată.",
+                "en": "Watch out for icy patches in the unpaved parking lot."
+              }
+            },
+            {
+              "name": "Dorfspaziergang Drivenik",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet beim Fahren.",
+                "hu": "A téli nap alacsonyan jár és vezetés közben vakíthat.",
+                "ro": "Soarele de iarnă este jos și poate fi orbitor la volan.",
+                "en": "The winter sun is low and can be blinding while driving."
+              }
+            },
+            {
+              "name": "Tribaljsko jezero",
+              "tip_5lang": {
+                "de": "Die Luft am See ist deutlich kälter als im Auto.",
+                "hu": "A tóparti levegő jóval hidegebb, mint az autóban.",
+                "ro": "Aerul de lângă lac este mult mai rece decât în mașină.",
+                "en": "The air by the lake is significantly colder than in the car."
+              }
+            },
+            {
+              "name": "Mittagessen in Tribalj",
+              "tip_5lang": {
+                "de": "Wählen Sie ein warmes Gericht zur Stärkung.",
+                "hu": "Válasszon egy forró ételt az átmelegedéshez.",
+                "ro": "Alegeți un fel de mâncare cald pentru revigorare.",
+                "en": "Choose a hot dish to warm up properly."
+              }
+            },
+            {
+              "name": "Kula Turan (Bribir)",
+              "tip_5lang": {
+                "de": "Der Aufstieg im Turm ist im Winter sehr zugig.",
+                "hu": "A toronyba vezető lépcsőház télen huzatos lehet.",
+                "ro": "Urcarea în turn este foarte expusă curentului iarna.",
+                "en": "The climb inside the tower is very drafty in winter."
+              }
+            },
+            {
+              "name": "Altstadt-Rundgang Bribir",
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Licht in den engen Gassen.",
+                "hu": "Használja ki az utolsó fényeket a szűk utcákban.",
+                "ro": "Profitați de ultima lumină în străzile înguste.",
+                "en": "Make the most of the remaining light in the alleys."
+              }
+            },
+            {
+              "name": "Oči Vinodola (Aussichtspunkt)",
+              "tip_5lang": {
+                "de": "Bringen Sie eine Decke mit, wenn Sie länger bleiben.",
+                "hu": "Vigyen magával takarót, ha tovább maradna.",
+                "ro": "Aduceți o pătură dacă doriți să stați mai mult.",
+                "en": "Bring a blanket if you plan to stay for a while."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Hang",
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang sinken die Temperaturen rapide.",
+                "hu": "Naplemente után a hőmérséklet gyorsan zuhanni kezd.",
+                "ro": "După apus, temperaturile scad rapid.",
+                "en": "Temperatures drop rapidly once the sun sets."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Frostschutzmittel für die Scheibenwaschanlage ist wichtig.",
+              "Winterreifen sind auf den Bergstraßen gesetzlich vorgeschrieben.",
+              "Starten Sie vor 10 Uhr, um das Tageslicht zu nutzen.",
+              "Ein Eiskratzer sollte griffbereit im Auto liegen."
+            ],
+            "hu": [
+              "A fagyálló ablakmosó folyadék elengedhetetlen.",
+              "A hegyi utakon kötelező a téli gumi.",
+              "Induljon 10 óra előtt, hogy kihasználja a nappali fényt.",
+              "A jégkaparó legyen kéznél az autóban."
+            ],
+            "ro": [
+              "Lichidul de parbriz antigel este esențial.",
+              "Anvelopele de iarnă sunt obligatorii pe drumurile montane.",
+              "Porniți înainte de ora 10 pentru a profita de lumina zilei.",
+              "Răzuitoarea de gheață trebuie să fie la îndemână în mașină."
+            ],
+            "en": [
+              "Anti-freeze windshield fluid is essential for the trip.",
+              "Winter tires are mandatory on mountain roads.",
+              "Start before 10 AM to make the most of the daylight.",
+              "Keep an ice scraper handy in the car."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -714,6 +1114,188 @@
           "Check your brakes before the descents into the valley.",
           "The route along the valley floor is mostly flat."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Tour zum Kaštel Drivenik, ausgerüstet mit voller Regenmontur. Die Fahrt zum Tribalj-See ist erfrischend, doch auf den nassen Straßen ist erhöhte Vorsicht geboten. Das Picknick verlegen wir unter ein schützendes Vordach am Ufer. Nachmittags erklimmen wir den Hügel nach Bribir, wo ein heißer Espresso in einer Bar die Lebensgeister weckt, bevor wir die kurze Abfahrt im Nieselregen antreten.",
+            "hu": "Az eső ellenére nekivágunk a driveniki várnak, teljes esőfelszerelésben. A Tribalj-tóhoz vezető út frissítő, de a vizes aszfalton fokozott óvatosságra van szükség. A pikniket a tóparti fedett beálló alá helyezzük át. Délután feltekerünk Bribirbe, ahol egy forró eszpresszó ad új erőt, mielőtt megkezdenénk a rövid ereszkedést a szemerkélő esőben.",
+            "ro": "În ciuda ploii, începem turul spre castelul Drivenik, echipați complet. Drumul spre lacul Tribalj este revigorant, dar este necesară prudență sporită pe asfaltul umed. Mutăm picnicul sub un adăpost de pe malul lacului. După-amiaza urcăm spre Bribir, unde un espresso fierbinte ne revigorează înainte de coborârea scurtă prin ploaia măruntă.",
+            "en": "Despite the rain, we start our tour to Drivenik Castle fully equipped with rain gear. The ride to Lake Tribalj is refreshing, but increased caution is needed on wet roads. We move our picnic under a shelter by the shore. In the afternoon, we pedal up to Bribir, where a hot espresso re-energizes us before the short descent in the drizzle."
+          },
+          "stops": [
+            {
+              "name": "Kaštel Drivenik",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, das Kopfsteinpflaster ist rutschig.",
+                "hu": "Vigyázzon a leszállásnál, a macskakő nagyon csúszik.",
+                "ro": "Atenție la descălecare, pavajul este alunecos.",
+                "en": "Be careful when dismounting; the cobblestones are slippery."
+              }
+            },
+            {
+              "name": "Tribaljsko jezero",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in der Fischerhütte bei Schauern.",
+                "hu": "Zápor esetén keressen menedéket a horgászházban.",
+                "ro": "Căutați adăpost în coliba pescarilor în caz de aversă.",
+                "en": "Seek shelter in the fishing hut during heavy showers."
+              }
+            },
+            {
+              "name": "Picknick am See",
+              "tip_5lang": {
+                "de": "Verwenden Sie eine wasserfeste Sitzunterlage.",
+                "hu": "Használjon vízhatlan ülőalátétet a padokon.",
+                "ro": "Folosiți o protecție impermeabilă pentru șezut pe bănci.",
+                "en": "Use a waterproof seat pad for the benches."
+              }
+            },
+            {
+              "name": "Kula Turan (Bribir)",
+              "tip_5lang": {
+                "de": "Fahrradständer sind oft ungeschützt, Schloss gut ölen.",
+                "hu": "A biciklitárolók fedetlenek, olajozza meg a zárat.",
+                "ro": "Suporturile de biciclete sunt adesea neacoperite, ungeți bine antifurtul.",
+                "en": "Bike racks are often uncovered; keep your lock well-oiled."
+              }
+            },
+            {
+              "name": "Eispause im Zentrum",
+              "tip_5lang": {
+                "de": "Tauschen Sie das Eis gegen einen warmen Strudel.",
+                "hu": "Cserélje a fagyit egy meleg almás rétesre.",
+                "ro": "Înlocuiți înghețata cu un ștrudel cald.",
+                "en": "Swap the ice cream for a warm strudel instead."
+              }
+            },
+            {
+              "name": "Ausklang am Dorfplatz",
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel vor der Abfahrt trocken.",
+                "hu": "Indulás előtt törölje szárazra a nyerget.",
+                "ro": "Ștergeți șaua înainte de plecare.",
+                "en": "Wipe your saddle dry before heading out."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche verhindern, dass Wasser vom Reifen hochspritzt.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip.",
+              "Bremsen Sie auf nassem Asphalt frühzeitig und sanft.",
+              "Wasserdichte Handschuhe halten die Finger beweglich."
+            ],
+            "hu": [
+              "A sárvédők megakadályozzák a víz felcsapódását.",
+              "Csökkentse kicsit a guminyomást a jobb tapadásért.",
+              "Vizes úton fékezzen időben és finoman.",
+              "A vízálló kesztyűk melegen tartják az ujjakat."
+            ],
+            "ro": [
+              "Apărătorile previn stropirea cu apă de la anvelope.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună.",
+              "Frânați din timp și ușor pe asfaltul umed.",
+              "Mănușile impermeabile mențin degetele mobile."
+            ],
+            "en": [
+              "Mudguards are essential to prevent water from splashing up.",
+              "Slightly reduce tire pressure for better grip on wet roads.",
+              "Brake early and gently on damp asphalt.",
+              "Waterproof gloves keep your fingers nimble for braking."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour erfordert Kraft und Ausdauer bei frostigen Temperaturen. Das Kaštel Drivenik wirkt in der klaren Luft messerscharf gezeichnet. Die Fahrt zum See kühlt den Körper aus, weshalb wir das Picknick durch eine kurze Pause mit heißem Tee ersetzen. Der Anstieg nach Bribir hilft, die Körpertemperatur zu halten. Im Zentrum belohnen wir uns mit einem warmen Getränk, bevor wir vor der frühen Dämmerung zurückkehren.",
+            "hu": "A téli túra erőt és kitartást igényel a fagyos időben. A driveniki vár körvonalai élesen rajzolódnak ki a tiszta levegőben. A tóhoz vezető út lehűti a testet, ezért a pikniket forró teás pihenőre cseréljük. A Bribirbe vezető emelkedő segít testhőnk megtartásában. A központban egy meleg itallal jutalmazzuk magunkat, mielőtt a korai szürkület beállna.",
+            "ro": "Turul de iarnă necesită forță și rezistență la temperaturi scăzute. Castelul Drivenik apare clar conturat în aerul tăios. Drumul spre lac răcește corpul, așa că înlocuim picnicul cu o scurtă pauză cu ceai fierbinte. Urcarea spre Bribir ajută la menținerea temperaturii corpului. În centru ne recompensăm cu o băutură caldă înainte de amurgul timpuriu.",
+            "en": "The winter tour demands strength and stamina in frosty temperatures. Drivenik Castle stands sharply defined in the clear air. The ride to the lake chills the body, so we swap the picnic for a quick break with hot tea. The climb to Bribir helps maintain body heat. In the center, we reward ourselves with a warm drink before returning before the early dusk."
+          },
+          "stops": [
+            {
+              "name": "Kaštel Drivenik",
+              "tip_5lang": {
+                "de": "Vorsicht vor Raureif auf schattigen Straßenabschnitten.",
+                "hu": "Vigyázzon a zúzmarás útszakaszokkal az árnyékos részeken.",
+                "ro": "Atenție la chiciura de pe secțiunile de drum umbrite.",
+                "en": "Watch out for hoarfrost on shaded sections of the road."
+              }
+            },
+            {
+              "name": "Tribaljsko jezero",
+              "tip_5lang": {
+                "de": "Der kalte Wind am Wasser erfordert Windstopper-Kleidung.",
+                "hu": "A vízparti hideg szél miatt szélálló ruházat kell.",
+                "ro": "Vântul rece de lângă apă necesită haine anti-vânt.",
+                "en": "Cold winds by the water require windstopper clothing."
+              }
+            },
+            {
+              "name": "Picknick am See",
+              "tip_5lang": {
+                "de": "Halten Sie die Pause kurz, um nicht auszukühlen.",
+                "hu": "Tartsa röviden a pihenőt, nehogy kihűljön.",
+                "ro": "Țineți pauza scurtă pentru a nu vă răci.",
+                "en": "Keep the break short to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Kula Turan (Bribir)",
+              "tip_5lang": {
+                "de": "Dehnen Sie sich kurz, um die Muskeln warm zu halten.",
+                "hu": "Nyújtson egy kicsit, hogy melegen tartsa az izmait.",
+                "ro": "Faceți câteva exerciții de stretching pentru a menține mușchii calzi.",
+                "en": "Do some quick stretches to keep your muscles warm."
+              }
+            },
+            {
+              "name": "Eispause im Zentrum",
+              "tip_5lang": {
+                "de": "Ein heißer Kakao ist jetzt die bessere Wahl.",
+                "hu": "Egy forró kakaó most sokkal jobb választás.",
+                "ro": "O ciocolată caldă este o alegere mai bună acum.",
+                "en": "A hot cocoa is a much better choice right now."
+              }
+            },
+            {
+              "name": "Ausklang am Dorfplatz",
+              "tip_5lang": {
+                "de": "Licht an! Die Sicht lässt im Winter früh nach.",
+                "hu": "Lámpákat fel! Télen korán romlanak a látási viszonyok.",
+                "ro": "Aprindeți luminile! Vizibilitatea scade devreme iarna.",
+                "en": "Lights on! Visibility drops very early in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Einlegesohlen gegen die Kälte.",
+              "Ein Multifunktionstuch schützt Gesicht und Hals vor Fahrtwind.",
+              "Überprüfen Sie die Akkulaufzeit Ihrer Beleuchtung bei Kälte.",
+              "Trinken Sie regelmäßig, auch wenn Sie weniger Durst verspüren."
+            ],
+            "hu": [
+              "Használjon termobetétet a cipőjében a hideg ellen.",
+              "Egy csősál védi az arcot és a nyakat a menetszéltől.",
+              "Ellenőrizze a lámpák akkumulátorát, hidegben gyorsabban merülnek.",
+              "Igyon rendszeresen, akkor is, ha kevésbé szomjas."
+            ],
+            "ro": [
+              "Purtați branțuri termice împotriva frigului.",
+              "O eșarfă multifuncțională protejează fața și gâtul de curent.",
+              "Verificați autonomia bateriei luminilor la frig.",
+              "Beți apă regulat, chiar dacă nu simțiți setea atât de tare."
+            ],
+            "en": [
+              "Wear thermal insoles to protect against the cold pedals.",
+              "A neck gaiter protects your face and neck from the wind chill.",
+              "Check battery levels on your lights; cold drains them faster.",
+              "Drink regularly, even if you don't feel thirsty in the cold."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -938,6 +1520,188 @@
           "Bus connections are limited on weekends.",
           "Ask the driver for the 'Tribalj Centar' stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Bus bringt uns sicher durch den Regen nach Bribir. Während die Tropfen gegen die Scheiben trommeln, erkunden wir die Kula Turan, die heute als stabiler Rückzugsort dient. Mittags genießen wir die Gastfreundschaft im Ortskern, bevor wir den Bus zum Tribalj-See nehmen. Dort beobachten wir das Wetterspiel über dem Wasser von einer geschützten Haltestelle aus, bevor wir die Rückreise im warmen Bus antreten.",
+            "hu": "A busz biztonságban visz át minket az esőn Bribirbe. Miközben a cseppek dobolnak az ablakon, felfedezzük a Kula Turant, amely ma biztos menedékként szolgál. Ebédre a központ vendégszeretetét élvezzük, majd busszal megyünk a Tribalj-tóhoz. Ott egy fedett megállóból figyeljük az elemek játékát a víz felett, mielőtt a fűtött busszal visszaindulnánk.",
+            "ro": "Autobuzul ne duce în siguranță prin ploaie la Bribir. În timp ce picăturile bat în geamuri, explorăm turnul Kula Turan, care servește drept refugiu solid astăzi. La prânz ne bucurăm de ospitalitatea din centru, înainte de a lua autobuzul spre lacul Tribalj. Acolo observăm spectacolul vremii de la o stație protejată înainte de întoarcere.",
+            "en": "The bus carries us safely through the rain to Bribir. As droplets drum against the windows, we explore Kula Turan, which serves as a sturdy retreat today. At noon, we enjoy the local hospitality in the center before taking the bus to Lake Tribalj. There, we watch the weather over the water from a sheltered stop before heading back in the warm bus."
+          },
+          "stops": [
+            {
+              "name": "Ankunft in Bribir",
+              "tip_5lang": {
+                "de": "Warten Sie im Wartehäuschen, bis der Schauer nachlässt.",
+                "hu": "Várjon a buszmegállóban, amíg alábbhagy a zápor.",
+                "ro": "Așteptați în stație până când trece aversa.",
+                "en": "Wait in the bus shelter until the shower lets up."
+              }
+            },
+            {
+              "name": "Kula Turan (Bribir)",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint von der Haltestelle zum Turm hält trocken.",
+                "hu": "Egy gyors sprint a megállótól a toronyig, és száraz marad.",
+                "ro": "Un sprint scurt de la stație la turn vă menține uscat.",
+                "en": "A quick sprint from the stop to the tower keeps you dry."
+              }
+            },
+            {
+              "name": "Ebéd a centrumban",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch fernab der zugigen Eingangstür.",
+                "hu": "Foglaljon asztalt távol a huzatos bejárati ajtótól.",
+                "ro": "Rezervați o masă departe de ușa de la intrare.",
+                "en": "Book a table away from the drafty entrance door."
+              }
+            },
+            {
+              "name": "Tribaljsko jezero",
+              "tip_5lang": {
+                "de": "Die Haltestelle am See bietet guten Schutz vor Wind.",
+                "hu": "A tóparti megálló jó védelmet nyújt a szél ellen.",
+                "ro": "Stația de lângă lac oferă o protecție bună împotriva vântului.",
+                "en": "The stop by the lake offers good shelter from the wind."
+              }
+            },
+            {
+              "name": "Pauză de cafea la Tribalj",
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem nächsten Bus, um pünktlich zu sein.",
+                "hu": "Érdeklődjön a következő buszról, hogy pontos legyen.",
+                "ro": "Întrebați de următorul autobuz pentru a fi punctuali.",
+                "en": "Ask about the next bus to ensure you are on time."
+              }
+            },
+            {
+              "name": "Rückfahrt Vorbereitung",
+              "tip_5lang": {
+                "de": "Halten Sie Ihr Ticket griffbereit, um im Regen nicht zu suchen.",
+                "hu": "Legyen kéznél a jegy, ne az esőben kelljen keresgélni.",
+                "ro": "Țineți biletul la îndemână pentru a nu-l căuta în ploaie.",
+                "en": "Keep your ticket handy so you don't have to search in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App für Echtzeit-Businformationen.",
+              "Tragen Sie wasserfeste Kleidung für die Wege zwischen den Stopps.",
+              "Die Busse können bei Regen beschlagene Fenster haben.",
+              "Planen Sie Pufferzeiten für wetterbedingte Verspätungen ein."
+            ],
+            "hu": [
+              "Használja az applikációt a valós idejű buszinformációkért.",
+              "Viseljen vízálló ruhát a megállók közötti szakaszokra.",
+              "Esőben a buszok ablakai párásak lehetnek.",
+              "Számoljon rá az időre az időjárás okozta késések miatt."
+            ],
+            "ro": [
+              "Folosiți aplicația pentru informații în timp real despre autobuze.",
+              "Purtați haine impermeabile pentru distanțele dintre stații.",
+              "Autobuzele pot avea geamurile aburite pe timp de ploaie.",
+              "Prevedeți timp suplimentar pentru eventuale întârzieri."
+            ],
+            "en": [
+              "Use the local app for real-time bus tracking.",
+              "Wear waterproof clothing for the walks between stops.",
+              "Bus windows may be fogged up during heavy rain.",
+              "Allow extra time for weather-related traffic delays."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintertag bringt uns der Bus nach Bribir, wo wir die friedliche Stille des Ortes genießen. Die Kula Turan bietet Schutz vor dem kalten Nordwind. Mittags wärmen wir uns in einem Restaurant auf, bevor wir zum Tribalj-See weiterfahren. Das klare Licht am See ist im Winter einzigartig. Bevor es zu kalt wird, nehmen wir den Nachmittagsbus zurück und genießen die vorbeiziehende Winterlandschaft.",
+            "hu": "Egy tiszta téli napon a busz Bribirbe visz minket, ahol élvezzük a falu békés csendjét. A Kula Turan védelmet nyújt a hideg északi szél ellen. Ebédre egy étteremben melegszünk fel, majd továbbutazunk a Tribalj-tóhoz. A tó feletti éles fények télen egyedülállóak. Mielőtt túl hideg lenne, a délutáni busszal indulunk vissza, csodálva a téli tájat.",
+            "ro": "Într-o zi senină de iarnă, autobuzul ne duce la Bribir, unde ne bucurăm de liniștea pașnică a locului. Turnul oferă protecție împotriva vântului rece de nord. La prânz ne încălzim într-un restaurant, înainte de a continua spre lacul Tribalj. Lumina clară de la lac este unică iarna. Înainte de a se face prea frig, luăm autobuzul de după-amiază înapoi.",
+            "en": "On a clear winter day, the bus takes us to Bribir, where we enjoy the peaceful silence of the village. Kula Turan offers shelter from the cold north wind. At noon, we warm up in a restaurant before continuing to Lake Tribalj. The crisp light over the lake is unique in winter. Before it gets too cold, we take the afternoon bus back, enjoying the passing winter scenery."
+          },
+          "stops": [
+            {
+              "name": "Ankunft in Bribir",
+              "tip_5lang": {
+                "de": "Die Busse sind im Winter meist gut geheizt.",
+                "hu": "A buszok télen általában jól fűtöttek.",
+                "ro": "Autobuzele sunt de obicei bine încălzite iarna.",
+                "en": "Buses are usually well-heated during the winter months."
+              }
+            },
+            {
+              "name": "Kula Turan (Bribir)",
+              "tip_5lang": {
+                "de": "Vorsicht vor glatten Stufen an der Haltestelle.",
+                "hu": "Vigyázzon a csúszós lépcsőkkel a megállónál.",
+                "ro": "Atenție la treptele alunecoase de la stație.",
+                "en": "Watch out for slippery steps at the bus stop."
+              }
+            },
+            {
+              "name": "Ebéd a centrumban",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneiten Berge (falls vorhanden).",
+                "hu": "Élvezze a kilátást a havas hegyekre (ha van hó).",
+                "ro": "Bucurați-vă de vederea spre munții înzăpeziți (dacă există).",
+                "en": "Enjoy the view of the snow-capped mountains (if any)."
+              }
+            },
+            {
+              "name": "Tribaljsko jezero",
+              "tip_5lang": {
+                "de": "Die Wartezeit am See kann im Wind sehr kalt sein.",
+                "hu": "A várakozási idő a tónál a szélben nagyon hideg lehet.",
+                "ro": "Timpul de așteptare la lac poate fi foarte rece din cauza vântului.",
+                "en": "Waiting time at the lake can be very cold in the wind."
+              }
+            },
+            {
+              "name": "Pauză de cafea la Tribalj",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Café als warmen Wartesaal.",
+                "hu": "Használja a kávézót meleg váróteremként.",
+                "ro": "Folosiți cafeneaua ca o sală de așteptare caldă.",
+                "en": "Use the cafe as a warm waiting room."
+              }
+            },
+            {
+              "name": "Rückfahrt Vorbereitung",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Winterfahrplan, manche Linien fahren seltener.",
+                "hu": "Ellenőrizze a téli menetrendet, egyes járatok ritkábban járnak.",
+                "ro": "Verificați mersul autobuzelor iarna, unele linii circulă mai rar.",
+                "en": "Check the winter schedule; some lines may run less frequently."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie mögliche Fahrplanänderungen im Winter.",
+              "Halten Sie sich während der Wartezeit in Innenräumen auf.",
+              "Tragen Sie warme Schuhe, da Busbahnhöfe oft zugig sind.",
+              "Ein heißes Getränk verkürzt die gefühlte Wartezeit."
+            ],
+            "hu": [
+              "Ügyeljen az esetleges téli menetrend-változásokra.",
+              "A várakozási időt töltse inkább beltéren.",
+              "Viseljen meleg cipőt, a buszvárók gyakran huzatosak.",
+              "Egy forró ital lerövidíti a várakozás érzetét."
+            ],
+            "ro": [
+              "Atenție la posibilele modificări de program pe timp de iarnă.",
+              "Stați în interior în timpul perioadelor de așteptare.",
+              "Purtați încălțăminte călduroasă, stațiile sunt adesea expuse curentului.",
+              "O băutură caldă scurtează timpul de așteptare resimțit."
+            ],
+            "en": [
+              "Be aware of potential winter schedule changes.",
+              "Stay indoors as much as possible while waiting for the bus.",
+              "Wear warm shoes, as bus stations can be very drafty.",
+              "A hot drink makes the waiting time feel much shorter."
+            ]
+          }
+        }
       }
     }
   }

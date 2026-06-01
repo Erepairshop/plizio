@@ -308,6 +308,206 @@
           "Some streets are cobbled, so wear comfortable walking shoes.",
           "Combine your visit with a bike ride through the Istrian hinterland."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt gemütlich in einem Café am Hauptplatz, während der Regen auf das Kopfsteinpflaster trommelt. Danach bieten die barocke Pfarrkirche und die Kapelle der Heiligen Dreifaltigkeit perfekten Schutz und kulturelle Tiefe.\n\nMittags führt der Weg zum Kaštel, wo die massiven Mauern Geborgenheit vermitteln. Ein ausgiebiges Mittagessen in einer warmen Konoba lässt das Wetter draußen vergessen.\n\nAm Nachmittag vertiefen wir uns in der Čakavska kuća in die lokale Mundart und Geschichte, bevor ein kurzer, erfrischender Spaziergang unter dem Regenschirm entlang der alten Stadtmauern den Tag abrundet.\n\nDer Abend klingt bei einem Glas istrischen Wein aus, während die beleuchteten Gassen von Žminj im Regen glänzen.",
+            "hu": "A reggel kényelmesen indul a főtéri kávézóban, miközben az eső kopog a macskaköveken. A barokk plébániatemplom és a Szentháromság-kápolna ezután tökéletes menedéket és kulturális élményt nyújt.\n\nDélben az út a várba (Kaštel) vezet, ahol a masszív falak biztonságot árasztanak. Egy bőséges ebéd egy meleg konobában elfeledteti a kinti barátságtalan időt.\n\nDélután a Čakavska kućában merülünk el a helyi nyelvjárásban és történelemben, majd egy rövid, frissítő séta az esernyő alatt a régi városfalak mentén zárja a napot.\n\nAz este egy pohár isztriai bor mellett ér véget, miközben Žminj kivilágított utcái csillognak az esőben.",
+            "ro": "Dimineața începe confortabil într-o cafenea din piața centrală, în timp ce ploaia bate în pavaj. Biserica parohială barocă și Capela Sfintei Treimi oferă apoi adăpost perfect și profunzime culturală.\n\nLa prânz, drumul duce la Kaštel, unde zidurile masive transmit siguranță. Un prânz prelungit într-o konoba caldă vă face să uitați de vremea de afară.\n\nDupă-amiaza ne cufundăm în dialectul și istoria locală la Čakavska kuća, înainte ca o scurtă plimbare revigorantă sub umbrelă de-a lungul zidurilor vechi să încheie ziua.\n\nSeara se încheie cu un pahar de vin istrian, în timp ce străzile iluminate din Žminj strălucesc sub ploaie.",
+            "en": "The morning starts cozily in a cafe on the main square while rain drums on the cobblestones. The baroque parish church and the Chapel of the Holy Trinity then offer perfect shelter and cultural depth.\n\nAt noon, the path leads to the Kaštel, where the massive walls provide a sense of security. A leisurely lunch in a warm konoba makes you forget the weather outside.\n\nIn the afternoon, we immerse ourselves in local dialect and history at Čakavska kuća, before a short, refreshing walk under the umbrella along the old town walls rounds off the day.\n\nThe evening ends with a glass of Istrian wine, while the illuminated streets of Žminj glisten in the rain."
+          },
+          "stops": [
+            {
+              "name": "Hauptplatz und Kaffee-Pause",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Tisch am Fenster, um das Regenwetter trocken zu beobachten.",
+                "hu": "Válasszon ablak melletti asztalt, hogy szárazon figyelhesse az esőt.",
+                "ro": "Alegeți o masă la fereastră pentru a observa ploaia stând la adăpost.",
+                "en": "Choose a table by the window to watch the rain from a dry spot."
+              }
+            },
+            {
+              "name": "Župna crkva sv. Mihovila",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille der Kirche für eine längere Besichtigung im Trockenen.",
+                "hu": "Használja ki a templom csendjét egy hosszabb, száraz látogatásra.",
+                "ro": "Profitați de liniștea bisericii pentru o vizită prelungită la uscat.",
+                "en": "Take advantage of the church's silence for a longer dry visit."
+              }
+            },
+            {
+              "name": "Kapela sv. Trojstva",
+              "tip_5lang": {
+                "de": "Ein schneller Sprint zur Kapelle lohnt sich für die Fresken.",
+                "hu": "Egy gyors sprint a kápolnához megéri a freskók látványáért.",
+                "ro": "Un sprint rapid până la chapelă merită pentru vizionarea frescelor.",
+                "en": "A quick sprint to the chapel is worth it for the frescoes."
+              }
+            },
+            {
+              "name": "Kaštel",
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten Feuchtigkeit und Kälte draußen.",
+                "hu": "A vastag falak kívül tartják a nedvességet és a hideget.",
+                "ro": "Zidurile groase țin umiditatea și frigul la distanță.",
+                "en": "The thick walls keep moisture and cold outside."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie eine warme Maneštra, das beste Heilmittel gegen Regenwetter.",
+                "hu": "Kóstoljon meg egy meleg maneštrát, a legjobb gyógyír esős időre.",
+                "ro": "Încercați o Maneštra caldă, cel mai bun remediu împotriva ploii.",
+                "en": "Try a warm maneštra, the best remedy for rainy weather."
+              }
+            },
+            {
+              "name": "Čakavska kuća",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die lokale Kultur ohne Regenschirm zu erleben.",
+                "hu": "Tökéletes hely a helyi kultúra felfedezésére esernyő nélkül.",
+                "ro": "Locul perfect pentru a experimenta cultura locală fără umbrelă.",
+                "en": "Perfect place to experience local culture without an umbrella."
+              }
+            },
+            {
+              "name": "Spaziergang entlang alter Steinmauern",
+              "tip_5lang": {
+                "de": "Vorsicht auf glitschigen Steinen, festes Schuhwerk ist wichtig.",
+                "hu": "Vigyázat a csúszós köveken, a stabil lábbeli fontos.",
+                "ro": "Atenție la pietrele alunecoase, încălțămintea stabilă este importantă.",
+                "en": "Watch out for slippery stones; sturdy footwear is essential."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe, da die alten Steine bei Nässe sehr rutschig werden.",
+              "Ein stabiler Regenschirm ist in den engen Gassen von Žminj praktischer als ein Regenponcho.",
+              "Die meisten Sehenswürdigkeiten sind nah beieinander, man ist nie lange dem Regen ausgesetzt.",
+              "In den Konobas gibt es oft Haken zum Trocknen der nassen Kleidung."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt, mert a régi kövek vizesen nagyon csúszóssá válnak.",
+              "Egy stabil esernyő Žminj szűk utcáin praktikusabb, mint egy esőponcsó.",
+              "A legtöbb látnivaló közel van egymáshoz, sosem kell sokáig az esőben tartózkodni.",
+              "A konobákban gyakran vannak akasztók a nedves ruhák szárítására."
+            ],
+            "ro": [
+              "Purtați pantofi de trekking impermeabili, deoarece pietrele vechi devin foarte alunecoase.",
+              "O umbrelă stabilă este mai practică pe străzile înguste din Žminj decât o pelerină.",
+              "Majoritatea obiectivelor sunt aproape, deci nu veți fi expuși ploii pentru mult timp.",
+              "În konobe există adesea cârlige pentru uscarea hainelor umede."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes, as the old stones become very slippery when wet.",
+              "A sturdy umbrella is more practical in the narrow streets of Žminj than a rain poncho.",
+              "Most sights are close to each other, so you are never exposed to the rain for long.",
+              "In the konobas, there are often hooks for drying wet clothes."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen weckt die Geister, während man den ersten Kaffee im Zentrum genießt. Die Kirchenbesuche bieten einen Moment der Stille und Schutz vor der Kälte.\n\nMittags steht die Erkundung des Kaštels an, gefolgt von einem wärmenden Mittagessen. Die herzhafte istrimische Küche ist im Winter besonders genussvoll.\n\nDer Nachmittag gehört der Čakavska kuća, wo man sich aufwärmen und in die Sprache vertiefen kann. Der Spaziergang an den Stadtmauern bietet im schwindenden Tageslicht eine besondere Melancholie.\n\nDa die Sonne früh untergeht, endet der Tag frühzeitig in der gemütlichen Atmosphäre einer lokalen Wirtschaft bei Kerzenschein.",
+            "hu": "A reggeli tiszta téli levegő felfrissíti a lelket, miközben az első kávét fogyasztjuk a központban. A templomlátogatások a csend és a hideg elleni menedék pillanatait kínálják.\n\nDélben a vár felfedezése következik, majd egy melengető ebéd. A kiadós isztriai konyha télen különösen élvezetes.\n\nA délután a Čakavska kućáé, ahol felmelegedhetünk és elmerülhetünk a nyelvben. A városfalak menti séta a fogyatkozó nappali fényben különleges melankóliát áraszt.\n\nMivel a nap korán nyugszik, a nap hamar véget ér egy helyi vendéglő barátságos, gyertyafényes hangulatában.",
+            "ro": "Aerul curat de iarnă de dimineață revigorează spiritul în timp ce savurați prima cafea în centru. Vizitele la biserici oferă momente de liniște și protecție împotriva frigului.\n\nLa prânz urmează explorarea castelului, urmată de un prânz cald. Bucătăria istriană consistentă este deosebit de plăcută iarna.\n\nDupă-amiaza aparține Čakavska kuća, unde vă puteți încălzi și aprofunda limba. Plimbarea pe lângă ziduri oferă o melancolie specială în lumina slabă a zilei.\n\nDeoarece soarele apune devreme, ziua se încheie devreme în atmosfera primitoare a unei taverne locale, la lumina lumânărilor.",
+            "en": "The crisp winter air in the morning awakens the spirit while enjoying the first coffee in the center. Church visits offer a moment of silence and protection from the cold.\n\nAt noon, the exploration of the Kaštel is on the agenda, followed by a warming lunch. Hearty Istrian cuisine is especially enjoyable in winter.\n\nIn the afternoon, head to Čakavska kuća to warm up and dive into the language. The walk along the city walls offers a special melancholy in the fading daylight.\n\nAs the sun sets early, the day ends prematurely in the cozy atmosphere of a local tavern by candlelight."
+          },
+          "stops": [
+            {
+              "name": "Hauptplatz und Kaffee-Pause",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz in der Nähe der Heizung.",
+                "hu": "Kérjen fűtés közeli helyet.",
+                "ro": "Cereți un loc lângă sursa de căldură.",
+                "en": "Ask for a seat near the heater."
+              }
+            },
+            {
+              "name": "Župna crkva sv. Mihovila",
+              "tip_5lang": {
+                "de": "Behalten Sie Ihren Mantel an, in der Kirche kann es sehr kühl sein.",
+                "hu": "Hagyja magán a kabátot, a templomban nagyon hűvös lehet.",
+                "ro": "Păstrați haina pe dvs., în biserică poate fi destul de răcoare.",
+                "en": "Keep your coat on; it can be very chilly inside the church."
+              }
+            },
+            {
+              "name": "Kapela sv. Trojstva",
+              "tip_5lang": {
+                "de": "Das Winterlicht lässt die Farben der Fresken oft klarer erscheinen.",
+                "hu": "A téli fény gyakran tisztábbnak mutatja a freskók színeit.",
+                "ro": "Lumina de iarnă face adesea culorile frescelor să pară mai clare.",
+                "en": "The winter light often makes the colors of the frescoes appear clearer."
+              }
+            },
+            {
+              "name": "Kaštel",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Innenräume, um dem Wind zu entfliehen.",
+                "hu": "Látogasson el a belső terekbe, hogy elmeneküljön a szél elől.",
+                "ro": "Vizitați spațiile interioare pentru a scăpa de vânt.",
+                "en": "Visit the interior spaces to escape the wind."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Ein Platz am Kamin (Ognjišće) ist der Höhepunkt des Tages.",
+                "hu": "Egy hely a kandallónál (Ognjišće) a nap fénypontja.",
+                "ro": "Un loc lângă șemineu (Ognjišće) este punctul culminant al zilei.",
+                "en": "A seat by the fireplace (Ognjišće) is the highlight of the day."
+              }
+            },
+            {
+              "name": "Čakavska kuća",
+              "tip_5lang": {
+                "de": "Idealer Ort zum Aufwärmen am Nachmittag.",
+                "hu": "Ideális hely a délutáni felmelegedéshez.",
+                "ro": "Locul ideal pentru a vă încălzi după-amiaza.",
+                "en": "Ideal place to warm up in the afternoon."
+              }
+            },
+            {
+              "name": "Spaziergang entlang alter Steinmauern",
+              "tip_5lang": {
+                "de": "Starten Sie spätestens um 15:30, um das Tageslicht zu nutzen.",
+                "hu": "Induljon legkésőbb 15:30-kor, hogy kihasználja a nappali fényt.",
+                "ro": "Începeți cel târziu la 15:30 pentru a profita de lumina zilei.",
+                "en": "Start by 3:30 PM at the latest to make use of the daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung: draußen weht oft ein kalter Wind (Bura).",
+              "Die Sonne geht gegen 16:30 Uhr unter, planen Sie Ihre Außenaktivitäten davor.",
+              "Trinken Sie lokalen Medica (Honigschnaps) zum Aufwärmen.",
+              "Prüfen Sie die Winteröffnungszeiten der kleinen Museen im Voraus."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen: kint gyakran fúj a hideg szél (Bura).",
+              "A nap 16:30 körül nyugszik, a szabadtéri programokat tervezze ez elé.",
+              "Igyon helyi Medicát (mézpálinkát) a felmelegedéshez.",
+              "Előre ellenőrizze a kis múzeumok téli nyitvatartását."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi: afară suflă adesea un vânt rece (Bura).",
+              "Soarele apune în jurul orei 16:30, planificați activitățile în aer liber înainte.",
+              "Beți Medica locală (rachiu de miere) pentru a vă încălzi.",
+              "Verificați programul de iarnă al micilor muzee în avans."
+            ],
+            "en": [
+              "Use the layering principle for clothing: a cold wind (Bura) often blows outside.",
+              "The sun sets around 4:30 PM; plan your outdoor activities before then.",
+              "Drink local Medica (honey brandy) to warm up.",
+              "Check the winter opening hours of small museums in advance."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -540,6 +740,188 @@
           "A mountain bike or trekking bike is ideal for the field paths.",
           "Look out for the red and white trail markers on trees and stones."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Tour durch Žminj ihren eigenen Reiz, wenn man gut ausgerüstet ist. Der Vormittag konzentriert sich auf das Zentrum mit dem schützenden Kaštel.\n\nNach dem Besuch der Kirchen führt ein kurzer Radsprint zur Kapela sv. Trojstva, bevor wir im Grünen eine längere Pause einlegen.\n\nMittags suchen wir Zuflucht in einer Konoba, um Kleidung zu trocknen und neue Energie zu tanken.\n\nDie Tour durch die Kažuni-Landschaft am Nachmittag ist kurz, aber intensiv, wobei die Steinbauten im Regen fast mystisch wirken.",
+            "hu": "Az eső ellenére a zminji túra megőrzi varázsát, ha jól felszereltek vagyunk. A délelőtt a központra összpontosít a védelmet nyújtó várral.\n\nA templomlátogatások után egy rövid kerékpáros sprint következik a Szentháromság-kápolnához, mielőtt a zöldben tartanánk hosszabb pihenőt.\n\nDélben egy konobában keresünk menedéket, hogy megszárítsuk ruháinkat és új erőt gyűjtsünk.\n\nA délutáni Kažuni-túra rövid, de intenzív, ahol a kőépítmények az esőben szinte misztikusnak tűnnek.",
+            "ro": "În ciuda ploii, turul prin Žminj are farmecul său dacă sunteți bine echipați. Dimineața se concentrează pe centru, cu Kaštel oferind protecție.\n\nDupă vizitarea bisericilor, urmează un sprint scurt cu bicicleta până la Capela Sfintei Treimi, înainte de o pauză lungă în natură.\n\nLa prânz căutăm refugiu într-o konoba pentru a usca hainele și a ne reîncărca bateriile.\n\nTurul prin peisajul Kažuni de după-amiază este scurt, dar intens, clădirile din piatră părând aproape mistice sub ploaie.",
+            "en": "Despite the rain, the tour through Žminj has its own charm if you are well-equipped. The morning focuses on the center with the protective Kaštel.\n\nAfter visiting the churches, a short bike sprint leads to the Chapel of the Holy Trinity before taking a longer break in the greenery.\n\nAt noon, we seek refuge in a konoba to dry clothes and recharge our batteries.\n\nThe tour through the Kažuni landscape in the afternoon is short but intense, with the stone buildings appearing almost mystical in the rain."
+          },
+          "stops": [
+            {
+              "name": "Žminj Zentrum & Kaštel",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter einem Vorsprung am Kaštel.",
+                "hu": "Parkolja le a bringát a vár egyik kinyúló tetőrésze alatt.",
+                "ro": "Parcați bicicleta sub o streașină la Kaštel.",
+                "en": "Park your bike under an overhang at the Kaštel."
+              }
+            },
+            {
+              "name": "Župna crkva sv. Mihovila",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum zum Abtropfen der Regenbekleidung.",
+                "hu": "Használja az előteret az esőruházat lecsöpögtetésére.",
+                "ro": "Folosiți vestibulul pentru a lăsa hainele de ploaie la scurs.",
+                "en": "Use the vestibule to let your rain gear drip dry."
+              }
+            },
+            {
+              "name": "Čakavska kuća",
+              "tip_5lang": {
+                "de": "Sicherer, trockener Ort für eine Besichtigungspause.",
+                "hu": "Biztonságos, száraz hely egy látogatási szünethez.",
+                "ro": "Loc sigur și uscat pentru o pauză de vizitare.",
+                "en": "Safe, dry place for a sightseeing break."
+              }
+            },
+            {
+              "name": "Radsprint zur Kapela sv. Trojstva",
+              "tip_5lang": {
+                "de": "Achtung bei Pfützen, der Untergrund kann tückisch sein.",
+                "hu": "Vigyázat a tócsákkal, az aljzat csalóka lehet.",
+                "ro": "Atenție la bălți, terenul poate fi înșelător.",
+                "en": "Watch out for puddles; the ground can be treacherous."
+              }
+            },
+            {
+              "name": "Mittagspause im Grünen",
+              "tip_5lang": {
+                "de": "Suchen Sie eine überdachte Terrasse in der Nähe.",
+                "hu": "Keressen egy közeli fedett teraszt.",
+                "ro": "Căutați o terasă acoperită în apropiere.",
+                "en": "Look for a covered terrace nearby."
+              }
+            },
+            {
+              "name": "Tour durch die Kažuni-Landschaft",
+              "tip_5lang": {
+                "de": "Ein Kažun kann im Notfall als kurzer Unterstand dienen.",
+                "hu": "Egy Kažun vészhelyzetben rövid menedékként szolgálhat.",
+                "ro": "Un Kažun poate servi ca adăpost scurt în caz de urgență.",
+                "en": "A Kažun can serve as a quick shelter in an emergency."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenmontur inklusive Überschuhen ist ein Muss.",
+              "Vermeiden Sie abruptes Bremsen auf nassen Asphalt- und Steinflächen.",
+              "Beleuchtung am Rad ist bei grauem Regenwetter für die Sichtbarkeit entscheidend.",
+              "Führen Sie ein trockenes Mikrofasertuch mit, um den Sattel abzuwischen."
+            ],
+            "hu": [
+              "A teljes esőfelszerelés, beleértve a kamáslit is, kötelező.",
+              "Kerülje a hirtelen fékezést vizes aszfalton és kőfelületeken.",
+              "A kerékpáros világítás szürke esős időben kulcsfontosságú a láthatóságért.",
+              "Vigyen magával száraz mikroszálas kendőt a nyereg letörléséhez."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie, inclusiv protecțiile pentru pantofi, este obligatoriu.",
+              "Evitați frânarea bruscă pe suprafețe umede de asfalt sau piatră.",
+              "Luminile la bicicletă sunt esențiale pentru vizibilitate pe vreme gri și ploioasă.",
+              "Aveți la voi o lavetă din microfibră uscată pentru a șterge șaua."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is a must.",
+              "Avoid abrupt braking on wet asphalt and stone surfaces.",
+              "Bike lighting is crucial for visibility in gray, rainy weather.",
+              "Carry a dry microfiber cloth to wipe down the saddle."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winter-Radtour startet frisch im historischen Zentrum. Der Fokus liegt auf kurzen Fahrten zwischen den warmen kulturellen Stopps.\n\nNach dem Kaštel und der Kirche hilft die Čakavska kuća beim Aufwärmen der Finger. Der Radsprint zur Kapela sv. Trojstva hält den Kreislauf in Schwung.\n\nMittags genießen wir eine Pause in einer beheizten Unterkunft, bevor wir die winterliche Kažuni-Landschaft erkunden.\n\nDie Tour endet, bevor der Frost am späten Nachmittag anzieht, mit einem warmen Getränk zurück in Žminj.",
+            "hu": "A téli kerékpártúra frissen indul a történelmi központban. A hangsúly a rövid szakaszokon van a meleg kulturális megállók között.\n\nA vár és a templom után a Čakavska kuća segít az ujjak felmelegítésében. A sprint a Szentháromság-kápolnához mozgásban tartja a vérkeringést.\n\nDélben egy fűtött helyen élvezzük a pihenőt, mielőtt felfedeznénk a téli Kažuni-tájat.\n\nA túra véget ér, mielőtt a késő délutáni fagy beállna, egy meleg itallal Žminjben.",
+            "ro": "Turul de iarnă cu bicicleta începe energic în centrul istoric. Accentul este pus pe trasee scurte între opririle culturale calde.\n\nDupă Kaštel și biserică, Čakavska kuća ajută la încălzirea degetelor. Sprintul către Capela Sfintei Treimi menține circulația activă.\n\nLa prânz ne bucurăm de o pauză într-un loc încălzit, înainte de a explora peisajul de iarnă al Kažuni.\n\nTurul se încheie înainte ca gerul de după-amiază târzie să se instaleze, cu o băutură caldă înapoi în Žminj.",
+            "en": "The winter bike tour starts fresh in the historical center. The focus is on short rides between the warm cultural stops.\n\nAfter the Kaštel and the church, Čakavska kuća helps warm up the fingers. The sprint to the Chapel of the Holy Trinity keeps the circulation going.\n\nAt noon, we enjoy a break in a heated location before exploring the wintry Kažuni landscape.\n\nThe tour ends before the late afternoon frost sets in, with a warm drink back in Žminj."
+          },
+          "stops": [
+            {
+              "name": "Žminj Zentrum & Kaštel",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad in der Sonne, falls sie scheint.",
+                "hu": "Parkolja a bringát a napon, ha süt.",
+                "ro": "Parcați bicicleta la soare, dacă acesta strălucește.",
+                "en": "Park the bike in the sun if it's shining."
+              }
+            },
+            {
+              "name": "Župna crkva sv. Mihovila",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Kälte in den Gliedern zu vermeiden.",
+                "hu": "Rövid megálló, hogy elkerülje a végtagok lehűlését.",
+                "ro": "O oprire scurtă pentru a evita instalarea frigului în corp.",
+                "en": "Short stop to avoid the cold settling in your limbs."
+              }
+            },
+            {
+              "name": "Čakavska kuća",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme für eine längere Pause.",
+                "hu": "Használja ki a meleget egy hosszabb pihenőre.",
+                "ro": "Profitați de căldură pentru o pauză mai lungă.",
+                "en": "Take advantage of the warmth for a longer break."
+              }
+            },
+            {
+              "name": "Radsprint zur Kapela sv. Trojstva",
+              "tip_5lang": {
+                "de": "Fahren Sie zügig, um warm zu bleiben.",
+                "hu": "Tekerjen tempósan, hogy melegen tartsa magát.",
+                "ro": "Pedalați rapid pentru a vă menține căldura.",
+                "en": "Ride briskly to stay warm."
+              }
+            },
+            {
+              "name": "Mittagspause im Grünen",
+              "tip_5lang": {
+                "de": "Achten Sie darauf, dass das Lokal im Winter beheizt ist.",
+                "hu": "Ügyeljen rá, hogy a hely télen fűtött legyen.",
+                "ro": "Asigurați-vă că locația este încălzită pe timp de iarnă.",
+                "en": "Make sure the venue is heated in winter."
+              }
+            },
+            {
+              "name": "Tour durch die Kažuni-Landschaft",
+              "tip_5lang": {
+                "de": "Die kahle Winterlandschaft bietet weite Sicht auf die Steinhütten.",
+                "hu": "A kopár téli táj messzi kilátást nyújt a kőkunyhókra.",
+                "ro": "Peisajul golaș de iarnă oferă o vizibilitate largă asupra colibelor de piatră.",
+                "en": "The barren winter landscape offers wide views of the stone huts."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Handschuhe und eine Mütze unter dem Helm sind unverzichtbar.",
+              "Die Bura kann das Radfahren extrem anstrengend und kalt machen.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee mit.",
+              "Achten Sie auf Raureif oder Eis in schattigen Kurven."
+            ],
+            "hu": [
+              "A szélálló kesztyű és a sisak alatti sapka nélkülözhetetlen.",
+              "A Bura szél a kerékpározást rendkívül fárasztóvá és hideggé teheti.",
+              "Vigyen magával termoszban meleg teát.",
+              "Ügyeljen a zúzmarára vagy jégre az árnyékos kanyarokban."
+            ],
+            "ro": [
+              "Mănușile rezistente la vânt și o căciulă sub cască sunt indispensabile.",
+              "Vântul Bura poate face ciclismul extrem de obositor și rece.",
+              "Luați un termos cu ceai cald.",
+              "Atenție la chiciură sau gheață în curbele umbrite."
+            ],
+            "en": [
+              "Windproof gloves and a cap under the helmet are indispensable.",
+              "The Bura wind can make cycling extremely tiring and cold.",
+              "Take a thermos with warm tea with you.",
+              "Watch out for frost or ice in shaded curves."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -808,6 +1190,224 @@
           "Use your car to visit nearby villages like Svetvinčenat.",
           "Gas stations are less frequent in rural Istria, so refuel in time."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Tag in Žminj lässt sich mit dem Auto am komfortabelsten gestalten. Der Vormittag verbindet die religiösen Stätten im Ortskern mit minimalen Wegen im Freien.\n\nMittags parken wir direkt beim Kaštel und der Čakavska kuća, um trocken zu den Ausstellungen zu gelangen.\n\nEin gemütliches Mittagessen im Zentrum bietet den perfekten Rahmen, um das Wetter abzuwarten, bevor die Panoramafahrt zu den Kažuni startet.\n\nAm späten Nachmittag genießen wir den Ausblick auf die Landschaft bequem aus dem warmen Fahrzeug, bevor wir den Tag entspannt ausklingen lassen.",
+            "hu": "Egy esős nap Žminjben autóval a legkényelmesebb. A délelőtt összeköti a vallási helyszíneket a faluközpontban, minimális szabadban töltött idővel.\n\nDélben közvetlenül a várnál és a Čakavska kućánál parkolunk, hogy szárazon jussunk el a kiállításokhoz.\n\nEgy kényelmes ebéd a központban tökéletes alkalmat nyújt az időjárás kivárására a Kažuni-túra előtt.\n\nKéső délután a meleg autóból élvezzük a tájat, mielőtt nyugodtan zárnánk a napot.",
+            "ro": "O zi ploioasă în Žminj este cel mai confortabil de parcurs cu mașina. Dimineața conectează lăcașurile de cult din centru cu deplasări minime în aer liber.\n\nLa prânz parcăm direct lângă Kaštel și Čakavska kuća pentru a ajunge uscați la expoziții.\n\nUn prânz relaxat în centru oferă cadrul perfect pentru a aștepta trecerea ploii înainte de turul panoramic către Kažuni.\n\nDupa-amiaza târziu ne bucurăm de peisaj din confortul vehiculului cald, înainte de a încheia ziua relaxați.",
+            "en": "A rainy day in Žminj is most comfortably managed by car. The morning connects the religious sites in the town center with minimal time spent outdoors.\n\nAt noon, we park directly by the Kaštel and Čakavska kuća to get to the exhibitions dry.\n\nA cozy lunch in the center offers the perfect setting to wait out the weather before the panoramic drive to the Kažuni.\n\nIn the late afternoon, we enjoy the view of the landscape from the comfort of the warm vehicle before relaxing for the rest of the day."
+          },
+          "stops": [
+            {
+              "name": "Kaffee-Pause am Hauptplatz (Cluster 1)",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz direkt am Platz.",
+                "hu": "Keressen parkolóhelyet közvetlenül a téren.",
+                "ro": "Căutați un loc de parcare direct în piață.",
+                "en": "Find a parking spot directly on the square."
+              }
+            },
+            {
+              "name": "Župna crkva sv. Mihovila (Cluster 1)",
+              "tip_5lang": {
+                "de": "Kurzer Weg vom Auto zum Kircheneingang.",
+                "hu": "Rövid út az autótól a templombejáratig.",
+                "ro": "Traseu scurt de la mașină până la intrarea în biserică.",
+                "en": "Short walk from the car to the church entrance."
+              }
+            },
+            {
+              "name": "Kapela sv. Trojstva (Cluster 1)",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich an der Kapelle.",
+                "hu": "Parkoljon a lehető legközelebb a kápolnához.",
+                "ro": "Parcați cât mai aproape posibil de chapelă.",
+                "en": "Park as close as possible to the chapel."
+              }
+            },
+            {
+              "name": "Kaštel (Cluster 2)",
+              "tip_5lang": {
+                "de": "Gut erreichbar, auch wenn es stark regnet.",
+                "hu": "Jól megközelíthető, még erős esőben is.",
+                "ro": "Ușor accesibil, chiar dacă plouă torențial.",
+                "en": "Easily accessible, even if it rains heavily."
+              }
+            },
+            {
+              "name": "Čakavska kuća (Cluster 2)",
+              "tip_5lang": {
+                "de": "Idealer Stopp für regentage.",
+                "hu": "Ideális megálló esős napokra.",
+                "ro": "Oprire ideală pentru zilele ploioase.",
+                "en": "Ideal stop for rainy days."
+              }
+            },
+            {
+              "name": "Mittagessen in Žminj (Cluster 2)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Komfort, direkt vor dem Restaurant zu parken.",
+                "hu": "Használja ki a kényelmet, parkoljon közvetlenül az étterem előtt.",
+                "ro": "Profitați de confortul parcării direct în fața restaurantului.",
+                "en": "Take advantage of the convenience of parking right in front of the restaurant."
+              }
+            },
+            {
+              "name": "Landschaftsfahrt zu den Kažuni (Cluster 3)",
+              "tip_5lang": {
+                "de": "Die Fahrt bietet tolle Ausblicke, ohne nass zu werden.",
+                "hu": "Az út nagyszerű kilátást nyújt anélkül, hogy megáznánk.",
+                "ro": "Traseul oferă vederi minunate fără a vă uda.",
+                "en": "The drive offers great views without getting wet."
+              }
+            },
+            {
+              "name": "Panoramablick am Stadtrand",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht durch die Windschutzscheibe.",
+                "hu": "Élvezze a kilátást a szélvédőn keresztül.",
+                "ro": "Bucurați-vă de priveliște prin parbriz.",
+                "en": "Enjoy the view through the windshield."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Zustand der Scheibenwischer vor der Fahrt.",
+              "Einige Nebenwege zu den Kažuni können bei Regen schlammig sein.",
+              "Lassen Sie den Regenschirm griffbereit im Fahrgastraum, nicht im Kofferraum.",
+              "Nutzen Sie die Sitzheizung für extra Komfort bei feuchtem Wetter."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze az ablaktörlők állapotát.",
+              "Néhány mellékút a Kažunikhoz sáros lehet esőben.",
+              "Az esernyőt tartsa kéznél az utastérben, ne a csomagtartóban.",
+              "Használja az ülésfűtést az extra kényelemért párás időben."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de plecare.",
+              "Unele drumuri secundare către Kažuni pot fi noroioase în caz de ploaie.",
+              "Țineți umbrela la îndemână în habitaclu, nu în portbagaj.",
+              "Folosiți încălzirea în scaune pentru un plus de confort pe vreme umedă."
+            ],
+            "en": [
+              "Check the condition of the windshield wipers before driving.",
+              "Some side roads to the Kažuni can be muddy when it rains.",
+              "Keep the umbrella handy in the passenger compartment, not in the trunk.",
+              "Use the seat heating for extra comfort in damp weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto startet gemütlich im beheizten Wagen. Der Vormittag führt durch den ruhigen Ortskern von Žminj zu den historischen Kirchen.\n\nMittags erkunden wir das Kaštel und die Čakavska kuća, wobei das Auto als warmer Rückzugsort dient.\n\nNach einem kräftigen istrimischen Mittagessen führt die Fahrt in die Winterlandschaft zu den Kažuni, die im flachen Licht besonders plastisch wirken.\n\nBevor die Dunkelheit hereinbricht, genießen wir einen letzten Panoramablick am Stadtrand, bevor wir uns in die Wärme zurückziehen.",
+            "hu": "A téli autós túra kényelmesen indul a fűtött kocsiban. A délelőtt Žminj csendes központján vezet keresztül a történelmi templomokhoz.\n\nDélben felfedezzük a várat és a Čakavska kućát, miközben az autó meleg visszavonulási helyként szolgál.\n\nEgy kiadós isztriai ebéd után az út a téli tájba vezet a Kažunikhoz, amelyek a lapos fényben különösen plasztikusan mutatnak.\n\nMielőtt beállna a sötétség, egy utolsó panorámát élvezünk a város szélén, majd visszahúzódunk a melegbe.",
+            "ro": "Turul de iarnă cu mașina începe confortabil în vehiculul încălzit. Dimineața duce prin centrul liniștit al Žminj către bisericile istorice.\n\nLa prânz explorăm Kaštel și Čakavska kuća, mașina servind drept refugiu cald.\n\nDupă un prânz istrian consistent, drumul continuă în peisajul de iarnă către Kažuni, care par deosebit de plastici în lumina joasă.\n\nÎnainte de lăsarea întunericului, ne bucurăm de o ultimă vedere panoramică la marginea orașului, înainte de a ne retrage la căldură.",
+            "en": "The winter car tour starts comfortably in the heated car. The morning leads through the quiet town center of Žminj to the historical churches.\n\nAt noon, we explore the Kaštel and Čakavska kuća, with the car serving as a warm retreat.\n\nAfter a hearty Istrian lunch, the drive goes into the winter landscape to the Kažuni, which look particularly sculptural in the low light.\n\nBefore darkness falls, we enjoy a final panoramic view at the outskirts of town before retreating to the warmth."
+          },
+          "stops": [
+            {
+              "name": "Kaffee-Pause am Hauptplatz (Cluster 1)",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, um die Umwelt zu schonen.",
+                "hu": "Ne járassa feleslegesen a motort, kímélje a környezetet.",
+                "ro": "Nu lăsați motorul pornit inutil pentru a proteja mediul.",
+                "en": "Do not leave the engine running unnecessarily to protect the environment."
+              }
+            },
+            {
+              "name": "Župna crkva sv. Mihovila (Cluster 1)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege zwischen den Gebäuden.",
+                "hu": "Használja ki az épületek közötti rövid távolságokat.",
+                "ro": "Profitați de distanțele scurte dintre clădiri.",
+                "en": "Take advantage of the short distances between the buildings."
+              }
+            },
+            {
+              "name": "Kapela sv. Trojstva (Cluster 1)",
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Glätte auf den Parkflächen.",
+                "hu": "Ügyeljen az esetleges jegesedésre a parkolókban.",
+                "ro": "Atenție la posibila polei în zonele de parcare.",
+                "en": "Watch out for possible slippery spots in the parking areas."
+              }
+            },
+            {
+              "name": "Kaštel (Cluster 2)",
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind ein guter Ort zum Aufwärmen.",
+                "hu": "A kiállítások jó helyszínek a felmelegedéshez.",
+                "ro": "Expozițiile sunt un loc bun pentru a vă încălzi.",
+                "en": "The exhibitions are a good place to warm up."
+              }
+            },
+            {
+              "name": "Čakavska kuća (Cluster 2)",
+              "tip_5lang": {
+                "de": "Ein interessanter, warmer Stopp im Winter.",
+                "hu": "Érdekes, meleg megálló télen.",
+                "ro": "O oprire interesantă și caldă pe timp de iarnă.",
+                "en": "An interesting, warm stop in winter."
+              }
+            },
+            {
+              "name": "Mittagessen in Žminj (Cluster 2)",
+              "tip_5lang": {
+                "de": "Genießen Sie das Ambiente eines warmen Restaurants.",
+                "hu": "Élvezze egy meleg étterem hangulatát.",
+                "ro": "Bucurați-vă de ambianța unui restaurant călduros.",
+                "en": "Enjoy the ambiance of a warm restaurant."
+              }
+            },
+            {
+              "name": "Landschaftsfahrt zu den Kažuni (Cluster 3)",
+              "tip_5lang": {
+                "de": "Die Wintersonne sorgt für dramatisches Licht auf den Steinen.",
+                "hu": "A téli nap drámai fényeket vet a kövekre.",
+                "ro": "Soarele de iarnă creează o lumină dramatică pe pietre.",
+                "en": "The winter sun provides dramatic light on the stones."
+              }
+            },
+            {
+              "name": "Panoramablick am Stadtrand",
+              "tip_5lang": {
+                "de": "Planen Sie den Stopp vor 16:30 Uhr ein.",
+                "hu": "Tervezze a megállót 16:30 előttre.",
+                "ro": "Planificați oprirea înainte de ora 16:30.",
+                "en": "Plan the stop before 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in Istrien bei Frostgefahr ratsam.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Die Bura kann an exponierten Stellen das Fahren erschweren.",
+              "Nehmen Sie eine Decke für Pausen im Auto mit."
+            ],
+            "hu": [
+              "Téli gumi javasolt Isztriában, ha fagyveszély van.",
+              "Töltsön fagyállót az ablakmosóba.",
+              "A Bura szél a nyitott szakaszokon megnehezítheti a vezetést.",
+              "Vigyen magával takarót az autós pihenőkhöz."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt recomandate în Istria dacă există risc de îngheț.",
+              "Puneți lichid de parbriz rezistent la îngheț.",
+              "Vântul Bura poate îngreuna condusul în locurile expuse.",
+              "Luați o pătură pentru pauzele în mașină."
+            ],
+            "en": [
+              "Winter tires are advisable in Istria if there is a risk of frost.",
+              "Add antifreeze to the windshield washer system.",
+              "The Bura can make driving difficult in exposed areas.",
+              "Take a blanket for breaks in the car."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1058,6 +1658,206 @@
           "Buy tickets directly from the driver or online if possible.",
           "The bus stop is not covered, so bring an umbrella for shade or rain."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt an der Bushaltestelle Žminj, während der Regen die Landschaft erfrischt. Wir nutzen die nahen Wege im Zentrum, um die Kirche und den Hauptplatz zu besichtigen.\n\nMittags bieten das Kaštel und die Čakavska kuća spannende Einblicke im Trockenen, gefolgt von einem stärkenden Mittagessen.\n\nDer Nachmittag lädt zu einem Rundgang durch die Gassen ein, wobei man sich immer wieder unter Vordächern unterstellen kann.\n\nWir beenden die Tour rechtzeitig an der Haltestelle, um trocken und entspannt die Rückreise anzutreten.",
+            "hu": "A nap a zminji buszmegállóban kezdődik, miközben az eső felfrissíti a tájat. A központ közeli útjait használjuk a templom és a főtér meglátogatásához.\n\nDélben a vár és a Čakavska kuća kínál izgalmas betekintést szárazon, amit egy erősítő ebéd követ.\n\nA délután sétára hív a szűk utcákban, ahol az ereszek alatt bármikor megpihenhetünk.\n\nA túrát időben a megállóban fejezzük be, hogy szárazon és nyugodtan indulhassunk haza.",
+            "ro": "Ziua începe la stația de autobuz din Žminj, în timp ce ploaia reîmprospătează peisajul. Folosim traseele apropiate din centru pentru a vizita biserica și piața principală.\n\nLa prânz, Kaštel și Čakavska kuća oferă perspective interesante la uscat, urmate de un prânz revigorant.\n\nDupă-amiaza invită la o plimbare prin străduțe, unde vă puteți adăposti oricând sub streșini.\n\nÎncheiem turul la timp în stație, pentru a începe călătoria de întoarcere uscați și relaxați.",
+            "en": "The day begins at the Žminj bus stop while the rain refreshes the landscape. We use the nearby paths in the center to visit the church and the main square.\n\nAt noon, the Kaštel and Čakavska kuća offer exciting insights in the dry, followed by a strengthening lunch.\n\nThe afternoon invites a stroll through the alleys, where you can repeatedly take shelter under overhangs.\n\nWe end the tour on time at the stop to start the journey home dry and relaxed."
+          },
+          "stops": [
+            {
+              "name": "Bushaltestelle Žminj (Ankunft)",
+              "tip_5lang": {
+                "de": "Die Haltestelle bietet einen kleinen Unterstand.",
+                "hu": "A megállóban van egy kis beálló.",
+                "ro": "Stația oferă un mic adăpost.",
+                "en": "The stop offers a small shelter."
+              }
+            },
+            {
+              "name": "Hauptplatz und Župna crkva sv. Mihovila",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kirchenportal als Schutz bei kurzen Schauern.",
+                "hu": "Használja a templomkaput védelemként a rövid záporok idején.",
+                "ro": "Folosiți portalul bisericii ca protecție în timpul averselor scurte.",
+                "en": "Use the church portal as protection during short showers."
+              }
+            },
+            {
+              "name": "Kapela sv. Trojstva",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Zentrum, Schirm bereitstellen.",
+                "hu": "Rövid séta a központból, tartsa készenlétben az esernyőt.",
+                "ro": "Traseu scurt pe jos din centru, pregătiți umbrela.",
+                "en": "Short walk from the center; have your umbrella ready."
+              }
+            },
+            {
+              "name": "Kaštel & Čakavska kuća",
+              "tip_5lang": {
+                "de": "Ideale Kombination für längeren Aufenthalt im Trockenen.",
+                "hu": "Ideális kombináció a hosszabb szárazon tartózkodáshoz.",
+                "ro": "Combinație ideală pentru o ședere mai lungă la uscat.",
+                "en": "Ideal combination for a longer stay in the dry."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre ohne Zeitdruck.",
+                "hu": "Élvezze a barátságos hangulatot időnyomás nélkül.",
+                "ro": "Bucurați-vă de atmosfera primitoare fără presiunea timpului.",
+                "en": "Enjoy the cozy atmosphere without time pressure."
+              }
+            },
+            {
+              "name": "Rundgang durch die Altstadtgassen",
+              "tip_5lang": {
+                "de": "Regenfeste Kleidung ist bei den Pflasterwegen ratsam.",
+                "hu": "Az esőálló ruházat ajánlott a kövezett utakon.",
+                "ro": "Îmbrăcămintea rezistentă la ploaie este recomandată pe drumurile pavate.",
+                "en": "Rainproof clothing is advisable for the paved paths."
+              }
+            },
+            {
+              "name": "Rückkehr zur Haltestelle",
+              "tip_5lang": {
+                "de": "Seien Sie 5-10 Minuten früher da, falls der Bus Verspätung hat.",
+                "hu": "Érkezzen 5-10 perccel korábban, ha a busz késne.",
+                "ro": "Sosiți cu 5-10 minute mai devreme în cazul în care autobuzul întârzie.",
+                "en": "Be there 5-10 minutes early in case the bus is delayed."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Busverbindungen online, da bei Regen seltener Busse fahren könnten.",
+              "Die Wege in Žminj sind kurz, man ist schnell wieder im Trockenen.",
+              "Ein kleiner, faltbarer Regenschirm passt in jede Tasche.",
+              "Nutzen Sie die Wartezeit in Cafés in der Nähe der Haltestelle."
+            ],
+            "hu": [
+              "Ellenőrizze online a buszjáratokat, mert esőben ritkábban közlekedhetnek.",
+              "Žminjben az utak rövidek, gyorsan visszaérhet a szárazra.",
+              "Egy kis, összecsukható esernyő minden táskában elfér.",
+              "Használja ki a várakozási időt a megálló közeli kávézókban."
+            ],
+            "ro": [
+              "Verificați conexiunile de autobuz online, deoarece pot circula mai rar pe ploaie.",
+              "Traseele în Žminj sunt scurte, ajungeți rapid înapoi la uscat.",
+              "O umbrelă mică pliabilă încape în orice geantă.",
+              "Folosiți timpul de așteptare în cafenelele din apropierea stației."
+            ],
+            "en": [
+              "Check bus connections online, as buses might run less frequently in the rain.",
+              "Paths in Žminj are short; you'll be back in the dry quickly.",
+              "A small, foldable umbrella fits in any bag.",
+              "Use the waiting time in cafes near the bus stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Bus startet an der kühlen Haltestelle von Žminj. Wir eilen zum Hauptplatz, um uns im ersten Café aufzuwärmen.\n\nMittags erkunden wir die historischen Schätze im Kaštel und der Čakavska kuća, wo die Heizung für Wohlbefinden sorgt.\n\nNach dem Mittagessen in einer warmen Konoba nutzen wir das Tageslicht für einen Rundgang durch die winterlichen Gassen.\n\nBevor die Abendkälte einsetzt, kehren wir zur Haltestelle zurück, um die Heimreise im beheizten Bus anzutreten.",
+            "hu": "A téli buszos túra Žminj hűvös megállójában kezdődik. A főtérre sietünk, hogy az első kávézóban felmelegedjünk.\n\nDélben felfedezzük a történelmi kincseket a várban és a Čakavska kućában, ahol a fűtés biztosítja a kényelmet.\n\nEgy meleg konobában elköltött ebéd után kihasználjuk a nappali fényt egy sétára a téli utcákon.\n\nMielőtt beállna az esti hideg, visszatérünk a megállóba, hogy a fűtött buszon induljunk haza.",
+            "ro": "Turul de iarnă cu autobuzul începe în stația răcoroasă din Žminj. Ne grăbim spre piața centrală pentru a ne încălzi în prima cafenea.\n\nLa prânz explorăm comorile istorice din Kaštel și Čakavska kuća, unde încălzirea asigură confortul.\n\nDupă prânzul într-o konoba călduroasă, profităm de lumina zilei pentru o plimbare prin străduțele de iarnă.\n\nÎnainte de instalarea frigului de seară, ne întoarcem la stație pentru a porni spre casă cu autobuzul încălzit.",
+            "en": "The winter bus tour starts at the cool Žminj bus stop. We hurry to the main square to warm up in the first cafe.\n\nAt noon, we explore the historical treasures in the Kaštel and Čakavska kuća, where the heating provides comfort.\n\nAfter lunch in a warm konoba, we use the daylight for a stroll through the wintry alleys.\n\nBefore the evening cold sets in, we return to the stop to start the journey home in the heated bus."
+          },
+          "stops": [
+            {
+              "name": "Bushaltestelle Žminj (Ankunft)",
+              "tip_5lang": {
+                "de": "Tragen Sie warme Kleidung, das Warten kann im Winter kühl sein.",
+                "hu": "Viseljen meleg ruhát, a várakozás télen hűvös lehet.",
+                "ro": "Purtați haine groase, așteptarea poate fi rece iarna.",
+                "en": "Wear warm clothing; waiting can be chilly in winter."
+              }
+            },
+            {
+              "name": "Hauptplatz und Župna crkva sv. Mihovila",
+              "tip_5lang": {
+                "de": "Ein heißes Getränk am Platz wärmt die Hände.",
+                "hu": "Egy forró ital a téren felmelegíti a kezeket.",
+                "ro": "O băutură fierbinte în piață vă va încălzi mâinile.",
+                "en": "A hot drink on the square warms your hands."
+              }
+            },
+            {
+              "name": "Kapela sv. Trojstva",
+              "tip_5lang": {
+                "de": "Zügiges Gehen hält warm auf dem kurzen Weg.",
+                "hu": "A tempós járás melegen tart a rövid úton.",
+                "ro": "Mersul vioi vă menține căldura pe traseul scurt.",
+                "en": "Walking briskly keeps you warm on the short path."
+              }
+            },
+            {
+              "name": "Kaštel & Čakavska kuća",
+              "tip_5lang": {
+                "de": "Verweilen Sie länger im Inneren der Ausstellungen.",
+                "hu": "Időzzön többet a kiállítások belsejében.",
+                "ro": "Zăboviți mai mult în interiorul expozițiilor.",
+                "en": "Spend more time inside the exhibitions."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einer hausgemachten Suppe zur Stärkung.",
+                "hu": "Kérjen egy házi készítésű levest az erősítéshez.",
+                "ro": "Cereți o supă de casă pentru revigorare.",
+                "en": "Ask for a homemade soup to recharge."
+              }
+            },
+            {
+              "name": "Rundgang durch die Altstadtgassen",
+              "tip_5lang": {
+                "de": "Die Gassen bieten im Winter eine friedliche Stille.",
+                "hu": "Az utcák télen békés csendet árasztanak.",
+                "ro": "Străduțele oferă o liniște pașnică iarna.",
+                "en": "The alleys offer peaceful silence in winter."
+              }
+            },
+            {
+              "name": "Rückkehr zur Haltestelle",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan, Busse sind im Winter seltener.",
+                "hu": "Ellenőrizze a menetrendet, télen ritkábbak a buszok.",
+                "ro": "Verificați mersul autobuzelor, sunt mai rare iarna.",
+                "en": "Check the timetable; buses are less frequent in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie die verkürzten Fahrpläne am Wochenende im Winter.",
+              "Nutzen Sie die beheizten Innenräume der Cafés als Wartebereich.",
+              "Handschuhe und Schal sind wegen der Bura unverzichtbar.",
+              "Die Haltestelle ist im Winter oft unbesetzt, Tickets online kaufen."
+            ],
+            "hu": [
+              "Ügyeljen a hétvégi rövidített menetrendre télen.",
+              "Használja a kávézók fűtött belső tereit várakozóhelyként.",
+              "A kesztyű és sál a Bura szél miatt nélkülözhetetlen.",
+              "A megállóban télen gyakran nincs személyzet, vegye meg a jegyet online."
+            ],
+            "ro": [
+              "Atenție la orarul redus în weekend pe timp de iarnă.",
+              "Folosiți spațiile interioare încălzite ale cafenelelor ca zonă de așteptare.",
+              "Mănușile și fularul sunt indispensabile din cauza vântului Bura.",
+              "Stația este adesea nesupravegheată iarna, cumpărați biletele online."
+            ],
+            "en": [
+              "Note the shortened bus schedules on weekends in winter.",
+              "Use the heated interiors of cafes as waiting areas.",
+              "Gloves and a scarf are indispensable because of the Bura wind.",
+              "The bus stop is often unstaffed in winter; buy tickets online."
+            ]
+          }
+        }
       }
     }
   }

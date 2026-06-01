@@ -306,6 +306,224 @@
           "Wear comfortable shoes for the village paths.",
           "The region is very hot in summer, bring water with you."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag gemütlich im örtlichen Café, während Sie den Regen beobachten. Die St.-Lukas-Kirche bietet danach einen friedlichen, trockenen Ort für Besinnung.\nEin Spaziergang durch das Dorf zeigt den rustikalen Charme von Podbablje unter einem grauen Himmel. Genießen Sie ein langes, traditionelles Mittagessen in einer Konoba, um sich aufzuwärmen.\nDie Steinbrücke von Kamenmost wirkt inmitten des Regens und Nebels noch historischer. Der Fluss Vrljika fließt heute besonders kräftig und bietet ein beeindruckendes Naturschauspiel.\nBeenden Sie den Tag am Aussichtspunkt, der trotz eingeschränkter Sicht eine mystische Atmosphäre bietet. Ein letzter Halt im Dorfzentrum rundet den regnerischen Tag ab.",
+            "hu": "Kezdje a napot a helyi kávézóban, figyelve a kinti esőt. A Szent Lukács-templom békés és száraz menedéket nyújt a délelőtti záporok idejére.\nEgy séta a faluban felfedi Podbablje rusztikus báját a szürke égbolt alatt is. Élvezze a hosszú, hagyományos ebédet egy konobában, amíg ruhái megszáradnak.\nA Kamenmost kőhíd még történelmibbnek tűnik az esőben és a ködben. A Vrljika folyó ma különösen sebesen folyik, lenyűgöző látványt nyújtva.\nZárja a napot a kilátónál, amely a korlátozott látási viszonyok ellenére is misztikus hangulatot áraszt. Egy utolsó pihenő a központban teszi teljessé az esős napot.",
+            "ro": "Începeți ziua confortabil în cafeneaua locală, în timp ce priviți ploaia de afară. Biserica Sf. Luca oferă apoi un loc liniștit și uscat pentru momente de reflexie.\nO plimbare prin sat dezvăluie farmecul rustic al Podbablje sub un cer cenușiu. Savurați un prânz tradițional lung într-o konoba pentru a vă încălzi și usca.\nPodul de piatră Kamenmost pare și mai istoric în mijlocul ploii și al ceții. Râul Vrljika curge astăzi deosebit de puternic, oferind un spectacol natural impresionant.\nÎncheiați ziua la punctul de observație, care, în ciuda vizibilității reduse, oferă o atmosferă mistică. O ultimă oprire în centrul satului completează ziua ploioasă.",
+            "en": "Start your day cozily in the local café while watching the rain outside. The Church of St. Luke then offers a peaceful, dry place for reflection during the morning.\nA stroll through the village reveals the rustic charm of Podbablje even under a grey sky. Enjoy a long, traditional lunch in a konoba while your clothes dry off.\nThe stone bridge of Kamenmost looks even more historic amidst the rain and mist. The Vrljika river flows especially strongly today, offering an impressive natural spectacle.\nEnd the day at the viewpoint, which offers a mystical atmosphere despite the limited visibility. A final rest in the village center rounds off the rainy day itinerary."
+          },
+          "stops": [
+            {
+              "name": "Local Café in the Center",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den ersten Schauer abzuwarten.",
+                "hu": "Ideális hely az első zápor kivárására.",
+                "ro": "Un loc ideal pentru a aștepta trecerea primei averse.",
+                "en": "An ideal place to wait out the first shower."
+              }
+            },
+            {
+              "name": "Church of St. Luke",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und den Schutz vor dem Regen.",
+                "hu": "Élvezze a csendet és az eső elleni védelmet.",
+                "ro": "Bucurați-vă de liniște și de protecția împotriva ploii.",
+                "en": "Enjoy the silence and protection from the rain."
+              }
+            },
+            {
+              "name": "Village Stroll through Podbablje",
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf den unbefestigten Wegen.",
+                "hu": "Ügyeljen a tócsákra a nem aszfaltozott utakon.",
+                "ro": "Atenție la bălți pe drumurile neasfaltate.",
+                "en": "Watch out for puddles on the unpaved paths."
+              }
+            },
+            {
+              "name": "Lunch in a Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie eine warme Suppe zum Aufwärmen.",
+                "hu": "Kóstoljon meg egy meleg levest a felmelegedéshez.",
+                "ro": "Încercați o supă caldă pentru a vă încălzi.",
+                "en": "Try a warm soup to warm yourself up."
+              }
+            },
+            {
+              "name": "Kamenmost (Stone Bridge)",
+              "tip_5lang": {
+                "de": "Vorsicht, die alten Steine können rutschig sein.",
+                "hu": "Vigyázat, a régi kövek csúszósak lehetnek.",
+                "ro": "Atenție, pietrele vechi pot fi alunecoase.",
+                "en": "Careful, the old stones can be slippery."
+              }
+            },
+            {
+              "name": "Vrljika River Bank",
+              "tip_5lang": {
+                "de": "Der Uferweg kann bei Regen sehr schlammig sein.",
+                "hu": "A part menti ösvény esőben nagyon saras lehet.",
+                "ro": "Poteca de pe mal poate fi foarte noroioasă pe ploaie.",
+                "en": "The riverbank path can be very muddy in the rain."
+              }
+            },
+            {
+              "name": "Vidikovac Viewpoint",
+              "tip_5lang": {
+                "de": "Die Aussicht ist bei Nebel besonders stimmungsvoll.",
+                "hu": "A kilátás ködben különösen hangulatos.",
+                "ro": "Priveliștea este deosebit de sugestivă în condiții de ceață.",
+                "en": "The view is particularly atmospheric in foggy conditions."
+              }
+            },
+            {
+              "name": "Final Rest",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem lokalen Kräutertee auf.",
+                "hu": "Melegedjen fel egy helyi gyógyteával.",
+                "ro": "Încălziți-vă cu un ceai de plante local.",
+                "en": "Warm up with a local herbal tea."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nehmen Sie einen stabilen Regenschirm mit.",
+              "Wasserfeste Wanderschuhe sind wegen des Schlamms ratsam.",
+              "Planen Sie mehr Zeit für die Indoor-Stopps ein.",
+              "Die Konobas sind bei Regen gemütliche Rückzugsorte."
+            ],
+            "hu": [
+              "Vigyél magaddal strapabíró esernyőt.",
+              "A sár miatt vízálló túrabakancs javasolt.",
+              "Tervezz több időt a beltéri helyszínekre.",
+              "A konobák esőben barátságos menedéket nyújtanak."
+            ],
+            "ro": [
+              "Luați cu voi o umbrelă rezistentă.",
+              "Se recomandă bocanci impermeabili din cauza noroiului.",
+              "Planificați mai mult timp pentru opririle în interior.",
+              "Konobele oferă un refugiu primitor pe timp de ploaie."
+            ],
+            "en": [
+              "Take a sturdy umbrella with you.",
+              "Waterproof hiking boots are advised due to the mud.",
+              "Plan more time for the indoor stops.",
+              "The konobas provide a cozy refuge during the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen macht den ersten Kaffee im Dorfzentrum besonders wichtig. Die St.-Lukas-Kirche strahlt im Winter eine tiefe Ruhe aus.\nEin zügiger Spaziergang durch das kühle Dorf regt den Kreislauf an. Die Landschaft wirkt in der Wintersonne schroff und ehrlich.\nEin herzhaftes Mittagessen an einem prasselnden Kaminfeuer ist der Höhepunkt des Tages. Genießen Sie lokale Winterspezialitäten der dalmatinischen Hinterlands.\nBesuchen Sie die Steinbrücke und den Fluss, bevor Sie rechtzeitig zum frühen Sonnenuntergang den Aussichtspunkt erreichen. Der Tag endet warm im Café.",
+            "hu": "A tiszta téli reggeli levegőben különösen fontos az első kávé a központban. A Szent Lukács-templom télen mély nyugalmat áraszt.\nEgy tempós séta a hűvös faluban felpezsdíti a vérkeringést. A táj a téli napsütésben zord és őszinte arcát mutatja.\nEgy kiadós ebéd a ropogó kandalló mellett a nap fénypontja. Kóstolja meg a dalmát hátország helyi téli specialitásait.\nLátogasson el a kőhídhoz és a folyóhoz, mielőtt időben felérne a kilátóba a korai naplementére. A nap forró itallal zárul a kávézóban.",
+            "ro": "Aerul curat de iarnă de dimineață face prima cafea din centrul satului deosebit de importantă. Biserica Sf. Luca emană o liniște profundă în timpul iernii.\nO plimbare rapidă prin satul răcoros stimulează circulația. Peisajul pare aspre și autentic în lumina soarelui de iarnă.\nUn prânz copios lângă un foc de șemineu trosnind este punctul culminant al zilei. Savurați specialitățile locale de iarnă din hinterlandul dalmat.\nVizitați podul de piatră și râul înainte de a ajunge la punctul de observație la timp pentru apusul timpuriu. Ziua se încheie cu o băutură caldă la cafenea.",
+            "en": "The crisp winter air in the morning makes the first coffee in the village center especially important. The Church of St. Luke radiates a deep tranquility in winter.\nA brisk stroll through the cool village stimulates the circulation. The landscape looks rugged and honest in the winter sun.\nA hearty lunch by a crackling fireplace is the highlight of the day. Enjoy local winter specialties of the Dalmatian hinterland.\nVisit the stone bridge and the river before reaching the viewpoint in time for the early sunset. The day ends warmly in the café back in the center."
+          },
+          "stops": [
+            {
+              "name": "Local Café in the Center",
+              "tip_5lang": {
+                "de": "Fragen Sie nach einem Platz in der Nähe der Heizung.",
+                "hu": "Kérjen helyet a fűtőtest közelében.",
+                "ro": "Cereți un loc lângă sursa de căldură.",
+                "en": "Ask for a seat near the heater."
+              }
+            },
+            {
+              "name": "Church of St. Luke",
+              "tip_5lang": {
+                "de": "Behalten Sie Ihren Mantel an, in der Kirche ist es kühl.",
+                "hu": "Hagyja magán a kabátját, a templomban hűvös van.",
+                "ro": "Păstrați haina pe voi, în biserică este răcoare.",
+                "en": "Keep your coat on, it's cool inside the church."
+              }
+            },
+            {
+              "name": "Village Stroll through Podbablje",
+              "tip_5lang": {
+                "de": "Bewegung hilft, bei den kühlen Temperaturen warm zu bleiben.",
+                "hu": "A mozgás segít melegen maradni a hűvös időben.",
+                "ro": "Mișcarea ajută la menținerea căldurii în temperaturile scăzute.",
+                "en": "Moving helps to stay warm in the cool temperatures."
+              }
+            },
+            {
+              "name": "Lunch in a Konoba",
+              "tip_5lang": {
+                "de": "Ideal für eine längere Pause am warmen Kamin.",
+                "hu": "Ideális egy hosszabb pihenőre a meleg kandalló mellett.",
+                "ro": "Ideal pentru o pauză lungă lângă șemineul cald.",
+                "en": "Ideal for a longer break by the warm fireplace."
+              }
+            },
+            {
+              "name": "Kamenmost (Stone Bridge)",
+              "tip_5lang": {
+                "de": "Das klare Winterlicht ist perfekt für Fotos.",
+                "hu": "A tiszta téli fény tökéletes a fotózáshoz.",
+                "ro": "Lumina clară de iarnă este perfectă pentru fotografii.",
+                "en": "The clear winter light is perfect for photos."
+              }
+            },
+            {
+              "name": "Vrljika River Bank",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der winterlichen Natur.",
+                "hu": "Élvezze a téli természet csendjét.",
+                "ro": "Bucurați-vă de liniștea naturii hibernale.",
+                "en": "Enjoy the silence of winter nature."
+              }
+            },
+            {
+              "name": "Vidikovac Viewpoint",
+              "tip_5lang": {
+                "de": "Achtung: Der Sonnenuntergang ist bereits gegen 16:30 Uhr.",
+                "hu": "Figyelem: a naplemente már 16:30 körül bekövetkezik.",
+                "ro": "Atenție: apusul are loc deja în jurul orei 16:30.",
+                "en": "Note: sunset occurs as early as around 16:30."
+              }
+            },
+            {
+              "name": "Final Rest",
+              "tip_5lang": {
+                "de": "Ein Schnaps aus der Region wärmt von innen.",
+                "hu": "Egy helyi pálinka belülről melegít fel.",
+                "ro": "Un rachiul local vă va încălzi din interior.",
+                "en": "A local brandy will warm you up from the inside."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip.",
+              "Bedenken Sie, dass es ab 16:30 Uhr schnell dunkel wird.",
+              "Tragen Sie warme Socken und Handschuhe.",
+              "Die Wege können bei Frost rutschig sein."
+            ],
+            "hu": [
+              "Öltözz rétegesen.",
+              "Számolj vele, hogy 16:30 után gyorsan sötétedik.",
+              "Viselj meleg zoknit és kesztyűt.",
+              "Fagy esetén az utak csúszósak lehetnek."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi.",
+              "Rețineți că se întunecă repede după ora 16:30.",
+              "Purtați șosete calde și mănuși.",
+              "Drumurile pot fi alunecoase în caz de îngheț."
+            ],
+            "en": [
+              "Dress in layers.",
+              "Keep in mind that it gets dark quickly after 16:30.",
+              "Wear warm socks and gloves.",
+              "Paths can be slippery in case of frost."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -583,6 +801,206 @@
           "Check tire pressure before departure.",
           "Stay on the marked paths in the field."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bereiten Sie sich beim Frühstück mental und mit Regenkleidung auf die Tour vor. Ein kurzer Stopp an der Kirche bietet einen trockenen Moment.\nDie Fahrt entlang der Vrljika im Regen ist ein Erlebnis für Abenteurer, begleitet vom Rauschen des Wassers. Die Steinbrücke ist ein schneller Fotostopp.\nNehmen Sie sich beim Mittagessen extra viel Zeit, um Ihre Sachen zu trocknen und neue Energie zu tanken. Warme Getränke sind jetzt genau das Richtige.\nDie Fahrt zum Aussichtspunkt erfordert auf nassen Straßen Vorsicht, belohnt aber mit einer nebligen Aussicht. Kehren Sie danach zügig ins Dorf zurück.",
+            "hu": "Reggeli közben készüljön fel mentálisan és esőruházattal a túrára. Egy rövid megálló a templomnál száraz pillanatot kínál.\nA Vrljika menti tekerés esőben az igazi kalandoroknak való, a zúgó víz hangjával kísérve. A kőhídnál csak egy gyors fotóra álljunk meg.\nAz ebédnél szánjon extra időt a ruhák szárítására és az energiapótlásra. A meleg italok most nagyon jól fognak esni.\nA kilátóhoz vezető út óvatosságot igényel a vizes aszfalton, de ködös panorámával jutalmaz. Ezután térjen vissza gyorsan a faluba.",
+            "ro": "Pregătiți-vă mental și cu echipament de ploaie în timpul micului dejun. O scurtă oprire la biserică oferă un moment de respiro uscat.\nCiclismul de-a lungul râului Vrljika pe ploaie este o experiență pentru aventurieri, însoțită de vuietul apei. Podul de piatră este o oprire rapidă pentru poze.\nAlocați mai mult timp la prânz pentru a vă usca lucrurile și pentru a vă reîncărca bateriile. Băuturile calde sunt exact ce aveți nevoie acum.\nDrumul spre punctul de observație necesită prudență pe șoselele ude, dar vă răsplătește cu o vedere cețoasă. Întoarceți-vă apoi rapid în sat.",
+            "en": "Prepare yourself mentally and with rain gear during breakfast. A short stop at the church offers a dry moment before the ride.\nCycling along the Vrljika in the rain is an experience for adventurers, accompanied by the sound of rushing water. The stone bridge is a quick photo stop.\nTake extra time at lunch to dry your things and recharge your energy. Warm drinks are exactly what you need right now.\nThe ride to the viewpoint requires caution on wet roads but rewards you with a misty view. Return swiftly to the village afterwards."
+          },
+          "stops": [
+            {
+              "name": "Breakfast in the Village",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Regenbekleidung vor dem Start.",
+                "hu": "Indulás előtt ellenőrizze az esőruházatát.",
+                "ro": "Verificați-vă echipamentul de ploaie înainte de start.",
+                "en": "Check your rain gear before starting."
+              }
+            },
+            {
+              "name": "Church of St. Luke",
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Karte im Trockenen zu studieren.",
+                "hu": "Jó hely a térkép tanulmányozására szárazon.",
+                "ro": "Un loc bun pentru a studia harta la adăpost.",
+                "en": "A good place to study the map in the dry."
+              }
+            },
+            {
+              "name": "Cycling along the Vrljika",
+              "tip_5lang": {
+                "de": "Vorsicht vor Aquaplaning auf den Uferwegen.",
+                "hu": "Vigyázat, felúszhat a kerék a vízre a parti utakon.",
+                "ro": "Atenție la acvaplanare pe potecile de pe mal.",
+                "en": "Watch out for aquaplaning on the riverbank paths."
+              }
+            },
+            {
+              "name": "Kamenmost (Stone Bridge)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp; Metallteile können rutschig sein.",
+                "hu": "Rövid megálló; a fém részek csúszósak lehetnek.",
+                "ro": "Oprire scurtă; părțile metalice pot fi alunecoase.",
+                "en": "Short stop; metal parts can be slippery."
+              }
+            },
+            {
+              "name": "Lunch and Rest",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit zum Trocknen Ihrer Ausrüstung.",
+                "hu": "Használja ki az időt a felszerelése szárítására.",
+                "ro": "Folosiți timpul pentru a vă usca echipamentul.",
+                "en": "Use the time to dry your gear."
+              }
+            },
+            {
+              "name": "Ride to Vidikovac Viewpoint",
+              "tip_5lang": {
+                "de": "Fahren Sie in den Kurven besonders vorsichtig.",
+                "hu": "A kanyarokban vezessen különösen óvatosan.",
+                "ro": "Conduceți cu deosebită prudență în curbe.",
+                "en": "Ride with extra caution in the corners."
+              }
+            },
+            {
+              "name": "Return to Village",
+              "tip_5lang": {
+                "de": "Ein heißes Bad nach der Tour ist sehr zu empfehlen.",
+                "hu": "A túra után egy forró fürdő erősen ajánlott.",
+                "ro": "O baie fierbinte după tură este foarte recomandată.",
+                "en": "A hot bath after the tour is highly recommended."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+              "Tragen Sie wasserdichte Handschuhe und Überschuhe.",
+              "Reduzieren Sie den Reifendruck für besseren Grip.",
+              "Bremsen Sie frühzeitig auf nasser Fahrbahn."
+            ],
+            "hu": [
+              "A sárvédő kötelező ebben az időben.",
+              "Viselj vízálló kesztyűt és kamáslit.",
+              "Csökkentsd a guminyomást a jobb tapadásért.",
+              "Vizes úton fékezz időben."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt obligatorii pe acest timp.",
+              "Purtați mănuși și huse pentru pantofi impermeabile.",
+              "Reduceți presiunea în anvelope pentru o aderență mai bună.",
+              "Frânați din timp pe carosabilul ud."
+            ],
+            "en": [
+              "Fenders on the bike are a must in this weather.",
+              "Wear waterproof gloves and shoe covers.",
+              "Reduce tire pressure for better grip.",
+              "Brake early on wet pavement."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kräftiges Frühstück ist die Basis für diesen kalten Radtag. Treten Sie fleißig in die Pedale, um den Körper auf Temperatur zu halten.\nDie Winterroute entlang der Vrljika ist friedlich und die Luft wunderbar klar. Die Steinbrücke steht wie ein Monument in der stillen Landschaft.\nEine ausgiebige Mittagspause in einer warmen Gaststätte ist zwingend erforderlich, um die Kälte aus den Knochen zu vertreiben.\nFahren Sie rechtzeitig zum Aussichtspunkt, um das goldene Winterlicht zu erleben. Kehren Sie vor Einbruch der Dunkelheit und Kälte ins Dorf zurück.",
+            "hu": "Egy kiadós reggeli az alapja ennek a hideg bringás napnak. Tekerjen kitartóan, hogy testhőmérsékletét fenntartsa.\nA téli útvonal a Vrljika mentén békés, a levegő pedig csodálatosan tiszta. A kőhíd monumentumként áll a csendes tájban.\nEgy bőséges ebédszünet egy meleg vendéglőben elengedhetetlen, hogy kiűzze a hideget a csontjaiból.\nInduljon időben a kilátóhoz, hogy megtapasztalja az aranyló téli fényeket. A sötétedés és a lehűlés előtt térjen vissza a faluba.",
+            "ro": "Un mic dejun consistent este baza pentru această zi rece de ciclism. Pedalați cu spor pentru a vă menține temperatura corpului.\nRuta de iarnă de-a lungul râului Vrljika este liniștită, iar aerul este minunat de curat. Podul de piatră stă ca un monument în peisajul tăcut.\nO pauză de prânz prelungită într-un restaurant călduros este absolut necesară pentru a alunga frigul din oase.\nMergeți din timp spre punctul de observație pentru a experimenta lumina aurie de iarnă. Întoarceți-vă în sat înainte de lăsarea întunericului și a gerului.",
+            "en": "A hearty breakfast is the basis for this cold cycling day. Pedal diligently to keep your body temperature up.\nThe winter route along the Vrljika is peaceful, and the air is wonderfully clear. The stone bridge stands like a monument in the silent landscape.\nAn extensive lunch break in a warm restaurant is mandatory to drive the cold out of your bones.\nRide to the viewpoint in time to experience the golden winter light. Return to the village before dark and the drop in temperature."
+          },
+          "stops": [
+            {
+              "name": "Breakfast in the Village",
+              "tip_5lang": {
+                "de": "Essen Sie kohlenhydratreich für die nötige Energie.",
+                "hu": "Egyen szénhidrátdúsan a szükséges energiáért.",
+                "ro": "Mâncați alimente bogate în carbohidrați pentru energie.",
+                "en": "Eat a high-carb breakfast for the necessary energy."
+              }
+            },
+            {
+              "name": "Church of St. Luke",
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht; kühlen Sie nicht zu sehr aus.",
+                "hu": "Rövid megálló elég; ne hűljön ki túlságosan.",
+                "ro": "O oprire scurtă este suficientă; nu vă răciți prea tare.",
+                "en": "A short stop is enough; don't cool down too much."
+              }
+            },
+            {
+              "name": "Cycling along the Vrljika",
+              "tip_5lang": {
+                "de": "Tragen Sie eine winddichte Schicht gegen den Fahrtwind.",
+                "hu": "Viseljen szélálló réteget a menetszél ellen.",
+                "ro": "Purtați un strat rezistent la vânt împotriva curentului.",
+                "en": "Wear a windproof layer against the headwind."
+              }
+            },
+            {
+              "name": "Kamenmost (Stone Bridge)",
+              "tip_5lang": {
+                "de": "Achtung bei eventueller Glätte auf der Brücke.",
+                "hu": "Vigyázat, a hídon jegesedés fordulhat elő.",
+                "ro": "Atenție la eventualul polei de pe pod.",
+                "en": "Watch out for potential ice on the bridge."
+              }
+            },
+            {
+              "name": "Lunch and Rest",
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Füße und Hände gründlich auf.",
+                "hu": "Melegítse fel alaposan a lábait és kezeit.",
+                "ro": "Încălziți-vă bine picioarele și mâinile.",
+                "en": "Warm up your feet and hands thoroughly."
+              }
+            },
+            {
+              "name": "Ride to Vidikovac Viewpoint",
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Beleuchtung für den Rückweg.",
+                "hu": "Ellenőrizze a világítását a visszaúthoz.",
+                "ro": "Verificați-vă luminile pentru drumul de întoarcere.",
+                "en": "Check your lights for the way back."
+              }
+            },
+            {
+              "name": "Return to Village",
+              "tip_5lang": {
+                "de": "Trinken Sie etwas Heißes, sobald Sie ankommen.",
+                "hu": "Igyon valami forrót, amint megérkezik.",
+                "ro": "Beți ceva fierbinte imediat ce ajungeți.",
+                "en": "Drink something hot as soon as you arrive."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winddichte Kleidung ist bei niedrigen Temperaturen entscheidend.",
+              "Tragen Sie Thermo-Unterwäsche.",
+              "Benutzen Sie Winter-Fahrradhandschuhe.",
+              "Die Dämmerung beginnt im Winter sehr früh."
+            ],
+            "hu": [
+              "A szélálló ruházat döntő fontosságú alacsony hőmérsékleten.",
+              "Viselj aláöltözetet.",
+              "Használj téli kerékpáros kesztyűt.",
+              "A szürkület télen nagyon korán kezdődik."
+            ],
+            "ro": [
+              "Îmbrăcămintea rezistentă la vânt este crucială la temperaturi scăzute.",
+              "Purtați lenjerie termică.",
+              "Folosiți mănuși de ciclism de iarnă.",
+              "Amurgul începe foarte devreme iarna."
+            ],
+            "en": [
+              "Windproof clothing is crucial at low temperatures.",
+              "Wear thermal underwear.",
+              "Use winter cycling gloves.",
+              "Dusk begins very early in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -860,6 +1278,206 @@
           "The roads are narrow, drive carefully.",
           "Parking in the village is mostly free."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Annehmlichkeit Ihres Autos für einen entspannten Start. Ein kurzer Sprint vom Parkplatz ins Café bewahrt Sie vor dem Nass.\nBesuchen Sie die Kirche und die Kamenmost-Brücke; die kurzen Wege im Freien sind auch bei Regen gut machbar.\nEin kurzer Spaziergang am Flussufer mit Regenschirm ist erfrischend. Die Konoba bietet danach einen herrlich trockenen Zufluchtsort für das Mittagessen.\nDen Aussichtspunkt erreichen Sie bequem mit dem Auto und genießen das Panorama trocken aus dem Innenraum. Beenden Sie den Tag bei einem Kaffee im Dorf.",
+            "hu": "Használja ki az autó kényelmét a nyugodt kezdéshez. Egy rövid sprint a parkolóból a kávézóba megvédi az elázástól.\nLátogassa meg a templomot és a Kamenmost hidat; a rövid kinti szakaszok esőben is könnyen teljesíthetők.\nEgy rövid folyóparti séta esernyővel felfrissítő. A konoba ezután remek száraz menedéket nyújt az ebédhez.\nA kilátót kényelmesen, autóval érheti el, és szárazon, az utastérből élvezheti a panorámát. Zárja a napot egy kávéval a faluban.",
+            "ro": "Folosiți confortul mașinii pentru un start relaxat. Un scurt sprint de la parcare la cafenea vă va feri de umezeală.\nVizitați biserica și podul Kamenmost; distanțele scurte în aer liber sunt ușor de parcurs chiar și pe ploaie.\nO scurtă plimbare pe malul râului cu umbrela este revigorantă. Konoba oferă apoi un refugiu uscat minunat pentru prânz.\nAjungeți confortabil la punctul de observație cu mașina și bucurați-vă de panoramă la adăpost. Încheiați ziua cu o cafea în sat.",
+            "en": "Use the convenience of your car for a relaxed start. A quick sprint from the parking lot to the café keeps you dry.\nVisit the church and the Kamenmost bridge; the short outdoor stretches are manageable even in the rain.\nA short stroll along the riverbank with an umbrella is refreshing. The konoba then offers a wonderful dry haven for lunch.\nYou can reach the viewpoint comfortably by car and enjoy the panorama dry from inside the vehicle. End the day with a coffee in the village."
+          },
+          "stops": [
+            {
+              "name": "Podbablje Village Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz.",
+                "ro": "Parcați cât mai aproape de intrare.",
+                "en": "Park as close to the entrance as possible."
+              }
+            },
+            {
+              "name": "Church of St. Luke (Cluster A)",
+              "tip_5lang": {
+                "de": "Halten Sie den Regenschirm für den kurzen Weg bereit.",
+                "hu": "Tartsa készenlétben az esernyőt a rövid útra.",
+                "ro": "Țineți umbrela la îndemână pentru drumul scurt.",
+                "en": "Keep the umbrella ready for the short walk."
+              }
+            },
+            {
+              "name": "Kamenmost Bridge (Cluster B)",
+              "tip_5lang": {
+                "de": "Sie können für ein schnelles Foto fast direkt auf der Brücke halten.",
+                "hu": "Egy gyors fotó erejéig szinte közvetlenül a hídon is megállhat.",
+                "ro": "Puteți opri aproape direct pe pod pentru o fotografie rapidă.",
+                "en": "You can stop almost directly on the bridge for a quick photo."
+              }
+            },
+            {
+              "name": "Vrljika River Walk (Cluster B)",
+              "tip_5lang": {
+                "de": "Ein kurzer Gang zum Wasser lohnt sich trotz Regen.",
+                "hu": "Egy rövid séta a vízhez eső ellenére is megéri.",
+                "ro": "O scurtă plimbare până la apă merită în ciuda ploii.",
+                "en": "A short walk to the water is worth it despite the rain."
+              }
+            },
+            {
+              "name": "Lunch Nearby (Cluster B)",
+              "tip_5lang": {
+                "de": "Genießen Sie die trockene und warme Atmosphäre.",
+                "hu": "Élvezze a száraz és meleg légkört.",
+                "ro": "Bucurați-vă de atmosfera uscată și caldă.",
+                "en": "Enjoy the dry and warm atmosphere."
+              }
+            },
+            {
+              "name": "Vidikovac (Cluster C)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem Auto.",
+                "hu": "Élvezze a kilátást közvetlenül az autóból.",
+                "ro": "Bucurați-vă de priveliște direct din mașină.",
+                "en": "Enjoy the view directly from the car."
+              }
+            },
+            {
+              "name": "Sunset Coffee",
+              "tip_5lang": {
+                "de": "Ein entspannter Abschluss eines regnerischen Tages.",
+                "hu": "Egy esős nap nyugodt lezárása.",
+                "ro": "O încheiere relaxată a unei zile ploioase.",
+                "en": "A relaxed end to a rainy day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Landstraßen.",
+              "Lassen Sie keine nassen Schirme auf den Sitzen liegen.",
+              "Prüfen Sie den Zustand Ihrer Scheibenwischer.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben."
+            ],
+            "hu": [
+              "Ügyeljen a vízenfutásra az országutakon.",
+              "Ne hagyja a vizes esernyőt az ülésen.",
+              "Ellenőrizze az ablaktörlők állapotát.",
+              "Használja a klímát a párásodás ellen."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile naționale.",
+              "nu lăsați umbrelele ude pe scaune.",
+              "Verificați starea ștergătoarelor.",
+              "Folosiți aerul condiționat împotriva aburirii parbrizului."
+            ],
+            "en": [
+              "Watch out for aquaplaning on rural roads.",
+              "Don't leave wet umbrellas on the seats.",
+              "Check the condition of your windshield wipers.",
+              "Use the air conditioning to prevent window fogging."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein geheiztes Auto macht die winterliche Erkundung von Podbablje zum Vergnügen. Starten Sie mit einem warmen Cafébesuch.\nErkunden Sie die Kirche und die Kamenmost-Brücke; die kalte Luft ist bei den kurzen Aufenthalten im Freien erfrischend.\nDer Flussspaziergang ist in der klaren Winterluft besonders belebend. Die Konoba im Dorf ist herrlich gemütlich und einladend für das Mittagessen.\nDie Fahrt zum Aussichtspunkt stellt sicher, dass Sie rechtzeitig und warm zum frühen Sonnenuntergang ankommen. Beenden Sie den Tag im Zentrum bei einem Heißgetränk.",
+            "hu": "Egy fűtött autó élvezetté teszi Podbablje téli felfedezését. Kezdjen egy meleg kávézólátogatással.\nFedezze fel a templomot és a Kamenmost hidat; a hideg levegő felfrissítő a rövid kinti tartózkodások alatt.\nA folyóparti séta a tiszta téli levegőben különösen élénkítő. A falu konobája hívogatóan barátságos az ebédhez.\nA kilátóhoz vezető út garantálja, hogy időben és melegben érkezzen a korai naplementére. Zárja a napot a központban egy forró itallal.",
+            "ro": "O mașină încălzită transformă explorarea hibernală a Podbablje într-o plăcere. Începeți cu o vizită la o cafenea călduroasă.\nExplorați biserica și podul Kamenmost; aerul rece este revigorant în timpul scurtelor opriri în aer liber.\nPlimbarea pe malul râului în aerul curat de iarnă este deosebit de tonifiantă. Konoba din sat este minunat de primitoare pentru prânz.\nDrumul spre punctul de observație vă asigură că ajungeți la timp și la căldură pentru apusul timpuriu. Încheiați ziua în centru cu o băutură fierbinte.",
+            "en": "A heated car makes the winter exploration of Podbablje a delight. Start with a warm café visit before exploring.\nVisit the church and the Kamenmost bridge; the cold air is refreshing during the short outdoor stays.\nThe river walk is especially invigorating in the clear winter air. The konoba in the village is wonderfully cozy and inviting for lunch.\nThe drive to the viewpoint ensures you arrive in time and in warmth for the early sunset. End the day in the center with a hot beverage."
+          },
+          "stops": [
+            {
+              "name": "Podbablje Village Center (Cluster A)",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig im Stand laufen.",
+                "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Nu lăsați motorul pornit inutil în staționare.",
+                "en": "Do not leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Church of St. Luke (Cluster A)",
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Spaziergang zur Kirche.",
+                "hu": "Egy rövid, frissítő séta a templomhoz.",
+                "ro": "O plimbare scurtă și revigorantă până la biserică.",
+                "en": "A short, crisp walk to the church."
+              }
+            },
+            {
+              "name": "Kamenmost Bridge (Cluster B)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf der Fahrbahn.",
+                "hu": "Ügyeljen a zúzmarára az úttesten.",
+                "ro": "Atenție la chiciură pe carosabil.",
+                "en": "Watch out for hoarfrost on the roadway."
+              }
+            },
+            {
+              "name": "Vrljika River Walk (Cluster B)",
+              "tip_5lang": {
+                "de": "Die frische Luft wird Ihnen guttun.",
+                "hu": "A friss levegő jót fog tenni.",
+                "ro": "Aerul curat vă va face bine.",
+                "en": "The fresh air will do you good."
+              }
+            },
+            {
+              "name": "Lunch Nearby (Cluster B)",
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt, wenn möglich.",
+                "hu": "Parkoljon szélvédett helyen, ha lehetséges.",
+                "ro": "Parcați la adăpost de vânt, dacă este posibil.",
+                "en": "Park in a wind-sheltered spot if possible."
+              }
+            },
+            {
+              "name": "Vidikovac (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Heizung im Auto sorgt für behagliche Sicht.",
+                "hu": "Az autó fűtése gondoskodik a kényelmes nézelődésről.",
+                "ro": "Căldura din mașină asigură o vizionare confortabilă.",
+                "en": "The car's heater ensures comfortable viewing."
+              }
+            },
+            {
+              "name": "Sunset Coffee",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich vor der Rückfahrt gut auf.",
+                "hu": "Melegedjen fel jól a hazautazás előtt.",
+                "ro": "Încălziți-vă bine înainte de drumul de întoarcere.",
+                "en": "Warm up well before the drive back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in Ihrem Wischwasser.",
+              "Achten Sie auf glatte Stellen im Schatten.",
+              "Halten Sie eine Eiskratzer bereit.",
+              "Fahren Sie bei Dämmerung besonders vorsichtig."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Ügyeljen a jeges foltokra az árnyékos részeken.",
+              "Legyen kéznél jégkaparó.",
+              "Szürkületben vezessen különösen óvatosan."
+            ],
+            "ro": [
+              "Verificați antigelul în lichidul de parbriz.",
+              "Atenție la porțiunile înghețate la umbră.",
+              "Aveți la îndemână o racletă.",
+              "Conduceți cu deosebită prudență în amurg."
+            ],
+            "en": [
+              "Check the antifreeze in your wiper fluid.",
+              "Watch out for icy patches in shaded areas.",
+              "Keep an ice scraper ready.",
+              "Drive with extra caution at dusk."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1114,6 +1732,188 @@
           "Ask locals about current bus times.",
           "Bus tickets can usually be bought from the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Bus, um das Zentrum für Ihren ersten Kaffee zu erreichen. Die Kirche ist danach ein perfekter Ort im Trockenen.\nDer Transit nach Kamenmost ist effizient, auch wenn Sie für den Weg zur Brücke einen Regenschirm benötigen.\nDie Entspannung am Flussufer fällt heute etwas feuchter aus, ist aber dennoch friedlich. Ein spätes Mittagessen im Dorf lässt Sie auf den nächsten Bus warten.\nKehren Sie zum Zentrum zurück, um diesen regnerischen Tag gemütlich ausklingen zu lassen. Prüfen Sie die Abfahrtszeiten vorab.",
+            "hu": "Használja a buszt, hogy elérje a központot az első kávéhoz. A templom utána tökéletes beltéri helyszín.\nA Kamenmostba tartó járat hatékony, bár a hídhoz vezető úton szüksége lesz esernyőre.\nA folyóparti pihenés ma kicsit nedvesebb, de még így is békés. Egy késői ebéd a faluban segít kivárni a következő buszt.\nTérjen vissza a központba, hogy ezt az esős napot kényelmesen zárja. Előre ellenőrizze az indulási időket.",
+            "ro": "Folosiți autobuzul pentru a ajunge în centru pentru prima cafea. Biserica este apoi un loc perfect la interior.\nTranzitul spre Kamenmost este eficient, deși veți avea nevoie de o umbrelă pentru drumul spre pod.\nRelaxarea pe malul râului este ceva mai umedă astăzi, dar totuși liniștită. Un prânz târziu în sat vă ajută să așteptați următorul autobuz.\nÎntoarceți-vă în centru pentru a încheia această zi ploioasă într-un mod confortabil. Verificați orele de plecare în prealabil.",
+            "en": "Use the bus to reach the center for your first coffee. The church is a perfect indoor stop afterwards.\nTransit to Kamenmost is efficient, though you'll need an umbrella for the walk to the bridge.\nRiver relaxation is a bit damper today but still serene. A late lunch in the village helps you wait for the next bus.\nReturn to the center to wrap up this rainy day comfortably. Check the departure times in advance."
+          },
+          "stops": [
+            {
+              "name": "Center Bus Stop",
+              "tip_5lang": {
+                "de": "Stellen Sie sich unter das Wartehäuschen.",
+                "hu": "Álljon be a buszváró alá.",
+                "ro": "Adăpostiți-vă sub copertina stației.",
+                "en": "Stand under the bus shelter."
+              }
+            },
+            {
+              "name": "Church of St. Luke",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Trockenen.",
+                "hu": "Használja ki a szárazon töltött időt.",
+                "ro": "Folosiți timpul petrecut la adăpost.",
+                "en": "Make use of the time in the dry."
+              }
+            },
+            {
+              "name": "Kamenmost (Transit Stop)",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg; Regenjacke ist ratsam.",
+                "hu": "Rövid gyalogút; esőkabát javasolt.",
+                "ro": "Drum scurt pe jos; se recomandă o jachetă de ploaie.",
+                "en": "Short walk; a raincoat is advisable."
+              }
+            },
+            {
+              "name": "Vrljika River Relaxation",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dichten Bäumen.",
+                "hu": "Keressen menedéket a sűrű lombok alatt.",
+                "ro": "Căutați adăpost sub copacii deși.",
+                "en": "Seek shelter under dense trees."
+              }
+            },
+            {
+              "name": "Late Lunch in the Village",
+              "tip_5lang": {
+                "de": "Fragen Sie nach den aktuellen Busabfahrten.",
+                "hu": "Érdeklődjön az aktuális buszindulásokról.",
+                "ro": "Întrebați despre orele actuale de plecare a autobuzelor.",
+                "en": "Inquire about the current bus departures."
+              }
+            },
+            {
+              "name": "Final Rest in Center",
+              "tip_5lang": {
+                "de": "Warten Sie hier gemütlich auf Ihren Anschluss.",
+                "hu": "Várja itt kényelmesen a csatlakozását.",
+                "ro": "Așteptați-vă conexiunea aici în mod confortabil.",
+                "en": "Wait for your connection here comfortably."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Busfahrplan online, da es zu Verzögerungen kommen kann.",
+              "Tragen Sie wasserdichte Kleidung für die Wartezeiten.",
+              "Halten Sie Kleingeld für das Ticket bereit.",
+              "Ein Regenschirm ist für die Wege zwischen den Haltestellen wichtig."
+            ],
+            "hu": [
+              "Ellenőrizze online a menetrendet, mert lehetnek késések.",
+              "Viseljen vízálló ruhát a várakozáshoz.",
+              "Legyen nálad aprópénz a jegyhez.",
+              "Az esernyő fontos a megállók közötti utakhoz."
+            ],
+            "ro": [
+              "Verificați programul online, deoarece pot apărea întârzieri.",
+              "Purtați haine impermeabile pentru perioadele de așteptare.",
+              "Aveți pregătit mărunțiș pentru bilet.",
+              "O umbrelă este importantă pentru drumurile între stații."
+            ],
+            "en": [
+              "Check the bus schedule online as there may be delays.",
+              "Wear waterproof clothing for the waiting times.",
+              "Have small change ready for the ticket.",
+              "An umbrella is important for the walks between stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für die Busfahrt nach Podbablje. Der morgendliche Kaffee wärmt Sie vor dem Kirchenbesuch gut auf.\nDer Transit nach Kamenmost bietet Ausblicke auf die winterlichen Felder. Die Flussufer sind in der Kälte still und unberührt.\nGenießen Sie ein langes, warmes Mittagessen im Dorf, während draußen der Winterwind weht. Die Gastfreundschaft ist jetzt besonders herzlich.\nDa die Sonne früh untergeht, nehmen Sie den letzten Bus zurück zum Zentrum für einen erholsamen Abend. Planen Sie Ihre Rückfahrt sorgfältig.",
+            "hu": "Öltözzön fel melegen a Podbablje-ba tartó buszúthoz. A reggeli kávé jól felmelegíti a templomlátogatás előtt.\nA Kamenmostba tartó járat kilátást nyújt a téli mezőkre. A folyópartok a hidegben csendesek és érintetlenek.\nÉlvezze a hosszú, meleg ebédet a faluban, miközben kint fúj a téli szél. A vendégszeretet most különösen szívélyes.\nMivel a nap korán nyugszik, érje el az utolsó buszt vissza a központba a pihentető estéhez. Gondosan tervezze meg a visszautat.",
+            "ro": "Îmbrăcați-vă gros pentru călătoria cu autobuzul spre Podbablje. Cafeaua de dimineață vă va încălzi bine înainte de vizitarea bisericii.\nTranzitul spre Kamenmost oferă priveliști asupra câmpurilor înghețate. Malurile râului sunt liniștite și neatinse în frigul iernii.\nSavurați un prânz lung și cald în sat, în timp ce vântul de iarnă suflă afară. Ospitalitatea este acum deosebit de caldă.\nDeoarece soarele apune devreme, luați ultimul autobuz înapoi spre centru pentru o seară relaxantă. Planificați-vă cu atenție drumul de întoarcere.",
+            "en": "Dress warmly for the bus ride to Podbablje. The morning coffee warms you up well before the church visit.\nTransit to Kamenmost offers views of the winter fields. The riverbanks are silent and untouched in the cold.\nEnjoy a long, warm lunch in the village while the winter wind blows outside. The hospitality is especially warm now.\nAs the sun sets early, catch the last bus back to the center for a restful evening. Plan your return trip carefully."
+          },
+          "stops": [
+            {
+              "name": "Center Bus Stop",
+              "tip_5lang": {
+                "de": "Bewegung an der Haltestelle hilft gegen Kälte.",
+                "hu": "A megállóban való mozgás segít a hideg ellen.",
+                "ro": "Mișcarea în stație ajută împotriva frigului.",
+                "en": "Moving around at the stop helps against the cold."
+              }
+            },
+            {
+              "name": "Church of St. Luke",
+              "tip_5lang": {
+                "de": "Ein Ort der inneren Einkehr und Wärme.",
+                "hu": "A belső elcsendesedés és a melegség helye.",
+                "ro": "Un loc de reculegere și căldură.",
+                "en": "A place of inner reflection and warmth."
+              }
+            },
+            {
+              "name": "Kamenmost (Transit Stop)",
+              "tip_5lang": {
+                "de": "Achten Sie auf die genauen Abfahrtszeiten im Winter.",
+                "hu": "Ügyeljen a pontos téli indulási időkre.",
+                "ro": "Atenție la orele exacte de plecare pe timp de iarnă.",
+                "en": "Pay attention to the exact winter departure times."
+              }
+            },
+            {
+              "name": "Vrljika River Relaxation",
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt reicht bei Frost.",
+                "hu": "Rövid tartózkodás is elég fagy esetén.",
+                "ro": "O ședere scurtă este suficientă în caz de îngheț.",
+                "en": "A short stay is enough in frosty conditions."
+              }
+            },
+            {
+              "name": "Late Lunch in the Village",
+              "tip_5lang": {
+                "de": "Warten Sie im Warmen auf den Bus.",
+                "hu": "Várja a buszt a melegben.",
+                "ro": "Așteptați autobuzul la căldură.",
+                "en": "Wait for the bus in the warmth."
+              }
+            },
+            {
+              "name": "Final Rest in Center",
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Heißgetränk.",
+                "hu": "Zárja a napot egy forró itallal.",
+                "ro": "Încheiați ziua cu o băutură fierbinte.",
+                "en": "End the day with a hot drink."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Winterschuhe für die Wartezeiten.",
+              "Beachten Sie mögliche Fahrplanänderungen im Winter.",
+              "Halten Sie sich in den Pausen in beheizten Innenräumen auf.",
+              "Tragen Sie Reflektoren bei Dunkelheit."
+            ],
+            "hu": [
+              "Viseljen meleg téli cipőt a várakozáshoz.",
+              "Vegye figyelembe a lehetséges téli menetrendváltozásokat.",
+              "A szünetekben tartózkodjon fűtött beltérben.",
+              "Sötétben viseljen fényvisszaverőt."
+            ],
+            "ro": [
+              "Purtați încălțăminte de iarnă călduroasă pentru așteptare.",
+              "Țineți cont de posibilele modificări de program pe timp de iarnă.",
+              "Stați în spații interioare încălzite în timpul pauzelor.",
+              "Purtați elemente reflectorizante pe întuneric."
+            ],
+            "en": [
+              "Wear warm winter shoes for the waiting times.",
+              "Note possible schedule changes in winter.",
+              "Stay in heated indoor areas during breaks.",
+              "Wear reflectors in the dark."
+            ]
+          }
+        }
       }
     }
   }

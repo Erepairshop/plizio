@@ -248,6 +248,206 @@
           "Wear comfortable shoes as the streets are often steep.",
           "Try the local wine made from the Cetinka grape variety."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt unter den schützenden Linden der Zlinje-Allee. Mittags bieten das Svetište und die Etno kuća Barilo ideale, trockene Rückzugsorte voller Kultur. Am Nachmittag lockt der lokale Markt mit frischen Düften, bevor der Tag bei einem wärmenden Essen in einer gemütlichen Konoba ausklingt.",
+            "hu": "Az esős reggel a Zlinje hárssétány lombjai alatt indul, amely némi védelmet nyújt. Délben a kegyhely és a Barilo néprajzi ház fedett tereiben ismerkedhetünk a helyi múlttal. Délután a piacon a friss eső illata terjeng, az estét pedig egy kandalló mellett elköltött konoba-vacsora teszi teljessé.",
+            "ro": "O dimineață ploioasă începe sub teii protectori de pe aleea Zlinje. La prânz, sanctuarul și casa etnografică Barilo oferă refugii culturale uscate. După-amiaza, piața locală emană arome proaspete, iar ziua se încheie cu o masă caldă într-o konoba primitoare.",
+            "en": "A rainy morning begins under the sheltering lime trees of Zlinje alley. At noon, the sanctuary and Barilo Ethno House offer perfect dry cultural retreats. Afternoon brings fresh scents at the local market, followed by a cozy dinner in a warm konoba to escape the damp weather."
+          },
+          "stops": [
+            {
+              "name": "Zlinje (Lindenallee) / Zlinje (Hárssétány)",
+              "tip_5lang": {
+                "de": "Das dichte Blätterdach bietet bei leichtem Regen guten Schutz.",
+                "hu": "A sűrű lombozat enyhe esőben jó menedéket nyújt.",
+                "ro": "Coronamentul des oferă o protecție bună în caz de ploaie ușoară.",
+                "en": "The thick canopy provides good shelter during light rain."
+              }
+            },
+            {
+              "name": "Svetište Marije Propetog Isusa Petković",
+              "tip_5lang": {
+                "de": "Ein stiller, trockener Ort für spirituelle Einkehr.",
+                "hu": "Csendes, száraz hely a spirituális elmélyüléshez.",
+                "ro": "Un loc liniștit și uscat pentru reflecție spirituală.",
+                "en": "A quiet, dry place for spiritual reflection."
+              }
+            },
+            {
+              "name": "Župna crkva Svih Svetih",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kunst im Inneren, während es draußen regnet.",
+                "hu": "Csodálja meg a belső művészeti kincseket, amíg kint esik.",
+                "ro": "Admirați arta interioară în timp ce afară plouă.",
+                "en": "Admire the interior art while it rains outside."
+              }
+            },
+            {
+              "name": "Etno kuća Barilo",
+              "tip_5lang": {
+                "de": "Perfekt für Regentage: Eine riesige Sammlung unter Dach.",
+                "hu": "Tökéletes esős napra: hatalmas gyűjtemény fedél alatt.",
+                "ro": "Perfect pentru zilele ploioase: o colecție vastă sub acoperiș.",
+                "en": "Perfect for rainy days: a vast collection under one roof."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba / Ebéd egy konobában",
+              "tip_5lang": {
+                "de": "Genießen Sie lokale Spezialitäten am warmen Kamin.",
+                "hu": "Élvezze a helyi specialitásokat a meleg kandalló mellett.",
+                "ro": "Savurați specialități locale lângă șemineul cald.",
+                "en": "Enjoy local specialties by the warm fireplace."
+              }
+            },
+            {
+              "name": "Helyi termelői piac / Lokaler Markt",
+              "tip_5lang": {
+                "de": "Kaufen Sie regionale Produkte unter den Arkaden.",
+                "hu": "Vásároljon helyi termékeket az árkádok védelmében.",
+                "ro": "Cumpărați produse regionale sub arcade.",
+                "en": "Buy regional products under the protection of the arcades."
+              }
+            },
+            {
+              "name": "Aussichtspunkt auf das Feld / Kilátó a blatói mezőre",
+              "tip_5lang": {
+                "de": "Dramatische Wolkenformationen über dem fruchtbaren Feld.",
+                "hu": "Dramatikus felhők a termékeny blatói mező felett.",
+                "ro": "Formațiuni spectaculoase de nori deasupra câmpului fertil.",
+                "en": "Dramatic cloud formations over the fertile field."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen der Winde auf der Insel ratsam.",
+              "Die Steinpflasterung in der Altstadt kann bei Nässe rutschig sein.",
+              "Die Etno kuća Barilo ist der beste Ort, um einen starken Guss abzuwarten.",
+              "Nutzen Sie die Regenpause für den kurzen Weg zum Aussichtspunkt."
+            ],
+            "hu": [
+              "A szigeti szelek miatt egy stabil esernyő ajánlott.",
+              "Az óváros kőburkolata nedvesen csúszóssá válhat.",
+              "A Barilo néprajzi ház a legjobb hely egy nagyobb zápor kivárására.",
+              "Használja ki az esőszünetet a kilátóhoz vezető rövid sétához."
+            ],
+            "ro": [
+              "Se recomandă o umbrelă rezistentă din cauza vântului de pe insulă.",
+              "Pavajul de piatră din centrul vechi poate deveni alunecos când este ud.",
+              "Casa Barilo este cel mai bun loc pentru a aștepta trecerea unei ploi torențiale.",
+              "Profită de pauzele de ploaie pentru scurta plimbare spre punctul de belvedere."
+            ],
+            "en": [
+              "A sturdy umbrella is advised due to island winds.",
+              "The stone paving in the old town can be slippery when wet.",
+              "Barilo Ethno House is the best spot to wait out a heavy downpour.",
+              "Use rain breaks for the short walk to the viewpoint."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Blato ist mild, aber frisch unter der kahlen Lindenallee. Vormittags laden die Kirchen und das Museum zur Zeitreise in die Inselgeschichte ein. Nach dem Mittagessen in einer beheizten Konoba bietet der Blick auf das winterliche Feld eine melancholische Schönheit, bevor es früh dunkel wird.",
+            "hu": "A blatói téli reggel enyhe, de friss a kopár hárssétány alatt. Délelőtt a templomok és a múzeum hívogatnak időutazásra a sziget történelmébe. Egy fűtött konobában elköltött ebéd után a téli mező látványa melankolikus szépséget áraszt, mielőtt korán leszáll az éj.",
+            "ro": "Dimineața de iarnă în Blato este blândă, dar proaspătă sub teii desfrunziți. Înainte de prânz, bisericile și muzeul vă invită la o călătorie în istoria insulei. După o masă într-o konoba încălzită, vederea asupra câmpului hibernal oferă o frumusețe melancolică înainte de lăsarea serii.",
+            "en": "Winter mornings in Blato are mild yet crisp under the bare lime trees. Before noon, the churches and museum invite you on a journey through island history. After lunch in a heated konoba, the winter field view offers a melancholic beauty before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Zlinje (Lindenallee) / Zlinje (Hárssétány)",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft auf der berühmten Allee.",
+                "hu": "Élvezze a tiszta téli levegőt a híres sétányon.",
+                "ro": "Bucurați-vă de aerul curat de iarnă pe faimoasa alee.",
+                "en": "Enjoy the crisp winter air on the famous avenue."
+              }
+            },
+            {
+              "name": "Svetište Marije Propetog Isusa Petković",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum der Seligen im Warmen.",
+                "hu": "Látogassa meg a Boldogasszony múzeumát a melegben.",
+                "ro": "Vizitați muzeul fericitei la căldură.",
+                "en": "Visit the museum of the Blessed in the warmth."
+              }
+            },
+            {
+              "name": "Župna crkva Svih Svetih",
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und Wärme an kalten Tagen.",
+                "hu": "A csend és a meleg szigete a hideg napokon.",
+                "ro": "Un loc de liniște și căldură în zilele reci.",
+                "en": "A place of silence and warmth on cold days."
+              }
+            },
+            {
+              "name": "Etno kuća Barilo",
+              "tip_5lang": {
+                "de": "Erfahren Sie bei einer Tasse Tee mehr über das Inselleben.",
+                "hu": "Tudjon meg többet a szigeti életről egy csésze tea mellett.",
+                "ro": "Aflați mai multe despre viața pe insulă la o ceașcă de ceai.",
+                "en": "Learn more about island life over a cup of tea."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba / Ebéd egy konobában",
+              "tip_5lang": {
+                "de": "Probieren Sie herzhafte Wintergerichte wie Peka.",
+                "hu": "Kóstolja meg a kiadós téli ételeket, például a pekát.",
+                "ro": "Încercați mâncărurile consistente de iarnă, cum ar fi peka.",
+                "en": "Try hearty winter dishes like Peka."
+              }
+            },
+            {
+              "name": "Helyi termelői piac / Lokaler Markt",
+              "tip_5lang": {
+                "de": "Suchen Sie nach getrockneten Feigen und lokalem Olivenöl.",
+                "hu": "Keressen aszalt fügét és helyi olívaolajat.",
+                "ro": "Căutați smochine uscate și ulei de măsline local.",
+                "en": "Look for dried figs and local olive oil."
+              }
+            },
+            {
+              "name": "Aussichtspunkt auf das Feld / Kilátó a blatói mezőre",
+              "tip_5lang": {
+                "de": "Beste Sicht bei tiefstehender Wintersonne.",
+                "hu": "Legjobb kilátás az alacsonyan járó téli napfényben.",
+                "ro": "Cea mai bună vedere sub soarele blând de iarnă.",
+                "en": "Best view under the low winter sun."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip für den kühlen Wind.",
+              "Der Sonnenuntergang ist bereits gegen 16:30 Uhr.",
+              "Viele Cafés haben im Winter nur begrenzte Außenbestuhlung.",
+              "Genießen Sie die Ruhe, da kaum Touristen im Ort sind."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a hűvös szél miatt.",
+              "A naplemente már 16:30 körül bekövetkezik.",
+              "Sok kávézó télen korlátozott kültéri asztallal üzemel.",
+              "Élvezze a nyugalmat, mivel ilyenkor alig van turista."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru vântul răcoros.",
+              "Apusul are loc deja în jurul orei 16:30.",
+              "Multe cafenele au locuri limitate la terasă iarna.",
+              "Bucurați-vă de liniște, deoarece sunt puțini turiști în oraș."
+            ],
+            "en": [
+              "Dress in layers to protect against the cool wind.",
+              "Sunset is early, around 4:30 PM.",
+              "Many cafes have limited outdoor seating in winter.",
+              "Enjoy the peace as there are very few tourists."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -490,6 +690,206 @@
           "The descent to Prigradica is steep, check your brakes.",
           "Take enough water for the way back."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Radtour trotz Regen durch das grüne Herz Korčulas. Die Fahrt nach Prigradica erfordert Vorsicht auf nassen Straßen, belohnt aber mit einsamen Ausblicken auf das aufgewühlte Meer. Nach einem Museumsbesuch wärmt ein Mittagessen, bevor es durch die feuchte Insellandschaft zurück nach Blato geht.",
+            "hu": "Frissítő kerékpártúra az eső ellenére is Korčula zöld szívében. A Prigradicába vezető út óvatosságot igényel a nedves aszfalton, de magányos kilátással jutalmaz a felkavart tengerre. A múzeumlátogatás után egy ebéd melegít fel, mielőtt visszatérnénk Blatóba.",
+            "ro": "O tură revigorantă cu bicicleta, în ciuda ploii, prin inima verde a insulei Korčula. Drumul spre Prigradica necesită prudență pe asfaltul ud, dar oferă vederi solitare asupra mării agitate. După vizitarea muzeului, prânzul vă va încălzi înainte de întoarcerea în Blato.",
+            "en": "A refreshing bike ride despite the rain through Korčula's green heart. The ride to Prigradica requires caution on wet roads but rewards you with solitary views of the churning sea. After a museum visit, lunch warms you up before heading back to Blato."
+          },
+          "stops": [
+            {
+              "name": "Zlinje (Lindenallee)",
+              "tip_5lang": {
+                "de": "Starten Sie vorsichtig auf dem nassen Untergrund.",
+                "hu": "Induljon óvatosan a nedves talajon.",
+                "ro": "Porniți cu prudență pe suprafața umedă.",
+                "en": "Start carefully on the wet ground."
+              }
+            },
+            {
+              "name": "Etno kuća Barilo",
+              "tip_5lang": {
+                "de": "Stellen Sie die Räder im Trockenen ab.",
+                "hu": "Parkolja le a kerékpárokat fedett helyen.",
+                "ro": "Parcați bicicletele la loc uscat.",
+                "en": "Park your bikes in a dry spot."
+              }
+            },
+            {
+              "name": "Župna crkva Svih Svetih",
+              "tip_5lang": {
+                "de": "Kurze Pause im trockenen Kirchenschiff.",
+                "hu": "Rövid pihenő a száraz templomhajóban.",
+                "ro": "Scurtă pauză în nava uscată a bisericii.",
+                "en": "Short break in the dry nave."
+              }
+            },
+            {
+              "name": "Ebéd egy konobában / Mittagessen",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Ausrüstung während des Essens.",
+                "hu": "Szárítsa meg felszerelését az ebéd alatt.",
+                "ro": "Uscați-vă echipamentul în timpul mesei.",
+                "en": "Dry your gear during lunch."
+              }
+            },
+            {
+              "name": "Hafen von Prigradica / Prigradica kikötő",
+              "tip_5lang": {
+                "de": "Das Meer wirkt bei Regen besonders rau und wild.",
+                "hu": "A tenger esőben különösen vadnak tűnik.",
+                "ro": "Marea pare deosebit de aspră și sălbatică pe ploaie.",
+                "en": "The sea looks especially rough and wild in the rain."
+              }
+            },
+            {
+              "name": "Strandpause in Prigradica / Strandidő",
+              "tip_5lang": {
+                "de": "Unterstand am Strand suchen, Meeresrauschen genießen.",
+                "hu": "Keressen menedéket a parton, élvezze a tenger morajlását.",
+                "ro": "Căutați adăpost pe plajă și ascultați marea.",
+                "en": "Seek shelter on the beach and enjoy the sound of waves."
+              }
+            },
+            {
+              "name": "Aussichtspunkt auf dem Rückweg / Kilátó",
+              "tip_5lang": {
+                "de": "Vorsicht beim Anhalten auf unbefestigtem Randstreifen.",
+                "hu": "Vigyázat a megállásnál a nem aszfaltozott útpadkán.",
+                "ro": "Atenție la oprirea pe marginea neasfaltată a drumului.",
+                "en": "Be careful when stopping on unpaved roadsides."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Kleidung und helle Farben.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt nach Prigradica.",
+              "Vermeiden Sie hektische Lenkbewegungen auf nassen Kurven.",
+              "Nutzen Sie wasserdichte Taschen für Wertsachen."
+            ],
+            "hu": [
+              "Viseljen vízálló ruházatot és világos színeket.",
+              "Prigradica felé indulás előtt ellenőrizze a fékeket.",
+              "Kerülje a hirtelen kormánymozdulatokat a nedves kanyarokban.",
+              "Használjon vízálló táskát értékei védelmében."
+            ],
+            "ro": [
+              "Purtați haine impermeabile și culori luminoase.",
+              "Verificați frânele înainte de coborârea spre Prigradica.",
+              "Evitați manevrele bruște în curbele umede.",
+              "Folosiți genți impermeabile pentru obiectele de valoare."
+            ],
+            "en": [
+              "Wear waterproof clothing and bright colors.",
+              "Check your brakes before heading down to Prigradica.",
+              "Avoid sudden steering in wet curves.",
+              "Use waterproof bags for your valuables."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine ruhige Wintertour durch die Weinberge von Blato hinunter ans Meer. Die kühle Luft ist belebend, und die Straßen gehören Ihnen fast allein. Nach dem kulturellen Vormittag wärmt ein kräftiges Mittagessen auf, bevor die einsame Küste von Prigradica zur meditativen Pause einlädt, bevor die frühe Dämmerung einsetzt.",
+            "hu": "Csendes téli túra Blato szőlőskertjei között le egészen a tengerig. A hűvös levegő élénkítő, az utak pedig szinte csak az Önéi. A kulturális délelőtt után egy kiadós ebéd ad erőt, majd Prigradica magányos partja hívogat meditatív pihenőre a korai szürkület előtt.",
+            "ro": "O tură liniștită de iarnă prin podgoriile din Blato până la mare. Aerul răcoros este revigorant, iar drumurile sunt aproape pustii. După o dimineață culturală, un prânz consistent vă va da energie pentru coasta solitară din Prigradica, ideală pentru relaxare înainte de amurg.",
+            "en": "A peaceful winter ride through the vineyards of Blato down to the sea. The crisp air is invigorating, and the roads are almost entirely yours. After a cultural morning, a hearty lunch fuels you for the solitary coast of Prigradica, perfect for a meditative break before dusk."
+          },
+          "stops": [
+            {
+              "name": "Zlinje (Lindenallee)",
+              "tip_5lang": {
+                "de": "Die kühle Brise weht kräftig durch die Allee.",
+                "hu": "A hűvös szellő erősen fúj át a sétányon.",
+                "ro": "Briza răcoroasă suflă cu putere prin alee.",
+                "en": "The cool breeze blows strongly through the avenue."
+              }
+            },
+            {
+              "name": "Etno kuća Barilo",
+              "tip_5lang": {
+                "de": "Ein wunderbar beheizter Ort voller Geschichten.",
+                "hu": "Csodálatosan fűtött hely, tele történetekkel.",
+                "ro": "Un loc minunat încălzit, plin de povești.",
+                "en": "A wonderfully heated place full of stories."
+              }
+            },
+            {
+              "name": "Župna crkva Svih Svetih",
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Altäre ohne Besuchermassen.",
+                "hu": "Tekintse meg az oltárokat tömeg nélkül.",
+                "ro": "Vizitați altarele fără mulțimi de turiști.",
+                "en": "View the altars without the crowds."
+              }
+            },
+            {
+              "name": "Ebéd egy konobában / Mittagessen",
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem hausgemachten Kräuterschnaps.",
+                "hu": "Kérdezze a házi gyógynövényes pálinkát (travarica).",
+                "ro": "Întrebați de rachiul local de ierburi.",
+                "en": "Ask for the homemade herbal brandy (travarica)."
+              }
+            },
+            {
+              "name": "Hafen von Prigradica / Prigradica kikötő",
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier absolute Stille.",
+                "hu": "Télen itt abszolút csend uralkodik.",
+                "ro": "Iarna aici domnește o liniște absolută.",
+                "en": "Absolute silence prevails here in winter."
+              }
+            },
+            {
+              "name": "Strandpause in Prigradica / Strandidő",
+              "tip_5lang": {
+                "de": "Nur für Hartgesottene: Ein Strandspaziergang im Wind.",
+                "hu": "Csak elszántaknak: tengerparti séta a szélben.",
+                "ro": "Doar pentru cei curajoși: o plimbare pe plajă în vânt.",
+                "en": "Only for the brave: a beach walk in the wind."
+              }
+            },
+            {
+              "name": "Aussichtspunkt auf dem Rückweg / Kilátó",
+              "tip_5lang": {
+                "de": "Machen Sie das Foto schnell, bevor die Sonne sinkt.",
+                "hu": "Készítsen gyorsan fotót, mielőtt lemegy a nap.",
+                "ro": "Faceți fotografia repede înainte să apună soarele.",
+                "en": "Take your photo quickly before the sun sets."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe und eine Mütze gegen den Fahrtwind.",
+              "Achten Sie auf die kürzere Tageslichtdauer.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee mit.",
+              "Einige Anstiege halten Sie angenehm warm."
+            ],
+            "hu": [
+              "Viseljen kesztyűt és sapkát a menetszél ellen.",
+              "Ügyeljen a rövidebb nappalokra.",
+              "Vigyen magával termoszban meleg teát.",
+              "Az emelkedők kellemesen melegen tartják majd."
+            ],
+            "ro": [
+              "Purtați mănuși și căciulă împotriva vântului.",
+              "Aveți grijă la durata scurtă a luminii naturale.",
+              "Luați un termos cu ceai cald.",
+              "Unele urcări vă vor menține temperatura corpului."
+            ],
+            "en": [
+              "Wear gloves and a hat against the wind chill.",
+              "Be mindful of the shorter daylight hours.",
+              "Bring a thermos with warm tea.",
+              "Some climbs will keep you pleasantly warm."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -757,6 +1157,224 @@
           "In Blato, it's best to park near Zlinje alley.",
           "In Prigradica, parking can be tight in high summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine entspannte Fahrt durch das neblige Korčula, geschützt vor dem Regen. Blato zeigt sich von seiner mystischen Seite, während Sie kulturelle Schätze im Trockenen besuchen. Die Küstenfahrt nach Prigradica bietet spektakuläre Ausblicke auf das graue Meer, bevor ein langes Mittagessen in Meeresnähe den Regentag perfekt abrundet.",
+            "hu": "Kellemes autózás a ködös Korčulán, védve az esőtől. Blato misztikus oldalát mutatja, miközben szárazon látogathatja a kulturális kincseket. A part menti út Prigradicába látványos kilátást nyújt a szürke tengerre, majd egy hosszú, tengerparti ebéd teszi teljessé az esős napot.",
+            "ro": "O călătorie relaxantă prin Korčula cețoasă, la adăpost de ploaie. Blato își arată latura mistică în timp ce vizitați comorile culturale la uscat. Drumul spre Prigradica oferă vederi spectaculoase asupra mării gri, urmate de un prânz lung lângă țărm.",
+            "en": "A relaxed drive through misty Korčula, protected from the rain. Blato shows its mystical side as you visit cultural treasures in the dry. The coastal drive to Prigradica offers spectacular views of the grey sea, followed by a long lunch near the shore."
+          },
+          "stops": [
+            {
+              "name": "Zlinje (Cluster A)",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Zentrum für kurze Wege.",
+                "hu": "Parkoljon a központhoz közel a rövid séta érdekében.",
+                "ro": "Parcați aproape de centru pentru drumuri scurte.",
+                "en": "Park close to the center for short walks."
+              }
+            },
+            {
+              "name": "Svetište Marije Propetog Isusa Petković",
+              "tip_5lang": {
+                "de": "Direkter Zugang zum Museumsbereich.",
+                "hu": "Közvetlen bejárat a múzeumi részhez.",
+                "ro": "Acces direct la zona muzeului.",
+                "en": "Direct access to the museum area."
+              }
+            },
+            {
+              "name": "Župna crkva Svih Svetih",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als Regenschutz.",
+                "hu": "Használja a templombejáratot eső elleni védelemként.",
+                "ro": "Folosiți intrarea bisericii ca adăpost.",
+                "en": "Use the church entrance as rain cover."
+              }
+            },
+            {
+              "name": "Etno kuća Barilo",
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, wenn es draußen schüttet.",
+                "hu": "Ideális megálló, ha kint szakad az eső.",
+                "ro": "O oprire ideală când afară plouă torențial.",
+                "en": "An ideal stop when it's pouring outside."
+              }
+            },
+            {
+              "name": "Strand von Prigradica (Cluster B)",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen vom Auto aus.",
+                "hu": "Figyelje a hullámokat az autóból.",
+                "ro": "Priviți valurile din mașină.",
+                "en": "Watch the waves from the car."
+              }
+            },
+            {
+              "name": "Hafen-Spaziergang / Harbour Walk",
+              "tip_5lang": {
+                "de": "Kurzer Sprint zum Kai zwischen den Schauern.",
+                "hu": "Gyors séta a mólón a záporok között.",
+                "ro": "Scurtă plimbare pe chei între averse.",
+                "en": "Short sprint to the pier between showers."
+              }
+            },
+            {
+              "name": "Spätes Mittagessen am Meer / Ebéd",
+              "tip_5lang": {
+                "de": "Warme Atmosphäre mit Blick auf das Regenmeer.",
+                "hu": "Meleg hangulat, kilátással az esős tengerre.",
+                "ro": "Atmosferă caldă cu vedere la marea ploioasă.",
+                "en": "Warm atmosphere with a view of the rainy sea."
+              }
+            },
+            {
+              "name": "Sonnenuntergangs-Stopp / Naplemente",
+              "tip_5lang": {
+                "de": "Wolkenkino statt Sonnenuntergang genießen.",
+                "hu": "Élvezze a felhőjátékot naplemente helyett.",
+                "ro": "Bucurați-vă de spectacolul norilor în loc de apus.",
+                "en": "Enjoy the cloud display instead of a sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fahren Sie vorsichtig auf den kurvigen Straßen bei Aquaplaning.",
+              "Parken Sie in Prigradica nah an der Konoba.",
+              "Halten Sie die Fenster für freie Sicht entfeuchtet.",
+              "Regenschirme im Kofferraum griffbereit halten."
+            ],
+            "hu": [
+              "Vezessen óvatosan a kanyargós utakon a vízátfolyások miatt.",
+              "Prigradicában parkoljon közel a konobához.",
+              "Párátlanítsa az ablakokat a tiszta kilátásért.",
+              "Tartsa az esernyőket a csomagtartóban könnyen elérhető helyen."
+            ],
+            "ro": [
+              "Conduceți cu prudență pe drumurile virajate din cauza acvaplanării.",
+              "Parcați în Prigradica aproape de konoba.",
+              "Dezaburiți geamurile pentru o vizibilitate clară.",
+              "Țineți umbrelele la îndemână în portbagaj."
+            ],
+            "en": [
+              "Drive carefully on winding roads due to hydroplaning.",
+              "Park in Prigradica close to the konoba.",
+              "Keep windows defogged for a clear view.",
+              "Keep umbrellas handy in the trunk."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Erkundungstour mit dem Auto durch das winterliche Blato. Sie genießen maximale Flexibilität und Wärme zwischen den kulturellen Stopps. Der Besuch in Prigradica zeigt die raue, einsame Schönheit der Adria im Winter. Den Tag krönt ein spätes, herzhaftes Mittagessen und ein kurzer Halt für die goldene Stunde, bevor die Nacht einbricht.",
+            "hu": "Kényelmes felfedezőút autóval a téli Blatóban. Maximális rugalmasságot és meleget élvezhet a kulturális megállók között. A prigradicai látogatás megmutatja az Adria zord, magányos téli szépségét. A napot egy kiadós ebéd és egy rövid megálló koronázza meg az aranyórában.",
+            "ro": "O explorare confortabilă cu mașina prin Blato hibernal. Vă bucurați de flexibilitate maximă și căldură între oprirea culturală. Vizita în Prigradica dezvăluie frumusețea aspră și solitară a Adriaticii iarna. Ziua se încheie cu un prânz consistent și o scurtă oprire la apus.",
+            "en": "A cozy exploration by car through winter Blato. Enjoy maximum flexibility and warmth between cultural stops. A visit to Prigradica reveals the rugged, solitary beauty of the Adriatic in winter. The day is crowned by a late, hearty lunch and a quick stop for the golden hour."
+          },
+          "stops": [
+            {
+              "name": "Zlinje (Cluster A)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in der berühmten Allee.",
+                "hu": "Élvezze a nyugalmat a híres sétányon.",
+                "ro": "Bucurați-vă de liniște pe faimoasa alee.",
+                "en": "Enjoy the tranquility in the famous avenue."
+              }
+            },
+            {
+              "name": "Svetište Marije Propetog Isusa Petković",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter reichlich vorhanden.",
+                "hu": "Télen bőségesen talál parkolóhelyet.",
+                "ro": "Locurile de parcare sunt din abundență iarna.",
+                "en": "Parking spaces are plentiful in winter."
+              }
+            },
+            {
+              "name": "Župna crkva Svih Svetih",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche ohne sommerliche Hitze.",
+                "hu": "Látogassa meg a templomot a nyári hőség nélkül.",
+                "ro": "Vizitați biserica fără căldura verii.",
+                "en": "Visit the church without the summer heat."
+              }
+            },
+            {
+              "name": "Etno kuća Barilo",
+              "tip_5lang": {
+                "de": "Ein Highlight: Geschichte in gemütlicher Atmosphäre.",
+                "hu": "Fénypont: történelem meghitt hangulatban.",
+                "ro": "Un punct culminant: istorie într-o atmosferă primitoare.",
+                "en": "A highlight: history in a cozy atmosphere."
+              }
+            },
+            {
+              "name": "Strand von Prigradica (Cluster B)",
+              "tip_5lang": {
+                "de": "Ein einsamer Spaziergang am Wintermeer.",
+                "hu": "Egy magányos séta a téli tengerparton.",
+                "ro": "O plimbare solitară pe malul mării iarna.",
+                "en": "A solitary walk by the winter sea."
+              }
+            },
+            {
+              "name": "Hafen-Spaziergang / Harbour Walk",
+              "tip_5lang": {
+                "de": "Erleben Sie den authentischen Fischerhafen.",
+                "hu": "Ismerje meg az autentikus halászkikötőt.",
+                "ro": "Experimentați portul de pescuit autentic.",
+                "en": "Experience the authentic fishing harbor."
+              }
+            },
+            {
+              "name": "Spätes Mittagessen am Meer / Ebéd",
+              "tip_5lang": {
+                "de": "Winter-Spezialitäten in Meeresnähe genießen.",
+                "hu": "Élvezze a téli specialitásokat a tenger közelében.",
+                "ro": "Savurați specialitățile de iarnă lângă mare.",
+                "en": "Enjoy winter specialties near the sea."
+              }
+            },
+            {
+              "name": "Sonnenuntergangs-Stopp / Naplemente",
+              "tip_5lang": {
+                "de": "Früher Stopp für das beste Licht des Tages.",
+                "hu": "Korai megálló a nap legjobb fényeihez.",
+                "ro": "Oprire timpurie pentru cea mai bună lumină a zilei.",
+                "en": "Early stop for the best light of the day."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei niedrigeren Temperaturen.",
+              "Die Straßen sind im Winter oft leer, aber schattige Stellen können glatt sein.",
+              "Nehmen Sie Decken für die Pausen am Meer mit.",
+              "Nutzen Sie das Tageslicht bis 16:30 Uhr voll aus."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást az alacsonyabb hőmérsékleten.",
+              "Az utak télen üresek, de az árnyékos részek csúszósak lehetnek.",
+              "Vigyen takarót a tengerparti pihenőkhöz.",
+              "Használja ki a nappali fényt 16:30-ig."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope la temperaturi scăzute.",
+              "Drumurile sunt pustii iarna, dar zonele umbrite pot fi alunecoase.",
+              "Luați pături pentru pauzele de pe malul mării.",
+              "Profitați din plin de lumina naturală până la 16:30."
+            ],
+            "en": [
+              "Check tire pressure in lower temperatures.",
+              "Roads are empty in winter, but shaded spots can be slick.",
+              "Bring blankets for seaside breaks.",
+              "Make the most of daylight until 4:30 PM."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -986,6 +1604,188 @@
           "Tickets can be bought directly from the bus driver.",
           "Buses run less frequently on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus trocken durch das Herz der Insel. Der Vormittag in Blato bietet Kultur unter festem Dach, bevor die Fahrt nach Prigradica Sie direkt an die Küste bringt. Während draußen der Regen fällt, genießen Sie in einer Konoba am Hafen den Blick auf das raue Meer, bevor Sie der Transit sicher zurückbringt.",
+            "hu": "Busszal szárazon a sziget szívében. A blatói délelőtt fedett kulturális élményeket kínál, mielőtt a prigradicai járat közvetlenül a partra viszi. Amíg kint esik, egy kikötői konobában élvezheti a vad tenger látványát, mielőtt a busz biztonságban visszaszállítaná.",
+            "ro": "Cu autobuzul, la adăpost, prin inima insulei. Dimineața în Blato oferă cultură sub acoperiș, înainte ca cursa spre Prigradica să vă ducă direct la coastă. În timp ce afară plouă, savurați vederea mării agitate dintr-o konoba, înainte de întoarcere.",
+            "en": "Travel dry by bus through the heart of the island. A morning in Blato offers indoor culture before the bus to Prigradica takes you straight to the coast. While it rains outside, enjoy the view of the rough sea from a harbor konoba before the transit brings you back safely."
+          },
+          "stops": [
+            {
+              "name": "Zlinje / Blato Zentrum",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet Schutz vor Regen.",
+                "hu": "A buszmegálló védelmet nyújt az eső elől.",
+                "ro": "Stația de autobuz oferă adăpost împotriva ploii.",
+                "en": "The bus stop provides shelter from the rain."
+              }
+            },
+            {
+              "name": "Župna crkva Svih Svetih",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Bus zur Kirche.",
+                "hu": "Rövid séta a busztól a templomig.",
+                "ro": "Scurtă plimbare de la autobuz la biserică.",
+                "en": "Short walk from the bus to the church."
+              }
+            },
+            {
+              "name": "Etno kuća Barilo",
+              "tip_5lang": {
+                "de": "Verbringen Sie hier entspannt die Zeit bis zum nächsten Bus.",
+                "hu": "Töltse itt az időt kényelmesen a következő buszig.",
+                "ro": "Petreceți timpul relaxat aici până la următorul autobuz.",
+                "en": "Spend your time here comfortably until the next bus."
+              }
+            },
+            {
+              "name": "Ebéd a városban / Mittagessen",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant nah an der Haltestelle.",
+                "hu": "Válasszon éttermet a megálló közelében.",
+                "ro": "Alegeți un restaurant aproape de stație.",
+                "en": "Choose a restaurant close to the stop."
+              }
+            },
+            {
+              "name": "Prigradica Hafen (Busfahrt)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht aus dem trockenen Busfenster.",
+                "hu": "Élvezze a kilátást a száraz buszablakból.",
+                "ro": "Bucurați-vă de priveliște de la fereastra uscată a autobuzului.",
+                "en": "Enjoy the view from the dry bus window."
+              }
+            },
+            {
+              "name": "Strandpause / Gelato",
+              "tip_5lang": {
+                "de": "Ein heißer Kaffee statt Gelato wärmt bei Regen.",
+                "hu": "Egy forró kávé fagylalt helyett felmelegít az esőben.",
+                "ro": "O cafea fierbinte în loc de înghețată vă va încălzi.",
+                "en": "A hot coffee instead of gelato warms you in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den aktuellen Arriva-Fahrplan online.",
+              "Haben Sie Kleingeld für das Ticket bereit.",
+              "Die Busse sind im Winter meist pünktlich.",
+              "Nutzen Sie die Wartehäuschen als Treffpunkt."
+            ],
+            "hu": [
+              "Ellenőrizze az aktuális Arriva menetrendet online.",
+              "Legyen nálad aprópénz a jegyre.",
+              "A buszok télen általában pontosak.",
+              "Használja a várótermeket találkozási pontként."
+            ],
+            "ro": [
+              "Verificați programul actual Arriva online.",
+              "Aveți pregătit mărunt pentru bilet.",
+              "Autobuzele sunt de obicei punctuale iarna.",
+              "Folosiți stațiile acoperite ca punct de întâlnire."
+            ],
+            "en": [
+              "Check the current Arriva schedule online.",
+              "Have small change ready for the ticket.",
+              "Buses are usually punctual in winter.",
+              "Use bus shelters as meeting points."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Ruhe im Transit zwischen den Hügeln und dem Meer. Der Tag in Blato gehört Ihnen fast allein, während Sie die kulturellen Highlights im milden Klima besichtigen. Die Busfahrt nach Prigradica bietet einen authentischen Einblick in das Inselleben fernab der Saison, gefolgt von einem ruhigen Moment am Winterstrand.",
+            "hu": "Téli nyugalom a dombok és a tenger közötti járatokon. A blatói nap szinte csak az Öné, miközben a kulturális látnivalókat élvezi az enyhe klímában. A prigradicai buszút hiteles betekintést nyújt a szigeti életbe a szezonon kívül, majd egy csendes pillanat vár a téli parton.",
+            "ro": "Liniște hibernală în tranzit între dealuri și mare. Ziua în Blato vă aparține aproape în totalitate, vizitând atracțiile culturale în climatul blând. Călătoria cu autobuzul spre Prigradica oferă o perspectivă autentică asupra vieții de pe insulă în afara sezonului.",
+            "en": "Winter peace in transit between the hills and the sea. The day in Blato is almost yours alone as you visit cultural highlights in the mild climate. The bus ride to Prigradica offers an authentic glimpse into island life off-season, followed by a quiet moment on the winter beach."
+          },
+          "stops": [
+            {
+              "name": "Zlinje / Blato Zentrum",
+              "tip_5lang": {
+                "de": "Die Allee ist im Winter wunderbar übersichtlich.",
+                "hu": "A sétány télen csodálatosan átlátható.",
+                "ro": "Aleea este minunat de liberă iarna.",
+                "en": "The avenue is wonderfully clear in winter."
+              }
+            },
+            {
+              "name": "Župna crkva Svih Svetih",
+              "tip_5lang": {
+                "de": "Besichtigung ohne Anstehen und Hitze.",
+                "hu": "Látogatás sorban állás és hőség nélkül.",
+                "ro": "Vizită fără cozi și fără căldură.",
+                "en": "Visit without queues or heat."
+              }
+            },
+            {
+              "name": "Etno kuća Barilo",
+              "tip_5lang": {
+                "de": "Fragen Sie nach winterlichen Bräuchen der Insel.",
+                "hu": "Kérdezzen a sziget téli szokásairól.",
+                "ro": "Întrebați despre obiceiurile de iarnă ale insulei.",
+                "en": "Ask about the island's winter customs."
+              }
+            },
+            {
+              "name": "Ebéd a városban / Mittagessen",
+              "tip_5lang": {
+                "de": "Genießen Sie die lokale Küche in Ruhe.",
+                "hu": "Élvezze a helyi konyhát nyugalomban.",
+                "ro": "Savurați bucătăria locală în liniște.",
+                "en": "Enjoy local cuisine in peace."
+              }
+            },
+            {
+              "name": "Prigradica Hafen (Busfahrt)",
+              "tip_5lang": {
+                "de": "Beobachten Sie das winterliche Leben der Fischer.",
+                "hu": "Figyelje meg a halászok téli életét.",
+                "ro": "Observați viața de iarnă a pescarilor.",
+                "en": "Observe the winter life of the fishermen."
+              }
+            },
+            {
+              "name": "Strandpause / Gelato",
+              "tip_5lang": {
+                "de": "Ein Spaziergang am leeren Strand klärt den Kopf.",
+                "hu": "Egy séta az üres strandon kitisztítja a fejet.",
+                "ro": "O plimbare pe plaja pustie vă va limpezi mintea.",
+                "en": "A walk on the empty beach clears the head."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie den reduzierten Winterfahrplan.",
+              "Tragen Sie warme Kleidung für die Wartezeit.",
+              "Die Busse sind beheizt und komfortabel.",
+              "Planen Sie die Rückreise vor Einbruch der Dunkelheit."
+            ],
+            "hu": [
+              "Ügyeljen a ritkított téli menetrendre.",
+              "Viseljen meleg ruhát a várakozási időre.",
+              "A buszok fűtöttek és kényelmesek.",
+              "Tervezze meg a visszautat sötétedés előtt."
+            ],
+            "ro": [
+              "Atenție la programul redus de iarnă.",
+              "Purtați haine groase pentru timpul de așteptare.",
+              "Autobuzele sunt încălzite și confortabile.",
+              "Planificați întoarcerea înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Note the reduced winter schedule.",
+              "Wear warm clothing for the waiting time.",
+              "The buses are heated and comfortable.",
+              "Plan your return trip before dark."
+            ]
+          }
+        }
       }
     }
   }

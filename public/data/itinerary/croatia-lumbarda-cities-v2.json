@@ -292,6 +292,206 @@
           "The sandy beaches are ideal for families with small children.",
           "Take enough water for the walk between the beaches."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen mit einem nebligen Spaziergang am Hafen, wo die Adria eine poetische Ruhe ausstrahlt. Genießen Sie mittags ein langes, authentisches Essen in einer kühlen Steinkonoba, um dem Regen zu entfliehen. Besuchen Sie nachmittags die Kirche und die antike Psefizma, bevor Sie sich bei einer Grk-Weinprobe aufwärmen. Der Abend endet mit sanften Lichtreflexionen auf den nassen Steinstraßen.",
+            "hu": "A reggel ködös és misztikus a kikötőben, az Adriai-tenger szürke színei melankolikus szépséget árasztanak. Az eső elől menekülve töltsön el egy hosszú, autentikus ebédet egy kőfalú konobában. Délután fedezze fel a templomot és a Psefizmát, majd melegedjen fel egy pohár helyi Grk borral. Az este a nedves köveken megcsillanó fényekkel zárul.",
+            "ro": "Începeți dimineața cu o plimbare cețoasă prin port, unde marea Adriatică are o frumusețe melancolică sub nori. La prânz, refugiați-vă într-o konoba tradițională pentru o masă lungă și caldă. După-amiaza, vizitați biserica și situl Psefizma, apoi încălziți-vă cu un pahar de vin Grk local. Seara se încheie cu reflexiile luminilor pe străzile umede de piatră.",
+            "en": "Start your morning with a misty stroll along the harbor, where the grey Adriatic looks surprisingly poetic. Seeking refuge from the rain, enjoy a long, authentic lunch in a stone-walled konoba. Spend the afternoon discovering the ancient Psefizma and the local church, before warming up with a glass of Grk wine. The evening ends with soft reflections on the wet stone streets."
+          },
+          "stops": [
+            {
+              "name": "Lumbarda Harbor Promenade",
+              "tip_5lang": {
+                "de": "Ein fester Regenschirm trotzt den böigen Meereswinden.",
+                "hu": "Egy erős esernyő jól jön a szeles kikötői szakaszon.",
+                "ro": "O umbrelă rezistentă vă va proteja de vântul din port.",
+                "en": "A sturdy umbrella will help against the gusty sea winds."
+              }
+            },
+            {
+              "name": "Crkva sv. Roka",
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen trockenen Rückzugsort für Momente der Stille.",
+                "hu": "A templom belső tere száraz menedéket nyújt az eső elől.",
+                "ro": "Interiorul bisericii oferă un refugiu uscat și liniștit.",
+                "en": "The church interior provides a dry sanctuary from the rain."
+              }
+            },
+            {
+              "name": "Lumbardska psefizma",
+              "tip_5lang": {
+                "de": "Die archäologische Stätte ist bei Regen besonders atmosphärisch.",
+                "hu": "A régészeti lelőhely esőben különleges, borongós hangulatú.",
+                "ro": "Situl arheologic are o atmosferă aparte pe timp de ploaie.",
+                "en": "The archaeological site has a unique atmosphere in the rain."
+              }
+            },
+            {
+              "name": "Lunch in a Local Konoba",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einer dampfenden dalmatinischen Suppe auf.",
+                "hu": "Melegedjen fel egy gőzölgő dalmát hallével vagy levessel.",
+                "ro": "Încălziți-vă cu o supă dalmată fierbinte și aromată.",
+                "en": "Warm up with a steaming Dalmatian soup or fish broth."
+              }
+            },
+            {
+              "name": "Bilin Žal",
+              "tip_5lang": {
+                "de": "Beobachten Sie das wilde Spiel der Wellen vom Ufer aus.",
+                "hu": "Figyelje meg a hullámok játékát a szürke égbolt alatt.",
+                "ro": "Observați jocul valurilor sub cerul dramatic de toamnă.",
+                "en": "Observe the play of the waves under the dramatic grey sky."
+              }
+            },
+            {
+              "name": "Grk Wine Tasting",
+              "tip_5lang": {
+                "de": "Die gemütlichen Verkostungsräume sind der perfekte Ort bei Regen.",
+                "hu": "A barátságos kóstolóhelyiségek a legjobb búvóhelyek esőben.",
+                "ro": "Sălile de degustare primitoare sunt locul perfect pe ploaie.",
+                "en": "The cozy tasting rooms are the best hideouts during rain."
+              }
+            },
+            {
+              "name": "Seaside Sunset Point",
+              "tip_5lang": {
+                "de": "Die nassen Felsen glänzen im dämmrigen Abendlicht.",
+                "hu": "A nedves sziklák és kövek megcsillannak az alkonyatban.",
+                "ro": "Stâncile umede strălucesc frumos în lumina amurgului.",
+                "en": "The wet rocks and stones glisten beautifully in the twilight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe für die gepflasterten Wege.",
+              "Die Weinkeller sind fast immer überdacht und trocken.",
+              "Ein Regenponcho ist bei Wind praktischer als ein Schirm.",
+              "Nutzen Sie die Regenpausen für Fotos am Hafen."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt a kövezett utakhoz.",
+              "A borospincék szinte mindig fedettek és szárazak.",
+              "Szélben egy esőponcsó praktikusabb lehet, mint az ernyő.",
+              "Használja ki az esőszüneteket a kikötői fotózáshoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă pentru drumurile pavate.",
+              "Cramele de vin sunt aproape întotdeauna acoperite și uscate.",
+              "O pelerină de ploaie e mai practică decât umbrela pe vânt.",
+              "Profită de pauzele de ploaie pentru fotografii în port."
+            ],
+            "en": [
+              "Wear waterproof shoes for the paved stone paths.",
+              "The wine cellars are almost always covered and dry.",
+              "A rain poncho can be more practical than an umbrella in wind.",
+              "Take advantage of rain breaks for photos at the harbor."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Morgenluft am Hafen von Lumbarda ist frisch und belebend und bietet eine friedliche Stille. Stärken Sie sich mittags mit einem herzhaften dalmatinischen Eintopf in einer der wenigen offenen Konobas. Das Nachmittagslicht eignet sich perfekt für einen zügigen Spaziergang durch die ruhenden Weinberge zu den Grk-Kellern. Wenn die Sonne früh hinter den Hügeln untergeht, genießen Sie die authentische Ruhe des Dorfes.",
+            "hu": "A téli reggeli levegő friss és élénkítő a lumbardai kikötőben, békés magányt kínálva. Délben melegedjen fel egy kiadós, lassú tűzön főtt dalmát étellel egy helyi vendéglőben. A délutáni fények tökéletesek egy élénk sétához az alvó szőlőültetvényeken át a borospincék felé. Ahogy a nap korán lenyugszik a dombok mögött, élvezze a falu hiteles, nyugodt arcát.",
+            "ro": "Aerul de dimineață de iarnă este proaspăt și revigorant în portul Lumbarda, oferind o liniște deplină. La prânz, bucurați-vă de un preparat dalmat gătit lent într-o tavernă locală. Lumina după-amiezii este ideală pentru o plimbare prin podgoriile adormite spre cramele de vin Grk. Pe măsură ce soarele apune devreme, savurați atmosfera autentică și calmă a satului.",
+            "en": "The winter morning air is crisp and invigorating at the Lumbarda harbor, offering a peaceful solitude. Warm up with a hearty, slow-cooked Dalmatian meal at noon in a local eatery. The afternoon light is perfect for a brisk walk through the sleeping vineyards towards the Grk cellars. As the sun sets early behind the hills, enjoy the authentic and tranquil side of the village."
+          },
+          "stops": [
+            {
+              "name": "Lumbarda Harbor Promenade",
+              "tip_5lang": {
+                "de": "Ein warmer Schal schützt vor der kühlen Brise am Meer.",
+                "hu": "Egy meleg sál elengedhetetlen a hűvös tengeri szélben.",
+                "ro": "Un fular călduros este necesar împotriva brizei reci.",
+                "en": "A warm scarf is essential against the cool sea breeze."
+              }
+            },
+            {
+              "name": "Crkva sv. Roka",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der Kirche ohne die Sommer-Touristen.",
+                "hu": "Élvezze a templom csendjét a nyári turistatömeg nélkül.",
+                "ro": "Bucurați-vă de liniștea bisericii fără mulțimile de turiști.",
+                "en": "Enjoy the silence of the church without the summer crowds."
+              }
+            },
+            {
+              "name": "Lumbardska psefizma",
+              "tip_5lang": {
+                "de": "Die antiken Ruinen wirken im klaren Winterlicht fast magisch.",
+                "hu": "Az ókori romok szinte ragyognak a tiszta téli fényben.",
+                "ro": "Ruinele antice par magice în lumina clară de iarnă.",
+                "en": "The ancient ruins look almost magical in the clear winter light."
+              }
+            },
+            {
+              "name": "Lunch in a Local Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie Peka, ein traditionelles Wintergericht vom Grill.",
+                "hu": "Kóstolja meg a pekát, a hagyományos téli parázson sült ételt.",
+                "ro": "Încercați peka, un preparat tradițional de iarnă la jar.",
+                "en": "Try peka, a traditional winter dish cooked under the embers."
+              }
+            },
+            {
+              "name": "Bilin Žal",
+              "tip_5lang": {
+                "de": "Der leere Sandstrand lädt zu einem meditativen Spaziergang ein.",
+                "hu": "Az üres homokos part tökéletes egy meditatív sétához.",
+                "ro": "Plaja pustie de nisip este ideală pentru o plimbare meditativă.",
+                "en": "The empty sandy beach is perfect for a meditative walk."
+              }
+            },
+            {
+              "name": "Grk Wine Tasting",
+              "tip_5lang": {
+                "de": "Der schwere Grk-Wein ist ein hervorragender Winterwärmer.",
+                "hu": "A testes Grk bor kiválóan melenget a téli délutánon.",
+                "ro": "Vinul Grk corpolent este excelent pentru a vă încălzi.",
+                "en": "The full-bodied Grk wine is an excellent winter warmer."
+              }
+            },
+            {
+              "name": "Seaside Sunset Point",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang findet im Winter bereits gegen 16:30 Uhr statt.",
+                "hu": "Télen a naplemente már 16:30 körül bekövetkezik.",
+                "ro": "Apusul de soare are loc deja în jurul orei 16:30 iarna.",
+                "en": "The sunset occurs as early as 16:30 during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip für Sonne und Schatten.",
+              "Prüfen Sie die Öffnungszeiten der Konobas im Voraus.",
+              "Genießen Sie die Ruhe einer fast autofreien Insel.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee mit."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a napos és árnyékos részek miatt.",
+              "Ellenőrizze előre a konobák téli nyitvatartását.",
+              "Élvezze a szinte teljesen autómentes sziget nyugalmát.",
+              "Vigyen magával egy termoszt meleg teával a sétához."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru soare și umbră.",
+              "Verificați programul taverneler în avans iarna.",
+              "Bucurați-vă de liniștea unei insule aproape fără mașini.",
+              "Luați un termos cu ceai cald pentru plimbare."
+            ],
+            "en": [
+              "Dress in layers to adjust for sun and shadow areas.",
+              "Check the winter opening hours of eateries in advance.",
+              "Enjoy the peace of an almost car-free island in winter.",
+              "Take a thermos with warm tea for your afternoon walk."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -524,6 +724,188 @@
           "Take advantage of the pine forest shade while riding.",
           "Sun protection is a must when cycling by the sea."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Rüsten Sie sich mit Regenkleidung für eine erfrischende morgendliche Fahrt um den Hafen aus. Navigieren Sie vorsichtig über die nassen Wege zu den historischen Stätten und suchen Sie Schutz unter Vordächern. Eine lange Weinprobe bietet am Nachmittag die perfekte trockene Pause. Beenden Sie den Tag mit einer zügigen Rückfahrt und spüren Sie die raue Energie des Inselwetters.",
+            "hu": "Készüljön fel vízálló ruházattal egy frissítő reggeli tekerésre a kikötő környékén. Navigáljon óvatosan a nedves utakon a történelmi helyszínek felé, keresve az ereszek alatti menedéket. Egy hosszú borkóstoló tökéletes száraz pihenőt kínál délután. Zárja a napot egy gyors visszatéréssel, érezve a sziget nyers, esős energiáit.",
+            "ro": "Echipati-vă cu haine impermeabile pentru o plimbare revigorantă de dimineață în jurul portului. Navigați cu atenție pe drumurile umede spre siturile istorice, căutând adăpost sub streșini. O degustare lungă de vin oferă pauza uscată perfectă după-amiaza. Încheiați ziua cu o cursă rapidă înapoi, simțind energia brută a vremii de pe insulă.",
+            "en": "Gear up with waterproofs for a refreshing morning ride around the harbor as the rain starts to fall. Navigate the paths carefully towards the historic sites, finding shelter under the eaves. A long wine tasting session provides the perfect dry break in the afternoon. Finish the day with a swift ride back, feeling the raw energy of the island's coastal weather."
+          },
+          "stops": [
+            {
+              "name": "Lumbarda Harbor",
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Eisenbahnschienen oder glatten Stein am Kai.",
+                "hu": "Vigyázzon a csúszós kövekre és sínekre a rakparton.",
+                "ro": "Atenție la pietrele și șinele alunecoase de pe chei.",
+                "en": "Watch out for slippery stones or tracks on the pier."
+              }
+            },
+            {
+              "name": "Lumbardska psefizma",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Bäumen ab, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon a fák alatt, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați bicicleta sub copaci pentru a menține șaua uscată.",
+                "en": "Park your bike under trees to keep the saddle dry."
+              }
+            },
+            {
+              "name": "Bilin Žal",
+              "tip_5lang": {
+                "de": "Der Sandweg kann bei starkem Regen etwas schlammig werden.",
+                "hu": "A homokos út erős esőben kissé sárossá válhat.",
+                "ro": "Drumul de nisip poate deveni noroios la ploaie torențială.",
+                "en": "The sandy path can get a bit muddy during heavy rain."
+              }
+            },
+            {
+              "name": "Vela Pržina",
+              "tip_5lang": {
+                "de": "Nutzen Sie das überdachte Café für eine kurze Pause vom Regen.",
+                "hu": "Használja a fedett kávézót egy rövid eső elleni pihenőre.",
+                "ro": "Folosiți cafeneaua acoperită pentru o scurtă pauză de ploaie.",
+                "en": "Use the covered cafe for a short break from the rain."
+              }
+            },
+            {
+              "name": "Vineyard Tour & Grk Tasting",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Bremsen auf nassem Untergrund gut greifen.",
+                "hu": "Ellenőrizze, hogy a fékek jól fognak-e a nedves talajon.",
+                "ro": "Verificați dacă frânele funcționează bine pe sol umed.",
+                "en": "Make sure your brakes are working well on the wet ground."
+              }
+            },
+            {
+              "name": "Lumbarda Waterfront Stroll",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch Pfützen, um Spritzer zu vermeiden.",
+                "hu": "Hajtson lassan a tócsákban, hogy elkerülje a felcsapódó vizet.",
+                "ro": "Mergeți încet prin bălți pentru a evita stropirea.",
+                "en": "Ride slowly through puddles to avoid splashing yourself."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind auf den Weinbergwegen unerlässlich.",
+              "Bremse frühzeitig auf nassem, rutschigem Asphalt.",
+              "Verstauen Sie Elektronik in einem wasserdichten Rucksack.",
+              "Wärmen Sie sich mit einem Kaffee im Hafen auf."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen a szőlőültetvények útjain.",
+              "Fékezzen időben a nedves, csúszós aszfalton.",
+              "Tartsa az elektronikát vízhatlan hátizsákban.",
+              "Melegedjen fel egy kávéval a kikötőben a tekerés után."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe drumurile din vii.",
+              "Frânați din timp pe asfaltul umed și alunecos.",
+              "Păstrați electronicele într-un rucsac impermeabil.",
+              "Încălziți-vă cu o cafea în port după plimbare."
+            ],
+            "en": [
+              "Mudguards are essential for the vineyard paths.",
+              "Brake early on wet, slippery asphalt.",
+              "Keep your electronics in a waterproof backpack.",
+              "Warm up with a coffee at the harbor after your ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die leeren Straßen an einem kühlen Wintermorgen, während Sie vom Hafen zu den antiken Ruinen radeln. Die frische Brise hält Sie in Bewegung und macht den herzhaften Mittagsstopp noch lohnender. Erkunden Sie die ruhigen Strände von Bilin Žal und Vela Pržina, die in der tiefstehenden Sonne eine raue Schönheit entfalten. Kehren Sie bei Dämmerung in das Dorf zurück und genießen Sie die klare Inselluft.",
+            "hu": "Élvezze az üres utakat egy hűvös téli reggelen, kerékpározva a kikötőtől az ókori romokig. A friss szellő mozgásban tartja, így a laktató ebéd még jobban esik majd. Fedezze fel Bilin Žal és Vela Pržina csendes strandjait, amelyek vadregényes arcukat mutatják az alacsony napállásban. Térjen vissza a faluba szürkületkor, élvezve a sziget tiszta levegőjét.",
+            "ro": "Bucurați-vă de drumurile pustii într-o dimineață răcoroasă de iarnă, pedalând de la port spre ruinele antice. Briza proaspătă vă menține în mișcare, făcând prânzul consistent și mai binemeritat. Explorați plajele liniștite Bilin Žal și Vela Pržina, care capătă o frumusețe brută în soarele jos. Reveniți în sat la amurg, savurând aerul curat al insulei.",
+            "en": "Enjoy the empty roads on a cool winter morning, cycling from the harbor to the ancient ruins. The brisk breeze keeps you moving, making the hearty lunch stop even more rewarding. Explore the quiet beaches of Bilin Žal and Vela Pržina, which take on a rugged beauty in the low sun. Return to the village as the twilight sets in, enjoying the crisp island air."
+          },
+          "stops": [
+            {
+              "name": "Lumbarda Harbor",
+              "tip_5lang": {
+                "de": "Handschuhe sind für die kühle Morgenbrise am Hafen ratsam.",
+                "hu": "Kesztyű ajánlott a kikötői hűvös reggeli szélben.",
+                "ro": "Mănușile sunt recomandate pentru briza răcoroasă din port.",
+                "en": "Gloves are recommended for the cool morning breeze at the harbor."
+              }
+            },
+            {
+              "name": "Lumbardska psefizma",
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad bequem direkt am Eingang der Stätte.",
+                "hu": "Könnyen leparkolhat közvetlenül a lelőhely bejáratánál.",
+                "ro": "Parcați bicicleta ușor chiar la intrarea în sit.",
+                "en": "You can easily park your bike right at the site entrance."
+              }
+            },
+            {
+              "name": "Bilin Žal",
+              "tip_5lang": {
+                "de": "Die niedrige Wintersonne spiegelt sich wunderschön im flachen Wasser.",
+                "hu": "Az alacsony téli nap gyönyörűen tükröződik a sekély vízben.",
+                "ro": "Soarele jos de iarnă se reflectă frumos în apa puțin adâncă.",
+                "en": "The low winter sun reflects beautifully in the shallow water."
+              }
+            },
+            {
+              "name": "Vela Pržina",
+              "tip_5lang": {
+                "de": "Achten Sie auf windige Böen am offenen Strandabschnitt.",
+                "hu": "Vigyázzon a szeles széllökésekre a nyitott tengerparti szakaszon.",
+                "ro": "Atenție la rafalele de vânt pe secțiunea deschisă a plajei.",
+                "en": "Watch out for windy gusts on the open beach section."
+              }
+            },
+            {
+              "name": "Vineyard Tour & Grk Tasting",
+              "tip_5lang": {
+                "de": "Der Grk-Wein schmeckt nach einer Radtour an der frischen Luft besonders gut.",
+                "hu": "A Grk bor különösen jól esik a friss levegőn való tekerés után.",
+                "ro": "Vinul Grk are un gust excelent după o tură cu bicicleta în aer curat.",
+                "en": "Grk wine tastes especially good after a bike ride in the fresh air."
+              }
+            },
+            {
+              "name": "Lumbarda Waterfront Stroll",
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Fahrt entlang der Promenade ohne Fußgänger.",
+                "hu": "Élvezze a nyugodt tekerést a sétányon gyalogosok nélkül.",
+                "ro": "Bucurați-vă de plimbarea liniștită pe faleză fără pietoni.",
+                "en": "Enjoy the quiet ride along the promenade without pedestrians."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Handschuhe sind für Abfahrten im Winter ein Muss.",
+              "Die tiefstehende Sonne kann blenden; tragen Sie eine Sonnenbrille.",
+              "Einige Küstenwege sind windig; bleiben Sie auf den inneren Wegen.",
+              "Genießen Sie die verkehrsfreien Straßen der Insel."
+            ],
+            "hu": [
+              "A kesztyű kötelező a téli lejtőkön való száguldáshoz.",
+              "Az alacsony napfény elvakíthat, viseljen napszemüveget.",
+              "Néhány parti szakasz szeles, maradjon a belsőbb utakon.",
+              "Élvezze a szinte teljesen forgalommentes utakat a szigeten."
+            ],
+            "ro": [
+              "Mănușile sunt obligatorii pentru coborârile de iarnă.",
+              "Soarele jos poate fi orbitor; purtați ochelari de soare.",
+              "Unele poteci de coastă sunt bântuite de vânt; rămâneți pe drumurile interioare.",
+              "Bucurați-vă de drumurile fără trafic de pe insulă."
+            ],
+            "en": [
+              "Gloves are a must for winter descents.",
+              "The low sun can be blinding; wear sunglasses.",
+              "Some coastal paths are windy; stay on the inland routes.",
+              "Enjoy the traffic-free roads of the island in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -774,6 +1156,206 @@
           "Don't drink and drive – plan your wine tasting at the end of the day.",
           "A rental car also allows for quick trips to nearby Korcula Town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto als mobilen Unterschlupf, um Lumbardas Charme trotz Regen zu erkunden. Der kurze Sprint vom Parkplatz zur Kirche und Psefizma hält Sie trocken. Genießen Sie stürmische Meeresblicke aus der Sicherheit Ihres Fahrzeugs an den Stränden vor einem gemütlichen Mittagessen. Der Nachmittag ist einer entspannten Weinprobe gewidmet, gefolgt von einer Panoramafahrt durch die gewaschene Landschaft.",
+            "hu": "Használja az autót mobil menedékként Lumbarda felfedezéséhez az eső ellenére is. A parkolótól a templomig és a Psefizmáig tartó rövid futás szárazon tartja. Élvezze a viharos tenger látványát a biztonságos autóból a strandoknál egy hangulatos ebéd előtt. A délutánt szentelje egy ellazult borkóstolónak, majd egy látványos autózásnak a felfrissült tájon.",
+            "ro": "Folosiți mașina ca adăpost mobil pentru a explora farmecul satului Lumbarda în ciuda ploii. Scurtul sprint de la parcare la biserică și Psefizma vă menține uscat. Bucurați-vă de vederile mării furtunoase din siguranța vehiculului înainte de un prânz primitor. După-amiaza este dedicată unei degustări relaxate de vin, urmată de o plimbare panoramică prin peisajul spălat de ploaie.",
+            "en": "Use the car as your mobile shelter to explore Lumbarda's charms despite the rain. The short dash from the parking to the church and Psefizma keeps you dry. Enjoy the stormy sea views from the safety of your vehicle at the beaches before a cozy lunch. The afternoon is dedicated to a relaxed wine tasting, followed by a scenic drive as the rain washes the landscape."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Harbor Walk",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Wasser, um die Aussicht trocken zu genießen.",
+                "hu": "Parkoljon közel a parthoz, hogy szárazon élvezze a kilátást.",
+                "ro": "Parcați aproape de apă pentru a vedea marea fără să vă udați.",
+                "en": "Park close to the water to enjoy the view while staying dry."
+              }
+            },
+            {
+              "name": "Center Cluster: Crkva sv. Roka",
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz bringt Sie trocken in die Kirche.",
+                "hu": "Egy rövid sprint a parkolótól, és már bent is van a templomban.",
+                "ro": "Un scurt sprint de la parcare și sunteți deja în biserică.",
+                "en": "A short sprint from the parking lot gets you inside the church dry."
+              }
+            },
+            {
+              "name": "Center Cluster: Lumbardska psefizma",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen, um schwere Regenjacken zwischenzulagern.",
+                "hu": "Használja az autót a nehéz esőkabátok tárolására a megállók közt.",
+                "ro": "Folosiți mașina pentru a depozita pelerinele grele între opriri.",
+                "en": "Use the car to store heavy raincoats between stops."
+              }
+            },
+            {
+              "name": "Beach Cluster: Vela Pržina",
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie einen tollen Blick auf die Brandung.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a hullámtörésre.",
+                "ro": "Din parcare aveți o vedere excelentă asupra valurilor.",
+                "en": "From the parking lot, you have a great view of the breaking waves."
+              }
+            },
+            {
+              "name": "Beach Cluster: Bilin Žal Lunch",
+              "tip_5lang": {
+                "de": "Das Auto hält Sie warm, während Sie zum Restaurant fahren.",
+                "hu": "Az autó melegen tartja, amíg az étteremig ér.",
+                "ro": "Mașina vă menține la căldură până ajungeți la restaurant.",
+                "en": "The car keeps you warm while you drive to the restaurant."
+              }
+            },
+            {
+              "name": "Vineyard Cluster: Grk Tasting",
+              "tip_5lang": {
+                "de": "Achten Sie auf enge Wege zwischen den Weinbergen bei Nässe.",
+                "hu": "Vigyázzon a szűk utakra a szőlők között nedves időben.",
+                "ro": "Atenție la drumurile înguste dintre vii pe timp de ploaie.",
+                "en": "Watch out for narrow paths between the vineyards in wet weather."
+              }
+            },
+            {
+              "name": "Vineyard Cluster: Sunset View",
+              "tip_5lang": {
+                "de": "Genießen Sie das dramatische Licht aus dem warmen Auto heraus.",
+                "hu": "Élvezze a drámai fényeket a meleg autóból.",
+                "ro": "Bucurați-vă de lumina dramatică din confortul mașinii.",
+                "en": "Enjoy the dramatic light from the warmth of your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Parkplätze sind bei Regen im Zentrum leichter zu finden.",
+              "Lagern Sie trockene Kleidung zum Wechseln im Kofferraum.",
+              "Fahren Sie bei Nebel oder Gischt langsam entlang der Küste.",
+              "Die Panoramafahrt ist auch bei grauem Himmel reizvoll."
+            ],
+            "hu": [
+              "Esőben könnyebb parkolóhelyet találni a központban.",
+              "Használja az autót száraz váltóruha tárolására.",
+              "Pára vagy köd esetén vezessen lassan a parton.",
+              "A panorámaút szürke égbolt mellett is látványos."
+            ],
+            "ro": [
+              "Parcările sunt mai ușor de găsit în centru pe timp de ploaie.",
+              "Depozitați haine de schimb uscate în portbagaj.",
+              "Conduceți încet pe coastă în caz de ceață sau burniță.",
+              "Drumul panoramic este atractiv chiar și sub un cer gri."
+            ],
+            "en": [
+              "Parking spaces are easier to find in the center when it rains.",
+              "Store dry clothes for changing in the trunk.",
+              "Drive slowly along the coast in case of fog or spray.",
+              "The scenic drive is attractive even under a grey sky."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter ist die perfekte Zeit für eine Autotour entlang der Küste von Korčula, beginnend am ruhigen Hafen. Die Heizung sorgt für Komfort zwischen den Stopps an historischen Denkmälern und windgepeitschten Stränden. Das Mittagessen ist eine gemütliche Angelegenheit mit lokalen Spezialitäten. Beenden Sie den Tag bei einem Weingut für eine Grk-Probe und beobachten Sie den frühen Sonnenuntergang von einem spektakulären Aussichtspunkt.",
+            "hu": "A tél tökéletes alkalom egy autós túrára Korčula partjainál, kezdve a csendes kikötővel. A fűtés kényelmet nyújt a történelmi emlékhelyek és a szeles strandok közötti megállók során. Az ebéd egy hangulatos esemény helyi különlegességekkel. Zárja a napot egy borászatnál Grk kóstolóval, és nézze meg a korai téli naplementét egy látványos kilátópontról.",
+            "ro": "Iarna este momentul perfect pentru un tur cu mașina pe coasta insulei Korčula, începând din portul liniștit. Încălzirea vă oferă confort între opririle la monumente și plajele bătute de vânt. Prânzul este o ocazie primitoare cu specialități locale. Încheiați ziua la o podgorie cu o degustare de Grk, privind apusul devreme dintr-un punct de observație spectaculos.",
+            "en": "Winter is the perfect time for a driving tour of the Korčulan coast, starting with the quiet harbor. The heater keeps you comfortable between stops at the historic landmarks and the empty, windswept beaches. Lunch is a cozy affair with local specialties. End the day at a vineyard for a Grk tasting, watching the early winter sunset from a spectacular viewpoint."
+          },
+          "stops": [
+            {
+              "name": "Center Cluster: Harbor Walk",
+              "tip_5lang": {
+                "de": "Parken am Kai ist im Winter oft kostenlos möglich.",
+                "hu": "A rakparton való parkolás télen gyakran ingyenes.",
+                "ro": "Parcarea pe chei este adesea gratuită în timpul iernii.",
+                "en": "Parking on the pier is often free during winter."
+              }
+            },
+            {
+              "name": "Center Cluster: Crkva sv. Roka",
+              "tip_5lang": {
+                "de": "Die Heizung des Wagens macht den kurzen Ausstieg angenehm.",
+                "hu": "Az autó fűtése kellemessé teszi a rövid kiszállást.",
+                "ro": "Încălzirea mașinii face scurta ieșire plăcută.",
+                "en": "The car's heater makes the short walk outside pleasant."
+              }
+            },
+            {
+              "name": "Center Cluster: Lumbardska psefizma",
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit an der historischen Stätte.",
+                "hu": "Élvezze a magányt a történelmi emlékhelyen.",
+                "ro": "Bucurați-vă de singurătate la situl istoric.",
+                "en": "Enjoy the solitude at the historic site."
+              }
+            },
+            {
+              "name": "Beach Cluster: Vela Pržina",
+              "tip_5lang": {
+                "de": "Fahren Sie direkt bis zum Strandparkplatz vor.",
+                "hu": "Hajtson közvetlenül a strand melletti parkolóig.",
+                "ro": "Conduceți direct până la parcarea de lângă plajă.",
+                "en": "Drive directly to the parking lot next to the beach."
+              }
+            },
+            {
+              "name": "Beach Cluster: Bilin Žal Lunch",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen, um flexibel zwischen den Stränden zu wechseln.",
+                "hu": "Használja az autót a strandok közötti rugalmas váltáshoz.",
+                "ro": "Folosiți mașina pentru a trece flexibil între plaje.",
+                "en": "Use the car to move flexibly between the beaches."
+              }
+            },
+            {
+              "name": "Vineyard Cluster: Grk Tasting",
+              "tip_5lang": {
+                "de": "Achten Sie auf lokale Traktoren, die im Winter Rebschnitt transportieren.",
+                "hu": "Vigyázzon a helyi traktorokra, amik télen a nyesedéket szállítják.",
+                "ro": "Atenție la tractoarele locale care transportă resturile de tăieri iarna.",
+                "en": "Watch out for local tractors transporting prunings in winter."
+              }
+            },
+            {
+              "name": "Vineyard Cluster: Sunset View",
+              "tip_5lang": {
+                "de": "Die Sicht ist im Winter bei klarem Wetter oft besonders weit.",
+                "hu": "Tiszta téli időben a látótávolság gyakran rendkívül nagy.",
+                "ro": "În zilele senine de iarnă, vizibilitatea este adesea foarte mare.",
+                "en": "On clear winter days, the visibility is often exceptionally far."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Strandparkplätze sind im Winter meist gebührenfrei.",
+              "Die Heizung ist Ihr bester Freund zwischen den Stopps.",
+              "Die Tage sind kurz; beginnen Sie Ihre Tour vor 10 Uhr.",
+              "Straßen sind ruhig, aber achten Sie auf landwirtschaftlichen Verkehr."
+            ],
+            "hu": [
+              "A legtöbb strandközeli parkoló télen ingyenes.",
+              "A fűtés a legjobb barátja a megállók között.",
+              "A nappalok rövidek, kezdje a túrát 10 óra előtt.",
+              "Az utak csendesek, de vigyázzon a mezőgazdasági gépekre."
+            ],
+            "ro": [
+              "Majoritatea parcărilor de lângă plajă sunt gratuite iarna.",
+              "Încălzirea este cel mai bun prieten între opriri.",
+              "Zilele sunt scurte; începeți turul înainte de ora 10.",
+              "Drumurile sunt liniștite, dar atenție la utilajele agricole."
+            ],
+            "en": [
+              "Most beach parking lots are free of charge in winter.",
+              "The heater is your best friend between the stops.",
+              "Daylight is short; start your tour before 10 AM.",
+              "Roads are quiet, but watch out for agricultural machinery."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1006,6 +1588,188 @@
           "Buses can be very crowded during high season.",
           "The walk from the center to the beach takes about 15-20 minutes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Koordinieren Sie Ihre Wege mit dem Busfahrplan und nutzen Sie die Haltestellenüberdachungen, um morgens trocken zu bleiben. Der lokale Bus macht den Sprung zwischen dem Hafen und den Restaurants im Landesinneren einfach und bequem. Besuchen Sie die historischen Stätten bei Regenpausen und ziehen Sie sich dann für einen gemütlichen Nachmittag in einen Verkostungsraum zurück. Der Abendbus bringt Sie zurück ins Zentrum.",
+            "hu": "Hangolja össze mozgását a buszmenetrenddel, használva a megállóhelyek tetejét, hogy reggel száraz maradjon. A helyi busz könnyűvé és kényelmessé teszi az ugrást a kikötő és a belső éttermek között. Látogassa meg a történelmi helyszíneket az esőszünetekben, majd vonuljon vissza egy kóstolóhelyiségbe. Az esti busz visszaviszi a központba, ahogy az eső elcsendesedik.",
+            "ro": "Coordonați-vă deplasările cu programul autobuzelor, folosind copertinele stațiilor pentru a rămâne uscați. Autobuzul local face legătura între port și restaurantele din interior ușoară și confortabilă. Vizitați siturile istorice în timpul pauzelor de ploaie, apoi retrageți-vă într-o sală de degustare. Autobuzul de seară vă aduce înapoi în centru pe măsură ce ploaia se potolește.",
+            "en": "Coordinate your movements with the bus schedule, using the station shelters to stay dry during the morning. The local bus makes the jump between the harbor and the inland restaurants easy and comfortable. Visit the historic sites during breaks in the rain, then head to a tasting room for a dry afternoon. The evening bus brings you back to the center as the rain settles."
+          },
+          "stops": [
+            {
+              "name": "Lumbarda Central Bus Stop",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet guten Schutz vor dem ersten Regenschauer.",
+                "hu": "A buszváró jó védelmet nyújt az első záporok ellen.",
+                "ro": "Stația de autobuz oferă o protecție bună împotriva ploii.",
+                "en": "The bus shelter provides good protection against the first showers."
+              }
+            },
+            {
+              "name": "Crkva sv. Roka",
+              "tip_5lang": {
+                "de": "Vom Busstopp ist es nur ein kurzer, trockener Weg zur Kirche.",
+                "hu": "A buszmegállótól csak egy rövid, száraz út vezet a templomig.",
+                "ro": "De la stația de autobuz este doar un drum scurt până la biserică.",
+                "en": "It's only a short, dry walk from the bus stop to the church."
+              }
+            },
+            {
+              "name": "Lumbardska psefizma",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Abfahrtszeiten für die Weiterfahrt im Voraus.",
+                "hu": "Ellenőrizze előre a busz indulási idejét a továbbutazáshoz.",
+                "ro": "Verificați din timp ora de plecare a autobuzului pentru continuare.",
+                "en": "Check the bus departure times for your onward journey in advance."
+              }
+            },
+            {
+              "name": "Local Gastronomy Break",
+              "tip_5lang": {
+                "de": "Genießen Sie das Essen, während der Regen draußen an die Scheiben klopft.",
+                "hu": "Élvezze az ételt, miközben kint az eső kopog az ablakon.",
+                "ro": "Bucurați-vă de mâncare în timp ce afară ploaia bate în geam.",
+                "en": "Enjoy your meal while the rain taps on the window outside."
+              }
+            },
+            {
+              "name": "Bilin Žal Beach (via Shuttle)",
+              "tip_5lang": {
+                "de": "Der Shuttle-Bus bringt Sie direkt zum Strand, ohne nass zu werden.",
+                "hu": "A shuttle busz közvetlenül a strandig viszi, így nem ázik el.",
+                "ro": "Microbuzul vă duce direct la plajă, fără să vă udați.",
+                "en": "The shuttle bus takes you directly to the beach, so you don't get wet."
+              }
+            },
+            {
+              "name": "Lumbarda Riva Evening",
+              "tip_5lang": {
+                "de": "Der Bus zurück nach Korčula-Stadt ist meist pünktlich.",
+                "hu": "A Korčula városába visszainduló busz általában pontos.",
+                "ro": "Autobuzul de întoarcere spre orașul Korčula este de obicei punctual.",
+                "en": "The bus back to Korčula town is usually on time."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Bus-Apps auf Echtzeit-Verspätungen bei Regen.",
+              "Bushaltestellen haben meist kleine Dächer; bleiben Sie zentral.",
+              "Der Bus ist ein guter Weg, um dem Wind zu entkommen.",
+              "Halten Sie ein kleines Tuch für nasse Sitze bereit."
+            ],
+            "hu": [
+              "Ellenőrizze a menetrendet az esetleges eső miatti késésekért.",
+              "A buszmegállók fedettek, maradjon a tető alatt.",
+              "A busz kiváló módja a szél elkerülésének.",
+              "Tartson magánál egy kis törölközőt a vizes ülésekhez."
+            ],
+            "ro": [
+              "Verificați aplicațiile de transport pentru întârzieri cauzate de ploaie.",
+              "Stațiile de autobuz au copertine; stați sub ele.",
+              "Autobuzul este o modalitate bună de a evita vântul.",
+              "Aveți la îndemână un prosop mic pentru scaunele umede."
+            ],
+            "en": [
+              "Check transport apps for real-time delays during rain.",
+              "Bus stops usually have small roofs; stay under them.",
+              "The bus is a great way to avoid the coastal wind.",
+              "Keep a small towel handy for potentially wet seats."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das lokale Tempo des Lebens mit dem Winterbusdienst, der die wichtigsten Sehenswürdigkeiten von Lumbarda verbindet. Der Morgen beginnt ruhig am Hafen, gefolgt von einer kurzen Fahrt zum historischen Zentrum. Nach einem wärmenden Mittagessen nutzen Sie den Bus, um die friedlichen Winterstrände zu sehen. Die frühe Abendstimmung im Dorf ist authentisch und ruhig vor Ihrer letzten Fahrt.",
+            "hu": "Tapasztalja meg az élet helyi tempóját a téli buszjáratokkal, amelyek összekötik Lumbarda főbb látnivalóit. A reggel csendesen indul a kikötőben, majd egy rövid utazás következik a történelmi központba. Egy melengető ebéd után busszal látogasson el a békés téli strandokra. A kora esti hangulat a faluban hiteles és nyugodt az utolsó járat indulása előtt.",
+            "ro": "Experimentați ritmul local al vieții folosind serviciul de autobuz de iarnă, care leagă principalele obiective din Lumbarda. Dimineața începe liniștit în port, urmată de o scurtă călătorie spre centrul istoric. După un prânz cald, folosiți autobuzul pentru a vedea plajele liniștite de iarnă. Atmosfera de seară devreme în sat este autentică și calmă înainte de ultima cursă.",
+            "en": "Experience the local pace of life using the winter bus service, which connects the main sights of Lumbarda. The morning starts quietly at the harbor, followed by a short ride to the historic center. After a warming lunch, use the bus to see the serene winter beaches. The early evening atmosphere in the village is authentic and calm before your final ride."
+          },
+          "stops": [
+            {
+              "name": "Lumbarda Central Bus Stop",
+              "tip_5lang": {
+                "de": "Beachten Sie den reduzierten Winterfahrplan an der Tafel.",
+                "hu": "Figyelje a táblán a ritkított téli menetrendet.",
+                "ro": "Urmăriți programul de iarnă redus afișat pe panou.",
+                "en": "Note the reduced winter schedule on the timetable board."
+              }
+            },
+            {
+              "name": "Crkva sv. Roka",
+              "tip_5lang": {
+                "de": "Die Haltestelle liegt zentral für den Besuch des Oberdorfs.",
+                "hu": "A megálló központi helyen van a felső falu meglátogatásához.",
+                "ro": "Stația este situată central pentru vizitarea satului de sus.",
+                "en": "The stop is centrally located for visiting the upper village."
+              }
+            },
+            {
+              "name": "Lumbardska psefizma",
+              "tip_5lang": {
+                "de": "Ein schöner Spaziergang verbindet die Haltestelle mit der Psefizma.",
+                "hu": "Egy szép séta köti össze a megállót a Psefizmával.",
+                "ro": "O plimbare frumoasă leagă stația de Psefizma.",
+                "en": "A scenic walk connects the bus stop with the Psefizma site."
+              }
+            },
+            {
+              "name": "Local Gastronomy Break",
+              "tip_5lang": {
+                "de": "Viele Einheimische nutzen den Bus, um zu den Konobas zu gelangen.",
+                "hu": "Sok helyi is busszal jár a kedvenc konobájába télen.",
+                "ro": "Mulți localnici folosesc autobuzul pentru a ajunge la taverne.",
+                "en": "Many locals use the bus to get to their favorite eateries."
+              }
+            },
+            {
+              "name": "Bilin Žal Beach (via Shuttle)",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob der Shuttle-Service auch im Winter aktiv ist.",
+                "hu": "Ellenőrizze, hogy a shuttle járat télen is üzemel-e.",
+                "ro": "Verificați dacă microbuzul funcționează și în timpul iernii.",
+                "en": "Check if the shuttle service is active during the winter months."
+              }
+            },
+            {
+              "name": "Lumbarda Riva Evening",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Hafen vor der Abfahrt des letzten Busses.",
+                "hu": "Élvezze a kikötői nyugalmat az utolsó busz indulása előtt.",
+                "ro": "Bucurați-vă de liniștea din port înainte de plecarea ultimului autobuz.",
+                "en": "Enjoy the harbor's peace before the last bus departs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse fahren seltener; achten Sie genau auf den Fahrplan.",
+              "Die Busse sind im Winter gut beheizt und komfortabel.",
+              "Einheimische sind oft gesprächig; eine tolle Art zu reisen.",
+              "Der letzte Bus zurück fährt früher als im Sommer."
+            ],
+            "hu": [
+              "A buszok ritkábban járnak; figyelje pontosan a menetrendet.",
+              "A buszok télen is fűtöttek és kényelmesek.",
+              "A helyiek gyakran beszédesek; ez egy autentikus utazási mód.",
+              "Az utolsó busz korábban indul vissza, mint nyáron."
+            ],
+            "ro": [
+              "Autobuzele circulă mai rar; urmăriți cu atenție programul.",
+              "Autobuzele sunt bine încălzite și confortabile iarna.",
+              "Localnicii sunt adesea comunicativi; o modalitate autentică de a călători.",
+              "Ultimul autobuz pleacă mai devreme decât în timpul verii."
+            ],
+            "en": [
+              "Buses run less frequently; watch the timetable closely.",
+              "Buses are well-heated and comfortable in winter.",
+              "Locals are often chatty; it's a social and authentic way to travel.",
+              "The last bus back departs earlier than in the summer season."
+            ]
+          }
+        }
       }
     }
   }

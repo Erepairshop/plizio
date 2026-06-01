@@ -290,6 +290,196 @@
           "Book a table at the konoba during high season.",
           "The waterfront is ideal for a morning espresso by the sea."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der schützenden Atmosphäre der St. Rochus-Kirche. Der Park Borelli bietet unter dichten Baumkronen etwas Schutz vor leichtem Regen. Mittags genießen Sie die gemütliche Wärme einer lokalen Konoba bei traditionellen Gerichten. Am Nachmittag lädt der Strand Iza Banja zu einem stimmungsvollen Spaziergang unter dem Regenschirm ein, bevor der Tag am Hafen ausklingt.",
+            "hu": "Kezdje a napot a Szent Rókus-templom védelmében. A Borelli-park sűrű fái alatt keressen menedéket a szemerkélő esőben. Ebédidőben élvezze egy helyi konoba barátságos melegét és a házias ízeket. Délután az Iza Banja strand egy hangulatos, esernyős sétára hív a tengerparton, mielőtt a napot a kikötőben zárná, figyelve a hullámokat.",
+            "ro": "Începeți ziua în atmosfera protectoare a Bisericii Sf. Rochus. Parcul Borelli oferă adăpost sub coroanele dese ale copacilor în timpul ploii ușoare. La prânz, bucurați-vă de căldura primitoare a unei konoba locale. După-amiaza, plaja Iza Banja vă invită la o plimbare atmosferică sub umbrelă, înainte de a încheia ziua în port, privind marea sub ploaie.",
+            "en": "Start your day in the protective atmosphere of St. Roch Church. Park Borelli offers some shelter under dense treetops during light rain. At noon, enjoy the cozy warmth of a local konoba with traditional dishes. In the afternoon, Iza Banja beach invites you to an atmospheric umbrella walk along the shore before ending the day at the harbor, watching the rainy sea."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Roka",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den ersten Regenschauer trocken abzuwarten.",
+                "hu": "Tökéletes hely az első esőfelhők elöli menedékre.",
+                "ro": "Loc perfect pentru a aștepta trecerea primei ploi.",
+                "en": "Perfect place to wait out the first rain shower in the dry."
+              }
+            },
+            {
+              "name": "Park Borelli",
+              "tip_5lang": {
+                "de": "Die Wege können rutschig sein, bleiben Sie auf den befestigten Pfaden.",
+                "hu": "Az utak csúszósak lehetnek, maradjon a kiépített ösvényeken.",
+                "ro": "Potecile pot fi alunecoase, rămâneți pe traseele pavate.",
+                "en": "Paths can be slippery, stay on the paved walkways."
+              }
+            },
+            {
+              "name": "Ljetnikovac Borelli",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur vom überdachten Eingangsbereich aus.",
+                "hu": "Csodálja meg az építészetet a fedett bejárati részről.",
+                "ro": "Admirați arhitectura de sub zona de intrare acoperită.",
+                "en": "Admire the architecture from the covered entrance area."
+              }
+            },
+            {
+              "name": "Ebéd egy konobában",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine warme Suppe, um sich nach dem Spaziergang aufzuwärmen.",
+                "hu": "Rendeljen egy meleg levest, hogy átmelegedjen a séta után.",
+                "ro": "Comandați o supă caldă pentru a vă încălzi după plimbare.",
+                "en": "Order a warm soup to warm up after your walk."
+              }
+            },
+            {
+              "name": "Plaža Iza Banja",
+              "tip_5lang": {
+                "de": "Die Brandung bei Regen bietet ein einzigartiges Fotomotiv.",
+                "hu": "Az esőben hullámzó tenger egyedi fotótémát kínál.",
+                "ro": "Marea agitată pe ploaie oferă un subiect foto unic.",
+                "en": "The surf during rain provides a unique photo opportunity."
+              }
+            },
+            {
+              "name": "Naplemente a parton",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Vordächern der Strandbars.",
+                "hu": "Keressen menedéket a strandbárok előtetői alatt.",
+                "ro": "Căutați adăpost sub copertinele barurilor de pe plajă.",
+                "en": "Find shelter under the eaves of the beach bars."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist bei Küstenwind unerlässlich.",
+              "Tragen Sie wasserfeste Schuhe für den Parkbesuch.",
+              "Planen Sie eine längere Mittagspause im Trockenen ein.",
+              "Die Kirche bietet den besten Schutz bei plötzlichen Güssen.",
+              "Die Farben des Meeres sind bei Regen besonders intensiv."
+            ],
+            "hu": [
+              "A tengerparti szélben egy stabil esernyő elengedhetetlen.",
+              "Viseljen vízálló cipőt a parklátogatáshoz.",
+              "Tervezzen hosszabb ebédszünetet a szárazon.",
+              "A templom nyújtja a legjobb védelmet hirtelen zápor esetén.",
+              "A tenger színei esőben különösen intenzívek."
+            ],
+            "ro": [
+              "O umbrelă stabilă este esențială din cauza vântului de coastă.",
+              "Purtați încălțăminte impermeabilă pentru vizita în parc.",
+              "Planificați o pauză de prânz mai lungă la adăpost.",
+              "Biserica oferă cel mai bun adăpost în caz de averse bruște.",
+              "Culorile mării sunt deosebit de intense pe ploaie."
+            ],
+            "en": [
+              "A sturdy umbrella is essential due to coastal winds.",
+              "Wear waterproof shoes for the park visit.",
+              "Plan a longer lunch break in the dry.",
+              "The church offers the best shelter during sudden downpours.",
+              "The colors of the sea are particularly intense in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die winterliche Ruhe von Sveti Filip i Jakov. Der Park Borelli wirkt im Winterlicht fast magisch, auch ohne Blätterpracht. Mittags wärmen Sie sich in einer Konoba auf, wo der Kamin oft brennt. Ein Spaziergang am leeren Strand Iza Banja bietet klare Sicht bis zu den Inseln. Da die Sonne früh untergeht, genießen Sie den goldenen Himmel am Hafen schon am späten Nachmittag.",
+            "hu": "Fedezze fel Sveti Filip i Jakov téli nyugalmát. A Borelli-park a téli fényekben szinte varázslatos, még lombkorona nélkül is. Ebédidőben melegedjen fel egy konobában, ahol gyakran lobog a tűz. Egy séta az üres Iza Banja strandon tiszta kilátást nyújt a szigetekre. Mivel a nap korán nyugszik, a kikötő aranyló egét már késő délután megcsodálhatja.",
+            "ro": "Experimentați liniștea iernatică din Sveti Filip i Jakov. Parcul Borelli pare magic în lumina iernii, chiar și fără frunziș. La prânz, încălziți-vă într-o konoba locală primitoare. O plimbare pe plaja pustie Iza Banja oferă o vedere clară până la insule. Deoarece soarele apune devreme, bucurați-vă de cerul auriu din port încă de la sfârșitul după-amiezii.",
+            "en": "Experience the winter tranquility of Sveti Filip i Jakov. Park Borelli looks almost magical in the winter light, even without its leaves. At noon, warm up in a local konoba where the fireplace is often lit. A walk on the empty Iza Banja beach offers clear views to the islands. Since the sun sets early, enjoy the golden sky at the harbor by late afternoon."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Roka",
+              "tip_5lang": {
+                "de": "Drinnen ist es oft kühler als draußen, behalten Sie die Jacke an.",
+                "hu": "Odabent gyakran hűvösebb van, mint kint, tartsa magán a kabátot.",
+                "ro": "În interior este adesea mai răcoare, păstrați haina pe dvs.",
+                "en": "It's often cooler inside than out, keep your jacket on."
+              }
+            },
+            {
+              "name": "Park Borelli",
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft unter den immergrünen Pinien.",
+                "hu": "Élvezze a tiszta téli levegőt az örökzöld fenyők alatt.",
+                "ro": "Bucurați-vă de aerul curat de iarnă sub pinii mereu verzi.",
+                "en": "Enjoy the clear winter air under the evergreen pines."
+              }
+            },
+            {
+              "name": "Ljetnikovac Borelli",
+              "tip_5lang": {
+                "de": "Das historische Gebäude wirkt in der Winterstille besonders edel.",
+                "hu": "A történelmi épület a téli csendben különösen nemesnek hat.",
+                "ro": "Clădirea istorică pare deosebit de nobilă în liniștea iernii.",
+                "en": "The historic building looks particularly noble in the winter silence."
+              }
+            },
+            {
+              "name": "Ebéd egy konobában",
+              "tip_5lang": {
+                "de": "Fragen Sie nach Saisongerichten wie Eintöpfen oder Wild.",
+                "hu": "Kérjen szezonális ételeket, például egytálételeket vagy vadat.",
+                "ro": "Cereți preparate de sezon, cum ar fi tocănițele sau vânatul.",
+                "en": "Ask for seasonal dishes like stews or game meat."
+              }
+            },
+            {
+              "name": "Plaža Iza Banja",
+              "tip_5lang": {
+                "de": "Die Bura kann hier sehr stark wehen, schützen Sie Ihre Ohren.",
+                "hu": "A Bóra itt nagyon erősen fújhat, védje a füleit.",
+                "ro": "Vântul Bura poate sufla foarte tare aici, protejați-vă urechile.",
+                "en": "The Bura wind can blow very strongly here, protect your ears."
+              }
+            },
+            {
+              "name": "Naplemente a parton",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang findet im Winter bereits gegen 16:30 Uhr statt.",
+                "hu": "Télen a naplemente már 16:30 körül bekövetkezik.",
+                "ro": "Apusul are loc în jurul orei 16:30 în timpul iernii.",
+                "en": "Sunset occurs as early as 4:30 PM in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip gegen den Wind.",
+              "Achten Sie auf die frühen Sonnenuntergangszeiten.",
+              "Viele Cafés haben im Winter begrenzte Öffnungszeiten.",
+              "Die Luft ist bei Nordwind (Bura) extrem klar und gesund.",
+              "Tragen Sie eine windfeste Mütze am Meer."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a szél ellen.",
+              "Ügyeljen a korai naplemente időpontjára.",
+              "Sok kávézó korlátozott nyitvatartással üzemel télen.",
+              "A tiszta északi szél (Bóra) idején a levegő rendkívül tiszta.",
+              "Viseljen szélálló sapkát a tengerparton."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi împotriva vântului.",
+              "Aveți grijă la ora timpurie a apusului.",
+              "Multe cafenele au program limitat în timpul iernii.",
+              "Aerul este extrem de curat când bate vântul de nord (Bura).",
+              "Purtați o căciulă rezistentă la vânt lângă mare."
+            ],
+            "en": [
+              "Dress in layers against the wind.",
+              "Be aware of early sunset times.",
+              "Many cafes have limited opening hours in winter.",
+              "The air is extremely clear and healthy during north winds (Bura).",
+              "Wear a windproof hat by the sea."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -532,6 +722,214 @@
           "The route to Rogovo requires some fitness.",
           "Use the bike paths along the coast."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine ruhige Kulisse. Starten Sie im Ort und fahren Sie vorsichtig zum Aussichtspunkt Rogovo; der Aufstieg hält Sie warm. Nach dem Mittagessen im Hafen führt der Weg am Strand Iza Banja entlang. Die salzige Gischt vermischt sich mit dem Regen für ein echtes Küstenerlebnis. Beenden Sie die Tour am Herrenhaus Borelli, bevor es zu nass wird.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel, de nyugodt környezetet biztosít. Kezdje a faluban, és tekerjen óvatosan a Rogovo kilátóhoz; a felfelé vezető út melegen tartja. A kikötői ebéd után az út az Iza Banja strand mentén halad. A sós permet keveredik az esővel az igazi tengerparti élményért. Zárja a túrát a Borelli-kúriánál, mielőtt túl vizes lenne.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență, dar oferă un cadru liniștit. Începeți în localitate și pedalați cu atenție spre punctul de belvedere Rogovo. După prânzul în port, traseul trece pe lângă plaja Iza Banja. Aerosolii sărați se amestecă cu ploaia pentru o experiență autentică. Încheiați turul la conacul Borelli înainte de a vă uda prea tare.",
+            "en": "Cycling in the rain requires caution but offers a quiet backdrop. Start in the village and ride carefully to the Rogovo viewpoint; the climb will keep you warm. After lunch in the harbor, the route leads along Iza Banja beach. The salty spray mixes with the rain for a true coastal experience. End the tour at the Borelli mansion before it gets too wet."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Roka",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab, um den Sattel trocken zu halten.",
+                "hu": "Parkoljon az előtető alatt, hogy a nyereg száraz maradjon.",
+                "ro": "Parcați sub copertină pentru a păstra șaua uscată.",
+                "en": "Park under the eave to keep your saddle dry."
+              }
+            },
+            {
+              "name": "Park Borelli",
+              "tip_5lang": {
+                "de": "Vorsicht vor nassem Laub auf den Wegen.",
+                "hu": "Vigyázzon az utakon lévő nedves levelekre.",
+                "ro": "Atenție la frunzele ude de pe poteci.",
+                "en": "Watch out for wet leaves on the paths."
+              }
+            },
+            {
+              "name": "Rogovo",
+              "tip_5lang": {
+                "de": "Die Abfahrt bei Regen erfordert erhöhte Bremsbereitschaft.",
+                "hu": "Az esőben való leereszkedés fokozott fékkészenlétet igényel.",
+                "ro": "Coborârea pe ploaie necesită o atenție sporită la frânare.",
+                "en": "Descending in the rain requires increased braking readiness."
+              }
+            },
+            {
+              "name": "Ebéd a kikötőben",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause, um Ihre Kleidung zu trocknen.",
+                "hu": "Használja ki a szünetet a ruhái megszárítására.",
+                "ro": "Folosiți pauza pentru a vă usca hainele.",
+                "en": "Use the break to dry your clothes."
+              }
+            },
+            {
+              "name": "Plaža Iza Banja",
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf sandigen oder schlammigen Abschnitten.",
+                "hu": "Hajtson lassan a homokos vagy sáros szakaszokon.",
+                "ro": "Pedalați încet pe porțiunile cu nisip sau noroi.",
+                "en": "Ride slowly on sandy or muddy sections."
+              }
+            },
+            {
+              "name": "Kávé a mólón",
+              "tip_5lang": {
+                "de": "Ein heißer Espresso wirkt Wunder gegen die Kälte.",
+                "hu": "Egy forró eszpresszó csodákra képes a hideg ellen.",
+                "ro": "Un espresso fierbinte face minuni împotriva frigului.",
+                "en": "A hot espresso works wonders against the cold."
+              }
+            },
+            {
+              "name": "Ljetnikovac Borelli",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein Foto, dann ab ins Trockene.",
+                "hu": "Rövid megálló egy fotóra, aztán irány a száraz hely.",
+                "ro": "Oprire scurtă pentru o poză, apoi mergeți la adăpost.",
+                "en": "Short stop for a photo, then head to the dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+              "Tragen Sie eine neonfarbene Regenjacke für bessere Sichtbarkeit.",
+              "Schutzbleche verhindern Schmutzspritzer auf der Kleidung.",
+              "Meiden Sie bei Starkregen unbefestigte Waldwege.",
+              "Wischen Sie den Sattel nach jedem Stopp trocken."
+            ],
+            "hu": [
+              "Indulás előtt ellenőrizze a fékeket.",
+              "Viseljen neon esőkabátot a jobb láthatóságért.",
+              "A sárvédők megakadályozzák a ruházat besározódását.",
+              "Heves esőzéskor kerülje a burkolatlan erdei utakat.",
+              "Minden megálló után törölje szárazra a nyerget."
+            ],
+            "ro": [
+              "Verificați frânele înainte de plecare.",
+              "Purtați o jachetă de ploaie neon pentru vizibilitate.",
+              "Aripile bicicletei previn stropirea hainelor.",
+              "Evitați drumurile forestiere neasfaltate în caz de ploaie torențială.",
+              "Ștergeți șaua după fiecare oprire."
+            ],
+            "en": [
+              "Check your brakes before starting.",
+              "Wear a neon raincoat for better visibility.",
+              "Mudguards prevent dirt from splashing on your clothes.",
+              "Avoid unpaved forest paths during heavy rain.",
+              "Wipe the saddle dry after every stop."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Dalmatien ist erfrischend. Der Anstieg nach Rogovo ist ideal, um die Durchblutung anzuregen und mit einem Panoramablick belohnt zu werden. Mittags lockt der Hafen mit warmen Speisen. Die flache Strecke am Strand Iza Banja entlang bietet die beste Sicht auf die gegenüberliegenden Inseln der Kornaten. Denken Sie daran, die Tour rechtzeitig vor dem frühen Sonnenuntergang zu beenden.",
+            "hu": "A téli kerékpározás Dalmáciában frissítő élmény. A Rogovo felé vezető emelkedő ideális a vérkeringés felpezsdítésére, a jutalom pedig a panoráma. Ebédidőben a kikötő hívogat meleg ételekkel. Az Iza Banja strand menti sík szakasz kínálja a legjobb kilátást a szemközti Kornati-szigetekre. Ne felejtse el időben, a korai naplemente előtt befejezni a túrát.",
+            "ro": "Ciclismul de iarnă în Dalmația este revigorant. Urcarea spre Rogovo este ideală pentru a vă pune sângele în mișcare, fiind răsplătită cu o vedere panoramică. La prânz, portul vă atrage cu mâncăruri calde. Traseul plat de-a lungul plajei Iza Banja oferă cea mai bună vedere spre insulele Kornati. Nu uitați să încheiați turul înainte de apusul timpuriu.",
+            "en": "Winter cycling in Dalmatia is refreshing. The climb to Rogovo is ideal for getting your circulation going, rewarded with a panoramic view. At noon, the harbor attracts with warm meals. The flat route along Iza Banja beach offers the best views of the opposite Kornati islands. Remember to finish the tour in time before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Roka",
+              "tip_5lang": {
+                "de": "Die Sonne steht tief, achten Sie auf Blendung beim Fahren.",
+                "hu": "A nap alacsonyan jár, ügyeljen a vakításra vezetés közben.",
+                "ro": "Soarele este jos, atenție la orbire în timp ce pedalați.",
+                "en": "The sun is low, watch out for glare while riding."
+              }
+            },
+            {
+              "name": "Park Borelli",
+              "tip_5lang": {
+                "de": "Im Schatten der Bäume kann es deutlich kühler sein.",
+                "hu": "A fák árnyékában jelentősen hűvösebb lehet.",
+                "ro": "În umbra copacilor poate fi mult mai răcoare.",
+                "en": "It can be significantly cooler in the shade of the trees."
+              }
+            },
+            {
+              "name": "Rogovo",
+              "tip_5lang": {
+                "de": "Ziehen Sie für die Abfahrt eine winddichte Schicht an.",
+                "hu": "A leereszkedéshez vegyen fel egy szélálló réteget.",
+                "ro": "Puneți un strat rezistent la vânt pentru coborâre.",
+                "en": "Put on a windproof layer for the descent."
+              }
+            },
+            {
+              "name": "Ebéd a kikötőben",
+              "tip_5lang": {
+                "de": "Ein warmer Tee ist der ideale Begleiter zur Pause.",
+                "hu": "Egy meleg tea ideális kísérő a szünetben.",
+                "ro": "Un ceai cald este însoțitorul ideal pentru pauză.",
+                "en": "A warm tea is the ideal companion for the break."
+              }
+            },
+            {
+              "name": "Plaža Iza Banja",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am sonst so belebten Strand.",
+                "hu": "Élvezze a nyugalmat az egyébként forgalmas strandon.",
+                "ro": "Bucurați-vă de liniște pe plaja altfel aglomerată.",
+                "en": "Enjoy the tranquility on the otherwise busy beach."
+              }
+            },
+            {
+              "name": "Kávé a mólón",
+              "tip_5lang": {
+                "de": "Die Wintersonne im Gesicht gibt neue Energie.",
+                "hu": "A téli napsütés az arcán új energiát ad.",
+                "ro": "Soarele de iarnă pe față vă oferă energie nouă.",
+                "en": "The winter sun on your face gives new energy."
+              }
+            },
+            {
+              "name": "Ljetnikovac Borelli",
+              "tip_5lang": {
+                "de": "Achten Sie auf funktionierende Lichter für den Rückweg.",
+                "hu": "Ügyeljen a működő lámpákra a visszúton.",
+                "ro": "Asigurați-vă că luminile funcționează pentru drumul de întoarcere.",
+                "en": "Make sure your lights are working for the way back."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe gegen die Kälte.",
+              "Thermounterwäsche hält Sie bei der Fahrt warm.",
+              "Nutzen Sie die Mittagssonne für die längsten Etappen.",
+              "Fahren Sie bei Dunkelheit nur mit Licht.",
+              "Die Luftfeuchtigkeit ist im Winter oft geringer."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt a hideg ellen.",
+              "A termo fehérnemű melegen tartja tekerés közben.",
+              "Használja ki a déli napsütést a leghosszabb szakaszokra.",
+              "Sötétben csak lámpával közlekedjen.",
+              "A páratartalom télen gyakran alacsonyabb."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt împotriva frigului.",
+              "Lenjeria termică vă va ține de cald în timpul plimbării.",
+              "Folosiți soarele de la prânz pentru cele mai lungi etape.",
+              "Circulați pe întuneric doar cu lumini.",
+              "Umiditatea este adesea mai scăzută iarna."
+            ],
+            "en": [
+              "Wear windproof gloves against the cold.",
+              "Thermal underwear will keep you warm while riding.",
+              "Use the midday sun for the longest stages.",
+              "Ride in the dark only with lights.",
+              "Humidity is often lower in winter."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -774,6 +1172,214 @@
           "Parking is available at the harbor and near the beaches.",
           "The roads to Rogovo are narrow but paved."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Sveti Filip i Jakov auch bei Regen komfortabel zu erkunden. Beginnen Sie beim Park Borelli, wo das Auto in der Nähe geparkt werden kann. Die Fahrt zum Rogovo Aussichtspunkt bietet dramatische Ausblicke auf die stürmische Adria. Genießen Sie ein ausgiebiges Mittagessen im Ort, während der Regen gegen die Fenster prasselt. Die Küstenstraße eignet sich perfekt für eine entspannte Panoramafahrt am Nachmittag.",
+            "hu": "Autóval Sveti Filip i Jakov esőben is kényelmesen felfedezhető. Kezdje a Borelli-parknál, ahol a közelben parkolhat. A Rogovo kilátóhoz vezető út drámai kilátást nyújt a viharos Adriára. Élvezze a bőséges ebédet a faluban, miközben az eső kopog az ablakon. A tengerparti út tökéletes egy pihentető panorámaautózáshoz délután.",
+            "ro": "Cu mașina, Sveti Filip i Jakov este confortabil de explorat chiar și pe ploaie. Începeți la Parcul Borelli, unde puteți parca în apropiere. Drumul spre punctul Rogovo oferă vederi dramatice asupra Adriaticii furtunoase. Bucurați-vă de un prânz lung în localitate. Șoseaua de coastă este perfectă pentru o plimbare panoramică relaxată după-amiaza.",
+            "en": "By car, Sveti Filip i Jakov is comfortable to explore even in the rain. Start at Park Borelli, where you can park nearby. The drive to the Rogovo viewpoint offers dramatic views of the stormy Adriatic. Enjoy a hearty lunch in the village while the rain drums against the windows. The coastal road is perfect for a relaxed panoramic drive in the afternoon."
+          },
+          "stops": [
+            {
+              "name": "Park Borelli",
+              "tip_5lang": {
+                "de": "Parken Sie am Eingang, um Laufwege im Regen zu minimieren.",
+                "hu": "Parkoljon a bejáratnál, hogy minimalizálja az esőben való gyaloglást.",
+                "ro": "Parcați la intrare pentru a minimiza mersul prin ploaie.",
+                "en": "Park at the entrance to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Ljetnikovac Borelli",
+              "tip_5lang": {
+                "de": "Ein tolles Fotomotiv direkt vom Parkplatz aus.",
+                "hu": "Remek fotótéma közvetlenül a parkolóból.",
+                "ro": "O oportunitate foto excelentă direct din parcare.",
+                "en": "A great photo opportunity directly from the parking lot."
+              }
+            },
+            {
+              "name": "Rogovo Aussichtspunkt",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Wind im Auto und genießen Sie die Aussicht.",
+                "hu": "Erős szélben maradjon az autóban, és onnan élvezze a kilátást.",
+                "ro": "Rămâneți în mașină în caz de vânt puternic și admirați vederea.",
+                "en": "Stay in the car during strong winds and enjoy the view from there."
+              }
+            },
+            {
+              "name": "Crkva sv. Roka",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nur wenige Schritte vom Eingang entfernt.",
+                "hu": "A parkoló csak néhány lépésre van a bejárattól.",
+                "ro": "Parcarea este la doar câțiva pași de intrare.",
+                "en": "The parking lot is just a few steps from the entrance."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Warme, traditionelle Küche ist heute besonders wohltuend.",
+                "hu": "A meleg, hagyományos konyha ma különösen jól esik.",
+                "ro": "Bucătăria caldă, tradițională, este deosebit de binevenită astăzi.",
+                "en": "Warm, traditional cuisine is especially comforting today."
+              }
+            },
+            {
+              "name": "Plaža Iza Banja",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Meeresgischt gemütlich aus dem trockenen Auto.",
+                "hu": "Figyelje a tengeri permetet kényelmesen a száraz autóból.",
+                "ro": "Urmăriți aerosolii marini confortabil din mașina uscată.",
+                "en": "Watch the sea spray comfortably from the dry car."
+              }
+            },
+            {
+              "name": "Uferpromenade",
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für frische Meeresluft zwischen den Schauern.",
+                "hu": "Rövid kiszállás a friss tengeri levegőért a záporok között.",
+                "ro": "Ieșire scurtă pentru aer marin proaspăt între averse.",
+                "en": "Short exit for fresh sea air between showers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken unter großen Pinien bei Sturmgefahr.",
+              "Achten Sie auf Aquaplaning auf der Küstenstraße.",
+              "Nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+              "Halten Sie die Scheinwerfer bei Regen immer eingeschaltet.",
+              "Ein Schirm im Auto ist bei Zwischenstopps Gold wert."
+            ],
+            "hu": [
+              "Viharveszély esetén kerülje a nagy fenyők alatti parkolást.",
+              "Ügyeljen a vízenfutásra (aquaplaning) a tengerparti úton.",
+              "Használja a légkondicionálót a szélvédők párátlanítására.",
+              "Esőben mindig tartsa bekapcsolva a fényszórókat.",
+              "Az autóban tartott esernyő aranyat ér a megállóknál."
+            ],
+            "ro": [
+              "Evitați parcarea sub pinii mari în caz de furtună.",
+              "Atenție la acvaplanare pe drumul de coastă.",
+              "Folosiți aerul condiționat pentru a dezaburi geamurile.",
+              "Păstrați farurile aprinse pe timp de ploaie.",
+              "O umbrelă în mașină este de neprețuit la opriri."
+            ],
+            "en": [
+              "Avoid parking under large pines if there's a storm risk.",
+              "Watch out for aquaplaning on the coastal road.",
+              "Use the air conditioning to defog the windows.",
+              "Keep your headlights on at all times in the rain.",
+              "An umbrella in the car is worth its weight in gold during stops."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie den winterlichen Charme der Region bequem mit dem Auto. Die Fahrt zum Aussichtspunkt Rogovo bietet bei der oft klaren Winterluft eine unglaubliche Fernsicht bis tief ins Archipel. Mittags genießen Sie die Gastfreundschaft in einer beheizten Konoba im Zentrum. Am Nachmittag lädt die Küste zu kurzen Stopps ein, um die raue Schönheit der Adria ohne die Sommerhitze zu erleben. Der Tag endet mit einem weiten Blick auf den frühen Sonnenuntergang.",
+            "hu": "Fedezze fel a régió téli báját kényelmesen, autóval. A Rogovo kilátóhoz vezető út a gyakran tiszta téli levegőben hihetetlen tálati kilátást nyújt mélyen a szigetvilágba. Ebédidőben élvezze a vendégszeretetet egy fűtött konobában a központban. Délután a tengerpart rövid megállókra hív, hogy megtapasztalja az Adria nyers szépségét a nyári hőség nélkül. A nap a korai naplemente pazar látványával zárul.",
+            "ro": "Descoperiți farmecul iernatic al regiunii confortabil cu mașina. Drumul spre Rogovo oferă o vizibilitate incredibilă asupra arhipelagului în aerul curat de iarnă. La prânz, bucurați-vă de ospitalitate într-o konoba încălzită. După-amiaza, coasta vă invită la opriri scurte pentru a experimenta frumusețea brută a Adriaticii. Ziua se încheie cu o vedere panoramică asupra apusului timpuriu.",
+            "en": "Discover the winter charm of the region comfortably by car. The drive to the Rogovo viewpoint offers incredible distant views deep into the archipelago in the often clear winter air. At noon, enjoy the hospitality in a heated konoba in the center. In the afternoon, the coast invites for short stops to experience the raw beauty of the Adriatic without the summer heat. The day ends with a wide view of the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Park Borelli",
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter fast menschenleer und sehr fotogen.",
+                "hu": "A park télen szinte néptelen és nagyon fotogén.",
+                "ro": "Complexul este aproape pustiu iarna și foarte fotogenic.",
+                "en": "The grounds are almost deserted in winter and very photogenic."
+              }
+            },
+            {
+              "name": "Ljetnikovac Borelli",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Details der Fassade im klaren Winterlicht.",
+                "hu": "Csodálja meg a homlokzat részleteit a tiszta téli fényben.",
+                "ro": "Admirați detaliile fațadei în lumina clară de iarnă.",
+                "en": "Admire the details of the facade in the clear winter light."
+              }
+            },
+            {
+              "name": "Rogovo Aussichtspunkt",
+              "tip_5lang": {
+                "de": "Bester Zeitpunkt für Fernsicht-Fotos bei Nordwind.",
+                "hu": "A legjobb időpont a távlati fotókhoz északi szél idején.",
+                "ro": "Cel mai bun moment pentru fotografii la distanță în timpul vântului de nord.",
+                "en": "Best time for long-distance photos during north winds."
+              }
+            },
+            {
+              "name": "Crkva sv. Roka",
+              "tip_5lang": {
+                "de": "Kurzer Besuch der historischen Kirche ohne Touristenströme.",
+                "hu": "Rövid látogatás a történelmi templomban turisták nélkül.",
+                "ro": "Vizită scurtă la biserica istorică fără fluxul de turiști.",
+                "en": "Short visit to the historic church without the tourist crowds."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Spezialitäten der Wintersaison.",
+                "hu": "Kóstolja meg a téli szezon helyi különlegességeit.",
+                "ro": "Gustați specialitățile locale ale sezonului de iarnă.",
+                "en": "Try local specialties of the winter season."
+              }
+            },
+            {
+              "name": "Plaža Iza Banja",
+              "tip_5lang": {
+                "de": "Ein einsamer Strandspaziergang ist im Winter besonders erholsam.",
+                "hu": "Egy magányos tengerparti séta télen különösen pihentető.",
+                "ro": "O plimbare solitară pe plajă este deosebit de relaxantă iarna.",
+                "en": "A lonely beach walk is particularly relaxing in winter."
+              }
+            },
+            {
+              "name": "Uferpromenade",
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang direkt aus dem Auto.",
+                "hu": "Élvezze a naplementét közvetlenül az autóból.",
+                "ro": "Bucurați-vă de apus direct din mașină.",
+                "en": "Enjoy the sunset directly from your car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf vereiste Stellen in schattigen Lagen am Morgen.",
+              "Die Fernsicht ist im Winter oft besser als im Sommer.",
+              "Heizen Sie das Auto vor längeren Fahrten gut vor.",
+              "Planen Sie die Route so, dass Sie vor Einbruch der Dunkelheit ankommen.",
+              "Winterreifen sind an der Küste selten Pflicht, aber sinnvoll."
+            ],
+            "hu": [
+              "Reggelente ügyeljen a jeges foltokra az árnyékos helyeken.",
+              "A tálati kilátás télen gyakran jobb, mint nyáron.",
+              "Hosszabb utak előtt fűtse fel jól az autót.",
+              "Úgy tervezze az útvonalat, hogy sötétedés előtt megérkezzen.",
+              "A tengerparton ritkán kötelező a téli gumi, de érdemes használni."
+            ],
+            "ro": [
+              "Atenție la porțiunile înghețate în zonele umbrite dimineața.",
+              "Vizibilitatea la distanță este adesea mai bună iarna decât vara.",
+              "Încălziți bine mașina înainte de călătoriile mai lungi.",
+              "Planificați ruta astfel încât să ajungeți înainte de lăsarea întunericului.",
+              "Anvelopele de iarnă sunt rareori obligatorii pe coastă, dar utile."
+            ],
+            "en": [
+              "Watch out for icy spots in shaded areas in the morning.",
+              "Long-distance visibility is often better in winter than in summer.",
+              "Preheat the car well before longer drives.",
+              "Plan the route so you arrive before dark.",
+              "Winter tires are rarely mandatory on the coast, but useful."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -998,6 +1604,196 @@
           "The bus stop is on the main road, just minutes from the center.",
           "Check the Liburnija bus schedules."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den öffentlichen Nahverkehr, um Sveti Filip i Jakov entspannt im Regen zu erleben. Die Busstationen bieten Schutz vor Güssen. Beginnen Sie bei der St. Rochus-Kirche und erkunden Sie den Park Borelli zwischen den Schauern. Ein ausgiebiges Mittagessen in der Nähe des Hafens ist der perfekte Zufluchtsort im Trockenen. Nachmittags bietet der Strand Iza Banja eine melancholische Schönheit, bevor Sie den Bus zurück nehmen.",
+            "hu": "Használja a tömegközlekedést, hogy esőben is pihentetően fedezze fel Sveti Filip i Jakovot. A buszmegállók védelmet nyújtanak a záporok ellen. Kezdje a Szent Rókus-templomnál, és fedezze fel a Borelli-parkot a záporok között. Egy bőséges ebéd a kikötő közelében tökéletes száraz menedék. Délután az Iza Banja strand melankolikus szépséget áraszt, mielőtt visszabuszozna.",
+            "ro": "Folosiți transportul public pentru a descoperi Sveti Filip i Jakov pe ploaie. Stațiile de autobuz oferă protecție împotriva averselor. Începeți la Biserica Sf. Rochus și explorați Parcul Borelli între ploi. Un prânz bogat lângă port este refugiul perfect. După-amiaza, plaja Iza Banja emană o frumusețe melancolică înainte de a lua autobuzul înapoi.",
+            "en": "Use public transport to discover Sveti Filip i Jakov relaxedly in the rain. Bus stations provide shelter from downpours. Start at St. Roch Church and explore Park Borelli between showers. A hearty lunch near the harbor is the perfect dry sanctuary. In the afternoon, Iza Banja beach radiates a melancholic beauty before you take the bus back."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Roka",
+              "tip_5lang": {
+                "de": "Gute Anbindung an die Hauptstraße, ideal bei Regen.",
+                "hu": "Jó összeköttetés a főúttal, ideális esőben.",
+                "ro": "Conexiune bună la drumul principal, ideal pe ploaie.",
+                "en": "Good connection to the main road, ideal in the rain."
+              }
+            },
+            {
+              "name": "Park Borelli",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen an den Haltestellen als Unterstand.",
+                "hu": "Használja a megállóhelyek váróit menedékként.",
+                "ro": "Folosiți adăposturile din stații pentru a vă feri de ploaie.",
+                "en": "Use the bus stop shelters as cover."
+              }
+            },
+            {
+              "name": "Ljetnikovac Borelli",
+              "tip_5lang": {
+                "de": "Das Gebäude ist nur einen kurzen Fußweg von der Haltestelle entfernt.",
+                "hu": "Az épület csak egy rövid sétára van a megállótól.",
+                "ro": "Clădirea este la doar o scurtă plimbare de stație.",
+                "en": "The building is just a short walk from the stop."
+              }
+            },
+            {
+              "name": "Ebéd a kikötő közelében",
+              "tip_5lang": {
+                "de": "Viele Restaurants liegen direkt an der Transitroute.",
+                "hu": "Sok étterem közvetlenül a tranzitútvonal mentén található.",
+                "ro": "Multe restaurante sunt situate direct pe ruta de tranzit.",
+                "en": "Many restaurants are located directly along the transit route."
+              }
+            },
+            {
+              "name": "Plaža Iza Banja",
+              "tip_5lang": {
+                "de": "Verkürzen Sie den Aufenthalt am Strand bei starkem Regen.",
+                "hu": "Heves esőzéskor rövidítse le a strandon tartózkodást.",
+                "ro": "Scurtați șederea pe plajă în caz de ploaie torențială.",
+                "en": "Shorten your stay at the beach during heavy rain."
+              }
+            },
+            {
+              "name": "Naplemente pihenő",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan für die Rückfahrt im Voraus.",
+                "hu": "Előre ellenőrizze a buszmenetrendet a visszúthoz.",
+                "ro": "Verificați din timp programul autobuzelor pentru retur.",
+                "en": "Check the bus schedule for the return trip in advance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Halten Sie Kleingeld oder eine Fahrkarte bereit.",
+              "Busse können bei schlechtem Wetter Verspätung haben.",
+              "Tragen Sie eine leichte Regenjacke für die Wege zur Haltestelle.",
+              "Die Hauptstation bietet den besten Schutz vor Regen.",
+              "Nutzen Sie eine Transit-App für Echtzeit-Infos."
+            ],
+            "hu": [
+              "Készítsen elő aprópénzt vagy jegyet.",
+              "Rossz időben a buszok késhetnek.",
+              "Viseljen könnyű esőkabátot a megállóig vezető úton.",
+              "A főmegálló nyújtja a legjobb védelmet az eső ellen.",
+              "Használjon közlekedési alkalmazást a valós idejű információkért."
+            ],
+            "ro": [
+              "Pregătiți mărunt sau biletul din timp.",
+              "Autobuzele pot avea întârzieri pe vreme rea.",
+              "Purtați o jachetă de ploaie ușoară pentru drumul spre stație.",
+              "Stația principală oferă cea mai bună protecție împotriva ploii.",
+              "Folosiți o aplicație de transport pentru informații în timp real."
+            ],
+            "en": [
+              "Have small change or a ticket ready.",
+              "Buses may be delayed in bad weather.",
+              "Wear a light raincoat for the walk to the stop.",
+              "The main station offers the best protection from rain.",
+              "Use a transit app for real-time information."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie die winterliche Ruhe dalmatinischer Küstenorte mit dem Bus. Sveti Filip i Jakov bietet im Winter eine entspannte Atmosphäre ohne die üblichen Besuchermassen. Beginnen Sie bei der historischen St. Rochus-Kirche und spazieren Sie durch den Park Borelli. Ein warmes Mittagessen im Ort stärkt Sie für den Nachmittag am Strand Iza Banja. Achten Sie auf die winterlichen Busfahrpläne, um den frühen Abend gemütlich ausklingen zu lassen.",
+            "hu": "Fedezze fel a dalmát tengerparti falvak téli nyugalmát busszal. Sveti Filip i Jakov télen pihentető légkört kínál a megszokott tömeg nélkül. Kezdje a történelmi Szent Rókus-templomnál, és sétáljon át a Borelli-parkon. Egy meleg ebéd a faluban erőt ad az Iza Banja strandon töltött délutánhoz. Ügyeljen a téli buszmenetrendre, hogy kényelmesen zárhassa a kora estét.",
+            "ro": "Descoperiți liniștea de iarnă a satelor de pe coasta dalmată cu autobuzul. Sveti Filip i Jakov oferă o atmosferă relaxată iarna, fără mulțimile obișnuite. Începeți la biserica istorică Sf. Rochus și plimbați-vă prin Parcul Borelli. Un prânz cald vă va da energie pentru după-amiaza pe plaja Iza Banja. Atenție la programele de iarnă ale autobuzelor pentru a încheia seara confortabil.",
+            "en": "Discover the winter tranquility of Dalmatian coastal villages by bus. Sveti Filip i Jakov offers a relaxed atmosphere in winter without the usual crowds. Start at the historic St. Roch Church and walk through Park Borelli. A warm lunch in the village strengthens you for the afternoon at Iza Banja beach. Be aware of the winter bus schedules to end the early evening comfortably."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Roka",
+              "tip_5lang": {
+                "de": "Die Haltestelle befindet sich in unmittelbarer Nähe zur Kirche.",
+                "hu": "A megálló közvetlenül a templom közelében található.",
+                "ro": "Stația se află în imediata apropiere a bisericii.",
+                "en": "The stop is located in the immediate vicinity of the church."
+              }
+            },
+            {
+              "name": "Park Borelli",
+              "tip_5lang": {
+                "de": "Im Winter ist der Park ein Ort absoluter Stille.",
+                "hu": "Télen a park az abszolút csend helyszíne.",
+                "ro": "Iarna, parcul este un loc de liniște absolută.",
+                "en": "In winter, the park is a place of absolute silence."
+              }
+            },
+            {
+              "name": "Ljetnikovac Borelli",
+              "tip_5lang": {
+                "de": "Kurze Wege zwischen den Sehenswürdigkeiten sparen Zeit im Freien.",
+                "hu": "A látnivalók közötti rövid utak időt takarítanak meg a szabadban.",
+                "ro": "Distanțele scurte între obiective economisesc timp în aer liber.",
+                "en": "Short distances between sights save time outdoors."
+              }
+            },
+            {
+              "name": "Ebéd a kikötő közelében",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit gemütlicher Innenheizung.",
+                "hu": "Keressen egy éttermet barátságos belső fűtéssel.",
+                "ro": "Căutați un restaurant cu încălzire interioară primitoare.",
+                "en": "Look for a restaurant with cozy indoor heating."
+              }
+            },
+            {
+              "name": "Plaža Iza Banja",
+              "tip_5lang": {
+                "de": "Die Busfrequenz kann im Winter reduziert sein.",
+                "hu": "A buszjáratok gyakorisága télen csökkenhet.",
+                "ro": "Frecvența autobuzelor poate fi redusă iarna.",
+                "en": "Bus frequency may be reduced in winter."
+              }
+            },
+            {
+              "name": "Naplemente pihenő",
+              "tip_5lang": {
+                "de": "Warten Sie in einem nahegelegenen Café auf den nächsten Bus.",
+                "hu": "Várjon a következő buszra egy közeli kávézóban.",
+                "ro": "Așteptați următorul autobuz într-o cafenea din apropiere.",
+                "en": "Wait for the next bus in a nearby cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan (Off-Season) genau.",
+              "Letzte Busse fahren oft früher als im Sommer.",
+              "Tragen Sie warme Kleidung für die Wartezeit an Haltestellen.",
+              "Dalmatien ist im Winter per Bus sehr günstig zu bereisen.",
+              "Planen Sie Pufferzeiten für Anschlüsse ein."
+            ],
+            "hu": [
+              "Pontosan ellenőrizze a téli (szezonon kívüli) menetrendet.",
+              "Az utolsó buszok gyakran korábban indulnak, mint nyáron.",
+              "Viseljen meleg ruhát a megállókban való várakozáshoz.",
+              "Dalmácia télen busszal nagyon olcsón bejárható.",
+              "Tervezzen be pufferidőt a csatlakozásokhoz."
+            ],
+            "ro": [
+              "Verificați cu atenție programul de iarnă (extra-sezon).",
+              "Ultimele autobuze pleacă adesea mai devreme decât vara.",
+              "Purtați haine groase pentru timpul de așteptare în stații.",
+              "Dalmația este foarte accesibilă cu autobuzul iarna.",
+              "Planificați timp de rezervă pentru conexiuni."
+            ],
+            "en": [
+              "Check the winter (off-season) schedule carefully.",
+              "Last buses often leave earlier than in summer.",
+              "Wear warm clothing for the waiting time at stops.",
+              "Dalmatia is very affordable to travel by bus in winter.",
+              "Plan buffer times for connections."
+            ]
+          }
+        }
       }
     }
   }

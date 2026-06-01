@@ -305,6 +305,204 @@
           "Water taxis run regularly to nearby Trogir.",
           "Visit the small morning market for fresh local fruit."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen im Kaštel Seget offenbart die raue Schönheit der alten Mauern. Mittags bietet eine lokale Konoba den perfekten Rückzugsort bei Pršut und Wein. Der Nachmittag am Medena-Strand ist unter dem Regenschirm besonders atmosphärisch, wenn die Adria grau und mächtig wirkt. Den Tag lassen wir geschützt am Hafen ausklingen, während die Tropfen auf das Meer fallen.",
+            "hu": "Az esős reggel a segeti várfalak között különleges, melankolikus hangulatot áraszt. Délben egy helyi konoba kemencéje mellett melegedhetünk fel egy tál forró levessel. Délután az esernyő alatt tett séta a Medena-parton a tenger morajlását hozza közelebb. Az estét a kikötő fedett részén zárjuk, figyelve a vízen táncoló esőcseppeket és a halászhajók fényeit.",
+            "ro": "O dimineață ploioasă în Kaštel Seget dezvăluie frumusețea melancolică a zidurilor vechi. La prânz, o konoba locală oferă refugiul perfect cu specialități calde și vin roșu. După-amiaza pe plaja Medena, sub umbrelă, devine o experiență senzorială, ascultând marea agitată. Încheiem ziua la adăpost în port, privind cum picăturile de ploaie se pierd în apele Adriaticii.",
+            "en": "A rainy morning in Kaštel Seget highlights the rugged beauty of its 16th-century walls. At noon, a local konoba provides a cozy escape with hearty Dalmatian dishes. The afternoon walk to Medena Beach is atmospheric under an umbrella, watching the grey Adriatic swell. We end the day sheltered by the harbor, enjoying the rhythmic sound of rain hitting the sea surface."
+          },
+          "stops": [
+            {
+              "name": "Kaštel Seget",
+              "tip_5lang": {
+                "de": "Die engen Gassen bieten guten Windschutz bei leichtem Regen.",
+                "hu": "A szűk utcák jó szélfogók enyhe esőben séta közben.",
+                "ro": "Străzile înguste oferă protecție bună împotriva vântului și ploii.",
+                "en": "Narrow alleys provide good wind protection during light rain."
+              }
+            },
+            {
+              "name": "Riva Waterfront",
+              "tip_5lang": {
+                "de": "Vorsicht, die Steinplatten können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a kőlapok vizesen nagyon csúszósak lehetnek.",
+                "ro": "Atenție, dalele de piatră pot fi alunecoase când sunt ude.",
+                "en": "Caution: stone pavers can be slippery when wet."
+              }
+            },
+            {
+              "name": "Crkva sv. Vida",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine spirituelle Pause im Trockenen.",
+                "hu": "Csendes hely egy spirituális pihenőre, védve az esőtől.",
+                "ro": "Un loc liniștit pentru o pauză spirituală la adăpost.",
+                "en": "A quiet place for a spiritual break in the dry interior."
+              }
+            },
+            {
+              "name": "Lunch in a local Konoba",
+              "coords": [
+                16.2341,
+                43.5178
+              ],
+              "tip_5lang": {
+                "de": "Bestellen Sie eine 'Peka', perfekt für gemütliche Regentage.",
+                "hu": "Rendeljen 'peka'-t, ideális választás egy borús, esős ebédhez.",
+                "ro": "Comandați o 'peka', perfectă pentru o zi ploioasă și lentă.",
+                "en": "Order a 'peka'; it's the perfect comfort food for rainy days."
+              }
+            },
+            {
+              "name": "Plaža Medena",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die stürmische Adria vom Café aus.",
+                "hu": "Élvezze a viharos Adria látványát egy parti kávézóból.",
+                "ro": "Bucurați-vă de vederea Adriaticii agitate de la o cafenea.",
+                "en": "Enjoy the view of the stormy Adriatic from a beachside cafe."
+              }
+            },
+            {
+              "name": "Sunset Pause",
+              "tip_5lang": {
+                "de": "Dramatisches Wolkenspiel statt klassischem Sonnenuntergang.",
+                "hu": "Klasszikus naplemente helyett drámai felhőjáték látható ilyenkor.",
+                "ro": "Spectacol dramatic de nori în locul apusului clasic.",
+                "en": "Expect a dramatic cloud display instead of a classic sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich in den Gassen Pfützen bilden können.",
+              "Die meisten Konobas haben beheizte Innenräume.",
+              "Ein stabiler Regenschirm ist wegen der Meeresbrise wichtig.",
+              "Nutzen Sie die Regenpause für Fotos von den glänzenden Steinfassaden.",
+              "Museen in der nahen Trogir sind eine gute Indoor-Alternative."
+            ],
+            "hu": [
+              "Viseljen vízálló cipőt, mert az óvárosban megállhat a víz.",
+              "A legtöbb konoba fűtött beltérrel várja a vendégeket.",
+              "A tengeri szél miatt érdemes stabil, strapabíró esernyőt vinni.",
+              "Használja ki az esőszünetet a csillogó kőfalak fotózására.",
+              "A közeli Trogir múzeumai kiváló beltéri alternatívát jelentenek."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, apa se poate aduna pe străduțe.",
+              "Majoritatea tavernelor au spații interioare încălzite și primitoare.",
+              "O umbrelă rezistentă este necesară din cauza brizei marine.",
+              "Profită de pauzele de ploaie pentru poze cu fațadele lucioase.",
+              "Muzeele din Trogirul apropiat sunt o alternativă excelentă la interior."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles tend to form in the narrow streets.",
+              "Most local konobas offer heated and cozy indoor seating.",
+              "A sturdy umbrella is essential due to the coastal wind gusts.",
+              "Take photos of the shiny stone facades during breaks in the rain.",
+              "Nearby Trogir museums are great indoor alternatives if rain persists."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Seget im Winter ist ein Ort der absoluten Ruhe. Die kalte Bura-Luft macht die Sicht auf die Inseln kristallklar. Nach einem Vormittag am Hafen wärmen wir uns mittags bei einer kräftigen Fischsuppe auf. Der Nachmittag gehört der einsamen Küste, wo das Licht der tiefstehenden Sonne die Adria in Gold taucht. Der Tag endet früh, wenn die blaue Stunde über das schlafende Dorf hereinbricht.",
+            "hu": "A téli Seget a tökéletes nyugalom szigete. A hideg bóra megtisztítja a levegőt, így a kilátás a szigetekre kristálytiszta. A kikötői séta után délben egy tartalmas hallevessel melegszünk fel. Délután a kihalt tengerparton a lemenő nap aranyba öltözteti az Adriát. A nap korán ér véget, ahogy a kék óra csendje rátelepszik az alvó halászfalura.",
+            "ro": "Seget iarna este un loc al liniștii absolute. Aerul rece de Bura face ca vederea spre insule să fie de o claritate incredibilă. După o dimineață în port, ne încălzim la prânz cu o supă de pește consistentă. După-amiaza aparține coastei pustii, unde lumina joasă a soarelui transformă marea în aur. Ziua se termină devreme, cu ora albastră coborând peste sat.",
+            "en": "Winter in Seget is a season of absolute tranquility. The cold Bura wind clears the air, making the island views crystal clear. After a morning at the harbor, we warm up at noon with a rich, local fish stew. The afternoon is spent on the deserted coast, where the low sun paints the Adriatic in golden hues. The day ends early as the blue hour settles over the sleeping village."
+          },
+          "stops": [
+            {
+              "name": "Kaštel Seget",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille ohne die sommerlichen Touristenmassen.",
+                "hu": "Élvezze a csendet a nyári turistaáradat nélkül.",
+                "ro": "Bucurați-vă de liniște fără mulțimile de turiști din vară.",
+                "en": "Enjoy the rare silence without the summer tourist crowds."
+              }
+            },
+            {
+              "name": "Riva Waterfront",
+              "tip_5lang": {
+                "de": "Warme Kleidung ist wegen des oft starken Windes Pflicht.",
+                "hu": "A gyakran erős szél miatt a meleg ruházat kötelező.",
+                "ro": "Îmbrăcămintea groasă este obligatorie din cauza vântului puternic.",
+                "en": "Warm clothing is mandatory due to the often strong winds."
+              }
+            },
+            {
+              "name": "Crkva sv. Vida",
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag fällt wunderschön auf die alte Kirche.",
+                "hu": "A délutáni súrolófények gyönyörűen világítják meg az öreg templomot.",
+                "ro": "Lumina după-amiezii cade superb pe fațada bisericii vechi.",
+                "en": "The afternoon light hits the old church beautifully in winter."
+              }
+            },
+            {
+              "name": "Lunch in a local Konoba",
+              "coords": [
+                16.2341,
+                43.5178
+              ],
+              "tip_5lang": {
+                "de": "Fragen Sie nach saisonalen Gerichten wie Sauerkraut und Würsten.",
+                "hu": "Kérdezzen rá a szezonális ételekre, mint a savanyú káposzta.",
+                "ro": "Cereți preparate sezoniere, precum varza murată cu cârnați.",
+                "en": "Ask for seasonal winter dishes like sauerkraut and local sausages."
+              }
+            },
+            {
+              "name": "Plaža Medena",
+              "tip_5lang": {
+                "de": "Ideal für einen meditativen Spaziergang am leeren Strand.",
+                "hu": "Ideális egy meditatív sétára az üres tengerparton.",
+                "ro": "Ideal pentru o plimbare meditativă pe plaja pustie.",
+                "en": "Ideal for a meditative stroll along the empty shoreline."
+              }
+            },
+            {
+              "name": "Sunset Pause",
+              "tip_5lang": {
+                "de": "Achtung: Der Sonnenuntergang findet bereits gegen 16:30 Uhr statt.",
+                "hu": "Figyelem: télen a nap már 16:30 körül lenyugszik.",
+                "ro": "Atenție: iarna apusul are loc deja în jurul orei 16:30.",
+                "en": "Note: Sunset occurs early, around 4:30 PM in mid-winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung schützt vor dem wechselhaften Wind.",
+              "Viele Hotels in Medena sind geschlossen, Cafés im Ort offen.",
+              "Die Bura sorgt für fantastische Fernsicht bis nach Vis.",
+              "Trinken Sie nachmittags einen 'Kuhano Vino' (Glühwein).",
+              "Die Sonne geht früh unter, planen Sie Outdoor-Aktivitäten vormittags."
+            ],
+            "hu": [
+              "Réteges öltözködés javasolt a változékony tengeri szél miatt.",
+              "Sok szálloda zárva van Medenában, de a falu kávézói nyitva tartanak.",
+              "A bóra szél tiszta időt hoz, messzire ellátni a tengeren.",
+              "Kóstolja meg a délutáni 'Kuhano Vino'-t (forralt bor).",
+              "A nap korán nyugszik, a szabadtéri programokat időzítse délelőttre."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a vă proteja de vântul schimbător.",
+              "Multe hoteluri din Medena sunt închise, dar cafenelele din sat rămân.",
+              "Vântul Bura oferă o vizibilitate fantastică până la insula Vis.",
+              "Savurați un 'Kuhano Vino' (vin fiert) în port după-amiaza.",
+              "Soarele apune devreme; planificați activitățile în aer liber dimineața."
+            ],
+            "en": [
+              "Layer your clothing to protect against the gusty Bura wind.",
+              "Many Medena hotels are closed, but village cafes stay open.",
+              "The Bura wind provides fantastic visibility as far as Vis island.",
+              "Try a local 'Kuhano Vino' (mulled wine) in the afternoon.",
+              "Sun sets early; schedule your outdoor sightseeing for the morning."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -515,6 +713,178 @@
           "Take plenty of water for the climb.",
           "Check your brakes before the descent."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Seget bei Regen erfordert gute Ausrüstung, belohnt aber mit einsamen Wegen. Am Vormittag erklimmen wir vorsichtig den Hügel zur Kirche Sv. Vida. Mittags finden wir Schutz unter einem Vordach bei einer Pause. Nachmittags geht es hinunter zur Küste, wo die salzige Gischt sich mit dem Regen vermischt. Ein Tag für echte Abenteurer, die das Meer in allen Facetten lieben.",
+            "hu": "A segeti bringázás esőben jó felszerelést igényel, de csendes utakkal hálálja meg. Délelőtt óvatosan kapaszkodunk fel a Sv. Vida templomhoz. Délben egy eresz alatt húzzuk meg magunkat egy rövid pihenőre. Délután a tengerpart felé vesszük az irányt, ahol a sós permet keveredik az esővel. Ez a nap az igazi kalandoroké, akik minden arcát szeretik a tengernek.",
+            "ro": "Ciclismul în Seget pe ploaie necesită echipament bun, dar oferă drumuri pustii. Dimineața urcăm cu grijă dealul spre biserica Sv. Vida. La prânz găsim adăpost sub o streșină pentru o scurtă pauză. După-amiaza coborâm spre coastă, unde spray-ul sărat al mării se amestecă cu ploaia. O zi pentru aventurieri care iubesc marea în orice condiții.",
+            "en": "Cycling in Seget during rain requires quality gear but rewards you with empty roads. In the morning, we cautiously climb the hill to Sv. Vida. At noon, we find shelter under a porch for a quick break. The afternoon leads us down to the coast, where salty sea spray mixes with the falling rain. A day for true adventurers who appreciate the sea in all its moods."
+          },
+          "stops": [
+            {
+              "name": "Kaštel Seget",
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Fahren auf nassem Kopfsteinpflaster.",
+                "hu": "Kerülje a kerékpározást a nedves macskaköveken.",
+                "ro": "Evitați mersul pe bicicletă pe pietrele cubice ude.",
+                "en": "Avoid cycling directly on wet cobblestones inside the fort."
+              }
+            },
+            {
+              "name": "Crkva sv. Vida",
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei Nässe rutschig sein, fahren Sie langsam.",
+                "hu": "Az emelkedő csúszós lehet esőben, haladjon lassan.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie, pedalați încet.",
+                "en": "The climb can be slippery when wet; maintain a slow pace."
+              }
+            },
+            {
+              "name": "Crkva Gospe od Konjskog",
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in der Nähe des Kircheneingangs.",
+                "hu": "Keressen menedéket a templom bejárata közelében.",
+                "ro": "Căutați adăpost în apropierea intrării în biserică.",
+                "en": "Look for shelter near the church entrance if rain intensifies."
+              }
+            },
+            {
+              "name": "Picnic in the Shade",
+              "tip_5lang": {
+                "de": "Verlegen Sie das Picknick unter ein festes Dach.",
+                "hu": "Helyezze át a pikniket egy fedett beálló alá.",
+                "ro": "Mutați picnicul sub un acoperiș solid sau o terasă.",
+                "en": "Move your picnic under a permanent roof or porch."
+              }
+            },
+            {
+              "name": "Plaža Medena",
+              "tip_5lang": {
+                "de": "Der Radweg entlang der Küste ist asphaltiert und gut befahrbar.",
+                "hu": "A tengerparti kerékpárút aszfaltozott és jól járható.",
+                "ro": "Pista de biciclete de-a lungul coastei este asfaltată și practicabilă.",
+                "en": "The coastal bike path is paved and remains easy to ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Rad sind bei Regen unerlässlich.",
+              "Tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt ins Dorf.",
+              "Meiden Sie unbefestigte Wege, die schlammig sein könnten.",
+              "Ein heißer Tee in einer Thermoskanne wirkt Wunder."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen esőben a kerékpáron.",
+              "Viseljen neon esőkabátot a jobb láthatóság érdekében.",
+              "Ellenőrizze a fékeket a faluba való leereszkedés előtt.",
+              "Kerülje a nem aszfaltozott utakat, mert sárosak lehetnek.",
+              "Egy termosz forró tea csodákat tesz a pihenő alatt."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt esențiale pe bicicletă pe ploaie.",
+              "Purtați o jachetă de ploaie reflectorizantă pentru vizibilitate.",
+              "Verificați frânele înainte de coborârea spre sat.",
+              "Evitați drumurile neasfaltate care pot deveni noroioase.",
+              "Un ceai fierbinte într-un termos face minuni în pauze."
+            ],
+            "en": [
+              "Mudguards are essential for cycling in wet conditions.",
+              "Wear a high-visibility rain jacket for safety on the roads.",
+              "Check your brake pads before descending back to the village.",
+              "Avoid unpaved paths as they can become muddy and unstable.",
+              "A thermos of hot tea works wonders during your rainy breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Seget bietet klare Luft und leere Straßen. Am Vormittag genießen wir den Aufstieg zum Hinterland, wo die Sonne uns wärmt. Mittags machen wir eine kurze Pause an einem windgeschützten Ort. Der Nachmittag führt uns über die Küstenstraße zurück, mit Blick auf die tiefblaue Adria. Ein sportlicher Tag, der Herz und Lunge bei kühler Meeresbrise belebt.",
+            "hu": "A téli bringázás Segetben tiszta levegőt és üres utakat ígér. Délelőtt a hátország felé tekerünk, ahol a napsütés kellemesen melenget. Délben egy szélvédett helyen tartunk rövid pihenőt. Délután a parti úton térünk vissza, gyönyörködve a mélykék Adriában. Sportos nap, amely felfrissíti a testet és a lelket a hűvös tengeri szélben.",
+            "ro": "Ciclismul de iarnă în Seget oferă aer curat și drumuri libere. Dimineața ne bucurăm de urcarea spre hinterland, unde soarele ne încălzește. La prânz facem o scurtă pauză într-un loc ferit de vânt. După-amiaza ne întoarcem pe drumul de coastă, cu vedere la marea de un albastru intens. O zi sportivă care revigorează spiritul în briza rece.",
+            "en": "Winter cycling in Seget offers crisp air and traffic-free roads. In the morning, we enjoy the climb into the hinterland where the sun warms us up. At noon, we take a short break in a wind-sheltered spot. The afternoon brings us back along the coastal road with views of the deep blue Adriatic. An active day that refreshes the soul in the cool sea breeze."
+          },
+          "stops": [
+            {
+              "name": "Kaštel Seget",
+              "tip_5lang": {
+                "de": "Starten Sie erst, wenn der Reif auf den Steinen geschmolzen ist.",
+                "hu": "Csak akkor induljon, ha a zúzmara már elolvadt a köveken.",
+                "ro": "Porniți la drum doar după ce chiciura s-a topit de pe pietre.",
+                "en": "Wait until any frost on the stones has melted before starting."
+              }
+            },
+            {
+              "name": "Crkva sv. Vida",
+              "tip_5lang": {
+                "de": "Die Sonne wärmt hier oben auch im Winter angenehm.",
+                "hu": "Itt fent a nap télen is kellemesen melegít napközben.",
+                "ro": "Soarele încălzește plăcut aici sus, chiar și în timpul iernii.",
+                "en": "The sun provides pleasant warmth up here even in winter."
+              }
+            },
+            {
+              "name": "Crkva Gospe od Konjskog",
+              "tip_5lang": {
+                "de": "Bester Aussichtspunkt für winterliche Fernsicht.",
+                "hu": "A legjobb pont a téli, tiszta panoráma megtekintéséhez.",
+                "ro": "Cel mai bun punct pentru vederi panoramice clare de iarnă.",
+                "en": "The best viewpoint for clear, far-reaching winter vistas."
+              }
+            },
+            {
+              "name": "Picnic in the Shade",
+              "tip_5lang": {
+                "de": "Suchen Sie im Winter eher einen sonnigen Platz.",
+                "hu": "Télen keressen inkább egy napsütötte helyet a pihenőhöz.",
+                "ro": "Căutați mai degrabă un loc însorit pentru pauză iarna.",
+                "en": "In winter, seek out a sunny spot instead of shade."
+              }
+            },
+            {
+              "name": "Plaža Medena",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich für die Abfahrt eine winddichte Schicht an.",
+                "hu": "A leereszkedéshez vegyen fel egy szélálló réteget.",
+                "ro": "Puneți-vă un strat rezistent la vânt pentru coborâre.",
+                "en": "Put on a windproof layer for the descent back to the beach."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Handschuhe und eine Mütze unter dem Helm.",
+              "Die Bura kann sehr böig sein, halten Sie den Lenker fest.",
+              "Kürzen Sie die Tour ab, wenn die Sonne untergeht.",
+              "Trinken Sie ausreichend, auch wenn Sie weniger Durst spüren.",
+              "Fahren Sie auf der Sonnenseite der Hügel."
+            ],
+            "hu": [
+              "Viseljen kesztyűt és a sisak alatt vékony sapkát.",
+              "A bóra szél lökésszerű lehet, tartsa erősen a kormányt.",
+              "Rövidítse le a túrát, amint a nap lemenni készül.",
+              "Igyon elegendő vizet, még ha kevésbé is érzi szomjasnak magát.",
+              "A dombok napsütötte oldalán tekerjen."
+            ],
+            "ro": [
+              "Purtați mănuși și o căciulă subțire sub cască.",
+              "Vântul Bura poate fi în rafale, țineți bine ghidonul.",
+              "Scurtați tura imediat ce soarele începe să apună.",
+              "Beți suficientă apă, chiar dacă nu simțiți setea atât de tare.",
+              "Pedalați pe partea însorită a dealurilor."
+            ],
+            "en": [
+              "Wear gloves and a thin thermal cap under your helmet.",
+              "The Bura wind can be gusty; keep a firm grip on the handlebars.",
+              "Shorten your route as soon as the sun starts to set.",
+              "Stay hydrated even if you don't feel as thirsty as in summer.",
+              "Stick to the sunny side of the hills for maximum warmth."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -771,6 +1141,214 @@
           "Parking in Seget Donji is paid during summer.",
           "The road to the hill is narrow, drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Seget bei Regen komfortabel zu erkunden. Wir starten am Kaštel und fahren dann entlang der Küste zur Riva. Mittags geht es hinauf zur Kirche im Hinterland, während die Scheibenwischer den Rhythmus vorgeben. Ein gemütliches Mittagessen im Ort wärmt uns auf. Den Nachmittag verbringen wir bei einer Panoramafahrt, geschützt vor dem nassen Wetter draußen.",
+            "hu": "Autóval Seget esőben is kényelmesen felfedezhető. A várnál kezdünk, majd a kikötőhöz hajtunk. Délben a hátországi templomhoz látogatunk, miközben az ablaktörlők adják az ütemet. Egy hangulatos ebéd a faluban feltölt minket. A délutánt panorámaautózással töltjük, biztonságban a kinti nedves és szeles időjárástól.",
+            "ro": "Cu mașina, Seget este confortabil de explorat chiar și pe ploaie. Începem la cetate, apoi mergem spre faleză. La prânz urcăm spre biserica din hinterland, în timp ce ștergătoarele dau ritmul. Un prânz plăcut în sat ne încălzește. După-amiaza o petrecem într-o plimbare panoramică, protejați de vremea umedă de afară.",
+            "en": "Exploring Seget by car is convenient even during rainfall. We start at the fortress and then drive to the waterfront. At noon, we visit the hilltop church while the wipers beat a steady rhythm. A cozy lunch in the village warms us up. We spend the afternoon on a scenic drive, shielded from the wet and windy weather outside."
+          },
+          "stops": [
+            {
+              "name": "Kaštel Seget",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt am Eingang zum alten Kern.",
+                "hu": "Közvetlenül az óvárosi mag bejáratánál vannak parkolók.",
+                "ro": "Există locuri de parcare chiar la intrarea în nucleul vechi.",
+                "en": "Parking is available right at the entrance to the old core."
+              }
+            },
+            {
+              "name": "Walk on the Riva",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Wasser, um kurze Wege im Regen zu haben.",
+                "hu": "Parkoljon közel a parthoz a rövid gyalogút érdekében.",
+                "ro": "Parcați aproape de apă pentru a merge puțin prin ploaie.",
+                "en": "Park close to the water to minimize walking in the rain."
+              }
+            },
+            {
+              "name": "Crkva Gospe od Konjskog",
+              "tip_5lang": {
+                "de": "Die Straße nach oben ist schmal, fahren Sie bei Regen vorsichtig.",
+                "hu": "Az út felfelé keskeny, esőben vezessen fokozott óvatossággal.",
+                "ro": "Drumul spre culme este îngust, conduceți cu atenție pe ploaie.",
+                "en": "The road up is narrow; drive carefully in rainy conditions."
+              }
+            },
+            {
+              "name": "Crkva sv. Vida",
+              "tip_5lang": {
+                "de": "Genießen Sie den Ausblick direkt aus dem trockenen Auto.",
+                "hu": "Élvezze a kilátást közvetlenül a száraz autóból.",
+                "ro": "Bucurați-vă de priveliște direct din mașina uscată.",
+                "en": "Enjoy the panoramic view directly from your dry car."
+              }
+            },
+            {
+              "name": "Lunch in Seget",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit Parkplatz in der Nähe.",
+                "hu": "Keressen közeli parkolóval rendelkező éttermet.",
+                "ro": "Căutați un restaurant cu parcare în apropiere.",
+                "en": "Look for a restaurant with nearby parking for convenience."
+              }
+            },
+            {
+              "name": "Plaža Medena",
+              "tip_5lang": {
+                "de": "Der große Parkplatz ist im Regen oft fast leer.",
+                "hu": "A nagy parkoló esőben gyakran szinte teljesen üres.",
+                "ro": "Parcarea mare este adesea aproape goală pe ploaie.",
+                "en": "The large parking lot is often nearly empty during rain."
+              }
+            },
+            {
+              "name": "Evening Gelato",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit gemütlichem Innenbereich.",
+                "hu": "Válasszon egy hangulatos beltérrel rendelkező kávézót.",
+                "ro": "Alegeți o cafenea cu un interior primitor și cald.",
+                "en": "Choose a cafe with a cozy and warm indoor seating area."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Küstenstraße.",
+              "Die Sicht kann durch beschlagene Scheiben eingeschränkt sein.",
+              "Nutzen Sie die Parkplätze direkt am Hafen.",
+              "Ein Regenschirm im Auto ist für die kurzen Wege Gold wert.",
+              "Besuchen Sie das nahegelegene Einkaufszentrum bei Dauerregen."
+            ],
+            "hu": [
+              "Vigyázzon az aquaplaning jelenségre a parti úton.",
+              "A párásodó szélvédő rontja a láthatóságot, használja a klímát.",
+              "Használja ki a kikötőhöz közeli parkolóhelyeket.",
+              "Az autóban tartott esernyő kincset ér a rövid sétákhoz.",
+              "Tartós eső esetén látogasson el a közeli bevásárlóközpontba."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul de coastă.",
+              "Vizibilitatea poate fi redusă de parbrizele aburite.",
+              "Folosiți parcările situate direct în port.",
+              "O umbrelă în mașină este esențială pentru distanțele scurte.",
+              "Vizitați centrul comercial din apropiere în caz de ploaie continuă."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the coastal roads.",
+              "Visibility may be limited due to fogging windows; use AC.",
+              "Take advantage of parking lots located directly by the harbor.",
+              "Keep an umbrella in the car for short walks between stops.",
+              "Visit a nearby shopping mall if the rain is persistent."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Seget zeigt das Dorf von seiner stillen Seite. Wir besuchen die historischen Stätten am Vormittag und genießen die Wärme im Auto. Mittags führt uns der Weg zu den Bergkirchen mit spektakulärer Fernsicht. Nach einem herzhaften Essen lassen wir den Tag am Strand ausklingen, wo die Wintersonne früh im Meer versinkt. Ein Tag voller Lichtblicke und Komfort.",
+            "hu": "A téli autózás Segetben a falu csendes arcát mutatja meg. Délelőtt meglátogatjuk a történelmi helyszíneket, élvezve az autó melegét. Délben a hegyi templomokhoz hajtunk a látványos panorámáért. Egy kiadós ebéd után a tengerparton fejezzük be a napot, ahol a téli nap korán a tengerbe vész. Komfortos nap, tele fényekkel.",
+            "ro": "O plimbare de iarnă prin Seget dezvăluie latura liniștită a satului. Vizităm locurile istorice dimineața, bucurându-ne de căldura mașinii. La prânz mergem spre bisericile montane pentru vederi spectaculoase. După o masă consistentă, încheiem ziua la plajă, unde soarele de iarnă apune devreme în mare. O zi plină de lumină și confort.",
+            "en": "A winter drive through Seget showcases the village’s quiet side. We visit historical sites in the morning, enjoying the warmth of the car. At noon, we head to the hilltop churches for spectacular distant views. After a hearty meal, we finish the day at the beach where the winter sun sets early into the sea. A day of bright spots and comfort."
+          },
+          "stops": [
+            {
+              "name": "Kaštel Seget",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie problemlos Parkplätze direkt am Zentrum.",
+                "hu": "Télen gond nélkül talál parkolót közvetlenül a központban.",
+                "ro": "Iarna găsiți locuri de parcare fără probleme lângă centru.",
+                "en": "In winter, you'll easily find parking spots right by the center."
+              }
+            },
+            {
+              "name": "Walk on the Riva",
+              "tip_5lang": {
+                "de": "Perfekt für einen schnellen Blick aufs Meer ohne langes Frieren.",
+                "hu": "Tökéletes egy gyors pillantásra a tengerre fagyoskodás nélkül.",
+                "ro": "Perfect pentru o privire rapidă spre mare fără a îngheța.",
+                "en": "Perfect for a quick look at the sea without getting too cold."
+              }
+            },
+            {
+              "name": "Crkva Gospe od Konjskog",
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter ist hier oben unschlagbar.",
+                "hu": "A téli panoráma innen fentről felülmúlhatatlan.",
+                "ro": "Vederea la distanță iarna este imbatabilă de aici de sus.",
+                "en": "The winter long-distance visibility is unbeatable from up here."
+              }
+            },
+            {
+              "name": "Crkva sv. Vida",
+              "tip_5lang": {
+                "de": "Ein schöner Stopp für Fotos im goldenen Winterlicht.",
+                "hu": "Remek megálló fotózáshoz az aranyló téli fényekben.",
+                "ro": "O oprire excelentă pentru poze în lumina aurie de iarnă.",
+                "en": "A great stop for photos in the golden winter light."
+              }
+            },
+            {
+              "name": "Lunch in Seget",
+              "tip_5lang": {
+                "de": "Wählen Sie Lokale mit Kamin oder guter Heizung.",
+                "hu": "Válasszon kandallóval vagy jó fűtéssel rendelkező helyet.",
+                "ro": "Alegeți localuri cu șemineu sau încălzire bună.",
+                "en": "Choose venues with a fireplace or effective heating."
+              }
+            },
+            {
+              "name": "Plaža Medena",
+              "tip_5lang": {
+                "de": "Der Strandspaziergang ist auch im Winter sehr belebend.",
+                "hu": "A parti séta télen is nagyon frissítő és élénkítő.",
+                "ro": "Plimbarea pe plajă este foarte revigorantă și iarna.",
+                "en": "A beach stroll is very invigorating even in winter."
+              }
+            },
+            {
+              "name": "Evening Gelato",
+              "tip_5lang": {
+                "de": "Probieren Sie stattdessen eine heiße Schokolade.",
+                "hu": "Próbáljon ki helyette egy forró csokoládét.",
+                "ro": "Încercați în schimb o ciocolată caldă cremoasă.",
+                "en": "Try a thick hot chocolate instead of ice cream."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei niedrigen Temperaturen.",
+              "Frostschutzmittel in der Scheibenwaschanlage ist wichtig.",
+              "Die Bura kann das Auto bei Fahrten im Hinterland schütteln.",
+              "Planen Sie die Rückreise vor 17 Uhr ein.",
+              "Nehmen Sie eine Decke für die Pausen mit."
+            ],
+            "hu": [
+              "Alacsony hőmérsékleten ellenőrizze a guminyomást.",
+              "Fontos a fagyálló szélvédőmosó folyadék használata.",
+              "A bóra szél megmozgathatja az autót a nyíltabb szakaszokon.",
+              "Tervezze meg a visszautat délután 5 óra előtt.",
+              "Vigyen magával takarót a pihenőkhöz."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope la temperaturi scăzute.",
+              "Antigelul în lichidul de parbriz este esențial.",
+              "Vântul Bura poate zgâlțâi mașina în zonele deschise.",
+              "Planificați întoarcerea înainte de ora 17:00.",
+              "Luați o pătură în mașină pentru pauze."
+            ],
+            "en": [
+              "Check tire pressure as it drops with lower temperatures.",
+              "Anti-freeze windshield washer fluid is important.",
+              "The Bura wind can shake the car in exposed hinterland areas.",
+              "Plan to be back from outdoor spots before 5 PM.",
+              "Keep a warm blanket in the car for comfort during breaks."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -986,6 +1564,178 @@
           "Taxi boats run every 15-30 mins in high season.",
           "Bus 37 connects Seget with Trogir and Split."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen in Seget macht die Fahrt mit öffentlichen Verkehrsmitteln zu einer logistischen Aufgabe. Wir starten am Kaštel und frühstücken am Hafen, während wir auf den Bus warten. Mittags besuchen wir die Kirche und nutzen die Wartezeiten für Beobachtungen. Die Bootsfahrt nach Medena ist bei Regen kurz, aber erfrischend. Ein Tag, der Geduld erfordert, aber authentische Einblicke bietet.",
+            "hu": "Az eső Segetben logisztikai kihívássá teszi a tömegközlekedést. A várnál kezdünk, majd a kikötőben reggelizünk a buszra várva. Délben a templomot látogatjuk meg, a várakozási időt pedig nézelődéssel töltjük. A hajóút Medenába esőben rövid, de frissítő élmény. Ez a nap türelmet igényel, de hiteles helyi élményeket ad.",
+            "ro": "Ploaia în Seget transformă transportul public într-o sarcină logistică. Începem la cetate și luăm micul dejun în port așteptând autobuzul. La prânz vizităm biserica, folosind timpul de așteptare pentru observații. Călătoria cu barca spre Medena este scurtă pe ploaie, dar revigorantă. O zi care necesită răbdare, dar oferă perspective autentice.",
+            "en": "Rain in Seget turns public transit into a bit of a logistical puzzle. We start at the fort and have breakfast by the harbor while waiting for the bus. At noon, we visit the church, using the wait times to observe local life. The boat ride to Medena is short but refreshing in the rain. A day that requires patience but offers authentic local insights."
+          },
+          "stops": [
+            {
+              "name": "Kaštel Seget",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet Schutz vor Regen.",
+                "hu": "A buszmegálló fedett, védelmet nyújt az eső elől.",
+                "ro": "Stația de autobuz oferă adăpost împotriva ploii.",
+                "en": "The bus stop provides shelter from the rain."
+              }
+            },
+            {
+              "name": "Breakfast at Harbor",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café direkt neben der Haltestelle.",
+                "hu": "Válasszon közvetlenül a megálló melletti kávézót.",
+                "ro": "Alegeți o cafenea chiar lângă stația de transport.",
+                "en": "Choose a cafe located right next to the transit stop."
+              }
+            },
+            {
+              "name": "Crkva sv. Vida",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Fahrplan, um langes Warten zu vermeiden.",
+                "hu": "Ellenőrizze a menetrendet, hogy elkerülje a hosszú várakozást.",
+                "ro": "Verificați orarul pentru a evita așteptarea lungă.",
+                "en": "Check the timetable carefully to avoid long waits."
+              }
+            },
+            {
+              "name": "Boat Ride to Medena",
+              "tip_5lang": {
+                "de": "Das Boot hat oft einen überdachten Bereich.",
+                "hu": "A hajónak általában van egy fedett, zárt része.",
+                "ro": "Barca are adesea o zonă acoperită și protejată.",
+                "en": "The boat usually has a covered or sheltered area."
+              }
+            },
+            {
+              "name": "Plaža Medena",
+              "tip_5lang": {
+                "de": "Rückfahrt mit dem Bus, falls das Boot bei Sturm ausfällt.",
+                "hu": "Menjen busszal, ha a hajó vihar miatt nem közlekedik.",
+                "ro": "Luați autobuzul dacă barca este anulată din cauza furtunii.",
+                "en": "Use the bus if the boat service is suspended due to storm."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie eine Fahrplan-App für Echtzeit-Infos herunter.",
+              "Haben Sie Kleingeld für das Busticket bereit.",
+              "Bootsfahrten können bei starkem Wind eingestellt werden.",
+              "Tragen Sie Kleidung, die schnell trocknet.",
+              "Nutzen Sie die Wartezeit in Cafés für die Planung."
+            ],
+            "hu": [
+              "Töltsön le menetrendi alkalmazást a valós idejű infókért.",
+              "Legyen Önnél aprópénz a buszjegyhez.",
+              "A hajójáratokat erős szél esetén törölhetik.",
+              "Viseljen gyorsan száradó ruházatot.",
+              "Használja ki a várakozási időt a kávézókban a tervezésre."
+            ],
+            "ro": [
+              "Descărcați o aplicație cu orarul pentru info în timp real.",
+              "Aveți pregătit mărunt pentru biletul de autobuz.",
+              "Cursele cu barca pot fi anulate în caz de vânt puternic.",
+              "Purtați haine care se usucă repede.",
+              "Folosiți timpul de așteptare în cafenele pentru planificare."
+            ],
+            "en": [
+              "Download a transit app for real-time schedule updates.",
+              "Have small change ready for buying bus tickets.",
+              "Boat services might be suspended during strong winds.",
+              "Wear quick-drying clothing to stay comfortable.",
+              "Use wait times in cafes to plan your next steps."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Transit in Seget ist ruhig, aber erfordert Planung wegen reduzierter Fahrpläne. Am Vormittag erkunden wir das Kaštel und genießen einen Kaffee am Hafen. Mittags bringt uns der Bus zur Kirche, wo wir die klare Luft atmen. Die Bootsfahrt nach Medena ist im Winter seltener, bietet aber tolle Blicke auf die Küste. Ein entschleunigter Tag für Genießer des Augenblicks.",
+            "hu": "A téli tömegközlekedés Segetben nyugodt, de tervezést igényel a ritkább járatok miatt. Délelőtt a várat fedezzük fel, majd kávézunk a kikötőben. Délben busszal megyünk a templomhoz, élvezve a friss levegőt. A hajójárat Medenába télen ritkább, de pazar kilátást nyújt a partra. Lassú és élvezetes nap a pillanat szerelmeseinek.",
+            "ro": "Tranzitul de iarnă în Seget este liniștit, dar necesită planificare din cauza orarului redus. Dimineața explorăm cetatea și bem o cafea în port. La prânz, autobuzul ne duce la biserică, unde respirăm aerul curat. Călătoria cu barca spre Medena este rară iarna, dar oferă vederi superbe. O zi lentă pentru cei care savurează momentul.",
+            "en": "Winter transit in Seget is peaceful but requires planning due to reduced schedules. In the morning, we explore the fort and enjoy coffee at the harbor. At noon, the bus takes us to the church where we breathe the crisp air. The boat ride to Medena is less frequent in winter but offers stunning coastal views. A slow-paced day for those who savor the moment."
+          },
+          "stops": [
+            {
+              "name": "Kaštel Seget",
+              "tip_5lang": {
+                "de": "Busse fahren im Winter seltener, Plan genau prüfen.",
+                "hu": "A buszok télen ritkábban járnak, ellenőrizze a tervet.",
+                "ro": "Autobuzele circulă mai rar iarna, verificați orarul atent.",
+                "en": "Buses run less frequently in winter; check the plan carefully."
+              }
+            },
+            {
+              "name": "Breakfast at Harbor",
+              "tip_5lang": {
+                "de": "Genießen Sie die Sonne in einem windgeschützten Außenbereich.",
+                "hu": "Élvezze a napsütést egy szélvédett teraszon.",
+                "ro": "Bucurați-vă de soare pe o terasă ferită de vânt.",
+                "en": "Enjoy the winter sun in a wind-sheltered outdoor area."
+              }
+            },
+            {
+              "name": "Crkva sv. Vida",
+              "tip_5lang": {
+                "de": "Beachten Sie die frühen Rückfahrzeiten der Busse.",
+                "hu": "Ügyeljen a buszok korai visszaindulási időpontjaira.",
+                "ro": "Fiți atenți la orele de întoarcere timpurii ale autobuzelor.",
+                "en": "Be mindful of the early return times of the local buses."
+              }
+            },
+            {
+              "name": "Boat Ride to Medena",
+              "tip_5lang": {
+                "de": "Fahrten finden oft nur am Wochenende oder vormittags statt.",
+                "hu": "Járatok gyakran csak hétvégén vagy délelőtt indulnak.",
+                "ro": "Cursele au loc adesea doar în weekend sau dimineața.",
+                "en": "Boat trips often run only on weekends or in the mornings."
+              }
+            },
+            {
+              "name": "Plaža Medena",
+              "tip_5lang": {
+                "de": "Letzte Rückfahrt oft vor Sonnenuntergang.",
+                "hu": "Az utolsó visszajárat gyakran naplemente előtt indul.",
+                "ro": "Ultima cursă de întoarcere este adesea înainte de apus.",
+                "en": "The last return trip is often scheduled before sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Fragen Sie Einheimische nach aktuellen Fahrplanänderungen.",
+              "Taxis oder Uber sind gute Backups bei fehlenden Bussen.",
+              "Die Bootslinie 'Bura Line' hat Winterfahrpläne.",
+              "Nutzen Sie die Zeit für ausgiebige Mittagspausen.",
+              "Es wird früh dunkel, bleiben Sie nah an den Haltestellen."
+            ],
+            "hu": [
+              "Kérdezze a helyieket az aktuális menetrendi változásokról.",
+              "A taxi vagy Uber jó tartalék, ha kimarad egy busz.",
+              "A 'Bura Line' hajójáratnak van külön téli menetrendje.",
+              "Használja ki az időt egy kiadós, lassú ebédre.",
+              "Korán sötétedik, maradjon a megállók közelében."
+            ],
+            "ro": [
+              "Întrebați localnicii despre schimbările recente de orar.",
+              "Taxiul sau Uber sunt alternative bune dacă lipsește busul.",
+              "Linia de barcă 'Bura Line' are orar special de iarnă.",
+              "Folosiți timpul pentru pauze de prânz prelungite.",
+              "Se întunecă devreme, rămâneți aproape de stații."
+            ],
+            "en": [
+              "Ask locals about any recent unannounced schedule changes.",
+              "Taxis or Uber are good backups if a bus is missed.",
+              "The 'Bura Line' boat service has a specific winter timetable.",
+              "Use the extra time for long, enjoyable lunch breaks.",
+              "It gets dark early; stay close to the transit stops."
+            ]
+          }
+        }
       }
     }
   }

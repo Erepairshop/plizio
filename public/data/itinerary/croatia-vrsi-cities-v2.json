@@ -292,6 +292,206 @@
           "Visit the churches in the morning while it's still cool.",
           "The riva in Mulo is most beautiful in the evening."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt gemütlich bei einem verlängerten Frühstück, während der Regen auf das Dach prasselt. Die Kirchen St. Jakob und Anselm bieten trockene Zuflucht für Kulturinteressierte. Mittags wärmt eine herzhafte Suppe in der Konoba den Körper auf. Den Nachmittag verbringen wir bei einem erfrischenden Spaziergang am verregneten Hafen, wo das Meer in dramatischem Grau glänzt.",
+            "hu": "A nap egy hosszú reggelivel indul, amíg eláll az eső. A Szent Jakab és Anzelm templomok száraz menedéket nyújtanak a városnézéshez. Ebédre egy forró leves egy helyi konobában segít felmelegedni. Délután egy frissítő séta a kikötőben, ahol a tenger drámai szürke színekben játszik a szemerkélő esőben, végül a tengerparton búcsúzunk a naptól.",
+            "ro": "Ziua începe relaxat cu un mic dejun prelungit până se oprește ploaia. Bisericile Sf. Iacob și Anselm oferă un adăpost uscat pentru vizitarea obiectivelor turistice. La prânz, o supă fierbinte într-o konoba locală ajută la încălzire. După-amiaza, o plimbare revigorantă în port, unde marea are nuanțe dramatice de gri sub ploaie, terminând cu un rămas-bun pe malul mării.",
+            "en": "The day starts leisurely with an extended breakfast while waiting for the rain to ease. St. Jacob and Anselm churches provide dry shelter for sightseeing. For lunch, a hot soup in a local konoba helps warm up. In the afternoon, a refreshing walk at the harbor where the sea shows dramatic gray tones under the drizzle, followed by a coastal farewell."
+          },
+          "stops": [
+            {
+              "name": "Kaffee & Frühstück im Dorf / Kávé és reggeli a faluban",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um den ersten Schauer gemütlich abzuwarten.",
+                "hu": "Tökéletes hely az első zápor kényelmes kivárására.",
+                "ro": "Locul perfect pentru a aștepta trecerea primei averse.",
+                "en": "A perfect place to comfortably wait out the first shower."
+              }
+            },
+            {
+              "name": "Crkva sv. Jakova",
+              "tip_5lang": {
+                "de": "Trockener Rückzugsort mit historischem Ambiente.",
+                "hu": "Száraz menedék történelmi hangulattal.",
+                "ro": "Refugiu uscat cu ambianță istorică.",
+                "en": "Dry retreat with a historical atmosphere."
+              }
+            },
+            {
+              "name": "Crkva sv. Anselma",
+              "tip_5lang": {
+                "de": "Ideal für eine kurze Pause vom Regen.",
+                "hu": "Ideális egy rövid szünetre az eső elől.",
+                "ro": "Ideal pentru o scurtă pauză de ploaie.",
+                "en": "Ideal for a short break from the rain."
+              }
+            },
+            {
+              "name": "Vrsi-Mulo (Hafenpromenade)",
+              "tip_5lang": {
+                "de": "Stimmungsvoller Spaziergang; festes Schuhwerk empfohlen.",
+                "hu": "Hangulatos séta; vízálló lábbeli ajánlott.",
+                "ro": "Plimbare atmosferică; se recomandă încălțăminte impermeabilă.",
+                "en": "Atmospheric walk; waterproof footwear recommended."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba / Ebéd egy konobában",
+              "tip_5lang": {
+                "de": "Genießen Sie lokale Spezialitäten am warmen Kamin.",
+                "hu": "Élvezze a helyi specialitásokat a meleg kandalló mellett.",
+                "ro": "Savurați specialități locale lângă șemineul cald.",
+                "en": "Enjoy local specialties by the warm fireplace."
+              }
+            },
+            {
+              "name": "Plaža Ricina",
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei Regen mystisch und verlassen.",
+                "hu": "A strand esőben misztikus és elhagyatott.",
+                "ro": "Plaja pare mistică și pustie în ploaie.",
+                "en": "The beach looks mystical and deserted in the rain."
+              }
+            },
+            {
+              "name": "Abendlicher Abschied am Meer / Esti búcsú a tengerparton",
+              "tip_5lang": {
+                "de": "Windgeschützte Kleidung für den feuchten Meereswind nötig.",
+                "hu": "Szélálló ruházat szükséges a nyirkos tengeri szél ellen.",
+                "ro": "Îmbrăcăminte rezistentă la vânt necesară pentru briza umedă.",
+                "en": "Windproof clothing needed against the damp sea breeze."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler Regenschirm ist wegen des Windes oft besser als eine leichte Plane.",
+              "Die Kirchen bieten den besten kostenlosen Schutz vor plötzlichen Güssen.",
+              "Vorsicht auf den alten Steinpflastern im Dorf, sie werden sehr rutschig.",
+              "Planen Sie längere Pausen in den Cafés ein, um trocken zu bleiben."
+            ],
+            "hu": [
+              "A szél miatt egy stabil esernyő gyakran jobb, mint egy könnyű poncsó.",
+              "A templomok nyújtják a legjobb ingyenes védelmet a hirtelen záporok ellen.",
+              "Vigyázat a falu régi kőburkolatain, vizesen nagyon csúsznak.",
+              "Tervezzen hosszabb kávéházi szüneteket, hogy száraz maradjon."
+            ],
+            "ro": [
+              "O umbrelă stabilă este adesea mai bună decât o pelerină ușoară din cauza vântului.",
+              "Bisericile oferă cea mai bună protecție gratuită împotriva averselor bruște.",
+              "Atenție pe pavajul vechi de piatră din sat, devine foarte alunecos.",
+              "Planificați pauze mai lungi în cafenele pentru a rămâne uscați."
+            ],
+            "en": [
+              "A sturdy umbrella is often better than a light poncho due to the wind.",
+              "The churches offer the best free protection against sudden downpours.",
+              "Be careful on the old stone pavements in the village; they get very slippery.",
+              "Plan longer breaks in cafes to stay dry."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter zeigt sich Vrsi von seiner stillen, authentischen Seite. Der Morgen beginnt mit einem heißen Kaffee, bevor wir die historischen Kirchen besuchen. Die kalte Bura-Brise macht den Spaziergang nach Mulo belebend. Ein ausgiebiges Mittagessen wärmt auf, bevor wir den frühen Sonnenuntergang gegen 16:30 Uhr am fast leeren Strand von Ricina beobachten, wo das Licht besonders klar ist.",
+            "hu": "Télen Vrsi a csendes, autentikus arcát mutatja. A reggel forró kávéval indul, mielőtt meglátogatnánk a történelmi templomokat. A hideg bóra szél frissítővé teszi a sétát Mulo felé. Egy bőséges ebéd felmelegít, mielőtt megnéznénk a korai, fél 5 körüli naplementét a szinte üres Ricina strandon, ahol a fények ilyenkor különösen tiszták.",
+            "ro": "Iarna, Vrsi își arată latura liniștită și autentică. Dimineața începe cu o cafea fierbinte înainte de a vizita bisericile istorice. Briza rece a burei face plimbarea spre Mulo revigorantă. Un prânz copios ne încălzește înainte de a urmări apusul timpuriu, în jurul orei 16:30, pe plaja aproape pustie Ricina.",
+            "en": "In winter, Vrsi shows its quiet, authentic side. The morning starts with hot coffee before visiting the historic churches. The cold Bura breeze makes the walk to Mulo invigorating. A hearty lunch warms you up before watching the early sunset around 4:30 PM at the almost empty Ricina beach, where the light is exceptionally clear."
+          },
+          "stops": [
+            {
+              "name": "Kaffee & Frühstück im Dorf / Kávé és reggeli a faluban",
+              "tip_5lang": {
+                "de": "Fragen Sie nach lokalem Tee oder heißer Schokolade.",
+                "hu": "Kérjen helyi teát vagy forró csokoládét.",
+                "ro": "Cereți un ceai local sau o ciocolată caldă.",
+                "en": "Ask for local tea or hot chocolate."
+              }
+            },
+            {
+              "name": "Crkva sv. Jakova",
+              "tip_5lang": {
+                "de": "In den dicken Mauern ist es oft wärmer als draußen.",
+                "hu": "A vastag falak között gyakran melegebb van, mint kint.",
+                "ro": "În interiorul zidurilor groase este adesea mai cald decât afară.",
+                "en": "It's often warmer inside the thick walls than outside."
+              }
+            },
+            {
+              "name": "Crkva sv. Anselma",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung im Winter.",
+                "hu": "Csendes hely az elmélyüléshez télen.",
+                "ro": "Un loc liniștit pentru reflecție pe timp de iarnă.",
+                "en": "A quiet place for reflection in winter."
+              }
+            },
+            {
+              "name": "Vrsi-Mulo (Hafenpromenade)",
+              "tip_5lang": {
+                "de": "Tragen Sie Schal und Mütze gegen den Seewind.",
+                "hu": "Viseljen sálat és sapkát a tengeri szél ellen.",
+                "ro": "Purtați fular și căciulă împotriva vântului marin.",
+                "en": "Wear a scarf and hat against the sea wind."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba / Ebéd egy konobában",
+              "tip_5lang": {
+                "de": "Probieren Sie Peka – ein perfektes Wintergericht.",
+                "hu": "Próbálja ki a pekát – tökéletes téli étel.",
+                "ro": "Încercați peka – un preparat perfect de iarnă.",
+                "en": "Try peka – a perfect winter dish."
+              }
+            },
+            {
+              "name": "Plaža Ricina",
+              "tip_5lang": {
+                "de": "Sonnenuntergang findet hier im Winter schon um 16:30 statt.",
+                "hu": "A naplemente itt télen már 16:30-kor bekövetkezik.",
+                "ro": "Apusul are loc aici iarna deja la ora 16:30.",
+                "en": "Sunset takes place here as early as 4:30 PM in winter."
+              }
+            },
+            {
+              "name": "Abendlicher Abschied am Meer / Esti búcsú a tengerparton",
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang kühlt es extrem schnell ab.",
+                "hu": "Naplemente után rendkívül gyorsan lehűl a levegő.",
+                "ro": "După apus, temperatura scade extrem de repede.",
+                "en": "Temperatures drop extremely fast after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die Bura; der Nordostwind kann sehr kalt sein.",
+              "Die meisten Strandbars sind geschlossen, nutzen Sie Cafés im Dorf.",
+              "Das Tageslicht endet früh, starten Sie Ihren Rundgang vor 10 Uhr.",
+              "Zwiebelprinzip bei der Kleidung ist für Wanderungen ideal."
+            ],
+            "hu": [
+              "Ügyeljen a bórára; az északkeleti szél nagyon hideg lehet.",
+              "A legtöbb strandbár zárva van, használja a falusi kávézókat.",
+              "A nappali fény korán véget ér, kezdje a túrát délelőtt 10 előtt.",
+              "A réteges öltözködés ideális a téli sétákhoz."
+            ],
+            "ro": [
+              "Atenție la bura; vântul de nord-est poate fi foarte rece.",
+              "Majoritatea barurilor de pe plajă sunt închise, folosiți cafenelele din sat.",
+              "Lumina zilei se termină devreme, începeți turul înainte de ora 10.",
+              "Îmbrăcămintea în straturi este ideală pentru plimbările de iarnă."
+            ],
+            "en": [
+              "Watch out for the Bura; the northeast wind can be very cold.",
+              "Most beach bars are closed; use the cafes in the village instead.",
+              "Daylight ends early; start your tour before 10 AM.",
+              "Layered clothing is ideal for winter walks."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -538,6 +738,206 @@
           "Watch out for the wind (Bura), which can make cycling difficult.",
           "Take enough water, as there is little shade on the coastal path."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht, bietet aber eine leere Landschaft. Wir besuchen die Kirchen im Dorfzentrum für kulturelle Pausen. Die Fahrt nach Mulo erfolgt auf asphaltierten Straßen, um Matsch zu vermeiden. Nach einem stärkenden Mittagessen in der Wärme radeln wir vorsichtig an der Küste entlang, wobei wir die Gischt und den Regen im Gesicht spüren, bevor wir uns im Dorf aufwärmen.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel, de üres tájat kínál. Meglátogatjuk a falu központjában lévő templomokat kulturális szünetként. Mulo felé aszfaltozott utakon haladunk a sár elkerülése érdekében. Egy melegben elfogyasztott ebéd után óvatosan tekerünk a parton, érezve az arcunkon az esőt, majd a faluban melegszünk fel.",
+            "ro": "Ciclismul pe ploaie necesită prudență, dar oferă un peisaj pustiu. Vizităm bisericile din centrul satului pentru pauze culturale. Mergem spre Mulo pe drumuri asfaltate pentru a evita noroiul. După un prânz revigorant la căldură, pedalăm cu grijă pe coastă, simțind ploaia pe față, înainte de a ne încălzi în sat.",
+            "en": "Cycling in the rain requires caution but offers a deserted landscape. We visit the churches in the village center for cultural breaks. The ride to Mulo is on paved roads to avoid mud. After a restorative lunch in the warmth, we cycle carefully along the coast, feeling the spray and rain on our faces, before warming up in the village."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Jakova",
+              "tip_5lang": {
+                "de": "Sicherer Abstellplatz für Räder unter Vordächern suchen.",
+                "hu": "Keressen fedett helyet a bicikliknek az ereszek alatt.",
+                "ro": "Căutați un loc de parcare sigur pentru biciclete sub streșini.",
+                "en": "Look for a safe parking spot for bikes under eaves."
+              }
+            },
+            {
+              "name": "Crkva sv. Anselma",
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen, nasser Boden kann glatt sein.",
+                "hu": "Vigyázat a leszálláskor, a vizes talaj csúszós lehet.",
+                "ro": "Atenție la descălecare, solul umed poate fi alunecos.",
+                "en": "Be careful when dismounting; wet ground can be slippery."
+              }
+            },
+            {
+              "name": "Vrsi-Mulo (Küstentour)",
+              "tip_5lang": {
+                "de": "Reduzieren Sie das Tempo in Kurven auf der Hafenmauer.",
+                "hu": "Csökkentse a sebességet a kanyarokban a kikötői gáton.",
+                "ro": "Reduceți viteza în curbe pe digul portului.",
+                "en": "Reduce speed in curves on the harbor wall."
+              }
+            },
+            {
+              "name": "Plaža Ricina",
+              "tip_5lang": {
+                "de": "Der Sandweg kann bei starkem Regen schwer befahrbar sein.",
+                "hu": "A homokos út heves esőben nehezen járható lehet.",
+                "ro": "Drumul de nisip poate fi greu practicabil în ploaie torențială.",
+                "en": "The sandy path can be difficult to ride in heavy rain."
+              }
+            },
+            {
+              "name": "Picknick oder Mittagessen am Meer / Piknik vagy ebéd a parton",
+              "tip_5lang": {
+                "de": "Ein überdachter Tisch ist hier Gold wert.",
+                "hu": "Egy fedett asztal itt aranyat ér.",
+                "ro": "O masă acoperită valorează aur aici.",
+                "en": "A covered table is worth its weight in gold here."
+              }
+            },
+            {
+              "name": "Panorama-Radweg zurück / Panoráma kerékpárút vissza",
+              "tip_5lang": {
+                "de": "Gute Sichtbarkeit durch Licht und Reflektoren wichtig.",
+                "hu": "A jó láthatóság lámpákkal és fényvisszaverőkkel fontos.",
+                "ro": "Vizibilitatea bună prin lumini și reflectorizante este importantă.",
+                "en": "Good visibility through lights and reflectors is important."
+              }
+            },
+            {
+              "name": "Eis-Stopp im Dorf / Fagyi-megálló a faluban",
+              "tip_5lang": {
+                "de": "Tauschen Sie Eis gegen einen warmen Kakao.",
+                "hu": "Cserélje a fagyit egy meleg kakaóra.",
+                "ro": "Schimbați înghețata cu o cacao caldă.",
+                "en": "Swap ice cream for a warm cocoa."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Rad verhindern nasse Rücken.",
+              "Bremsen Sie frühzeitig, da Bremsbeläge bei Nässe später greifen.",
+              "Vermeiden Sie Pfützen, sie könnten tiefe Schlaglöcher verbergen.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit."
+            ],
+            "hu": [
+              "A sárvédő megakadályozza, hogy vizes legyen a háta.",
+              "Fékezzen időben, mert a fékbetétek nedvesen lassabban fognak.",
+              "Kerülje a tócsákat, mert mély kátyúkat rejthetnek.",
+              "Viseljen neonsárga esőruhát a jobb láthatóságért."
+            ],
+            "ro": [
+              "Apărătorile de noroi previn udarea spatelui.",
+              "Frânați din timp, deoarece saboții de frână prind mai greu pe ud.",
+              "Evitați bălțile, deoarece ar putea ascunde gropi adânci.",
+              "Purtați haine de ploaie galben neon pentru o mai bună vizibilitate."
+            ],
+            "en": [
+              "Mudguards on the bike prevent wet backs.",
+              "Brake early as brake pads take longer to grip when wet.",
+              "Avoid puddles; they could hide deep potholes.",
+              "Wear neon yellow rain gear for better visibility."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad bietet klare Luft und weite Blicke auf das Velebit-Gebirge. Wir starten bei den Kirchen im Dorf und fahren zügig nach Mulo, um in Bewegung zu bleiben. Der kalte Wind wird durch die Bewegung erträglich. Nach einem warmen Mittagessen genießen wir die Einsamkeit am Ricina-Strand. Die Rückfahrt erfolgt rechtzeitig vor Einbruch der Dunkelheit, gefolgt von einem heißen Getränk im Dorf.",
+            "hu": "Egy téli kerékpártúra tiszta levegőt és tágas kilátást kínál a Velebit-hegységre. A falu templomainál kezdünk, majd gyorsan Mulo felé tekerünk, hogy mozgásban maradjunk. A hideg szél a mozgás hatására elviselhetővé válik. Egy meleg ebéd után élvezzük a magányt a Ricina-strandon. Sötétedés előtt visszaérünk a faluba egy forró italra.",
+            "ro": "O tură de iarnă cu bicicleta oferă aer curat și vederi largi spre munții Velebit. Începem de la bisericile din sat și pedalăm rapid spre Mulo pentru a rămâne în mișcare. Vântul rece devine suportabil prin mișcare. După un prânz cald, ne bucurăm de singurătate pe plaja Ricina, întorcându-ne în sat înainte de lăsarea întunericului.",
+            "en": "A winter bike tour offers crisp air and vast views of the Velebit mountains. We start at the village churches and ride swiftly to Mulo to keep moving. The cold wind becomes bearable through exercise. After a warm lunch, we enjoy the solitude at Ricina beach. We return well before dark for a hot drink in the village."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Jakova",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Finger in den Taschen aufzuwärmen.",
+                "hu": "Rövid megálló, hogy felmelegítse ujjait a zsebében.",
+                "ro": "Scurtă oprire pentru a vă încălzi degetele în buzunare.",
+                "en": "Short stop to warm your fingers in your pockets."
+              }
+            },
+            {
+              "name": "Crkva sv. Anselma",
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Eingangsbereich.",
+                "hu": "Használja a szélvédett bejárati részt.",
+                "ro": "Folosiți zona de intrare protejată de vânt.",
+                "en": "Use the wind-sheltered entrance area."
+              }
+            },
+            {
+              "name": "Vrsi-Mulo (Küstentour)",
+              "tip_5lang": {
+                "de": "Die Bura kann hier von der Seite kräftig wehen.",
+                "hu": "A bóra itt oldalról erősen fújhat.",
+                "ro": "Bura poate sufla cu putere din lateral aici.",
+                "en": "The Bura can blow strongly from the side here."
+              }
+            },
+            {
+              "name": "Plaža Ricina",
+              "tip_5lang": {
+                "de": "Ein einsamer Ort für tolle Winterfotos.",
+                "hu": "Magányos hely remek téli fotókhoz.",
+                "ro": "Un loc solitar pentru fotografii de iarnă grozave.",
+                "en": "A lonely spot for great winter photos."
+              }
+            },
+            {
+              "name": "Picknick oder Mittagessen am Meer / Piknik vagy ebéd a parton",
+              "tip_5lang": {
+                "de": "Heißer Tee in der Thermoskanne ist ein Muss.",
+                "hu": "Forró tea a termoszhoban kötelező.",
+                "ro": "Ceaiul fierbinte în termos este obligatoriu.",
+                "en": "Hot tea in a thermos is a must."
+              }
+            },
+            {
+              "name": "Panorama-Radweg zurück / Panoráma kerékpárút vissza",
+              "tip_5lang": {
+                "de": "Achten Sie auf die tiefstehende Sonne (Blendgefahr).",
+                "hu": "Ügyeljen az alacsonyan lévő napra (elvakíthat).",
+                "ro": "Atenție la soarele jos (pericol de orbire).",
+                "en": "Watch out for the low sun (glare hazard)."
+              }
+            },
+            {
+              "name": "Eis-Stopp im Dorf / Fagyi-megálló a faluban",
+              "tip_5lang": {
+                "de": "Wählen Sie Tee oder Kaffee statt kalter Speisen.",
+                "hu": "Válasszon teát vagy kávét a hideg ételek helyett.",
+                "ro": "Alegeți ceai sau cafea în locul mâncărurilor reci.",
+                "en": "Choose tea or coffee instead of cold food."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm.",
+              "Die Luft ist trocken, vergessen Sie nicht zu trinken.",
+              "Prüfen Sie den Reifendruck; kalte Luft verringert ihn leicht.",
+              "Beenden Sie die Tour bis 16:00 Uhr, danach wird es schlagartig kalt."
+            ],
+            "hu": [
+              "Viseljen szélálló kesztyűt és sapkát a sisak alatt.",
+              "A levegő száraz, ne felejtsen el inni.",
+              "Ellenőrizze a guminyomást; a hideg levegő kissé csökkenti azt.",
+              "Fejezze be a túrát 16:00-ig, utána hirtelen lehűl az idő."
+            ],
+            "ro": [
+              "Purtați mănuși rezistente la vânt și o căciulă sub cască.",
+              "Aerul este uscat, nu uitați să beți apă.",
+              "Verificați presiunea în anvelope; aerul rece o reduce ușor.",
+              "Încheiați tura până la ora 16:00, după aceea se face brusc frig."
+            ],
+            "en": [
+              "Wear windproof gloves and a hat under your helmet.",
+              "The air is dry; don't forget to stay hydrated.",
+              "Check tire pressure; cold air reduces it slightly.",
+              "Finish the tour by 4:00 PM; it gets suddenly cold after that."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -766,6 +1166,188 @@
           "The streets in the old village are narrow, drive carefully.",
           "Use the car to also explore the surrounding bays like Duboka Draga."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen in Vrsi kein Hindernis. Wir besuchen die Kirchen im alten Dorfzentrum bequem und ohne nass zu werden. Die Fahrt nach Vrsi-Mulo bietet dramatische Ausblicke auf das aufgewühlte Meer direkt vom Fenster aus. Nach einem gemütlichen Mittagessen mit Meerblick fahren wir zum Ricina-Strand, wo man die Kraft der Natur sicher aus dem Fahrzeug beobachten kann, bevor es zum Aussichtspunkt Nin geht.",
+            "hu": "Autóval az eső Vrsiben nem akadály. Kényelmesen, ázás nélkül látogatjuk meg az ófalu templomait. Az út Vrsi-Mulo felé drámai kilátást nyújt a felkavart tengerre közvetlenül az ablakból. Egy hangulatos, tengerre néző ebéd után a Ricina-strandra hajtunk, ahol a természet erejét biztonságban, a kocsiból figyelhetjük, majd a nini kilátó felé vesszük az irányt.",
+            "ro": "Cu mașina, ploaia în Vrsi nu este un obstacol. Vizităm bisericile din centrul vechi confortabil, fără a ne uda. Drumul spre Vrsi-Mulo oferă vederi dramatice asupra mării agitate direct de la fereastră. După un prânz plăcut cu vedere la mare, mergem spre plaja Ricina, unde putem observa forța naturii în siguranță din vehicul.",
+            "en": "By car, rain in Vrsi is no obstacle. We visit the churches in the old village center comfortably without getting wet. The drive to Vrsi-Mulo offers dramatic views of the turbulent sea directly from the window. After a cozy lunch with a sea view, we drive to Ricina beach, where nature's power can be safely observed from the vehicle before heading to the Nin viewpoint."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Altes Dorf (Crkva sv. Jakova)",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz.",
+                "ro": "Parcați cât mai aproape de intrare posibil.",
+                "en": "Park as close to the entrance as possible."
+              }
+            },
+            {
+              "name": "Cluster A: Crkva sv. Anselma",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zum Kircheneingang.",
+                "hu": "Rövid futás a parkolóból a templombejáratig.",
+                "ro": "Scurt sprint de la parcare la intrarea în biserică.",
+                "en": "Short sprint from the parking lot to the church entrance."
+              }
+            },
+            {
+              "name": "Cluster B: Vrsi-Mulo (Hafen)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Wellen aus dem Auto.",
+                "hu": "Élvezze a hullámok látványát az autóból.",
+                "ro": "Bucurați-vă de vederea valurilor din mașină.",
+                "en": "Enjoy the view of the waves from the car."
+              }
+            },
+            {
+              "name": "Mittagessen am Meer / Ebéd a tengerparton",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch am Fenster.",
+                "hu": "Foglaljon asztalt az ablak mellett.",
+                "ro": "Rezervați o masă la fereastră.",
+                "en": "Reserve a table by the window."
+              }
+            },
+            {
+              "name": "Cluster B: Plaža Ricina",
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Wagen.",
+                "hu": "Heves esőben maradjon a kocsiban.",
+                "ro": "Rămâneți în mașină în caz de ploaie torențială.",
+                "en": "Stay in the car during heavy rain."
+              }
+            },
+            {
+              "name": "Panoramablick auf Nin / Kilátás Ninre",
+              "tip_5lang": {
+                "de": "Die Wolkenstimmung über Nin ist bei Regen oft spektakulär.",
+                "hu": "A nini felhők látványa esőben gyakran látványos.",
+                "ro": "Atmosfera norilor deasupra Nin este adesea spectaculoasă pe ploaie.",
+                "en": "The cloud atmosphere over Nin is often spectacular in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf beschlagene Scheiben (Klimaanlage nutzen).",
+              "Die Straßen im Dorf sind eng; bei Nässe vorsichtig manövrieren.",
+              "Halten Sie ein Handtuch im Auto bereit, falls Sie nass werden.",
+              "Einige Parkplätze an der Küste können bei Flut überschwemmt sein."
+            ],
+            "hu": [
+              "Ügyeljen a párásodó szélvédőkre (használja a klímát).",
+              "A falu utcái szűkek; vizes úton óvatosan manőverezzen.",
+              "Legyen egy törölköző az autóban, ha megázna.",
+              "Néhány parti parkolót dagálykor elönthet a víz."
+            ],
+            "ro": [
+              "Atenție la geamurile aburite (folosiți aerul condiționat).",
+              "Străzile din sat sunt înguste; manevrați cu grijă pe ud.",
+              "Țineți un prosop în mașină în caz că vă udați.",
+              "Unele parcări de pe coastă pot fi inundate la flux."
+            ],
+            "en": [
+              "Watch out for foggy windows (use the air conditioning).",
+              "Village streets are narrow; maneuver carefully in the wet.",
+              "Keep a towel in the car in case you get wet.",
+              "Some coastal parking lots may be flooded during high tide."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autofahrten rund um Vrsi sind entspannt, da kaum Verkehr herrscht. Wir erkunden die Kirchen im Dorfzentrum und fahren dann zur Küste von Mulo. Die klare Winterluft bietet hervorragende Sicht auf die Inseln und das Velebit. Nach einem wärmenden Mittagessen in einer Konoba fahren wir zum einsamen Ricina-Strand und beenden den Tag mit dem weiten Blick auf Nin bei Sonnenuntergang.",
+            "hu": "A téli autózás Vrsi környékén nyugodt, mivel alig van forgalom. Felfedezzük a falu templomait, majd Mulo partjai felé vesszük az irányt. A tiszta téli levegő kiváló kilátást nyújt a szigetekre és a Velebitre. Egy konobában elfogyasztott meleg ebéd után az elhagyatott Ricina-strandra hajtunk, a napot pedig a nini panorámával zárjuk naplementekor.",
+            "ro": "Călătoriile cu mașina iarna în jurul localității Vrsi sunt relaxate, deoarece traficul este redus. Explorăm bisericile din sat și apoi mergem spre coasta Mulo. Aerul curat de iarnă oferă o vizibilitate excelentă spre insule și Velebit. După un prânz cald într-o konoba, mergem la plaja pustie Ricina, încheind ziua cu vederea spre Nin la apus.",
+            "en": "Winter drives around Vrsi are relaxed as there is little traffic. We explore the village churches and then head to the Mulo coast. The clear winter air offers excellent views of the islands and Velebit. After a warming lunch in a konoba, we drive to the deserted Ricina beach and end the day with the wide view of Nin at sunset."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Altes Dorf (Crkva sv. Jakova)",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie problemlos Parkplätze direkt davor.",
+                "hu": "Télen gond nélkül talál parkolót közvetlenül előtte.",
+                "ro": "Iarna veți găsi locuri de parcare direct în față fără probleme.",
+                "en": "In winter, you will find parking spots directly in front without issues."
+              }
+            },
+            {
+              "name": "Cluster A: Crkva sv. Anselma",
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche für einen Moment der Stille.",
+                "hu": "Látogassa meg a templomot egy pillanatnyi csendért.",
+                "ro": "Vizitați biserica pentru un moment de liniște.",
+                "en": "Visit the church for a moment of silence."
+              }
+            },
+            {
+              "name": "Cluster B: Vrsi-Mulo (Hafen)",
+              "tip_5lang": {
+                "de": "Die Cafés am Hafen sind im Winter teilweise geschlossen.",
+                "hu": "A kikötői kávézók télen részben zárva tartanak.",
+                "ro": "Cafenelele din port sunt parțial închise iarna.",
+                "en": "Harbor cafes are partially closed in winter."
+              }
+            },
+            {
+              "name": "Mittagessen am Meer / Ebéd a tengerparton",
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Innenräume der Restaurants.",
+                "hu": "Élvezze az éttermek fűtött belső tereit.",
+                "ro": "Bucurați-vă de interioarele încălzite ale restaurantelor.",
+                "en": "Enjoy the heated interiors of the restaurants."
+              }
+            },
+            {
+              "name": "Cluster B: Plaža Ricina",
+              "tip_5lang": {
+                "de": "Der Parkplatz am Strand ist im Winter komplett leer.",
+                "hu": "A strand parkolója télen teljesen üres.",
+                "ro": "Parcarea de la plajă este complet goală iarna.",
+                "en": "The beach parking lot is completely empty in winter."
+              }
+            },
+            {
+              "name": "Panoramablick auf Nin / Kilátás Ninre",
+              "tip_5lang": {
+                "de": "Früher Sonnenuntergang; ideal für Fotografen.",
+                "hu": "Korai naplemente; ideális fotósoknak.",
+                "ro": "Apus timpuriu; ideal pentru fotografi.",
+                "en": "Early sunset; ideal for photographers."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Bura kann starke Seitenwinde verursachen; Lenkrad fest halten.",
+              "Einige Nebenstraßen können im Winter rutschig sein.",
+              "Tanken Sie rechtzeitig, da einige Tankstellen Winteröffnungszeiten haben."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A bóra erős oldalszelet okozhat; tartsa erősen a kormányt.",
+              "Néhány mellékút télen csúszós lehet.",
+              "Tankoljon időben, mert egyes kutak téli nyitvatartással üzemelnek."
+            ],
+            "ro": [
+              "Verificați antigelul din lichidul de parbriz.",
+              "Bura poate cauza vânt lateral puternic; țineți bine volanul.",
+              "Unele drumuri secundare pot fi alunecoase iarna.",
+              "Alimentați la timp, deoarece unele benzinării au program de iarnă."
+            ],
+            "en": [
+              "Check the antifreeze in your windshield washer fluid.",
+              "The Bura can cause strong crosswinds; keep a firm grip on the wheel.",
+              "Some side roads can be slippery in winter.",
+              "Refuel in time as some stations have winter opening hours."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -994,6 +1576,188 @@
           "Tickets can often be bought from the driver.",
           "The 'Vrsi' stop is centrally located in the old village."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bei Regen nutzen wir die Busverbindungen, um trocken zwischen Dorf und Küste zu pendeln. Wir starten mit einem Kaffee im Dorf, besuchen die Kirchen als Unterstand und fahren dann nach Mulo. Das Mittagessen bietet eine lange Pause vom Wetter. Danach erkunden wir kurz den Hafen und den Ricina-Strand, bevor wir pünktlich zum Bus zurückkehren, um die Rückreise anzutreten.",
+            "hu": "Esőben a buszjáratokat használjuk, hogy szárazon ingázzunk a falu és a part között. Egy falusi kávéval kezdünk, menedékként meglátogatjuk a templomokat, majd Mulóba utazunk. Az ebéd hosszú szünetet biztosít az időjárás elől. Ezután röviden felfedezzük a kikötőt és a Ricina-strandot, mielőtt pontosan visszatérnénk a buszhoz a hazautazáshoz.",
+            "ro": "Pe ploaie, folosim legăturile de autobuz pentru a face naveta uscați între sat și coastă. Începem cu o cafea în sat, vizităm bisericile ca adăpost și apoi mergem la Mulo. Prânzul oferă o pauză lungă de vreme. După aceea, explorăm scurt portul și plaja Ricina înainte de a ne întoarce la timp pentru autobuz.",
+            "en": "In the rain, we use bus connections to commute dry between the village and the coast. We start with a coffee in the village, visit the churches for shelter, and then travel to Mulo. Lunch provides a long break from the weather. Afterward, we briefly explore the harbor and Ricina beach before returning on time for the bus home."
+          },
+          "stops": [
+            {
+              "name": "Ankunft & Dorf-Café / Érkezés és falusi kávézó",
+              "tip_5lang": {
+                "de": "Warten Sie hier, bis der nächste Bus oder der Regen nachlässt.",
+                "hu": "Várjon itt a következő buszig vagy az eső csillapodásáig.",
+                "ro": "Așteptați aici până la următorul autobuz sau până se domolește ploaia.",
+                "en": "Wait here until the next bus or the rain subsides."
+              }
+            },
+            {
+              "name": "Cluster: Dorf-Kirchen (St. Jakov & St. Anselm)",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirchen als kulturellen Regenschutz.",
+                "hu": "Használja a templomokat kulturális esővédőként.",
+                "ro": "Folosiți bisericile ca protecție culturală împotriva ploii.",
+                "en": "Use the churches as cultural rain protection."
+              }
+            },
+            {
+              "name": "Vrsi-Mulo (Bus nach Küste / Séta a partra)",
+              "tip_5lang": {
+                "de": "Der Bus hält direkt in der Nähe der Promenade.",
+                "hu": "A busz közvetlenül a sétány közelében áll meg.",
+                "ro": "Autobuzul oprește chiar lângă promenadă.",
+                "en": "The bus stops right near the promenade."
+              }
+            },
+            {
+              "name": "Mittagessen in Mulo / Ebéd Mulóban",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die regenreichste Mittagszeit zu überbrücken.",
+                "hu": "Ideális hely a legesősebb déli időszak áthidalására.",
+                "ro": "Un loc ideal pentru a trece peste cea mai ploioasă perioadă a amiezii.",
+                "en": "An ideal place to bridge the rainiest midday period."
+              }
+            },
+            {
+              "name": "Plaža Ricina",
+              "tip_5lang": {
+                "de": "Kurzer Abstecher zum Strand, wenn der Regen nachlässt.",
+                "hu": "Rövid kitérő a strandra, ha alábbhagy az eső.",
+                "ro": "Scurtă abatere la plajă când ploaia se domolește.",
+                "en": "Short detour to the beach if the rain subsides."
+              }
+            },
+            {
+              "name": "Rückreise ab Vrsi / Hazautazás Vrsiből",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Busfahrplan vorab online auf Änderungen.",
+                "hu": "Ellenőrizze előre online a buszmenetrend módosításait.",
+                "ro": "Verificați în prealabil online orarul autobuzelor pentru modificări.",
+                "en": "Check the bus schedule online in advance for changes."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Haltestellen haben oft nur wenig Unterstand; Schirm bereit halten.",
+              "Busse können bei starkem Regen leichte Verspätungen haben.",
+              "Tragen Sie wasserfeste Schuhe für den Weg zur Haltestelle.",
+              "Nutzen Sie die Google Maps App für Echtzeit-Infos, falls verfügbar."
+            ],
+            "hu": [
+              "A megállókban gyakran kevés a fedett rész; legyen kéznél esernyő.",
+              "Heves esőben a buszok kissé késhetnek.",
+              "Viseljen vízálló cipőt a megállóhoz vezető úton.",
+              "Használja a Google Maps-et valós idejű infókért, ha elérhető."
+            ],
+            "ro": [
+              "Stațiile au adesea puține adăposturi; țineți umbrela la îndemână.",
+              "Autobuzele pot avea întârzieri ușoare în caz de ploaie torențială.",
+              "Purtați încălțăminte impermeabilă pentru drumul spre stație.",
+              "Folosiți Google Maps pentru informații în timp real, dacă sunt disponibile."
+            ],
+            "en": [
+              "Bus stops often have limited shelter; keep an umbrella ready.",
+              "Buses may have slight delays during heavy rain.",
+              "Wear waterproof shoes for the walk to the stop.",
+              "Use Google Maps for real-time info if available."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Transit-Reisen im Winter nach Vrsi erfordern Planung, bieten aber eine ruhige Atmosphäre. Wir starten im Dorf-Café, besichtigen die Kirchen und fahren mit dem Winterbus nach Mulo. Die frische Luft an der Promenade ist herrlich. Nach einem ausgiebigen Mittagessen besuchen wir den einsamen Ricina-Strand. Wir kehren rechtzeitig vor dem frühen Sonnenuntergang zur Haltestelle zurück.",
+            "hu": "A téli tömegközlekedés Vrsi felé tervezést igényel, de nyugodt légkört kínál. A falusi kávézóban kezdünk, megnézzük a templomokat, majd a téli busszal Mulóba utazunk. A friss levegő a sétányon csodálatos. Egy bőséges ebéd után meglátogatjuk az elhagyatott Ricina-strandot. A korai naplemente előtt időben visszatérünk a megállóba.",
+            "ro": "Călătoria cu transportul public iarna spre Vrsi necesită planificare, dar oferă o atmosferă liniștită. Începem la cafeneaua din sat, vizităm bisericile și mergem cu autobuzul de iarnă spre Mulo. Aerul proaspăt de pe promenadă este minunat. După un prânz copios, vizităm plaja pustie Ricina, întorcându-ne la stație înainte de apusul timpuriu.",
+            "en": "Transit travel to Vrsi in winter requires planning but offers a peaceful atmosphere. We start at the village cafe, visit the churches, and take the winter bus to Mulo. The fresh air on the promenade is wonderful. After a hearty lunch, we visit the deserted Ricina beach. We return to the stop well before the early sunset."
+          },
+          "stops": [
+            {
+              "name": "Ankunft & Dorf-Café / Érkezés és falusi kávézó",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier nach der Ankunft kurz auf.",
+                "hu": "Érkezés után melegedjen fel itt egy kicsit.",
+                "ro": "Încălziți-vă aici puțin după sosire.",
+                "en": "Warm up here briefly after arrival."
+              }
+            },
+            {
+              "name": "Cluster: Dorf-Kirchen (St. Jakov & St. Anselm)",
+              "tip_5lang": {
+                "de": "Im Winter sind die Kirchen besonders friedlich.",
+                "hu": "Télen a templomok különösen békések.",
+                "ro": "Iarna, bisericile sunt deosebit de liniștite.",
+                "en": "In winter, the churches are especially peaceful."
+              }
+            },
+            {
+              "name": "Vrsi-Mulo (Bus nach Küste / Séta a partra)",
+              "tip_5lang": {
+                "de": "Winterfahrpläne haben oft weniger Frequenzen.",
+                "hu": "A téli menetrendekben gyakran ritkábban járnak a buszok.",
+                "ro": "Orarele de iarnă au adesea frecvențe reduse.",
+                "en": "Winter schedules often have reduced frequencies."
+              }
+            },
+            {
+              "name": "Mittagessen in Mulo / Ebéd Mulóban",
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem Tagesgericht (Marenda).",
+                "hu": "Kérdezze meg a napi ajánlatot (marenda).",
+                "ro": "Întrebați de meniul zilei (marenda).",
+                "en": "Ask for the daily special (marenda)."
+              }
+            },
+            {
+              "name": "Plaža Ricina",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg zur Haltestelle im Hellen ein.",
+                "hu": "A megállóhoz vezető visszautat még világosban tervezze meg.",
+                "ro": "Planificați drumul de întoarcere la stație pe lumină.",
+                "en": "Plan your walk back to the stop while it's still light."
+              }
+            },
+            {
+              "name": "Rückreise ab Vrsi / Hazautazás Vrsiből",
+              "tip_5lang": {
+                "de": "Der letzte Bus fährt im Winter oft früher ab.",
+                "hu": "Az utolsó busz télen gyakran korábban indul.",
+                "ro": "Ultimul autobuz pleacă adesea mai devreme iarna.",
+                "en": "The last bus often departs earlier in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie die reduzierten Winterfahrpläne (v.a. am Wochenende).",
+              "Tragen Sie warme Kleidung für die Wartezeiten an den Haltestellen.",
+              "Die Bura kann Busse auf Brücken (Nin/Zadar) verzögern.",
+              "Haben Sie Kleingeld für das Ticket bereit, falls Kartenzahlung streikt."
+            ],
+            "hu": [
+              "Ügyeljen a ritkított téli menetrendre (főleg hétvégén).",
+              "Viseljen meleg ruhát a megállókban való várakozáshoz.",
+              "A bóra késleltetheti a buszokat a hidakon (Nin/Zadar).",
+              "Legyen kéznél aprópénz a jegyhez, ha a kártyás fizetés nem menne."
+            ],
+            "ro": [
+              "Respectați orarele de iarnă reduse (mai ales în weekend).",
+              "Purtați haine groase pentru perioadele de așteptare în stații.",
+              "Bura poate întârzia autobuzele pe poduri (Nin/Zadar).",
+              "Aveți mărunțiș pregătit pentru bilet, în caz că plata cu cardul nu merge."
+            ],
+            "en": [
+              "Note the reduced winter schedules (especially on weekends).",
+              "Wear warm clothing for the waiting periods at bus stops.",
+              "The Bura can delay buses on bridges (Nin/Zadar).",
+              "Have small change ready for the ticket in case card payment fails."
+            ]
+          }
+        }
       }
     }
   }

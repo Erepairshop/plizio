@@ -310,6 +310,232 @@
           "Visit the village center for authentic local interactions.",
           "The source can be particularly impressive after heavy rains."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt gemütlich bei prasselndem Regen im Dorfzentrum, wo der Kaffee besonders gut schmeckt. Vormittags bieten die Kirche und die alte Mühle am Fluss ideale trockene Rückzugsorte mit historischem Charme.\n\nMittags genießen Sie die herzhafte lokale Küche in einer warmen Konoba, während draußen der Regen die Landschaft erfrischt. Die Rječina zeigt sich nun von ihrer wilden, wasserreichen Seite.\n\nNachmittags führt der Weg zum Flusslauf, wo der Wald Schutz bietet und die Quelle kraftvoll aus dem Fels schäumt. Die feuchte Luft verstärkt die erdigen Düfte der Natur.\n\nDer Abend klingt mit einem mystischen Blick auf das wolkenverhangene Grobničko polje aus. Die Stille des Regens verleiht dem Tal eine ganz eigene, besinnliche Atmosphäre.",
+            "hu": "A napot egy csésze forró kávéval indítjuk a központban, miközben az ablakon kopog az eső. Délelőtt a Szent Bertalan-templom és a történelmi malom nyújt fedett menedéket és kulturális élményt.\n\nEbédidőben egy közeli konoba vendégszeretetét élvezzük, ahol a helyi ételek melegsége feledteti a kinti szürkeséget. Az eső hatására a Rječina folyó hangja felerősödik.\n\nDélután a folyó menti séta különleges élmény: a fák lombjai felfogják a cseppeket, a forrás pedig elemi erővel tör elő. A párás levegőben intenzívebbek az erdei illatok.\n\nAz este a Grobnik-mező szélén ér minket, ahol a ködös táj misztikus látványt nyújt. Az eső áztatta Dražice ilyenkor mutatja meg legnyugodtabb arcát.",
+            "ro": "Ziua începe relaxat în centrul satului, unde aroma cafelei se împletește cu sunetul ploii. Dimineața explorăm biserica locală și moara istorică, locuri perfecte pentru a rămâne la adăpost.\n\nLa prânz, o konoba primitoare ne așteaptă cu preparate calde, oferind un contrast plăcut cu vremea de afară. Ploaia umflă apele Rječinei, făcând peisajul mai dramatic.\n\nDupă-amiaza ne plimbăm spre izvor; pădurea oferă o protecție naturală, iar râul curge cu o energie sporită. Aerul umed face ca fiecare pas în natură să fie revigorant.\n\nSeara se încheie cu o privire spre câmpia Grobniško polje, acoperită de nori joși. Atmosfera liniștită a ploii transformă Dražice într-un refugiu poetic.",
+            "en": "The day starts cozily in the village center as rain taps on the windows, making the morning coffee even better. Spend the morning exploring the church and the historic mill, which offer dry sanctuary.\n\nAt noon, a local konoba provides warmth and hearty dishes while the rain refreshes the surrounding greenery. The Rječina river becomes louder and more impressive under the rain.\n\nIn the afternoon, the walk to the source feels mystical; the forest canopy provides some cover, and the spring gushes powerfully. The damp air heightens the scents of the earth.\n\nThe evening concludes with a view of the misty Grobničko polje. The quiet rhythm of the rain brings a unique, contemplative peace to the entire valley."
+          },
+          "stops": [
+            {
+              "name": "Lokales Café im Zentrum",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um den Regen bei einem Espresso abzuwarten.",
+                "hu": "Kiváló hely az eső kivárására egy jó eszpresszó mellett.",
+                "ro": "Locul ideal pentru a aștepta oprirea ploii cu un espresso.",
+                "en": "Perfect spot to wait out the rain with an espresso."
+              }
+            },
+            {
+              "name": "Crkva sv. Bartola",
+              "tip_5lang": {
+                "de": "Das ruhige Innere schützt vor Wind und Wetter.",
+                "hu": "A nyugodt belső tér védelmet nyújt a szél és az eső elől.",
+                "ro": "Interiorul liniștit oferă adăpost împotriva intemperiilor.",
+                "en": "The quiet interior provides shelter from the elements."
+              }
+            },
+            {
+              "name": "Grobnički mlin",
+              "tip_5lang": {
+                "de": "Besuchen Sie das Innere der Mühle, um trocken zu bleiben.",
+                "hu": "Látogasson be a malomba, hogy szárazon maradjon.",
+                "ro": "Vizitați interiorul morii pentru a rămâne la uscat.",
+                "en": "Visit the interior of the mill to stay dry."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einer traditionellen Suppe auf.",
+                "hu": "Melegedjen fel egy hagyományos helyi levessel.",
+                "ro": "Încălziți-vă cu o supă tradițională locală.",
+                "en": "Warm up with a traditional local soup."
+              }
+            },
+            {
+              "name": "Wanderung entlang der Rječina",
+              "tip_5lang": {
+                "de": "Vorsicht, die Uferwege können bei Nässe rutschig sein.",
+                "hu": "Vigyázat, a vízparti utak vizesen csúszósak lehetnek.",
+                "ro": "Atenție, potecile de pe mal pot fi alunecoase când sunt ude.",
+                "en": "Caution, riverside paths can be slippery when wet."
+              }
+            },
+            {
+              "name": "Izvor Rječine",
+              "tip_5lang": {
+                "de": "Das Wasser sprudelt bei Regen besonders beeindruckend.",
+                "hu": "Esőben a forrás különösen lenyűgözően tör elő.",
+                "ro": "Izvorul țâșnește impresionant pe timp de ploaie.",
+                "en": "The spring gushes impressively during rainfall."
+              }
+            },
+            {
+              "name": "Kurze Rast am Flussufer",
+              "tip_5lang": {
+                "de": "Nutzen Sie überdachte Stellen für eine kurze Pause.",
+                "hu": "Használja a fedett részeket egy rövid pihenőhöz.",
+                "ro": "Folosiți locurile acoperite pentru o scurtă pauză.",
+                "en": "Use covered areas for a brief rest."
+              }
+            },
+            {
+              "name": "Grobničko polje",
+              "tip_5lang": {
+                "de": "Die Nebelschwaden über dem Feld bieten tolle Fotomotive.",
+                "hu": "A mező feletti ködfoltok kiváló fotótémát adnak.",
+                "ro": "Bancurile de ceață de peste câmpie oferă cadre foto superbe.",
+                "en": "Mist over the field offers great photo opportunities."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe, da die Wege am Fluss schlammig sein können.",
+              "Ein stabiler Regenschirm oder ein hochwertiges Cape ist bei Wind im Tal unerlässlich.",
+              "Planen Sie längere Pausen in den gastronomischen Einrichtungen ein, um trocken zu bleiben.",
+              "Die Felsen an der Rječina-Quelle sind bei Nässe sehr glatt, bitte vorsichtig treten.",
+              "Halten Sie Ausschau nach kleinen Unterständen entlang des Wanderwegs."
+            ],
+            "hu": [
+              "Viseljen vízálló túrabakancsot, mert a folyóparti utak sárosak lehetnek.",
+              "Egy erős esernyő vagy minőségi esőköpeny nélkülözhetetlen a völgyben.",
+              "Tervezzen hosszabb pihenőket a vendéglátóhelyeken, hogy megszáradhasson.",
+              "A Rječina-forrásnál a sziklák nedvesen nagyon csúsznak, óvatosan lépkedjen.",
+              "Figyelje a túraútvonal mentén található kisebb esőbeállókat."
+            ],
+            "ro": [
+              "Purtați bocanci de drumeție impermeabili, deoarece potecile pot fi noroioase.",
+              "O umbrelă rezistentă sau o pelerină de calitate este esențială în vale.",
+              "Planificați pauze mai lungi în restaurante pentru a vă menține uscat.",
+              "Stâncile de la izvorul Rječinei sunt foarte alunecoase, pășiți cu grijă.",
+              "Căutați micile adăposturi de-a lungul traseului de drumeție."
+            ],
+            "en": [
+              "Wear waterproof hiking boots as the riverside paths can get muddy.",
+              "A sturdy umbrella or a high-quality rain cape is essential in the valley.",
+              "Plan longer breaks in restaurants to stay dry and warm up.",
+              "The rocks at the Rječina source are very slippery when wet, watch your step.",
+              "Look out for small shelters along the hiking trail."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen in Dražice beginnt mit dem Anblick der raureifbedeckten Dächer. Der heiße Kaffee im Zentrum ist der ideale Startpunkt, bevor man die kühle Stille der Dorfkirche erkundet.\n\nMittags bietet die historische Mühle am Fluss einen faszinierenden Einblick in vergangene Zeiten, während die Wintersonne tief steht. Das anschließende Essen wärmt Leib und Seele.\n\nNachmittags führt die Wanderung zur Rječina-Quelle; die klare Winterluft macht die Sicht besonders scharf. Die Quelle wirkt in der kargen Landschaft fast wie ein verwunschener Ort.\n\nDa die Dämmerung früh einsetzt, beenden wir den Tag mit einem Spaziergang am Flussufer. Das Grobničko polje liegt in der blauen Stunde friedlich und still unter dem Winterhimmel.",
+            "hu": "A deres háztetők látványa köszönti a fagyos reggelt Dražicében. A központi kávézó gőzölgő itala után a falu templomának csendes hűvöse vár felfedezésre.\n\nEbédidőben a folyóparti régi malom különleges hangulatot áraszt a téli napsütésben. A helyi konobában felszolgált forró ételek igazi felüdülést jelentenek a hideg után.\n\nDélután a forráshoz vezető út a tiszta téli levegőben különösen látványos. A kopárabb tájban a víz harsány kékje és a sziklák fehérsége mesebeli kontrasztot alkot.\n\nA korai sötétedés miatt a folyóparti séta már a kék órában ér véget. A Grobnik-mező ilyenkor ünnepi csendbe burkolózik a csillagos téli égbolt alatt.",
+            "ro": "O dimineață geroasă în Dražice începe cu imaginea acoperișurilor pudrate de chiciură. O cafea fierbinte în centru este preludiul perfect pentru vizita la biserica satului.\n\nLa prânz, moara istorică de pe malul râului pare desprinsă din alt timp sub soarele blând de iarnă. Masa caldă ce urmează revigorează spiritul exploratorului.\n\nDupă-amiaza, drumeția spre izvorul Rječinei oferă priveliști clare datorită aerului rece. Izvorul, înconjurat de natura adormită, are o aură magică și sălbatică.\n\nDeoarece amurgul vine devreme, încheiem plimbarea pe malul râului sub lumina albastră a serii. Câmpia Grobniško polje se așterne tăcută sub cerul de iarnă.",
+            "en": "A frosty morning in Dražice begins with the sight of rime-covered rooftops. A steaming cup of coffee in the center is the perfect start before visiting the quiet village church.\n\nAt noon, the historic mill by the river exudes a fascinating atmosphere in the low winter sun. The subsequent lunch warms both body and soul after the outdoor exploration.\n\nIn the afternoon, the hike to the Rječina source offers crisp views through the clear winter air. The spring seems like an enchanted place amidst the sparse winter landscape.\n\nAs dusk falls early, we end the day with a walk along the riverbank. Grobničko polje lies peaceful and still under the vast winter sky during the blue hour."
+          },
+          "stops": [
+            {
+              "name": "Lokales Café im Zentrum",
+              "tip_5lang": {
+                "de": "Genießen Sie einen heißen Kakao zum Aufwärmen.",
+                "hu": "Élvezzen egy forró kakaót a felmelegedéshez.",
+                "ro": "Savurați o ciocolată caldă pentru a vă încălzi.",
+                "en": "Enjoy a hot cocoa to warm up."
+              }
+            },
+            {
+              "name": "Crkva sv. Bartola",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Stille der winterlichen Dorfkirche.",
+                "hu": "Csodálja meg a téli falusi templom nyugalmát.",
+                "ro": "Admirați liniștea bisericii satului pe timp de iarnă.",
+                "en": "Admire the silence of the winter village church."
+              }
+            },
+            {
+              "name": "Grobnički mlin",
+              "tip_5lang": {
+                "de": "Die alte Mühle wirkt im Winterfrost besonders malerisch.",
+                "hu": "A régi malom különösen festői a téli fagyban.",
+                "ro": "Moara veche arată pitoresc sub înghețul iernii.",
+                "en": "The old mill looks particularly picturesque in the frost."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Fragen Sie nach saisonalen Winterspezialitäten wie Sauerkraut.",
+                "hu": "Kérdezzen rá a téli specialitásokra, például a káposztás ételekre.",
+                "ro": "Întrebați de specialitățile de iarnă, cum ar fi varza murată.",
+                "en": "Ask for seasonal winter specialties like sauerkraut."
+              }
+            },
+            {
+              "name": "Wanderung entlang der Rječina",
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Pfad.",
+                "hu": "Ügyeljen az útvonalon előforduló jeges szakaszokra.",
+                "ro": "Fiți atenți la porțiunile înghețate de pe potecă.",
+                "en": "Watch out for icy patches on the trail."
+              }
+            },
+            {
+              "name": "Izvor Rječine",
+              "tip_5lang": {
+                "de": "Das klare Wasser wirkt im Winter fast kristallin.",
+                "hu": "A tiszta víz télen szinte kristályszerűnek tűnik.",
+                "ro": "Apa limpede pare aproape cristalină iarna.",
+                "en": "The clear water looks almost crystalline in winter."
+              }
+            },
+            {
+              "name": "Kurze Rast am Flussufer",
+              "tip_5lang": {
+                "de": "Halten Sie die Pause kurz, um nicht auszukühlen.",
+                "hu": "Tartson rövid pihenőt, hogy ne hűljön ki.",
+                "ro": "Faceți o pauză scurtă pentru a nu vă răci.",
+                "en": "Keep the break short to avoid getting too cold."
+              }
+            },
+            {
+              "name": "Grobničko polje",
+              "tip_5lang": {
+                "de": "Genießen Sie das weiche Licht kurz vor Sonnenuntergang.",
+                "hu": "Élvezze a lágy fényeket röviddel naplemente előtt.",
+                "ro": "Bucurați-vă de lumina caldă chiar înainte de apus.",
+                "en": "Enjoy the soft light shortly before sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Kleidung im Zwiebelprinzip, da es im Tal schattig sein kann.",
+              "Mütze, Schal und Handschuhe sind wegen des oft kalten Windes wichtig.",
+              "Da es gegen 16:30 Uhr dunkel wird, starten Sie früh in den Tag.",
+              "Prüfen Sie vorab die Winter-Öffnungszeiten der lokalen Sehenswürdigkeiten.",
+              "Eine Thermoskanne mit Tee ist ein idealer Begleiter für die Wanderung."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen, mert a völgyben sok az árnyékos, hideg rész.",
+              "A sapka, sál és kesztyű kötelező a gyakori hideg szél miatt.",
+              "Mivel 16:30 körül sötétedik, érdemes korán kezdeni a programot.",
+              "Előre ellenőrizze a látnivalók téli nyitvatartási idejét.",
+              "Egy termosz forró teával kiváló társ lesz a túra során."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece valea poate fi foarte umbrită și rece.",
+              "Căciula, fularul și mănușile sunt vitale din cauza vântului rece.",
+              "Deoarece se întunecă în jur de 16:30, începeți ziua devreme.",
+              "Verificați din timp programul de iarnă al obiectivelor turistice.",
+              "Un termos cu ceai fierbinte este partenerul ideal pentru drumeție."
+            ],
+            "en": [
+              "Dress in layers as the valley can be quite shaded and cold.",
+              "Hat, scarf, and gloves are important due to the frequent cold wind.",
+              "Since it gets dark around 16:30, start your day early.",
+              "Check the winter opening hours of local attractions in advance.",
+              "A thermos with hot tea is an ideal companion for the hike."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -516,6 +742,178 @@
           "Watch out for hikers on combined trails.",
           "A mountain bike is advantageous for forest paths."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Fokus, belohnt aber mit einsamen Wegen. Nach dem Besuch der Kirche geht es zügig zur alten Mühle, wo die Mauern vor der Nässe schützen.\n\nDie Fahrt zur Rječina-Quelle ist heute eine spritzige Angelegenheit. Das Mittagessen in Dražice ist die wohlverdiente Belohnung, um die Glieder wieder aufzuwärmen.\n\nAm Nachmittag führt die Route über das Grobničko polje, wo der Asphalt glänzt und die Luft rein ist. Ein kurzes, intensives Erlebnis der Elemente.\n\nDer Tag endet früh, mit einem heißen Getränk und dem Gefühl, dem Wetter getrotzt zu haben. Die Ruhe im Dorf ist bei Regen fast greifbar.",
+            "hu": "Az esőben való biciklizés figyelmet igényel, de cserébe magányos utakat ad. A templomlátogatás után gyorsan a malom felé vesszük az irányt, ahol a falak védenek a víztől.\n\nA forráshoz vezető út ma igazi kihívás és felfrissülés egyszerre. A dražicei ebéd a jól megérdemelt jutalom, ahol végre átmelegedhetünk.\n\nDélután a Grobnik-mezőn tekerünk, ahol a csillogó aszfalt és a tiszta levegő fogad. Rövid, de intenzív találkozás a természet elemeivel.\n\nA nap korán véget ér egy forró ital mellett, azzal az elégedettséggel, hogy legyőztük az időjárást. A falu nyugalma esőben szinte tapintható.",
+            "ro": "Ciclismul pe ploaie necesită concentrare, dar oferă drumuri libere. După vizita la biserică, pedalăm rapid spre moară, unde zidurile groase ne protejează de umezeală.\n\nDrumul spre izvorul Rječinei este astăzi o aventură plină de stropi. Prânzul în Dražice este recompensa binemeritată pentru a ne încălzi articulațiile.\n\nDupă-amiaza, traseul traversează câmpia Grobniško polje, cu asfaltul strălucind și aerul pur. O experiență scurtă și intensă în mijlocul elementelor naturii.\n\nZiua se încheie devreme, cu o băutură caldă și satisfacția de a fi sfidat vremea. Liniștea satului pe ploaie este aproape palpabilă.",
+            "en": "Cycling in the rain requires focus but rewards you with empty paths. After the church visit, head quickly to the old mill where the walls offer protection from the wet.\n\nThe ride to the Rječina source is a splashy affair today. Lunch in Dražice is the well-earned reward to warm up your limbs.\n\nIn the afternoon, the route takes you across Grobničko polje, where the asphalt shimmers and the air is pure. A brief but intense experience of the elements.\n\nThe day ends early with a hot drink and the feeling of having defied the weather. The village's peace is almost tangible in the rain."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Bartola",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad an einer geschützten Stelle.",
+                "hu": "Parkolja le a biciklit egy védett helyen.",
+                "ro": "Parcați bicicleta într-un loc ferit.",
+                "en": "Park your bike in a sheltered spot."
+              }
+            },
+            {
+              "name": "Grobnički mlin",
+              "tip_5lang": {
+                "de": "Ein guter Stopp, um die Kleidung kurz zu trocknen.",
+                "hu": "Jó megálló a ruházat rövid szárításához.",
+                "ro": "O oprire bună pentru a vă usca scurt hainele.",
+                "en": "A good stop to dry your clothes briefly."
+              }
+            },
+            {
+              "name": "Izvor Rječine",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem unbefestigten Weg zur Quelle.",
+                "hu": "Vigyázzon a forráshoz vezető burkolatlan úton.",
+                "ro": "Atenție pe drumul neasfaltat către izvor.",
+                "en": "Be careful on the unpaved path to the source."
+              }
+            },
+            {
+              "name": "Mittagessen in Dražice",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Platz für nasse Ausrüstung.",
+                "hu": "Keressen olyan helyet, ahol van tér a vizes felszerelésnek.",
+                "ro": "Căutați un local cu spațiu pentru echipamentul ud.",
+                "en": "Look for a place with room for wet gear."
+              }
+            },
+            {
+              "name": "Grobničko polje Runde",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Kurven auf nasser Fahrbahn.",
+                "hu": "Kerülje a gyors kanyarokat a vizes úton.",
+                "ro": "Evitați virajele rapide pe carosabilul umed.",
+                "en": "Avoid sharp turns on wet roads."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche am Fahrrad sind bei diesem Wetter absolut notwendig.",
+              "Tragen Sie auffällige, reflektierende Kleidung für bessere Sichtbarkeit.",
+              "Prüfen Sie Ihre Bremsen vor der Abfahrt, da sich der Bremsweg verlängert.",
+              "Nehmen Sie trockene Wechselkleidung in einer wasserdichten Tasche mit.",
+              "Vermeiden Sie Markierungen auf dem Asphalt, da diese sehr rutschig sein können."
+            ],
+            "hu": [
+              "A sárvédő használata ilyen időben elengedhetetlen.",
+              "Viseljen feltűnő, fényvisszaverő ruházatot a jobb láthatóságért.",
+              "Indulás előtt ellenőrizze a fékeket, mert a fékút vizesen megnő.",
+              "Vigyen magával száraz váltóruhát egy vízálló táskában.",
+              "Kerülje az aszfalton lévő felfestéseket, mert nagyon csúszhatnak."
+            ],
+            "ro": [
+              "Aripile la bicicletă sunt absolut necesare pe această vreme.",
+              "Purtați haine reflectorizante pentru o vizibilitate mai bună.",
+              "Verificați frânele înainte de plecare, distanța de frânare crește.",
+              "Luați haine de schimb uscate într-o geantă impermeabilă.",
+              "Evitați marcajele de pe asfalt, pot fi foarte alunecoase."
+            ],
+            "en": [
+              "Mudguards on your bike are absolutely necessary in this weather.",
+              "Wear bright, reflective clothing for better visibility.",
+              "Check your brakes before starting; stopping distance is increased.",
+              "Bring dry change of clothes in a waterproof bag.",
+              "Avoid road markings on the asphalt as they can be very slippery."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour startet mit erfrischender Kälte und klarer Sicht auf die Berge. Nach einem kurzen Halt an der Kirche wärmt die Bewegung auf dem Weg zur Mühle den Körper auf.\n\nDie Fahrt zur Rječina-Quelle führt durch eine stille, schlafende Landschaft. Die Kälte sorgt dafür, dass man die Umgebung bewusster wahrnimmt, bevor das Mittagessen in Dražice lockt.\n\nNachmittags geht es auf eine zügige Runde über das Grobničko polje. Die tiefstehende Wintersonne wirft lange Schatten und taucht die Ebene in ein goldenes Licht.\n\nDer Tag endet, bevor der Frost anzieht. Ein kurzes, sportliches Abenteuer, das den Kopf frei macht und die winterliche Ruhe des Tals perfekt einfängt.",
+            "hu": "A téli túra frissítő hideggel és a hegyekre nyíló tiszta kilátással indul. A templomi megálló után a malom felé vezető úton a tekerés gyorsan átmelegíti a testet.\n\nA forráshoz vezető út egy csendes, alvó tájon visz keresztül. A hideg segít, hogy tudatosabban figyeljünk a környezetre, mielőtt a dražicei ebéd hívogatóvá válik.\n\nDélután egy gyors kört teszünk a Grobnik-mezőn. Az alacsonyan járó téli nap hosszú árnyékokat vet, és arany fénybe öltözteti a síkságot.\n\nA nap még a komolyabb fagy beállta előtt véget ér. Rövid, sportos kaland, amely kitisztítja a fejet és tökéletesen megragadja a völgy téli nyugalmát.",
+            "ro": "Turul de iarnă începe cu un frig revigorant și o vizibilitate clară spre munți. După o scurtă oprire la biserică, mișcarea pe drumul spre moară încălzește corpul.\n\nDrumul spre izvorul Rječinei trece printr-un peisaj tăcut, adormit. Frigul te face mai atent la detalii înainte ca prânzul din Dražice să devină o prioritate.\n\nDupă-amiaza parcurgem o tură rapidă pe câmpia Grobniško polje. Soarele jos de iarnă aruncă umbre lungi și scaldă câmpia într-o lumină aurie.\n\nZiua se încheie înainte ca gerul să se intensifice. O aventură sportivă scurtă care limpezește mintea și surprinde perfect liniștea hibernală a văii.",
+            "en": "The winter tour starts with refreshing cold and clear views of the mountains. After a brief stop at the church, the movement on the way to the mill warms up the body.\n\nThe ride to the Rječina source leads through a silent, sleeping landscape. The cold makes you more aware of your surroundings before lunch in Dražice beckons.\n\nIn the afternoon, take a brisk round across Grobničko polje. The low winter sun casts long shadows, bathing the plain in a golden light.\n\nThe day ends before the frost sets in. A short, sporty adventure that clears the head and perfectly captures the winter tranquility of the valley."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Bartola",
+              "tip_5lang": {
+                "de": "Kurzer Stopp, um die Finger in den Taschen zu wärmen.",
+                "hu": "Rövid megálló, hogy a zsebünkben felmelegítsük az ujjainkat.",
+                "ro": "Scurtă oprire pentru a vă încălzi degetele în buzunare.",
+                "en": "Brief stop to warm your fingers in your pockets."
+              }
+            },
+            {
+              "name": "Grobnički mlin",
+              "tip_5lang": {
+                "de": "Nutzen Sie den geschützten Standort für einen Schluck Tee.",
+                "hu": "Használja a védett helyet egy korty tea elfogyasztásához.",
+                "ro": "Folosiți locul ferit pentru o gură de ceai.",
+                "en": "Use the sheltered spot for a sip of tea."
+              }
+            },
+            {
+              "name": "Izvor Rječine",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf den Wegen.",
+                "hu": "Ügyeljen az utakon lévő fagyott tócsákra.",
+                "ro": "Atenție la bălțile înghețate de pe drum.",
+                "en": "Watch out for frozen puddles on the paths."
+              }
+            },
+            {
+              "name": "Mittagessen in Dražice",
+              "tip_5lang": {
+                "de": "Setzen Sie sich in die Nähe der Heizung.",
+                "hu": "Üljön a fűtőtest közelébe.",
+                "ro": "Așezați-vă lângă o sursă de căldură.",
+                "en": "Sit near the heater to warm up."
+              }
+            },
+            {
+              "name": "Grobničko polje Runde",
+              "tip_5lang": {
+                "de": "Fahren Sie zügig, um die Körperwärme zu halten.",
+                "hu": "Tekerjen tempósan, hogy megőrizze a testhőjét.",
+                "ro": "Pedalați susținut pentru a menține căldura corpului.",
+                "en": "Ride briskly to maintain body heat."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie winddichte Kleidung, besonders für die Abfahrten.",
+              "Vermeiden Sie das Auskühlen durch zu lange Pausen im Freien.",
+              "Achten Sie auf Schattenbereiche, dort kann es glatt sein.",
+              "Trinken Sie auch bei Kälte genug, am besten warme Getränke.",
+              "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert."
+            ],
+            "hu": [
+              "Viseljen szélálló ruházatot, különösen a lejtőkön.",
+              "Kerülje el a kihűlést, ne tartson túl hosszú szüneteket kint.",
+              "Ügyeljen az árnyékos részekre, ott jeges lehet az út.",
+              "Igyon eleget hidegben is, lehetőleg meleg italokat.",
+              "Győződjön meg róla, hogy a kerékpár lámpái jól működnek."
+            ],
+            "ro": [
+              "Purtați haine rezistente la vânt, în special pentru coborâri.",
+              "Evitați răcirea corpului prin pauze prea lungi în aer liber.",
+              "Atenție la zonele umbrite, acolo poate fi polei.",
+              "Beți suficiente lichide, preferabil băuturi calde.",
+              "Asigurați-vă că luminile bicicletei funcționează corect."
+            ],
+            "en": [
+              "Wear windproof clothing, especially for the descents.",
+              "Avoid getting chilled by keeping outdoor breaks short.",
+              "Watch out for shaded areas as they can be icy.",
+              "Stay hydrated even in the cold, preferably with warm drinks.",
+              "Ensure your bike lights are in good working order."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -758,6 +1156,214 @@
           "The roads on the field can be dusty.",
           "Free parking is available in the center."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag ist perfekt für eine entspannte Autotour durch das Tal. Das Zentrum von Dražice und die Kirche sind bequem erreichbar, während der Regen gegen die Scheiben trommelt.\n\nDie Fahrt geht weiter zur alten Mühle, die im Regen eine besonders nostalgische Atmosphäre versprüht. Das Auto bietet dabei stets einen trockenen Rückzugsort zwischen den Stopps.\n\nMittags genießen Sie die lokale Küche in Dražice, ohne sich Sorgen um das Wetter machen zu müssen. Danach führt die Fahrt zum Parkplatz an der Rječina-Quelle.\n\nDer kurze Weg zur Quelle lohnt sich auch bei Regen, da das Wasser kraftvoll hervorsprudelt. Zum Abschluss bietet die Fahrt über das Grobničko polje weite Ausblicke auf die wolkenverhangene Ebene.",
+            "hu": "Egy esős nap tökéletes egy kényelmes autós túrához a völgyben. Dražice központja és a templom könnyen elérhető, miközben az eső kopog a szélvédőn.\n\nFolytatjuk utunkat a régi malomhoz, amely esőben különösen nosztalgikus hangulatot áraszt. Az autó biztonságos, száraz menedéket nyújt a megállók között.\n\nEbédidőben Dražice helyi ízeit élvezzük, nem törődve a kinti időjárással. Ezután a Rječina-forrás melletti parkolóhoz autózunk.\n\nA forráshoz vezető rövid séta esőben is megéri, mert a víz ilyenkor elemi erővel tör fel. Végezetül a Grobnik-mezőn át autózva gyönyörködhetünk a felhőkbe burkolózó síkságban.",
+            "ro": "O zi ploioasă este ideală pentru un tur relaxat cu mașina prin vale. Centrul din Dražice și biserica sunt ușor accesibile, în timp ce ploaia bate în parbriz.\n\nCălătoria continuă spre moara veche, care emană o atmosferă nostalgică pe timp de ploaie. Mașina oferă un refugiu uscat între punctele de oprire.\n\nLa prânz ne bucurăm de bucătăria locală din Dražice, fără grija vremii. Ulterior, conducem spre parcarea de lângă izvorul Rječinei.\n\nScurta plimbare până la izvor merită chiar și pe ploaie, apa țâșnind cu forță. La final, drumul prin câmpia Grobniško polje oferă vederi largi asupra câmpiei noroase.",
+            "en": "A rainy day is perfect for a relaxed car tour through the valley. Dražice center and the church are easily accessible while the rain drums against the windows.\n\nThe drive continues to the old mill, which exudes a particularly nostalgic atmosphere in the rain. The car remains a dry retreat between stops.\n\nAt noon, enjoy local cuisine in Dražice without worrying about the weather. Then, drive to the parking area near the Rječina source.\n\nThe short walk to the source is worth it even in the rain as the water gushes forth powerfully. To finish, the drive across Grobničko polje offers wide views of the cloud-covered plain."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Dražice Zentrum",
+              "tip_5lang": {
+                "de": "Parken Sie zentral für kurze Wege zu den Gebäuden.",
+                "hu": "Parkoljon központilag a rövid gyalogutak érdekében.",
+                "ro": "Parcați central pentru acces rapid la clădiri.",
+                "en": "Park centrally for short walks to the buildings."
+              }
+            },
+            {
+              "name": "Crkva sv. Bartola (Cluster A)",
+              "tip_5lang": {
+                "de": "Direkt vor der Kirche gibt es meist gute Parkmöglichkeiten.",
+                "hu": "Közvetlenül a templom előtt általában jó parkolási lehetőség van.",
+                "ro": "De regulă, există locuri de parcare bune chiar în fața bisericii.",
+                "en": "There are usually good parking options right in front of the church."
+              }
+            },
+            {
+              "name": "Grobnički mlin (Cluster A)",
+              "tip_5lang": {
+                "de": "Halten Sie kurz an der Brücke für ein Foto im Regen.",
+                "hu": "Álljon meg röviden a hídnál egy esős fotóért.",
+                "ro": "Opriți scurt la pod pentru o fotografie pe ploaie.",
+                "en": "Stop briefly at the bridge for a photo in the rain."
+              }
+            },
+            {
+              "name": "Cluster B: Izvor Rječine Parkplatz",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz als Basis für den kurzen Quell-Besuch.",
+                "hu": "Használja a parkolót bázisként a forrás rövid meglátogatásához.",
+                "ro": "Folosiți parcarea ca bază pentru scurta vizită la izvor.",
+                "en": "Use the parking lot as a base for the short source visit."
+              }
+            },
+            {
+              "name": "Izvor Rječine (Cluster B)",
+              "tip_5lang": {
+                "de": "Nur 10 Minuten Fußweg vom Auto – ideal bei Regen.",
+                "hu": "Csak 10 perc gyalog az autótól – ideális esőben.",
+                "ro": "Doar 10 minute de mers de la mașină – ideal pe ploaie.",
+                "en": "Only a 10-minute walk from the car – ideal in the rain."
+              }
+            },
+            {
+              "name": "Mittagessen in Dražice",
+              "tip_5lang": {
+                "de": "Viele Restaurants haben Parkplätze direkt vor der Tür.",
+                "hu": "Sok étteremnek van parkolója közvetlenül a bejáratnál.",
+                "ro": "Multe restaurante au parcare chiar în fața ușii.",
+                "en": "Many restaurants have parking right in front of the door."
+              }
+            },
+            {
+              "name": "Cluster C: Grobničko polje",
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht gemütlich aus dem trockenen Auto.",
+                "hu": "Élvezze a kilátást kényelmesen a száraz autóból.",
+                "ro": "Admirați priveliștea confortabil din mașina uscată.",
+                "en": "Enjoy the view comfortably from the dry car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vorsicht vor Aquaplaning auf der Schnellstraße nach Rijeka.",
+              "Halten Sie die Scheinwerfer bei starkem Regen eingeschaltet.",
+              "Ein Regenschirm im Kofferraum ist nützlich für die Wege zum Auto.",
+              "Achten Sie auf tiefe Pfützen an den Straßenrändern.",
+              "Nutzen Sie die Scheibenheizung, um das Beschlagen zu verhindern."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra (aquaplaning) a Rijeka felé vezető úton.",
+              "Erős esőben tartsa bekapcsolva a fényszórókat.",
+              "Egy esernyő a csomagtartóban jól jöhet a parkolótól a bejáratig.",
+              "Ügyeljen a mély tócsákra az út szélén.",
+              "Használja a szélvédőfűtést a párásodás megelőzésére."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul rapid către Rijeka.",
+              "Păstrați farurile aprinse în caz de ploaie torențială.",
+              "O umbrelă în portbagaj este utilă pentru drumul până la mașină.",
+              "Atenție la bălțile adânci de pe marginea drumului.",
+              "Folosiți degivrarea parbrizului pentru a preveni aburirea."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the fast road to Rijeka.",
+              "Keep your headlights on during heavy rain.",
+              "An umbrella in the trunk is useful for the walk to the car.",
+              "Watch out for deep puddles at the road edges.",
+              "Use the windshield heater to prevent fogging."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour beginnt mit dem Blick auf die schneebedeckten Gipfel des Gorski Kotar im Hintergrund. Dražice wirkt im Winterlicht ruhig und beschaulich.\n\nDie Fahrt führt zu den historischen Clustern, wobei die Heizung im Auto für wohlige Wärme sorgt. Die alte Mühle am Fluss ist auch im Winter ein beeindruckendes Fotomotiv.\n\nMittags kehren wir in ein gemütliches Lokal in Dražice ein. Gut gestärkt geht es danach zum Parkplatz nahe der Rječina-Quelle, wo die klare Luft die Sinne schärft.\n\nDer Besuch der Quelle im Winter ist kurz, aber intensiv. Den Abschluss bildet die Fahrt über das weite Grobničko polje, das in der frühen Abendsonne eine majestätische Ruhe ausstrahlt.",
+            "hu": "A téli autós túra a Gorski Kotar hófedte csúcsainak látványával indul a háttérben. Dražice a téli fényben csendes és megnyugtató arcát mutatja.\n\nAz út a történelmi helyszínekhez vezet, miközben az autó fűtése kellemes meleget ad. A folyóparti régi malom télen is lenyűgöző fotótéma.\n\nEbédre egy hangulatos dražicei étterembe térünk be. Megújulva folytatjuk utunkat a Rječina-forrás közeli parkolójához, ahol a tiszta levegő felfrissít.\n\nA forrás meglátogatása télen rövid, de intenzív élmény. A napot a tágas Grobnik-mezőn való átautózás zárja, amely a kora esti napfényben fenséges nyugalmat áraszt.",
+            "ro": "Un tur cu mașina pe timp de iarnă începe cu vederea vârfurilor înzăpezite ale munților Gorski Kotar. Dražice pare liniștit și pitoresc sub lumina iernii.\n\nDrumul ne poartă către punctele istorice, căldura din mașină oferind un confort sporit. Moara veche de pe râu rămâne un subiect foto impresionant și iarna.\n\nLa prânz ne oprim într-un local primitor din Dražice. După masă, conducem spre parcarea de lângă izvorul Rječinei, unde aerul curat ne trezește simțurile.\n\nVizita la izvor iarna este scurtă, dar memorabilă. Încheiem ziua cu o traversare a câmpiei Grobniško polje, care emană o liniște maiestuoasă sub soarele de seară.",
+            "en": "A winter car tour begins with views of the snow-capped Gorski Kotar peaks in the background. Dražice appears quiet and contemplative in the winter light.\n\nThe drive leads to historical clusters while the car's heater provides cozy warmth. The old mill by the river remains an impressive photo subject even in winter.\n\nAt noon, we stop at a cozy restaurant in Dražice. Refreshed, we head to the parking lot near the Rječina source, where the crisp air sharpens the senses.\n\nA winter visit to the source is brief but intense. We conclude the day with a drive across the vast Grobničko polje, which radiates majestic calm in the early evening sun."
+          },
+          "stops": [
+            {
+              "name": "Cluster A: Dražice Zentrum",
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf dem Parkplatz.",
+                "hu": "Ügyeljen a parkolóban előforduló jeges foltokra.",
+                "ro": "Atenție la porțiunile înghețate din parcare.",
+                "en": "Watch out for icy spots in the parking lot."
+              }
+            },
+            {
+              "name": "Crkva sv. Bartola (Cluster A)",
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Stille auf dem Kirchplatz.",
+                "hu": "Élvezze a téli csendet a templomtéren.",
+                "ro": "Bucurați-vă de liniștea hibernală din piața bisericii.",
+                "en": "Enjoy the winter silence in the church square."
+              }
+            },
+            {
+              "name": "Grobnički mlin (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Brücke kann im Winter sehr glatt sein.",
+                "hu": "A híd télen nagyon csúszós lehet.",
+                "ro": "Podul poate fi foarte alunecos iarna.",
+                "en": "The bridge can be very slippery in winter."
+              }
+            },
+            {
+              "name": "Cluster B: Izvor Rječine Parkplatz",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Fahrzeug wintertauglich ist.",
+                "hu": "Győződjön meg róla, hogy autója fel van készítve a télre.",
+                "ro": "Asigurați-vă că vehiculul este echipat pentru iarnă.",
+                "en": "Ensure your vehicle is winter-ready."
+              }
+            },
+            {
+              "name": "Izvor Rječine (Cluster B)",
+              "tip_5lang": {
+                "de": "Tragen Sie gute Winterschuhe für den kurzen Fußweg.",
+                "hu": "Viseljen jó téli cipőt a rövid gyalogúthoz.",
+                "ro": "Purtați încălțăminte de iarnă bună pentru scurta plimbare.",
+                "en": "Wear good winter shoes for the short walk."
+              }
+            },
+            {
+              "name": "Mittagessen in Dražice",
+              "tip_5lang": {
+                "de": "Ein warmer Stopp ist im Winter besonders wichtig.",
+                "hu": "A meleg pihenő télen különösen fontos.",
+                "ro": "O oprire la căldură este esențială iarna.",
+                "en": "A warm stop is especially important in winter."
+              }
+            },
+            {
+              "name": "Cluster C: Grobničko polje",
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, falls Raureif auf der Straße liegt.",
+                "hu": "Vezessen óvatosan, ha dér van az úton.",
+                "ro": "Conduceți cu atenție dacă există chiciură pe drum.",
+                "en": "Drive carefully if there is rime on the road."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in dieser Region ab November gesetzlich vorgeschrieben.",
+              "Prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage.",
+              "Halten Sie eine Decke und einen Eiskratzer im Auto bereit.",
+              "Planen Sie mehr Zeit für die Fahrt ein, falls es geschneit hat.",
+              "Die Bergstraßen können früher gefrieren als die Wege im Tal."
+            ],
+            "hu": [
+              "A téli gumi használata ebben a régióban novembertől kötelező.",
+              "Ellenőrizze a fagyállót a szélvédőmosó tartályban.",
+              "Legyen az autóban takaró és jégkaparó.",
+              "Tervezzen több időt az utazásra, ha esett a hó.",
+              "A hegyi utak korábban lefagyhatnak, mint a völgyi szakaszok."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în această regiune din noiembrie.",
+              "Verificați antigelul din lichidul de parbriz.",
+              "Păstrați o pătură și o racletă pentru gheață în mașină.",
+              "Alocați mai mult timp călătoriei dacă a nins.",
+              "Drumurile montane pot îngheța mai devreme decât cele din vale."
+            ],
+            "en": [
+              "Winter tires are mandatory in this region from November.",
+              "Check the antifreeze level in your windshield washer fluid.",
+              "Keep a blanket and an ice scraper in the car.",
+              "Allow extra travel time if it has snowed.",
+              "Mountain roads may freeze earlier than valley paths."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -964,6 +1570,178 @@
           "Check the bus schedule online in advance.",
           "Tickets can be purchased from the driver."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen Sie das Zentrum von Dražice trocken und entspannt. Die Wartezeit an der Haltestelle lässt sich durch die zentrale Lage gut überbrücken.\n\nNach der Besichtigung der Kirche ist der Fußweg zur Mühle kurz. Bei Regen wirkt das Rauschen des Wassers an der Mühle noch intensiver und uriger.\n\nDas Mittagessen in einer Konoba ist der perfekte Ort, um den Regenschauer abzuwarten. Danach bietet ein Spaziergang zur Rječina frische, saubere Luft.\n\nDer Tag endet an der Bushaltestelle, während die Lichter des Dorfes im nassen Asphalt reflektieren. Ein entschleunigter Tag, der die Natur trotz Regen erlebbar macht.",
+            "hu": "Busszal szárazon és pihenten érkezünk Dražice központjába. A megálló központi elhelyezkedése miatt a várakozási idő is hasznosan tölthető.\n\nA templom megtekintése után rövid séta vezet a malomhoz. Esőben a malomnál zúgó víz hangja még intenzívebb és hangulatosabb.\n\nA konobában elköltött ebéd tökéletes alkalom az eső kivárására. Ezután a Rječina felé tett séta során élvezhetjük a friss, tiszta levegőt.\n\nA nap a buszmegállóban ér véget, miközben a falu fényei visszatükröződnek a vizes aszfalton. Nyugodt nap, amely az eső ellenére is közel hozza a természetet.",
+            "ro": "Cu autobuzul ajungeți în centrul localității Dražice fără a vă uda. Poziția centrală a stației permite gestionarea ușoară a timpului de așteptare.\n\nDupă vizitarea bisericii, drumul până la moară este scurt. Pe ploaie, vuietul apei la moară pare mai intens și mai pitoresc.\n\nPrânzul la o konoba este momentul ideal pentru a lăsa ploaia să treacă. Apoi, o plimbare spre Rječina vă oferă un aer proaspăt și curat.\n\nZiua se încheie în stația de autobuz, cu luminile satului reflectându-se în asfaltul ud. O zi lentă, care face natura accesibilă în ciuda ploii.",
+            "en": "Reach Dražice center dry and relaxed by bus. The central location of the bus stop makes managing any waiting time very easy.\n\nAfter visiting the church, the walk to the mill is short. In the rain, the sound of the rushing water at the mill feels even more intense and rustic.\n\nLunch at a konoba is the perfect place to wait out a rain shower. Afterward, a walk toward the Rječina offers fresh, clean air.\n\nThe day ends at the bus stop as the village lights reflect in the wet asphalt. A slow-paced day that makes nature accessible despite the rain."
+          },
+          "stops": [
+            {
+              "name": "Busstation Dražice Zentrum",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist teilweise überdacht.",
+                "hu": "A buszmegálló részben fedett.",
+                "ro": "Stația de autobuz este parțial acoperită.",
+                "en": "The bus stop is partially sheltered."
+              }
+            },
+            {
+              "name": "Crkva sv. Bartola",
+              "tip_5lang": {
+                "de": "Nur wenige Minuten Fußweg von der Bushaltestelle.",
+                "hu": "Csak pár perc gyalog a buszmegállótól.",
+                "ro": "La doar câteva minute de mers de la stație.",
+                "en": "Only a few minutes' walk from the bus stop."
+              }
+            },
+            {
+              "name": "Grobnički mlin",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Weg entlang der Straße für festen Untergrund.",
+                "hu": "Használja az út menti járdát a szilárd talaj érdekében.",
+                "ro": "Folosiți trotuarul de la drum pentru o suprafață stabilă.",
+                "en": "Use the roadside path for a firm surface."
+              }
+            },
+            {
+              "name": "Mittagessen in lokaler Konoba",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Lokal in der Nähe der Rückfahrt-Haltestelle.",
+                "hu": "Válasszon éttermet a visszautat biztosító megálló közelében.",
+                "ro": "Alegeți un local aproape de stația pentru întoarcere.",
+                "en": "Choose a place near the return bus stop."
+              }
+            },
+            {
+              "name": "Spaziergang zur Rječina",
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg rechtzeitig zum Busfahrplan ein.",
+                "hu": "Tervezze a visszautat a buszmenetrendhez igazítva.",
+                "ro": "Planificați întoarcerea conform orarului autobuzelor.",
+                "en": "Plan your return walk according to the bus schedule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Laden Sie sich die lokale Bus-App für Echtzeit-Infos herunter.",
+              "Haben Sie Kleingeld für das Ticket bereit, falls nötig.",
+              "Nutzen Sie die Wartezeit in den Cafés nahe der Haltestellen.",
+              "Tragen Sie eine auffällige Regenjacke, um an der Straße gesehen zu werden.",
+              "Prüfen Sie die Wochenend-Fahrpläne, die oft seltener sind."
+            ],
+            "hu": [
+              "Töltse le a helyi buszos alkalmazást a valós idejű infókért.",
+              "Legyen Önnél aprópénz a jegyvásárláshoz, ha szükséges.",
+              "A várakozási időt töltse a megállók közeli kávézókban.",
+              "Viseljen feltűnő esőkabátot, hogy jól látható legyen az út mentén.",
+              "Ellenőrizze a hétvégi menetrendet, mert olyankor ritkábban járnak a buszok."
+            ],
+            "ro": [
+              "Descărcați aplicația locală de transport pentru info în timp real.",
+              "Aveți pregătit mărunt pentru bilet, dacă este necesar.",
+              "Folosiți cafenelele de lângă stații pentru timpul de așteptare.",
+              "Purtați o pelerină colorată pentru a fi vizibil pe marginea drumului.",
+              "Verificați orarul de weekend, autobuzele circulă mai rar."
+            ],
+            "en": [
+              "Download the local bus app for real-time information.",
+              "Have small change ready for the ticket if needed.",
+              "Spend your waiting time in cafes near the bus stops.",
+              "Wear a bright raincoat to be visible along the roadside.",
+              "Check weekend schedules as buses often run less frequently."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Bus bringt Sie direkt in das Herz von Dražice, wo der winterliche Charme des Tals beginnt. Ein heißer Kaffee nahe der Haltestelle wärmt vor dem ersten Spaziergang auf.\n\nDie historischen Sehenswürdigkeiten sind auch im Winter gut zu Fuß erreichbar. Die klare Luft macht den Weg zur alten Mühle zu einem erfrischenden Erlebnis.\n\nMittags bietet eine warme Konoba Zuflucht vor der Kälte. Danach führt ein kleiner Spaziergang zur Rječina, wobei man die winterliche Stille der Natur genießen kann.\n\nDa die Busse im Winter seltener fahren können, beenden wir den Tag rechtzeitig im Dorf. Die beleuchteten Fenster der Häuser verbreiten eine heimelige Atmosphäre am Abend.",
+            "hu": "A busz egyenesen Dražice szívébe visz, ahol a völgy téli varázsa kezdődik. Egy forró kávé a megálló közelében tökéletes bemelegítés az első séta előtt.\n\nA történelmi látnivalók télen is könnyen elérhetők gyalog. A tiszta levegő frissítő élménnyé teszi a malom felé vezető utat.\n\nEbédidőben egy meleg konoba nyújt menedéket a hideg elől. Ezután egy rövid séta a Rječina felé lehetővé teszi a természet téli nyugalmának élvezetét.\n\nMivel télen a buszok ritkábban járhatnak, időben befejezzük a napot a faluban. A házak kivilágított ablakai otthonos hangulatot árasztanak az este beálltával.",
+            "ro": "Autobuzul vă lasă chiar în inima localității Dražice, unde începe farmecul de iarnă al văii. O cafea fierbinte lângă stație vă pregătește pentru prima plimbare.\n\nObiectivele istorice sunt ușor accesibile pe jos chiar și iarna. Aerul curat transformă drumul spre moara veche într-o experiență revigorantă.\n\nLa prânz, o konoba caldă oferă refugiu împotriva gerului. Apoi, o scurtă plimbare spre Rječina vă permite să savurați liniștea hibernală a naturii.\n\nDeoarece autobuzele pot circula mai rar iarna, încheiem ziua la timp în sat. Ferestrele luminate ale caselor răspândesc o atmosferă primitoare seara.",
+            "en": "The bus takes you straight to the heart of Dražice, where the valley's winter charm begins. A hot coffee near the stop warms you up before your first walk.\n\nHistorical sights are easily reachable on foot even in winter. The crisp air makes the walk to the old mill a refreshing experience.\n\nAt noon, a warm konoba offers refuge from the cold. Afterward, a short walk toward the Rječina allows you to enjoy the winter stillness of nature.\n\nAs buses may run less frequently in winter, we conclude the day in the village on time. The lit windows of the houses create a cozy atmosphere in the evening."
+          },
+          "stops": [
+            {
+              "name": "Busstation Dražice Zentrum",
+              "tip_5lang": {
+                "de": "Warten Sie im Inneren des Wartehäuschens.",
+                "hu": "Várjon a buszváró belső részében.",
+                "ro": "Așteptați în interiorul adăpostului din stație.",
+                "en": "Wait inside the bus shelter."
+              }
+            },
+            {
+              "name": "Crkva sv. Bartola",
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Winterspaziergang von der Haltestelle.",
+                "hu": "Rövid, frissítő téli séta a megállótól.",
+                "ro": "O plimbare scurtă și revigorantă de la stație.",
+                "en": "A short, brisk winter walk from the stop."
+              }
+            },
+            {
+              "name": "Grobnički mlin",
+              "tip_5lang": {
+                "de": "Die Wege können im Schatten gefroren sein.",
+                "hu": "Az árnyékos utakon fagyott szakaszok lehetnek.",
+                "ro": "Potecile de la umbră pot fi înghețate.",
+                "en": "Paths in the shade may be frozen."
+              }
+            },
+            {
+              "name": "Mittagessen in lokaler Konoba",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme der Gaststube.",
+                "hu": "Élvezze a vendéglő belső melegét.",
+                "ro": "Bucurați-vă de căldura din interiorul localului.",
+                "en": "Enjoy the warmth of the indoor dining area."
+              }
+            },
+            {
+              "name": "Spaziergang zur Rječina",
+              "tip_5lang": {
+                "de": "Kehren Sie vor Einbruch der Dunkelheit zur Haltestelle zurück.",
+                "hu": "Térjen vissza a megállóhoz még sötétedés előtt.",
+                "ro": "Întoarceți-vă la stație înainte de lăsarea întunericului.",
+                "en": "Return to the bus stop before dark."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie die Winterfahrpläne der Linie 12.",
+              "Dunkle Kleidung ist im Winter schwerer zu sehen, tragen Sie Reflektoren.",
+              "Halten Sie sich in der Nähe von Geschäften auf, um sich aufzuwärmen.",
+              "Die Busse sind meist gut beheizt, ideal zum Aufwärmen.",
+              "Planen Sie Pufferzeiten für wetterbedingte Verspätungen ein."
+            ],
+            "hu": [
+              "Ügyeljen a 12-es járat téli menetrendjére.",
+              "A sötét ruházat nehezebben látható, viseljen fényvisszaverőt.",
+              "Tartózkodjon üzletek közelében, ha fel szeretne melegedni.",
+              "A buszok általában jól fűtöttek, ideálisak az átmelegedéshez.",
+              "Tervezzen be tartalékidőt az időjárás okozta késésekre."
+            ],
+            "ro": [
+              "Respectați orarul de iarnă al liniei 12.",
+              "Hainele închise la culoare sunt greu de observat, purtați reflectorizante.",
+              "Stați în apropierea magazinelor pentru a vă încălzi.",
+              "Autobuzele sunt de regulă bine încălzite, ideale pentru revigorare.",
+              "Alocați timp suplimentar pentru eventuale întârzieri din cauza vremii."
+            ],
+            "en": [
+              "Observe the winter schedules for line 12.",
+              "Dark clothing is harder to see; wear reflectors.",
+              "Stay near shops to warm up while waiting.",
+              "Buses are usually well-heated, ideal for warming up.",
+              "Allow extra time for weather-related delays."
+            ]
+          }
+        }
       }
     }
   }

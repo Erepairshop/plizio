@@ -274,6 +274,188 @@
           "Visit the summer houses in the morning for the best light.",
           "The area is much quieter than Dubrovnik's Old Town."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit dem Rauschen des Regens auf dem Fluss Ombla, ideal für einen verlängerten Kaffee im Trockenen. Mittags bietet die lokale Konoba Schutz und herzhafte dalmatinische Küche, während draußen die grauen Wolken über die Bucht ziehen. Am Nachmittag besichtigen wir das historische Landhaus, dessen dicke Mauern Geborgenheit vermitteln. Den Tag lassen wir mit einem kurzen, erfrischenden Spaziergang an der Riva ausklingen, wenn das Licht der Straßenlaternen im nassen Asphalt glänzt.",
+            "hu": "A reggel az Ombla folyóra hulló eső kopogásával indul, ami tökéletes alkalmat ad egy hosszabb kávézáshoz a fedett parton. Délben egy helyi konoba nyújt menedéket és laktató dalmát ételeket, miközben a szürke felhők megülnek az öböl felett. Délután a történelmi udvarház vastag falai között kalandozunk, elkerülve a záporokat. A napot egy rövid, frissítő sétával zárjuk a parton, ahol a lámpák fényei megcsillannak a vizes aszfalton.",
+            "ro": "Dimineața începe cu sunetul ploii pe râul Ombla, ideal pentru o cafea prelungită într-un loc acoperit. La prânz, o konoba locală oferă adăpost și preparate dalmate consistente, în timp ce norii gri plutesc peste golf. După-amiaza vizităm conacul istoric, ale cărui ziduri groase oferă protecție împotriva vremii. Încheiem ziua cu o scurtă plimbare revigorantă pe mal, unde luminile stradale se reflectă în asfaltul umed.",
+            "en": "The morning starts with the sound of rain on the Ombla river, perfect for an extended coffee in a sheltered spot. At noon, a local konoba provides refuge and hearty Dalmatian dishes while gray clouds hang over the bay. In the afternoon, we explore the historical villa, where thick walls offer protection from the showers. We end the day with a short, refreshing walk along the Riva, where the streetlights reflect in the wet pavement."
+          },
+          "stops": [
+            {
+              "name": "Morgendlicher Kaffee am Flussufer / Reggeli kávé a parton",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Platz im Innenbereich mit Blick auf die regnerische Flussmündung.",
+                "hu": "Válasszunk belső asztalt, ahonnan rálátni az eső áztatta folyótorkolatra.",
+                "ro": "Alegeți o masă în interior cu vedere spre gura râului sub ploaie.",
+                "en": "Choose an indoor table with a view of the rainy river mouth."
+              }
+            },
+            {
+              "name": "Izvor Omble",
+              "tip_5lang": {
+                "de": "Die Quelle ist nach Regenfällen besonders kraftvoll; Vorsicht auf den rutschigen Steinen.",
+                "hu": "A forrás eső után különösen bővizű; vigyázzunk a csúszós köveken.",
+                "ro": "Izvorul este spectaculos după ploaie; atenție la pietrele alunecoase.",
+                "en": "The source is powerful after rain; be careful on the slippery rocks."
+              }
+            },
+            {
+              "name": "Ljetnikovac Gučetić-Đurđević",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenhof als Regenschutz und bewundern Sie die Steinmetzkunst.",
+                "hu": "Használjuk a belső udvart esővédőként, és csodáljuk meg a kőfaragásokat.",
+                "ro": "Folosiți curtea interioară ca adăpost și admirați detaliile în piatră.",
+                "en": "Use the inner courtyard for shelter and admire the stonework."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba / Ebéd egy konobában",
+              "tip_5lang": {
+                "de": "Bestellen Sie Peka oder eine warme Suppe, um sich aufzuwärmen.",
+                "hu": "Rendeljünk pekát vagy egy meleg levest, hogy átmelegedjünk.",
+                "ro": "Comandați peka sau o supă caldă pentru a vă încălzi.",
+                "en": "Order a peka or a warm soup to warm up."
+              }
+            },
+            {
+              "name": "Riva-Spaziergang in Mokošica / Mokošica-i parti séta",
+              "tip_5lang": {
+                "de": "Ein stabiler Regenschirm ist bei Küstenwinden unerlässlich.",
+                "hu": "Egy strapabíró esernyő elengedhetetlen a parti szélnél.",
+                "ro": "O umbrelă rezistentă este esențială din cauza vântului de coastă.",
+                "en": "A sturdy umbrella is essential with the coastal winds."
+              }
+            },
+            {
+              "name": "Aussichtspunkt auf die Bucht / Kilátó az öbölre",
+              "tip_5lang": {
+                "de": "Die Wolkendecke über der Adria wirkt bei Regen oft dramatisch.",
+                "hu": "A felhőzet az Adria felett gyakran drámai látványt nyújt esőben.",
+                "ro": "Nori deasupra Adriaticii oferă adesea un peisaj dramatic pe ploaie.",
+                "en": "The cloud cover over the Adriatic often looks dramatic in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Schuhe, da sich auf der Riva Pfützen bilden können.",
+              "Die Konobas in Mokošica sind meist beheizt und bieten gemütlichen Unterschlupf.",
+              "Der Bus 1A oder 1B hält oft in der Nähe der Sehenswürdigkeiten, falls der Regen stärker wird.",
+              "Die Ombla-Quelle führt bei Regen mehr Wasser und ist akustisch beeindruckender."
+            ],
+            "hu": [
+              "Viseljünk vízálló cipőt, mert a parton tócsák alakulhatnak ki.",
+              "A mokošicai konobák általában fűtöttek és barátságos menedéket nyújtanak.",
+              "Az 1A vagy 1B busz megállói közel vannak, ha túl erőssé válna az eső.",
+              "Az Ombla-forrás esőben jóval harsányabb és látványosabb."
+            ],
+            "ro": [
+              "Purtați încălțăminte impermeabilă, deoarece pe faleză se pot forma bălți.",
+              "Konobele din Mokošica sunt de obicei încălzite și oferă un refugiu primitor.",
+              "Autobuzele 1A sau 1B au stații aproape de obiective în caz de ploaie torențială.",
+              "Izvorul Ombla are un debit mai mare pe ploaie și este mai impresionant acustic."
+            ],
+            "en": [
+              "Wear waterproof shoes as puddles can form on the Riva.",
+              "Konobas in Mokošica are usually heated and offer a cozy retreat.",
+              "Bus 1A or 1B stops are close to the sights if the rain gets too heavy.",
+              "The Ombla source carries more water during rain and is more impressive acoustically."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht den Blick auf die Ombla-Quelle besonders scharf. Mittags genießen wir die Ruhe abseits der Touristenströme in einer warmen Konoba bei traditionellen Eintöpfen. Am frühen Nachmittag nutzen wir das sanfte Sonnenlicht für Fotos am Landhaus, bevor die Sonne gegen 16:30 Uhr hinter den Hügeln verschwindet. Den Abend verbringen wir bei einem heißen Getränk in Mokošica, während die Bura den Himmel rein fegt.",
+            "hu": "A tiszta téli levegőben az Ombla-forrás látványa különösen éles és tiszta. Délben a turistaáradattól mentes nyugalmat élvezzük egy fűtött konobában, hagyományos egytálételek társaságában. Kora délután kihasználjuk a lágy napsütést az udvarháznál, mielőtt a nap 16:30 körül eltűnik a dombok mögött. Az estét egy forró ital mellett töltjük Mokošicában, miközben a bóra tisztára sepri az eget.",
+            "ro": "Aerul curat de iarnă face ca vederea spre izvorul Ombla să fie extrem de clară. La prânz ne bucurăm de liniștea fără turiști într-o konoba caldă, savurând mâncăruri tradiționale. Profităm de lumina blândă de după-amiază pentru fotografii la conac, înainte ca soarele să apună după dealuri în jur de 16:30. Seara o petrecem cu o băutură caldă în Mokošica, în timp ce vântul Bura curăță cerul.",
+            "en": "The crisp winter air makes the view of the Ombla source particularly sharp. At noon, we enjoy the peace away from tourist crowds in a warm konoba with traditional stews. In the early afternoon, we take advantage of the soft sunlight for photos at the villa before the sun sets behind the hills around 4:30 PM. We spend the evening with a hot drink in Mokošica while the Bura wind sweeps the sky clear."
+          },
+          "stops": [
+            {
+              "name": "Morgendlicher Kaffee am Flussufer / Reggeli kávé a parton",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe; im Winter sind fast nur Einheimische hier.",
+                "hu": "Élvezzük a csendet; télen szinte csak helyieket találni itt.",
+                "ro": "Bucurați-vă de liniște; iarna sunt aproape doar localnici aici.",
+                "en": "Enjoy the peace; in winter, you'll find mostly locals here."
+              }
+            },
+            {
+              "name": "Izvor Omble",
+              "tip_5lang": {
+                "de": "Die kühle Luft verstärkt das Gefühl von Frische an der Quelle.",
+                "hu": "A hűvös levegő felerősíti a forrás frissességének érzetét.",
+                "ro": "Aerul rece accentuează senzația de prospețime de la izvor.",
+                "en": "The cool air enhances the feeling of freshness at the source."
+              }
+            },
+            {
+              "name": "Ljetnikovac Gučetić-Đurđević",
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die Textur der alten Mauern schön hervor.",
+                "hu": "A téli fények szépen kiemelik a régi falak textúráját.",
+                "ro": "Lumina de iarnă scoate în evidență textura zidurilor vechi.",
+                "en": "The winter light beautifully highlights the texture of the old walls."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba / Ebéd egy konobában",
+              "tip_5lang": {
+                "de": "Probieren Sie 'Zelena Menestra', ein typisches Wintergericht der Region.",
+                "hu": "Kóstoljuk meg a 'Zelena Menestra'-t, a régió jellegzetes téli ételét.",
+                "ro": "Încercați „Zelena Menestra”, un preparat de iarnă tipic regiunii.",
+                "en": "Try 'Zelena Menestra', a typical winter dish of the region."
+              }
+            },
+            {
+              "name": "Riva-Spaziergang in Mokošica / Mokošica-i parti séta",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Bura; der Wind kann an der Riva sehr kühl sein.",
+                "hu": "Vigyázzunk a bórával; a szél nagyon hűvös lehet a parton.",
+                "ro": "Atenție la Bura; vântul poate fi foarte tăios pe faleză.",
+                "en": "Watch out for the Bura; the wind can be very chilly on the Riva."
+              }
+            },
+            {
+              "name": "Aussichtspunkt auf die Bucht / Kilátó az öbölre",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter früher, aber oft farbenprächtiger.",
+                "hu": "A naplemente télen korábban van, de gyakran színesebb.",
+                "ro": "Apusul este mai devreme iarna, dar adesea mai colorat.",
+                "en": "The sunset is earlier in winter, but often more colorful."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich nach dem Zwiebelprinzip, da die Sonne wärmt, der Schatten aber kühl ist.",
+              "Sonnenuntergang ist bereits gegen 16:30 Uhr; planen Sie Ihre Fotos vorher.",
+              "Die Bura sorgt für exzellente Fernsicht, ist aber ein sehr kalter Fallwind.",
+              "Viele Cafés haben im Winter Heizstrahler im Außenbereich."
+            ],
+            "hu": [
+              "Öltözzünk rétegesen, mert a napon meleg van, de árnyékban hideg.",
+              "A naplemente már 16:30 körül bekövetkezik, tervezzük a fotózást korábbra.",
+              "A bóra kiváló látótávolságot biztosít, de nagyon hideg szél.",
+              "Sok kávézó teraszán van hősugárzó a téli szezonban is."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi, deoarece la soare este cald, dar la umbră e frig.",
+              "Apusul are loc deja în jur de 16:30; planificați fotografiile din timp.",
+              "Vântul Bura oferă o vizibilitate excelentă, dar este foarte rece.",
+              "Multe cafenele au radiatoare pe terase chiar și iarna."
+            ],
+            "en": [
+              "Dress in layers as it's warm in the sun but cold in the shade.",
+              "Sunset is as early as 4:30 PM; plan your photos beforehand.",
+              "The Bura wind provides excellent visibility but is a very cold wind.",
+              "Many cafes have outdoor heaters during the winter season."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -522,6 +704,188 @@
           "It can be very windy on the bridge.",
           "Take enough water with you."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt entlang der Rijeka Dubrovačka erfordert Konzentration und gute Ausrüstung. Wir starten an der Ombla-Quelle, die bei Nässe wilder wirkt, und fahren vorsichtig zum Landhaus. Die Mittagspause in Mokošica nutzen wir zum Trocknen der Kleidung und zum Krafttanken. Am Nachmittag radeln wir über die Brücke, wobei das Panorama der Bucht trotz der grauen Schleier beeindruckt, bevor wir den Tag entspannt beenden.",
+            "hu": "A Rijeka Dubrovačka menti esős tekerés koncentrációt és jó felszerelést igényel. Az Ombla-forrásnál kezdünk, amely vizesen vadabbnak hat, majd óvatosan haladunk az udvarház felé. A mokošicai ebédszünet alatt megszárítkozunk és feltöltődünk. Délután áttekerünk a hídon, ahol az öböl panorámája a szürke fátyol ellenére is lenyűgöző, majd a napot pihenéssel zárjuk.",
+            "ro": "O tură cu bicicleta pe ploaie de-a lungul Rijeka Dubrovačka necesită concentrare și echipament bun. Începem la izvorul Ombla, care pare mai sălbatic pe umezeală, și pedalăm cu grijă spre conac. Prânzul în Mokošica este momentul perfect pentru a ne usca și a ne reîncărca. După-amiaza traversăm podul, unde panorama golfului impresionează în ciuda norilor, apoi încheiem ziua relaxați.",
+            "en": "A rainy bike ride along Rijeka Dubrovačka requires focus and good gear. We start at the Ombla source, which feels wilder in the wet, and ride carefully toward the villa. The lunch break in Mokošica is used to dry off and recharge. In the afternoon, we cycle across the bridge, where the bay panorama impresses despite the gray veil, before ending the day relaxed."
+          },
+          "stops": [
+            {
+              "name": "Izvor Omble",
+              "tip_5lang": {
+                "de": "Achten Sie auf nasse Blätter auf dem Boden beim Bremsen.",
+                "hu": "Vigyázzunk a vizes levelekre az úton fékezéskor.",
+                "ro": "Atenție la frunzele ude de pe drum când frânați.",
+                "en": "Watch out for wet leaves on the ground when braking."
+              }
+            },
+            {
+              "name": "Ljetnikovac Gučetić-Đurđević",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad an einer geschützten Stelle unter den Bäumen.",
+                "hu": "Parkoljuk a biciklit védett helyen a fák alatt.",
+                "ro": "Parcați bicicleta într-un loc protejat sub copaci.",
+                "en": "Park the bike in a sheltered spot under the trees."
+              }
+            },
+            {
+              "name": "Rijeka Dubrovačka Küstenfahrt / Parti tekerés",
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Kurven auf dem nassen Asphalt der Küstenstraße.",
+                "hu": "Kerüljük a gyors kanyarodást a parti út vizes aszfaltján.",
+                "ro": "Evitați virajele rapide pe asfaltul umed al drumului de coastă.",
+                "en": "Avoid sharp turns on the wet asphalt of the coastal road."
+              }
+            },
+            {
+              "name": "Franjo Tuđman most (Aussicht)",
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann bei Regen tückisch sein; Lenker fest halten.",
+                "hu": "A szél a hídon esőben csalóka lehet; tartsuk erősen a kormányt.",
+                "ro": "Vântul pe pod poate fi periculos pe ploaie; țineți bine ghidonul.",
+                "en": "The wind on the bridge can be tricky in the rain; hold the handlebars firmly."
+              }
+            },
+            {
+              "name": "Gastro-Pause in Mokošica / Gasztro pihenő",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit Fahrradabstellplatz in Sichtweite.",
+                "hu": "Válasszunk olyan éttermet, ahol rálátunk a biciklitárolóra.",
+                "ro": "Alegeți un restaurant unde puteți supraveghea bicicletele.",
+                "en": "Choose a restaurant where you can keep an eye on the bike rack."
+              }
+            },
+            {
+              "name": "Entspannung am Wasser / Pihenés a víznél",
+              "tip_5lang": {
+                "de": "Ein kurzes Innehalten unter einem Dach mit Blick auf das Wasser.",
+                "hu": "Rövid megálló egy fedett helyen, kilátással a vízre.",
+                "ro": "O scurtă oprire sub un acoperiș cu vedere la apă.",
+                "en": "A short pause under a roof with a view of the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung und Schutzbleche sind heute Ihre besten Freunde.",
+              "Die Fahrbahnen in Küstennähe können durch Salz und Regen besonders rutschig sein.",
+              "Kontrollieren Sie Ihre Bremsen vor der Abfahrt von der Brücke.",
+              "Nutzen Sie die Tunnel oder Unterführungen als kurze trockene Rastplätze."
+            ],
+            "hu": [
+              "A teljes esőruházat és a sárvédő ma a legjobb barátunk.",
+              "A parti utak a só és az eső miatt különösen csúszósak lehetnek.",
+              "Ellenőrizzük a fékeket, mielőtt legurulnánk a hídról.",
+              "Használjuk az aluljárókat rövid, száraz pihenőhelyként."
+            ],
+            "ro": [
+              "Echipamentul complet de ploaie și aripile sunt cei mai buni prieteni astăzi.",
+              "Drumurile de coastă pot fi foarte alunecoase din cauza amestecului de sare și apă.",
+              "Verificați frânele înainte de a coborî de pe pod.",
+              "Folosiți pasajele subterane ca locuri scurte de odihnă la uscat."
+            ],
+            "en": [
+              "Full rain gear and mudguards are your best friends today.",
+              "Coastal roads can be particularly slippery due to the mix of salt and rain.",
+              "Check your brakes before descending from the bridge.",
+              "Use underpasses as short dry rest areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter bei Mokošica bietet freie Straßen und kristallklare Luft. Wir starten früh bei der Quelle, um das beste Licht zu nutzen. Die Fahrt entlang der Bucht ist erfrischend, erfordert aber warme Handschuhe gegen den Fahrtwind. Mittags wärmen wir uns in einer Konoba auf, bevor wir den Anstieg zur Franjo-Tuđman-Brücke wagen. Der Tag endet rechtzeitig vor Sonnenuntergang, wenn die Temperaturen schnell sinken.",
+            "hu": "A mokošicai téli bringázás üres utakat és kristálytiszta levegőt kínál. Korán kezdünk a forrásnál, hogy kihasználjuk a fényeket. Az öböl menti tekerés frissítő, de meleg kesztyű kell a menetszél ellen. Délben egy konobában melegszünk fel, mielőtt nekivágnánk a Franjo Tuđman híd emelkedőjének. A nap még naplemente előtt véget ér, mert a hőmérséklet ilyenkor gyorsan zuhan.",
+            "ro": "Mersul cu bicicleta iarna lângă Mokošica oferă drumuri libere și aer de cristal. Începem devreme la izvor pentru a profita de lumină. Tura de-a lungul golfului este revigorantă, dar necesită mănuși groase contra vântului. La prânz ne încălzim într-o konoba înainte de a urca spre podul Franjo Tuđman. Ziua se încheie înainte de apus, când temperaturile scad brusc.",
+            "en": "Cycling in winter near Mokošica offers empty roads and crystal-clear air. We start early at the source to make the most of the light. The ride along the bay is refreshing but requires warm gloves against the wind chill. At noon, we warm up in a konoba before tackling the climb to the Franjo Tuđman bridge. The day ends well before sunset as temperatures drop quickly."
+          },
+          "stops": [
+            {
+              "name": "Izvor Omble",
+              "tip_5lang": {
+                "de": "Im Schatten der Felsen ist es hier morgens sehr frostig.",
+                "hu": "A sziklák árnyékában reggelente nagyon fagyos itt a levegő.",
+                "ro": "În umbra stâncilor, dimineața este foarte frig aici.",
+                "en": "In the shadow of the rocks, it's very frosty here in the morning."
+              }
+            },
+            {
+              "name": "Ljetnikovac Gučetić-Đurđević",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sonnenstrahlen im Garten für eine kurze Pause.",
+                "hu": "Használjuk ki a napsugarakat a kertben egy rövid pihenőre.",
+                "ro": "Profitați de razele soarelui în grădină pentru o scurtă pauză.",
+                "en": "Take advantage of the sunbeams in the garden for a short break."
+              }
+            },
+            {
+              "name": "Rijeka Dubrovačka Küstenfahrt / Parti tekerés",
+              "tip_5lang": {
+                "de": "Windfeste Kleidung ist wegen der Bura unbedingt notwendig.",
+                "hu": "Szélálló ruházat kötelező a bóra miatt.",
+                "ro": "Îmbrăcămintea rezistentă la vânt este obligatorie din cauza vântului Bura.",
+                "en": "Windproof clothing is absolutely necessary because of the Bura."
+              }
+            },
+            {
+              "name": "Franjo Tuđman most (Aussicht)",
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann im Winter sehr eisig sein.",
+                "hu": "A szél a hídon télen nagyon jeges lehet.",
+                "ro": "Vântul pe pod poate fi extrem de rece iarna.",
+                "en": "The wind on the bridge can be very icy in winter."
+              }
+            },
+            {
+              "name": "Gastro-Pause in Mokošica / Gasztro pihenő",
+              "tip_5lang": {
+                "de": "Fragen Sie nach heißem Tee oder hausgemachtem Schnaps zum Aufwärmen.",
+                "hu": "Kérjünk forró teát vagy házi pálinkát az átmelegedéshez.",
+                "ro": "Cereți un ceai fierbinte sau o rakija de casă pentru încălzire.",
+                "en": "Ask for hot tea or homemade rakija to warm up."
+              }
+            },
+            {
+              "name": "Entspannung am Wasser / Pihenés a víznél",
+              "tip_5lang": {
+                "de": "Bleiben Sie in Bewegung, um bei sinkenden Temperaturen nicht auszukühlen.",
+                "hu": "Maradjunk mozgásban, hogy ne fázzunk meg a süllyedő hőmérsékletben.",
+                "ro": "Rămâneți în mișcare pentru a nu îngheța pe măsură ce temperatura scade.",
+                "en": "Keep moving to stay warm as temperatures drop."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie Thermo-Unterwäsche und winddichte Handschuhe.",
+              "Die Bura kann das Radfahren auf der Brücke gefährlich machen; checken Sie den Wetterbericht.",
+              "Die Tage sind kurz; beenden Sie Ihre Tour bis 16:00 Uhr.",
+              "Vermeiden Sie schattige Straßenabschnitte am frühen Morgen wegen Reifglätte."
+            ],
+            "hu": [
+              "Viseljünk termo-aláöltözetet és szélálló kesztyűt.",
+              "A bóra veszélyessé teheti a bringázást a hídon; nézzük meg az előrejelzést.",
+              "A nappalok rövidek; fejezzük be a túrát délután 4-ig.",
+              "Kerüljük az árnyékos útszakaszokat kora reggel a zúzmara miatt."
+            ],
+            "ro": [
+              "Purtați lenjerie termică și mănuși rezistente la vânt.",
+              "Vântul Bura poate face mersul pe pod periculos; verificați prognoza.",
+              "Zilele sunt scurte; încheiați tura până la ora 16:00.",
+              "Evitați porțiunile de drum umbrite dimineața devreme din cauza poleiului."
+            ],
+            "en": [
+              "Wear thermal underwear and windproof gloves.",
+              "The Bura can make cycling on the bridge dangerous; check the forecast.",
+              "Days are short; finish your tour by 4:00 PM.",
+              "Avoid shaded road sections early in the morning due to potential frost."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -772,6 +1136,206 @@
           "Use the viewpoint at the bridge for photos.",
           "The drive from Mokošica to Dubrovnik takes only 10-15 minutes."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Mokošica auch bei Regen komfortabel zu erkunden. Wir starten an der Ombla-Quelle, wobei der Parkplatz direkt am Wasser kurze Wege ermöglicht. Das Mittagessen in Rožat bietet einen trockenen Aussichtspunkt auf die Bucht. Die Fahrt zur Franjo-Tuđman-Brücke ist bei Regen besonders atmosphärisch, da die Wolken tief hängen. Den Tag schließen wir mit einem Kaffee in Mokošica ab, während wir den Regen gemütlich vom Fenster aus beobachten.",
+            "hu": "Autóval Mokošica esőben is kényelmesen felfedezhető. Az Ombla-forrásnál kezdünk, ahol a közvetlen vízparti parkolás lerövidíti a sétát. A rožati ebéd száraz kilátópontot kínál az öbölre. A Franjo Tuđman híd felé vezető út esőben különösen hangulatos a mélyen szálló felhőkkel. A napot egy mokošicai kávéval zárjuk, az ablakból figyelve a szemerkélő esőt.",
+            "ro": "Cu mașina, Mokošica este ușor de explorat chiar și pe ploaie. Începem la izvorul Ombla, unde parcarea de lângă apă permite accesul rapid. Prânzul în Rožat oferă un punct de observație uscat asupra golfului. Drumul spre podul Franjo Tuđman este atmosferic pe ploaie, cu nori joși. Încheiem ziua cu o cafea în Mokošica, privind ploaia de la fereastră.",
+            "en": "By car, Mokošica is comfortable to explore even in the rain. We start at the Ombla source, where parking right by the water allows for short walks. Lunch in Rožat offers a dry viewpoint over the bay. The drive to the Franjo Tuđman bridge is particularly atmospheric in the rain with low-hanging clouds. We end the day with a coffee in Mokošica, watching the rain from the comfort of a window seat."
+          },
+          "stops": [
+            {
+              "name": "Izvor Omble (Cluster A)",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Quellbereich, um nicht nass zu werden.",
+                "hu": "Parkoljunk közel a forráshoz, hogy elkerüljük az ázást.",
+                "ro": "Parcați aproape de zona izvorului pentru a nu vă uda.",
+                "en": "Park close to the source area to avoid getting wet."
+              }
+            },
+            {
+              "name": "Ljetnikovac Gučetić-Đurđević (Cluster A)",
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann bei Regen etwas matschig sein.",
+                "hu": "A bevezető út esőben kissé sáros lehet.",
+                "ro": "Aleea de acces poate fi noroioasă pe ploaie.",
+                "en": "The access path can be a bit muddy in the rain."
+              }
+            },
+            {
+              "name": "Mittagessen in Rožat (Cluster A) / Ebéd Rožatban",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit überdachtem Parkplatz oder kurzem Weg zum Eingang.",
+                "hu": "Keressünk éttermet fedett parkolóval vagy rövid bejárattal.",
+                "ro": "Căutați un restaurant cu parcare acoperită sau acces rapid.",
+                "en": "Look for a restaurant with a covered parking area or short access walk."
+              }
+            },
+            {
+              "name": "Fahrt zum Franjo Tuđman most (Cluster B)",
+              "tip_5lang": {
+                "de": "Schalten Sie das Licht ein; die Sicht auf der Brücke kann stark eingeschränkt sein.",
+                "hu": "Kapcsoljuk be a világítást; a látótávolság a hídon korlátozott lehet.",
+                "ro": "Aprindeți luminile; vizibilitatea pe pod poate fi redusă.",
+                "en": "Turn on your lights; visibility on the bridge can be very limited."
+              }
+            },
+            {
+              "name": "Hafenblick Gruž (Cluster B) / Kikötői kilátás",
+              "tip_5lang": {
+                "de": "Bleiben Sie für den Ausblick einfach im Auto sitzen.",
+                "hu": "A kilátásért maradhatunk akár az autóban is.",
+                "ro": "Puteți admira vederea direct din mașină.",
+                "en": "You can enjoy the view without even leaving your car."
+              }
+            },
+            {
+              "name": "Kaffee-Pause in Mokošica / Kávészünet Mokošicában",
+              "tip_5lang": {
+                "de": "Ideale Zeit, um den Reiseplan für den nächsten Tag im Trockenen zu checken.",
+                "hu": "Ideális időpont a másnapi terv átnézésére a szárazban.",
+                "ro": "Moment ideal pentru a verifica planul de călătorie la uscat.",
+                "en": "Ideal time to check your travel plan for the next day while staying dry."
+              }
+            },
+            {
+              "name": "Uferpromenade Mokošica / Parti korzó",
+              "tip_5lang": {
+                "de": "Parken Sie an der Hauptstraße für einen schnellen Blick aufs Wasser.",
+                "hu": "Parkoljunk a főúton egy gyors pillantásra a vízre.",
+                "ro": "Parcați pe drumul principal pentru o privire rapidă spre apă.",
+                "en": "Park on the main road for a quick look at the water."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie das Parken unter instabilen Bäumen bei starkem Regen.",
+              "Die Straßen können durch aufgeschwemmten Staub nach langer Trockenheit sehr rutschig sein.",
+              "Nutzen Sie die Parkplätze in Rožat, diese sind oft weniger frequentiert.",
+              "Halten Sie die Scheiben beschlagfrei durch Nutzung der Klimaanlage."
+            ],
+            "hu": [
+              "Erős esőben ne parkoljunk instabil fák alá.",
+              "Az utak a felhalmozódott portól esőben nagyon csúszósak lehetnek.",
+              "Használjuk a rožati parkolókat, ezek általában kevésbé zsúfoltak.",
+              "Használjuk a klímát a szélvédők párátlanítására."
+            ],
+            "ro": [
+              "Evitați parcarea sub copaci instabili în caz de ploaie torențială.",
+              "Drumurile pot fi foarte alunecoase din cauza prafului ridicat de ploaie.",
+              "Folosiți parcările din Rožat, sunt adesea mai libere.",
+              "Folosiți aerul condiționat pentru a dezaburi geamurile."
+            ],
+            "en": [
+              "Avoid parking under unstable trees during heavy rain.",
+              "Roads can be very slippery due to dust being washed up after a dry spell.",
+              "Use parking spots in Rožat; they are often less crowded.",
+              "Keep the windows defogged by using the air conditioning."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autotouren rund um die Rijeka Dubrovačka bieten klare Panoramen ohne Stau. Wir beginnen an der Ombla-Quelle, wo die Morgensonne das Wasser glitzern lässt. Mittags wärmen wir uns bei einem traditionellen Essen in Rožat auf. Die Fahrt über die Franjo-Tuđman-Brücke bietet im Winter eine fantastische Fernsicht bis zu den Elafiti-Inseln. Zum Abschluss genießen wir die ruhige Atmosphäre an der Promenade von Mokošica, bevor es dunkel wird.",
+            "hu": "A téli autós túrák a Rijeka Dubrovačka körül dugók nélküli tiszta panorámát kínálnak. Az Ombla-forrásnál kezdünk, ahol a reggeli nap megcsillan a vízen. Délben egy tradicionális rožati ebéddel melegszünk fel. A Franjo Tuđman hídon való átkelés télen fantasztikus kilátást nyújt egészen az Elafiti-szigetekig. Zárásként élvezzük a mokošicai sétány nyugodt hangulatát a sötétedés előtt.",
+            "ro": "Turul cu mașina iarna în jurul Rijeka Dubrovačka oferă panorame clare fără trafic. Începem la izvorul Ombla, unde soarele dimineții face apa să sclipească. La prânz ne încălzim cu o masă tradițională în Rožat. Drumul peste podul Franjo Tuđman oferă iarna o vizibilitate fantastică până la insulele Elafiti. La final, ne bucurăm de atmosfera liniștită de pe faleza din Mokošica înainte de lăsarea serii.",
+            "en": "Winter car tours around Rijeka Dubrovačka offer clear panoramas without traffic jams. We start at the Ombla source, where the morning sun makes the water sparkle. At noon, we warm up with a traditional meal in Rožat. Driving across the Franjo Tuđman bridge in winter provides fantastic visibility all the way to the Elafiti Islands. To finish, we enjoy the quiet atmosphere at the Mokošica promenade before it gets dark."
+          },
+          "stops": [
+            {
+              "name": "Izvor Omble (Cluster A)",
+              "tip_5lang": {
+                "de": "In den frühen Morgenstunden kann es auf dem Parkplatz glatt sein.",
+                "hu": "A kora reggeli órákban a parkoló jeges lehet.",
+                "ro": "În orele dimineții, parcarea poate fi alunecoasă.",
+                "en": "In the early morning hours, the parking lot can be icy."
+              }
+            },
+            {
+              "name": "Ljetnikovac Gučetić-Đurđević (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet die Fassade am späten Vormittag am besten.",
+                "hu": "A téli nap késő délelőtt világítja meg a legjobban a homlokzatot.",
+                "ro": "Soarele de iarnă luminează cel mai bine fațada spre sfârșitul dimineții.",
+                "en": "The winter sun illuminates the facade best in the late morning."
+              }
+            },
+            {
+              "name": "Mittagessen in Rožat (Cluster A) / Ebéd Rožatban",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Lokal mit Kamin für extra Gemütlichkeit.",
+                "hu": "Keressünk kandallós helyet az extra hangulatért.",
+                "ro": "Căutați un local cu șemineu pentru un plus de confort.",
+                "en": "Look for a place with a fireplace for extra coziness."
+              }
+            },
+            {
+              "name": "Fahrt zum Franjo Tuđman most (Cluster B)",
+              "tip_5lang": {
+                "de": "Vorsicht bei starken Bura-Böen; halten Sie das Lenkrad fest.",
+                "hu": "Vigyázzunk az erős bóra-lökésekre; tartsuk erősen a kormányt.",
+                "ro": "Atenție la rafalele de Bura; țineți bine volanul.",
+                "en": "Be careful with strong Bura gusts; hold the steering wheel firmly."
+              }
+            },
+            {
+              "name": "Hafenblick Gruž (Cluster B) / Kikötői kilátás",
+              "tip_5lang": {
+                "de": "Die Kreuzfahrtschiffe sind im Winter seltener, was den Blick ruhiger macht.",
+                "hu": "A tengerjáró hajók télen ritkábbak, így a kilátás nyugodtabb.",
+                "ro": "Navele de croazieră sunt rare iarna, făcând priveliștea mai aerisită.",
+                "en": "Cruise ships are rarer in winter, making the view more peaceful."
+              }
+            },
+            {
+              "name": "Kaffee-Pause in Mokošica / Kávészünet Mokošicában",
+              "tip_5lang": {
+                "de": "Probieren Sie heiße Schokolade mit Sahne.",
+                "hu": "Kóstoljuk meg a forró csokoládét tejszínhabbal.",
+                "ro": "Încercați o ciocolată caldă cu frișcă.",
+                "en": "Try a hot chocolate with whipped cream."
+              }
+            },
+            {
+              "name": "Uferpromenade Mokošica / Parti korzó",
+              "tip_5lang": {
+                "de": "Das Licht kurz vor Sonnenuntergang ist ideal für Landschaftsfotos.",
+                "hu": "A naplemente előtti fények ideálisak tájképekhez.",
+                "ro": "Lumina de dinainte de apus este ideală pentru fotografii de peisaj.",
+                "en": "The light just before sunset is ideal for landscape photos."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Straßensperrungen auf der Brücke bei extremem Wind (Bura).",
+              "Die Batterieleistung kann bei Kälte sinken; Handy im Auto laden.",
+              "Die Küstenstraße ist im Winter fast leer, genießen Sie die entspannte Fahrt.",
+              "Frostschutzmittel in der Scheibenwaschanlage ist auch hier ratsam."
+            ],
+            "hu": [
+              "Extrém szél (bóra) esetén figyeljük a hídon az esetleges lezárásokat.",
+              "A hidegben az akkumulátor gyorsabban merül; töltsük a telefont az autóban.",
+              "A parti út télen szinte üres, élvezzük a zavartalan autózást.",
+              "A szélvédőmosóba itt is tanácsos fagyállót tölteni."
+            ],
+            "ro": [
+              "Atenție la restricțiile de circulație pe pod în caz de vânt extrem (Bura).",
+              "Bateria telefonului se poate descărca mai repede la frig; încărcați-l în mașină.",
+              "Drumul de coastă este aproape gol iarna, bucurați-vă de condus.",
+              "Lichidul de parbriz cu protecție la îngheț este recomandat și aici."
+            ],
+            "en": [
+              "Watch for road closures on the bridge during extreme wind (Bura).",
+              "Battery life can drop in the cold; charge your phone in the car.",
+              "The coastal road is almost empty in winter; enjoy the relaxed drive.",
+              "Antifreeze in the windshield washer fluid is advisable even here."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1004,6 +1568,188 @@
           "Keep an eye on the schedule for the return trip.",
           "The stop at the bridge is a must for panorama fans."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit den Buslinien 1A und 1B erreichen wir Mokošica auch bei Regen problemlos. Wir starten an der Ombla-Quelle und nutzen die Wartehäuschen als Regenschutz. Das Mittagessen am Wasser bietet eine willkommene Pause im Trockenen. Nachmittags genießen wir die Panoramafahrt entlang der Rijeka Dubrovačka bequem vom Bussitz aus, bevor wir an der Franjo-Tuđman-Brücke einen kurzen Stopp einlegen. Den Tag beenden wir sicher im Bus zurück nach Mokošica.",
+            "hu": "Az 1A és 1B buszjáratokkal esőben is gond nélkül elérjük Mokošicát. Az Ombla-forrásnál kezdünk, a várókat esővédőként használva. A vízparti ebéd kellemes szünetet nyújt a szárazban. Délután kényelmesen, a busz ablakából csodáljuk a Rijeka Dubrovačka panorámáját, majd egy rövid megállót teszünk a Franjo Tuđman hídnál. A napot biztonságban, a mokošicai buszon zárjuk.",
+            "ro": "Cu liniile de autobuz 1A și 1B ajungem în Mokošica fără probleme chiar și pe ploaie. Începem la izvorul Ombla, folosind stațiile acoperite ca adăpost. Prânzul lângă apă oferă o pauză binemeritată la uscat. După-amiaza ne bucurăm de drumul panoramic de-a lungul Rijeka Dubrovačka din confortul scaunului de autobuz. Încheiem ziua în siguranță, în autobuzul spre Mokošica.",
+            "en": "With bus lines 1A and 1B, we reach Mokošica easily even in the rain. We start at the Ombla source, using the bus shelters for cover. Lunch by the water provides a welcome break in the dry. In the afternoon, we enjoy the panoramic ride along Rijeka Dubrovačka comfortably from a bus seat before making a short stop at the Franjo Tuđman bridge. We end the day safely on the bus back to Mokošica."
+          },
+          "stops": [
+            {
+              "name": "Busfahrt zum Izvor Omble",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Libertas-App für Live-Abfahrten, um Wartezeiten im Regen zu minimieren.",
+                "hu": "Használjuk a Libertas alkalmazást, hogy minimálisat kelljen várni az esőben.",
+                "ro": "Folosiți aplicația Libertas pentru a vedea timpii reali și a nu aștepta în ploaie.",
+                "en": "Use the Libertas app for live departures to minimize waiting in the rain."
+              }
+            },
+            {
+              "name": "Ljetnikovac Gučetić-Đurđević",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle 'Mokošica' ist nur wenige Gehminuten entfernt.",
+                "hu": "A 'Mokošica' buszmegálló csak pár perc séta.",
+                "ro": "Stația de autobuz „Mokošica” este la doar câteva minute de mers pe jos.",
+                "en": "The 'Mokošica' bus stop is just a few minutes' walk away."
+              }
+            },
+            {
+              "name": "Mittagessen am Wasser / Ebéd a víznél",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant direkt an der Busroute für kurze Wege.",
+                "hu": "Válasszunk éttermet közvetlenül a buszútvonal mentén.",
+                "ro": "Alegeți un restaurant pe traseul autobuzului pentru acces rapid.",
+                "en": "Choose a restaurant right on the bus route for short walks."
+              }
+            },
+            {
+              "name": "Rijeka Dubrovačka (Bus-Panorama)",
+              "tip_5lang": {
+                "de": "Setzen Sie sich auf die rechte Seite (Richtung Brücke) für den besten Blick.",
+                "hu": "Üljünk a jobb oldalra (a híd felé) a legjobb kilátásért.",
+                "ro": "Așezați-vă pe partea dreaptă (spre pod) pentru cea mai bună vedere.",
+                "en": "Sit on the right side (towards the bridge) for the best view."
+              }
+            },
+            {
+              "name": "Franjo Tuđman most (Busstopp)",
+              "tip_5lang": {
+                "de": "Das Wartehäuschen bietet guten Schutz vor Wind und Regen.",
+                "hu": "A buszváró jó védelmet nyújt a szél és az eső ellen.",
+                "ro": "Stația acoperită oferă protecție bună contra vântului și ploii.",
+                "en": "The bus shelter provides good protection from wind and rain."
+              }
+            },
+            {
+              "name": "Rückfahrt nach Mokošica / Visszaút",
+              "tip_5lang": {
+                "de": "Haben Sie Ihre Fahrkarte griffbereit, um Verzögerungen beim Einsteigen zu vermeiden.",
+                "hu": "Legyen kéznél a jegyünk, hogy elkerüljük a várakozást a felszálláskor.",
+                "ro": "Aveți biletul la îndemână pentru a nu întârzia urcarea în autobuz.",
+                "en": "Have your ticket ready to avoid delays when boarding."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kaufen Sie Bustickets vorab am Kiosk (Tisak), um im Bus nicht mit Bargeld hantieren zu müssen.",
+              "Die Busse verkehren alle 20-30 Minuten, planen Sie Ihre Stopps entsprechend.",
+              "An Regentagen sind die Busse oft voller; steigen Sie frühzeitig ein.",
+              "Achten Sie auf Pfützen beim Ein- und Aussteigen an den Haltestellen."
+            ],
+            "hu": [
+              "Vegyük meg a jegyet előre az újságosnál (Tisak), hogy ne kelljen a buszon készpénzzel bajlódni.",
+              "A buszok 20-30 percenként járnak, tervezzük ehhez a megállóinkat.",
+              "Esős napokon a buszok zsúfoltabbak lehetnek; szálljunk fel időben.",
+              "Vigyázzunk a tócsákra a megállóknál a fel- és leszálláskor."
+            ],
+            "ro": [
+              "Cumpărați biletele de la chioșcurile Tisak pentru a nu folosi numerar în autobuz.",
+              "Autobuzele circulă la fiecare 20-30 de minute; planificați opririle conform orarului.",
+              "În zilele ploioase autobuzele sunt mai aglomerate; urcați din timp.",
+              "Atenție la bălțile din stații la urcarea și coborârea din autobuz."
+            ],
+            "en": [
+              "Buy tickets in advance at a Tisak kiosk to avoid using cash on the bus.",
+              "Buses run every 20-30 minutes; plan your stops accordingly.",
+              "On rainy days, buses are often more crowded; board early.",
+              "Watch out for puddles at the stops when boarding or alighting."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter-Transit nach Mokošica ist effizient und bietet beheizte Fahrzeuge. Wir starten an der Ombla-Quelle, wo wir die winterliche Stille genießen. Das Mittagessen erfolgt in einem warmen Lokal nahe der Buslinie 1A. Am Nachmittag erleben wir die klare Sicht auf die Bucht während der Fahrt zum Franjo-Tuđman-Brücke. Trotz der kühlen Temperaturen draußen genießen wir die Panoramafahrt im Warmen, bevor wir den Tag entspannt beenden.",
+            "hu": "A téli tömegközlekedés Mokošicába hatékony és fűtött járműveket kínál. Az Ombla-forrásnál kezdünk, élvezve a téli csendet. Ebédre egy meleg helyet választunk az 1A buszvonal közelében. Délután tiszta kilátásunk nyílik az öbölre a Franjo Tuđman híd felé vezető úton. A kinti hideg ellenére a meleg buszból csodáljuk a panorámát, majd pihenéssel zárjuk a napot.",
+            "ro": "Transportul public iarna spre Mokošica este eficient și oferă vehicule încălzite. Începem la izvorul Ombla, bucurându-ne de liniștea iernii. Prânzul are loc într-un local cald lângă linia 1A. După-amiaza avem o vedere clară asupra golfului în timpul drumului spre podul Franjo Tuđman. În ciuda frigului de afară, ne bucurăm de drumul panoramic la căldură.",
+            "en": "Winter transit to Mokošica is efficient and features heated vehicles. We start at the Ombla source, enjoying the winter silence. Lunch is at a warm spot near bus line 1A. In the afternoon, we experience clear views of the bay during the ride to the Franjo Tuđman bridge. Despite the chill outside, we enjoy the panoramic ride in the warmth before ending the day relaxed."
+          },
+          "stops": [
+            {
+              "name": "Busfahrt zum Izvor Omble",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse weniger überfüllt; genießen Sie die entspannte Fahrt.",
+                "hu": "Télen a buszok kevésbé zsúfoltak; élvezzük a nyugodt utazást.",
+                "ro": "Iarna autobuzele sunt mai puțin aglomerate; bucurați-vă de o călătorie relaxată.",
+                "en": "In winter, buses are less crowded; enjoy the relaxed ride."
+              }
+            },
+            {
+              "name": "Ljetnikovac Gučetić-Đurđević",
+              "tip_5lang": {
+                "de": "Die umliegenden Gärten sind auch im Winter sehenswert und ruhig.",
+                "hu": "A környező kertek télen is érdemesek a megtekintésre és csendesek.",
+                "ro": "Grădinile din jur merită văzute chiar și iarna și sunt foarte liniștite.",
+                "en": "The surrounding gardens are worth seeing even in winter and are quiet."
+              }
+            },
+            {
+              "name": "Mittagessen am Wasser / Ebéd a víznél",
+              "tip_5lang": {
+                "de": "Ein warmes Getränk verkürzt die Wartezeit auf den nächsten Bus.",
+                "hu": "Egy forró ital megédesíti a várakozást a következő buszra.",
+                "ro": "O băutură caldă face așteptarea următorului autobuz mai plăcută.",
+                "en": "A hot drink makes the wait for the next bus more pleasant."
+              }
+            },
+            {
+              "name": "Rijeka Dubrovačka (Bus-Panorama)",
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne sorgt für glitzernde Reflexionen auf dem Fluss.",
+                "hu": "Az alacsonyan járó téli nap csillogó tükröződéseket hoz létre a folyón.",
+                "ro": "Soarele de iarnă creează reflexii strălucitoare pe râu.",
+                "en": "The low winter sun creates sparkling reflections on the river."
+              }
+            },
+            {
+              "name": "Franjo Tuđman most (Busstopp)",
+              "tip_5lang": {
+                "de": "Die Wartezeit kann hier wegen der Bura recht kühl werden; warm anziehen.",
+                "hu": "A várakozás itt a bóra miatt hűvös lehet; öltözzünk fel jól.",
+                "ro": "Așteptarea aici poate fi rece din cauza vântului; îmbrăcați-vă bine.",
+                "en": "Waiting here can be quite chilly due to the Bura; dress warmly."
+              }
+            },
+            {
+              "name": "Rückfahrt nach Mokošica / Visszaút",
+              "tip_5lang": {
+                "de": "Letzte Busse vor der Dunkelheit bieten die sicherste Heimkehr.",
+                "hu": "A sötétedés előtti utolsó buszok nyújtják a legbiztonságosabb hazautat.",
+                "ro": "Ultimele autobuze înainte de lăsarea serii oferă cea mai sigură întoarcere.",
+                "en": "The last buses before dark offer the safest return journey."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Die Busse sind im Winter gut beheizt, was den Transit sehr angenehm macht.",
+              "Verlassen Sie sich auf den Libertas-Winterfahrplan, da weniger Busse als im Sommer fahren.",
+              "Die Haltestelle an der Brücke bietet im Winter die beste Aussicht auf den Sonnenuntergang.",
+              "Tragen Sie Handschuhe, um an den Haltestellen nicht zu frieren."
+            ],
+            "hu": [
+              "A buszok télen jól fűtöttek, ami nagyon kényelmessé teszi az utazást.",
+              "Hagyatkozzunk a Libertas téli menetrendjére, mert kevesebb busz jár, mint nyáron.",
+              "A hídnál lévő megálló télen a legjobb hely a naplemente megtekintéséhez.",
+              "Viseljünk kesztyűt, hogy ne fázzunk meg a megállókban várakozva."
+            ],
+            "ro": [
+              "Autobuzele sunt bine încălzite iarna, ceea ce face tranzitul foarte plăcut.",
+              "Bazați-vă pe orarul de iarnă Libertas, circulă mai puține autobuze decât vara.",
+              "Stația de la pod oferă iarna cea mai bună vedere asupra apusului.",
+              "Purtați mănuși pentru a nu îngheța în timp ce așteptați în stație."
+            ],
+            "en": [
+              "Buses are well-heated in winter, making transit very pleasant.",
+              "Rely on the Libertas winter schedule as there are fewer buses than in summer.",
+              "The stop at the bridge offers the best sunset view in winter.",
+              "Wear gloves to avoid getting cold while waiting at the stops."
+            ]
+          }
+        }
       }
     }
   }

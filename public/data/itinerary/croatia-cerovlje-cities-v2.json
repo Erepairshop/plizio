@@ -238,6 +238,188 @@
           "Cerovlje is easily accessible by train from Pula or Buzet.",
           "Bring plenty of water, as there are few shops on the hills."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Schutz im gemütlichen Café im Zentrum von Cerovlje. Mittags wandern wir trotz Regen am Fluss Pazinčica entlang, wo die herbstliche Stimmung besonders intensiv ist. Nach einem herzhaften Mittagessen in der trockenen Konoba erkunden wir am Nachmittag das nebelverhangene Draguć. Der Abend endet mit einem mystischen Blick auf die grauen Hügel Istriens.",
+            "hu": "Reggel a központ egyik kávézójában várakozunk, amíg csendesedik az eső. Délben a Pazinčica partján sétálunk, ahol a víz morajlása és a köd különleges hangulatot áraszt. Egy meleg ebéd után Draguć kőházai között kalandozunk, melyek vizesen még sötétebbnek és ősibbnek tűnnek. Az estét a párás dombok látványa zárja.",
+            "ro": "Dimineața ne adăpostim într-o cafenea primitoare din centrul localității Cerovlje. La prânz, ne plimbăm de-a lungul râului Pazinčica, savurând atmosfera mistică creată de ploaie. După un prânz cald la konoba, explorăm Draguć-ul învăluit în ceață. Seara se încheie cu o priveliște dramatică asupra dealurilor umede ale Istriei.",
+            "en": "Morning starts with a warm drink in a central café to wait out the rain. At noon, we brave the riverside path of Pazinčica, where the mist creates a unique atmosphere. After a long lunch in a cozy tavern, we explore the wet, stony streets of Draguć. The evening concludes with a view of the clouds rolling over the Istrian interior."
+          },
+          "stops": [
+            {
+              "name": "Cerovlje Café & Center",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz am Fenster und beobachten Sie das Treiben auf dem nassen Marktplatz.",
+                "hu": "Válassz egy ablak melletti asztalt, és figyeld a főtér esős forgatagát.",
+                "ro": "Alegeți o masă la fereastră și urmăriți activitatea din piața centrală sub ploaie.",
+                "en": "Pick a window seat and watch the rainy town center come to life."
+              }
+            },
+            {
+              "name": "Pazinčica",
+              "tip_5lang": {
+                "de": "Vorsicht auf den Waldwegen, sie können bei Regen sehr rutschig und schlammig sein.",
+                "hu": "Vigyázz az erdei ösvényeken, esőben nagyon csúszós és sáros lehet a talaj.",
+                "ro": "Atenție pe potecile din pădure, pot fi foarte alunecoase și noroioase pe ploaie.",
+                "en": "Be careful on the forest paths; they can be very slippery and muddy when wet."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Genießen Sie eine warme Jota-Suppe, um sich nach der Wanderung im Regen aufzuwärmen.",
+                "hu": "Kóstolj meg egy forró Jota levest, hogy átmelegedj az esős séta után.",
+                "ro": "Savurați o supă caldă Jota pentru a vă încălzi după plimbarea prin ploaie.",
+                "en": "Enjoy a warm Jota soup to heat up after your walk in the rain."
+              }
+            },
+            {
+              "name": "Draguć",
+              "tip_5lang": {
+                "de": "Die Steingassen von Draguć wirken im Regen besonders mittelalterlich und fotogen.",
+                "hu": "Draguć kőutcái esőben különösen középkori hangulatot árasztanak és jól fotózhatók.",
+                "ro": "Străzile de piatră din Draguć par deosebit de medievale și fotogenice sub ploaie.",
+                "en": "The stone streets of Draguć look especially medieval and photogenic in the rain."
+              }
+            },
+            {
+              "name": "Crkva sv. Roka, Draguć",
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um trocken zu bleiben und die berühmten Fresken in Ruhe zu bewundern.",
+                "hu": "Tökéletes hely, hogy szárazon maradj és nyugodtan megcsodáld a híres freskókat.",
+                "ro": "Un loc perfect pentru a rămâne la uscat și a admira în liniște faimoasele fresce.",
+                "en": "A perfect spot to stay dry and admire the famous frescoes in peace."
+              }
+            },
+            {
+              "name": "Sonnenuntergang in Draguć",
+              "tip_5lang": {
+                "de": "Auch ohne Sonne bieten die vorbeiziehenden Wolken ein spektakuläres Naturschauspiel.",
+                "hu": "Napfény nélkül is látványos a völgyben vonuló felhők és köd játéka.",
+                "ro": "Chiar și fără soare, norii care trec oferă un spectacol natural impresionant.",
+                "en": "Even without sun, the passing clouds offer a spectacular natural show."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Wege am Fluss.",
+              "Ein Taschenschirm ist in den engen Gassen von Draguć praktischer als ein Regenponcho.",
+              "Prüfen Sie die Busverbindung nach Draguć als trockene Alternative zum Rückweg.",
+              "Nutzen Sie die Kirchenbesichtigungen als willkommene Regenpausen."
+            ],
+            "hu": [
+              "Viselj vízálló túrabakancsot a folyóparti szakaszokon.",
+              "Draguć szűk utcáin egy esernyő praktikusabb, mint az esőponcsó.",
+              "Ellenőrizd a buszmenetrendet, ha a visszautat szárazon szeretnéd megtenni.",
+              "Használd a templomlátogatást tervezett pihenőként az eső elől."
+            ],
+            "ro": [
+              "Purtați bocanci de drumeție impermeabili pentru zonele de lângă râu.",
+              "O umbrelă este mai practică pe străzile înguste din Draguć decât o pelerină.",
+              "Verificați programul autobuzelor ca alternativă uscată pentru drumul de întoarcere.",
+              "Folosiți vizitele la biserici ca pauze binemeritate de la ploaie."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the riverside sections.",
+              "A small umbrella is more practical in Draguć's narrow streets than a poncho.",
+              "Check the local bus schedule as a dry alternative for the return journey.",
+              "Use church visits as planned breaks to stay out of the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit einem heißen Tee im Ortskern. Am Mittag glitzert der Frost an den Ufern der Pazinčica, während die kalte Luft den Geist belebt. Das Mittagessen verbringen wir ausgiebig am Kamin der Konoba. Nachmittags herrscht in Draguć eine fast magische Stille, bevor die Sonne bereits gegen 16:30 Uhr hinter den Bergen verschwindet.",
+            "hu": "A téli reggelt egy forró teával indítjuk a központban. Délben a zúzmarás Pazinčica partján sétálunk, ahol a friss, hideg levegő teljesen felfrissít. Az ebédet hosszan élvezzük a konoba kandallója mellett. Délután Draguć elnéptelenedett utcáin sétálunk, mielőtt a nap korán, fél öt körül lebukik a dombok mögött.",
+            "ro": "Dimineața de iarnă începe cu un ceai fierbinte în centrul localității. La prânz, chiciura strălucește pe malurile râului Pazinčica, iar aerul rece revigorează spiritul. Savurăm un prânz prelungit lângă șemineul din konoba. După-amiaza, liniștea magică domină Draguć, înainte ca soarele să apună devreme, în jurul orei 16:30.",
+            "en": "Winter morning begins with hot tea in the town center. At noon, frost glitters on the banks of Pazinčica, and the crisp air is truly invigorating. We enjoy a long lunch by the fireplace in a local tavern. In the afternoon, Draguć is peacefully silent before the sun sets early around 4:30 PM."
+          },
+          "stops": [
+            {
+              "name": "Cerovlje Café & Center",
+              "tip_5lang": {
+                "de": "Probieren Sie einen einheimischen Kräuterschnaps (Travarica), um die Kälte zu vertreiben.",
+                "hu": "Kóstolj meg egy helyi gyógynövénypálinkát (Travarica), hogy elűzd a hideget.",
+                "ro": "Încercați o rachiul local de ierburi (Travarica) pentru a alunga frigul.",
+                "en": "Try a local herbal brandy (Travarica) to ward off the winter chill."
+              }
+            },
+            {
+              "name": "Pazinčica",
+              "tip_5lang": {
+                "de": "Die kahle Winterlandschaft bietet weite Ausblicke, die im Sommer durch Laub verdeckt sind.",
+                "hu": "A kopár téli táj olyan kilátást enged, amit nyáron eltakarnak a levelek.",
+                "ro": "Peisajul de iarnă deschis oferă perspective largi, ascunse vara de frunziș.",
+                "en": "The bare winter landscape offers wide views hidden by foliage in summer."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Fragen Sie nach saisonalen Trüffelgerichten, die im Winter besonders aromatisch sind.",
+                "hu": "Kérdezz rá a szezonális szarvasgombás ételekre, amik télen a legfinomabbak.",
+                "ro": "Întrebați de preparatele sezoniere cu trufe, foarte aromate în timpul iernii.",
+                "en": "Ask for seasonal truffle dishes, which are particularly aromatic in winter."
+              }
+            },
+            {
+              "name": "Draguć",
+              "tip_5lang": {
+                "de": "Dick eingepackt lässt sich der Ort ohne die üblichen Touristenmassen genießen.",
+                "hu": "Jól felöltözve élvezheted a falut a szokásos turistatömeg nélkül.",
+                "ro": "Înveleți-vă bine și bucurați-vă de localitate fără masele obișnuite de turiști.",
+                "en": "Bundle up and enjoy the village without the usual tourist crowds."
+              }
+            },
+            {
+              "name": "Crkva sv. Roka, Draguć",
+              "tip_5lang": {
+                "de": "Die Kühle in der Kirche ist im Winter spürbar; behalten Sie Ihre Jacke an.",
+                "hu": "A templom belseje télen nagyon hideg lehet, ne vedd le a kabátodat.",
+                "ro": "Interiorul bisericii este foarte rece iarna; păstrați-vă haina pe dvs.",
+                "en": "The church interior is very cold in winter; keep your coat on."
+              }
+            },
+            {
+              "name": "Sonnenuntergang in Draguć",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang findet bereits gegen 16:45 Uhr statt; planen Sie rechtzeitig.",
+                "hu": "A naplemente már 16:45 körül bekövetkezik, tervezz előre.",
+                "ro": "Apusul are loc deja în jurul orei 16:45; planificați-vă timpul în consecință.",
+                "en": "Sunset occurs as early as 4:45 PM; make sure to plan your timing."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist wichtig für den Wechsel zwischen Kälte und warmen Stuben.",
+              "Tragen Sie warme Socken, da die Steinböden in Draguć sehr kalt abstrahlen.",
+              "Die Sonne verschwindet früh hinter den Hügeln; starten Sie Ihre Wanderung vor 10 Uhr.",
+              "Prüfen Sie vorab, ob die Konoba im Winter durchgehend geöffnet hat."
+            ],
+            "hu": [
+              "Öltözz rétegesen, mert nagy a különbség a kinti hideg és a benti meleg között.",
+              "Viselj meleg zoknit, mert Draguć kőpadlói nagyon hidegek télen.",
+              "A nap korán eltűnik a dombok mögött, kezdd a túrát délelőtt 10 előtt.",
+              "Ellenőrizd előre a konoba téli nyitvatartását."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a face față diferenței de temperatură exterior/interior.",
+              "Purtați șosete groase, deoarece podelele de piatră din Draguć sunt foarte reci.",
+              "Soarele dispare devreme după dealuri; începeți drumeția înainte de ora 10.",
+              "Verificați în prealabil dacă konoba este deschisă pe parcursul iernii."
+            ],
+            "en": [
+              "Wear layers to manage the difference between the cold outside and warm indoors.",
+              "Wear thermal socks as the stone floors in Draguć radiate cold in winter.",
+              "The sun disappears early behind the hills; start your walk before 10 AM.",
+              "Confirm the tavern's winter opening hours in advance."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -488,6 +670,206 @@
           "Note: The climb to Grimalda is short but steep.",
           "There are no public bike rentals in Cerovlje, bring your own."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein schneller Espresso in Cerovlje bereitet uns auf die nasse Fahrt vor. Wir radeln vorsichtig durch das Pazinčica-Tal und erklimmen den Hügel nach Grimalda, wo der Wind den Regen peitscht. Mittags erreichen wir Draguć, wo wir uns in der Kirche aufwärmen. Das späte Mittagessen in der Konoba ist die verdiente Belohnung für die Kilometer im Regen.",
+            "hu": "Egy gyors eszpresszó Cerovljében, és felkészülünk a vizes útra. Óvatosan tekerünk a Pazinčica-völgyben, majd felkapaszkodunk Grimaldára, ahol a szél szembefújja az esőt. Délben érjük el Dragućot, ahol a templomban találunk menedéket. A kései ebéd a konobában igazi jutalom az esős kilométerek után.",
+            "ro": "Un espresso rapid în Cerovlje ne pregătește pentru drumul ud. Pedalăm cu grijă prin valea Pazinčica și urcăm spre Grimalda, unde vântul bate ploaia. La prânz ajungem în Draguć, adăpostindu-ne în biserică. Prânzul târziu la konoba este recompensa meritată pentru kilometrii parcurși prin ploaie.",
+            "en": "A quick espresso in Cerovlje gets us ready for the wet ride. We cycle carefully through the Pazinčica valley and climb to Grimalda, where the wind whips the rain. At noon, we reach Draguć and take cover in the church. A late lunch at the tavern is the well-earned reward for the rainy miles."
+          },
+          "stops": [
+            {
+              "name": "Cerovlje Espresso Stop",
+              "tip_5lang": {
+                "de": "Prüfen Sie noch einmal den Reifendruck; auf nassen Straßen ist etwas weniger Druck besser.",
+                "hu": "Ellenőrizd a guminyomást; vizes úton a kicsit alacsonyabb nyomás jobb tapadást ad.",
+                "ro": "Verificați presiunea în pneuri; pe drumuri ude, o presiune ușor mai mică e mai bună.",
+                "en": "Check your tire pressure; slightly lower pressure offers better grip on wet roads."
+              }
+            },
+            {
+              "name": "Pazinčica-Tal",
+              "tip_5lang": {
+                "de": "Vorsicht bei den Abfahrten; nasse Blätter und Schlamm können gefährlich sein.",
+                "hu": "Vigyázz a lejtőkön; a vizes levelek és a sár veszélyesek lehetnek.",
+                "ro": "Atenție la coborâri; frunzele ude și noroiul pot fi periculoase.",
+                "en": "Be careful on descents; wet leaves and mud can be hazardous."
+              }
+            },
+            {
+              "name": "Grimalda",
+              "tip_5lang": {
+                "de": "Der Anstieg hält warm, aber oben am Kamm ist es bei Regen sehr windig.",
+                "hu": "A kapaszkodó melegen tart, de a gerincen esőben nagyon fúj a szél.",
+                "ro": "Urcarea vă ține de cald, dar sus pe creastă este foarte vânt pe ploaie.",
+                "en": "The climb keeps you warm, but it's very windy on the ridge during rain."
+              }
+            },
+            {
+              "name": "Draguć",
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Steinbögen am Dorfeingang unter.",
+                "hu": "Támaszd le a biciklidet a falu bejáratánál lévő kőívek alatt.",
+                "ro": "Parcați bicicleta sub arcadele de piatră de la intrarea în sat.",
+                "en": "Park your bike under the stone arches at the village entrance."
+              }
+            },
+            {
+              "name": "Crkva sv. Roka, Draguć",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine gründliche Pause, während es draußen regnet.",
+                "hu": "Használd ki az időt egy alapos pihenőre, amíg kint esik.",
+                "ro": "Folosiți timpul pentru o pauză serioasă în timp ce afară plouă.",
+                "en": "Use this time for a proper rest while it rains outside."
+              }
+            },
+            {
+              "name": "Radler-Mittagessen",
+              "tip_5lang": {
+                "de": "Bitten Sie darum, Ihre nassen Handschuhe in der Nähe der Heizung trocknen zu dürfen.",
+                "hu": "Kérdezd meg, hogy megszáríthatod-e a vizes kesztyűdet a fűtőtest közelében.",
+                "ro": "Întrebați dacă vă puteți usca mănușile ude lângă o sursă de căldură.",
+                "en": "Ask if you can dry your wet gloves near a heater."
+              }
+            },
+            {
+              "name": "Panorama-Abschluss",
+              "tip_5lang": {
+                "de": "Kurzer Stopp für ein Foto der dramatischen Regenwolken über dem Tal.",
+                "hu": "Gyors megálló egy fotóra a völgy feletti drámai esőfelhőkről.",
+                "ro": "Oprire scurtă pentru o fotografie cu norii dramatici de ploaie peste vale.",
+                "en": "Short stop for a photo of the dramatic rain clouds over the valley."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter in Istrien unerlässlich.",
+              "Tragen Sie neongelbe Regenkleidung für bessere Sichtbarkeit im Nebel.",
+              "Vermeiden Sie plötzliches Bremsen auf den glatten Kopfsteinpflastern in den Dörfern.",
+              "Nehmen Sie ein trockenes Trikot zum Wechseln beim Mittagessen mit."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyenkor az isztriai utakon.",
+              "Viselj fényvisszaverő esőruhát a jobb láthatóságért a ködben.",
+              "Kerüld a hirtelen fékezést a falvak csúszós macskakövein.",
+              "Vigyél magaddal száraz mezt, amit az ebédnél átvehetsz."
+            ],
+            "ro": [
+              "Apărătorile de noroi sunt indispensabile pe acest timp în Istria.",
+              "Purtați haine de ploaie reflectorizante pentru vizibilitate mai bună în ceață.",
+              "Evitați frânările bruște pe pavajul de piatră alunecos din sate.",
+              "Luați un tricou de schimb uscat pentru pauza de prânz."
+            ],
+            "en": [
+              "Mudguards are essential in this weather on Istrian roads.",
+              "Wear high-visibility rain gear for better safety in the mist.",
+              "Avoid sudden braking on the slippery cobblestones in the villages.",
+              "Bring a dry jersey to change into during lunch."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Winterluft beißt beim ersten Espresso in Cerovlje. Die Fahrt durch das frostige Pazinčica-Tal ist landschaftlich reizvoll, erfordert aber volle Konzentration. In Grimalda genießen wir die weite Sicht bis zum Meer. Nach dem Besuch der Fresken in Draguć wärmen wir uns bei einem ausgiebigen Mittagessen auf, bevor wir vor Einbruch der Dunkelheit zurückkehren.",
+            "hu": "A hideg téli levegő csíp Cerovljében az első kávénál. A zúzmarás Pazinčica-völgy gyönyörű, de teljes koncentrációt igényel. Grimaldán élvezzük a tiszta kilátást egészen a tengerig. A dragući freskók megtekintése után egy kiadós ebéddel melegszünk fel, mielőtt még sötétedés előtt visszaérnénk.",
+            "ro": "Aerul rece de iarnă înțeapă la primul espresso în Cerovlje. Drumul prin valea înghețată Pazinčica este pitoresc, dar necesită concentrare maximă. În Grimalda admirăm priveliștea până la mare. După vizitarea frescelor din Draguć, ne încălzim cu un prânz copios înainte de a ne întoarce înainte de lăsarea întunericului.",
+            "en": "The cold winter air bites during the first espresso in Cerovlje. The ride through the frosty Pazinčica valley is scenic but requires full focus. In Grimalda, we enjoy clear views all the way to the sea. After visiting the frescoes in Draguć, we warm up with a hearty lunch before returning before dark."
+          },
+          "stops": [
+            {
+              "name": "Cerovlje Espresso Stop",
+              "tip_5lang": {
+                "de": "Trinken Sie etwas Heißes, um Ihre Körperkerntemperatur vor dem Start zu erhöhen.",
+                "hu": "Igyál valami forrót, hogy megemeld a testhőmérsékleted indulás előtt.",
+                "ro": "Beți ceva fierbinte pentru a vă crește temperatura corpului înainte de start.",
+                "en": "Drink something hot to boost your core temperature before starting."
+              }
+            },
+            {
+              "name": "Pazinčica-Tal",
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in schattigen Kurven, wo die Sonne den Boden nicht erreicht.",
+                "hu": "Figyelj a felfagyásokra az árnyékos kanyarokban, ahol nem éri a nap az utat.",
+                "ro": "Atenție la porțiunile cu gheață în curbele umbrite unde soarele nu ajunge.",
+                "en": "Watch out for black ice in shaded corners where the sun doesn't hit the road."
+              }
+            },
+            {
+              "name": "Grimalda",
+              "tip_5lang": {
+                "de": "Im Winter ist die Fernsicht hier oben oft klarer als im Sommer.",
+                "hu": "Télen a kilátás innen gyakran sokkal tisztább, mint nyáron.",
+                "ro": "Iarna, vizibilitatea la distanță de aici este adesea mai clară decât vara.",
+                "en": "In winter, the long-distance views from here are often clearer than in summer."
+              }
+            },
+            {
+              "name": "Draguć",
+              "tip_5lang": {
+                "de": "Die Abfahrt von Draguć kann sehr kalt sein; ziehen Sie eine extra Windschicht an.",
+                "hu": "A lejtő Dragućról nagyon hideg lehet; vegyél fel még egy szélálló réteget.",
+                "ro": "Coborârea din Draguć poate fi foarte rece; mai puneți un strat protecție contra vântului.",
+                "en": "The descent from Draguć can be very cold; put on an extra windproof layer."
+              }
+            },
+            {
+              "name": "Crkva sv. Roka, Draguć",
+              "tip_5lang": {
+                "de": "Machen Sie Lockerungsübungen, damit Ihre Muskeln in der kalten Kirche nicht steif werden.",
+                "hu": "Mozgasd át magad, hogy az izmaid ne gémberedjenek el a hideg templomban.",
+                "ro": "Faceți câteva exerciții ușoare pentru ca mușchii să nu înțepenească în biserica rece.",
+                "en": "Do some light stretches so your muscles don't stiffen up in the cold church."
+              }
+            },
+            {
+              "name": "Radler-Mittagessen",
+              "tip_5lang": {
+                "de": "Wählen Sie kohlenhydratreiche Pasta (Fuži), um Energie für den Rückweg zu tanken.",
+                "hu": "Válassz szénhidrátban gazdag tésztát (Fuži), hogy legyen energiád a visszaútra.",
+                "ro": "Alegeți paste bogate în carbohidrați (Fuži) pentru energie pe drumul de întoarcere.",
+                "en": "Choose carb-rich pasta (Fuži) to fuel up for the ride back."
+              }
+            },
+            {
+              "name": "Panorama-Abschluss",
+              "tip_5lang": {
+                "de": "Genießen Sie das goldene Licht der tiefstehenden Wintersonne kurz vor 16 Uhr.",
+                "hu": "Élvezd az alacsonyan járó téli nap aranyfényeit délután 4 előtt.",
+                "ro": "Bucurați-vă de lumina aurie a soarelui de iarnă jos pe cer, înainte de ora 16.",
+                "en": "Enjoy the golden light of the low winter sun shortly before 4 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterfeste Fahrradhandschuhe und Überschuhe sind absolut notwendig.",
+              "Die Batterien von Fahrradlichtern entladen sich bei Kälte schneller; voll aufladen.",
+              "Planen Sie die Rückkehr spätestens für 16:30 Uhr ein, da es danach schlagartig kalt wird.",
+              "Nehmen Sie eine isolierte Trinkflasche mit warmem Tee mit."
+            ],
+            "hu": [
+              "Téli kerékpáros kesztyű és kamásli nélkülözhetetlen.",
+              "A lámpák akkumulátora gyorsabban merül a hidegben, töltsd fel őket teljesen.",
+              "Legkésőbb 16:30-ra érj vissza, mert utána hirtelen bezuhan a hőmérséklet.",
+              "Vigyél magaddal hőszigetelt kulacsban meleg teát."
+            ],
+            "ro": [
+              "Mănușile de iarnă pentru ciclism și husele pentru pantofi sunt absolut necesare.",
+              "Bateriile luminilor de bicicletă se descarcă mai repede la frig; încărcați-le complet.",
+              "Planificați întoarcerea cel târziu la 16:30, deoarece după aceea se face brusc foarte frig.",
+              "Luați o bidon izoterm cu ceai cald."
+            ],
+            "en": [
+              "Winter cycling gloves and shoe covers are absolutely necessary.",
+              "Bike light batteries drain faster in the cold; make sure they are fully charged.",
+              "Plan to be back by 4:30 PM at the latest, as it gets very cold very quickly after that.",
+              "Bring an insulated water bottle with warm tea."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -720,6 +1102,188 @@
           "Fill up your tank in Pazin, as there is no gas station in Cerovlje.",
           "Visit in autumn during the truffle season."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspanntes Frühstück in Cerovlje lässt den Regen draußen vergessen. Wir fahren gemütlich zum Pazinčica-Ufer und genießen die Aussicht aus dem trockenen Auto. Nach einem kurzen Stopp in Grimalda verbringen wir einen ausgiebigen Mittag in der Konoba. In Draguć schlendern wir zwischen den Regenschauern durch die historischen Gassen.",
+            "hu": "Egy nyugodt reggeli Cerovljében elfelejteti velünk a kinti esőt. Kényelmesen autózunk a Pazinčica partjához, és a száraz autóból élvezzük a látványt. Egy rövid grimaldai megálló után hosszan ebédelünk a konobában. Dragućban az esőszüneteket kihasználva sétálunk a történelmi utcákon.",
+            "ro": "Un mic dejun relaxat în Cerovlje ne face să uităm de ploaia de afară. Conducem lejer spre malul râului Pazinčica, admirând peisajul din mașina uscată. După o scurtă oprire în Grimalda, petrecem un prânz prelungit la konoba. În Draguć, profităm de pauzele dintre reprizele de ploaie pentru a vizita satul.",
+            "en": "A relaxed breakfast in Cerovlje helps forget the rain outside. We drive comfortably to the Pazinčica banks and enjoy the view from the dry car. After a short stop in Grimalda, we spend a long lunch at the tavern. In Draguć, we stroll through the historical streets between rain showers."
+          },
+          "stops": [
+            {
+              "name": "Cerovlje Frühstück",
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor dem Café, um trocken hineinzukommen.",
+                "hu": "Parkolj közvetlenül a kávézó előtt, hogy szárazon juss be.",
+                "ro": "Parcați chiar în fața cafenelei pentru a intra fără să vă udați.",
+                "en": "Park right in front of the café to stay dry as you head inside."
+              }
+            },
+            {
+              "name": "Pazinčica Naturstopp",
+              "tip_5lang": {
+                "de": "Man kann den Fluss auch gut von der Brücke aus dem Auto heraus sehen.",
+                "hu": "A folyó a hídról, az autóból is jól látható.",
+                "ro": "Râul poate fi văzut bine și de pe pod, direct din mașină.",
+                "en": "You can see the river well from the bridge, even without leaving the car."
+              }
+            },
+            {
+              "name": "Grimalda",
+              "tip_5lang": {
+                "de": "Vorsicht auf der schmalen Straße nach Grimalda; bei Regen kann es rutschig sein.",
+                "hu": "Vigyázz a Grimaldára vezető keskeny úton; esőben csúszós lehet.",
+                "ro": "Atenție pe drumul îngust spre Grimalda; poate fi alunecos pe ploaie.",
+                "en": "Be careful on the narrow road to Grimalda; it can be slippery in the rain."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Die Konoba ist der perfekte Ort, um ein schweres Gewitter auszusitzen.",
+                "hu": "A konoba tökéletes hely egy nagyobb zápor átvészelésére.",
+                "ro": "Konoba este locul perfect pentru a aștepta trecerea unei furtuni.",
+                "en": "The tavern is the perfect place to wait out a heavy rainstorm."
+              }
+            },
+            {
+              "name": "Draguć Cluster",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt am Ortseingang; der Weg zu den Fresken ist kurz.",
+                "hu": "Közvetlenül a falu bejáratánál van parkoló; a freskókhoz vezető út rövid.",
+                "ro": "Există locuri de parcare chiar la intrarea în sat; drumul spre fresce este scurt.",
+                "en": "There are parking spots right at the village entrance; it's a short walk to the frescoes."
+              }
+            },
+            {
+              "name": "Crkva sv. Roka, Draguć",
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren nassen Schirm im Vorraum der Kirche stehen.",
+                "hu": "Hagyd a vizes esernyődet a templom előterében.",
+                "ro": "Lăsați umbrela udă în vestibulul bisericii.",
+                "en": "Leave your wet umbrella in the church vestibule."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie unbefestigte Nebenstraßen, die bei Regen aufweichen können.",
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt durch die Hügel.",
+              "In den Tälern kann sich bei Regen schnell Nebel bilden; fahren Sie mit Licht.",
+              "Ein Regenschirm im Auto ist bei den kurzen Wegen zu den Sehenswürdigkeiten ideal."
+            ],
+            "hu": [
+              "Kerüld a burkolatlan mellékutakat, amik esőben felázhatnak.",
+              "Ellenőrizd az ablaktörlőket a dombok közötti autózás előtt.",
+              "A völgyekben esőben gyorsan kialakulhat köd, vezess felkapcsolt lámpával.",
+              "Egy esernyő az autóban ideális a látnivalókhoz vezető rövid sétákhoz."
+            ],
+            "ro": [
+              "Evitați drumurile secundare neasfaltate care se pot înmuia la ploaie.",
+              "Verificați ștergătoarele înainte de drumul prin dealuri.",
+              "În văi se poate forma rapid ceață pe ploaie; conduceți cu luminile aprinse.",
+              "O umbrelă în mașină este ideală pentru scurtele deplasări spre obiective."
+            ],
+            "en": [
+              "Avoid unpaved side roads that can become muddy and soft in the rain.",
+              "Check your windshield wipers before driving through the hills.",
+              "Fog can develop quickly in the valleys when it rains; drive with lights on.",
+              "An umbrella in the car is perfect for the short walks to the sights."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Cerovlje ist frostig, aber im Auto ist es warm. Wir bewundern die Eiskristalle an der Pazinčica und fahren durch die klare Winterluft nach Grimalda. Nach einem gemütlichen Mittagessen bei istrischen Spezialitäten erkunden wir das stille Draguć. Der Sonnenuntergang über den schneebedeckten Gipfeln in der Ferne ist ein Highlight.",
+            "hu": "A téli reggel fagyos Cerovljében, de az autóban meleg van. Megcsodáljuk a jégkristályokat a Pazinčicánál, majd a tiszta téli levegőben Grimaldára hajtunk. Egy hangulatos ebéd után a csendes Dragućot fedezzük fel. A távoli, hófödte csúcsok feletti naplemente igazi fénypont.",
+            "ro": "Dimineața de iarnă în Cerovlje este geroasă, dar în mașină este cald. Admirăm cristalele de gheață de la Pazinčica și conducem prin aerul clar spre Grimalda. După un prânz primitor cu specialități istriene, explorăm liniștea din Draguć. Apusul peste vârfurile înzăpezite din depărtare este un punct culminant.",
+            "en": "Winter morning in Cerovlje is frosty, but the car is warm. We admire the ice crystals at Pazinčica and drive through the clear air to Grimalda. After a cozy lunch with Istrian specialties, we explore quiet Draguć. The sunset over the distant snow-capped peaks is a highlight."
+          },
+          "stops": [
+            {
+              "name": "Cerovlje Frühstück",
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto warmlaufen, während Sie drinnen frühstücken.",
+                "hu": "Hagyd melegedni az autót, amíg bent reggelizel.",
+                "ro": "Lăsați mașina să se încălzească în timp ce luați micul dejun în interior.",
+                "en": "Let the car warm up while you enjoy your breakfast inside."
+              }
+            },
+            {
+              "name": "Pazinčica Naturstopp",
+              "tip_5lang": {
+                "de": "Die Luft am Fluss ist im Winter besonders frisch und klar.",
+                "hu": "A folyóparti levegő télen különösen friss és tiszta.",
+                "ro": "Aerul de lângă râu este deosebit de proaspăt și clar iarna.",
+                "en": "The air by the river is exceptionally fresh and clear in winter."
+              }
+            },
+            {
+              "name": "Grimalda",
+              "tip_5lang": {
+                "de": "Die Straßen können in schattigen Abschnitten vereist sein; fahren Sie vorsichtig.",
+                "hu": "Az utak az árnyékos szakaszokon jegesek lehetnek; vezess óvatosan.",
+                "ro": "Drumurile pot fi înghețate în porțiunile umbrite; conduceți cu prudență.",
+                "en": "Roads can be icy in shaded sections; please drive carefully."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Tisch in der Nähe des offenen Kamins.",
+                "hu": "Foglalj asztalt a nyitott kandalló közelében.",
+                "ro": "Rezervați o masă lângă șemineul deschis.",
+                "en": "Reserve a table near the open fireplace if possible."
+              }
+            },
+            {
+              "name": "Draguć Cluster",
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht für Fotos der mittelalterlichen Fassaden.",
+                "hu": "Használd ki az utolsó nappali fényeket a középkori homlokzatok fotózásához.",
+                "ro": "Profitați de ultima lumină a zilei pentru fotografii ale fațadelor medievale.",
+                "en": "Make use of the last daylight to take photos of the medieval facades."
+              }
+            },
+            {
+              "name": "Crkva sv. Roka, Draguć",
+              "tip_5lang": {
+                "de": "Die Stille in der Kirche ist im Winter noch beeindruckender.",
+                "hu": "A templom csendje télen még lenyűgözőbb.",
+                "ro": "Liniștea din biserică este și mai impresionantă iarna.",
+                "en": "The silence in the church is even more impressive during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen sind in den istrischen Hügeln im Winter Pflicht.",
+              "Füllen Sie Frostschutzmittel in die Scheibenwaschanlage.",
+              "Nehmen Sie eine warme Decke für eventuelle Pausen mit.",
+              "Achten Sie auf Wildwechsel, der im Winter häufiger in Straßennähe vorkommt."
+            ],
+            "hu": [
+              "A téli gumi kötelező a téli isztriai dombok között.",
+              "Tölts fagyállót az ablakmosó tartályba.",
+              "Vigyél magaddal egy meleg takarót az esetleges pihenőkhöz.",
+              "Figyelj a vadakra, amik télen gyakrabban merészkednek az utak közelébe."
+            ],
+            "ro": [
+              "Anvelopele de iarnă sunt obligatorii în dealurile Istriei pe timp de iarnă.",
+              "Puneți lichid de parbriz rezistent la îngheț.",
+              "Luați o pătură caldă pentru eventualele pauze.",
+              "Atenție la animalele sălbatice, care iarna se apropie mai des de drumuri."
+            ],
+            "en": [
+              "Winter tires are mandatory in the Istrian hills during winter.",
+              "Make sure to use anti-freeze windshield washer fluid.",
+              "Keep a warm blanket in the car for breaks.",
+              "Watch out for wildlife, which tends to come closer to roads in winter."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -934,6 +1498,170 @@
           "Buy your ticket at the counter or on the train.",
           "The trains are often old-fashioned but offer great views of the landscape."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten gemütlich im Bahnhofs-Café von Cerovlje und warten auf das Ende eines Regenschauers. Ein kurzer Spaziergang zur Pazinčica zeigt uns die wilde Seite der Natur im Regen. Nach dem Mittagessen im Ort bringt uns der lokale Shuttle nach Draguć, wo wir die historischen Schätze im Trockenen bewundern können. Die Rückfahrt im Zug bietet einen entspannten Blick auf die neblige Landschaft.",
+            "hu": "Kényelmesen kezdünk a cerovljei vasúti kávézóban, megvárva egy zápor végét. Egy rövid séta a Pazinčicához megmutatja a természet vadabb arcát esőben. Az ebéd után a helyi busz visz fel Dragućba, ahol szárazon csodálhatjuk meg a történelmi kincseket. A vonatút visszafelé pihentető kilátást nyújt a ködös tájra.",
+            "ro": "Începem relaxat la cafeneaua gării din Cerovlje, așteptând sfârșitul unei averse. O scurtă plimbare spre Pazinčica ne arată fața sălbatică a naturii pe ploaie. După prânz, naveta locală ne duce la Draguć, unde admirăm comorile istorice la adăpost. Drumul de întoarcere cu trenul oferă o priveliște relaxantă asupra peisajului cețos.",
+            "en": "We start comfortably at the Cerovlje station café, waiting for a rain shower to pass. A short walk to Pazinčica reveals nature's wilder side in the rain. After lunch, the local shuttle takes us to Draguć, where we can admire historical treasures while staying dry. The train ride back offers a relaxing view of the misty landscape."
+          },
+          "stops": [
+            {
+              "name": "Cerovlje Bahnhof-Café",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Wartezeit auf den Zug oder Bus trocken zu verbringen.",
+                "hu": "Ideális hely a vonat vagy busz várakozási idejének száraz eltöltéséhez.",
+                "ro": "Un loc ideal pentru a petrece timpul de așteptare pentru tren sau autobuz la uscat.",
+                "en": "An ideal spot to stay dry while waiting for your train or bus."
+              }
+            },
+            {
+              "name": "Pazinčica Spaziergang",
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Weg, um nicht im Schlamm stecken zu bleiben.",
+                "hu": "Használd a burkolt utat, hogy ne ragadj bele a sárba.",
+                "ro": "Folosiți drumul pavat pentru a nu vă bloca în noroi.",
+                "en": "Stick to the paved path to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": "Mittagessen in Cerovlje",
+              "tip_5lang": {
+                "de": "Das Restaurant liegt nur wenige Gehminuten vom Bahnhof entfernt.",
+                "hu": "Az étterem csak pár perc sétára van a vasútállomástól.",
+                "ro": "Restaurantul se află la doar câteva minute de mers pe jos de gară.",
+                "en": "The restaurant is just a few minutes' walk from the train station."
+              }
+            },
+            {
+              "name": "Draguć (lokaler Shuttle)",
+              "tip_5lang": {
+                "de": "Der Shuttle hält direkt am Ortseingang; kurze Wege sind garantiert.",
+                "hu": "A busz közvetlenül a falu bejáratánál áll meg; a gyalogút rövid.",
+                "ro": "Naveta oprește chiar la intrarea în sat; distanțele sunt scurte.",
+                "en": "The shuttle stops right at the village entrance; walking distances are short."
+              }
+            },
+            {
+              "name": "Crkva sv. Roka, Draguć",
+              "tip_5lang": {
+                "de": "Ein ruhiger Rückzugsort vor dem Regen, bevor der Shuttle zurückfährt.",
+                "hu": "Csendes menedék az eső elől a busz indulásáig.",
+                "ro": "Un refugiu liniștit de ploaie înainte de plecarea navetei înapoi.",
+                "en": "A quiet retreat from the rain before the shuttle departs for the return trip."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie bei starkem Regen mögliche Verspätungen im Zugverkehr.",
+              "Halten Sie Ihr Ticket griffbereit, um es nicht im Regen suchen zu müssen.",
+              "Nutzen Sie die Wartehallen an den Bahnhöfen als Regenunterstand.",
+              "Kombinieren Sie Bus und Zug, um die Gehwege im Freien zu minimieren."
+            ],
+            "hu": [
+              "Erős esőzés esetén ellenőrizd a vonatok esetleges késését.",
+              "Tartsd kéznél a jegyedet, hogy ne az esőben kelljen keresgélni.",
+              "Használd a vasútállomások várótermeit eső elleni menedékként.",
+              "Kombináld a buszt és a vonatot, hogy minimalizáld a szabadban töltött időt."
+            ],
+            "ro": [
+              "Verificați posibilele întârzieri ale trenurilor în caz de ploaie torențială.",
+              "Păstrați biletul la îndemână pentru a nu-l căuta prin ploaie.",
+              "Folosiți sălile de așteptare din gări ca adăpost împotriva ploii.",
+              "Combinați autobuzul și trenul pentru a minimiza mersul pe jos în exterior."
+            ],
+            "en": [
+              "Check for train delays during periods of heavy rain.",
+              "Keep your ticket handy so you don't have to search for it in the rain.",
+              "Use station waiting rooms as shelters from the rain.",
+              "Combine bus and train travel to minimize walking outdoors."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein heißer Kaffee im Bahnhofs-Café wärmt uns am frostigen Morgen auf. Der kurze Weg zur Pazinčica ist bei klarer Winterluft sehr erfrischend. Nach einem stärkenden Mittagessen im Dorf bringt uns der Shuttle ins winterliche Draguć, das wir fast für uns alleine haben. Die Rückfahrt im beheizten Zug ist der perfekte Abschluss des Tages.",
+            "hu": "Egy forró kávé a vasúti kávézóban felmelegít a fagyos reggelen. A rövid séta a Pazinčicához a tiszta téli levegőben nagyon frissítő. Egy laktató ebéd után a busz Dragućba visz, amit szinte teljesen egyedül élvezhetünk. A fűtött vonatút visszafelé a nap tökéletes zárása.",
+            "ro": "O cafea fierbinte la cafeneaua gării ne încălzește în dimineața geroasă. Scurta plimbare spre Pazinčica este foarte revigorantă în aerul clar de iarnă. După un prânz consistent, naveta ne duce în Draguć-ul hibernal, pe care îl avem aproape doar pentru noi. Întoarcerea cu trenul încălzit este încheierea perfectă a zilei.",
+            "en": "A hot coffee at the station café warms us up on a frosty morning. The short walk to Pazinčica is very refreshing in the clear winter air. After a filling lunch, the shuttle takes us to wintery Draguć, which we have almost entirely to ourselves. The ride back in a heated train is the perfect end to the day."
+          },
+          "stops": [
+            {
+              "name": "Cerovlje Bahnhof-Café",
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Innenbereich, bevor Sie den Bahnhof verlassen.",
+                "hu": "Élvezd a benti meleget, mielőtt elhagynád az állomást.",
+                "ro": "Bucurați-vă de căldura din interior înainte de a părăsi gara.",
+                "en": "Enjoy the warmth indoors before heading out from the station."
+              }
+            },
+            {
+              "name": "Pazinčica Spaziergang",
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an; der Wind am Fluss kann im Winter schneidend sein.",
+                "hu": "Öltözz fel jól; a folyóparti szél télen metsző lehet.",
+                "ro": "Îmbrăcați-vă gros; vântul de lângă râu poate fi tăios iarna.",
+                "en": "Dress warmly; the wind by the river can be biting in winter."
+              }
+            },
+            {
+              "name": "Mittagessen in Cerovlje",
+              "tip_5lang": {
+                "de": "Ein heißes Gericht ist jetzt genau das Richtige vor der Weiterfahrt.",
+                "hu": "Egy forró étel most pont megfelel a továbbutazás előtt.",
+                "ro": "O mâncare fierbinte este exact ce trebuie înainte de a continua drumul.",
+                "en": "A hot meal is exactly what you need before continuing your journey."
+              }
+            },
+            {
+              "name": "Draguć (lokaler Shuttle)",
+              "tip_5lang": {
+                "de": "Achten Sie auf den eingeschränkten Winterfahrplan des Shuttles.",
+                "hu": "Figyelj a busz korlátozott téli menetrendjére.",
+                "ro": "Atenție la programul de iarnă redus al navetei.",
+                "en": "Pay attention to the limited winter schedule of the shuttle."
+              }
+            },
+            {
+              "name": "Crkva sv. Roka, Draguć",
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fresken, aber halten Sie die Besichtigung kurz, um nicht auszukühlen.",
+                "hu": "Csodáld meg a freskókat, de tartsd röviden a látogatást, hogy ne hűlj ki.",
+                "ro": "Admirați frescele, dar păstrați vizita scurtă pentru a nu vă răci.",
+                "en": "Admire the frescoes, but keep your visit brief to avoid getting too cold."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie warme Winterschuhe, da die Bahnsteige oft zugig und kalt sind.",
+              "Nutzen Sie die App der kroatischen Bahn für Echtzeit-Informationen im Winter.",
+              "Die Abenddämmerung beginnt früh; planen Sie die Rückfahrt gegen 16 Uhr.",
+              "Ein Thermosbecher mit einem Heißgetränk ist ein idealer Begleiter für die Fahrt."
+            ],
+            "hu": [
+              "Viselj meleg téli cipőt, mert a peronok gyakran huzatosak és hidegek.",
+              "Használd a horvát vasút alkalmazását a valós idejű téli információkért.",
+              "A szürkület korán kezdődik, tervezd a visszautat délután 4 körülre.",
+              "Egy termoszbögre forró itallal ideális társ az utazáshoz."
+            ],
+            "ro": [
+              "Purtați încălțăminte caldă de iarnă, deoarece peroanele sunt adesea expuse vântului și reci.",
+              "Folosiți aplicația căilor ferate croate pentru informații în timp real pe timp de iarnă.",
+              "Amurgul începe devreme; planificați drumul de întoarcere în jurul orei 16.",
+              "O cană termos cu o băutură fierbinte este tovarășul ideal pentru drum."
+            ],
+            "en": [
+              "Wear warm winter shoes as station platforms are often drafty and cold.",
+              "Use the Croatian Railways app for real-time information during winter.",
+              "Twilight starts early; plan your return journey around 4 PM.",
+              "A thermos mug with a hot drink is an ideal companion for the trip."
+            ]
+          }
+        }
       }
     }
   }

@@ -248,6 +248,214 @@
           "Book the Brijuni ferry in advance if you plan a side trip.",
           "Park in the large public parking lot at the northern entrance."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in der Altstadt von Fažana beginnt unter dem Schutz der schmalen Gassen, wo die steinernen Häuser Schutz vor dem Regen bieten. Mittags suchen wir Zuflucht in der Kirche der hlg. Cosmas und Damian, bevor wir uns bei einem langen Mittagessen in einer gemütlichen Konoba aufwärmen. Nachmittags spazieren wir mit dem Regenschirm durch den Skulpturenpark, während die Wellen gegen die Mole schlagen. Der Abend endet am Hafen, wo das graue Meer eine dramatische Kulisse bietet.",
+            "hu": "A reggel Fažana óvárosában a szűk utcák védelmében telik, ahol a kőházak falai óvnak a szitáló esőtől. Délben a Szent Kozma és Damján-templom freskói között pihenünk, majd egy hosszú ebéddel melegszünk fel egy helyi konobában. Délután esernyővel járjuk be a szoborparkot, figyelve a hullámok játékát. Az este a kikötőben zárul, ahol az eső áztatta kövek és a morajló tenger drámai hangulatot árasztanak.",
+            "ro": "Dimineața în centrul vechi din Fažana începe la adăpostul străduțelor înguste, unde casele de piatră oferă protecție împotriva ploii. La prânz ne refugiem în biserica Sf. Cosma și Damian, apoi ne încălzim cu un prânz prelungit într-o konoba primitoare. După-amiaza explorăm parcul cu sculpturi sub umbrelă, admirând marea agitată. Seara se încheie în port, unde reflexiile luminilor pe asfaltul ud creează o atmosferă melancolică.",
+            "en": "Morning in Fažana's old town starts under the shelter of narrow alleys where stone houses protect from the drizzle. At noon, we find refuge among the frescoes of St. Cosmas and Damian church, followed by a long, warming lunch in a local tavern. In the afternoon, we stroll through the sculpture park with umbrellas, watching the waves crash. The evening concludes at the harbor, where the rain-slicked stones and stormy sea offer a dramatic backdrop."
+          },
+          "stops": [
+            {
+              "name": "Stara jezgra Fažane",
+              "tip_5lang": {
+                "de": "Tragen Sie rutschfeste Schuhe auf dem glatten Kopfsteinpflaster.",
+                "hu": "Viseljen csúszásmentes cipőt a síkos macskaköveken.",
+                "ro": "Purtați încălțăminte antiderapantă pe pietrele lustruite de ploaie.",
+                "en": "Wear non-slip shoes on the slippery rain-slicked cobblestones."
+              }
+            },
+            {
+              "name": "Crkva sv. Kuzme i Damjana",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um die 15. Jahrhundert-Fresken im Trockenen zu bewundern.",
+                "hu": "Tökéletes hely a 15. századi freskók megtekintésére a szárazban.",
+                "ro": "Locul ideal pentru a admira frescele din secolul XV la adăpost.",
+                "en": "A perfect spot to admire 15th-century frescoes while staying dry."
+              }
+            },
+            {
+              "name": "Riva",
+              "tip_5lang": {
+                "de": "Ein stabiler Regenschirm ist wegen des Küstenwindes ratsam.",
+                "hu": "Az erős tengeri szél miatt stabil esernyő javasolt.",
+                "ro": "O umbrelă rezistentă este necesară din cauza vântului de coastă.",
+                "en": "A sturdy umbrella is recommended due to coastal wind gusts."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Bestellen Sie Maneštra, einen herzhaften istrischen Eintopf.",
+                "hu": "Rendeljen Maneštrát, egy kiadós isztriai egytálételt.",
+                "ro": "Comandați Maneštra, o tocană istriană consistentă și caldă.",
+                "en": "Order Maneštra, a hearty Istrian stew to warm up."
+              }
+            },
+            {
+              "name": "Park skulptura",
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang zwischen den Werken, der Kiesweg ist gut begehbar.",
+                "hu": "Rövid séta a művek között, a kavicsos út esőben is járható.",
+                "ro": "O scurtă plimbare printre sculpturi; aleile cu pietriș sunt accesibile.",
+                "en": "A quick walk among sculptures; the gravel path handles rain well."
+              }
+            },
+            {
+              "name": "Strandpause am Meer",
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer von einer überdachten Terrasse.",
+                "hu": "Figyelje a viharos tengert egy fedett terasz védelméből.",
+                "ro": "Admirați marea agitată de sub o terasă acoperită.",
+                "en": "Watch the stormy sea from the safety of a covered terrace."
+              }
+            },
+            {
+              "name": "Abendlicher Sonnenuntergang",
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatischen Wolkenformationen über dem Wasser.",
+                "hu": "Élvezze a drámai felhőalakzatokat a víz felett.",
+                "ro": "Bucurați-vă de formațiunile dramatice de nori deasupra apei.",
+                "en": "Enjoy the dramatic cloud formations over the dark Adriatic."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Besuchen Sie das Fischerei-Museum im Haus der Sardinen für Indoor-Kultur.",
+              "Die Steinplatten in der Altstadt werden bei Nässe extrem rutschig.",
+              "Wählen Sie eine Konoba mit Kamin für maximale Gemütlichkeit.",
+              "Ein hochwertiges Regencape schützt besser vor Wind als ein Schirm.",
+              "Nutzen Sie die Regenpausen für Fotos vom glänzenden Hafen."
+            ],
+            "hu": [
+              "Látogassa meg a Szardínia-házat egy kis fedett kulturális programért.",
+              "Az óváros kőlapjai rendkívül csúszóssá válnak az esőtől.",
+              "Válasszon kandallós konobát a maximális kényelem érdekében.",
+              "Egy jó esőponcsó jobban véd a széltől, mint az esernyő.",
+              "Használja ki az esőmentes perceket a csillogó kikötő fotózására."
+            ],
+            "ro": [
+              "Vizitați micul muzeu al pescuitului pentru o experiență culturală indoor.",
+              "Pietrele din centrul vechi devin extrem de alunecoase când sunt ude.",
+              "Căutați o konoba cu șemineu pentru o atmosferă autentică și caldă.",
+              "O pelerină de ploaie este mai utilă decât o umbrelă în vântul marin.",
+              "Folosiți momentele de pauză ale ploii pentru fotografii în port."
+            ],
+            "en": [
+              "Visit the small fishing museum 'House of Sardines' for indoor culture.",
+              "The old town's stone pavers become extremely slippery when wet.",
+              "Choose a konoba with a fireplace for maximum coziness.",
+              "A high-quality rain poncho protects better against wind than an umbrella.",
+              "Take advantage of rain lulls to photograph the glistening harbor."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Fažana ist frisch und ruhig, ohne die Sommermassen. Nach einem Spaziergang durch den historischen Kern besichtigen wir die Kirche, bevor uns der kalte Bura-Wind zum Hafen treibt. Das Mittagessen ist eine herzhafte Angelegenheit mit lokalen Spezialitäten. Am Nachmittag genießen wir die klare Luft im Skulpturenpark, bevor wir uns bei einem Kaffee aufwärmen. Da die Sonne bereits gegen 16:30 Uhr sinkt, erleben wir einen farbenprächtigen Wintersonnenuntergang.",
+            "hu": "A téli reggel Fažanában friss és csendes, mentes a nyári tömegtől. Az óvárosi séta után meglátogatjuk a templomot, majd a hűvös Bóra szél elől a kikötő felé vesszük az irányt. Az ebéd során helyi specialitásokkal töltődünk fel. Délután a tiszta téli levegőt élvezzük a szoborparkban, mielőtt egy kávézóba húzódnánk. Mivel a nap már 16:30 körül nyugovóra tér, korán megcsodálhatjuk a színes téli naplementét.",
+            "ro": "O dimineață de iarnă în Fažana este revigorantă și liniștită, fără aglomerația estivală. După o plimbare prin centrul istoric, vizităm biserica, apoi vântul Bura ne îndeamnă spre port. Prânzul este o ocazie de a savura specialități locale calde. După-amiaza ne bucurăm de aerul curat în parcul de sculpturi. Deoarece soarele apune deja în jurul orei 16:30, vom asista devreme la un apus de iarnă spectaculos de colorat.",
+            "en": "A winter morning in Fažana is crisp and quiet, free from summer crowds. After a stroll through the historic core, we visit the church before the cool Bura wind nudges us toward the harbor. Lunch is a hearty affair with local winter specialties. In the afternoon, we enjoy the clear air in the sculpture park before warming up with coffee. As the sun sets around 4:30 PM, we experience a vibrant and early winter sunset over the islands."
+          },
+          "stops": [
+            {
+              "name": "Stara jezgra Fažane",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe; die meisten Gassen gehören Ihnen allein.",
+                "hu": "Élvezze a csendet; a legtöbb sikátor csak az öné ilyenkor.",
+                "ro": "Bucurați-vă de liniște; străduțele sunt aproape pustii și autentice.",
+                "en": "Enjoy the tranquility; most alleys belong to you alone today."
+              }
+            },
+            {
+              "name": "Crkva sv. Kuzme i Damjana",
+              "tip_5lang": {
+                "de": "Beachten Sie die Kleiderordnung, auch wenn es draußen kalt ist.",
+                "hu": "Ügyeljen az öltözékre, még ha kint hideg is van.",
+                "ro": "Respectați codul vestimentar, chiar dacă afară este frig.",
+                "en": "Maintain respectful attire inside, even if it's cold outside."
+              }
+            },
+            {
+              "name": "Riva",
+              "tip_5lang": {
+                "de": "Suchen Sie die windgeschützten Ecken, wenn die Bura weht.",
+                "hu": "Keresse a szélvédett sarkokat, ha fúj a Bóra.",
+                "ro": "Căutați locurile ferite de vânt dacă suflă Bura.",
+                "en": "Seek wind-sheltered corners if the Bura wind is blowing."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie Fuži mit Trüffeln – ein winterliches Highlight.",
+                "hu": "Kóstolja meg a szarvasgombás fuzit – igazi téli csemege.",
+                "ro": "Încercați Fuži cu trufe – un deliciu local perfect iarna.",
+                "en": "Try Fuži pasta with truffles – a winter culinary highlight."
+              }
+            },
+            {
+              "name": "Park skulptura",
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet die beste Sicht auf die Brijuni-Inseln.",
+                "hu": "A tiszta téli levegőben a legjobb a kilátás a Brijuni-szigetekre.",
+                "ro": "Aerul curat de iarnă oferă cea mai bună vizibilitate spre insulele Brijuni.",
+                "en": "Clear winter air offers the best visibility toward Brijuni islands."
+              }
+            },
+            {
+              "name": "Strandpause am Meer",
+              "tip_5lang": {
+                "de": "Ein zügiger Strandspaziergang ersetzt das Bad im Meer.",
+                "hu": "Egy tempós tengerparti séta helyettesíti a fürdőzést.",
+                "ro": "O plimbare rapidă pe plajă înlocuiește scăldatul în mare.",
+                "en": "A brisk beach walk replaces a swim in the sea today."
+              }
+            },
+            {
+              "name": "Abendlicher Sonnenuntergang",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang findet bereits gegen 16:30 Uhr statt.",
+                "hu": "A naplemente már 16:30 körül bekövetkezik.",
+                "ro": "Apusul are loc devreme, în jurul orei 16:30.",
+                "en": "The sunset occurs early, typically around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten, um sich gegen den Wind zu schützen.",
+              "Prüfen Sie die Öffnungszeiten der Konobas, einige machen Winterpause.",
+              "Besuchen Sie das nahegelegene Vodnjan für die Mumien in der Kirche.",
+              "Trinken Sie einen Glühwein oder heißen Tee direkt am Hafen.",
+              "Die Brijuni-Fähre fährt im Winter seltener; Fahrplan vorab prüfen."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a hideg tengeri szél ellen.",
+              "Ellenőrizze az éttermek nyitvatartását, néhány hely télen zárva tart.",
+              "Látogasson el a közeli Vodnjanba a templomi múmiákért.",
+              "Igyon egy forralt bort vagy forró teát közvetlenül a kikötőben.",
+              "A Brijuni-komp télen ritkábban jár; előre nézze meg a menetrendet."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru a vă proteja de vântul rece.",
+              "Verificați programul restaurantelor; unele sunt închise iarna.",
+              "Vizitați orașul vecin Vodnjan pentru mumiile din biserică.",
+              "Savurați un vin fiert sau un ceai fierbinte chiar în port.",
+              "Feribotul spre Brijuni circulă mai rar; verificați orarul în avans."
+            ],
+            "en": [
+              "Dress in layers to protect yourself from the biting Bura wind.",
+              "Check restaurant opening hours as some take a winter break.",
+              "Visit nearby Vodnjan for the mummies in the local church.",
+              "Enjoy a mulled wine or hot tea directly at the harbor.",
+              "The Brijuni ferry runs less frequently in winter; check schedules."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -508,6 +716,232 @@
           "The coastal path is flat and very easy to ride.",
           "Bring enough water, as there are few fountains along the way."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Küstenwegen bei Fažana. Wir starten im historischen Kern und fahren vorsichtig nach Valbandon, wo die Gischt mit dem Regen verschmilzt. Das Mittagessen am Strand findet unter einem festen Dach statt, während wir uns stärken. Am Nachmittag führt uns der Weg durch den Skulpturenpark zurück nach Peroj, stets mit Blick auf das graue Meer. Der Tag endet an der Riva, wo wir die Fahrräder sicher abstellen.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a Fažana környéki parti utakon. Az óvárosból indulva óvatosan tekerünk Valbandon felé, ahol a tenger permete keveredik az esővel. A tengerparti ebéd tető alatt zajlik, miközben erőt gyűjtünk. Délután a szoborparkon keresztül vezet az utunk Peroj felé, szemünk előtt a szürke tengerrel. A nap a kikötőben zárul, ahol biztonságba helyezzük a bringákat.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe pistele de coastă din Fažana. Pornim din centrul istoric spre Valbandon, unde vaporii mării se amestecă cu picăturile de ploaie. Prânzul la plajă se ia sub un acoperiș solid pentru a ne reîncărca bateriile. După-amiaza traseul ne poartă prin parcul de sculpturi spre Peroj, cu marea gri mereu în vedere. Ziua se încheie în port, unde parcăm bicicletele în siguranță.",
+            "en": "Cycling in the rain requires caution on the coastal paths near Fažana. We start in the historic core and head carefully toward Valbandon, where sea spray mixes with the drizzle. Lunch by the beach is taken under a solid roof while we recharge. In the afternoon, the path leads through the sculpture park toward Peroj, with the grey sea always in view. The day ends at the Riva, where we safely park our bikes."
+          },
+          "stops": [
+            {
+              "name": "Stara jezgra Fažane",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Kopfsteinpflaster; Rutschgefahr!",
+                "hu": "Vigyázat a nedves macskaköveken; nagyon csúszik!",
+                "ro": "Atenție pe piatra cubică umedă; risc ridicat de derapare!",
+                "en": "Caution on wet cobblestones; high risk of slipping!"
+              }
+            },
+            {
+              "name": "Crkva sv. Kuzme i Damjana",
+              "tip_5lang": {
+                "de": "Kurze Pause im Trockenen, Fahrräder nah am Eingang parken.",
+                "hu": "Rövid szünet a szárazban, parkoljon közel a bejárathoz.",
+                "ro": "Scurtă pauză la adăpost; parcați bicicletele aproape de intrare.",
+                "en": "Short break in the dry; park bikes close to the entrance."
+              }
+            },
+            {
+              "name": "Küstenradweg nach Valbandon",
+              "tip_5lang": {
+                "de": "Pfützen können tief sein; fahren Sie langsam auf dem Schotter.",
+                "hu": "A tócsák mélyek lehetnek; haladjon lassan a murvás úton.",
+                "ro": "Bălțile pot fi adânci; rulați încet pe porțiunile cu pietriș.",
+                "en": "Puddles can be deep; ride slowly on the gravel sections."
+              }
+            },
+            {
+              "name": "Lunch am Strand",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant mit überdachtem Außenbereich.",
+                "hu": "Válasszon fedett terasszal rendelkező éttermet.",
+                "ro": "Alegeți un restaurant cu terasă acoperită și protejată.",
+                "en": "Choose a restaurant with a well-covered outdoor area."
+              }
+            },
+            {
+              "name": "Park skulptura",
+              "tip_5lang": {
+                "de": "Die Wege sind fest, aber bei Regen etwas schlammig.",
+                "hu": "Az utak stabilak, de esőben kissé sarasak lehetnek.",
+                "ro": "Potecile sunt solide, dar pot deveni noroioase pe alocuri.",
+                "en": "Paths are solid but can be slightly muddy in the rain."
+              }
+            },
+            {
+              "name": "Fahrt Richtung Peroj",
+              "tip_5lang": {
+                "de": "Nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+                "hu": "Használjon sárvédőt a felcsapódó víz ellen.",
+                "ro": "Folosiți aripi de protecție împotriva stropilor de noroi.",
+                "en": "Use fenders to protect yourself from road spray and mud."
+              }
+            },
+            {
+              "name": "Badepause Pineta",
+              "tip_5lang": {
+                "de": "Kein Badetag, aber ein guter Ort für eine kurze Regenpause.",
+                "hu": "Nem fürdőidő, de jó hely egy rövid esőszünetre.",
+                "ro": "Nu e zi de baie, dar e un loc bun pentru o scurtă pauză.",
+                "en": "Not a swimming day, but a good spot for a quick rain break."
+              }
+            },
+            {
+              "name": "Riva",
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihr Fahrrad nach der Fahrt gut ab.",
+                "hu": "A túra után törölje szárazra a kerékpárt.",
+                "ro": "Ștergeți bine bicicleta după terminarea traseului.",
+                "en": "Dry your bike thoroughly after finishing the ride."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserdichte Kleidung und Überschuhe.",
+              "Reduzieren Sie den Reifendruck leicht für besseren Grip auf Nässe.",
+              "Vermeiden Sie abrupte Bremsmanöver auf dem glatten Untergrund.",
+              "Ein Helm mit Visier hilft, die Sicht bei Regen frei zu halten.",
+              "Halten Sie Ausschau nach Cafés mit überdachten Fahrradständern."
+            ],
+            "hu": [
+              "Viseljen vízálló ruházatot és cipővédőt.",
+              "Kissé csökkentse a guminyomást a jobb tapadás érdekében.",
+              "Kerülje a hirtelen fékezést a csúszós felületeken.",
+              "A sildes bukósisak segít tisztán tartani a látóteret esőben.",
+              "Keressen olyan kávézókat, ahol van fedett kerékpártároló."
+            ],
+            "ro": [
+              "Purtați haine impermeabile și protecții pentru încălțăminte.",
+              "Reduceți ușor presiunea în pneuri pentru o aderență mai bună.",
+              "Evitați frânările bruște pe suprafețele umede și lucioase.",
+              "O cască cu vizieră ajută la menținerea vizibilității optime.",
+              "Căutați cafenele care oferă rastele de biciclete acoperite."
+            ],
+            "en": [
+              "Wear fully waterproof clothing and shoe covers.",
+              "Slightly reduce tire pressure for better grip on wet roads.",
+              "Avoid sudden braking maneuvers on slippery surfaces.",
+              "A helmet with a visor helps keep your vision clear in the rain.",
+              "Look for cafes with covered bike racks for short breaks."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Rad startet frisch in Fažana. Wir erkunden die Gassen und radeln dann den Küstenweg entlang, wo uns die Meeresbrise belebt. Das Mittagessen am Strand ist ruhig, die Sonne wärmt durch die Glasfenster der Restaurants. Am Nachmittag geht es durch den Skulpturenpark nach Peroj, wobei das goldene Winterlicht die Landschaft verzaubert. Bevor die Sonne früh untergeht, kehren wir zur Riva zurück und genießen die friedliche Atmosphäre.",
+            "hu": "A téli bringatúra frissen indul Fažanában. Felfedezzük a sikátorokat, majd a parti úton tekerünk, ahol a tengeri szellő élénkítő hatású. A tengerparti ebéd csendes, a nap az éttermek üvegablakain át melenget. Délután a szoborparkon át Peroj felé vesszük az irányt, az aranyló téli fényekben gyönyörködve. Mielőtt a nap korán lenyugszik, visszatérünk a kikötőbe, élvezve a békés hangulatot.",
+            "ro": "Turul de iarnă cu bicicleta începe vioi în Fažana. Explorăm străduțele și apoi pedalăm pe pista de coastă, unde briza mării ne înviorează. Prânzul la plajă este liniștit, soarele încălzind prin ferestrele mari ale restaurantelor. După-amiaza trecem prin parcul de sculpturi spre Peroj, sub lumina aurie a iernii. Înainte de apusul timpuriu, revenim în port pentru a savura atmosfera pașnică.",
+            "en": "The winter bike tour starts briskly in Fažana. We explore the narrow streets and then cycle along the coastal path, where the sea breeze is invigorating. Lunch by the beach is quiet, with the sun warming through restaurant windows. In the afternoon, we head through the sculpture park toward Peroj, enchanted by the golden winter light. Before the early sunset, we return to the Riva to enjoy the peaceful harbor vibe."
+          },
+          "stops": [
+            {
+              "name": "Stara jezgra Fažane",
+              "tip_5lang": {
+                "de": "Wenig Fußgänger, ideal zum langsamen Erkunden der Gassen.",
+                "hu": "Kevés a gyalogos, ideális a sikátorok lassú felfedezéséhez.",
+                "ro": "Puțini pietoni, ideal pentru explorarea lentă a centrului.",
+                "en": "Few pedestrians, ideal for slowly exploring the alleys."
+              }
+            },
+            {
+              "name": "Crkva sv. Kuzme i Damjana",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirche als Windschutz für eine kurze Rast.",
+                "hu": "Használja a templomot szélvédőként egy rövid pihenőre.",
+                "ro": "Folosiți clădirea bisericii ca paravan împotriva vântului.",
+                "en": "Use the church building as a windbreak for a short rest."
+              }
+            },
+            {
+              "name": "Küstenradweg nach Valbandon",
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind wegen des kühlen Fahrtwindes wichtig.",
+                "hu": "A hűvös menetszél miatt fontos a meleg kesztyű.",
+                "ro": "Mănușile călduroase sunt esențiale din cauza vântului rece.",
+                "en": "Warm gloves are essential due to the cool headwind."
+              }
+            },
+            {
+              "name": "Lunch am Strand",
+              "tip_5lang": {
+                "de": "Genießen Sie den Meerblick hinter schützenden Glasscheiben.",
+                "hu": "Élvezze a tengeri kilátást a védő üvegfalak mögül.",
+                "ro": "Bucurați-vă de vederea la mare din spatele ferestrelor.",
+                "en": "Enjoy the sea view from behind protective glass windows."
+              }
+            },
+            {
+              "name": "Park skulptura",
+              "tip_5lang": {
+                "de": "Das Licht am frühen Nachmittag ist ideal für Fotos.",
+                "hu": "A kora délutáni fények ideálisak a fotózáshoz.",
+                "ro": "Lumina de după-amiază este ideală pentru fotografii reușite.",
+                "en": "Early afternoon light is ideal for photography here."
+              }
+            },
+            {
+              "name": "Fahrt Richtung Peroj",
+              "tip_5lang": {
+                "de": "Achten Sie auf Schattenstellen, die kälter sein können.",
+                "hu": "Ügyeljen az árnyékos szakaszokra, ahol hidegebb lehet.",
+                "ro": "Atenție la porțiunile umbrite, unde poate fi mult mai frig.",
+                "en": "Watch out for shaded sections which can be much colder."
+              }
+            },
+            {
+              "name": "Badepause Pineta",
+              "tip_5lang": {
+                "de": "Guter Umkehrpunkt, bevor es im Winter kühl wird.",
+                "hu": "Jó fordulópont, mielőtt este lehűlne a levegő.",
+                "ro": "Un punct bun de întoarcere înainte de răcirea serii.",
+                "en": "Good turnaround point before the evening chill sets in."
+              }
+            },
+            {
+              "name": "Riva",
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 17:00 Uhr, um im Hellen zu bleiben.",
+                "hu": "Fejezze be a túrát 17:00 előtt, hogy világosban maradjon.",
+                "ro": "Încheiați turul înainte de ora 17:00 pentru a avea lumină.",
+                "en": "Finish the tour before 5 PM to stay in the daylight."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine winddichte Jacke (Softshell) gegen die Bura.",
+              "Vermeiden Sie späte Fahrten; nach Sonnenuntergang sinkt die Temperatur.",
+              "Trinken Sie ausreichend Wasser, auch wenn es kalt ist.",
+              "Die Tage sind kurz; planen Sie Ihre Rückkehr für 16:30 Uhr.",
+              "Ein Multifunktionstuch schützt Hals und Gesicht vor Kälte."
+            ],
+            "hu": [
+              "Viseljen szélálló kabátot a Bóra ellen.",
+              "Kerülje a késői tekerést; naplemente után hirtelen lehűl az idő.",
+              "Igyon elegendő vizet akkor is, ha nem érzi szomjasnak magát.",
+              "A nappalok rövidek; tervezze a visszaérkezést 16:30-ra.",
+              "A csősál jól védi a nyakat és az arcot a hidegtől."
+            ],
+            "ro": [
+              "Purtați o jachetă rezistentă la vânt împotriva vântului Bura.",
+              "Evitați plimbările târzii; temperatura scade brusc după apus.",
+              "Hidratați-vă corespunzător, chiar dacă nu simțiți setea.",
+              "Zilele sunt scurte; planificați revenirea pentru ora 16:30.",
+              "O eșarfă tip tub protejează bine gâtul și fața de frig."
+            ],
+            "en": [
+              "Wear a windproof softshell jacket against the Bura wind.",
+              "Avoid late rides; temperatures drop sharply after sunset.",
+              "Keep hydrated even if you don't feel thirsty in the cold.",
+              "Days are short; plan your return for around 4:30 PM.",
+              "A neck gaiter or buff protects your face from the chill."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -750,6 +1184,214 @@
           "In peak season, parking lots by the harbour fill up quickly.",
           "Hinterland roads are narrow, drive carefully."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Regen ist das Auto ideal, um Fažana und Umgebung bequem zu erkunden. Wir starten im Zentrum und parken nah an der Altstadt für einen kurzen Rundgang. Das Mittagessen genießen wir ausgiebig im Trockenen. Nachmittags fahren wir zum Skulpturenpark und setzen die Tour zum Aussichtspunkt Vodnjan fort, wo die Aussicht auf die Adria auch bei Wolken beeindruckt. Der Tag endet gemütlich am Strand von Valbandon, wo wir das Wetter sicher im Blick haben.",
+            "hu": "Esőben az autó ideális Fažana és környéke kényelmes felfedezéséhez. A központban kezdünk, közel parkolva az óvároshoz egy rövid körre. Az ebédet hosszan élvezzük a szárazban. Délután a szoborparkhoz hajtunk, majd folytatjuk az utat a vodnjani kilátóhoz, ahol az Adria látványa felhős időben is lenyűgöző. A nap a valbandoni tengerparton zárul, ahol biztonságban figyelhetjük az időjárást.",
+            "ro": "Pe ploaie, mașina este ideală pentru a explora Fažana și împrejurimile în confort. Începem în centru și parcăm aproape de orașul vechi pentru un tur scurt. Savurăm un prânz prelungit la adăpost. După-amiaza mergem la parcul de sculpturi și continuăm spre punctul de belvedere din Vodnjan, unde vederea spre Adriatică este impresionantă și sub nori. Ziua se încheie relaxat la plaja Valbandon.",
+            "en": "In the rain, a car is ideal for exploring Fažana and its surroundings in comfort. We start in the center, parking close to the old town for a brief tour. We enjoy a long lunch in the dry. In the afternoon, we drive to the sculpture park and continue to the Vodnjan viewpoint, where the Adriatic view is impressive even under clouds. The day ends relaxingly at Valbandon beach, watching the weather from safety."
+          },
+          "stops": [
+            {
+              "name": "Stara jezgra Fažane (Cluster A)",
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz an der Uferpromenade.",
+                "hu": "Használja a tengerparti sétány melletti nagy parkolót.",
+                "ro": "Folosiți parcarea mare de lângă faleză pentru acces facil.",
+                "en": "Use the large parking lot near the waterfront for easy access."
+              }
+            },
+            {
+              "name": "Crkva sv. Kuzme i Damjana (Cluster A)",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; Regenschirm mitnehmen.",
+                "hu": "Rövid séta a parkolótól; vigyen magával esernyőt.",
+                "ro": "Scurtă plimbare de la parcare; luați umbrela cu voi.",
+                "en": "Short walk from the parking lot; bring an umbrella."
+              }
+            },
+            {
+              "name": "Riva (Cluster A)",
+              "tip_5lang": {
+                "de": "Perfekt für Fotos vom Auto aus, wenn es zu stark regnet.",
+                "hu": "Tökéletes fotózáshoz az autóból, ha túl erősen esne.",
+                "ro": "Loc ideal pentru poze din mașină dacă plouă torențial.",
+                "en": "Perfect for photos from the car if the rain gets too heavy."
+              }
+            },
+            {
+              "name": "Mittagessen in Fažana",
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor dem Restaurant, um trocken zu bleiben.",
+                "hu": "Parkoljon közvetlenül az étterem előtt, hogy száraz maradjon.",
+                "ro": "Parcați chiar în fața restaurantului pentru a rămâne uscat.",
+                "en": "Park right in front of the restaurant to stay dry."
+              }
+            },
+            {
+              "name": "Park skulptura (Cluster B)",
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Eingang ist bei Regen praktisch.",
+                "hu": "A közvetlenül a bejáratnál lévő parkoló esőben praktikus.",
+                "ro": "Parcarea de la intrare este foarte practică pe timp de ploaie.",
+                "en": "The parking lot at the entrance is very practical in the rain."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Vodnjan (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Wolken über den Brijuni-Inseln sind ein tolles Fotomotiv.",
+                "hu": "A Brijuni-szigetek feletti felhők remek fotótémát adnak.",
+                "ro": "Norii deasupra insulelor Brijuni oferă un cadru fotografic unic.",
+                "en": "Clouds over the Brijuni islands make for great photography."
+              }
+            },
+            {
+              "name": "Strand Valbandon (Cluster D)",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Meer vom warmen Auto.",
+                "hu": "Élvezze a viharos tenger látványát a meleg autóból.",
+                "ro": "Admirați marea agitată din confortul mașinii încălzite.",
+                "en": "Watch the stormy sea from the comfort of your warm car."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützen auf den Nebenstraßen nach Vodnjan.",
+              "Halten Sie die Fenster leicht geöffnet, um Beschlagen zu verhindern.",
+              "Wählen Sie Parkplätze auf festem Untergrund, um Schlamm zu meiden.",
+              "Besuchen Sie das Chiavalon Olivenöl-Zentrum für ein Indoor-Tasting.",
+              "Die Sicht in Vodnjan kann bei starkem Regen eingeschränkt sein."
+            ],
+            "hu": [
+              "Ügyeljen a tócsákra a Vodnjan felé vezető mellékutakon.",
+              "Hagyja résnyire nyitva az ablakot a párásodás elkerülése érdekében.",
+              "Válasszon szilárd burkolatú parkolót a sár elkerülésére.",
+              "Látogassa meg a Chiavalon olívaolaj-központot kóstolóra.",
+              "Erős esőben a kilátás korlátozott lehet Vodnjanban."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile secundare spre Vodnjan.",
+              "Porniți climatizarea pentru a evita aburirea geamurilor.",
+              "Alegeți parcări cu suprafață solidă pentru a evita noroiul.",
+              "Vizitați centrul de ulei de măsline Chiavalon pentru o degustare.",
+              "Vizibilitatea în Vodnjan poate fi redusă în timpul ploii abundente."
+            ],
+            "en": [
+              "Watch out for deep puddles on backroads toward Vodnjan.",
+              "Keep the AC on or windows slightly open to prevent fogging.",
+              "Select paved parking spots to avoid getting stuck in mud.",
+              "Visit the Chiavalon olive oil center for an indoor tasting.",
+              "Visibility at the Vodnjan viewpoint may be low during heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintertag bietet das Auto die Freiheit, Fažana und Vodnjan stressfrei zu verbinden. Wir beginnen in der Altstadt, wo das Parken im Winter kein Problem ist. Nach der Besichtigung der Kirche wärmen wir uns bei einem Mittagessen auf. Am Nachmittag fahren wir zum Aussichtspunkt Vodnjan, um das glitzernde Wintermeer zu sehen, bevor wir den Tag am ruhigen Strand von Valbandon ausklingen lassen. Die Heizung im Auto macht die Fahrten zwischen den Stopps angenehm.",
+            "hu": "Egy tiszta téli napon az autó szabadságot ad, hogy Fažanát és Vodnjant stresszmentesen összekössük. Az óvárosban kezdünk, ahol a parkolás télen nem jelent gondot. A templomlátogatás után egy ebéddel melegszünk fel. Délután a vodnjani kilátóhoz hajtunk a csillogó téli tenger látványáért, majd a napot a csendes valbandoni parton zárjuk. Az autó fűtése kellemessé teszi a megállók közötti utat.",
+            "ro": "Într-o zi senină de iarnă, mașina oferă libertatea de a vizita Fažana și Vodnjan fără stres. Începem în orașul vechi, unde parcarea nu este o problemă iarna. După vizitarea bisericii, ne încălzim la prânz. După-amiaza mergem la punctul de belvedere din Vodnjan pentru a vedea marea sclipitoare, apoi încheiem ziua pe plaja liniștită din Valbandon. Încălzirea din mașină face deplasarea foarte plăcută.",
+            "en": "On a clear winter day, a car gives you the freedom to link Fažana and Vodnjan stress-free. We start in the old town, where parking is easy in winter. After visiting the church, we warm up with lunch. In the afternoon, we drive to the Vodnjan viewpoint for a glimpse of the sparkling winter sea, ending the day at the quiet Valbandon beach. The car's heater makes the short trips between stops very pleasant."
+          },
+          "stops": [
+            {
+              "name": "Stara jezgra Fažane (Cluster A)",
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter reichlich vorhanden und oft günstiger.",
+                "hu": "Télen bőségesen van parkolóhely, és gyakran olcsóbb is.",
+                "ro": "Locurile de parcare sunt abundente iarna și adesea mai ieftine.",
+                "en": "Parking spaces are plentiful in winter and often cheaper."
+              }
+            },
+            {
+              "name": "Crkva sv. Kuzme i Damjana (Cluster A)",
+              "tip_5lang": {
+                "de": "Ein ruhiger Besuch ohne die üblichen Touristengruppen.",
+                "hu": "Csendes látogatás a szokásos turistacsoportok nélkül.",
+                "ro": "O vizită liniștită, fără grupurile obișnuite de turiști.",
+                "en": "A quiet visit without the usual large tourist groups."
+              }
+            },
+            {
+              "name": "Riva (Cluster A)",
+              "tip_5lang": {
+                "de": "Spaziergang entlang der Mole; warme Kleidung einplanen.",
+                "hu": "Séta a mólón; készüljön meleg ruházattal.",
+                "ro": "Plimbare pe dig; asigurați-vă că aveți haine groase.",
+                "en": "Stroll along the pier; make sure to wear warm clothing."
+              }
+            },
+            {
+              "name": "Mittagessen in Fažana",
+              "tip_5lang": {
+                "de": "Probieren Sie lokale Fleischgerichte wie Ombolo und Würstchen.",
+                "hu": "Kóstolja meg a helyi húsételeket, mint az ombolo és a kolbász.",
+                "ro": "Gustați preparatele locale din carne, precum ombolo și cârnații.",
+                "en": "Try local meat specialties like ombolo and sausages."
+              }
+            },
+            {
+              "name": "Park skulptura (Cluster B)",
+              "tip_5lang": {
+                "de": "Kurzer Halt für Fotos im klaren, tiefstehenden Winterlicht.",
+                "hu": "Rövid megálló fotózásra a tiszta, alacsony téli fényben.",
+                "ro": "Oprire scurtă pentru poze în lumina clară a iernii.",
+                "en": "Short stop for photos in the clear, low winter light."
+              }
+            },
+            {
+              "name": "Aussichtspunkt Vodnjan (Cluster C)",
+              "tip_5lang": {
+                "de": "Die beste Sicht des Jahres auf das gesamte Archipel.",
+                "hu": "Az év legjobb kilátása a teljes szigetvilágra.",
+                "ro": "Cea mai bună vizibilitate din an asupra întregului arhipelag.",
+                "en": "The best visibility of the year over the entire archipelago."
+              }
+            },
+            {
+              "name": "Strand Valbandon (Cluster D)",
+              "tip_5lang": {
+                "de": "Perfekter Ort für den frühen Sonnenuntergang gegen 16:30 Uhr.",
+                "hu": "Tökéletes hely a korai naplementéhez 16:30 körül.",
+                "ro": "Locul perfect pentru apusul devreme, în jurul orei 16:30.",
+                "en": "Perfect spot for the early sunset around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck vor längeren Fahrten im Winter.",
+              "Nehmen Sie eine Thermoskanne mit warmem Tee im Auto mit.",
+              "Besuchen Sie die Kaschuns (Steinhütten) in der Nähe von Vodnjan.",
+              "Die Straßen können am frühen Morgen stellenweise glatt sein.",
+              "Nutzen Sie die kurzen Wege, um mehr Zeit im Warmen zu verbringen."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a téli autózás előtt.",
+              "Vigyen magával termoszt forró teával az autóban.",
+              "Látogassa meg a Vodnjan környéki kőkunyhókat (kažun).",
+              "Kora reggel az utak helyenként csúszósak lehetnek.",
+              "Használja ki a rövid távolságokat, töltsön több időt a melegben."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope înainte de drumurile de iarnă.",
+              "Luați un termos cu ceai cald în mașină pentru drum.",
+              "Vizitați 'kažuni' (colibe de piatră) din jurul Vodnjanului.",
+              "Drumurile pot fi alunecoase pe porțiuni dimineața devreme.",
+              "Folosiți distanțele scurte pentru a petrece mai mult timp la căldură."
+            ],
+            "en": [
+              "Check tire pressure before winter drives for safety.",
+              "Carry a thermos with hot tea in the car for breaks.",
+              "Visit the traditional stone huts (kažun) near Vodnjan.",
+              "Roads can be slippery in patches during early morning.",
+              "Take advantage of short distances to spend more time indoors."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -993,6 +1635,214 @@
           "Tickets can be purchased directly from the driver.",
           "Buses run until late at night in the summer."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir Fažana auch im Regen bequem. Der Tag beginnt an der Riva, von wo wir schnell in die schützende Altstadt flüchten. Mittags besichtigen wir die Kirche und wärmen uns in einer Konoba am Hafen auf. Der Nachmittag führt uns zum Skulpturenpark, bevor wir uns für die Rückfahrt wieder an der Riva einfinden. Die überdachten Wartebereiche sind heute unsere besten Freunde.",
+            "hu": "Busszal esőben is kényelmesen elérjük Fažanát. A nap a kikötőben kezdődik, ahonnan gyorsan az óváros védelmébe húzódunk. Délben meglátogatjuk a templomot, és a kikötői konobák egyikében melegszünk fel. Délután a szoborparkot keressük fel, mielőtt visszatérnénk a Riva-hoz a buszhoz. A fedett várók ma a legjobb barátaink.",
+            "ro": "Cu autobuzul ajungem confortabil în Fažana chiar și pe ploaie. Ziua începe în port, de unde ne retragem rapid spre centrul vechi. La prânz vizităm biserica și ne încălzim într-o konoba. După-amiaza mergem spre parcul de sculpturi înainte de a ne întoarce la Riva pentru plecare. Stațiile acoperite sunt punctele noastre de reper astăzi.",
+            "en": "By bus, we reach Fažana comfortably even in the rain. The day starts at the Riva, from where we quickly seek shelter in the old town. At noon, we visit the church and warm up in a harbor tavern. The afternoon leads us to the sculpture park before returning to the Riva for the bus back. Covered waiting areas are our best friends today."
+          },
+          "stops": [
+            {
+              "name": "Ankunft Fažana Riva (Cluster A)",
+              "tip_5lang": {
+                "de": "Der Busbahnhof bietet begrenzten Schutz; Schirm parat halten.",
+                "hu": "A buszmegálló korlátozott védelmet nyújt; tartsa készen az ernyőt.",
+                "ro": "Stația oferă protecție limitată; țineți umbrela la îndemână.",
+                "en": "The bus stop offers limited shelter; keep your umbrella ready."
+              }
+            },
+            {
+              "name": "Stara jezgra Fažane (Cluster A)",
+              "tip_5lang": {
+                "de": "Die schmalen Gassen bieten guten Schutz vor Wind und Regen.",
+                "hu": "A szűk sikátorok jó védelmet nyújtanak a szél és az eső ellen.",
+                "ro": "Străduțele înguste oferă protecție bună împotriva vântului.",
+                "en": "The narrow alleys offer good protection from wind and rain."
+              }
+            },
+            {
+              "name": "Crkva sv. Kuzme i Damjana (Cluster A)",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Pause während eines Schauers.",
+                "hu": "Csendes hely egy pihenőre a záporok alatt.",
+                "ro": "Un loc liniștit pentru o pauză în timpul ploii.",
+                "en": "A quiet place for a break during heavy showers."
+              }
+            },
+            {
+              "name": "Mittagessen am Hafen",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant nah an der Bushaltestelle.",
+                "hu": "Válasszon éttermet közel a buszmegállóhoz.",
+                "ro": "Alegeți un restaurant aproape de stația de autobuz.",
+                "en": "Choose a restaurant close to the bus stop for convenience."
+              }
+            },
+            {
+              "name": "Park skulptura (Cluster B)",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg; achten Sie auf die Fahrzeiten der Busse.",
+                "hu": "Rövid séta; ügyeljen a buszok menetrendjére.",
+                "ro": "Plimbare scurtă; verificați orarul autobuzelor la întoarcere.",
+                "en": "Short walk; keep an eye on the bus schedule for the return."
+              }
+            },
+            {
+              "name": "Badepause Pineta (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Cafés hier sind gute Unterstände bei Regen.",
+                "hu": "Az itteni kávézók jó menedéket nyújtanak az esőben.",
+                "ro": "Cafenelele de aici sunt bune puncte de adăpost pe ploaie.",
+                "en": "The cafes here serve as good shelters during rain."
+              }
+            },
+            {
+              "name": "Rückfahrt von Riva",
+              "tip_5lang": {
+                "de": "Seien Sie rechtzeitig da; Busse fahren bei Regen pünktlich.",
+                "hu": "Érkezzen időben; a buszok esőben is tartják a menetrendet.",
+                "ro": "Ajungeți din timp; autobuzele respectă orarul și pe ploaie.",
+                "en": "Be on time; buses generally stick to the schedule in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Arriva-App für Echtzeit-Businformationen.",
+              "Kaufen Sie Ihr Ticket vorab online oder beim Fahrer.",
+              "Halten Sie Kleingeld für den Busfahrer bereit.",
+              "Warten Sie in einem Café nahe der Haltestelle auf den Bus.",
+              "Die Busse können bei starkem Regen leicht verspätet sein."
+            ],
+            "hu": [
+              "Használja az Arriva alkalmazást a valós idejű információkért.",
+              "Vásárolja meg jegyét előre online vagy a sofőrnél.",
+              "Készítsen aprópénzt a buszsofőrnek.",
+              "Várja meg a buszt egy megálló közeli kávézóban.",
+              "Erős esőben a buszok kisebb késéssel közlekedhetnek."
+            ],
+            "ro": [
+              "Utilizați aplicația Arriva pentru informații în timp real.",
+              "Cumpărați biletul online în avans sau direct de la șofer.",
+              "Asigurați-vă că aveți bani mărunți pentru plata biletului.",
+              "Așteptați autobuzul într-o cafenea aflată lângă stație.",
+              "Autobuzele pot avea mici întârzieri în caz de ploaie torențială."
+            ],
+            "en": [
+              "Use the Arriva app for real-time bus tracking and info.",
+              "Buy your ticket online in advance or from the driver.",
+              "Have some small change ready for the bus driver.",
+              "Wait for your bus in a cafe located near the stop.",
+              "Buses may experience slight delays during heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Transit erreichen wir das winterliche Fažana stressfrei. Der Tag startet an der Riva, wo die frische Meeresbrise uns begrüßt. Nach einem Spaziergang durch die ruhige Altstadt besuchen wir die Kirche und genießen ein warmes Mittagessen. Der Nachmittag gehört dem Skulpturenpark und der Pineta, bevor wir vor Einbruch der Dunkelheit den Bus für die Rückfahrt nehmen. Im Winter ist der Bus oft leerer und sehr entspannt.",
+            "hu": "Tömegközlekedéssel stresszmentesen érjük el a téli Fažanát. A nap a kikötőben indul, ahol friss tengeri szellő fogad. A csendes óvárosi séta után meglátogatjuk a templomot és megebédelünk. A délutánt a szoborparknak és a Pineta környékének szenteljük, majd sötétedés előtt buszra szállunk. Télen a buszok gyakran üresebbek és nagyon pihentetőek.",
+            "ro": "Cu transportul în comun ajungem fără stres în Fažana iarna. Ziua începe în port, unde ne întâmpină briza proaspătă a mării. După o plimbare prin centrul vechi liniștit, vizităm biserica și luăm un prânz cald. După-amiaza explorăm parcul de sculpturi și zona Pineta, apoi luăm autobuzul înapoi înainte de lăsarea întunericului. Iarna, autobuzele sunt mai libere și relaxante.",
+            "en": "By transit, we reach wintery Fažana stress-free. The day starts at the Riva, greeted by a fresh sea breeze. After a stroll through the quiet old town, we visit the church and enjoy a warm lunch. The afternoon is dedicated to the sculpture park and the Pineta area before catching the bus back before dark. In winter, buses are often less crowded and very relaxing."
+          },
+          "stops": [
+            {
+              "name": "Ankunft Fažana Riva (Cluster A)",
+              "tip_5lang": {
+                "de": "Im Winter gibt es weniger Busverbindungen; Fahrplan prüfen.",
+                "hu": "Télen kevesebb a buszjárat; ellenőrizze a menetrendet.",
+                "ro": "Iarna sunt mai puține autobuze; verificați orarul actualizat.",
+                "en": "Fewer bus connections in winter; check the schedule carefully."
+              }
+            },
+            {
+              "name": "Stara jezgra Fažane (Cluster A)",
+              "tip_5lang": {
+                "de": "Ein sehr authentisches Erlebnis ohne Sommertrubel.",
+                "hu": "Nagyon autentikus élmény a nyári nyüzsgés nélkül.",
+                "ro": "O experiență autentică, fără agitația specifică verii.",
+                "en": "A very authentic experience without the summer bustle."
+              }
+            },
+            {
+              "name": "Crkva sv. Kuzme i Damjana (Cluster A)",
+              "tip_5lang": {
+                "de": "Besichtigung im Winter ist entspannt und besinnlich.",
+                "hu": "A téli látogatás nyugodt és elmélyült.",
+                "ro": "Vizita în timpul iernii este relaxantă și liniștită.",
+                "en": "Visiting in winter is relaxed and contemplative."
+              }
+            },
+            {
+              "name": "Mittagessen am Hafen",
+              "tip_5lang": {
+                "de": "Einige Lokale haben im Winter verkürzte Öffnungszeiten.",
+                "hu": "Néhány helyen télen rövidített nyitvatartás van.",
+                "ro": "Unele localuri au program redus pe durata iernii.",
+                "en": "Some venues have shorter opening hours during winter."
+              }
+            },
+            {
+              "name": "Park skulptura (Cluster B)",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Park vor der frühen Dämmerung.",
+                "hu": "Élvezze a park nyugalmát a korai szürkület előtt.",
+                "ro": "Bucurați-vă de liniștea parcului înainte de înserare.",
+                "en": "Enjoy the park's peace before the early twilight sets in."
+              }
+            },
+            {
+              "name": "Badepause Pineta (Cluster B)",
+              "tip_5lang": {
+                "de": "Schöner Ort für einen Winterspaziergang am Meer.",
+                "hu": "Szép hely egy téli tengerparti sétához.",
+                "ro": "Un loc frumos pentru o plimbare de iarnă pe malul mării.",
+                "en": "A beautiful spot for a winter walk along the sea."
+              }
+            },
+            {
+              "name": "Rückfahrt von Riva",
+              "tip_5lang": {
+                "de": "Letzte Busse fahren oft früher als im Sommer.",
+                "hu": "Az utolsó buszok gyakran korábban indulnak, mint nyáron.",
+                "ro": "Ultimele autobuze pleacă adesea mai devreme decât vara.",
+                "en": "Last buses often depart earlier than during the summer."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan der Linie 21 (Pula-Fažana).",
+              "Die Wartezeiten im Freien können im Winter kühl sein.",
+              "Kaufen Sie Rückfahrtickets direkt bei der Ankunft.",
+              "Nutzen Sie die beheizten Busse für eine gemütliche Rückfahrt.",
+              "An Sonntagen fahren im Winter deutlich weniger Busse."
+            ],
+            "hu": [
+              "Ellenőrizze a 21-es járat (Pula-Fažana) téli menetrendjét.",
+              "A szabadban való várakozás télen hűvös lehet.",
+              "Vegye meg a visszautat már érkezéskor, ha lehetséges.",
+              "Élvezze a fűtött busz kényelmét a visszaúton.",
+              "Vasárnaponként télen jóval kevesebb busz közlekedik."
+            ],
+            "ro": [
+              "Verificați orarul de iarnă al liniei 21 (Pula-Fažana).",
+              "Așteptarea în stație poate fi destul de friguroasă iarna.",
+              "Cumpărați biletele de întoarcere imediat ce ajungeți.",
+              "Bucurați-vă de căldura din autobuz la întoarcere.",
+              "Duminica circulă semnificativ mai puține autobuze iarna."
+            ],
+            "en": [
+              "Check the winter schedule for line 21 (Pula-Fažana).",
+              "Waiting outdoors for the bus can be chilly in winter.",
+              "Purchase your return tickets upon arrival if possible.",
+              "Enjoy the comfort of heated buses on your way back.",
+              "On Sundays, there are significantly fewer buses in winter."
+            ]
+          }
+        }
       }
     }
   }

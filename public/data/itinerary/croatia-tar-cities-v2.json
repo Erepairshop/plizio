@@ -268,6 +268,214 @@
           "The best time to visit Tarska vala is late afternoon.",
           "Parking in the center is limited, use the designated areas on the outskirts."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Tar beginnt unter den schützenden Mauern des Kaštel Papini. Wir erkunden die St.-Martins-Kirche als trockenen Rückzugsort, bevor wir über den lokalen Markt schlendern. Ein ausgiebiges Mittagessen in einer gemütlichen Konoba wärmt uns auf. Der Nachmittag an der Tarska vala Bucht bietet trotz Regen eine mystische, neblige Atmosphäre am Wasser.",
+            "hu": "Egy esős nap Taron a Kaštel Papini védelmező falai között indul. A Szent Márton-templomot száraz menedékként használjuk, mielőtt a helyi piacon sétálnánk. Egy bőséges ebéd egy barátságos konobában felmelegít minket. Délután a Tarska vala öböl az eső ellenére is misztikus, ködös hangulatot áraszt a vízparton, ami különleges látványt nyújt.",
+            "ro": "O zi ploioasă în Tar începe sub zidurile protectoare ale Kaštel Papini. Explorăm biserica Sf. Martin ca refugiu uscat înainte de a ne plimba prin piața locală. Un prânz prelungit într-o konoba primitoare ne încălzește. După-amiaza la golful Tarska vala oferă, în ciuda ploii, o atmosferă mistică și cețoasă pe malul apei.",
+            "en": "A rainy day in Tar begins under the protective walls of Kaštel Papini. We explore St. Martin's Church as a dry retreat before strolling through the local market. A long lunch in a cozy konoba warms us up. In the afternoon, Tarska vala bay offers a mystical, misty atmosphere by the water despite the rain, creating a unique coastal view."
+          },
+          "stops": [
+            {
+              "name": "Kaštel Papini",
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten guten Schutz vor Wind und leichtem Regen.",
+                "hu": "A vastag falak jó védelmet nyújtanak a szél és az enyhe eső ellen.",
+                "ro": "Zidurile groase oferă protecție bună împotriva vântului și ploii ușoare.",
+                "en": "The thick walls provide good protection from wind and light rain."
+              }
+            },
+            {
+              "name": "Crkva sv. Martina",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für eine ruhige Innenbesichtigung während der Schauer.",
+                "hu": "Használja ki az időt egy nyugodt belső látogatásra a záporok alatt.",
+                "ro": "Folosiți timpul pentru o vizită interioară liniștită în timpul averselor.",
+                "en": "Take time for a quiet indoor visit during the showers."
+              }
+            },
+            {
+              "name": "Lokaler Bauernmarkt",
+              "tip_5lang": {
+                "de": "Die Stände sind meist überdacht, ideal zum Stöbern bei Nieselregen.",
+                "hu": "Az árusok sátrai többnyire fedettek, ideális szemezgetni szitáló esőben.",
+                "ro": "Tarabele sunt în mare parte acoperite, ideale pentru răsfoit pe burniță.",
+                "en": "The stalls are mostly covered, ideal for browsing during drizzle."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Genießen Sie istrische Spezialitäten am Kaminfeuer.",
+                "hu": "Élvezze az isztriai specialitásokat a kandalló tüze mellett.",
+                "ro": "Savurați specialități istriene lângă focul din șemineu.",
+                "en": "Enjoy Istrian specialties by the fireplace."
+              }
+            },
+            {
+              "name": "Tarska vala",
+              "tip_5lang": {
+                "de": "Regenfeste Kleidung für den Weg zum Ufer ist unerlässlich.",
+                "hu": "Az öbölhöz vezető úton elengedhetetlen a vízálló ruházat.",
+                "ro": "Îmbrăcămintea impermeabilă pentru drumul spre mal este esențială.",
+                "en": "Waterproof clothing for the path to the shore is essential."
+              }
+            },
+            {
+              "name": "Uferpromenade Spaziergang",
+              "tip_5lang": {
+                "de": "Der Boden kann rutschig sein; festes Schuhwerk empfohlen.",
+                "hu": "A talaj csúszós lehet; stabil lábbeli ajánlott.",
+                "ro": "Solul poate fi alunecos; se recomandă încălțăminte stabilă.",
+                "en": "The ground can be slippery; sturdy footwear is recommended."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Aussichtspunkt",
+              "tip_5lang": {
+                "de": "Bei Wolken ist das Licht dramatisch, auch ohne direkten Sonnenuntergang.",
+                "hu": "Felhős időben a fények drámaiak, közvetlen naplemente nélkül is.",
+                "ro": "Cu nori, lumina este dramatică, chiar și fără un apus direct.",
+                "en": "With clouds, the light is dramatic even without a direct sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein Taschenschirm ist bei den engen Gassen von Tar praktischer als ein Stockschirm.",
+              "Die Steinpflaster in der Altstadt werden bei Nässe sehr glatt.",
+              "Planen Sie längere Pausen in den Cafés ein, um Schauer abzuwarten.",
+              "Die Sicht auf das Meer ist bei Regen oft besonders klar und weit.",
+              "Vermeiden Sie die unbefestigten Wege zur Bucht bei Starkregen."
+            ],
+            "hu": [
+              "Egy összecsukható esernyő praktikusabb Tar szűk utcáin, mint a boternyő.",
+              "Az óváros kőburkolata vizesen nagyon csúszóssá válik.",
+              "Tervezzen hosszabb pihenőket a kávézókban a záporok idejére.",
+              "Esőben a tengeri kilátás gyakran különlegesen tiszta és távoli.",
+              "Heves esőzéskor kerülje a nem aszfaltozott utakat az öböl felé."
+            ],
+            "ro": [
+              "O umbrelă pliabilă este mai practică pe străzile înguste din Tar decât una lungă.",
+              "Pavajul de piatră din orașul vechi devine foarte alunecos când este ud.",
+              "Planificați pauze mai lungi în cafenele pentru a aștepta trecerea averselor.",
+              "Vederea spre mare este adesea deosebit de clară și îndepărtată pe ploaie.",
+              "Evitați potecile neamenajate spre golf în caz de ploaie torențială."
+            ],
+            "en": [
+              "A compact umbrella is more practical in Tar's narrow streets than a large one.",
+              "The stone pavements in the old town become very slippery when wet.",
+              "Plan longer breaks in cafes to wait out the passing showers.",
+              "Sea views are often exceptionally clear and far-reaching during rain.",
+              "Avoid unpaved paths to the bay during heavy rainfall."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter zeigt sich Tar von seiner ruhigen Seite, oft begleitet von der kühlen Bura. Wir beginnen den Rundgang bei den historischen Stätten, wo der Wind in den Gassen nachlässt. Ein Besuch auf dem Markt bietet lokale Wintervorräte. Nach einem wärmenden Essen in der Konoba spazieren wir zur Tarska vala, um das klare Winterlicht zu genießen, bevor die Sonne früh über der Adria versinkt.",
+            "hu": "Télen Tar a nyugodt arcát mutatja, gyakran a hűvös Bóra kíséretében. A sétát a történelmi helyszíneken kezdjük, ahol a szél ereje alábbhagy a szűk utcákban. A piacon helyi téli készleteket találunk. Egy melegítő ebéd után a konobában a Tarska vala felé vesszük az irányt, hogy élvezzük a tiszta téli fényeket, mielőtt a nap korán lenyugszik az Adria felett.",
+            "ro": "Iarna, Tar își arată latura liniștită, adesea acompaniată de briza rece Bura. Începem turul la siturile istorice, unde vântul se domolește pe străduțe. O vizită la piață oferă provizii locale de iarnă. După o masă caldă în konoba, ne plimbăm spre Tarska vala pentru a ne bucura de lumina clară de iarnă înainte ca soarele să apună devreme peste Adriatică.",
+            "en": "In winter, Tar shows its quiet side, often accompanied by the cool Bura wind. We begin the tour at historical sites where the wind subsides in the narrow alleys. A visit to the market offers local winter supplies. After a warming meal in the konoba, we walk to Tarska vala to enjoy the clear winter light before the sun sets early over the Adriatic."
+          },
+          "stops": [
+            {
+              "name": "Kaštel Papini",
+              "tip_5lang": {
+                "de": "Zwiebelprinzip bei der Kleidung hilft gegen den kalten Wind.",
+                "hu": "A réteges öltözködés segít a hideg szél elleni védekezésben.",
+                "ro": "Îmbrăcămintea în straturi ajută împotriva vântului rece.",
+                "en": "Layered clothing helps protect against the cold wind."
+              }
+            },
+            {
+              "name": "Crkva sv. Martina",
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen windstillen Ort zur inneren Einkehr.",
+                "hu": "A templom szélcsendes helyet kínál az elcsendesedéshez.",
+                "ro": "Biserica oferă un loc ferit de vânt pentru reculegere.",
+                "en": "The church offers a windless place for quiet reflection."
+              }
+            },
+            {
+              "name": "Lokaler Bauernmarkt",
+              "tip_5lang": {
+                "de": "Suchen Sie nach frischem Olivenöl aus der Winterernte.",
+                "hu": "Keresse a friss téli szüretelésű olívaolajat.",
+                "ro": "Căutați ulei de măsline proaspăt din recolta de iarnă.",
+                "en": "Look for fresh olive oil from the winter harvest."
+              }
+            },
+            {
+              "name": "Mittagessen in einer Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie Jota, einen typischen istrischen Wintereintopf.",
+                "hu": "Kóstolja meg a Jotát, a tipikus isztriai téli egytálételt.",
+                "ro": "Gustați Jota, o mâncare tradițională istriană de iarnă.",
+                "en": "Try Jota, a typical Istrian winter stew."
+              }
+            },
+            {
+              "name": "Tarska vala",
+              "tip_5lang": {
+                "de": "Im Winter ist das Wasser oft spiegelglatt und kristallklar.",
+                "hu": "Télen a víz gyakran tükörsima és kristálytiszta.",
+                "ro": "Iarna, apa este adesea netedă ca oglinda și deosebit de clară.",
+                "en": "In winter, the water is often mirror-smooth and crystal clear."
+              }
+            },
+            {
+              "name": "Uferpromenade Spaziergang",
+              "tip_5lang": {
+                "de": "Wärmende Kopfbedeckung empfohlen, da es am Ufer zieht.",
+                "hu": "Meleg sapka ajánlott, mert a parton fújhat a szél.",
+                "ro": "Se recomandă căciulă călduroasă, deoarece pe mal trage curentul.",
+                "en": "Warm headwear is recommended as it gets breezy on the shore."
+              }
+            },
+            {
+              "name": "Sonnenuntergang am Aussichtspunkt",
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang findet im Winter bereits gegen 16:30 Uhr statt.",
+                "hu": "A naplemente télen már délután fél 5 körül bekövetkezik.",
+                "ro": "Apusul soarelui are loc iarna deja în jurul orei 16:30.",
+                "en": "Sunset occurs as early as 4:30 PM during winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die Wettervorhersage bezüglich der Bura (starker Wind).",
+              "Viele Außenbereiche von Cafés sind geschlossen, suchen Sie gemütliche Innenräume.",
+              "Die Tage sind kurz; starten Sie den Rundgang pünktlich um 9 Uhr.",
+              "Tragen Sie Lippenpflegestift gegen die trockene Winterluft.",
+              "Die klare Sicht erlaubt oft den Blick bis zu den fernen Alpen."
+            ],
+            "hu": [
+              "Figyelje az időjárás-jelentést a Bóra (erős szél) miatt.",
+              "Sok kávézó terasza zárva van, keressen hangulatos belső tereket.",
+              "A nappalok rövidek; kezdje a sétát pontosan reggel 9-kor.",
+              "Használjon ajakírt a száraz téli levegő ellen.",
+              "A tiszta látási viszonyok mellett gyakran ellátni a távoli Alpokig."
+            ],
+            "ro": [
+              "Urmăriți prognoza meteo cu privire la Bura (vânt puternic).",
+              "Multe terase de cafenele sunt închise, căutați interioare primitoare.",
+              "Zilele sunt scurte; începeți turul punctual la ora 9:00.",
+              "Folosiți balsam de buze împotriva aerului uscat de iarnă.",
+              "Vizibilitatea clară permite adesea vederea până la Alpii îndepărtați."
+            ],
+            "en": [
+              "Keep an eye on the weather forecast regarding the Bura (strong wind).",
+              "Many outdoor cafe areas are closed; look for cozy indoor seating.",
+              "Days are short; start your tour promptly at 9 AM.",
+              "Use lip balm against the dry winter air.",
+              "The clear winter visibility often allows views all the way to the Alps."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -496,6 +704,196 @@
           "Take enough water, there is little shade on the field paths.",
           "The Lanterna peninsula is extensive; a bike is ideal for getting around."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Auf zwei Rädern trotzen wir dem Regen in Tar. Nach einem kurzen Stopp an der Kirche besuchen wir die Uljara Larun, wo wir im Trockenen in die Welt des Olivenöls eintauchen. Trotz Regen radeln wir zur Lanterna-Küste, wo die Brandung wild und laut ist. Das Picknick verlegen wir unter einen festen Pavillon, bevor wir über die feuchten Wege der Tarska vala zurückkehren.",
+            "hu": "Két keréken dacolunk az esővel Taron. A templomnál tett rövid megálló után meglátogatjuk az Uljara Larunt, ahol szárazon merülhetünk el az olívaolaj világában. Az eső ellenére a Lanterna-part felé tekerünk, ahol a hullámverés vad és hangos. A pikniket egy fedett pavilon alá költöztetjük, mielőtt a Tarska vala nedves ösvényein visszatérnénk.",
+            "ro": "Pe două roți sfidăm ploaia în Tar. După o scurtă oprire la biserică, vizităm Uljara Larun, unde ne cufundăm la adăpost în lumea uleiului de măsline. În ciuda ploii, pedalăm spre coasta Lanterna, unde valurile sunt sălbatice și zgomotoase. Mutăm picnicul sub un pavilion fix înainte de a ne întoarce pe potecile umede de la Tarska vala.",
+            "en": "On two wheels, we brave the rain in Tar. After a short stop at the church, we visit Uljara Larun to immerse ourselves in the world of olive oil while staying dry. Despite the rain, we cycle to the Lanterna coast, where the surf is wild and loud. We move our picnic under a permanent pavilion before returning via the damp paths of Tarska vala."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Martina",
+              "tip_5lang": {
+                "de": "Kurze Pause im Vorraum, um die Regenkleidung zu ordnen.",
+                "hu": "Rövid pihenő az előtérben az esőruházat megigazításához.",
+                "ro": "Pauză scurtă în pridvor pentru a aranja pelerina de ploaie.",
+                "en": "Short break in the vestibule to adjust your rain gear."
+              }
+            },
+            {
+              "name": "Uljara Larun",
+              "tip_5lang": {
+                "de": "Perfekter Indoor-Stopp zur Olivenölverkostung bei Regen.",
+                "hu": "Tökéletes fedett megálló olívaolaj-kóstoláshoz esőben.",
+                "ro": "Oprire indoor perfectă pentru degustare de ulei de măsline pe ploaie.",
+                "en": "Perfect indoor stop for olive oil tasting during rain."
+              }
+            },
+            {
+              "name": "Lanterna Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie die raue See, aber bleiben Sie auf befestigten Wegen.",
+                "hu": "Élvezze a zord tengert, de maradjon a burkolt utakon.",
+                "ro": "Savurați marea agitată, dar rămâneți pe drumurile pavate.",
+                "en": "Enjoy the rough sea, but stick to the paved paths."
+              }
+            },
+            {
+              "name": "Picknick am Meer",
+              "tip_5lang": {
+                "de": "Nutzen Sie überdachte Strandbars oder Pavillons für die Pause.",
+                "hu": "Használja a fedett strandbárokat vagy pavilonokat a pihenőhöz.",
+                "ro": "Folosiți barurile de plajă acoperite sau pavilioanele pentru pauză.",
+                "en": "Use covered beach bars or pavilions for your break."
+              }
+            },
+            {
+              "name": "Tarska vala",
+              "tip_5lang": {
+                "de": "Vorsicht: Die Waldwege können sehr schlammig und rutschig sein.",
+                "hu": "Vigyázat: az erdei utak nagyon sárosak és csúszósak lehetnek.",
+                "ro": "Atenție: potecile de pădure pot fi foarte noroioase și alunecoase.",
+                "en": "Caution: the forest paths can be very muddy and slippery."
+              }
+            },
+            {
+              "name": "Kaštel Papini",
+              "tip_5lang": {
+                "de": "Abschluss unter Dach, um das Rad kurz zu checken.",
+                "hu": "Befejezés fedett helyen, a bicikli gyors ellenőrzéséhez.",
+                "ro": "Final sub acoperiș pentru a verifica rapid bicicleta.",
+                "en": "Finish under cover to give the bike a quick check."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen vorab, der Bremsweg verlängert sich bei Nässe.",
+              "Verwenden Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+              "Tragen Sie helle Regenbekleidung für bessere Sichtbarkeit.",
+              "Vermeiden Sie schnelle Kurvenfahrten auf nassen Markierungen.",
+              "Halten Sie die Kette nach der Fahrt trocken und ölen Sie diese nach."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, a féktávolság vizes úton meghosszabbodik.",
+              "Használjon sárvédőt a felcsapódó víz elleni védekezéshez.",
+              "Viseljen világos esőruházatot a jobb láthatóság érdekében.",
+              "Kerülje a gyors kanyarodást a nedves útburkolati jeleken.",
+              "A túra után törölje szárazra és olajozza meg a láncot."
+            ],
+            "ro": [
+              "Verificați frânele în prealabil, distanța de frânare crește pe ud.",
+              "Folosiți apărători de noroi pentru a vă proteja de stropi.",
+              "Purtați haine de ploaie de culori deschise pentru vizibilitate mai bună.",
+              "Evitați virajele rapide pe marcajele rutiere umede.",
+              "Ștergeți lanțul după cursă și ungeți-l din nou."
+            ],
+            "en": [
+              "Check your brakes beforehand as braking distance increases in the wet.",
+              "Use mudguards to protect yourself from road spray.",
+              "Wear bright rain gear for better visibility.",
+              "Avoid sharp turns on wet road markings.",
+              "Dry and re-oil your chain after the ride."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour in Tar erfordert warme Handschuhe und Motivation. Die klare Luft bei der St.-Martins-Kirche ist belebend. In der Uljara Larun wärmen wir uns bei einer Verkostung auf, bevor wir zur einsamen Lanterna-Küste radeln. Das Winterpicknick ist kurz, aber intensiv, gefolgt von einer schnellen Fahrt durch die stille Tarska vala zurück in den schützenden Ort.",
+            "hu": "Egy téli kerékpártúra Taron meleg kesztyűt és motivációt igényel. A Szent Márton-templomnál a tiszta levegő élénkítő. Az Uljara Larunban egy kóstoló során felmelegedünk, mielőtt a magányos Lanterna-part felé tekernénk. A téli piknik rövid, de intenzív, amit egy gyors tekerés követ a csendes Tarska valán át vissza a védett településre.",
+            "ro": "O tură cu bicicleta iarna în Tar necesită mănuși calde și motivație. Aerul curat de la biserica Sf. Martin este revigorant. La Uljara Larun ne încălzim în timpul unei degustări înainte de a pedala spre coasta pustie Lanterna. Picnicul de iarnă este scurt dar intens, urmat de o cursă rapidă prin Tarska vala liniștită înapoi în localitate.",
+            "en": "A winter bike tour in Tar requires warm gloves and motivation. The clear air at St. Martin's Church is invigorating. We warm up with a tasting at Uljara Larun before cycling to the solitary Lanterna coast. The winter picnic is short but intense, followed by a quick ride through the quiet Tarska vala back into the sheltered village."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Martina",
+              "tip_5lang": {
+                "de": "Kurz anhalten, um den Puls zu beruhigen, aber nicht auskühlen.",
+                "hu": "Álljon meg rövid időre, de ne hagyja kihűlni magát.",
+                "ro": "Opriți-vü scurt pentru a calma pulsul, dar nu lăsați corpul să se răcească.",
+                "en": "Stop briefly to catch your breath, but don't let your body cool down."
+              }
+            },
+            {
+              "name": "Uljara Larun",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die eingefrorenen Finger aufzuwärmen.",
+                "hu": "Használja ki a megállót az átfagyott ujjak felmelegítésére.",
+                "ro": "Folosiți oprirea pentru a vă încălzi degetele înghețate.",
+                "en": "Use this stop to warm up frozen fingers."
+              }
+            },
+            {
+              "name": "Lanterna Beach",
+              "tip_5lang": {
+                "de": "Der Wind am Meer ist im Winter deutlich kälter als im Ort.",
+                "hu": "A tengerparti szél télen jelentősen hidegebb, mint a faluban.",
+                "ro": "Vântul de la mare este semnificativ mai rece iarna decât în localitate.",
+                "en": "The wind at the sea is significantly colder in winter than in the village."
+              }
+            },
+            {
+              "name": "Picknick am Meer",
+              "tip_5lang": {
+                "de": "Bringen Sie heißen Tee in einer Thermoskanne mit.",
+                "hu": "Vigyen magával forró teát termoszban.",
+                "ro": "Aduceți ceai fierbinte într-un termos.",
+                "en": "Bring hot tea in a thermos for the break."
+              }
+            },
+            {
+              "name": "Tarska vala",
+              "tip_5lang": {
+                "de": "Genießen Sie die absolute Stille der Natur im Winterschlaf.",
+                "hu": "Élvezze a téli álmot alvó természet abszolút csendjét.",
+                "ro": "Savurați liniștea absolută a naturii în somnul de iarnă.",
+                "en": "Enjoy the absolute silence of nature in winter sleep."
+              }
+            },
+            {
+              "name": "Kaštel Papini",
+              "tip_5lang": {
+                "de": "Schnell ins nächste warme Café einkehren.",
+                "hu": "Térjen be gyorsan a következő meleg kávézóba.",
+                "ro": "Intrați rapid în următoarea cafenea călduroasă.",
+                "en": "Quickly head into the nearest warm cafe."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich winddicht, besonders im Brustbereich.",
+              "Vermeiden Sie lange Standzeiten, um die Körpertemperatur zu halten.",
+              "Achten Sie auf vereiste Pfützen im Schatten von Bäumen.",
+              "Die Sonne blendet im Winter tiefer; Sonnenbrille ist hilfreich.",
+              "Verwenden Sie ein helles Frontlicht, da es im Wald früh dämmert."
+            ],
+            "hu": [
+              "Öltözzön szélállóan, különösen a mellkas területén.",
+              "Kerülje a hosszú várakozást a testhőmérséklet megtartása érdekében.",
+              "Ügyeljen a fák árnyékában lévő fagyott tócsákra.",
+              "A nap télen alacsonyabbról tűz, a napszemüveg hasznos.",
+              "Használjon erős első lámpát, mert az erdőben hamar sötétedik."
+            ],
+            "ro": [
+              "Îmbrăcați-vă cu haine rezistente la vânt, în special în zona pieptului.",
+              "Evitați staționările lungi pentru a menține temperatura corpului.",
+              "Atenție la bălțile înghețate în umbra copacilor.",
+              "Soarele este mai jos iarna; ochelarii de soare sunt utili.",
+              "Folosiți un far puternic, deoarece în pădure se înserează devreme."
+            ],
+            "en": [
+              "Dress in windproof gear, especially around the chest area.",
+              "Avoid long stationary periods to maintain body temperature.",
+              "Watch out for icy puddles in the shade of trees.",
+              "The winter sun is lower; sunglasses are very helpful.",
+              "Use a bright front light as it gets dark early in the forest."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -742,6 +1140,214 @@
           "In Tar's village center, it's better to park on the outskirts as streets are very narrow.",
           "The road down to Tarska vala offers great photo opportunities."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist ein Regentag in Tar komfortabel. Wir besuchen die historischen Stätten bequem und fahren dann zur Uljara Larun, um trocken Olivenöl zu verkosten. In Lanterna beobachten wir den Regen auf dem Meer vom warmen Wagen aus, bevor wir ein gemütliches Mittagessen genießen. Der Tag endet mit einem kurzen Blick auf die regnerische Tarska vala und einer Fahrt entlang der Riva.",
+            "hu": "Autóval egy esős nap Taron is kényelmes. A történelmi helyszíneket könnyen elérjük, majd az Uljara Larunhoz hajtunk száraz olívaolaj-kóstolásra. Lanternában a meleg autóból figyeljük az esőt a tengeren, mielőtt egy kellemes ebédet fogyasztanánk. A napot a regnerikus Tarska vala rövid megtekintésével és a Riva menti autózással zárjuk.",
+            "ro": "Cu mașina, o zi ploioasă în Tar este confortabilă. Vizităm siturile istorice comod, apoi mergem la Uljara Larun pentru o degustare de ulei de măsline la uscat. În Lanterna observăm ploaia pe mare din mașina caldă înainte de a savura un prânz plăcut. Ziua se încheie cu o scurtă privire spre Tarska vala ploioasă și o plimbare cu mașina de-a lungul Riva.",
+            "en": "By car, a rainy day in Tar is comfortable. We visit the historical sites easily, then drive to Uljara Larun for a dry olive oil tasting. In Lanterna, we watch the rain on the sea from the warm car before enjoying a pleasant lunch. The day ends with a brief look at the rainy Tarska vala and a drive along the Riva."
+          },
+          "stops": [
+            {
+              "name": "Kaštel Papini (Cluster A)",
+              "tip_5lang": {
+                "de": "Parkplatzsuche in der Nähe des Eingangs verkürzt den Weg im Regen.",
+                "hu": "A bejárat közeli parkolóhely lerövidíti az utat az esőben.",
+                "ro": "Căutarea unui loc de parcare lângă intrare scurtează drumul prin ploaie.",
+                "en": "Finding a parking spot near the entrance shortens the walk in the rain."
+              }
+            },
+            {
+              "name": "Crkva sv. Martina (Cluster A)",
+              "tip_5lang": {
+                "de": "Direkte Anfahrt möglich, kaum Gehweg im Freien nötig.",
+                "hu": "Közvetlen behajtás lehetséges, alig kell a szabadban sétálni.",
+                "ro": "Acces direct posibil, aproape deloc mers pe jos în aer liber.",
+                "en": "Direct access possible, minimal walking outdoors required."
+              }
+            },
+            {
+              "name": "Uljara Larun (Cluster B)",
+              "tip_5lang": {
+                "de": "Überdachter Kundenparkplatz direkt vor dem Gebäude.",
+                "hu": "Fedett vevőparkoló közvetlenül az épület előtt.",
+                "ro": "Parcare acoperită pentru clienți chiar în fața clădirii.",
+                "en": "Covered customer parking directly in front of the building."
+              }
+            },
+            {
+              "name": "Lanterna (Cluster C)",
+              "tip_5lang": {
+                "de": "Vom Parkplatz hat man oft schon einen guten Meerblick bei Regen.",
+                "hu": "A parkolóból esőben is gyakran jó kilátás nyílik a tengerre.",
+                "ro": "Din parcare aveți adesea o vedere bună la mare chiar și pe ploaie.",
+                "en": "The parking lot often provides a good sea view even in the rain."
+              }
+            },
+            {
+              "name": "Mittagessen in Lanterna (Cluster C)",
+              "tip_5lang": {
+                "de": "Wählen Sie Restaurants mit Glasfront für den Ausblick.",
+                "hu": "Válasszon üvegfalas éttermet a kilátás miatt.",
+                "ro": "Alegeți restaurante cu fațadă de sticlă pentru priveliște.",
+                "en": "Choose restaurants with glass fronts for the view."
+              }
+            },
+            {
+              "name": "Tarska vala (Cluster D)",
+              "tip_5lang": {
+                "de": "Kurzer Stopp am Aussichtspunkt, ohne lange im Regen zu stehen.",
+                "hu": "Rövid megálló a kilátópontnál, anélkül, hogy sokat állna az esőben.",
+                "ro": "Oprire scurtă la punctul de belvedere, fără a sta mult în ploaie.",
+                "en": "Short stop at the viewpoint without standing in the rain for long."
+              }
+            },
+            {
+              "name": "Riva Spaziergang (Cluster D)",
+              "tip_5lang": {
+                "de": "Die Fahrt entlang der Riva bietet Panorama-Feeling bei Regen.",
+                "hu": "A Riva menti autózás panoráma-élményt nyújt esőben is.",
+                "ro": "Plimbarea cu mașina pe Riva oferă o senzație panoramică pe ploaie.",
+                "en": "Driving along the Riva offers a panoramic feel even in the rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Pfützenbildung auf den Küstenstraßen.",
+              "Die Fenster beschlagen leicht; Klimaanlage auf Entfrostung stellen.",
+              "Vermeiden Sie bei starkem Wind Fahrten zu nah an der Wellengischt.",
+              "Halten Sie Abblendlicht auch tagsüber eingeschaltet.",
+              "Viele Parkplätze sind im Regen weniger belegt und näher am Ziel."
+            ],
+            "hu": [
+              "Ügyeljen a tócsákra a parti utakon.",
+              "Az ablakok könnyen párásodnak; állítsa a klímát páramentesítésre.",
+              "Erős szélben kerülje a hullámpermethez közeli autózást.",
+              "Napközben is tartsa bekapcsolva a tompított fényszórót.",
+              "Sok parkoló esőben kevésbé foglalt és közelebb van a célhoz."
+            ],
+            "ro": [
+              "Atenție la formarea bălților pe drumurile de coastă.",
+              "Geamurile se aburesc ușor; setați aerul condiționat pe dezghețare.",
+              "Evitați condusul prea aproape de valuri în caz de vânt puternic.",
+              "Țineți faza scurtă aprinsă și în timpul zilei.",
+              "Multe parcări sunt mai puțin ocupate pe ploaie și mai aproape de destinație."
+            ],
+            "en": [
+              "Watch out for puddles forming on coastal roads.",
+              "Windows fog up easily; set air conditioning to defrost.",
+              "Avoid driving too close to sea spray during strong winds.",
+              "Keep your dipped headlights on during the day.",
+              "Many parking lots are less crowded in the rain and closer to your destination."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Sightseeing in Tar per Auto ist entspannt und warm. Wir besuchen den historischen Kern und wärmen uns zwischen den Stopps im Fahrzeug auf. In der Uljara Larun genießen wir die Winterernte. Die Fahrt nach Lanterna führt durch stille Landschaften, wo wir den Sonnenuntergang bequem vom Auto aus am Aussichtspunkt erleben, bevor wir entlang der ruhigen Riva fahren.",
+            "hu": "A téli városnézés Taron autóval nyugodt és meleg. Meglátogatjuk a történelmi központot, a megállók között pedig az autóban melegszünk fel. Az Uljara Larunban élvezzük a téli termést. A Lanternába vezető út csendes tájakon át visz, ahol a naplementét kényelmesen az autóból éljük át a kilátópontnál, mielőtt a nyugodt Riva mentén hajtanánk.",
+            "ro": "Vizitarea obiectivelor iarna în Tar cu mașina este relaxată și călduroasă. Vizităm centrul istoric și ne încălzim în vehicul între opriri. La Uljara Larun savurăm recolta de iarnă. Drumul spre Lanterna trece prin peisaje liniștite, unde experimentăm apusul comod din mașină la punctul de belvedere înainte de a conduce pe lângă Riva liniștită.",
+            "en": "Winter sightseeing in Tar by car is relaxed and warm. We visit the historical core and warm up in the vehicle between stops. At Uljara Larun, we enjoy the winter harvest. The drive to Lanterna passes through quiet landscapes where we experience the sunset comfortably from the car at the viewpoint before driving along the calm Riva."
+          },
+          "stops": [
+            {
+              "name": "Kaštel Papini (Cluster A)",
+              "tip_5lang": {
+                "de": "Heizung kurz laufen lassen, um die Kälte draußen zu vergessen.",
+                "hu": "Hagyja járni kicsit a fűtést, hogy elfelejtse a kinti hideget.",
+                "ro": "Lăsați căldura pornită puțin pentru a uita de frigul de afară.",
+                "en": "Let the heater run for a bit to forget the cold outside."
+              }
+            },
+            {
+              "name": "Crkva sv. Martina (Cluster A)",
+              "tip_5lang": {
+                "de": "Kurzer Fußweg vom Parkplatz; Handschuhe nicht vergessen.",
+                "hu": "Rövid séta a parkolótól; ne felejtse el a kesztyűt.",
+                "ro": "Mers scurt pe jos din parcare; nu uitați mănușile.",
+                "en": "Short walk from the parking lot; don't forget your gloves."
+              }
+            },
+            {
+              "name": "Uljara Larun (Cluster B)",
+              "tip_5lang": {
+                "de": "Die Verkaufsräume sind im Winter angenehm temperiert.",
+                "hu": "Az eladóterek télen kellemes hőmérsékletűek.",
+                "ro": "Spațiile de vânzare sunt plăcut temperate iarna.",
+                "en": "The sales rooms are comfortably heated in winter."
+              }
+            },
+            {
+              "name": "Lanterna (Cluster C)",
+              "tip_5lang": {
+                "de": "Wintersonne im Auto genießen, während es draußen zieht.",
+                "hu": "Élvezze a téli napsütést az autóban, miközben kint fúj a szél.",
+                "ro": "Savurați soarele de iarnă în mașină în timp ce afară bate vântul.",
+                "en": "Enjoy the winter sun in the car while it's breezy outside."
+              }
+            },
+            {
+              "name": "Mittagessen in Lanterna (Cluster C)",
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Restaurant, um die Kälte zu meiden.",
+                "hu": "Parkoljon közvetlenül az étteremnél a hideg elkerülése érdekében.",
+                "ro": "Parcați chiar lângă restaurant pentru a evita frigul.",
+                "en": "Park directly at the restaurant to avoid the cold."
+              }
+            },
+            {
+              "name": "Tarska vala (Cluster D)",
+              "tip_5lang": {
+                "de": "Bester Platz für den frühen Sonnenuntergang im Warmen.",
+                "hu": "A legjobb hely a korai naplemente megtekintésére a melegben.",
+                "ro": "Cel mai bun loc pentru apusul timpuriu, la căldură.",
+                "en": "Best place for the early sunset while staying warm."
+              }
+            },
+            {
+              "name": "Riva Spaziergang (Cluster D)",
+              "tip_5lang": {
+                "de": "Beleuchtung der Riva wirkt im Winter besonders stimmungsvoll.",
+                "hu": "A Riva kivilágítása télen különösen hangulatos.",
+                "ro": "Iluminatul de pe Riva pare deosebit de atmosferic iarna.",
+                "en": "The lighting of the Riva feels especially atmospheric in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck, der bei Kälte leicht sinken kann.",
+              "Halten Sie Frostschutzmittel für die Scheibenwischanlage bereit.",
+              "Parken Sie nach Möglichkeit in der Sonne, um den Wagen aufzuheizen.",
+              "Die Batterieleistung kann bei niedrigen Temperaturen nachlassen.",
+              "Planen Sie die Rückfahrt vor 17 Uhr, um nicht im Dunkeln zu fahren."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást, ami hidegben kissé csökkenhet.",
+              "Készítsen be fagyállót a szélvédőmosóba.",
+              "Lehetőleg a napon parkoljon, hogy felmelegedjen az autó.",
+              "Az akkumulátor teljesítménye alacsony hőmérsékleten csökkenhet.",
+              "Tervezze a visszautat délután 5 előtt, hogy ne sötétben vezessen."
+            ],
+            "ro": [
+              "Verificați presiunea în anvelope, care poate scădea ușor la frig.",
+              "Aveți pregătit lichid de parbriz antigel.",
+              "Parcați la soare dacă este posibil, pentru a încălzi mașina.",
+              "Performanța bateriei poate scădea la temperaturi scăzute.",
+              "Planificați drumul de întoarcere înainte de ora 17:00 pentru a nu conduce pe întuneric."
+            ],
+            "en": [
+              "Check tire pressure, as it can drop slightly in the cold.",
+              "Keep antifreeze ready for the windshield washer system.",
+              "Park in the sun if possible to help warm up the car.",
+              "Battery performance can decrease in low temperatures.",
+              "Plan your return trip before 5 PM to avoid driving in the dark."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -952,6 +1558,178 @@
           "Buses run more frequently during the peak season.",
           "Buy tickets from the driver or at the central kiosk."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Transit-Rundgang in Tar nutzen wir Busstops als Regenschutz. Wir besuchen die Kirche und das Kaštel Papini in kurzen Intervallen. In Lanterna wählen wir ein küstennahes Restaurant für das Mittagessen, um den Fußweg kurz zu halten. Der Blick auf die Tarska vala erfolgt von einem überdachten Aussichtspunkt, bevor wir trocken den Heimweg antreten.",
+            "hu": "A tari tömegközlekedéses séta során a buszmegállókat használjuk esővédőként. Rövid szakaszokban látogatjuk meg a templomot és a Kaštel Papinit. Lanternában egy partközeli éttermet választunk ebédre, hogy rövid legyen a gyalogút. A Tarska vala látványát egy fedett kilátópontról élvezzük, mielőtt szárazon elindulnánk haza.",
+            "ro": "În turul cu transportul public în Tar, folosim stațiile de autobuz ca adăpost împotriva ploii. Vizităm biserica și Kaštel Papini la intervale scurte. În Lanterna alegem un restaurant aproape de coastă pentru prânz, pentru a scurta mersul pe jos. Vederea spre Tarska vala se face dintr-un punct de belvedere acoperit înainte de a pleca spre casă la uscat.",
+            "en": "With the transit tour in Tar, we use bus stops as rain shelters. We visit the church and Kaštel Papini in short intervals. In Lanterna, we choose a seaside restaurant for lunch to keep the walk short. The view of Tarska vala is enjoyed from a covered viewpoint before we head home dry."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Martina",
+              "tip_5lang": {
+                "de": "Bushaltestelle ist nur wenige Schritte entfernt.",
+                "hu": "A buszmegálló csak néhány lépésre található.",
+                "ro": "Stația de autobuz este la doar câțiva pași distanță.",
+                "en": "The bus stop is just a few steps away."
+              }
+            },
+            {
+              "name": "Kaštel Papini",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Gebäude, um auf den nächsten Bus zu warten.",
+                "hu": "Használja az épületet a következő busz megvárására.",
+                "ro": "Folosiți clădirea pentru a aștepta următorul autobuz.",
+                "en": "Use the building to wait for the next bus."
+              }
+            },
+            {
+              "name": "Lanterna Beach",
+              "tip_5lang": {
+                "de": "Wartebereiche am Strand bieten meist nur wenig Schutz.",
+                "hu": "A strand menti várakozóhelyek többnyire kevés védelmet nyújtanak.",
+                "ro": "Zonele de așteptare de pe plajă oferă de obicei puțin adăpost.",
+                "en": "Waiting areas at the beach usually offer little protection."
+              }
+            },
+            {
+              "name": "Mittagessen in Lanterna",
+              "tip_5lang": {
+                "de": "Fragen Sie im Restaurant nach dem aktuellen Busfahrplan.",
+                "hu": "Kérdezze meg az étteremben az aktuális buszmenetrendet.",
+                "ro": "Întrebați la restaurant despre orarul actual al autobuzelor.",
+                "en": "Ask in the restaurant for the current bus schedule."
+              }
+            },
+            {
+              "name": "Tarska vala Aussicht",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle bietet eine gute Sicht auch ohne auszusteigen.",
+                "hu": "A buszmegállóból kiszállás nélkül is jó a kilátás.",
+                "ro": "Stația de autobuz oferă o vedere bună chiar și fără a coborî.",
+                "en": "The bus stop offers a good view even without getting off."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Holen Sie sich eine App für Echtzeit-Fahrpläne bei Regen.",
+              "Vermeiden Sie Stoßzeiten, um einen Sitzplatz im Trockenen zu haben.",
+              "Tragen Sie Schuhe mit gutem Profil für den Weg zur Haltestelle.",
+              "Ein Regenponcho ist im Bus platzsparender als ein nasser Schirm.",
+              "Planen Sie Pufferzeiten ein, da Busse bei Regen langsamer fahren."
+            ],
+            "hu": [
+              "Töltsön le egy valós idejű menetrend-alkalmazást esőben.",
+              "Kerülje a csúcsidőszakokat, hogy biztosan legyen ülőhelye szárazon.",
+              "Viseljen jó tapadású cipőt a megállóhoz vezető úton.",
+              "Egy esőponcsó helytakarékosabb a buszon, mint egy vizes ernyő.",
+              "Tervezzen be ráhagyást, mert a buszok lassabban haladhatnak esőben."
+            ],
+            "ro": [
+              "Descărcați o aplicație pentru orare în timp real pe ploaie.",
+              "Evitați orele de vârf pentru a avea un loc pe scaun la uscat.",
+              "Purtați pantofi cu profil bun pentru drumul spre stație.",
+              "O pelerină de ploaie ocupă mai puțin loc în autobuz decât o umbrelă udă.",
+              "Planificați timp suplimentar, deoarece autobuzele merg mai încet pe ploaie."
+            ],
+            "en": [
+              "Get a real-time schedule app during rainy weather.",
+              "Avoid peak hours to ensure a seat in the dry interior.",
+              "Wear shoes with good grip for the walk to the stop.",
+              "A rain poncho is more space-saving on the bus than a wet umbrella.",
+              "Plan for buffer times as buses may run slower in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Transit in Tar schützt vor der beißenden Bura. Wir bewegen uns zwischen der Kirche und dem Kaštel Papini und nutzen die beheizten Busse zum Aufwärmen. In Lanterna genießen wir ein warmes Mittagessen mit Blick auf die winterliche Adria. Die Tarska vala besuchen wir kurz vor Einbruch der frühen Dämmerung, bevor der Bus uns zurückbringt.",
+            "hu": "A téli tömegközlekedés Taron véd a metsző Bóra ellen. A templom és a Kaštel Papini között mozgunk, a fűtött buszokat pedig felmelegedésre használjuk. Lanternában meleg ebédet fogyasztunk kilátással a téli Adriára. A Tarska valát röviddel a korai szürkület előtt látogatjuk meg, mielőtt a busz visszavisz minket.",
+            "ro": "Transportul public de iarnă în Tar protejează împotriva vântului tăios Bura. Ne mișcăm între biserică și Kaštel Papini și folosim autobuzele încălzite pentru a ne încălzi. În Lanterna savurăm un prânz cald cu vedere la Adriatica iarna. Vizităm Tarska vala chiar înainte de lăsarea amurgului timpuriu, înainte ca autobuzul să ne aducă înapoi.",
+            "en": "Winter transit in Tar protects against the biting Bura wind. We move between the church and Kaštel Papini, using the heated buses to warm up. In Lanterna, we enjoy a warm lunch with a view of the winter Adriatic. We visit Tarska vala just before the early dusk sets in, before the bus takes us back."
+          },
+          "stops": [
+            {
+              "name": "Crkva sv. Martina",
+              "tip_5lang": {
+                "de": "Warten Sie im Windschatten der Kirchenmauer auf den Bus.",
+                "hu": "Várja a buszt a templomfal szélárnyékában.",
+                "ro": "Așteptați autobuzul în zona ferită de vânt a zidului bisericii.",
+                "en": "Wait for the bus in the wind shadow of the church wall."
+              }
+            },
+            {
+              "name": "Kaštel Papini",
+              "tip_5lang": {
+                "de": "Die historischen Hallen speichern die Kälte; warm anziehen.",
+                "hu": "A történelmi csarnokok tartják a hideget; öltözzön melegen.",
+                "ro": "Halele istorice rețin frigul; îmbrăcați-vă gros.",
+                "en": "The historical halls retain the cold; dress warmly."
+              }
+            },
+            {
+              "name": "Lanterna Beach",
+              "tip_5lang": {
+                "de": "Im Winter verkehren Busse hierher seltener; Plan prüfen.",
+                "hu": "Télen a buszok ritkábban járnak ide; ellenőrizze a tervet.",
+                "ro": "Iarna autobuzele circulă mai rar aici; verificați orarul.",
+                "en": "Buses run less frequently here in winter; check the schedule."
+              }
+            },
+            {
+              "name": "Mittagessen in Lanterna",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant nahe der Bushaltestelle.",
+                "hu": "Válasszon éttermet a buszmegálló közelében.",
+                "ro": "Alegeți un restaurant aproape de stația de autobuz.",
+                "en": "Choose a restaurant near the bus stop."
+              }
+            },
+            {
+              "name": "Tarska vala Aussicht",
+              "tip_5lang": {
+                "de": "Das Winterlicht am Abend ist vom Busfenster aus magisch.",
+                "hu": "Az esti téli fények a buszablakból varázslatosak.",
+                "ro": "Lumina de iarnă de seară este magică de la fereastra autobuzului.",
+                "en": "The winter evening light is magical from the bus window."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Beachten Sie die ausgedünnten Winterfahrpläne der Linienbusse.",
+              "Halten Sie Kleingeld oder eine Fahrkarte bereit, um Kälte an der Tür zu meiden.",
+              "Tragen Sie Schichten, die im beheizten Bus leicht zu öffnen sind.",
+              "Die Haltestellen im Freien können bei Bura sehr ungemütlich sein.",
+              "Nutzen Sie die Fahrtzeit, um Fotos zu sichten und sich aufzuwärmen."
+            ],
+            "hu": [
+              "Ügyeljen a helyközi buszok ritkított téli menetrendjére.",
+              "Készítsen be aprópénzt vagy jegyet, hogy ne az ajtóban állva fázzon.",
+              "Viseljen olyan rétegeket, amiket a fűtött buszon könnyű kicipzározni.",
+              "A szabadtéri megállók Bóra idején nagyon barátságtalanok lehetnek.",
+              "Használja ki az utazási időt a fotók nézegetésére és a melegedésre."
+            ],
+            "ro": [
+              "Aveți în vedere orarele de iarnă reduse ale autobuzelor de linie.",
+              "Pregătiți măruntul sau biletul pentru a evita statul în frig la ușă.",
+              "Purtați straturi de haine care pot fi desfăcute ușor în autobuzul încălzit.",
+              "Stațiile în aer liber pot fi foarte inconfortabile pe timp de Bura.",
+              "Folosiți timpul de călătorie pentru a vedea pozele și pentru a vă încălzi."
+            ],
+            "en": [
+              "Take note of the reduced winter schedules for regional buses.",
+              "Have change or your ticket ready to avoid standing in the cold at the door.",
+              "Wear layers that are easy to open in the heated bus.",
+              "Outdoor bus stops can be very uncomfortable during Bura winds.",
+              "Use travel time to review photos and warm up."
+            ]
+          }
+        }
       }
     }
   }

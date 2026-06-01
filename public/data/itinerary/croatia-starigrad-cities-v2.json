@@ -292,6 +292,206 @@
           "Sun protection is essential at midday.",
           "Combine culture with beach breaks."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt gemütlich im Riva Café, während der Regen auf die Adria prasselt. Vormittags bietet das Winnetou-Museum den perfekten Rückzugsort im Trockenen. Nach einem kurzen, regnerischen Abstecher zur St.-Petrus-Kirche genießen wir ein ausgiebiges Mittagessen in einer warmen Konoba. Am Nachmittag beobachten wir die dramatischen Wolken bei der Večka kula, bevor der Tag mit einem atmosphärischen Spaziergang am Hafen endet.",
+            "hu": "Reggel a Riva kávézó fedett teraszán kezdünk, figyelve az esőcseppeket a tengeren. A délelőttöt a Winnetou Múzeum belső tárlatain töltjük, elkerülve az égi áldást. Ebéd után teszünk egy rövid sétát az ódon templomhoz, majd egy hangulatos konobában melegszünk fel. Délután a Večka kula romjai körül sétálunk az esőillatú levegőben, este pedig a kikötő fényeit csodáljuk a felhős égbolt alatt.",
+            "ro": "Dimineața începe relaxat la Riva Café, ascultând ploaia care cade peste mare. În cursul dimineții, Muzeul Winnetou oferă refugiul perfect la adăpost. După o scurtă vizită la Biserica Sf. Petru, ne bucurăm de un prânz prelungit într-o konoba primitoare. După-amiaza explorăm zona turnului Večka sub umbrelă, iar seara se încheie cu o plimbare atmosferică în port, admirând culorile dramatice ale cerului.",
+            "en": "The morning starts cozily at Riva Café, watching the rain hit the Adriatic. During the forenoon, the Winnetou Museum provides a perfect indoor escape. After a quick, rainy visit to St. Peter's Church, we enjoy a long, warming lunch in a local tavern. In the afternoon, we explore the Večka kula area with umbrellas, finishing the day with an atmospheric harbor walk under the moody, clouded sky."
+          },
+          "stops": [
+            {
+              "name": "Café an der Riva / Riva kávézó / Cafenea pe faleză / Riva Café",
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz am Fenster, um das Regenwetter über dem Meer zu beobachten.",
+                "hu": "Válasszunk ablak melletti asztalt, és élvezzük a tengeri vihar látványát.",
+                "ro": "Alegeți o masă lângă fereastră pentru a admira spectacolul ploii pe mare.",
+                "en": "Grab a window seat to enjoy the dramatic view of the rain over the sea."
+              }
+            },
+            {
+              "name": "Winnetou Múzeum / Winnetou-Museum / Muzeul Winnetou / Winnetou Museum",
+              "tip_5lang": {
+                "de": "Ideales Ziel bei Regen; nehmen Sie sich Zeit für die Filmrequisiten im Inneren.",
+                "hu": "Tökéletes esős program; merüljünk el a belső kiállítás részleteiben.",
+                "ro": "Destinație ideală pe ploaie; acordați-vă timp pentru exponatele din interior.",
+                "en": "Perfect rainy day activity; take your time exploring the indoor film memorabilia."
+              }
+            },
+            {
+              "name": "Szent Péter-templom / Kirche des hl. Petrus / Biserica Sfântul Petru / St. Peter's Church",
+              "tip_5lang": {
+                "de": "Vorsicht, die alten Steine rund um die Kirche können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázat, a templom körüli régi kövek vizesen rendkívül csúszósak lehetnek.",
+                "ro": "Atenție, pietrele vechi din jurul bisericii pot fi foarte alunecoase când sunt ude.",
+                "en": "Be careful, the ancient stones around the church can be very slippery when wet."
+              }
+            },
+            {
+              "name": "Ebéd egy konobában / Mittagessen in einer Konoba / Prânz la o konoba / Lunch in a Konoba",
+              "tip_5lang": {
+                "de": "Bestellen Sie eine warme 'Maneštra'-Suppe, um sich nach dem Regen aufzuwärmen.",
+                "hu": "Rendeljünk egy meleg 'Maneštra' levest, hogy átmelegedjünk az eső után.",
+                "ro": "Comandați o supă caldă 'Maneštra' pentru a vă încălzi după ploaie.",
+                "en": "Order a warm 'Maneštra' soup to warm up properly after the rain."
+              }
+            },
+            {
+              "name": "Večka kula & Strandidő / Večka kula & Strandpause / Večka kula & Timp la plajă / Večka kula & Beach time",
+              "tip_5lang": {
+                "de": "Statt Schwimmen empfiehlt sich ein Spaziergang am Ufer mit festem Schuhwerk.",
+                "hu": "Úszás helyett tegyünk egy sétát a parton vízálló lábbeliben.",
+                "ro": "În loc de înot, recomandăm o plimbare pe țărm cu încălțăminte adecvată.",
+                "en": "Instead of swimming, take a shore walk with sturdy, waterproof footwear."
+              }
+            },
+            {
+              "name": "Kikötői séta / Hafenpromenade / Plimbare în port / Harbor Walk",
+              "tip_5lang": {
+                "de": "Der Geruch des Meeres ist bei Regen besonders intensiv; genießen Sie die frische Luft.",
+                "hu": "Az esőben a tenger illata sokkal intenzívebb; szippantsunk mélyeket a friss levegőből.",
+                "ro": "Mirosul mării este mai intens pe ploaie; bucurați-vă de aerul proaspăt.",
+                "en": "The sea air is especially fresh and intense in the rain; breathe it in."
+              }
+            },
+            {
+              "name": "Naplemente-nézés / Sonnenuntergang / Apus de soare / Sunset View",
+              "tip_5lang": {
+                "de": "Auch bei Wolken bietet der Horizont oft ein faszinierendes Lichtspiel.",
+                "hu": "A felhők mögött is gyakran látható ilyenkor egy különleges, misztikus fényjáték.",
+                "ro": "Chiar și cu nori, orizontul oferă adesea un joc de lumini fascinant.",
+                "en": "Even with clouds, the horizon often puts on a fascinating light show."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie eine hochwertige Regenjacke, da der Wind an der Küste Regenschirme nutzlos machen kann.",
+              "Nutzen Sie die längeren Aufenthalte in den Cafés und im Museum, um die Schauer abzuwarten.",
+              "Achten Sie auf die Bodenbeschaffenheit; Natursteine werden in Starigrad sehr glatt.",
+              "Die Konobas sind bei Regen oft gut besucht, reservieren Sie ggf. vorab einen Tisch innen."
+            ],
+            "hu": [
+              "Viseljünk jó minőségű esőkabátot, mert a tengerparti szélben az esernyő gyakran használhatatlan.",
+              "Használjuk ki a kávézók és a múzeum fedett tereit a nagyobb záporok idején.",
+              "Figyeljünk a lábunk elé: a természetes kövek Starigradban vizesen nagyon csúsznak.",
+              "Esőben a konobák belső terei hamar megtelnek, érdemes lehet előre asztalt foglalni."
+            ],
+            "ro": [
+              "Purtați o jachetă de ploaie de calitate, deoarece vântul de pe coastă poate face umbrelele inutile.",
+              "Profitați de opririle mai lungi la cafenele și muzeu pentru a lăsa rafalele de ploaie să treacă.",
+              "Fiți atenți pe unde călcați; pietrele naturale din Starigrad devin foarte alunecoase.",
+              "Localurile tind să fie aglomerate în interior pe ploaie, rezervați o masă în avans dacă e posibil."
+            ],
+            "en": [
+              "Wear a high-quality rain jacket; coastal winds often make umbrellas impractical.",
+              "Use the longer stops at cafes and the museum to wait out the heaviest downpours.",
+              "Watch your step on the pavement; natural stones in Starigrad become very slick when wet.",
+              "Indoor seating in taverns fills up quickly during rain; consider booking a table in advance."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt an der windgeschützten Riva mit einem heißen Getränk. Vormittags erkunden wir die geschichtsträchtige Kirche und wärmen uns anschließend im Winnetou-Museum auf. Mittags genießen wir herzhafte dalmatinische Winterküche in einer gemütlichen Konoba. Da die Sonne bereits gegen 16:30 Uhr sinkt, nutzen wir den frühen Nachmittag für die Večka kula, bevor wir den Tag bei einem klaren Sternenhimmel am Hafen ausklingen lassen.",
+            "hu": "A friss téli reggelt a szélvédett Riva kávézóban indítjuk egy forró teával. Délelőtt meglátogatjuk a magányos templomot, majd a Winnetou Múzeum melegében kalandozunk. Az ebédet egy kandallós konobában fogyasztjuk el, kiélvezve a laktató téli fogásokat. Mivel a nap korán, fél 5 körül nyugszik, a délutánt a Večka kula romjainál töltjük, az estét pedig a csillagos égbolt alatt zárjuk a csendes kikötőben.",
+            "ro": "O dimineață răcoroasă de iarnă începe la Riva cu o băutură fierbinte. Vizităm biserica veche în aerul curat, apoi ne încălzim în Muzeul Winnetou. Prânzul constă în specialități dalmate de iarnă într-o konoba primitoare. Deoarece soarele apune devreme, în jurul orei 16:30, profităm de după-amiază la turnul Večka, încheind ziua sub cerul înstelat al portului liniștit.",
+            "en": "A crisp winter morning begins at the Riva with a steaming hot drink. We visit the historic church in the fresh air, then warm up inside the Winnetou Museum. Lunch features hearty Dalmatian winter dishes in a cozy tavern. Since the sun sets early, around 4:30 PM, we make the most of the afternoon at Večka kula, finishing the day under a clear starry sky in the quiet harbor."
+          },
+          "stops": [
+            {
+              "name": "Café an der Riva / Riva kávézó / Cafenea pe faleză / Riva Café",
+              "tip_5lang": {
+                "de": "Bestellen Sie einen 'Kuhano vino' (Glühwein) oder heißen Tee zum Aufwärmen.",
+                "hu": "Rendeljünk forralt bort (kuhano vino) vagy forró teát az indulás előtt.",
+                "ro": "Comandați un vin fiert (kuhano vino) sau un ceai fierbinte pentru a vă încălzi.",
+                "en": "Order a mulled wine (kuhano vino) or a hot tea to warm up before starting."
+              }
+            },
+            {
+              "name": "Winnetou Múzeum / Winnetou-Museum / Muzeul Winnetou / Winnetou Museum",
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten, da diese oft kürzer sind als im Sommer.",
+                "hu": "Ellenőrizzük a téli nyitvatartást, mert ilyenkor gyakran rövidebb ideig látogatható.",
+                "ro": "Verificați programul de iarnă, deoarece orele sunt adesea reduse față de vară.",
+                "en": "Check winter opening hours as they are often shorter than in the summer season."
+              }
+            },
+            {
+              "name": "Szent Péter-templom / Kirche des hl. Petrus / Biserica Sfântul Petru / St. Peter's Church",
+              "tip_5lang": {
+                "de": "Der Wind (Bura) kann hier sehr kalt sein; kleiden Sie sich nach dem Zwiebelprinzip.",
+                "hu": "A Bura szél itt nagyon metsző lehet; öltözzünk rétegesen a tengerparton.",
+                "ro": "Vântul (Bura) poate fi foarte rece aici; îmbrăcați-vă în straturi groase.",
+                "en": "The Bura wind can be very biting here; dress in warm layers by the shore."
+              }
+            },
+            {
+              "name": "Ebéd egy konobában / Mittagessen in einer Konoba / Prânz la o konoba / Lunch in a Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie 'Pašticada' oder 'Sarma', typische kroatische Wintergerichte.",
+                "hu": "Kóstoljuk meg a 'Pašticada'-t vagy a 'Sarma'-t, a tipikus horvát téli ételeket.",
+                "ro": "Încercați 'Pašticada' sau 'Sarma', mâncăruri tradiționale croate de iarnă.",
+                "en": "Try 'Pašticada' or 'Sarma', hearty traditional Croatian winter specialties."
+              }
+            },
+            {
+              "name": "Večka kula & Strandidő / Večka kula & Strandpause / Večka kula & Timp la plajă / Večka kula & Beach time",
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Strand; das Licht ist im Winter besonders klar.",
+                "hu": "Élvezzük a strand magányát; a téli fényekben a tenger látványa lenyűgöző.",
+                "ro": "Bucurați-vă de liniștea plajei; lumina de iarnă este deosebit de clară.",
+                "en": "Enjoy the solitude of the beach; the winter light makes for incredibly clear views."
+              }
+            },
+            {
+              "name": "Kikötői séta / Hafenpromenade / Plimbare în port / Harbor Walk",
+              "tip_5lang": {
+                "de": "Die Boote sind im Winter oft winterfest gemacht; ein ruhiger Anblick.",
+                "hu": "A hajók nagy részét ilyenkor már téliesítették; élvezzük a békés látványt.",
+                "ro": "Bărciile sunt adesea conservate pentru iarnă; o priveliște foarte liniștită.",
+                "en": "Most boats are winterized now; enjoy the peaceful and quiet harbor atmosphere."
+              }
+            },
+            {
+              "name": "Naplemente-nézés / Sonnenuntergang / Apus de soare / Sunset View",
+              "tip_5lang": {
+                "de": "Achtung: Sonnenuntergang ist im Winter bereits gegen 16:30 Uhr.",
+                "hu": "Figyelem: télen a nap már délután fél 5 körül nyugovóra tér.",
+                "ro": "Atenție: iarna apusul soarelui are loc deja în jurul orei 16:30.",
+                "en": "Note: In winter, the sun sets much earlier, usually around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Bereiten Sie sich auf den Bura-Wind vor, der Starigrad sehr kalt machen kann.",
+              "Die Tage sind kurz; planen Sie Ihre Aktivitäten im Freien vor 16 Uhr ein.",
+              "Viele touristische Geschäfte sind geschlossen, genießen Sie das authentische lokale Leben.",
+              "Tragen Sie Lippenbalsam und Creme gegen die trockene, kalte Meeresluft."
+            ],
+            "hu": [
+              "Készüljünk fel a Bura szélre, amely Starigradban rendkívül hidegérzetet okozhat.",
+              "A nappalok rövidek; a szabadtéri programokat érdemes délután 4-ig befejezni.",
+              "Sok szuvenírbolt zárva van, élvezzük helyettük a valódi, helyi hétköznapokat.",
+              "Használjunk ajakírt és hidratáló krémet a száraz, hideg tengeri levegő ellen."
+            ],
+            "ro": [
+              "Pregătiți-vă pentru vântul Bura, care poate face atmosfera foarte rece în Starigrad.",
+              "Zilele sunt scurte; planificați activitățile în aer liber înainte de ora 16:00.",
+              "Multe magazine turistice sunt închise, profitați de ocazie pentru a vedea viața locală autentică.",
+              "Folosiți balsam de buze și cremă împotriva aerului marin rece și uscat."
+            ],
+            "en": [
+              "Be prepared for the Bura wind, which can make Starigrad feel significantly colder.",
+              "Days are short; try to finish your main outdoor activities by 4:00 PM.",
+              "Many tourist shops are closed; enjoy the authentic local pace of life instead.",
+              "Use lip balm and moisturizer against the dry, cold coastal winter air."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -596,6 +796,224 @@
           "A bike lock is important at the Riva.",
           "Be careful when cycling on the main road."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir mit dem Rad an der Riva, gut geschützt durch wasserfeste Kleidung. Nach einem Besuch der Kirche wärmen wir uns im Winnetou-Museum auf, wo die Räder sicher im Unterstand stehen. Mittags stärken wir uns in der Stadt für die Weiterfahrt zum Paklenica-Nationalpark, der bei Regen mystisch wirkt. Die Tour endet mit einem Blick auf die Mirila-Gedenksteine, bevor wir die kurze Rückfahrt im Abendlicht antreten.",
+            "hu": "Az eső ellenére kerékpárra pattanunk, vízálló öltözetben indulva a Riváról. A templomlátogatás után a Winnetou Múzeumban szárítkozunk meg, miközben a bringák fedett helyen pihennek. Ebéd után a Paklenica Nemzeti Park felé vesszük az irányt, amely esőben különösen misztikus. A túrát a Mirila emlékhelyeknél zárjuk, majd az alkonyi fényekben tekerünk vissza a szállásunkra.",
+            "ro": "În ciuda ploii, pornim pe bicicletă de la Riva, protejați de echipament impermeabil. După vizita la biserică, ne încălzim la Muzeul Winnetou, unde bicicletele stau la adăpost. După prânz, pedalăm spre Parcul Național Paklenica, care are un aspect mistic pe ploaie. Turul se încheie la monumentele Mirila, înainte de scurta întoarcere în lumina serii.",
+            "en": "Despite the rain, we set off on bikes from the Riva, well-protected by waterproof gear. After visiting the church, we dry off at the Winnetou Museum while the bikes stay under cover. After lunch, we head towards Paklenica National Park, which looks mystical in the rain. The tour concludes at the Mirila monuments before a short ride back in the evening light."
+          },
+          "stops": [
+            {
+              "name": "Riva & Kávé / Riva & Kaffee / Riva & Cafea / Riva & Coffee",
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck; bei nasser Fahrbahn ist etwas weniger Druck für besseren Grip ratsam.",
+                "hu": "Ellenőrizzük a guminyomást; vizes úton a kissé alacsonyabb nyomás jobb tapadást biztosít.",
+                "ro": "Verificați presiunea; pe carosabil umed, o presiune ușor mai mică oferă o aderență mai bună.",
+                "en": "Check your tire pressure; slightly lower pressure offers better grip on wet roads."
+              }
+            },
+            {
+              "name": "Szent Péter-templom / Kirche des hl. Petrus / Biserica Sfântul Petru / St. Peter's Church",
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf den nassen Pflastersteinen in Kirchennähe.",
+                "hu": "Fékezzünk óvatosan a templom környéki vizes macskaköveken.",
+                "ro": "Frânați cu atenție pe pavajul umed din apropierea bisericii.",
+                "en": "Use your brakes carefully on the wet cobblestones near the church area."
+              }
+            },
+            {
+              "name": "Winnetou Múzeum / Winnetou-Museum / Muzeul Winnetou / Winnetou Museum",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Trockenpause für Ihre Kleidung.",
+                "hu": "Használjuk ki a múzeumi megállót a ruházatunk megszárítására.",
+                "ro": "Folosiți oprirea la muzeu ca o pauză de uscare pentru echipament.",
+                "en": "Use the museum visit as a strategic break to dry off your clothing."
+              }
+            },
+            {
+              "name": "Večka kula & Strand / Večka kula & Beach",
+              "tip_5lang": {
+                "de": "Der Untergrund kann schlammig sein; bleiben Sie mit dem Rad auf den befestigten Wegen.",
+                "hu": "A talaj sáros lehet; maradjunk a kerékpárral a kiépített utakon.",
+                "ro": "Terenul poate fi noroios; rămâneți cu bicicleta pe potecile amenajate.",
+                "en": "The ground might be muddy; stay on the paved or gravel paths with your bike."
+              }
+            },
+            {
+              "name": "Ebéd a városban / Mittagessen in der Stadt / Prânz în oraș / Lunch in town",
+              "tip_5lang": {
+                "de": "Suchen Sie ein Restaurant mit überdachtem Fahrradabstellplatz.",
+                "hu": "Keressünk olyan éttermet, ahol fedett helyen tárolhatjuk a bringákat.",
+                "ro": "Căutați un restaurant care oferă un spațiu acoperit pentru biciclete.",
+                "en": "Look for a restaurant that provides covered or sheltered bike parking."
+              }
+            },
+            {
+              "name": "Paklenica Nemzeti Park / Nationalpark Paklenica / Parcul Național Paklenica / Paklenica National Park",
+              "tip_5lang": {
+                "de": "Der Asphalt im Park ist meist gut, aber achten Sie auf herabgefallene Äste.",
+                "hu": "A parkban az aszfalt jó, de figyeljünk a leesett ágakra és törmelékre.",
+                "ro": "Asfaltul din parc este bun, dar atenție la crengile căzute pe drum.",
+                "en": "The asphalt in the park is mostly good, but watch out for fallen branches."
+              }
+            },
+            {
+              "name": "Mirila emlékhely / Mirila-Gedenksteine / Mirila / Mirila Monuments",
+              "tip_5lang": {
+                "de": "Bei starkem Regen kann die Sicht auf die Berge eingeschränkt sein; fahren Sie vorsichtig.",
+                "hu": "Erős esőben a hegyekre néző kilátás korlátozott lehet; óvatosan ereszkedjünk le.",
+                "ro": "Pe ploaie puternică vizibilitatea poate fi redusă; coborâți cu prudență.",
+                "en": "In heavy rain, mountain visibility may be limited; descend with extra caution."
+              }
+            },
+            {
+              "name": "Naplemente a parton / Sonnenuntergang an der Küste / Apus de soare pe coastă / Sunset at the coast",
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung bei trübem Wetter funktioniert.",
+                "hu": "Győződjünk meg róla, hogy a kerékpáros világításunk jól működik a szürkületben.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează corect în condiții de vizibilitate redusă.",
+                "en": "Ensure your bike lights are working perfectly for the low-visibility conditions."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vermeiden Sie plötzliches Bremsen auf nassen Fahrbahnmarkierungen.",
+              "Vollvisier-Regenjacken verhindern, dass Wasser in den Nacken läuft.",
+              "Schutzbleche sind bei diesem Wetter ein Muss, um Schlammspritzer zu vermeiden.",
+              "Planen Sie mehr Zeit für die Bremswege ein, besonders bergab von Mirila."
+            ],
+            "hu": [
+              "Kerüljük a hirtelen fékezést a vizes útburkolati jeleken.",
+              "A kapucnis esőkabát megakadályozza, hogy a víz a nyakunkba folyon.",
+              "A sárvédő elengedhetetlen ilyenkor, hogy elkerüljük a felcsapódó sarat.",
+              "Hagyjunk több időt a fékezésre, különösen a Mirila felőli lejtőn."
+            ],
+            "ro": [
+              "Evitați frânarea bruscă pe marcajele rutiere umede.",
+              "O jachetă de ploaie cu glugă fixă previne scurgerea apei pe gât.",
+              "Apărătorile de noroi sunt esențiale pentru a evita stropirea excesivă.",
+              "Alocați mai mult timp pentru frânare, mai ales la coborârea de la Mirila."
+            ],
+            "en": [
+              "Avoid sudden braking on wet road markings or metal covers.",
+              "A hooded rain jacket will prevent water from running down your neck.",
+              "Mudguards (fenders) are essential in this weather to avoid mud splashes.",
+              "Allow for longer braking distances, especially when descending from Mirila."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen radeln wir entlang der Riva, die kühle Meeresluft im Gesicht. Nach einem Stopp an der einsamen St.-Petrus-Kirche bietet das Winnetou-Museum eine willkommene Aufwärmpause. Nach einem kräftigen Mittagessen führt die Route in den Paklenica-Park, wo die Felswände im Winterlicht besonders scharf gezeichnet sind. Über die Mirila-Gedenksteine geht es zügig zurück, um den frühen Sonnenuntergang an der Küste zu erleben.",
+            "hu": "Tiszta téli reggelen indulunk útnak a Riva mentén, arcunkban a hűvös tengeri széllel. A magányos Szent Péter-templom után a Winnetou Múzeum nyújt meleg menedéket. Egy bőséges ebéd után a Paklenica Park felé tekerünk, ahol a sziklák téli fényben tündökölnek. A Mirila emlékhelyek érintésével sietünk vissza, hogy még sötétedés előtt elcsípjük a tengerparti naplementét.",
+            "ro": "Într-o dimineață senină de iarnă, pedalăm de-a lungul falezii Riva, simțind aerul rece. După o oprire la biserica Sf. Petru, Muzeul Winnetou oferă o pauză binemeritată de încălzire. După un prânz consistent, traseul continuă spre Parcul Paklenica, unde stâncile sunt spectaculoase în lumina iernii. Revenim prin Mirila pentru a prinde apusul devreme de pe coastă.",
+            "en": "On a clear winter morning, we cycle along the Riva, feeling the cool sea breeze. After a stop at the lonely St. Peter's Church, the Winnetou Museum provides a welcome warming break. Following a hearty lunch, the route leads to Paklenica Park, where the cliffs look sharp in the winter light. We return via Mirila to catch the early sunset on the coast."
+          },
+          "stops": [
+            {
+              "name": "Riva & Kávé / Riva & Kaffee / Riva & Cafea / Riva & Coffee",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe; die Kälte wird beim Radfahren verstärkt.",
+                "hu": "Viseljünk szélálló kesztyűt; a menetszél télen sokkal hidegebbnek érződik.",
+                "ro": "Purtați mănuși rezistente la vânt; frigul este accentuat în timpul mersului.",
+                "en": "Wear windproof gloves; the wind chill factor is significant while cycling."
+              }
+            },
+            {
+              "name": "Szent Péter-templom / Kirche des hl. Petrus / Biserica Sfântul Petru / St. Peter's Church",
+              "tip_5lang": {
+                "de": "Genießen Sie den freien Blick auf die Inseln, der im Winter oft klarer ist.",
+                "hu": "Élvezzük a zavartalan kilátást a szigetekre; télen sokkal tisztább a levegő.",
+                "ro": "Bucurați-vă de vederea clară spre insule, specifică atmosferei de iarnă.",
+                "en": "Enjoy the unobstructed views of the islands, which are often clearer in winter."
+              }
+            },
+            {
+              "name": "Winnetou Múzeum / Winnetou-Museum / Muzeul Winnetou / Winnetou Museum",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die gefrorenen Finger wieder aufzuwärmen.",
+                "hu": "Ideális helyszín, hogy felmelegítsük átfagyott ujjainkat a kiállítás közben.",
+                "ro": "Un loc ideal pentru a vă dezmorți degetele în timpul vizitei.",
+                "en": "A perfect spot to warm up your frozen fingers while exploring the museum."
+              }
+            },
+            {
+              "name": "Večka kula & Strand / Večka kula & Beach",
+              "tip_5lang": {
+                "de": "Der Strand ist menschenleer; perfekt für stimmungsvolle Fotos.",
+                "hu": "A strand ilyenkor teljesen üres; tökéletes alkalom hangulatos fotókhoz.",
+                "ro": "Plaja este pustie; momentul ideal pentru fotografii spectaculoase.",
+                "en": "The beach is completely empty; a great time for atmospheric winter photos."
+              }
+            },
+            {
+              "name": "Ebéd a városban / Mittagessen in der Stadt / Prânz în oraș / Lunch in town",
+              "tip_5lang": {
+                "de": "Setzen Sie sich in die Nähe einer Heizung oder eines Kamins.",
+                "hu": "Keressünk helyet a fűtőtest vagy a kandalló közelében az étteremben.",
+                "ro": "Așezați-vă lângă o sursă de căldură sau lângă șemineu în restaurant.",
+                "en": "Find a seat near a radiator or fireplace to thaw out during lunch."
+              }
+            },
+            {
+              "name": "Paklenica Nemzeti Park / Nationalpark Paklenica / Parcul Național Paklenica / Paklenica National Park",
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisstellen auf schattigen Straßenabschnitten im Canyon.",
+                "hu": "Figyeljünk az esetleges jeges foltokra a kanyon árnyékos útszakaszain.",
+                "ro": "Atenție la posibilele porțiuni cu gheață în zonele umbrite ale canionului.",
+                "en": "Watch out for potential icy patches on shaded road sections inside the canyon."
+              }
+            },
+            {
+              "name": "Mirila emlékhely / Mirila-Gedenksteine / Mirila / Mirila Monuments",
+              "tip_5lang": {
+                "de": "Der Aufstieg hält warm, aber ziehen Sie für die Abfahrt eine zusätzliche Schicht an.",
+                "hu": "A felfelé tekerés melegen tart, de a lejtőhöz vegyünk fel még egy réteget.",
+                "ro": "Urcarea vă va încălzi, dar puneți un strat în plus pentru coborâre.",
+                "en": "The climb will keep you warm, but add an extra layer for the descent."
+              }
+            },
+            {
+              "name": "Naplemente a parton / Sonnenuntergang an der Küste / Apus de soare pe coastă / Sunset at the coast",
+              "tip_5lang": {
+                "de": "Seien Sie spätestens um 16:30 Uhr hier, bevor es schlagartig dunkel und kalt wird.",
+                "hu": "Érkezzünk meg fél 5-re, mielőtt hirtelen besötétedik és lehűl a levegő.",
+                "ro": "Fiți aici cel târziu la 16:30, înainte să se facă brusc întuneric și frig.",
+                "en": "Be here by 4:30 PM at the latest, before it gets dark and cold very quickly."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere dünne Schichten (Zwiebelprinzip) für die wechselnde Belastung.",
+              "Eine Thermo-Trinkflasche mit warmem Tee ist bei Wintertouren sehr zu empfehlen.",
+              "Verwenden Sie helles Licht, da die Dämmerung im Winter sehr kurz ist.",
+              "Schützen Sie Ihre Ohren und Stirn mit einem Stirnband unter dem Helm."
+            ],
+            "hu": [
+              "Öltözzünk rétegesen, hogy a változó intenzitású tekeréshez igazodhassunk.",
+              "A termoszban lévő meleg tea életmentő lehet a téli bringatúrákon.",
+              "Használjunk erős lámpákat, mert a téli szürkület nagyon rövid ideig tart.",
+              "Védjük a fülünket és homlokunkat a sisak alatt viselt fejpánttal."
+            ],
+            "ro": [
+              "Purtați mai multe straturi subțiri pentru a vă adapta la efortul depus.",
+              "Un termos cu ceai cald este foarte recomandat pentru turele de iarnă.",
+              "Folosiți lumini puternice, deoarece amurgul de iarnă este foarte scurt.",
+              "Protejați-vă urechile și fruntea cu o bentiță purtată sub cască."
+            ],
+            "en": [
+              "Dress in multiple thin layers to adjust to the varying intensity of cycling.",
+              "A thermal bottle with warm tea is highly recommended for winter rides.",
+              "Use bright lights, as winter twilight is very short and fades fast.",
+              "Protect your ears and forehead with a headband or buff under your helmet."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -900,6 +1318,224 @@
           "In the summer months, the coastal road can be crowded.",
           "Use the car for the ascent to Paklenica."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Starigrad lässt sich entspannt mit dem Auto bewältigen. Wir parken zentral für einen Kaffee und besuchen trockenen Fußes das Winnetou-Museum. Die Fahrt zur St.-Petrus-Kirche und zur Večka kula bietet tolle Ausblicke aus dem Autofenster. Nach einem gemütlichen Mittagessen fahren wir zum Paklenica-Parkeingang und genießen die majestätischen Berge im Nebel, bevor wir über die Mirila-Aussichtspunkte zurückkehren.",
+            "hu": "Az esős nap Starigradban autóval is kényelmesen felfedezhető. A központban parkolunk egy kávéra, majd száraz lábbal látogatjuk meg a Winnetou Múzeumot. A Szent Péter-templomhoz és a Večka kulához vezető út során az autó ablakából csodáljuk a tájat. Ebéd után a Paklenica Nemzeti Park bejáratáig hajtunk a ködös hegyek között, majd a Mirila kilátópont érintésével térünk vissza.",
+            "ro": "O zi ploioasă în Starigrad poate fi parcursă relaxat cu mașina. Parcăm central pentru o cafea și vizităm Muzeul Winnetou fără a ne uda. Drumul spre biserica Sf. Petru și turnul Večka oferă priveliști frumoase direct din mașină. După prânz, conducem spre intrarea în Paklenica, admirând munții în ceață, apoi revenim prin punctele de belvedere Mirila.",
+            "en": "A rainy day in Starigrad is easily managed by car. We park centrally for a coffee and visit the Winnetou Museum while staying dry. The drive to St. Peter's Church and Večka kula offers great views from the car window. After lunch, we drive to the Paklenica Park entrance to see the misty mountains, returning via the Mirila viewpoints."
+          },
+          "stops": [
+            {
+              "name": "Központi Parkoló & Kávé / Zentrum Parkplatz & Kaffee / Parcare Centru & Cafea / Center Parking & Coffee",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Café, um den Regen zu meiden.",
+                "hu": "Parkoljunk a lehető legközelebb a kávézóhoz, hogy elkerüljük az esőt.",
+                "ro": "Parcați cât mai aproape de cafenea pentru a evita ploaia.",
+                "en": "Park as close to the cafe as possible to minimize time in the rain."
+              }
+            },
+            {
+              "name": "Winnetou Múzeum / Winnetou-Museum / Muzeul Winnetou / Winnetou Museum",
+              "tip_5lang": {
+                "de": "Direkt vor dem Museum gibt es Parkmöglichkeiten; ideal bei schlechtem Wetter.",
+                "hu": "Közvetlenül a múzeum előtt van parkolóhely; ideális rossz időben.",
+                "ro": "Există locuri de parcare chiar în fața muzeului; ideal pe vreme rea.",
+                "en": "There are parking spots right in front of the museum; ideal for bad weather."
+              }
+            },
+            {
+              "name": "Szent Péter-templom / Kirche des hl. Petrus / Biserica Sfântul Petru / St. Peter's Church",
+              "tip_5lang": {
+                "de": "Der Parkplatz ist unbefestigt; Vorsicht vor Pfützen beim Aussteigen.",
+                "hu": "A parkoló nem aszfaltozott; vigyázzunk a tócsákra kiszálláskor.",
+                "ro": "Parcarea nu este asfaltată; atenție la bălți când coborâți din mașină.",
+                "en": "The parking area is unpaved; watch out for deep puddles when exiting the car."
+              }
+            },
+            {
+              "name": "Večka kula & Strand / Večka kula & Beach",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Turm und das Meer direkt vom Auto aus.",
+                "hu": "Élvezzük a kilátást a toronyra és a tengerre közvetlenül az autóból.",
+                "ro": "Bucurați-vă de vederea spre turn și mare direct din mașină.",
+                "en": "Enjoy the dramatic view of the tower and the sea directly from your car."
+              }
+            },
+            {
+              "name": "Ebéd a város szélén / Mittagessen am Stadtrand / Prânz la marginea orașului / Lunch on the outskirts",
+              "tip_5lang": {
+                "de": "Diese Restaurants haben oft große, eigene Parkplätze.",
+                "hu": "Ezek az éttermek gyakran saját, tágas parkolóval rendelkeznek.",
+                "ro": "Aceste restaurante au adesea parcări proprii spațioase.",
+                "en": "These outskirts restaurants often have large, private parking areas."
+              }
+            },
+            {
+              "name": "Paklenica Nemzeti Park / Nationalpark Paklenica / Parcul Național Paklenica / Paklenica National Park",
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum letzten erlaubten Parkplatz im Canyon für kurze Gehwege.",
+                "hu": "Hajtsunk el a kanyon legbelső parkolójáig, hogy minimálisat kelljen gyalogolni.",
+                "ro": "Conduceți până la ultima parcare permisă din canion pentru a merge puțin pe jos.",
+                "en": "Drive to the furthest allowed parking lot in the canyon to minimize walking."
+              }
+            },
+            {
+              "name": "Mirila kilátópont / Mirila Aussichtspunkt / Mirila Belvedere / Mirila Viewpoint",
+              "tip_5lang": {
+                "de": "Die schmale Straße kann bei Regen rutschig sein; fahren Sie langsam.",
+                "hu": "A keskeny út esőben csúszós lehet; vezessünk lassabban a kanyarokban.",
+                "ro": "Drumul îngust poate fi alunecos pe ploaie; conduceți cu viteză redusă.",
+                "en": "The narrow road can be slick in the rain; drive slowly through the bends."
+              }
+            },
+            {
+              "name": "Visszatérés / Rückkehr / Întoarcere / Return",
+              "tip_5lang": {
+                "de": "Achten Sie auf schlechte Sicht durch Gischt und Regen auf der Küstenstraße.",
+                "hu": "Figyeljünk a rossz látási viszonyokra a parti úton a felcsapódó víz miatt.",
+                "ro": "Atenție la vizibilitatea redusă pe drumul de coastă din cauza stropilor.",
+                "en": "Watch out for poor visibility on the coastal road due to spray and rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Scheibenwischer vor der Fahrt entlang der Küste.",
+              "Die Küstenstraße (Magistrale) kann bei Regen durch Ölfilme sehr rutschig sein.",
+              "Halten Sie ein Handtuch im Auto bereit, falls Sie beim Aussteigen nass werden.",
+              "Nutzen Sie die Klimaanlage, um das Beschlagen der Scheiben zu verhindern."
+            ],
+            "hu": [
+              "Ellenőrizzük az ablaktörlők állapotát a parti út előtt.",
+              "Az adriai főút (Magistrale) esőben az olajfilm miatt nagyon csúszós lehet.",
+              "Tartsunk egy törölközőt az autóban, ha kiszálláskor megáznánk.",
+              "Használjuk a klímát a szélvédő párátlanítására a nagy páratartalom miatt."
+            ],
+            "ro": [
+              "Verificați starea ștergătoarelor înainte de a porni la drum pe coastă.",
+              "Drumul de coastă (Magistrala) poate fi foarte alunecos pe ploaie.",
+              "Țineți un prosop în mașină în caz că vă udă ploaia când coborâți.",
+              "Folosiți aerul condiționat pentru a preveni aburirea geamurilor."
+            ],
+            "en": [
+              "Check your wiper blades before heading out along the coast.",
+              "The coastal road (Magistrale) can be very slippery in the rain due to oil film.",
+              "Keep a towel in the car in case you get wet while stepping out at stops.",
+              "Use the air conditioning to keep the windows from fogging up in high humidity."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Auto erlaubt es uns, Starigrad warm und flexibel zu erkunden. Nach einem kurzen Riva-Spaziergang besuchen wir das Winnetou-Museum. Die winterliche Küstenstraße bietet klare Sicht bis zu den Inseln. Nach einem deftigen Mittagessen fahren wir in den Paklenica-Park, wo wir die Stille der Berge genießen. Über den Mirila-Pass geht es zurück, wobei wir den Sonnenuntergang bequem vom Auto aus beobachten.",
+            "hu": "A téli napon az autó melegében, rugalmasan fedezhetjük fel Starigrad környékét. Egy rövid parti séta után a Winnetou Múzeumban folytatjuk. A téli tengerparti út során a látótávolság lenyűgöző a szigetek felé. Ebéd után a Paklenica Park csendjét élvezzük, majd a Mirila-hágón át kanyarodunk vissza, a naplementét már az autóból figyelve.",
+            "ro": "O zi de iarnă cu mașina ne permite să explorăm Starigrad într-un mod confortabil. După o scurtă plimbare pe faleză, vizităm Muzeul Winnetou. Drumul de coastă oferă o vizibilitate excelentă spre insule. După un prânz copios, mergem în Parcul Paklenica pentru a simți liniștea munților, revenind prin pasul Mirila în timp ce apune soarele.",
+            "en": "A winter day by car allows us to explore Starigrad warmly and flexibly. After a short walk on the Riva, we visit the Winnetou Museum. The winter coastal road offers incredibly clear views out to the islands. After a hearty lunch, we head into Paklenica Park to enjoy the mountain silence, returning via the Mirila pass as the sun sets."
+          },
+          "stops": [
+            {
+              "name": "Központi Parkoló & Kávé / Zentrum Parkplatz & Kaffee / Parcare Centru & Cafea / Center Parking & Coffee",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz warm laufen, falls es gefroren hat.",
+                "hu": "Hagyjuk az autót kicsit bemelegedni, ha fagyos az idő.",
+                "ro": "Lăsați motorul să se încălzească puțin dacă temperaturile sunt scăzute.",
+                "en": "Let the engine warm up for a bit if the temperatures are near freezing."
+              }
+            },
+            {
+              "name": "Winnetou Múzeum / Winnetou-Museum / Muzeul Winnetou / Winnetou Museum",
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung im Museum; es ist einer der wärmsten Orte heute.",
+                "hu": "Élvezzük a fűtést a múzeumban; ez az egyik legmelegebb pont a mai napon.",
+                "ro": "Bucurați-vă de căldura din muzeu; este unul dintre cele mai calde locuri azi.",
+                "en": "Enjoy the heating inside the museum; it's one of the warmest stops today."
+              }
+            },
+            {
+              "name": "Szent Péter-templom / Kirche des hl. Petrus / Biserica Sfântul Petru / St. Peter's Church",
+              "tip_5lang": {
+                "de": "Bei Bura-Wind die Autotüren beim Öffnen gut festhalten.",
+                "hu": "Erős Bura szélben tartsuk erősen az ajtót kiszálláskor.",
+                "ro": "În caz de vânt puternic (Bura), țineți bine portiera când o deschideți.",
+                "en": "Hold the car door firmly when opening it if the Bura wind is blowing."
+              }
+            },
+            {
+              "name": "Večka kula & Strand / Večka kula & Beach",
+              "tip_5lang": {
+                "de": "Perfekter Fotostopp; Sie müssen nur für ein paar Minuten in die Kälte.",
+                "hu": "Tökéletes fotómegálló; csak pár percre kell kiszállnunk a hidegbe.",
+                "ro": "Oprire perfectă pentru poze; trebuie să stați în frig doar câteva minute.",
+                "en": "Perfect photo stop; you only need to step out into the cold for a few minutes."
+              }
+            },
+            {
+              "name": "Ebéd a város szélén / Mittagessen am Stadtrand / Prânz la marginea orașului / Lunch on the outskirts",
+              "tip_5lang": {
+                "de": "Die Restaurants sind im Winter oft gemütlicher und weniger hektisch.",
+                "hu": "Az éttermek télen sokkal hangulatosabbak és kevésbé zsúfoltak.",
+                "ro": "Restaurantele sunt mai primitoare și mai puțin aglomerate iarna.",
+                "en": "The restaurants are often cozier and much less hectic in the winter season."
+              }
+            },
+            {
+              "name": "Paklenica Nemzeti Park / Nationalpark Paklenica / Parcul Național Paklenica / Paklenica National Park",
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Straße im Park eisfrei ist, besonders in den schattigen Lagen.",
+                "hu": "Ellenőrizzük, hogy az út jégmentes-e a parkban, főleg az árnyékos részeken.",
+                "ro": "Verificați dacă drumul din parc este practicabil, evitând zonele cu gheață.",
+                "en": "Check if the park road is ice-free, especially in the deep shaded sections."
+              }
+            },
+            {
+              "name": "Mirila kilátópont / Mirila Aussichtspunkt / Mirila Belvedere / Mirila Viewpoint",
+              "tip_5lang": {
+                "de": "Vorsicht vor plötzlichen Windböen auf den exponierten Abschnitten der Bergstraße.",
+                "hu": "Vigyázzunk a hirtelen széllökésekre a hegyi út nyitott szakaszain.",
+                "ro": "Atenție la rafalele de vânt pe secțiunile expuse ale drumului montan.",
+                "en": "Beware of sudden wind gusts on the exposed sections of the mountain road."
+              }
+            },
+            {
+              "name": "Visszatérés / Rückkehr / Întoarcere / Return",
+              "tip_5lang": {
+                "de": "Schalten Sie das Licht frühzeitig ein, da die Sicht im Winter schneller abnimmt.",
+                "hu": "Kapcsoljuk be időben a világítást, mert télen hamarabb romlik a láthatóság.",
+                "ro": "Aprindeți luminile din timp, vizibilitatea scade rapid iarna.",
+                "en": "Turn on your lights early, as visibility drops faster in the winter evenings."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf die Bura-Warnungen für die Küstenstraße; diese kann für hohe Fahrzeuge gesperrt sein.",
+              "Führen Sie immer Eiskratzer und Frostschutzmittel mit sich.",
+              "Die Batterieleistung kann bei Kälte sinken; prüfen Sie den Zustand vor der Reise.",
+              "Tanken Sie rechtzeitig, da einige Tankstellen im Winter geänderte Zeiten haben."
+            ],
+            "hu": [
+              "Figyeljük a Bura-riasztásokat; az autópályát vagy a parti utat lezárhatják a szél miatt.",
+              "Mindig legyen nálunk jégkaparó és fagyálló szélvédőmosó.",
+              "Az akkumulátor teljesítménye csökkenhet a hidegben; érdemes ellenőrizni.",
+              "Tankoljunk időben, mert néhány kisebb kút télen korábban zárhat."
+            ],
+            "ro": [
+              "Urmăriți alertele de vânt Bura; drumul de coastă poate fi închis pentru anumite vehicule.",
+              "Aveți întotdeauna la îndemână o racletă și lichid de parbriz rezistent la îngheț.",
+              "Performanța bateriei scade la frig; verificați-o înainte de drumuri lungi.",
+              "Alimentați din timp, unele benzinării pot avea program redus iarna."
+            ],
+            "en": [
+              "Monitor Bura wind warnings; the coastal road can be closed to certain vehicles.",
+              "Always carry an ice scraper and winter-grade windshield washer fluid.",
+              "Battery performance drops in the cold; check its health before your trip.",
+              "Refuel in advance, as some smaller stations might have shorter winter hours."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1166,6 +1802,206 @@
           "Have small change ready for the bus.",
           "The Winnetou Museum is a must for film fans."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag lässt sich mit dem Bus gut organisieren. Wir kommen zentral an und suchen Schutz im nächsten Café. Das Winnetou-Museum ist ein ideales Ziel für den Vormittag. Nach dem Mittagessen in einer Konoba fahren wir zur Večka kula, wobei wir die kurzen Gehwege zwischen den Haltestellen nutzen. Ein Eis im Hafen bei Meeresrauschen bildet den Abschluss, bevor wir den Bus für die Rückfahrt nehmen.",
+            "hu": "Az esős napon a buszközlekedésre támaszkodva fedezzük fel a várost. Megérkezés után egy közeli kávézóban várunk a zápor végéig, majd a Winnetou Múzeumba látogatunk. Ebéd után a Večka kulát keressük fel, kihasználva a megállók közötti rövid távolságokat. A kikötőben egy gyors fagylalt után – esőben is jó! – indulunk vissza a buszmegállóhoz.",
+            "ro": "O zi ploioasă poate fi gestionată bine folosind autobuzul local. Ajungem în centru și ne adăpostim în cea mai apropiată cafenea. Muzeul Winnetou este destinația ideală pentru dimineață. După prânz, mergem spre turnul Večka, folosind distanțele scurte de la stații. O înghețată în port încheie ziua înainte de a lua autobuzul spre casă.",
+            "en": "A rainy day is manageable by using the local bus service. We arrive centrally and take shelter in a nearby cafe. The Winnetou Museum is the perfect morning destination. After lunch, we visit Večka kula, utilizing the short walking distances from the stops. A quick gelato in the harbor finishes the day before catching the return bus."
+          },
+          "stops": [
+            {
+              "name": "Starigrad Bus megálló / Starigrad Busstopp / Stație de autobuz Starigrad / Starigrad Bus Stop",
+              "tip_5lang": {
+                "de": "Die Haltestelle ist meist nicht überdacht; halten Sie Ihren Schirm bereit.",
+                "hu": "A megálló nem mindenhol fedett; tartsuk készenlétben az esernyőt.",
+                "ro": "Stația nu este întotdeauna acoperită; pregătiți umbrela din timp.",
+                "en": "The stop is mostly unsheltered; have your umbrella ready upon arrival."
+              }
+            },
+            {
+              "name": "Winnetou Múzeum / Winnetou-Museum / Muzeul Winnetou / Winnetou Museum",
+              "tip_5lang": {
+                "de": "Vom Bus sind es nur wenige Gehminuten zum trockenen Museumseingang.",
+                "hu": "A busztól csak pár perc séta a múzeum száraz bejárata.",
+                "ro": "De la autobuz sunt doar câteva minute de mers până la intrarea muzeului.",
+                "en": "It's only a few minutes' walk from the bus to the dry museum entrance."
+              }
+            },
+            {
+              "name": "Szent Péter-templom / Kirche des hl. Petrus / Biserica Sfântul Petru / St. Peter's Church",
+              "tip_5lang": {
+                "de": "Achten Sie auf vorbeifahrende Autos, die Pfützenwasser aufwirbeln können.",
+                "hu": "Figyeljünk az elhaladó autókra, amelyek felverhetik a vizet a járdára.",
+                "ro": "Atenție la mașinile care trec și pot stropi apa din bălți pe trotuar.",
+                "en": "Watch out for passing cars that might splash puddle water onto the sidewalk."
+              }
+            },
+            {
+              "name": "Konoba ebéd / Mittagessen in der Konoba / Prânz la konoba / Konoba Lunch",
+              "tip_5lang": {
+                "de": "Wählen Sie eine Konoba in der Nähe der Hauptstraße für kurze Wege zum Bus.",
+                "hu": "Válasszunk a főúthoz közeli konobát a könnyebb buszos elérés érdekében.",
+                "ro": "Alegeți o konoba aproape de drumul principal pentru acces ușor la autobuz.",
+                "en": "Choose a tavern near the main road for shorter walking distances to the bus."
+              }
+            },
+            {
+              "name": "Večka kula & Strand / Večka kula & Beach",
+              "tip_5lang": {
+                "de": "Der Boden ist bei Regen weich; gehen Sie vorsichtig zum Aussichtspunkt.",
+                "hu": "A talaj esőben felázhat; óvatosan közelítsük meg a kilátópontot.",
+                "ro": "Terenul poate fi moale pe ploaie; mergeți cu prudență spre turn.",
+                "en": "The ground can be soft in the rain; walk carefully towards the viewpoint."
+              }
+            },
+            {
+              "name": "Fagylalt a kikötőben / Eis am Hafen / Înghețată în port / Gelato in the harbor",
+              "tip_5lang": {
+                "de": "Holen Sie sich das Eis zum Mitnehmen und genießen Sie es unter einem Vordach.",
+                "hu": "Vegyünk elvitelre fagylaltot, és élvezzük egy védett előtető alatt.",
+                "ro": "Luați înghețata la pachet și bucurați-vă de ea sub o copertină.",
+                "en": "Get your gelato to go and enjoy it under a sheltered canopy near the water."
+              }
+            },
+            {
+              "name": "Visszatérés a buszhoz / Rückkehr zum Bus / Întoarcere la autobuz / Return to the bus",
+              "tip_5lang": {
+                "de": "Planen Sie 5 Minuten Puffer ein, da Busse bei Regen langsamer fahren können.",
+                "hu": "Számoljunk 5 perc ráhagyással, mert esőben lassabb lehet a buszközlekedés.",
+                "ro": "Alocați o marjă de 5 minute, autobuzele pot circula mai greu pe ploaie.",
+                "en": "Allow a 5-minute buffer as buses might be delayed due to heavy rain."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Echtzeit-Fahrpläne, falls es wetterbedingte Verzögerungen gibt.",
+              "Vermeiden Sie das Warten an Haltestellen ohne Schutz während starker Schauer.",
+              "Vorsicht beim Ein- und Aussteigen auf nassen Stufen im Bus.",
+              "Tragen Sie wasserfeste Schuhe, da Wege zu den Haltestellen oft Pfützen haben."
+            ],
+            "hu": [
+              "Ellenőrizzük a valós idejű menetrendet az esetleges eső miatti késések végett.",
+              "Erős zápor idején ne várjunk a fedetlen megállókban, keressünk közeli védett helyet.",
+              "Vigyázzunk a felszállásnál, a busz lépcsői vizesen csúszósak lehetnek.",
+              "Viseljünk vízálló cipőt, mert a megállókhoz vezető úton sok a pocsolya."
+            ],
+            "ro": [
+              "Verificați mersul autobuzelor în timp real pentru eventuale întârzieri.",
+              "Evitați să așteptați în stațiile fără acoperiș în timpul ploilor torențiale.",
+              "Fiți atenți la urcare și coborâre, treptele autobuzului pot fi umede.",
+              "Purtați încălțăminte impermeabilă, drumul spre stații poate avea bălți."
+            ],
+            "en": [
+              "Check real-time bus schedules for any weather-related delays.",
+              "Avoid waiting at unsheltered stops during heavy downpours; find a shop nearby.",
+              "Be careful when boarding; the bus steps can be slippery when wet.",
+              "Wear waterproof shoes as paths to bus stops often collect deep puddles."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter nutzen wir den Bus, um die Highlights von Starigrad bequem zu erreichen. Nach der Ankunft wärmen wir uns in einem Café an der Riva auf. Der Besuch des Winnetou-Museums ist ein Muss im Winterprogramm. Mittags genießen wir lokale Spezialitäten, bevor wir den Strand bei der Večka kula in seiner winterlichen Ruhe besuchen. Der Tag endet früh am Hafen, passend zur Busabfahrt vor Einbruch der Dunkelheit.",
+            "hu": "Télen a buszközlekedés kényelmes módja Starigrad felfedezésének. Megérkezés után a Riva egyik kávézójában melegszünk fel, majd a Winnetou Múzeum tárlatát nézzük meg. Ebéd után a Večka kula téli nyugalmát élvezzük a tengerparton. A napot a kikötőben zárjuk, igazodva a busz indulásához, még mielőtt teljesen ránk sötétedne.",
+            "ro": "Iarna folosim autobuzul pentru a vizita Starigrad într-un mod confortabil. După sosire, ne încălzim într-o cafenea pe faleză, apoi vizităm Muzeul Winnetou. După prânz, admirăm liniștea turnului Večka de pe plajă. Ziua se încheie în port, corelat cu plecarea autobuzului înainte de lăsarea întunericului.",
+            "en": "In winter, the bus is a comfortable way to see the highlights of Starigrad. After arriving, we warm up in a cafe on the Riva, then head to the Winnetou Museum. After lunch, we enjoy the winter serenity of Večka kula on the beach. The day ends in the harbor, timed with the bus departure before it gets fully dark."
+          },
+          "stops": [
+            {
+              "name": "Starigrad Bus megálló / Starigrad Busstopp / Stație de autobuz Starigrad / Starigrad Bus Stop",
+              "tip_5lang": {
+                "de": "Achtung: Der Winterfahrplan hat oft weniger Verbindungen als im Sommer.",
+                "hu": "Figyelem: a téli menetrendben ritkábban járnak a buszok, mint nyáron.",
+                "ro": "Atenție: programul de iarnă are mai puține curse decât cel de vară.",
+                "en": "Note: The winter schedule often has fewer connections than the summer one."
+              }
+            },
+            {
+              "name": "Winnetou Múzeum / Winnetou-Museum / Muzeul Winnetou / Winnetou Museum",
+              "tip_5lang": {
+                "de": "Planen Sie den Museumsbesuch für die kälteste Zeit des Vormittags ein.",
+                "hu": "Időzítsük a múzeumlátogatást a délelőtt leghidegebb óráira.",
+                "ro": "Planificați vizita la muzeu pentru cele mai reci ore ale dimineții.",
+                "en": "Plan your museum visit for the coldest part of the morning to stay warm."
+              }
+            },
+            {
+              "name": "Szent Péter-templom / Kirche des hl. Petrus / Biserica Sfântul Petru / St. Peter's Church",
+              "tip_5lang": {
+                "de": "Der kurze Fußweg von der Haltestelle kann bei Frost glatt sein.",
+                "hu": "A megállótól vezető rövid gyalogút fagy esetén csúszós lehet.",
+                "ro": "Scurtul drum de la stație poate fi alunecos în caz de îngheț.",
+                "en": "The short walk from the bus stop might be icy if there's a frost."
+              }
+            },
+            {
+              "name": "Konoba ebéd / Mittagessen in der Konoba / Prânz la konoba / Konoba Lunch",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich gut auf, bevor Sie wieder zur Haltestelle gehen.",
+                "hu": "Melegedjünk fel alaposan, mielőtt visszamennénk a megállóba.",
+                "ro": "Încălziți-vă bine înainte de a vă întoarce la stația de autobuz.",
+                "en": "Warm up thoroughly inside the tavern before heading back to the stop."
+              }
+            },
+            {
+              "name": "Večka kula & Strand / Večka kula & Beach",
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist im Winter sehr frisch; halten Sie Mütze und Schal bereit.",
+                "hu": "A tengeri szél télen nagyon metsző; legyen nálunk sapka és sál.",
+                "ro": "Briza mării este foarte tăioasă iarna; purtați căciulă și fular.",
+                "en": "The sea breeze is very sharp in winter; keep your hat and scarf ready."
+              }
+            },
+            {
+              "name": "Fagylalt a kikötőben / Eis am Hafen / Înghețată în port / Gelato in the harbor",
+              "tip_5lang": {
+                "de": "Viele Eisdielen sind im Winter geschlossen; weichen Sie auf heiße Schokolade aus.",
+                "hu": "Sok fagyizó zárva van télen; próbáljuk ki helyette a forró csokoládét.",
+                "ro": "Multe gelaterii sunt închise iarna; optați pentru o ciocolată caldă.",
+                "en": "Many gelato shops are closed in winter; try a hot chocolate instead."
+              }
+            },
+            {
+              "name": "Visszatérés a buszhoz / Rückkehr zum Bus / Întoarcere la autobuz / Return to the bus",
+              "tip_5lang": {
+                "de": "Seien Sie pünktlich; das Warten an der Haltestelle kann im Winter sehr kalt sein.",
+                "hu": "Érkezzünk pontosan; a megállóban várakozás télen nagyon hideg lehet.",
+                "ro": "Fiți punctuali; așteptarea în stație poate fi foarte neplăcută iarna.",
+                "en": "Be on time; waiting at the bus stop can be very cold in the winter wind."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie unbedingt die Rückfahrzeiten des letzten Busses, da diese früher sein können.",
+              "Tragen Sie warme Socken, da man beim Warten auf den Bus schnell kalte Füße bekommt.",
+              "Nutzen Sie die beheizten Innenräume der Busse zum Aufwärmen zwischen den Stopps.",
+              "Ein kleiner Taschenwärmer kann das Warten an der Haltestelle angenehmer machen."
+            ],
+            "hu": [
+              "Feltétlenül ellenőrizzük az utolsó busz indulását, mert télen korábban lehet.",
+              "Viseljünk meleg zoknit, mert a megállóban várva hamar áthűl a lábunk.",
+              "Használjuk ki a buszok fűtött belterét a megállók közötti felmelegedésre.",
+              "Egy kis zsebmelegítő sokat segíthet a buszmegállóban való várakozáskor."
+            ],
+            "ro": [
+              "Verificați obligatoriu ora ultimului autobuz, iarna poate fi mai devreme.",
+              "Purtați șosete groase, picioarele îngheață repede așteptând în stație.",
+              "Profitați de interiorul încălzit al autobuzelor pentru a vă încălzi între opriri.",
+              "Un încălzitor de buzunar poate face așteptarea în stație mult mai suportabilă."
+            ],
+            "en": [
+              "Double-check the time of the last return bus, as it may be earlier in winter.",
+              "Wear warm socks; your feet will get cold quickly while waiting at the stop.",
+              "Make the most of the heated bus interior to warm up between your stops.",
+              "A small pocket hand warmer can make waiting at the bus stop much more pleasant."
+            ]
+          }
+        }
       }
     }
   }

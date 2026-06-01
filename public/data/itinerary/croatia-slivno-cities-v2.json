@@ -314,6 +314,224 @@
           "Take enough water for the afternoon uphill walk.",
           "Klek beach is shallow and ideal for families."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Kula Nonković, deren dicke Mauern Schutz vor dem ersten Regenschauer bieten, bevor wir uns ausgiebig Zeit für die Galerija Stećak nehmen. Mittags schlendern wir unter dem Regenschirm an der Riva entlang und genießen ein wärmendes Mahl in der Konoba. Am Nachmittag wirkt der Strand von Klek mit der aufgewühlten See besonders dramatisch, während die Ruinen von Smrdan grad im Nebel versinken. Der Abend endet friedlich in der kleinen Kirche, bevor wir das Wolkenspiel über dem Meer beobachten.",
+            "hu": "A reggelt a Kula Nonković kőfalai között kezdjük, ahol az eresz alatt várunk a Galéria nyitására, hogy ott aztán szárazon élvezzük a művészetet. Délben az esernyős parti séta után a konoba gőzölgő ételei nyújtanak vigaszt. Délután a Klek strandja a viharos tenger látványával ajándékoz meg, Smrdan grad csúszós ösvényein pedig óvatosan jutunk fel a kilátáshoz. Az este a Szent Liberan templom csendjében zárul, figyelve a felhők drámai vonulását a Pelješac-félsziget felett.",
+            "ro": "Dimineața începe la Kula Nonković, unde zidurile groase oferă adăpost înainte de a petrece mai mult timp în Galeria Stećak, feriți de ploaie. La prânz, o plimbare scurtă pe faleză cu umbrela ne conduce spre căldura unei konoba tradiționale. După-amiaza, plaja Klek oferă un spectacol al mării agitate, iar ruinele Smrdan grad par învăluite în mister sub cerul gri. Seara se încheie la biserica Sf. Liberan, observând jocul norilor deasupra peninsulei Pelješac.",
+            "en": "The morning starts at Kula Nonković, using the stone archways as cover before finding a dry haven in the Stećak Gallery. At noon, an umbrella walk along the Riva is followed by a cozy lunch with warm local specialties in the konoba. In the afternoon, Klek beach looks wild with the stormy sea, and the climb to Smrdan grad offers a misty, atmospheric view. The evening concludes at St. Liberan church, watching the dramatic cloud formations over the Pelješac peninsula."
+          },
+          "stops": [
+            {
+              "name": "Kula Nonković",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Torbogen als Unterstand bei plötzlichen Schauern.",
+                "hu": "Használja a kapualjat menedékként hirtelen zivatar esetén.",
+                "ro": "Folosiți arcadele turnului ca adăpost în caz de aversă.",
+                "en": "Use the tower's archway as shelter during sudden downpours."
+              }
+            },
+            {
+              "name": "Galerija Stećak",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um eine längere Regenpause im Trockenen zu verbringen.",
+                "hu": "Tökéletes helyszín egy hosszabb esőszünet száraz eltöltéséhez.",
+                "ro": "Locul ideal pentru o pauză lungă și uscată în interior.",
+                "en": "Perfect place to spend a longer dry break indoors."
+              }
+            },
+            {
+              "name": "Riva-Spaziergang",
+              "tip_5lang": {
+                "de": "Achtung bei starkem Wind, die Gischt kann über die Mauer spritzen.",
+                "hu": "Vigyázat erős szélnél, a tenger permete átcsaphat a falon.",
+                "ro": "Atenție la vânt puternic, stropii mării pot sări peste faleză.",
+                "en": "Watch out for strong winds; sea spray might splash over the wall."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Fragen Sie nach dem Tageseintopf (Gulasch), um sich aufzuwärmen.",
+                "hu": "Kérjen napi egytálételt vagy gulyást a felmelegedéshez.",
+                "ro": "Cereți o tocană caldă sau ciorbă pentru a vă încălzi.",
+                "en": "Ask for the daily stew or soup to warm up."
+              }
+            },
+            {
+              "name": "Strand von Klek",
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen von einem der überdachten Cafés aus.",
+                "hu": "Figyelje a hullámokat az egyik fedett teraszos kávézóból.",
+                "ro": "Observați valurile de la adăpostul unei cafenele cu terasă acoperită.",
+                "en": "Watch the waves from one of the covered cafe terraces."
+              }
+            },
+            {
+              "name": "Smrdan grad",
+              "tip_5lang": {
+                "de": "Die Steinstufen sind bei Regen extrem rutschig. Festes Schuhwerk!",
+                "hu": "A kőlépcsők esőben rendkívül csúszósak. Bakancs ajánlott!",
+                "ro": "Treptele de piatră sunt extrem de alunecoase. Purtați bocanci!",
+                "en": "Stone steps are extremely slippery when wet. Wear sturdy boots."
+              }
+            },
+            {
+              "name": "Crkva sv. Liberana",
+              "tip_5lang": {
+                "de": "Ein ruhiger, trockener Ort für Besinnung am späten Nachmittag.",
+                "hu": "Csendes, száraz helyszín egy kis délutáni elmélyüléshez.",
+                "ro": "Un loc liniștit și uscat pentru reculegere după-amiaza.",
+                "en": "A quiet, dry sanctuary for reflection in the late afternoon."
+              }
+            },
+            {
+              "name": "Sonnenuntergang über Pelješac",
+              "tip_5lang": {
+                "de": "Die Wolkenstimmung bietet oft dramatischere Fotos als purer Sonnenschein.",
+                "hu": "A felhős égbolt gyakran drámaibb fotókat eredményez, mint a napsütés.",
+                "ro": "Cerul înnorat oferă adesea fotografii mai dramatice decât soarele.",
+                "en": "Cloudy skies often yield more dramatic photos than clear ones."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Ein stabiler, windfester Regenschirm ist an der Küste unerlässlich.",
+              "Die Steine in Smrdan grad werden bei Nässe spiegelglatt.",
+              "Nutzen Sie die Konobas für längere Pausen, wenn der Regen zunimmt.",
+              "Wasserdichte Schuhe sind für den Weg zur Burgruine wichtig."
+            ],
+            "hu": [
+              "A tengerparton egy erős, szélálló esernyő elengedhetetlen.",
+              "A várrom kövei vizesen tükörsimára változnak, óvatosan lépkedjen.",
+              "Használja ki a konobákat hosszabb pihenőkre, ha rákezd az eső.",
+              "Vízálló túracipő ajánlott a Smrdan grad felé vezető úton."
+            ],
+            "ro": [
+              "O umbrelă rezistentă la vânt este esențială pe coastă.",
+              "Pietrele de la cetate devin foarte alunecoase când sunt ude.",
+              "Profitați de konobe pentru pauze lungi dacă ploaia se întețește.",
+              "Încălțămintea impermeabilă este obligatorie pentru drumul spre castel."
+            ],
+            "en": [
+              "A sturdy, windproof umbrella is essential on the coast.",
+              "The stones at Smrdan grad become mirror-slick when wet.",
+              "Take advantage of konobas for longer breaks if the rain intensifies.",
+              "Waterproof hiking shoes are recommended for the Smrdan grad path."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht den Blick auf die Kula Nonković besonders scharf, bevor wir in der geheizten Galerija Stećak Kunst genießen. Ein zügiger Spaziergang an der Riva weckt die Geister, gefolgt von einer kräftigen Mahlzeit in der gemütlichen Konoba. Der Nachmittag am verlassenen Strand von Klek ist ideal für tiefe Gedanken, während der Aufstieg zu Smrdan grad bei kühleren Temperaturen leichter fällt. Der Sonnenuntergang erfolgt früh, taucht Pelješac aber in ein magisches, weiches Licht.",
+            "hu": "A friss téli levegőben a Kula Nonković körvonalai élesebben rajzolódnak ki, majd a fűtött Stećak Galériában melegszünk fel. A parti sétányon egy gyors séta felpezsdít, mielőtt betérnénk a konoba barátságos melegébe. Délután a kihalt Klek strandja tökéletes hely az elmélyülésre, a Smrdan gradhoz vezető emelkedő pedig sokkal kényelmesebb a hűvösben. A nap korán nyugszik, de a Pelješacot megfestő fények ilyenkor a legszebbek.",
+            "ro": "Aerul curat de iarnă face contururile Kulei Nonković foarte clare, înainte de a ne încălzi în Galeria Stećak. O plimbare energică pe faleză ne revigorează, urmată de o masă copioasă într-o konoba primitoare. După-amiaza, plaja pustie din Klek este ideală pentru reflecție, iar urcarea spre Smrdan grad este mai ușoară la temperaturi scăzute. Apusul vine devreme, dar scaldă Pelješacul într-o lumină magică și caldă.",
+            "en": "The crisp winter air makes the view of Kula Nonković especially sharp before warming up in the heated Stećak Gallery. A brisk walk along the Riva revitalizes the senses, followed by a hearty meal in a cozy konoba. The afternoon at the deserted Klek beach is ideal for quiet contemplation, while the climb to Smrdan grad is easier in the cooler weather. Sunset arrives early, bathing Pelješac in a magical, soft winter glow."
+          },
+          "stops": [
+            {
+              "name": "Kula Nonković",
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und leuchtet den Turm herrlich aus.",
+                "hu": "A téli nap alacsonyan jár, gyönyörűen megvilágítva a torony falait.",
+                "ro": "Soarele de iarnă este jos, luminând superb pereții turnului.",
+                "en": "The winter sun is low, illuminating the tower walls beautifully."
+              }
+            },
+            {
+              "name": "Galerija Stećak",
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe, im Winter sind Sie oft der einzige Gast.",
+                "hu": "Élvezze a csendet, télen gyakran Ön lesz az egyetlen látogató.",
+                "ro": "Bucurați-vă de liniște; iarna sunteți adesea singurul oaspete.",
+                "en": "Enjoy the quiet; in winter you are often the only visitor."
+              }
+            },
+            {
+              "name": "Riva-Spaziergang",
+              "tip_5lang": {
+                "de": "Ein Schal ist wegen der kühlen Meeresbrise unbedingt nötig.",
+                "hu": "Egy meleg sál elengedhetetlen a hűvös tengeri szellő miatt.",
+                "ro": "O eșarfă groasă este obligatorie din cauza brizei reci a mării.",
+                "en": "A warm scarf is essential due to the cool sea breeze."
+              }
+            },
+            {
+              "name": "Mittagessen in der Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie Peka, ein typisches Wintergericht der Region.",
+                "hu": "Kóstolja meg a pekát, a régió jellegzetes téli sült ételét.",
+                "ro": "Încercați peka, un fel de mâncare tradițional de iarnă.",
+                "en": "Try peka, a typical regional winter slow-cooked dish."
+              }
+            },
+            {
+              "name": "Strand von Klek",
+              "tip_5lang": {
+                "de": "Kein Badebetrieb, aber perfekt für einen langen, einsamen Spaziergang.",
+                "hu": "Nincs fürdőző, de tökéletes egy hosszú, magányos sétához.",
+                "ro": "Fără turiști; perfect pentru o plimbare lungă și solitară.",
+                "en": "No swimmers around; perfect for a long, solitary walk."
+              }
+            },
+            {
+              "name": "Smrdan grad",
+              "tip_5lang": {
+                "de": "Der Aufstieg hält warm, oben kann es jedoch zugig sein.",
+                "hu": "A felfelé út melegen tart, de odafönt huzatos lehet az idő.",
+                "ro": "Urcarea vă va încălzi, dar sus poate fi destul de vântos.",
+                "en": "The climb keeps you warm, but it can be breezy at the top."
+              }
+            },
+            {
+              "name": "Crkva sv. Liberana",
+              "tip_5lang": {
+                "de": "Beachten Sie die frühen Öffnungszeiten im Winter.",
+                "hu": "Ügyeljen a téli, korábbi zárási időpontokra.",
+                "ro": "Atenție la programul de iarnă, de obicei mai scurt.",
+                "en": "Note the earlier closing times during the winter season."
+              }
+            },
+            {
+              "name": "Sonnenuntergang über Pelješac",
+              "tip_5lang": {
+                "de": "Achtung: Im Winter geht die Sonne bereits gegen 16:30 Uhr unter.",
+                "hu": "Figyelem: télen a nap már 16:30 körül nyugovóra tér.",
+                "ro": "Atenție: iarna soarele apune deja în jurul orei 16:30.",
+                "en": "Note: In winter, the sun sets as early as 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Kleiden Sie sich im Zwiebelprinzip für den Aufstieg zur Burg.",
+              "Der Sonnenuntergang findet bereits vor 17:00 Uhr statt.",
+              "Viele Strandbars sind geschlossen, halten Sie sich an die Konobas im Ort.",
+              "Trinken Sie eine heiße Tasse Tee nach der Rückkehr von der Riva."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a várba való felkapaszkodáshoz.",
+              "A naplemente már 17:00 óra előtt bekövetkezik.",
+              "Sok strandbár zárva van, keresse a faluban a nyitvatartó konobákat.",
+              "Igyon egy forró teát a tengerparti séta utáni átmelegedéshez."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi pentru urcarea spre cetate.",
+              "Apusul are loc înainte de ora 17:00.",
+              "Multe baruri de plajă sunt închise; mergeți la konobele din sat.",
+              "Beți un ceai fierbinte după plimbarea pe faleză."
+            ],
+            "en": [
+              "Dress in layers for the hike up to the fortress.",
+              "Sunset happens before 5:00 PM during the winter months.",
+              "Many beach bars are closed; stick to the konobas in the village.",
+              "Have a hot tea after your walk along the shoreline to warm up."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -586,6 +804,224 @@
           "Check your brakes before descending from Smrdan grad.",
           "A mountain bike is ideal for the gravel path to the fortress."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regenfeste Kleidung ist heute Pflicht, wenn wir die Kula Nonković und die Galerie besuchen. Die Fahrt am Küstenradweg bietet trotz Nässe tolle Ausblicke auf die gischtende See. Nach einer Stärkung am Meer radeln wir vorsichtig zum Strand von Duboka und erklimmen dann Smrdan grad, wo wir den Tag bei einem wolkenverhangenen Panorama ausklingen lassen.",
+            "hu": "A mai napon a vízálló öltözet kötelező a Kula Nonković és a galéria felé tekerve. A parti kerékpárút nedvesen is lenyűgöző látványt nyújt a tajtékzó tengerre. Egy tengerparti ebéd után óvatosan gurulunk Duboka strandja felé, majd feltekerünk Smrdan gradhoz, ahol a felhős panoráma mellett zárjuk az utat.",
+            "ro": "Echipamentul impermeabil este obligatoriu astăzi pentru vizita la turn și galerie. Traseul de coastă oferă priveliști spectaculoase spre marea înspumată, chiar și pe ploaie. După o masă la malul mării, pedalăm cu grijă spre plaja Duboka și urcăm spre Smrdan grad pentru un final de zi cu panoramă dramatică.",
+            "en": "Rain gear is mandatory today as we cycle between the tower and gallery. The coastal bike path offers great views of the foaming sea despite the wet conditions. After a seaside meal, we carefully ride towards Duboka beach and then climb to Smrdan grad to end the day with a cloudy panorama."
+          },
+          "stops": [
+            {
+              "name": "Kula Nonković",
+              "tip_5lang": {
+                "de": "Parken Sie das Rad im Windschatten der Mauer.",
+                "hu": "Parkolja a kerékpárt a fal szélárnyékos oldalán.",
+                "ro": "Parcați bicicleta la adăpostul peretelui de piatră.",
+                "en": "Park your bike in the lee of the stone wall."
+              }
+            },
+            {
+              "name": "Galerija Stećak",
+              "tip_5lang": {
+                "de": "Stellen Sie die Räder nah am Eingang unter.",
+                "hu": "Támassza le a kerékpárokat közvetlenül a bejárat mellé, fedett helyre.",
+                "ro": "Lăsați bicicletele lângă intrare, sub streașină.",
+                "en": "Leave your bikes near the entrance under the eaves."
+              }
+            },
+            {
+              "name": "Küstenradweg-Pause",
+              "tip_5lang": {
+                "de": "Kurze Pause, halten Sie die Muskeln warm.",
+                "hu": "Csak rövid pihenő, tartsa melegen az izmait.",
+                "ro": "Pauză scurtă; mențineți musculatura caldă.",
+                "en": "Short break only; keep your muscles warm."
+              }
+            },
+            {
+              "name": "Gastro-Stopp am Meer",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Regenkleidung auszuschütteln.",
+                "hu": "Használja ki a megállót az esőruházat lerázására.",
+                "ro": "Folosiți oprirea pentru a scutura echipamentul de ploaie.",
+                "en": "Use the stop to shake off the rain from your gear."
+              }
+            },
+            {
+              "name": "Strand von Duboka",
+              "tip_5lang": {
+                "de": "Vorsicht auf dem sandigen/kiesigen Untergrund bei Nässe.",
+                "hu": "Vigyázat, a homokos/kavicsos talaj esőben megcsúszhat.",
+                "ro": "Atenție pe porțiunile cu pietriș ud; pot fi instabile.",
+                "en": "Be careful on wet gravel or sandy sections; they can be unstable."
+              }
+            },
+            {
+              "name": "Smrdan grad",
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad das letzte Stück, der Weg ist rutschig.",
+                "hu": "Az utolsó szakaszon tolja a biciklit, az út csúszós.",
+                "ro": "Împingeți bicicleta pe ultima porțiune; drumul alunecă.",
+                "en": "Push your bike on the last stretch; the path is slippery."
+              }
+            },
+            {
+              "name": "Crkva sv. Liberana",
+              "tip_5lang": {
+                "de": "Ein geschützter Ort vor der letzten Abfahrt.",
+                "hu": "Védett helyszín az utolsó lejtő előtt.",
+                "ro": "Un loc protejat înainte de ultima coborâre.",
+                "en": "A sheltered spot before the final descent."
+              }
+            },
+            {
+              "name": "Panoramablick-Pause",
+              "tip_5lang": {
+                "de": "Trocknen Sie den Sattel vor der Weiterfahrt gründlich ab.",
+                "hu": "Alaposan törölje szárazra a nyerget indulás előtt.",
+                "ro": "Ștergeți bine șaua înainte de a pleca mai departe.",
+                "en": "Wipe your saddle thoroughly before riding on."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie Ihre Bremsen, die Bremswege verlängern sich bei Nässe deutlich.",
+              "Tragen Sie helle oder reflektierende Kleidung bei trübem Wetter.",
+              "Vermeiden Sie Pfützen, sie könnten tiefer sein als gedacht.",
+              "Ein Schutzblech schützt Ihren Rücken vor spritzendem Schlamm."
+            ],
+            "hu": [
+              "Ellenőrizze a fékeket, nedves úton a féktávolság jelentősen megnő.",
+              "Viseljen világos vagy fényvisszaverő ruházatot szürke időben.",
+              "Kerülje a tócsákat, mélyebbek lehetnek, mint aminek látszanak.",
+              "A sárvédő megvédi a hátát a felverődő sártól."
+            ],
+            "ro": [
+              "Verificați frânele; distanța de frânare crește pe carosabil ud.",
+              "Purtați haine reflectorizante când vizibilitatea este redusă.",
+              "Evitați bălțile; pot ascunde gropi adânci.",
+              "Aripile la roți vă vor proteja spatele de noroi."
+            ],
+            "en": [
+              "Check your brakes; stopping distance increases significantly in the wet.",
+              "Wear bright or reflective clothing in gloomy weather.",
+              "Avoid puddles; they might be deeper than they look.",
+              "Mudguards will protect your back from splashing mud."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die leeren Straßen im Winter sind ein Traum für Radfahrer, auch wenn die Kula Nonković im kühlen Wind liegt. Nach dem Museumsbesuch wärmt die Bewegung auf dem Küstenradweg auf. Ein herzhaftes Mittagessen gibt Kraft für die Fahrt zum einsamen Strand von Duboka. Der Aufstieg nach Smrdan grad bringt den Kreislauf in Schwung, bevor wir das kühle, aber klare Abendlicht genießen.",
+            "hu": "A téli, üres utak a kerékpárosok álma, még ha a Kula Nonkovićnál fúj is a hideg szél. A múzeumlátogatás után a parti úton való tekerés hamar felmelegít. Egy bőséges ebéd ad erőt a dubokai strandhoz vezető úthoz. A Smrdan grad felé vezető emelkedő felpörgeti a keringést a tiszta esti fények előtt.",
+            "ro": "Drumurile pustii de iarnă sunt visul oricărui biciclist, chiar dacă la turn bate vântul rece. După vizita la muzeu, mișcarea pe traseul de coastă ne încălzește rapid. Un prânz consistent ne dă energie pentru drumul spre plaja Duboka. Urcarea spre Smrdan grad ne pune sângele în mișcare înainte de a admira lumina clară a serii.",
+            "en": "The empty winter roads are a cyclist's dream, even if the wind is chilly at the tower. After the museum visit, moving along the coastal path warms you up. A hearty lunch provides energy for the ride to the lonely Duboka beach. The climb to Smrdan grad gets the heart rate up before enjoying the crisp, clear evening light."
+          },
+          "stops": [
+            {
+              "name": "Kula Nonković",
+              "tip_5lang": {
+                "de": "Handschuhe sind bei der Abfahrt zum Turm sehr wichtig.",
+                "hu": "A toronyhoz vezető lejtőn a kesztyű nagyon fontos.",
+                "ro": "Mănușile sunt esențiale la coborârea spre turn.",
+                "en": "Gloves are essential for the descent to the tower."
+              }
+            },
+            {
+              "name": "Galerija Stećak",
+              "tip_5lang": {
+                "de": "Ein guter Stopp, um die steif gefrorenen Finger aufzuwärmen.",
+                "hu": "Jó megálló az átfagyott ujjak felmelegítésére.",
+                "ro": "O oprire bună pentru a vă încălzi degetele înghețate.",
+                "en": "A good stop to warm up frozen fingers."
+              }
+            },
+            {
+              "name": "Küstenradweg-Pause",
+              "tip_5lang": {
+                "de": "Bleiben Sie in Bewegung, um nicht auszukühlen.",
+                "hu": "Maradjon mozgásban, nehogy lehűljön a pihenő alatt.",
+                "ro": "Nu staționați mult pentru a nu vă răci corpul.",
+                "en": "Don't stay still for too long to avoid getting cold."
+              }
+            },
+            {
+              "name": "Gastro-Stopp am Meer",
+              "tip_5lang": {
+                "de": "Bevorzugen Sie warme Getränke wie Tee statt kalter Schorle.",
+                "hu": "Válasszon forró teát a hideg üdítők helyett.",
+                "ro": "Preferați băuturile calde în locul celor reci.",
+                "en": "Choose hot drinks like tea instead of cold sodas."
+              }
+            },
+            {
+              "name": "Strand von Duboka",
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter windanfällig, halten Sie sich kurz.",
+                "hu": "A strand télen szeles, ne maradjon túl sokáig egy helyben.",
+                "ro": "Plaja este expusă vântului iarna; nu zăboviți prea mult.",
+                "en": "The beach is windy in winter; don't stay still for too long."
+              }
+            },
+            {
+              "name": "Smrdan grad",
+              "tip_5lang": {
+                "de": "Durch die Anstrengung schwitzt man; oben sofort Jacke an!",
+                "hu": "A kapaszkodástól kimelegszik; fent azonnal vegye fel a kabátot!",
+                "ro": "Urcarea vă va face să transpirați; puneți geaca imediat ce ajungeți sus.",
+                "en": "The climb will make you sweat; put your jacket on immediately at the top."
+              }
+            },
+            {
+              "name": "Crkva sv. Liberana",
+              "tip_5lang": {
+                "de": "Ein kurzer Moment der Ruhe im geschützten Innenraum.",
+                "hu": "Egy rövid, nyugodt pillanat a védett belső térben.",
+                "ro": "Un scurt moment de liniște în interiorul protejat.",
+                "en": "A short moment of peace in the sheltered interior."
+              }
+            },
+            {
+              "name": "Panoramablick-Pause",
+              "tip_5lang": {
+                "de": "Denken Sie an die schnelle Abkühlung nach Sonnenuntergang.",
+                "hu": "Gondoljon a naplemente utáni gyors lehűlésre.",
+                "ro": "Țineți cont de răcirea bruscă a vremii după apus.",
+                "en": "Be aware of the rapid temperature drop after sunset."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie mehrere Schichten, um flexibel auf die Kälte zu reagieren.",
+              "Thermo-Socken schützen Ihre Füße vor dem kalten Fahrtwind.",
+              "Nehmen Sie eine Thermoskanne mit einem warmen Getränk mit.",
+              "Das Licht schwindet früh; prüfen Sie Ihre Fahrradbeleuchtung."
+            ],
+            "hu": [
+              "Öltözzön rétegesen, hogy rugalmasan kezelje a hideget.",
+              "A termozokni megvédi a lábát a hideg menetszéltől.",
+              "Vigyen magával termoszban forró italt.",
+              "A fény hamar elfogy; ellenőrizze a kerékpár világítását."
+            ],
+            "ro": [
+              "Purtați mai multe straturi de haine pentru a vă adapta la frig.",
+              "Șosetele termice vă protejează picioarele de vântul rece.",
+              "Luați un termos cu o băutură caldă la voi.",
+              "Lumina dispare devreme; verificați luminile bicicletei."
+            ],
+            "en": [
+              "Dress in layers to flexibly manage the cold.",
+              "Thermal socks will protect your feet from the cold wind.",
+              "Take a thermos with a hot drink with you.",
+              "Daylight fades early; check your bike lights."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -858,6 +1294,224 @@
           "The road to Smrdan grad is narrow, drive carefully.",
           "Pre-booking is recommended for wine tasting in Komarna."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Heute genießen wir die Fahrt im trockenen Auto zwischen der Kula Nonković und der Galerie. Das Mittagessen am Meer wird durch den Blick auf die Regenfronten besonders gemütlich. Den Nachmittag verbringen wir entspannt am Strand von Klek – im Auto mit einem Buch oder in einem Café –, bevor wir zur Burgruine Smrdan grad hinauffahren. Der Tag endet bei einer exzellenten Weinprobe im trockenen Weinkeller von Komarna.",
+            "hu": "Ma a száraz autó kényelméből csodáljuk a Kula Nonkovićot és a galériát. A tengerparti ebéd a bevonuló esőfelhők látványával válik igazán hangulatossá. A délutánt lazulással töltjük Klek strandján – az autóban olvasva vagy egy kávézóban –, majd felautózunk Smrdan gradhoz. A napot egy kiváló borkóstoló zárja Komarna egyik száraz borospincéjében.",
+            "ro": "Astăzi ne bucurăm de confortul mașinii între Kula Nonković și galerie. Prânzul la malul mării devine pitoresc odată cu apropierea fronturilor de ploaie. După-amiaza o petrecem relaxați la plaja Klek – în mașină sau într-o cafenea – înainte de a urca spre ruinele Smrdan grad. Ziua se încheie cu o degustare de vinuri în crama uscată din Komarna.",
+            "en": "Today we enjoy the dry comfort of the car between Kula Nonković and the gallery. Lunch by the sea becomes especially cozy as we watch the rain fronts roll in. We spend a relaxed afternoon at Klek beach—reading in the car or in a cafe—before driving up to the Smrdan grad ruins. The day ends with an excellent wine tasting in the dry cellar of Komarna."
+          },
+          "stops": [
+            {
+              "name": "Kula Nonković",
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingangsbereich.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz.",
+                "ro": "Parcați cât mai aproape de zona de intrare.",
+                "en": "Park as close to the entrance area as possible."
+              }
+            },
+            {
+              "name": "Galerija Stećak",
+              "tip_5lang": {
+                "de": "Großer Parkplatz vorhanden, ideal bei Regen.",
+                "hu": "Nagy parkoló áll rendelkezésre, ideális esőben.",
+                "ro": "Parcare mare disponibilă, ideală pe ploaie.",
+                "en": "Large parking lot available, ideal in rainy weather."
+              }
+            },
+            {
+              "name": "Mittagessen am Meer",
+              "tip_5lang": {
+                "de": "Wählen Sie einen Tisch mit direktem Blick auf das stürmische Meer.",
+                "hu": "Válasszon asztalt közvetlen kilátással a viharos tengerre.",
+                "ro": "Alegeți o masă cu vedere directă spre marea agitată.",
+                "en": "Choose a table with a direct view of the stormy sea."
+              }
+            },
+            {
+              "name": "Strand von Klek",
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick aufs Wasser für ein Picknick im Auto.",
+                "hu": "Parkoljon a vízzel szemben egy autós piknikhez.",
+                "ro": "Parcați cu fața spre apă pentru un picnic în mașină.",
+                "en": "Park facing the water for a picnic inside the car."
+              }
+            },
+            {
+              "name": "Smrdan grad",
+              "tip_5lang": {
+                "de": "Die Auffahrt ist schmal, bei Nässe vorsichtig fahren.",
+                "hu": "Az út felfelé szűk, esőben vezessen óvatosan.",
+                "ro": "Drumul este îngust; conduceți cu prudență pe carosabil ud.",
+                "en": "The drive up is narrow; drive carefully in wet conditions."
+              }
+            },
+            {
+              "name": "Crkva sv. Liberana",
+              "tip_5lang": {
+                "de": "Kurzer Sprint vom Parkplatz zur Kirche, um trocken zu bleiben.",
+                "hu": "Rövid sprint a parkolótól a templomig a szárazon maradáshoz.",
+                "ro": "Un sprint scurt de la parcare la biserică pentru a rămâne uscat.",
+                "en": "A short sprint from the parking lot to the church to stay dry."
+              }
+            },
+            {
+              "name": "Panoramapunkt Pelješac",
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick sicher aus dem Auto heraus.",
+                "hu": "Élvezze a kilátást biztonságban az autóból.",
+                "ro": "Bucurați-vă de priveliște în siguranță, din interiorul mașinii.",
+                "en": "Enjoy the view safely from inside the car."
+              }
+            },
+            {
+              "name": "Weinprobe Komarna",
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss im Trockenen, reservieren Sie vorab.",
+                "hu": "Tökéletes befejezés szárazon, foglaljon előre.",
+                "ro": "Finalul perfect, la adăpost; rezervați din timp.",
+                "en": "The perfect end to a rainy day; book in advance."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf der Küstenstraße.",
+              "Lassen Sie keine nassen Regenschirme auf den Sitzen liegen.",
+              "Nutzen Sie die Sitzheizung, um nach kurzen Ausflügen aufzuwärmen.",
+              "Die Sicht kann durch starken Regen und Gischt eingeschränkt sein."
+            ],
+            "hu": [
+              "Vigyázzon az aquaplaningre a tengerparti úton.",
+              "Ne hagyja a vizes esernyőket az üléseken.",
+              "Használja az ülésfűtést a felmelegedéshez a rövid kiszállók után.",
+              "A látási viszonyok a heves eső és a pára miatt korlátozottak lehetnek."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumul de coastă.",
+              "Nu lăsați umbrelele ude pe scaunele mașinii.",
+              "Folosiți încălzirea în scaune pentru a vă încălzi rapid.",
+              "Vizibilitatea poate fi redusă din cauza ploii torențiale."
+            ],
+            "en": [
+              "Watch out for aquaplaning on the coastal road.",
+              "Don't leave wet umbrellas on the car seats.",
+              "Use seat heating to warm up after short outdoor excursions.",
+              "Visibility can be limited by heavy rain and sea spray."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Küstenpanoramen begleiten uns bei der Fahrt zur Kula Nonković. Die Galerija Stećak bietet kulturelle Wärme, während das Mittagessen am Meer in der kühlen Luft besonders gut schmeckt. Nach einem Spaziergang am leeren Strand von Klek fahren wir hinauf nach Smrdan grad, wo der weite Blick über Pelješac im Winterlicht unübertroffen ist. Die Weinprobe in Komarna rundet den Tag gemütlich ab.",
+            "hu": "Téli tengerparti panoráma kísér minket a Kula Nonković felé vezető úton. A Stećak Galéria kulturális feltöltődést kínál, a parti ebéd pedig különösen jólesik a hűvös levegőben. Egy séta után a néptelen Klek strandon felautózunk Smrdan gradhoz, ahol a Pelješacra nyíló kilátás téli fényben felülmúlhatatlan. A borkóstoló Komarnában hangulatos zárása a napnak.",
+            "ro": "Panoramele de coastă hibernale ne însoțesc spre turn. Galeria Stećak oferă căldură culturală, în timp ce prânzul la malul mării este delicios în aerul rece. După o plimbare pe plaja pustie, urcăm spre Smrdan grad, unde priveliștea spre Pelješac în lumina de iarnă este de neegalat. Degustarea de vinuri din Komarna încheie ziua într-un mod relaxant.",
+            "en": "Winter coastal panoramas accompany our drive to Kula Nonković. The Stećak Gallery offers cultural warmth, while lunch by the sea tastes especially good in the cool air. After a walk on the empty Klek beach, we drive up to Smrdan grad, where the wide view over Pelješac in winter light is unsurpassed. The wine tasting in Komarna rounds off the day perfectly."
+          },
+          "stops": [
+            {
+              "name": "Kula Nonković",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Winter direkt vor dem Turm frei.",
+                "hu": "Télen a parkolóhelyek közvetlenül a torony előtt szabadok.",
+                "ro": "Locurile de parcare sunt libere chiar în fața turnului iarna.",
+                "en": "Parking spaces are readily available right in front of the tower in winter."
+              }
+            },
+            {
+              "name": "Galerija Stećak",
+              "tip_5lang": {
+                "de": "Ideal, um sich zwischen den Besichtigungen aufzuwärmen.",
+                "hu": "Ideális a felmelegedéshez a látnivalók megtekintése között.",
+                "ro": "Loc ideal pentru a vă încălzi între vizitarea obiectivelor.",
+                "en": "Ideal for warming up between sightseeing stops."
+              }
+            },
+            {
+              "name": "Mittagessen am Meer",
+              "tip_5lang": {
+                "de": "Fragen Sie nach saisonalen Spezialitäten wie getrocknetem Fleisch.",
+                "hu": "Kérdezzen rá a szezonális specialitásokra, például a szárított húsra.",
+                "ro": "Întrebați de specialitățile sezoniere, cum ar fi carnea afumată.",
+                "en": "Ask for seasonal specialties like cured meats."
+              }
+            },
+            {
+              "name": "Strand von Klek",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie die Wintersonne im Auto genießen können.",
+                "hu": "Parkoljon úgy, hogy élvezhesse a téli napsütést az autóban.",
+                "ro": "Parcați astfel încât să profitați de soarele de iarnă în mașină.",
+                "en": "Park so you can enjoy the winter sun from inside the car."
+              }
+            },
+            {
+              "name": "Smrdan grad",
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Frost rutschig sein, fahren Sie behutsam.",
+                "hu": "A felfelé vezető út fagyos időben csúszós lehet, vezessen óvatosan.",
+                "ro": "Drumul poate fi alunecos în caz de îngheț; conduceți cu grijă.",
+                "en": "The access road can be slippery in freezing weather; drive carefully."
+              }
+            },
+            {
+              "name": "Crkva sv. Liberana",
+              "tip_5lang": {
+                "de": "Schöne Abendstimmung bei klarem Winterhimmel.",
+                "hu": "Gyönyörű esti hangulat tiszta téli égbolt mellett.",
+                "ro": "Atmosferă de seară superbă sub cerul senin de iarnă.",
+                "en": "Beautiful evening atmosphere under a clear winter sky."
+              }
+            },
+            {
+              "name": "Panoramapunkt Pelješac",
+              "tip_5lang": {
+                "de": "Bester Fotostopp für das 'Alpenglühen' über den Inseln.",
+                "hu": "A legjobb fotóstop a szigetek feletti 'alpesi fényekhez'.",
+                "ro": "Cel mai bun loc pentru fotografii cu lumina apusului peste insule.",
+                "en": "Best photo stop for the 'alpine glow' over the islands."
+              }
+            },
+            {
+              "name": "Weinprobe Komarna",
+              "tip_5lang": {
+                "de": "Die Winzer haben im Winter mehr Zeit für persönliche Gespräche.",
+                "hu": "A borászoknak télen több idejük van a személyes beszélgetésekre.",
+                "ro": "Vinificatorii au mai mult timp pentru discuții personale iarna.",
+                "en": "Vintners often have more time for personal chats in winter."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Reifendruck bei fallenden Temperaturen.",
+              "Haben Sie immer eine warme Decke für Pausen im Auto dabei.",
+              "Die schmalen Straßen zur Burg können bei Frost tückisch sein.",
+              "Planen Sie die Rückfahrt vor Einbruch der frühen Dunkelheit."
+            ],
+            "hu": [
+              "Ellenőrizze a guminyomást a csökkenő hőmérséklet mellett.",
+              "Legyen a kocsiban meleg takaró a pihenőkhöz.",
+              "A várba vezető szűk utak fagyban csalókák lehetnek.",
+              "Tervezze meg a visszautat a korai sötétedés beállta előtt."
+            ],
+            "ro": [
+              "Verificați presiunea în pneuri când scade temperatura.",
+              "Țineți o pătură caldă în mașină pentru pauze.",
+              "Drumurile înguste spre cetate pot fi înșelătoare în caz de îngheț.",
+              "Planificați întoarcerea înainte de lăsarea întunericului."
+            ],
+            "en": [
+              "Check tire pressure as temperatures drop.",
+              "Always keep a warm blanket in the car for breaks.",
+              "The narrow roads to the fortress can be tricky in freezing weather.",
+              "Plan your return trip before the early darkness sets in."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1111,6 +1765,206 @@
           "The stop is located on the main road above the village.",
           "Allow enough time to walk back to the bus stop."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Bus erreichen wir Klek und finden Schutz im Wartebereich, bevor wir zur Kula Nonković aufbrechen. Die Galerie Stećak ist der ideale Ort, um einen Regenschauer abzuwarten. Nach einem Mittagessen im Ort schlendern wir kurz zum nassen Strand, bevor wir den Aufstieg nach Smrdan grad wagen. Die Kirche bietet einen trockenen Rückzugsort vor der Rückfahrt mit dem Bus.",
+            "hu": "Busszal érkezünk Klekbe, a megálló fedezékéből indulunk a Kula Nonković felé. A Stećak Galéria tökéletes hely egy zápor átvészelésére. A faluban elfogyasztott ebéd után rövid sétát teszünk a vizes strandon, majd nekivágunk Smrdan gradnak. A templom száraz menedéket nyújt a buszos visszautazás előtt.",
+            "ro": "Ajungem cu autobuzul în Klek și ne adăpostim în stație înainte de a pleca spre turn. Galeria Stećak este locul ideal pentru a aștepta trecerea unei averse. După prânz, facem o scurtă plimbare pe plaja udă, apoi urcăm spre Smrdan grad. Biserica oferă un refugiu uscat înainte de plecarea autobuzului.",
+            "en": "We arrive in Klek by bus and find shelter at the stop before heading to Kula Nonković. The Stećak Gallery is the perfect place to wait out a rain shower. After lunch in the village, we take a short walk to the wet beach before tackling the climb to Smrdan grad. The church offers a dry retreat before our bus journey back."
+          },
+          "stops": [
+            {
+              "name": "Klek Bushaltestelle",
+              "tip_5lang": {
+                "de": "Das kleine Wartehäuschen bietet begrenzten Schutz vor Regen.",
+                "hu": "A kis váróterem korlátozott védelmet nyújt az eső ellen.",
+                "ro": "Mica stație oferă adăpost limitat împotriva ploii.",
+                "en": "The small bus shelter offers limited protection from the rain."
+              }
+            },
+            {
+              "name": "Kula Nonković",
+              "tip_5lang": {
+                "de": "Nur ein kurzer Fußweg von der Haltestelle, halten Sie sich unter Bäumen.",
+                "hu": "Csak rövid séta a megállótól, próbáljon a fák alatt haladni.",
+                "ro": "Drum scurt de la stație; încercați să mergeți pe sub copaci.",
+                "en": "Short walk from the stop; try to stay under the trees."
+              }
+            },
+            {
+              "name": "Galerija Stećak",
+              "tip_5lang": {
+                "de": "Nutzen Sie das WLAN der Galerie, um Busfahrpläne zu checken.",
+                "hu": "Használja a galéria wi-fijét a buszmenetrend ellenőrzéséhez.",
+                "ro": "Folosiți Wi-Fi-ul galeriei pentru a verifica orarul autobuzelor.",
+                "en": "Use the gallery's Wi-Fi to check bus schedules."
+              }
+            },
+            {
+              "name": "Mittagessen in Klek",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant in der Nähe der Bushaltestelle.",
+                "hu": "Válasszon egy éttermet a buszmegálló közelében.",
+                "ro": "Alegeți un restaurant aproape de stația de autobuz.",
+                "en": "Choose a restaurant near the bus stop."
+              }
+            },
+            {
+              "name": "Strand von Klek",
+              "tip_5lang": {
+                "de": "Gepflasterte Wege verhindern schlammige Schuhe.",
+                "hu": "A kövezett utak segítenek elkerülni a sárban járást.",
+                "ro": "Căile pavate vă ajută să evitați noroiul.",
+                "en": "Paved paths help you avoid walking in the mud."
+              }
+            },
+            {
+              "name": "Smrdan grad",
+              "tip_5lang": {
+                "de": "Planen Sie genug Zeit für den rutschigen Abstieg zum Bus ein.",
+                "hu": "Hagyjon elég időt a csúszós leereszkedésre a buszhoz.",
+                "ro": "Alocați suficient timp pentru coborârea alunecoasă spre stație.",
+                "en": "Allow enough time for the slippery descent back to the bus stop."
+              }
+            },
+            {
+              "name": "Crkva sv. Liberana",
+              "tip_5lang": {
+                "de": "Warten Sie hier die letzten Minuten bis zur Busabfahrt.",
+                "hu": "Várja itt az utolsó perceket a busz indulásáig.",
+                "ro": "Așteptați aici ultimele minute înainte de plecarea autobuzului.",
+                "en": "Wait here during the final minutes before your bus departs."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Regen leichte Verspätungen haben.",
+              "Tragen Sie wasserfeste Kleidung, da Wartebereiche oft klein sind.",
+              "Halten Sie die Fahrplan-App immer aktuell.",
+              "Vermeiden Sie unbefestigte Abkürzungen bei Nässe."
+            ],
+            "hu": [
+              "Heves esőben a buszok kisebb késéssel közlekedhetnek.",
+              "Viseljen vízálló ruhát, mert a várók gyakran kicsik.",
+              "Mindig frissítse a menetrend-applikációt.",
+              "Esőben kerülje a nem kiépített rövidítéseket."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri pe ploaie torențială.",
+              "Purtați haine impermeabile; stațiile pot fi neîncăpătoare.",
+              "Verificați constant aplicația cu orarul curselor.",
+              "Evitați scurtăturile neamenajate când plouă."
+            ],
+            "en": [
+              "Buses may have minor delays during heavy rain.",
+              "Wear waterproof clothing as shelters can be small.",
+              "Keep your schedule app updated at all times.",
+              "Avoid unpaved shortcuts in wet weather."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bringt uns der Bus in das ruhige Klek, wo wir den Tag an der Kula Nonković beginnen. Die Galerie bietet wohlige Wärme vor dem erfrischenden Riva-Spaziergang. Ein warmes Mittagessen im Ort stärkt uns für den winterlichen Aufstieg nach Smrdan grad. Vor der Rückfahrt genießen wir die Stille in der Kirche, während die Sonne bereits früh hinter den Bergen verschwindet.",
+            "hu": "Télen a busz a csendes Klekbe repít minket, ahol a napot a Kula Nonkovićnál indítjuk. A galéria kellemes meleget ad a frissítő parti séta előtt. Egy meleg ebéd erőt ad a téli kapaszkodáshoz Smrdan grad felé. A visszautazás előtt kiélvezzük a templom nyugalmát, miközben a nap már korán a hegyek mögé bukik.",
+            "ro": "Iarna, autobuzul ne lasă în liniștitul Klek, unde începem ziua la turn. Galeria oferă căldură înainte de plimbarea revigorantă pe faleză. Un prânz cald ne dă putere pentru urcarea spre Smrdan grad. Înainte de plecare, ne bucurăm de liniștea bisericii, în timp ce soarele dispare devreme după munți.",
+            "en": "In winter, the bus brings us to the quiet Klek, where we start the day at Kula Nonković. The gallery provides cozy warmth before a revitalizing walk along the Riva. A warm lunch in the village strengthens us for the winter climb to Smrdan grad. Before heading back, we enjoy the silence in the church while the sun sets early behind the mountains."
+          },
+          "stops": [
+            {
+              "name": "Klek Bushaltestelle",
+              "tip_5lang": {
+                "de": "Achtung: Im Winter fahren Busse seltener als im Sommer.",
+                "hu": "Figyelem: télen a buszok ritkábban járnak, mint nyáron.",
+                "ro": "Atenție: iarna autobuzele circulă mai rar decât vara.",
+                "en": "Note: Buses run less frequently in winter than in summer."
+              }
+            },
+            {
+              "name": "Kula Nonković",
+              "tip_5lang": {
+                "de": "Kurzer, knackiger Fußweg, der Sie bei Kälte aufwärmt.",
+                "hu": "Rövid, tempós séta, ami felmelegíti a hidegben.",
+                "ro": "Drum scurt care vă va ajuta să vă încălziți.",
+                "en": "Short, brisk walk that will warm you up in the cold."
+              }
+            },
+            {
+              "name": "Galerija Stećak",
+              "tip_5lang": {
+                "de": "Fragen Sie den Kurator nach Geheimtipps für den Winter.",
+                "hu": "Kérdezze a kurátort a téli rejtett látnivalókról.",
+                "ro": "Întrebați custodele de sfaturi pentru vizitarea zonei iarna.",
+                "en": "Ask the curator for hidden winter gems in the area."
+              }
+            },
+            {
+              "name": "Mittagessen in Klek",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich gut auf, bevor Sie zum Burgberg aufbrechen.",
+                "hu": "Melegedjen át alaposan, mielőtt elindulna a várhegyre.",
+                "ro": "Încălziți-vă bine înainte de a porni spre cetate.",
+                "en": "Warm up thoroughly before starting the climb to the fortress."
+              }
+            },
+            {
+              "name": "Strand von Klek",
+              "tip_5lang": {
+                "de": "Tiefstehende Wintersonne sorgt für tolle Lichtreflexe im Wasser.",
+                "hu": "Az alacsonyan járó nap csodás fényvisszaverődéseket kelt a vízen.",
+                "ro": "Soarele de iarnă creează reflexii superbe în apă.",
+                "en": "Low winter sun creates beautiful light reflections on the water."
+              }
+            },
+            {
+              "name": "Smrdan grad",
+              "tip_5lang": {
+                "de": "Denken Sie an die Taschenlampe für den Abstieg in der Dämmerung.",
+                "hu": "Legyen Önnél zseblámpa a szürkületi leereszkedéshez.",
+                "ro": "Luați o lanternă pentru coborârea la amurg.",
+                "en": "Bring a flashlight for the descent at twilight."
+              }
+            },
+            {
+              "name": "Crkva sv. Liberana",
+              "tip_5lang": {
+                "de": "Der friedlichste Ort, um auf den Abendbus zu warten.",
+                "hu": "A legbékésebb hely az esti buszra való várakozáshoz.",
+                "ro": "Cel mai liniștit loc pentru a aștepta autobuzul de seară.",
+                "en": "The most peaceful place to wait for the evening bus."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie die Abfahrtszeiten für den letzten Bus sehr genau.",
+              "Tragen Sie Thermounterwäsche für die Wartezeiten an der Haltestelle.",
+              "Planen Sie Pufferzeiten ein, da Winterfahrpläne reduziert sein können.",
+              "Bewegung zwischen den Stopps ist der beste Kälteschutz."
+            ],
+            "hu": [
+              "Nagyon pontosan ellenőrizze az utolsó busz indulási idejét.",
+              "Viseljen termó fehérneműt a megállóban való várakozáshoz.",
+              "Számoljon rá több időt, mert a téli menetrend korlátozott lehet.",
+              "A megállók közötti mozgás a legjobb védekezés a hideg ellen."
+            ],
+            "ro": [
+              "Verificați cu mare atenție ora de plecare a ultimului autobuz.",
+              "Purtați lenjerie termică pentru timpul petrecut în stație.",
+              "Luați în calcul un program redus al curselor de iarnă.",
+              "Mișcarea între obiective este cea mai bună metodă de a nu îngheța."
+            ],
+            "en": [
+              "Check the departure time for the last bus very carefully.",
+              "Wear thermal underwear for the waiting time at the stop.",
+              "Factor in extra time as winter schedules can be limited.",
+              "Moving between stops is the best protection against the cold."
+            ]
+          }
+        }
       }
     }
   }

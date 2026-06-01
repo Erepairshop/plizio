@@ -304,6 +304,206 @@
           "Bring swimwear, as there are many access points to the sea.",
           "The path between Srebreno and Mlini is flat and very pleasant."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Srebreno beginnt am besten im Einkaufszentrum Sub City, um trocken zu bleiben. Mittags bieten die Ruinen von Kupari eine dramatische, melancholische Kulisse unter grauem Himmel. Nachmittags laden die gemütlichen Cafés von Mlini zum Verweilen ein, während der Regen auf das Meer peitscht. Den Abend lassen wir bei prasselndem Regen in einer warmen Konoba ausklingen.",
+            "hu": "Az esős reggel Srebrenóban a Sub City központ fedett sarkaiban indul. Délben a kupari romok drámai látványt nyújtanak a szürke fellegek alatt, a melankolikus hangulat pedig felerősödik. Délután Mlini hangulatos kávézóiba húzódunk be a tengerparti sétányról. Az estét egy meleg kandallójú konobában zárjuk, hallgatva a tenger morajlását és az eső kopogását.",
+            "ro": "O dimineață ploioasă în Srebreno începe cel mai bine în centrul Sub City pentru a rămâne la adăpost. La prânz, ruinele din Kupari oferă un decor dramatic și melancolic sub cerul gri. După-amiaza, cafenelele primitoare din Mlini sunt refugiul perfect în timp ce ploaia bate în geam. Seara se încheie într-o konoba călduroasă, ascultând sunetul ploii pe mare.",
+            "en": "A rainy morning in Srebreno is best spent near the Sub City center to stay dry. At noon, the Kupari ruins provide a dramatic, melancholic backdrop under the grey skies. In the afternoon, the cozy cafes of Mlini offer a perfect retreat from the wet promenade. We end the evening in a warm local tavern, listening to the rain rhythmically hitting the Adriatic waves."
+          },
+          "stops": [
+            {
+              "name": "Uvala Srebreno",
+              "tip_5lang": {
+                "de": "Suchen Sie Unterschlupf im nahen Einkaufszentrum, falls der Guss zu stark wird.",
+                "hu": "Keressen menedéket a közeli bevásárlóközpontban, ha elered az intenzív zápor.",
+                "ro": "Căutați adăpost în centrul comercial din apropiere dacă ploaia devine prea densă.",
+                "en": "Seek shelter in the nearby shopping center if the downpour becomes too heavy."
+              }
+            },
+            {
+              "name": "Kompleks Kupari",
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigem Boden in den Ruinen; festes, wasserdichtes Schuhwerk tragen.",
+                "hu": "Vigyázat, a romok padlója csúszós; viseljen vízálló, tapadós talpú cipőt.",
+                "ro": "Atenție la podelele alunecoase din ruine; purtați încălțăminte impermeabilă cu aderență.",
+                "en": "Caution: floors in the ruins are slippery; wear waterproof shoes with good grip."
+              }
+            },
+            {
+              "name": "Ebéd egy helyi Konobában",
+              "tip_5lang": {
+                "de": "Genießen Sie eine heiße 'Peka', während draußen der Regen fällt.",
+                "hu": "Élvezze a forró peka tálat, miközben odakint dobol az eső.",
+                "ro": "Savurați o porție fierbinte de 'peka' în timp ce afară plouă torențial.",
+                "en": "Enjoy a hot 'peka' dish while the rain drums on the roof outside."
+              }
+            },
+            {
+              "name": "Šetnica Mlini",
+              "tip_5lang": {
+                "de": "Ein Regenschirm ist auf diesem exponierten Küstenweg unerlässlich.",
+                "hu": "Az esernyő elengedhetetlen ezen a nyitott tengerparti sétányon.",
+                "ro": "O umbrelă este esențială pe această potecă de coastă expusă.",
+                "en": "An umbrella is essential on this exposed coastal walking path."
+              }
+            },
+            {
+              "name": "Crkva svetog Ilara",
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen trockenen Ort für stille Besinnung während eines Schauers.",
+                "hu": "A templom száraz és csendes menedéket nyújt egy nagyobb zápor idején.",
+                "ro": "Biserica oferă un loc uscat pentru reflecție liniștită în timpul unei averse.",
+                "en": "The church provides a dry place for quiet reflection during a heavy shower."
+              }
+            },
+            {
+              "name": "Délutáni pihenő a parton",
+              "tip_5lang": {
+                "de": "Beobachten Sie das wilde Meer von einer überdachten Café-Terrasse aus.",
+                "hu": "Figyelje a haragos tengert egy fedett kávézó teraszáról.",
+                "ro": "Observați marea agitată de pe o terasă acoperită a unei cafenele.",
+                "en": "Watch the wild sea from a covered cafe terrace instead of the open beach."
+              }
+            },
+            {
+              "name": "Naplemente-pihenő",
+              "tip_5lang": {
+                "de": "Bei Regen leuchten die Lichter von Dubrovnik am Horizont besonders hell.",
+                "hu": "Esőben Dubrovnik fényei különösen élesen csillognak a horizonton.",
+                "ro": "În condiții de ploaie, luminile Dubrovnikului strălucesc intens la orizont.",
+                "en": "In the rain, the lights of Dubrovnik shine especially bright on the horizon."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Küstenwege.",
+              "Das Sub City Center ist der beste Ort für eine Regenpause.",
+              "Kupari wirkt bei grauem Wetter besonders authentisch.",
+              "Die Gehwege in Mlini können bei Nässe sehr rutschig sein."
+            ],
+            "hu": [
+              "Viseljen vízálló túracipőt a parti ösvényeken.",
+              "A Sub City központ a legjobb hely egy hosszabb esőszünetre.",
+              "Kupari romjai szürke időben mutatják a legdrámaibb arcukat.",
+              "Mlini kőburkolatú sétányai vizesen rendkívül csúszósak lehetnek."
+            ],
+            "ro": [
+              "Purtați pantofi de trekking impermeabili pe cărările de coastă.",
+              "Sub City Center este cel mai bun loc pentru o pauză de ploaie.",
+              "Ruinele din Kupari par mult mai autentice pe vreme gri.",
+              "Pavajul din Mlini poate deveni extrem de alunecos când este ud."
+            ],
+            "en": [
+              "Wear waterproof hiking shoes for the coastal paths.",
+              "Sub City Center is the best place for a longer rain break.",
+              "The Kupari ruins look most authentic and dramatic in grey weather.",
+              "The stone pavements in Mlini can be very slippery when wet."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Župa ist frisch und klar, ideal für einen einsamen Spaziergang in Srebreno. Mittags steht die tiefstehende Sonne über den leeren Ruinen von Kupari und wirft lange Schatten. Nachmittags genießen wir die Stille in Mlini, wo nur wenige Einheimische unterwegs sind. Da die Sonne früh untergeht, ziehen wir uns zeitig in eine warme Gaststätte zurück.",
+            "hu": "A téli reggel Zsupában friss és tiszta, tökéletes egy magányos sétához Srebrenóban. Délben az alacsonyan járó nap hosszú árnyékokat vet Kupari üres romjai között. Délután Mlini csendjét élvezzük, ahol ilyenkor csak a helyiekkel találkozhatunk. Mivel a nap korán nyugszik, már sötétedéskor behúzódunk egy barátságos vendéglőbe.",
+            "ro": "Dimineața de iarnă în Župa este proaspătă și senină, ideală pentru o plimbare solitară în Srebreno. La prânz, soarele palid aruncă umbre lungi printre ruinele pustii din Kupari. După-amiaza savurăm liniștea din Mlini, unde întâlnim doar localnici. Deoarece soarele apune devreme, ne retragem din timp într-un restaurant călduros.",
+            "en": "The winter morning in Župa is crisp and clear, perfect for a solitary walk in Srebreno. At noon, the low winter sun casts long shadows through the empty ruins of Kupari. In the afternoon, we enjoy the deep silence of Mlini, shared only with a few locals. Since the sun sets early, we head to a cozy local eatery as soon as twilight hits."
+          },
+          "stops": [
+            {
+              "name": "Uvala Srebreno",
+              "tip_5lang": {
+                "de": "Ein winddichter Mantel schützt vor der kalten Meeresbrise.",
+                "hu": "Egy szélálló kabát elengedhetetlen a hideg tengeri fuvallatok ellen.",
+                "ro": "O haină rezistentă la vânt vă va proteja de briza rece a mării.",
+                "en": "A windproof coat will protect you from the cold sea breeze."
+              }
+            },
+            {
+              "name": "Kompleks Kupari",
+              "tip_5lang": {
+                "de": "Ohne Touristenmassen lässt sich die Geschichte des Ortes besser spüren.",
+                "hu": "Turisták nélkül sokkal jobban átérezhető a hely történelmi súlya.",
+                "ro": "Fără mulțimile de turiști, puteți simți mai bine istoria acestui loc.",
+                "en": "Without the tourist crowds, the history of the place feels much more raw."
+              }
+            },
+            {
+              "name": "Ebéd egy helyi Konobában",
+              "tip_5lang": {
+                "de": "Fragen Sie nach saisonalen Gerichten wie Kohl und Würstchen.",
+                "hu": "Kérdezzen rá a szezonális ételekre, például a káposztás kolbászra.",
+                "ro": "Întrebați de preparatele sezoniere, precum varza cu cârnați.",
+                "en": "Ask for seasonal winter dishes like cabbage and sausages."
+              }
+            },
+            {
+              "name": "Šetnica Mlini",
+              "tip_5lang": {
+                "de": "Genießen Sie den Duft von Kiefern und Meer ohne die Sommerhitze.",
+                "hu": "Élvezze a fenyő és a tenger illatát a tikkasztó hőség nélkül.",
+                "ro": "Bucurați-vă de mirosul de pini și mare fără căldura sufocantă.",
+                "en": "Enjoy the scent of pines and the sea without the summer heat."
+              }
+            },
+            {
+              "name": "Crkva svetog Ilara",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Gottesdienstzeiten, die im Winter variieren können.",
+                "hu": "Figyeljen a miseidőkre, amelyek télen eltérhetnek a megszokottól.",
+                "ro": "Verificați orarul slujbelor, care poate varia în timpul iernii.",
+                "en": "Check the service times, which may differ during the winter season."
+              }
+            },
+            {
+              "name": "Délutáni pihenő a parton",
+              "tip_5lang": {
+                "de": "Die Sonne verschwindet gegen 16:30 Uhr; planen Sie entsprechend.",
+                "hu": "A nap 16:30 körül nyugszik, tervezze ehhez a délutáni programot.",
+                "ro": "Soarele apune în jurul orei 16:30; planificați-vă programul în consecință.",
+                "en": "The sun sets around 16:30; plan your afternoon activities accordingly."
+              }
+            },
+            {
+              "name": "Naplemente-pihenő",
+              "tip_5lang": {
+                "de": "Die Winter-Dämmerung bietet oft die klarsten Farben über der Adria.",
+                "hu": "A téli alkonyat gyakran a legtisztább színeket hozza az Adria felett.",
+                "ro": "Amurgul de iarnă oferă adesea cele mai clare culori deasupra Adriaticii.",
+                "en": "Winter twilight often brings the clearest and most vivid colors over the Adriatic."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schichten Sie Ihre Kleidung wegen des wechselhaften Windes.",
+              "Sonnenuntergang ist bereits gegen 16:30 Uhr.",
+              "Viele Strandbars sind geschlossen; suchen Sie Cafés im Ort Mlini.",
+              "Nutzen Sie das klare Winterlicht für fantastische Fotos."
+            ],
+            "hu": [
+              "Öltözködjön rétegesen a változékony tengeri szél miatt.",
+              "A napnyugta már 16:30 körül bekövetkezik.",
+              "Sok parti bár zárva van; keressen kávézót Mlini központjában.",
+              "Használja ki a tiszta téli fényeket a fantasztikus fotókhoz."
+            ],
+            "ro": [
+              "Îmbrăcați-vă în straturi din cauza vântului schimbător.",
+              "Apusul soarelui are loc deja în jurul orei 16:30.",
+              "Multe baruri de plajă sunt închise; căutați cafenele în centrul localității Mlini.",
+              "Profitați de lumina clară de iarnă pentru fotografii fantastice."
+            ],
+            "en": [
+              "Dress in layers because of the unpredictable coastal wind.",
+              "Sunset happens early, around 16:30.",
+              "Many beach bars are closed; look for open cafes in Mlini village.",
+              "Take advantage of the crisp winter light for amazing photography."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -548,6 +748,188 @@
           "Use pedestrian paths only at walking pace.",
           "Take enough water, especially for the stretch to Plat."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist eine Radtour nach Kupari ein Erlebnis für Abenteurer. Wir starten vorsichtig in Srebreno und erreichen die verlassenen Hotels, die im Regen noch mystischer wirken. Mittags wärmen wir uns in Mlini auf, bevor wir die kurze, nasse Strecke nach Plat wagen. Der Rückweg führt uns im Abendgrauen entlang der glänzenden Küstenstraße zurück.",
+            "hu": "Az eső ellenére a kupari kerékpártúra igazi kaland. Óvatosan indulunk Srebrenóból az elhagyatott hotelek felé, amik az esőben még titokzatosabbak. Délben Mliniben melegszünk fel, mielőtt bevállalnánk a rövid, áztató szakaszt Plat felé. A visszaút az alkonyatban, a csillogó aszfalton vezet a tengerpart mentén.",
+            "ro": "În ciuda ploii, o tură cu bicicleta spre Kupari este o experiență pentru aventurieri. Pornim cu prudență din Srebreno spre hotelurile abandonate, care par mistice în ploaie. La prânz ne încălzim în Mlini înainte de a parcurge porțiunea umedă spre Plat. Drumul de întoarcere ne poartă prin amurg pe șoseaua de coastă lucioasă.",
+            "en": "Despite the rain, a bike trip to Kupari is an adventure for the bold. We start carefully from Srebreno towards the abandoned hotels, which look even more mystical in the rain. At noon, we warm up in Mlini before tackling the wet stretch to Plat. The return journey takes us through the twilight along the glistening coastal road."
+          },
+          "stops": [
+            {
+              "name": "Kompleks Kupari",
+              "tip_5lang": {
+                "de": "Vorsicht vor tiefen Pfützen auf den unebenen Wegen zwischen den Hotels.",
+                "hu": "Vigyázzon a mély tócsákra a hotelek közötti egyenetlen utakon.",
+                "ro": "Atenție la bălțile adânci de pe drumurile denivelate dintre hoteluri.",
+                "en": "Watch out for deep puddles on the uneven paths between the hotels."
+              }
+            },
+            {
+              "name": "Uvala Srebreno",
+              "tip_5lang": {
+                "de": "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassem Asphalt.",
+                "hu": "Csökkentse kissé a keréknyomást a jobb tapadásért a vizes aszfalton.",
+                "ro": "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe asfalt ud.",
+                "en": "Slightly reduce tire pressure for better grip on the wet asphalt."
+              }
+            },
+            {
+              "name": "Ebéd Mlini kikötőjében",
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad unter einem Vordach, um den Sattel trocken zu halten.",
+                "hu": "Láncolja le a biciklit egy előtető alá, hogy az ülés száraz maradjon.",
+                "ro": "Securizați bicicleta sub un acoperiș pentru a păstra șaua uscată.",
+                "en": "Lock your bike under a canopy to keep the saddle dry while eating."
+              }
+            },
+            {
+              "name": "Plaža Plat",
+              "tip_5lang": {
+                "de": "Die Abfahrt nach Plat ist bei Regen steil und rutschig; bremsen Sie früh.",
+                "hu": "A Plat felé tartó lejtő esőben csúszós; kezdje meg időben a fékezést.",
+                "ro": "Coborârea spre Plat este abruptă și alunecoasă pe ploaie; frânați din timp.",
+                "en": "The descent to Plat is steep and slippery in the rain; brake early."
+              }
+            },
+            {
+              "name": "Šetnica Mlini pihenő",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter den Platanen, die bei leichtem Regen natürlichen Schutz bieten.",
+                "hu": "Rövid megálló a platánok alatt, amik enyhe esőben természetes ernyőt tartanak.",
+                "ro": "Scurt popas sub platanii care oferă protecție naturală la o ploaie ușoară.",
+                "en": "Short stop under the plane trees, which offer natural shelter in light rain."
+              }
+            },
+            {
+              "name": "Naplemente a parton",
+              "tip_5lang": {
+                "de": "Wischen Sie Ihre Bremsflanken ab, bevor es dunkel wird.",
+                "hu": "Törölje szárazra a felniket és a fékeket, mielőtt besötétedik.",
+                "ro": "Ștergeți jantele și frânele înainte de lăsarea întunericului.",
+                "en": "Wipe down your brake rims before it gets dark for safety."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Vollständige Regenbekleidung inklusive Überschuhen wird empfohlen.",
+              "Vorsicht in Kurven auf den polierten Steinflächen in Mlini.",
+              "Nutzen Sie Scheibenbremsen, falls vorhanden, intensiver.",
+              "Die Sicht kann durch Gischt und Regen stark eingeschränkt sein."
+            ],
+            "hu": [
+              "Teljes esőruházat és kamásli használata javasolt.",
+              "Vigyázzon a kanyarokban Mlini csiszolt kőfelületein.",
+              "Ha van tárcsaféke, esőben sokkal megbízhatóbb lesz.",
+              "A látási viszonyokat a felcsapódó víz és az eső korlátozhatja."
+            ],
+            "ro": [
+              "Se recomandă costum complet de ploaie și huse pentru pantofi.",
+              "Atenție în curbe pe suprafețele de piatră lustruită din Mlini.",
+              "Frânele pe disc sunt mult mai eficiente în condiții de umiditate.",
+              "Vizibilitatea poate fi redusă din cauza ploii și a apei pulverizate."
+            ],
+            "en": [
+              "Full rain gear including shoe covers is highly recommended.",
+              "Be extra careful in corners on the polished stone surfaces in Mlini.",
+              "Disc brakes are far more reliable in these wet conditions.",
+              "Visibility can be significantly reduced by spray and heavy rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne macht das Radfahren in Župa zum Vergnügen, solange kein Bura-Wind weht. Wir erkunden Kupari in der morgendlichen Frische und radeln weiter nach Srebreno. Das Mittagessen im windgeschützten Mlini gibt Kraft für den Anstieg nach Plat. Den Sonnenuntergang erleben wir am Meer, bevor die Kälte mit der Dunkelheit einzieht.",
+            "hu": "A téli napsütés élvezetessé teszi a bringázást Zsupában, feltéve, ha nem fúj a bóra. Reggeli frissességben fedezzük fel Kuparit, majd tekerünk tovább Srebrenóba. Az ebéd a szélvédett Mliniben ad erőt a plati emelkedőhöz. A naplementét még a parton nézzük meg, mielőtt a sötéttel megérkezne a hideg.",
+            "ro": "Soarele de iarnă face ciclismul în Župa o plăcere, atât timp cât nu bate vântul Bura. Explorăm Kupari în prospețimea dimineții și pedalăm spre Srebreno. Prânzul în Mlini, ferit de vânt, ne dă energie pentru urcarea spre Plat. Admirăm apusul la malul mării înainte ca frigul să se instaleze odată cu întunericul.",
+            "en": "Winter sunshine makes cycling in Župa a joy, provided the Bura wind isn't blowing. We explore Kupari in the morning freshness and head further to Srebreno. Lunch in wind-sheltered Mlini fuels us for the climb to Plat. We catch the sunset by the sea just before the chill sets in with the darkness."
+          },
+          "stops": [
+            {
+              "name": "Kompleks Kupari",
+              "tip_5lang": {
+                "de": "In den Ruinen ist es deutlich kühler als in der Sonne; Jacke anbehalten.",
+                "hu": "A romok között sokkal hűvösebb van, mint a napon; ne vegye le a kabátot.",
+                "ro": "În interiorul ruinelor este mult mai răcoare decât la soare; păstrați jacheta.",
+                "en": "It is significantly cooler inside the ruins than in the sun; keep your jacket on."
+              }
+            },
+            {
+              "name": "Uvala Srebreno",
+              "tip_5lang": {
+                "de": "Die Winterbrise kann hier kräftig sein; ein Stirnband unter dem Helm hilft.",
+                "hu": "A téli szél itt erős lehet; egy vékony fejpánt a sisak alatt sokat segít.",
+                "ro": "Briza de iarnă poate fi puternică aici; o bentiță sub cască este utilă.",
+                "en": "The winter breeze can be strong here; a thin headband under the helmet helps."
+              }
+            },
+            {
+              "name": "Ebéd Mlini kikötőjében",
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz an der Sonne, um während der Pause aufzutanken.",
+                "hu": "Keressen egy napsütötte asztalt, hogy feltöltődjön a pihenő alatt.",
+                "ro": "Căutați un loc la soare pentru a vă reîncărca în timpul pauzei.",
+                "en": "Look for a spot in the sun to recharge during your lunch break."
+              }
+            },
+            {
+              "name": "Plaža Plat",
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer; genießen Sie die totale Ruhe.",
+                "hu": "A strand télen szinte teljesen üres; élvezze a tökéletes nyugalmat.",
+                "ro": "Plaja este aproape pustie iarna; bucurați-vă de liniște deplină.",
+                "en": "The beach is almost deserted in winter; enjoy the absolute silence."
+              }
+            },
+            {
+              "name": "Šetnica Mlini pihenő",
+              "tip_5lang": {
+                "de": "Machen Sie nur kurze Pausen, damit die Muskeln nicht auskühlen.",
+                "hu": "Csak rövid pihenőket tartson, hogy az izmai ne hűljenek ki.",
+                "ro": "Faceți doar pauze scurte pentru ca mușchii să nu se răcească.",
+                "en": "Keep your breaks short so your muscles don't cool down too much."
+              }
+            },
+            {
+              "name": "Naplemente a parton",
+              "tip_5lang": {
+                "de": "Nach 17:00 Uhr sinken die Temperaturen rapide; Licht einschalten.",
+                "hu": "17:00 után a hőmérséklet gyorsan süllyed; kapcsolja be a világítást.",
+                "ro": "După ora 17:00 temperaturile scad rapid; aprindeți luminile.",
+                "en": "After 17:00 the temperature drops rapidly; make sure your lights are on."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Warme Handschuhe sind wegen des Fahrtwinds unerlässlich.",
+              "Vermeiden Sie Fahrten bei starkem Bura-Wind (Gefahr von Böen).",
+              "Die Tage sind kurz; starten Sie pünktlich um 09:00 Uhr.",
+              "Überprüfen Sie den Reifendruck, da Luft bei Kälte an Volumen verliert."
+            ],
+            "hu": [
+              "A menetszél miatt a meleg kesztyű elengedhetetlen.",
+              "Kerülje a bringázást erős bóra idején a hirtelen széllökések miatt.",
+              "A nappalok rövidek; kezdje a túrát pontosan 9-kor.",
+              "Ellenőrizze a guminyomást, mert a hidegben csökkenhet a levegő térfogata."
+            ],
+            "ro": [
+              "Mănușile călduroase sunt esențiale din cauza curentului de aer.",
+              "Evitați deplasarea pe vânt puternic (Bura) din cauza rafalelor bruște.",
+              "Zilele sunt scurte; începeți tura punctual la ora 09:00.",
+              "Verificați presiunea în pneuri, deoarece aerul rece își pierde volumul."
+            ],
+            "en": [
+              "Warm gloves are essential to combat the wind chill while riding.",
+              "Avoid cycling during strong Bura winds due to dangerous gusts.",
+              "Days are short; make sure to start your tour promptly at 09:00.",
+              "Check your tire pressure as air volume decreases in the cold."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -794,6 +1176,206 @@
           "The drive between towns is short, ideal for families.",
           "Use the clusters to save on parking fees."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regentage in Župa lassen sich mit dem Auto bequem überbrücken. Wir beginnen bei den Ruinen von Kupari, wo wir direkt am Eingang parken. In Srebreno nutzen wir das Parkhaus des Sub City Centers für einen trockenen Aufenthalt. Mittags genießen wir die Aussicht auf die Adria aus dem trockenen Fahrzeug, bevor wir die Kirche Sveti Ilar besuchen.",
+            "hu": "Zsupa esős napjai autóval kényelmesen átvészelhetők. Kupariban kezdünk, ahol közvetlenül a bejáratnál tudunk parkolni. Srebrenóban a Sub City mélygarázsát használjuk a száraz várakozáshoz. Délben a száraz autóból csodáljuk az Adriát, mielőtt meglátogatnánk a Szent Ilár templomot.",
+            "ro": "Zilele ploioase în Župa pot fi parcurse confortabil cu mașina. Începem la ruinele din Kupari, unde parcăm chiar la intrare. În Srebreno folosim parcarea subterană de la Sub City pentru a rămâne uscați. La prânz admirăm marea din confortul mașinii înainte de a vizita biserica Sfântul Ilar.",
+            "en": "Rainy days in Župa are easily managed by car. We start at the Kupari ruins, parking right at the entrance to minimize wet walks. In Srebreno, we use the Sub City underground parking to stay dry. At noon, we enjoy the Adriatic views from the warm car before visiting St. Ilar's church."
+          },
+          "stops": [
+            {
+              "name": "Kompleks Kupari (Cluster A)",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Hotel Pelegrin, um den Fußweg im Regen kurz zu halten.",
+                "hu": "Parkoljon a Hotel Pelegrin közelében, hogy lerövidítse az esőben megtett utat.",
+                "ro": "Parcați aproape de Hotel Pelegrin pentru a scurta mersul pe jos prin ploaie.",
+                "en": "Park near Hotel Pelegrin to keep your walk in the rain as short as possible."
+              }
+            },
+            {
+              "name": "Uvala Srebreno (Cluster A)",
+              "tip_5lang": {
+                "de": "Nutzen Sie das kostenlose Parken im Einkaufszentrum für den ersten Teil des Tages.",
+                "hu": "Használja a bevásárlóközpont ingyenes parkolóját a nap első felében.",
+                "ro": "Folosiți parcarea gratuită de la centrul comercial pentru prima parte a zilei.",
+                "en": "Use the shopping center's free parking for the first part of the day."
+              }
+            },
+            {
+              "name": "Ebéd Mliniben (Cluster B)",
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt oberhalb der Konobas im Ortskern.",
+                "hu": "Közvetlenül a központban lévő konobák felett talál parkolóhelyeket.",
+                "ro": "Există locuri de parcare chiar deasupra restaurantelor din centrul vechi.",
+                "en": "There are parking spots available directly above the taverns in the village center."
+              }
+            },
+            {
+              "name": "Šetnica Mlini (Cluster B)",
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto stehen; die Wege am Wasser sind nur für Fußgänger.",
+                "hu": "Hagyja az autót a parkolóban; a vízparti utak csak gyalogosoknak nyitottak.",
+                "ro": "Lăsați mașina în parcare; aleile de pe malul apei sunt strict pietonale.",
+                "en": "Leave your car parked; the waterfront paths are for pedestrians only."
+              }
+            },
+            {
+              "name": "Crkva svetog Ilara (Cluster B)",
+              "tip_5lang": {
+                "de": "Ein kleiner Parkplatz befindet sich direkt neben dem Friedhofseingang.",
+                "hu": "Egy apró parkoló található közvetlenül a temető bejárata mellett.",
+                "ro": "O mică parcare se află chiar lângă intrarea în cimitir.",
+                "en": "A small parking area is located right next to the cemetery entrance."
+              }
+            },
+            {
+              "name": "Plaža Plat (Cluster C)",
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße nach Plat ist schmal; bei Nässe vorsichtig fahren.",
+                "hu": "A Plat felé vezető út keskeny; vizes aszfalton vezessen óvatosan.",
+                "ro": "Drumul de acces spre Plat este îngust; conduceți cu prudență pe carosabil ud.",
+                "en": "The access road to Plat is narrow; drive carefully on wet asphalt."
+              }
+            },
+            {
+              "name": "Naplemente panoráma",
+              "tip_5lang": {
+                "de": "Der beste Spot ist der Parkplatz oberhalb der Magistrale mit Blick auf die Bucht.",
+                "hu": "A legjobb hely a főút feletti parkoló, ahonnan belátni az egész öblöt.",
+                "ro": "Cel mai bun loc este parcarea de deasupra magistralei, cu vedere spre golf.",
+                "en": "The best spot is the parking area above the main road overlooking the bay."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die Parkhäuser in Srebreno als Basis.",
+              "Die Küstenstraße (Magistrale) kann bei Regen durch Ölfilme rutschig sein.",
+              "Vermeiden Sie das Parken unter instabilen Bäumen in Kupari.",
+              "Ein Regenschirm im Kofferraum ist für die kurzen Wege zum Ziel wichtig."
+            ],
+            "hu": [
+              "Használja bázisként Srebreno parkolóházait.",
+              "A parti főút (Magistrale) esőben a kifolyt olaj miatt csúszós lehet.",
+              "Kerülje a parkolást instabil fák alatt Kupariban.",
+              "Mindig legyen esernyő a csomagtartóban a rövid sétákhoz."
+            ],
+            "ro": [
+              "Folosiți parcările etajate din Srebreno ca bază de plecare.",
+              "Șoseaua de coastă (Magistrala) poate fi alunecoasă pe ploaie din cauza peliculei de ulei.",
+              "Evitați parcarea sub copacii instabili din Kupari.",
+              "O umbrelă în portbagaj este esențială pentru scurtele deplasări pe jos."
+            ],
+            "en": [
+              "Use the parking garages in Srebreno as your main base.",
+              "The coastal highway (Magistrale) can be slippery when wet due to oil residue.",
+              "Avoid parking under unstable trees or near ruins in Kupari.",
+              "Always keep an umbrella in the trunk for the short walks to your destinations."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten durch Župa bieten freie Straßen und leere Parkplätze. Wir genießen den Morgen in Kupari, wo wir ungestört fotografieren können. Mittags erkunden wir die Dörfer im Hinterland mit dem Auto, bevor wir zum Essen nach Mlini hinunterfahren. Da es früh dunkel wird, nutzen wir die Scheinwerfer für eine Panoramafahrt entlang der Küste.",
+            "hu": "A téli autózás Zsupában szabad utakat és üres parkolókat jelent. Kupariban kezdjük a reggelt, ahol zavartalanul fotózhatunk. Délben a hátországi falvakat fedezzük fel, majd legurulunk Mlinibe ebédelni. Mivel korán sötétedik, a fényszórók fényében teszünk egy panoráma-kört a parton.",
+            "ro": "Condusul pe timp de iarnă în Župa înseamnă drumuri libere și parcări goale. Savurăm dimineața în Kupari, unde putem fotografia nestingheriți. La prânz explorăm satele din interior cu mașina înainte de a coborî în Mlini pentru masă. Deoarece se întunecă devreme, profităm de faruri pentru o tură panoramică pe coastă.",
+            "en": "Winter driving through Župa means clear roads and plenty of empty parking spots. We enjoy the morning in Kupari, where we can photograph without interruptions. At noon, we explore the inland villages by car before heading down to Mlini for lunch. Since it gets dark early, we enjoy a panoramic drive along the coast in the evening lights."
+          },
+          "stops": [
+            {
+              "name": "Kompleks Kupari (Cluster A)",
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Winter kostenlos; nutzen Sie den Platz direkt am Meer.",
+                "hu": "Télen a parkolás ingyenes; használja közvetlenül a tengerparti helyeket.",
+                "ro": "Parcarea este gratuită iarna; folosiți locurile de lângă mare.",
+                "en": "Parking is free in winter; feel free to use the spots right by the sea."
+              }
+            },
+            {
+              "name": "Uvala Srebreno (Cluster A)",
+              "tip_5lang": {
+                "de": "Im Winter finden Sie problemlos Parkplätze direkt an der Promenade.",
+                "hu": "Télen gond nélkül talál parkolóhelyet közvetlenül a sétány mellett.",
+                "ro": "Iarna veți găsi fără probleme locuri de parcare chiar lângă faleză.",
+                "en": "In winter, you'll easily find parking spots directly next to the promenade."
+              }
+            },
+            {
+              "name": "Ebéd Mliniben (Cluster B)",
+              "tip_5lang": {
+                "de": "Die meisten Restaurants haben im Winter nur begrenzte Öffnungszeiten; vorher prüfen.",
+                "hu": "A legtöbb étterem télen korlátozott nyitvatartással üzemel; ellenőrizze előre.",
+                "ro": "Majoritatea restaurantelor au program redus iarna; verificați în prealabil.",
+                "en": "Most restaurants have limited opening hours in winter; check before arriving."
+              }
+            },
+            {
+              "name": "Šetnica Mlini (Cluster B)",
+              "tip_5lang": {
+                "de": "Parken Sie am Ortseingang und genießen Sie den Spaziergang in der Wintersonne.",
+                "hu": "Parkoljon a falu szélén, és élvezze a sétát a téli napsütésben.",
+                "ro": "Parcați la intrarea în localitate și bucurați-vă de plimbarea în soarele de iarnă.",
+                "en": "Park at the village entrance and enjoy the refreshing walk in the winter sun."
+              }
+            },
+            {
+              "name": "Crkva svetog Ilara (Cluster B)",
+              "tip_5lang": {
+                "de": "Die schmale Straße zur Kirche ist im Winter deutlich entspannter zu befahren.",
+                "hu": "A templomhoz vezető szűk út télen sokkal nyugodtabban járható.",
+                "ro": "Drumul îngust spre biserică este mult mai relaxant de parcurs iarna.",
+                "en": "The narrow road to the church is much easier to navigate in the winter season."
+              }
+            },
+            {
+              "name": "Plaža Plat (Cluster C)",
+              "tip_5lang": {
+                "de": "Stellen Sie den Wagen so ab, dass Sie den Sonnenuntergang aus dem Auto sehen können.",
+                "hu": "Úgy parkoljon le, hogy az autóból is láthassa a naplementét.",
+                "ro": "Parcați mașina astfel încât să puteți vedea apusul din interior.",
+                "en": "Park your car in a position where you can watch the sunset from inside."
+              }
+            },
+            {
+              "name": "Naplemente panoráma",
+              "tip_5lang": {
+                "de": "Die Sicht ist im Winter oft klarer, man kann bis zu den Elaphiten sehen.",
+                "hu": "Télen a látótávolság nagyobb, gyakran az Elafiti-szigetekig is ellátni.",
+                "ro": "Vizibilitatea este mai bună iarna, se pot vedea adesea insulele Elafiti.",
+                "en": "Visibility is often better in winter; you can often see as far as the Elafiti Islands."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Scheibenwaschanlage.",
+              "Die Bergstraßen können morgens glatt sein.",
+              "Nutzen Sie die Nebelscheinwerfer bei aufziehendem Seenebel.",
+              "Viele Parkzonen sind außerhalb der Saison gebührenfrei."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "A hegyi utak reggelente deresek, csúszósak lehetnek.",
+              "Használja a ködlámpát, ha felszáll a tengeri köd.",
+              "Sok parkolási zóna ingyenes a szezonon kívül."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz să fie rezistent la îngheț.",
+              "Drumurile montane pot fi alunecoase dimineața din cauza brumei.",
+              "Folosiți proiectoarele de ceață dacă apare ceața marină.",
+              "Multe zone de parcare sunt fără plată în afara sezonului."
+            ],
+            "en": [
+              "Check that your windshield washer fluid is frost-resistant.",
+              "Inland mountain roads can be frosty and slippery in the early morning.",
+              "Use your fog lights if sea mist starts to roll in.",
+              "Many parking zones are free of charge during the off-season."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -1022,6 +1604,188 @@
           "Buses run very regularly during the summer.",
           "Check the schedules for the return trip to Dubrovnik."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit der Buslinie 10 erkunden wir Župa auch bei Regen trocken. Wir starten in Srebreno, wo das Einkaufszentrum als idealer Pausenstopp dient. Der kurze Weg nach Kupari ist im Regen machbar, bevor wir mit dem nächsten Bus nach Mlini fahren. Den Nachmittag verbringen wir in den Cafés nahe der Bushaltestelle, bevor es zurück Richtung Dubrovnik geht.",
+            "hu": "A 10-es busszal Zsupa esőben is bejárható. Srebrenóban kezdünk, ahol a bevásárlóközpont ideális pihenőhely. A rövid séta Kupari felé esőben is vállalható, majd a következő busszal megyünk tovább Mlinibe. A délutánt a buszmegálló közeli kávézókban töltjük, mielőtt visszaindulnánk Dubrovnik felé.",
+            "ro": "Cu linia de autobuz 10 explorăm Župa chiar și pe ploaie. Începem în Srebreno, unde centrul comercial servește ca punct ideal de pauză. Scurta plimbare spre Kupari este fezabilă pe ploaie, apoi luăm următorul autobuz spre Mlini. După-amiaza o petrecem în cafenelele de lângă stație înainte de a ne întoarce spre Dubrovnik.",
+            "en": "Using bus line 10, we can explore Župa while staying dry during the rain. We start in Srebreno, with the shopping center serving as a perfect refuge. The short walk to Kupari is manageable in the rain, then we hop on the next bus to Mlini. We spend the afternoon in cafes near the bus stop before heading back towards Dubrovnik."
+          },
+          "stops": [
+            {
+              "name": "Uvala Srebreno",
+              "tip_5lang": {
+                "de": "Die Bushaltestelle Srebreno hat ein großes Dach, ideal bei Schauern.",
+                "hu": "A srebrenói buszmegálló tágas tetővel rendelkezik, ideális zápor idején.",
+                "ro": "Stația de autobuz Srebreno are un acoperiș mare, ideal în timpul averselor.",
+                "en": "The Srebreno bus stop has a large canopy, perfect for waiting out a shower."
+              }
+            },
+            {
+              "name": "Kompleks Kupari",
+              "tip_5lang": {
+                "de": "Vom Busstopp an der Magistrale sind es ca. 10 Minuten Fußweg bergab.",
+                "hu": "A főúton lévő megállótól kb. 10 perc séta lefelé a romokhoz.",
+                "ro": "De la stația de pe magistrală sunt aproximativ 10 minute de mers la vale.",
+                "en": "From the main road bus stop, it's about a 10-minute walk downhill to the ruins."
+              }
+            },
+            {
+              "name": "Ebéd Mlini központjában",
+              "tip_5lang": {
+                "de": "Wählen Sie ein Restaurant nahe der Hauptstraße, um den Bus nicht zu verpassen.",
+                "hu": "Válasszon éttermet a főút közelében, hogy ne késse le a buszt.",
+                "ro": "Alegeți un restaurant aproape de drumul principal pentru a nu rata autobuzul.",
+                "en": "Choose a restaurant near the main road to ensure you don't miss your bus."
+              }
+            },
+            {
+              "name": "Šetnica Mlini",
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist der Weg unter den Bäumen etwas geschützter.",
+                "hu": "Heves esőben a fák alatti sétány valamivel védettebb hely.",
+                "ro": "În caz de ploaie torențială, aleea de sub copaci este ceva mai protejată.",
+                "en": "During heavy rain, the path under the trees offers some natural protection."
+              }
+            },
+            {
+              "name": "Crkva svetog Ilara",
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch so, dass Sie zum Bustakt wieder an der Straße sind.",
+                "hu": "Úgy tervezze a látogatást, hogy a busz menetrendjéhez igazodva érjen vissza.",
+                "ro": "Planificați vizita astfel încât să reveniți la timp pentru programul autobuzului.",
+                "en": "Plan your visit so you return to the stop in sync with the bus schedule."
+              }
+            },
+            {
+              "name": "Délutáni pihenő a parton",
+              "tip_5lang": {
+                "de": "Das Hotel Astarea bietet eine große Lobby mit Meerblick für Transit-Gäste.",
+                "hu": "Az Astarea Hotel tágas lobbyja tengeri kilátást kínál az átszállókra várva.",
+                "ro": "Lobby-ul Hotelului Astarea oferă vedere la mare pentru oaspeții în tranzit.",
+                "en": "Hotel Astarea has a large lobby with sea views, great while waiting for transit."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Nutzen Sie die App 'Libertas' für Echtzeit-Busdaten.",
+              "Halten Sie Kleingeld oder eine Kontaktlos-Karte für den Fahrer bereit.",
+              "Die Busse verkehren bei Regen oft mit leichten Verspätungen.",
+              "Srebreno ist der beste Umstiegspunkt mit den meisten Unterstellmöglichkeiten."
+            ],
+            "hu": [
+              "Használja a 'Libertas' appot a valós idejű buszinformációkért.",
+              "Készítsen elő aprópénzt vagy bankkártyát a jegyvásárláshoz.",
+              "Esőben a buszok gyakran kisebb késéssel közlekednek.",
+              "Srebreno a legjobb átszállópont, itt van a legtöbb fedett várakozó."
+            ],
+            "ro": [
+              "Folosiți aplicația 'Libertas' pentru date în timp real despre autobuze.",
+              "Pregătiți mărunțiș sau un card contactless pentru plata la șofer.",
+              "Autobuzele pot avea mici întârzieri atunci când plouă torențial.",
+              "Srebreno este cel mai bun punct de legătură, având cele mai multe adăposturi."
+            ],
+            "en": [
+              "Use the 'Libertas' app for real-time bus tracking and info.",
+              "Have small change or a contactless card ready for the bus driver.",
+              "Buses often run with slight delays during heavy rainfall.",
+              "Srebreno is the best transit hub with the most sheltered waiting areas."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter-Fahrplan der Linie 10 ist ideal für einen entspannten Tag in Župa. Wir besuchen Srebreno am Vormittag und wandern rüber nach Kupari. Mittags wärmen wir uns in einer Konoba in Mlini auf, bevor wir den Nachmittag am ruhigen Hafen verbringen. Der letzte Bus bringt uns nach dem frühen Sonnenuntergang sicher zurück.",
+            "hu": "A 10-es busz téli menetrendje ideális egy nyugodt zsupai naphoz. Délelőtt Srebrenót látogatjuk meg, majd átsétálunk Kupariba. Délben egy mlinini konobában melegszünk fel, a délutánt pedig a csendes kikötőben töltjük. Az utolsó busz a korai naplemente után biztonságban visz vissza minket.",
+            "ro": "Programul de iarnă al liniei 10 este ideal pentru o zi relaxată în Župa. Vizităm Srebreno dimineața și mergem pe jos până în Kupari. La prânz ne încălzim într-o konoba din Mlini, iar după-amiaza o petrecem în portul liniștit. Ultimul autobuz ne duce în siguranță înapoi după apusul devreme.",
+            "en": "The winter schedule for bus line 10 is perfect for a relaxed day in Župa. We visit Srebreno in the morning and take a walk over to Kupari. At noon, we warm up in a Mlini tavern, spending the afternoon by the quiet harbor. The last bus will take us safely back right after the early winter sunset."
+          },
+          "stops": [
+            {
+              "name": "Uvala Srebreno",
+              "tip_5lang": {
+                "de": "Im Winter sind die Busse weniger voll; genießen Sie die freie Platzwahl.",
+                "hu": "Télen a buszok kevésbé zsúfoltak; válogathat a szabad helyek között.",
+                "ro": "Iarna autobuzele sunt mai puțin aglomerate; bucurați-vă de locurile libere.",
+                "en": "In winter, buses are much less crowded; enjoy having your pick of seats."
+              }
+            },
+            {
+              "name": "Kompleks Kupari",
+              "tip_5lang": {
+                "de": "Beachten Sie, dass der Bus im Winter seltener fährt; Plan prüfen.",
+                "hu": "Vegye figyelembe, hogy télen a busz ritkábban jár; nézze meg a menetrendet.",
+                "ro": "Rețineți că autobuzul circulă mai rar iarna; verificați programul.",
+                "en": "Keep in mind that buses run less frequently in winter; check the schedule."
+              }
+            },
+            {
+              "name": "Ebéd Mlini központjában",
+              "tip_5lang": {
+                "de": "Ein heißer Tee oder Kaffee in der Sonne verkürzt das Warten auf den Bus.",
+                "hu": "Egy forró tea vagy kávé a napon megédesíti a várakozást a buszra.",
+                "ro": "Un ceai sau o cafea fierbinte la soare face așteptarea autobuzului mai plăcută.",
+                "en": "A hot tea or coffee in the sun makes waiting for the bus much more pleasant."
+              }
+            },
+            {
+              "name": "Šetnica Mlini",
+              "tip_5lang": {
+                "de": "Der Spaziergang zur Haltestelle bergauf hält Sie im Winter warm.",
+                "hu": "A buszmegállóhoz vezető emelkedő séta segít melegen tartani a testét.",
+                "ro": "Plimbarea în pantă spre stația de autobuz vă va menține cald iarna.",
+                "en": "The uphill walk back to the bus stop will help keep you warm in winter."
+              }
+            },
+            {
+              "name": "Crkva svetog Ilara",
+              "tip_5lang": {
+                "de": "In der Kirche ist es windstill, aber oft kühler als draußen.",
+                "hu": "A templomban nincs szél, de gyakran hűvösebb van, mint odakint.",
+                "ro": "În biserică nu bate vântul, dar este adesea mai răcoare decât afară.",
+                "en": "The church is sheltered from the wind but often cooler than the outside air."
+              }
+            },
+            {
+              "name": "Délutáni pihenő a parton",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bus vor 17:00 Uhr, um im Hellen nach Hause zu kommen.",
+                "hu": "Használja a 17:00 előtti buszt, hogy még világosban hazaérjen.",
+                "ro": "Luați autobuzul de dinainte de ora 17:00 pentru a ajunge acasă pe lumină.",
+                "en": "Take the bus before 17:00 to ensure you get back home before total darkness."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Winterfahrplan (Winter Schedule) auf der Libertas-Website.",
+              "Bus 10 verbindet Dubrovnik und Cavtat alle 30-60 Minuten.",
+              "Die Haltestellen an der Magistrale sind im Winter oft windig.",
+              "Kaufen Sie Tickets beim Fahrer, da viele Kioske im Winter geschlossen sind."
+            ],
+            "hu": [
+              "Ellenőrizze a téli menetrendet a Libertas weboldalán.",
+              "A 10-es busz 30-60 percenként jár Dubrovnik és Cavtat között.",
+              "A főúti megállók télen gyakran huzatosak és szelesek.",
+              "Vegyen jegyet a sofőrnél, mert sok újságos pavilon zárva tart télen."
+            ],
+            "ro": [
+              "Verificați programul de iarnă pe site-ul Libertas.",
+              "Autobuzul 10 circulă între Dubrovnik și Cavtat la fiecare 30-60 minute.",
+              "Stațiile de pe magistrală sunt adesea expuse vântului iarna.",
+              "Cumpărați bilete de la șofer, deoarece multe chioșcuri sunt închise iarna."
+            ],
+            "en": [
+              "Always check the specific 'Winter Schedule' on the Libertas website.",
+              "Bus 10 connects Dubrovnik and Cavtat every 30-60 minutes.",
+              "Bus stops along the main road can be very windy in the winter months.",
+              "Buy tickets directly from the driver as many kiosks are closed off-season."
+            ]
+          }
+        }
       }
     }
   }

@@ -252,6 +252,206 @@
           "The inland weather can be cooler than on the coast.",
           "Visit Klana in autumn for the beautiful foliage colors."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens genießen Sie den Kaffee im Trockenen. Der Besuch der Kirche bietet Schutz vor dem Regen, bevor der Aufstieg zur Burgruine etwas rutschig wird. Mittags wärmen Sie sich in der Konoba auf. Der Nachmittag auf dem Waldlehrpfad ist erfrischend, erfordert aber gute Regenbekleidung. Abends lassen Sie den Tag gemütlich ausklingen, während der Regen auf das Blätterdach prasselt.",
+            "hu": "A reggeli kávé a fedett teraszon indul. A templomlátogatás menedéket nyújt az eső elől, mielőtt a várromhoz vezető út csúszóssá válna. Ebédre egy meleg konobát választunk. A délutáni séta az erdei tanösvényen frissítő, de vízálló cipő kötelező. Az este nyugodt hangulatban telik, miközben hallgatjuk az eső kopogását a fák lombjain.",
+            "ro": "Dimineața începe cu o cafea la adăpost. Vizita la biserică oferă un refugiu uscat înainte ca urcușul spre cetate să devină alunecos. Prânzul la konoba vă va încălzi. După-amiaza pe poteca educativă este revigorantă, dar necesită pelerină de ploaie. Seara se încheie liniștit, ascultând ploaia care bate în coronamentul pădurii.",
+            "en": "Enjoy a dry morning coffee. The church visit provides shelter before the climb to the castle ruins becomes slippery. Warm up in a cozy konoba for lunch. The afternoon walk on the forest trail is refreshing but requires good waterproof gear. End the day peacefully, listening to the rain pattering on the forest canopy."
+          },
+          "stops": [
+            {
+              "name": "Kaffee und lokales Frühstück",
+              "tip_5lang": {
+                "de": "Ein gemütlicher Platz am Fenster, um den Regen zu beobachten.",
+                "hu": "Keressen egy ablak melletti asztalt, és figyelje az esőt.",
+                "ro": "Găsiți un loc la fereastră pentru a urmări ploaia.",
+                "en": "Find a cozy spot by the window to watch the rain."
+              }
+            },
+            {
+              "name": "Crkva sv. Jeronima",
+              "tip_5lang": {
+                "de": "Perfekter Ort, um einen starken Regenschauer trocken abzuwarten.",
+                "hu": "Tökéletes hely egy nagyobb zápor szárazon való megvárásához.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei plume de ploaie.",
+                "en": "Perfect place to wait out a heavy downpour in the dry."
+              }
+            },
+            {
+              "name": "Gradina Klana",
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Steinen beim Aufstieg zur Ruine.",
+                "hu": "Vigyázat a nedves köveken a várromhoz vezető emelkedőn.",
+                "ro": "Atenție pe pietrele umede în timpul urcușului spre cetate.",
+                "en": "Watch your step on the wet stones while climbing to the ruins."
+              }
+            },
+            {
+              "name": "Mittagessen in einer lokalen Konoba",
+              "tip_5lang": {
+                "de": "Genießen Sie eine heiße Suppe, während Ihre Kleidung trocknet.",
+                "hu": "Élvezzen egy forró levest, amíg a ruhái megszáradnak.",
+                "ro": "Savurați o supă fierbinte în timp ce hainele se usucă.",
+                "en": "Enjoy a hot soup while your clothes dry."
+              }
+            },
+            {
+              "name": "Poučna staza 'Putevima rimskih legionara'",
+              "tip_5lang": {
+                "de": "Das Blätterdach bietet etwas Schutz, aber Pfützen sind überall.",
+                "hu": "A lombok némi védelmet nyújtanak, de sok a tócsa.",
+                "ro": "Coronamentul oferă protecție, dar sunt multe bălți.",
+                "en": "The canopy provides some cover, but expect puddles."
+              }
+            },
+            {
+              "name": "Liburnijski limes",
+              "tip_5lang": {
+                "de": "Die antiken Mauern wirken im Regen besonders mystisch.",
+                "hu": "Az ókori falak esőben különösen misztikus látványt nyújtanak.",
+                "ro": "Zidurile antice par deosebit de mistice în ploaie.",
+                "en": "The ancient walls look especially mystical in the rain."
+              }
+            },
+            {
+              "name": "Ruhepause im Wald",
+              "tip_5lang": {
+                "de": "Kurzer Stopp unter dichten Tannen, um trocken zu bleiben.",
+                "hu": "Rövid pihenő a sűrű fenyők alatt, hogy szárazon maradjunk.",
+                "ro": "Scurt popas sub brazi deși pentru a rămâne uscat.",
+                "en": "Short rest under thick fir trees to stay dry."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Tragen Sie wasserfeste Wanderschuhe für die Gradina.",
+              "Ein kompakter Regenschirm ist im Dorf nützlich.",
+              "Regencapes sind besser für die Waldwege geeignet.",
+              "Achten Sie auf rutschiges Laub auf den antiken Wegen."
+            ],
+            "hu": [
+              "Vízálló túrabakancs ajánlott a várromhoz.",
+              "A faluban egy kompakt esernyő is elég.",
+              "Az erdei utakon a regenponcsó praktikusabb.",
+              "Vigyázzon a csúszós levelekre az ókori köveken."
+            ],
+            "ro": [
+              "Purtați bocanci impermeabili pentru zona cetății.",
+              "O umbrelă compactă este utilă în sat.",
+              "Pelerinele sunt mai practice pe potecile din pădure.",
+              "Atenție la frunzișul alunecos de pe drumurile antice."
+            ],
+            "en": [
+              "Wear waterproof hiking boots for the castle area.",
+              "A compact umbrella is useful in the village.",
+              "Rain ponchos are more practical for the forest trails.",
+              "Watch out for slippery leaves on the ancient paths."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start mit heißem Kaffee weckt die Geister. Die kühle Stille in der Kirche ist andächtig. Der Aufstieg zur Ruine bietet bei klarer Luft eine weite Sicht über das verschneite Tal. Mittags lockt die Wärme der Konoba mit Wildgerichten. Die Wanderung durch den Winterwald ist magisch, bevor die frühe Dämmerung den Ort in sanftes Licht taucht.",
+            "hu": "A fagyos reggel forró kávéval indul. A templom hűvös csendje áhítatos hangulatot áraszt. A várromhoz vezető út tiszta időben pazar kilátást nyújt a havas völgyre. Ebédre a vadételek és a konoba melege vár. A téli erdőben tett séta varázslatos, mielőtt a korai sötétedés lágy fénybe vonja a tájat.",
+            "ro": "O dimineață geroasă începe cu o cafea fierbinte. Liniștea rece din biserică este solemnă. Urcușul spre cetate oferă, pe aer curat, o vedere largă asupra văii înzăpezite. La prânz, căldura de la konoba vă îmbie cu preparate din vânat. Plimbarea prin pădurea de iarnă este magică înainte de amurgul timpuriu.",
+            "en": "A frosty start with hot coffee wakes the spirits. The cool silence in the church is solemn. The climb to the ruins offers broad views of the snowy valley in the crisp air. At noon, the warmth of the konoba invites you with game dishes. The hike through the winter forest is magical before the early sunset bathes the village in soft light."
+          },
+          "stops": [
+            {
+              "name": "Kaffee und lokales Frühstück",
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf, bevor es in die Kälte geht.",
+                "hu": "Melegedjen fel alaposan, mielőtt kimegy a hidegbe.",
+                "ro": "Încălziți-vă bine înainte de a ieși în frig.",
+                "en": "Warm up thoroughly before heading out into the cold."
+              }
+            },
+            {
+              "name": "Crkva sv. Jeronima",
+              "tip_5lang": {
+                "de": "Beachten Sie die festliche Winterdekoration im Inneren.",
+                "hu": "Figyelje meg a templom belső ünnepi téli díszítését.",
+                "ro": "Observați decorațiunile festive de iarnă din interior.",
+                "en": "Note the festive winter decorations inside."
+              }
+            },
+            {
+              "name": "Gradina Klana",
+              "tip_5lang": {
+                "de": "Festes Schuhwerk ist bei möglichem Eis lebenswichtig.",
+                "hu": "A jeges szakaszok miatt elengedhetetlen a stabil bakancs.",
+                "ro": "Încălțămintea stabilă este vitală din cauza gheții.",
+                "en": "Sturdy footwear is essential for potential icy patches."
+              }
+            },
+            {
+              "name": "Mittagessen in einer lokalen Konoba",
+              "tip_5lang": {
+                "de": "Probieren Sie herzhafte Eintöpfe gegen die Winterkälte.",
+                "hu": "Kóstolja meg a laktató egytálételeket a téli hideg ellen.",
+                "ro": "Încercați tocănițele consistente împotriva gerului.",
+                "en": "Try hearty stews to combat the winter chill."
+              }
+            },
+            {
+              "name": "Poučna staza 'Putevima rimskih legionara'",
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben den Blick auf den Limes frei.",
+                "hu": "A kopár fák között jobban látszanak a római falmaradványok.",
+                "ro": "Copacii golași dezvăluie mai bine zidurile limesului.",
+                "en": "The bare trees reveal a better view of the Limes walls."
+              }
+            },
+            {
+              "name": "Liburnijski limes",
+              "tip_5lang": {
+                "de": "Die Steine können unter dem Schnee sehr rutschig sein.",
+                "hu": "A hó alatt a kövek rendkívül csúszósak lehetnek.",
+                "ro": "Pietrele pot fi foarte alunecoase sub zăpadă.",
+                "en": "The stones can be very slippery under the snow."
+              }
+            },
+            {
+              "name": "Ruhepause im Wald",
+              "tip_5lang": {
+                "de": "Beachten Sie den frühen Sonnenuntergang gegen 16:30 Uhr.",
+                "hu": "Ügyeljen a korai naplementére, 16:30 körül sötétedik.",
+                "ro": "Atenție la apusul timpuriu, în jur de ora 16:30.",
+                "en": "Be mindful of the early sunset around 4:30 PM."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Zwiebelprinzip bei der Kleidung ist ratsam.",
+              "Nehmen Sie eine Thermoskanne mit heißem Tee mit.",
+              "Die Wege im Wald werden nicht geräumt.",
+              "Planen Sie das Ende vor der Dunkelheit ein."
+            ],
+            "hu": [
+              "Öltözzön rétegesen a változó hőmérséklet miatt.",
+              "Vigyen magával termoszt forró teával.",
+              "Az erdei utakat télen nem takarítják.",
+              "Tervezze meg a befejezést a sötétedés előtt."
+            ],
+            "ro": [
+              "Se recomandă îmbrăcămintea în straturi.",
+              "Luați un termos cu ceai fierbinte la pachet.",
+              "Potecile din pădure nu sunt deszăpezite.",
+              "Planificați finalul traseului înainte de întuneric."
+            ],
+            "en": [
+              "Layered clothing is highly recommended.",
+              "Take a thermos with hot tea with you.",
+              "Forest paths are not cleared of snow.",
+              "Plan to finish your walk before it gets dark."
+            ]
+          }
+        }
       }
     },
     "bike": {
@@ -480,6 +680,188 @@
           "Take enough water, there are few fountains in the forest.",
           "A GPS device is useful for the deeper forest paths."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein spritziger Start durch die Pfützen von Klana. Die Besichtigungen im Ort bieten kurze Pausen vom Regen. Die Auffahrt zum Limes erfordert volle Konzentration auf dem feuchten Untergrund. Nach einem stärkenden Mittagessen im Trockenen geht es auf schlammigen Waldwegen weiter. Ein Tag für echte Enthusiasten, die den Duft des nassen Waldes lieben.",
+            "hu": "Fröcskölős kezdés Klana tócsái között. A faluban tett megállók rövid pihenőt adnak az esőben. A Limeshez vezető emelkedő teljes koncentrációt igényel a nedves talajon. A száraz helyen elköltött ebéd után sáros erdei utakon folytatódik a túra. Egy nap az igazi rajongóknak, akik imádják a vizes erdő illatát.",
+            "ro": "Un început plin de stropi prin bălțile din Klana. Vizitele în sat oferă scurte pauze de la ploaie. Urcarea spre Limes necesită concentrare maximă pe terenul umed. După un prânz revigorant la adăpost, aventura continuă pe poteci noroioase. O zi pentru entuziaști care iubesc mirosul pădurii umede.",
+            "en": "A splashy start through the puddles of Klana. Sightseeing in the village offers short breaks from the rain. The climb to the Limes requires full focus on the damp ground. After a restorative lunch in the dry, the ride continues on muddy forest trails. A day for true enthusiasts who love the scent of the wet woods."
+          },
+          "stops": [
+            {
+              "name": "Morgencafé in Klana",
+              "tip_5lang": {
+                "de": "Checken Sie die Bremsen vor der Abfahrt im Regen.",
+                "hu": "Ellenőrizze a fékeket az esős indulás előtt.",
+                "ro": "Verificați frânele înainte de plecarea prin ploaie.",
+                "en": "Check your brakes before starting off in the rain."
+              }
+            },
+            {
+              "name": "Crkva sv. Jeronima",
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum, um die Brille abzuwischen.",
+                "hu": "Használja az előteret a szemüveg megtörléséhez.",
+                "ro": "Folosiți pridvorul pentru a vă șterge ochelarii.",
+                "en": "Use the porch area to wipe your glasses."
+              }
+            },
+            {
+              "name": "Gradina Klana",
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad unten, der Pfad ist zu rutschig.",
+                "hu": "Hagyja a bringát lent, az ösvény túl csúszós.",
+                "ro": "Lăsați bicicleta jos, poteca e prea alunecoasă.",
+                "en": "Leave your bike below; the path is too slippery."
+              }
+            },
+            {
+              "name": "Liburnijski limes (Erkundungsfahrt)",
+              "tip_5lang": {
+                "de": "Reduzieren Sie den Reifendruck für mehr Grip.",
+                "hu": "Csökkentse a guminyomást a jobb tapadásért.",
+                "ro": "Reduceți presiunea în anvelope pentru aderență.",
+                "en": "Reduce tire pressure slightly for better grip."
+              }
+            },
+            {
+              "name": "Wild-Mittagessen",
+              "tip_5lang": {
+                "de": "Ein Handtuch für den Sattel wirkt Wunder.",
+                "hu": "Egy törölköző a nyereghez csodákat tesz.",
+                "ro": "Un prosop pentru șa face minuni la întoarcere.",
+                "en": "A towel for the saddle works wonders."
+              }
+            },
+            {
+              "name": "Römer-Lehrpfad (Teilstrecke)",
+              "tip_5lang": {
+                "de": "Achten Sie auf Wurzeln unter dem Schlamm.",
+                "hu": "Vigyázzon a sár alatti rejtett gyökerekre.",
+                "ro": "Atenție la rădăcinile ascunse sub noroi.",
+                "en": "Watch out for tree roots hidden under the mud."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Schutzbleche sind bei diesem Wetter ein Muss.",
+              "Vermeiden Sie riskante Manöver auf nassem Asphalt.",
+              "Tragen Sie gut sichtbare, neonfarbene Regenjacken.",
+              "Reinigen Sie die Kette nach der Tour vom Schlamm."
+            ],
+            "hu": [
+              "A sárvédő elengedhetetlen ilyen időben.",
+              "Kerülje a kockázatos manővereket a vizes aszfalton.",
+              "Viseljen jól látható, neon színű esőkabátot.",
+              "Túra után tisztítsa meg a láncot a sártól."
+            ],
+            "ro": [
+              "Apărătorile sunt obligatorii pe această vreme.",
+              "Evitați manevrele riscante pe asfaltul umed.",
+              "Purtați jachete de ploaie în culori neon.",
+              "Curățați lanțul de noroi imediat după tură."
+            ],
+            "en": [
+              "Mudguards are a must-have in this weather.",
+              "Avoid risky maneuvers on wet asphalt.",
+              "Wear high-visibility, neon rain jackets.",
+              "Clean the mud off your chain after the tour."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte Luft und klare Sicht begleiten die Wintertour. Der Morgenkaffee liefert die nötige Energie. Die Steigungen zur Burg und zum Limes halten den Körper warm, während der Fahrtwind in den Abfahrten beißt. Das Mittagessen ist die verdiente Belohnung in der gemütlichen Stube. Die Nachmittagstour durch den schneebedeckten Wald endet rechtzeitig vor der eisigen Dunkelheit.",
+            "hu": "Hideg levegő és tiszta kilátás kíséri a téli túrát. A reggeli kávé adja meg az energiát. A várromhoz és a Limeshez vezető emelkedők melegen tartják a testet, a lejtőkön viszont harap a szél. Az ebéd megérdemelt jutalom a meleg szobában. A délutáni tekerés a havas erdőben időben véget ér a jeges sötétedés előtt.",
+            "ro": "Aerul rece și vizibilitatea clară însoțesc tura de iarnă. Cafeaua de dimineață oferă energia necesară. Urcările spre cetate și Limes mențin corpul cald, în timp ce vântul pișcă la coborâri. Prânzul este recompensa meritată în sala caldă. Tura de după-amiază prin pădurea înzăpezită se termină înainte de gerul nopții.",
+            "en": "Cold air and clear views accompany the winter tour. Morning coffee provides the necessary energy. The climbs to the castle and Limes keep your body warm, while the wind bites during descents. Lunch is a well-deserved reward in the cozy room. The afternoon ride through the snowy forest ends well before the icy darkness sets in."
+          },
+          "stops": [
+            {
+              "name": "Morgencafé in Klana",
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe und Überschuhe.",
+                "hu": "Viseljen szélálló kesztyűt és kamáslit.",
+                "ro": "Purtați mănuși rezistente la vânt și protecții de încălțăminte.",
+                "en": "Wear windproof gloves and shoe covers."
+              }
+            },
+            {
+              "name": "Crkva sv. Jeronima",
+              "tip_5lang": {
+                "de": "Kurze Pause, damit die Muskeln nicht auskühlen.",
+                "hu": "Csak rövid pihenő, hogy ne hűljenek ki az izmok.",
+                "ro": "Pauză scurtă pentru ca mușchii să nu se răcească.",
+                "en": "Keep the break short so your muscles don't cool down."
+              }
+            },
+            {
+              "name": "Gradina Klana",
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren und sehr hart sein.",
+                "hu": "A talaj fagyott és nagyon kemény lehet.",
+                "ro": "Solul poate fi înghețat și foarte dur.",
+                "en": "The ground can be frozen and very hard."
+              }
+            },
+            {
+              "name": "Liburnijski limes (Erkundungsfahrt)",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eisplatten im Schatten der Bäume.",
+                "hu": "Vigyázzon a jégfoltokra az árnyékos részeken.",
+                "ro": "Atenție la plăcile de gheață din zonele umbrite.",
+                "en": "Watch out for ice patches in the shade of trees."
+              }
+            },
+            {
+              "name": "Wild-Mittagessen",
+              "tip_5lang": {
+                "de": "Füllen Sie Ihre Energiereserven mit Kohlenhydraten.",
+                "hu": "Töltse fel az energiakészleteit szénhidráttal.",
+                "ro": "Refaceți-vă rezervele de energie cu carbohidrați.",
+                "en": "Replenish your energy reserves with carbohydrates."
+              }
+            },
+            {
+              "name": "Römer-Lehrpfad (Teilstrecke)",
+              "tip_5lang": {
+                "de": "Schalten Sie spätestens um 16:00 Uhr das Licht an.",
+                "hu": "Legkésőbb 16:00-kor kapcsolja be a világítást.",
+                "ro": "Aprindeți luminile cel târziu la ora 16:00.",
+                "en": "Turn on your lights by 4:00 PM at the latest."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Winterreifen mit weicherer Mischung helfen.",
+              "Schützen Sie Ihr Gesicht vor dem kalten Fahrtwind.",
+              "Achten Sie auf Akkulaufzeiten bei Kälte (Licht/GPS).",
+              "Trinken Sie trotz Kälte genug Wasser."
+            ],
+            "hu": [
+              "A puhább keverékű téli gumik sokat segítenek.",
+              "Védje arcát a hideg menetszéltől.",
+              "Ügyeljen az akkuk gyorsabb merülésére a hidegben.",
+              "A hideg ellenére is igyon elég vizet."
+            ],
+            "ro": [
+              "Anvelopele de iarnă cu compus moale ajută mult.",
+              "Protejați-vă fața de vântul rece la coborâre.",
+              "Atenție la durata bateriei în frig (lumini/GPS).",
+              "Beți suficientă apă în ciuda frigului."
+            ],
+            "en": [
+              "Winter tires with a softer compound help.",
+              "Protect your face from the cold wind chill.",
+              "Be mindful of shorter battery life in the cold.",
+              "Drink enough water despite the cold temperatures."
+            ]
+          }
+        }
       }
     },
     "car": {
@@ -726,6 +1108,206 @@
           "Refuel in Rijeka before heading into the hinterland.",
           "Parking in the village is straightforward."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisches Wetter stört bei der Fahrt wenig. Nach dem Espresso im Dorf besuchen Sie die Kirche. Die kurze Wanderung zur Burgruine erfordert Schirm und Vorsicht. Die Fahrt zum Limes-Einstieg führt durch den nebligen Wald, was eine mystische Stimmung erzeugt. Das späte Mittagessen ist ein gemütliches Highlight, bevor Sie den Tag entspannt beenden.",
+            "hu": "Az esős idő nem zavarja az autózást. A faluban elfogyasztott eszpresszó után a templomot keressük fel. A rövid séta a várromhoz esernyőt és óvatosságot igényel. Az út a Limeshez a ködös erdőn át vezet, ami misztikus hangulatot áraszt. A késői ebéd a nap fénypontja, mielőtt kényelmesen befejeznénk a programot.",
+            "ro": "Vremea ploioasă nu deranjează condusul. După un espresso în sat, vizitați biserica. Scurta plimbare spre cetate necesită umbrelă și prudență. Drumul spre Limes trece prin pădurea cețoasă, creând o atmosferă mistică. Prânzul târziu este un punct culminant, înainte de a încheia ziua relaxat.",
+            "en": "Rainy weather doesn't hinder the drive much. After an espresso in the village, visit the church. The short walk to the castle ruins requires an umbrella and caution. The drive to the Limes trailhead goes through misty woods, creating a mystical atmosphere. The late lunch is a cozy highlight before ending the day in a relaxed way."
+          },
+          "stops": [
+            {
+              "name": "Ankunft und Espresso",
+              "tip_5lang": {
+                "de": "Parken Sie nah am Café, um trocken zu bleiben.",
+                "hu": "Parkoljon a kávézó közelében, hogy száraz maradjon.",
+                "ro": "Parcați aproape de cafenea pentru a rămâne uscat.",
+                "en": "Park close to the cafe to stay dry."
+              }
+            },
+            {
+              "name": "Crkva sv. Jeronima",
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm im Vorraum abtropfen.",
+                "hu": "Hagyja az esernyőt kicsöpögni az előtérben.",
+                "ro": "Lăsați umbrela la scurs în pridvor.",
+                "en": "Let your umbrella drip dry in the porch area."
+              }
+            },
+            {
+              "name": "Gradina Klana",
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Aussteigen auf nassem Gras.",
+                "hu": "Vigyázzon a vizes fűre a kiszálláskor.",
+                "ro": "Atenție la iarba udă când coborâți din mașină.",
+                "en": "Watch out for wet grass when getting out of the car."
+              }
+            },
+            {
+              "name": "Fahrt zum Limes-Einstieg",
+              "tip_5lang": {
+                "de": "Nebelscheinwerfer im Wald können hilfreich sein.",
+                "hu": "A ködlámpa hasznos lehet az erdei utakon.",
+                "ro": "Farurile de ceață pot fi utile în pădure.",
+                "en": "Fog lights can be helpful on the forest roads."
+              }
+            },
+            {
+              "name": "Liburnijski limes & Römischer Weg",
+              "tip_5lang": {
+                "de": "Kurze Erkundung mit Regenjacke reicht völlig aus.",
+                "hu": "Egy rövid felfedezés esőkabátban is bőven elég.",
+                "ro": "O explorare scurtă cu pelerină este suficientă.",
+                "en": "A short exploration with a rain jacket is sufficient."
+              }
+            },
+            {
+              "name": "Spätes Mittagessen (Wildspezialitäten)",
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den Regen auszusitzen.",
+                "hu": "Ideális hely az eső kivárására.",
+                "ro": "Un loc ideal pentru a aștepta trecerea ploii.",
+                "en": "An ideal place to wait out the rain."
+              }
+            },
+            {
+              "name": "Poučna staza 'Putevima rimskih legionara'",
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen.",
+                "hu": "Maradjon a kijelölt, köves utakon.",
+                "ro": "Rămâneți pe potecile amenajate.",
+                "en": "Stick to the established, gravel paths."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Achten Sie auf Aquaplaning auf den Waldstraßen.",
+              "Halten Sie eine Taschenlampe im Auto bereit.",
+              "Nutzen Sie die Heizung, um Scheiben zu entfeuchten.",
+              "Parkplätze können bei Regen matschig sein."
+            ],
+            "hu": [
+              "Vigyázzon a vízenfutásra az erdei utakon.",
+              "Legyen nálunk zseblámpa az autóban.",
+              "Használja a fűtést a szélvédő páramentesítésére.",
+              "A parkolók esőben sárosak lehetnek."
+            ],
+            "ro": [
+              "Atenție la acvaplanare pe drumurile forestiere.",
+              "Aveți o lanternă pregătită în mașină.",
+              "Folosiți climatizarea pentru dezaburire.",
+              "Parcările pot fi noroioase pe ploaie."
+            ],
+            "en": [
+              "Watch out for aquaplaning on forest roads.",
+              "Keep a flashlight ready in the car.",
+              "Use the heater/AC to defog the windows.",
+              "Parking areas can be muddy in the rain."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Straßen fordern Aufmerksamkeit. Nach dem morgendlichen Aufwärmen im Café bietet die Kirche Ruhe. Die Burgruine im Schnee ist ein tolles Fotomotiv, erfordert aber gute Winterstiefel. Die Fahrt zum Limes führt durch eine weiße Wunderwelt. Das Mittagessen mit Wildspezialitäten wärmt von innen. Die letzte Station am Lehrpfad rundet den Tag ab, bevor es im Dunkeln zurückgeht.",
+            "hu": "A téli utak figyelmet igényelnek. A reggeli bemelegítés után a kávézóban, a templom nyújt nyugalmat. A havas várrom remek fotótéma, de jó téli bakancs kell hozzá. Az út a Limeshez fehér mesevilágon át vezet. A vadas ebéd belülről melegít fel. A tanösvény utolsó állomása zárja a napot, mielőtt sötétben elindulnánk haza.",
+            "ro": "Drumurile de iarnă necesită atenție sporită. După încălzirea de dimineață la cafenea, biserica oferă liniște. Cetatea înzăpezită este un motiv foto excelent, dar necesită ghete bune. Drumul spre Limes trece printr-o lume albă de basm. Prânzul cu vânat vă va încălzi. Ultima oprire pe potecă încheie ziua înainte de plecarea pe întuneric.",
+            "en": "Winter roads demand extra attention. After warming up in the cafe, the church offers tranquility. The snowy castle ruins are a great photo op but require good winter boots. The drive to the Limes takes you through a white wonderland. Lunch with game specialties warms you from the inside. The final stop on the trail rounds out the day before returning in the dark."
+          },
+          "stops": [
+            {
+              "name": "Ankunft und Espresso",
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen.",
+                "hu": "Ne járassa feleslegesen a motort a falu közepén.",
+                "ro": "Nu lăsați motorul pornit inutil în centrul satului.",
+                "en": "Don't leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": "Crkva sv. Jeronima",
+              "tip_5lang": {
+                "de": "Vorsicht vor Eiszapfen an den Dachrinnen.",
+                "hu": "Vigyázzon az ereszekről lógó jégcsapokra.",
+                "ro": "Atenție la țurțurii de pe streșini.",
+                "en": "Watch out for icicles hanging from the gutters."
+              }
+            },
+            {
+              "name": "Gradina Klana",
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie nicht im Schnee stecken bleiben.",
+                "hu": "Úgy parkoljon, hogy ne akadjon el a hóban.",
+                "ro": "Parcați astfel încât să nu rămâneți blocat în zăpadă.",
+                "en": "Park in a way that you won't get stuck in the snow."
+              }
+            },
+            {
+              "name": "Fahrt zum Limes-Einstieg",
+              "tip_5lang": {
+                "de": "Winterreifen und Schneeketten sind hier Pflicht.",
+                "hu": "Téli gumi és hólánc itt kötelező felszerelés.",
+                "ro": "Anvelopele de iarnă și lanțurile sunt obligatorii aici.",
+                "en": "Winter tires and snow chains are mandatory here."
+              }
+            },
+            {
+              "name": "Liburnijski limes & Römischer Weg",
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des verschneiten Waldes.",
+                "hu": "Élvezze a havas erdő különleges csendjét.",
+                "ro": "Bucurați-vă de liniștea pădurii înzăpezite.",
+                "en": "Enjoy the unique silence of the snowy forest."
+              }
+            },
+            {
+              "name": "Spätes Mittagessen (Wildspezialitäten)",
+              "tip_5lang": {
+                "de": "Perfekt, um die Füße wieder aufzuwärmen.",
+                "hu": "Tökéletes hely a lábak felmelegítésére.",
+                "ro": "Perfect pentru a vă reîncălzi picioarele.",
+                "en": "Perfect for warming up your feet."
+              }
+            },
+            {
+              "name": "Poučna staza 'Putevima rimskih legionara'",
+              "tip_5lang": {
+                "de": "Achten Sie auf die Markierungen unter dem Schnee.",
+                "hu": "Keresse a jelzéseket a hó alatt is.",
+                "ro": "Căutați marcajele chiar și sub zăpadă.",
+                "en": "Look for trail markers even under the snow."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Frostschutz in der Waschanlage.",
+              "Halten Sie eine Schneeschaufel im Kofferraum bereit.",
+              "Fahren Sie defensiv bei Glättegefahr.",
+              "Die Straßen nach Klana können schnell vereisen."
+            ],
+            "hu": [
+              "Ellenőrizze a fagyállót a szélvédőmosóban.",
+              "Legyen hólapát a csomagtartóban.",
+              "Vezessen óvatosan a jegesedés veszélye miatt.",
+              "A Klanába vezető utak gyorsan lefagyhatnak."
+            ],
+            "ro": [
+              "Verificați lichidul de parbriz antigrizant.",
+              "Aveți o lopată de zăpadă în portbagaj.",
+              "Conduceți defensiv când există risc de polei.",
+              "Drumurile spre Klana pot îngheța rapid."
+            ],
+            "en": [
+              "Check the antifreeze level in your washer fluid.",
+              "Keep a snow shovel in the trunk.",
+              "Drive defensively when there's a risk of ice.",
+              "The roads to Klana can freeze over quickly."
+            ]
+          }
+        }
       }
     },
     "transit": {
@@ -954,6 +1536,188 @@
           "Buy tickets in advance or from the driver.",
           "Buses run less frequently on weekends."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen macht das Warten an der Bushaltestelle etwas ungemütlich, aber die kurze Distanz zur Kirche hilft. Der Besuch der Burgruine wird zu einem nassen Abenteuer. Das Mittagessen im Dorfzentrum ist die rettende trockene Pause. Der Nachmittag auf dem Lehrpfad ist trotz Regen stimmungsvoll. Ein Tag, der Planung zwischen den Buszeiten und Regenschauern erfordert.",
+            "hu": "Az eső kényelmetlenné teszi a buszra várást, de a templom közelsége segít. A várrom meglátogatása vizes kalanddá válik. Az ebéd a falu központjában a megváltó száraz pihenő. A délutáni tanösvény az eső ellenére is hangulatos. A nap folyamán ügyesen kell sakkozni a buszmenetrend és a záporok között.",
+            "ro": "Ploaia face așteptarea în stație inconfortabilă, dar proximitatea bisericii ajută. Vizita la cetate devine o aventură umedă. Prânzul în centrul satului este pauza uscată salvatoare. Poteca de după-amiază rămâne atmosferică în ciuda ploii. O zi care necesită coordonare între orarul autobuzului și averse.",
+            "en": "Rain makes waiting at the bus stop a bit uncomfortable, but the short distance to the church helps. Visiting the castle ruins turns into a wet adventure. Lunch in the village center is a saving dry break. The afternoon on the trail is atmospheric despite the rain. A day that requires smart planning between bus schedules and rain showers."
+          },
+          "stops": [
+            {
+              "name": "Bushaltestelle Klana (Ankunft)",
+              "tip_5lang": {
+                "de": "Nutzen Sie das Wartehäuschen als ersten Schutz.",
+                "hu": "Használja a buszvárót első menedékként.",
+                "ro": "Folosiți refugiul din stație ca prim adăpost.",
+                "en": "Use the bus shelter as your first cover."
+              }
+            },
+            {
+              "name": "Crkva sv. Jeronima",
+              "tip_5lang": {
+                "de": "Nur 2 Minuten Fußweg von der Haltestelle entfernt.",
+                "hu": "Csak 2 perc séta a buszmegállótól.",
+                "ro": "La doar 2 minute de mers pe jos de stație.",
+                "en": "Only a 2-minute walk from the bus stop."
+              }
+            },
+            {
+              "name": "Gradina Klana",
+              "tip_5lang": {
+                "de": "Der schmale Pfad kann bei Regen zum Bach werden.",
+                "hu": "A keskeny ösvény esőben patakká változhat.",
+                "ro": "Poteca îngustă se poate transforma în pârâu la ploaie.",
+                "en": "The narrow path can turn into a stream in the rain."
+              }
+            },
+            {
+              "name": "Mittagessen im Dorfzentrum",
+              "tip_5lang": {
+                "de": "Idealer Ort, um auf den nächsten Bus zu warten.",
+                "hu": "Ideális hely a következő busz megvárására.",
+                "ro": "Locul ideal pentru a aștepta următorul autobuz.",
+                "en": "Ideal spot to wait for the next bus."
+              }
+            },
+            {
+              "name": "Poučna staza 'Putevima rimskih legionara'",
+              "tip_5lang": {
+                "de": "Achten Sie darauf, nicht die letzte Rückfahrt zu verpassen.",
+                "hu": "Vigyázzon, ne késse le az utolsó visszjáratot.",
+                "ro": "Aveți grijă să nu pierdeți ultima cursă de întoarcere.",
+                "en": "Be careful not to miss the last return bus."
+              }
+            },
+            {
+              "name": "Liburnijski limes (Näherer Teil)",
+              "tip_5lang": {
+                "de": "Kürzen Sie die Route ab, wenn der Regen stärker wird.",
+                "hu": "Rövidítse le az útvonalat, ha erősödik az eső.",
+                "ro": "Scurtați traseul dacă ploaia se intensifică.",
+                "en": "Shorten the route if the rain gets heavier."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Prüfen Sie den Autotrolej-Fahrplan (Linie 11).",
+              "Tragen Sie wasserfeste Kleidung für die Wartezeit.",
+              "Ein Schirm ist im Wind oft unhandlich, nutzen Sie Capes.",
+              "Die Haltestellen sind nicht alle überdacht."
+            ],
+            "hu": [
+              "Ellenőrizze az Autotrolej (11-es vonal) menetrendjét.",
+              "Viseljen vízálló ruhát a várakozáshoz.",
+              "A szélben az ernyő kényelmetlen, használjon poncsót.",
+              "Nem minden megálló fedett."
+            ],
+            "ro": [
+              "Verificați orarul Autotrolej (linia 11).",
+              "Purtați haine impermeabile pentru așteptare.",
+              "Umbrela e greu de folosit pe vânt, alegeți pelerina.",
+              "Nu toate stațiile sunt acoperite."
+            ],
+            "en": [
+              "Check the Autotrolej schedule (Line 11/11A).",
+              "Wear waterproof clothing for the wait times.",
+              "Umbrellas can be tricky in the wind; use a poncho.",
+              "Not all bus stops are covered."
+            ]
+          }
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start an der Haltestelle wird durch den heißen Kaffee im Dorf wettgemacht. Die Besichtigung der Kirche bietet andächtige Wärme. Die verschneite Burgruine ist ein Highlight für Winterwanderer. Das Mittagessen im Zentrum stärkt für den Nachmittag im Frost. Der Lehrpfad wirkt im Winterschlaf besonders friedlich, bevor der Bus Sie im warmen Innenraum zurückbringt.",
+            "hu": "A megállóban átfagyott lábakat a forró kávé kárpótolja. A templomlátogatás áhítatos meleget ad. A havas várrom a téli túrázók fénypontja. A központi ebéd után jöhet a délutáni fagyos séta. A tanösvény a téli álom idején különösen békés, mielőtt a busz meleg utastere visszarepítene a városba.",
+            "ro": "Picioarele înghețate în stație sunt compensate de cafeaua fierbinte. Vizita la biserică oferă o căldură solemnă. Cetatea înzăpezită este un punct culminant pentru drumeți. Prânzul central vă pregătește pentru după-amiaza geroasă. Poteca pare deosebit de pașnică în somnul iernii, înainte ca autobuzul să vă preia.",
+            "en": "Cold feet at the bus stop are compensated by hot coffee in the village. The church visit offers a solemn warmth. The snowy castle ruins are a highlight for winter hikers. A central lunch prepares you for a frosty afternoon. The trail feels especially peaceful during its winter sleep before the warm bus cabin takes you back."
+          },
+          "stops": [
+            {
+              "name": "Bushaltestelle Klana (Ankunft)",
+              "tip_5lang": {
+                "de": "Bewegen Sie sich, um an der Haltestelle warm zu bleiben.",
+                "hu": "Mozogjon folyamatosan a megállóban, hogy ne fázzon.",
+                "ro": "Muntați-vă continuu în stație pentru a vă încălzi.",
+                "en": "Keep moving at the bus stop to stay warm."
+              }
+            },
+            {
+              "name": "Crkva sv. Jeronima",
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich kurz aufzuwärmen.",
+                "hu": "Csendes hely egy rövid felmelegedéshez.",
+                "ro": "Un loc liniștit pentru o scurtă încălzire.",
+                "en": "A quiet place for a quick warm-up."
+              }
+            },
+            {
+              "name": "Gradina Klana",
+              "tip_5lang": {
+                "de": "Der Pfad kann vereist sein, gehen Sie vorsichtig.",
+                "hu": "Az ösvény jeges lehet, óvatosan lépkedjen.",
+                "ro": "Poteca poate fi înghețată, mergeți cu prudență.",
+                "en": "The path may be icy; tread carefully."
+              }
+            },
+            {
+              "name": "Mittagessen im Dorfzentrum",
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für ein warmes Getränk.",
+                "hu": "Használja ki az időt egy forró italra.",
+                "ro": "Folosiți timpul pentru o băutură fierbinte.",
+                "en": "Take the opportunity to have a hot drink."
+              }
+            },
+            {
+              "name": "Poučna staza 'Putevima rimskih legionara'",
+              "tip_5lang": {
+                "de": "Im Winter sind weniger Wanderer unterwegs.",
+                "hu": "Télen sokkal kevesebb a túrázó az utakon.",
+                "ro": "Iarna sunt mult mai puțini drumeți pe traseu.",
+                "en": "There are much fewer hikers on the trail in winter."
+              }
+            },
+            {
+              "name": "Liburnijski limes (Näherer Teil)",
+              "tip_5lang": {
+                "de": "Seien Sie 10 Minuten vor Busabfahrt an der Haltestelle.",
+                "hu": "Legyen kint a megállóban 10 perccel indulás előtt.",
+                "ro": "Fiți în stație cu 10 minute înainte de plecare.",
+                "en": "Be at the bus stop 10 minutes before departure."
+              }
+            }
+          ],
+          "tips": {
+            "de": [
+              "Busse können bei starkem Schneefall Verspätung haben.",
+              "Tragen Sie Thermounterwäsche für die Wartezeiten.",
+              "Die Haltestellenanzeigen sind im Winter oft beschlagen.",
+              "Nehmen Sie Kleingeld für das Ticket mit."
+            ],
+            "hu": [
+              "Erős havazáskor a buszok késhetnek.",
+              "Viseljen termó aláöltözetet a várakozáshoz.",
+              "A megállókban a menetrendek télen párásak lehetnek.",
+              "Legyen nálunk aprópénz a jegyhez."
+            ],
+            "ro": [
+              "Autobuzele pot avea întârzieri la ninsori puternice.",
+              "Purtați lenjerie termică pentru perioadele de așteptare.",
+              "Orarele din stații pot fi ilizibile din cauza condensului.",
+              "Aveți pregătit mărunt pentru bilet."
+            ],
+            "en": [
+              "Buses may be delayed during heavy snowfall.",
+              "Wear thermal underwear for the wait times.",
+              "Schedules at stops might be fogged up in winter.",
+              "Have some small change ready for the ticket."
+            ]
+          }
+        }
       }
     }
   }
