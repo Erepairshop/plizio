@@ -66,13 +66,13 @@
     var list = el.querySelector(".plz-pl-list");
     if (!r.length) { list.innerHTML = '<li class="plz-pl-empty">' + t.empty + "</li>"; el.querySelector(".plz-pl-meta").textContent = ""; return; }
     var total = 0, walk = 0; r.forEach(function (s) { total += s.dur + s.walk; walk += s.walk; });
-    el.querySelector(".plz-pl-meta").innerHTML = "<b>" + r.length + "</b> " + t.stops + " · ~<b>" + fmtMin(total, t) + "</b> · " + walk + " " + t.walk;
+    el.querySelector(".plz-pl-meta").innerHTML = "<b>" + r.length + "</b> " + t.stops + " &middot; ~<b>" + fmtMin(total, t) + "</b> &middot; " + walk + " " + t.walk;
     list.innerHTML = r.map(function (s, i) {
       var p = s.p, lbl = (t.types[p.t] || p.t), nm = p.u ? ('<a href="' + esc(p.u) + '">' + esc(p.n) + "</a>") : esc(p.n);
-      var w = s.walk ? ('<div class="plz-pl-walk">' + WALK_SVG + s.walk + " " + t.walk + " · " + p.d + " km</div>') : "";
+      var w = s.walk ? ('<div class="plz-pl-walk">' + WALK_SVG + s.walk + " " + t.walk + " &middot; " + p.d + " km</div>") : "";
       return w + '<li class="plz-pl-stop"><div class="plz-pl-rail"><div class="plz-pl-num">' + (i + 1) + "</div>" + (i < r.length - 1 ? '<div class="plz-pl-line"></div>' : "") + "</div>" +
         '<div class="plz-pl-body"><div class="plz-pl-card"><h3>' + nm + "</h3>" +
-        '<div class="plz-pl-tags"><span class="plz-pl-tag">' + esc(lbl) + '</span><span class="plz-pl-tag g">⏳ ' + (TYPE_META[p.t] || { m: 30 }).m + " " + t.min + "</span></div></div></div></li>";
+        '<div class="plz-pl-tags"><span class="plz-pl-tag">' + esc(lbl) + '</span><span class="plz-pl-tag g">&#9203; ' + (TYPE_META[p.t] || { m: 30 }).m + " " + t.min + "</span></div></div></div></li>";
     }).join("");
   }
 
