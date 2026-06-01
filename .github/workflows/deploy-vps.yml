@@ -185,13 +185,14 @@ jobs:
           echo "POI HTML count: $COUNT"
           test "$COUNT" -gt 100000
 
-      - name: Force sitemap.xml index into out/ (Next 16 export omits it)
+      - name: Build sitemap.xml index from actual chunks (Next 16 export omits it)
         run: |
           set -euo pipefail
-          cp public/sitemap.xml out/sitemap.xml
+          node scripts/build-sitemap-index.mjs
           test -f out/sitemap.xml
           test -s out/sitemap.xml
           head -3 out/sitemap.xml
+          echo "index chunk count: $(grep -c '<sitemap>' out/sitemap.xml)"
 
       - name: Generate image sitemap (for Google Image discovery)
         env:

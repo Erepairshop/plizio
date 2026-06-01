@@ -385,6 +385,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     en: ["Sights", "Map", "Weather", "News", "History"],
     fr: ["Sites touristiques", "Carte", "Météo", "Actualités", "Histoire"],
     tr: ["Gezilecek yerler", "Harita", "Hava durumu", "Haberler", "Tarih"],
+    hr: ["Znamenitosti", "Karta", "Vrijeme", "Vijesti", "Povijest"],
   },
   castle: {
     de: ["Burg", "Geschichte", "Karte", "Fotos", "Wetter"],
@@ -393,6 +394,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     en: ["Castle", "History", "Map", "Photos", "Weather"],
     fr: ["Château", "Histoire", "Carte", "Photos", "Météo"],
     tr: ["Kale", "Tarih", "Harita", "Fotoğraflar", "Hava durumu"],
+    hr: ["Dvorac", "Povijest", "Karta", "Fotografije", "Vrijeme"],
   },
   mountain: {
     de: ["Wandern", "Karte", "Wetter", "Fotos", "Höhe"],
@@ -401,6 +403,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     en: ["Hiking", "Map", "Weather", "Photos", "Elevation"],
     fr: ["Randonnée", "Carte", "Météo", "Photos", "Altitude"],
     tr: ["Yürüyüş", "Harita", "Hava durumu", "Fotoğraflar", "Yükseklik"],
+    hr: ["Planinarenje", "Karta", "Vrijeme", "Fotografije", "Visina"],
   },
   lake: {
     de: ["Strände", "Karte", "Wetter", "Sehenswürdigkeiten", "Fotos"],
@@ -409,6 +412,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     en: ["Beaches", "Map", "Weather", "Sights", "Photos"],
     fr: ["Plages", "Carte", "Météo", "Sites", "Photos"],
     tr: ["Plajlar", "Harita", "Hava durumu", "Gezilecek yerler", "Fotoğraflar"],
+    hr: ["Plaže", "Karta", "Vrijeme", "Znamenitosti", "Fotografije"],
   },
   river: {
     de: ["Karte", "Verlauf", "Sehenswürdigkeiten", "Wetter", "Fotos"],
@@ -417,6 +421,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     en: ["Map", "Course", "Sights", "Weather", "Photos"],
     fr: ["Carte", "Cours", "Sites", "Météo", "Photos"],
     tr: ["Harita", "Akış", "Gezilecek yerler", "Hava durumu", "Fotoğraflar"],
+    hr: ["Karta", "Tok", "Znamenitosti", "Vrijeme", "Fotografije"],
   },
   historical: {
     de: ["Geschichte", "Karte", "Sehenswürdigkeiten", "Fotos", "Besuch"],
@@ -425,6 +430,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     en: ["History", "Map", "Sights", "Photos", "Visit"],
     fr: ["Histoire", "Carte", "Sites", "Photos", "Visite"],
     tr: ["Tarih", "Harita", "Gezilecek yerler", "Fotoğraflar", "Ziyaret"],
+    hr: ["Povijest", "Karta", "Znamenitosti", "Fotografije", "Posjet"],
   },
   landmark: {
     de: ["Sehenswürdigkeiten", "Karte", "Fotos", "Geschichte", "Wetter"],
@@ -433,6 +439,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     en: ["Sights", "Map", "Photos", "History", "Weather"],
     fr: ["Sites touristiques", "Carte", "Photos", "Histoire", "Météo"],
     tr: ["Gezilecek yerler", "Harita", "Fotoğraflar", "Tarih", "Hava durumu"],
+    hr: ["Znamenitosti", "Karta", "Fotografije", "Povijest", "Vrijeme"],
   },
   nature: {
     de: ["Karte", "Wetter", "Wandern", "Fotos", "Natur"],
@@ -441,6 +448,7 @@ const TITLE_KEYWORDS: Record<string, Partial<Record<Lang, string[]>>> = {
     en: ["Map", "Weather", "Hiking", "Photos", "Nature"],
     fr: ["Carte", "Météo", "Randonnée", "Photos", "Nature"],
     tr: ["Harita", "Hava durumu", "Yürüyüş", "Fotoğraflar", "Doğa"],
+    hr: ["Karta", "Vrijeme", "Planinarenje", "Fotografije", "Priroda"],
   },
 };
 const TYPE_ALIAS: Record<string, string> = {
@@ -721,6 +729,7 @@ const CONSTEL_I18N: Record<string, { title: string; sub: string; lt1: string; go
   en: { title: "Explore nearby", sub: "Notable places around", lt1: "<1 km", go: "Explore", dirs: ["N", "NE", "E", "SE", "S", "SW", "W", "NW"], comp: ["N", "E", "S", "W"] },
   fr: { title: "Explorez les environs", sub: "Lieux remarquables à proximité", lt1: "<1 km", go: "Explorer", dirs: ["N", "NE", "E", "SE", "S", "SO", "O", "NO"], comp: ["N", "E", "S", "O"] },
   tr: { title: "Çevreyi keşfet", sub: "Yakındaki ilgi çekici yerler", lt1: "<1 km", go: "Keşfet", dirs: ["K", "KD", "D", "GD", "G", "GB", "B", "KB"], comp: ["K", "D", "G", "B"] },
+  hr: { title: "Istražite okolicu", sub: "Zanimljiva mjesta u blizini", lt1: "<1 km", go: "Istraži", dirs: ["S", "SI", "I", "JI", "J", "JZ", "Z", "SZ"], comp: ["S", "I", "J", "Z"] },
 };
 
 function renderConstellation(poi: POI, lang: Lang): string {
@@ -850,47 +859,47 @@ function getLocalized<T>(obj: Partial<Record<string, T>> | undefined, lang: Lang
 }
 
 const TYPE_LABEL: Record<string, Partial<Record<Lang, string>>> = {
-  city: { de: "Stadt", hu: "Város", ro: "Oraș", en: "City" },
-  "state-capital": { de: "Landeshauptstadt", hu: "Tartományi főváros", ro: "Capitală regiune", en: "State capital" },
-  mountain: { de: "Berg", hu: "Hegy", ro: "Munte", en: "Mountain" },
-  river: { de: "Fluss", hu: "Folyó", ro: "Râu", en: "River" },
-  lake: { de: "See", hu: "Tó", ro: "Lac", en: "Lake" },
-  island: { de: "Insel", hu: "Sziget", ro: "Insulă", en: "Island" },
-  landmark: { de: "Sehenswürdigkeit", hu: "Nevezetesség", ro: "Punct de reper", en: "Landmark" },
-  historical: { de: "Historischer Ort", hu: "Történelmi hely", ro: "Sit istoric", en: "Historical site" },
-  forest: { de: "Wald", hu: "Erdő", ro: "Pădure", en: "Forest" },
-  sea: { de: "Meer", hu: "Tenger", ro: "Mare", en: "Sea" },
-  port: { de: "Hafen", hu: "Kikötő", ro: "Port", en: "Port" },
-  industry: { de: "Industriegebiet", hu: "Ipari terület", ro: "Zonă industrială", en: "Industrial site" },
-  agriculture: { de: "Landwirtschaft", hu: "Mezőgazdaság", ro: "Agricultură", en: "Agriculture" },
-  relief: { de: "Geländeform", hu: "Domborzat", ro: "Relief", en: "Relief" },
-  "animal-habitat": { de: "Tierlebensraum", hu: "Élőhely", ro: "Habitat animal", en: "Animal habitat" },
+  city: { de: "Stadt", hu: "Város", ro: "Oraș", en: "City", hr: "Grad" },
+  "state-capital": { de: "Landeshauptstadt", hu: "Tartományi főváros", ro: "Capitală regiune", en: "State capital", hr: "Glavni grad regije" },
+  mountain: { de: "Berg", hu: "Hegy", ro: "Munte", en: "Mountain", hr: "Planina" },
+  river: { de: "Fluss", hu: "Folyó", ro: "Râu", en: "River", hr: "Rijeka" },
+  lake: { de: "See", hu: "Tó", ro: "Lac", en: "Lake", hr: "Jezero" },
+  island: { de: "Insel", hu: "Sziget", ro: "Insulă", en: "Island", hr: "Otok" },
+  landmark: { de: "Sehenswürdigkeit", hu: "Nevezetesség", ro: "Punct de reper", en: "Landmark", hr: "Znamenitost" },
+  historical: { de: "Historischer Ort", hu: "Történelmi hely", ro: "Sit istoric", en: "Historical site", hr: "Povijesno mjesto" },
+  forest: { de: "Wald", hu: "Erdő", ro: "Pădure", en: "Forest", hr: "Šuma" },
+  sea: { de: "Meer", hu: "Tenger", ro: "Mare", en: "Sea", hr: "More" },
+  port: { de: "Hafen", hu: "Kikötő", ro: "Port", en: "Port", hr: "Luka" },
+  industry: { de: "Industriegebiet", hu: "Ipari terület", ro: "Zonă industrială", en: "Industrial site", hr: "Industrijska zona" },
+  agriculture: { de: "Landwirtschaft", hu: "Mezőgazdaság", ro: "Agricultură", en: "Agriculture", hr: "Poljoprivreda" },
+  relief: { de: "Geländeform", hu: "Domborzat", ro: "Relief", en: "Relief", hr: "Reljef" },
+  "animal-habitat": { de: "Tierlebensraum", hu: "Élőhely", ro: "Habitat animal", en: "Animal habitat", hr: "Stanište životinja" },
 };
 
 const I18N: Record<string, Partial<Record<Lang, string>>> = {
-  facts: { de: "Fakten", hu: "Tények", ro: "Fapte", en: "Facts" },
-  details: { de: "Details", hu: "Részletek", ro: "Detalii", en: "Details" },
-  geography: { de: "Geographie", hu: "Földrajz", ro: "Geografie", en: "Geography" },
-  elevation: { de: "Höhe", hu: "Magasság", ro: "Altitudine", en: "Elevation" },
-  length: { de: "Länge", hu: "Hossz", ro: "Lungime", en: "Length" },
-  area: { de: "Fläche", hu: "Terület", ro: "Suprafață", en: "Area" },
-  coordinates: { de: "Koordinaten", hu: "Koordináták", ro: "Coordonate", en: "Coordinates" },
-  related: { de: "Verwandte Orte", hu: "Kapcsolódó helyek", ro: "Locuri conexe", en: "Related places" },
-  cities: { de: "Städte in der Nähe", hu: "Közeli városok", ro: "Orașe din apropiere", en: "Nearby cities" },
-  history: { de: "Geschichte & Sehenswürdigkeiten", hu: "Történelem és látnivalók", ro: "Istorie și obiective", en: "History & landmarks" },
-  nature: { de: "Natur", hu: "Természet", ro: "Natură", en: "Nature" },
-  more: { de: "Weitere Orte", hu: "További helyek", ro: "Mai multe locuri", en: "More places" },
-  didYouKnow: { de: "💡 Wusstest du?", hu: "💡 Tudtad?", ro: "💡 Știai că?", en: "💡 Did you know?" },
-  gameTitle: { de: "Probiere es spielerisch aus", hu: "Próbáld ki játékos formában", ro: "Învață jucând", en: "Try it with games" },
-  gameIntro: { de: "Lerne diesen Ort durch Spiele und Tests.", hu: "Ismerd meg ezt a helyet játékokon és teszteken keresztül.", ro: "Cunoaște acest loc prin jocuri și teste.", en: "Learn about this place through games and quizzes." },
-  gamePlay: { de: "🎮 Astro-Spiel starten", hu: "🎮 Indítsd az Astro játékot", ro: "🎮 Pornește jocul Astro", en: "🎮 Start astro game" },
-  gameTest: { de: "📝 Test machen", hu: "📝 Csinálj tesztet", ro: "📝 Fă un test", en: "📝 Take a quiz" },
-  viewMap: { de: "Auf der Karte ansehen", hu: "Megtekintés a térképen", ro: "Vezi pe hartă", en: "View on map" },
-  viewOSM: { de: "OpenStreetMap", hu: "OpenStreetMap", ro: "OpenStreetMap", en: "OpenStreetMap" },
-  home: { de: "Startseite", hu: "Főoldal", ro: "Acasă", en: "Home" },
-  langs: { de: "Sprachen", hu: "Nyelvek", ro: "Limbi", en: "Languages" },
-  sightsInTown: { de: "Sehenswürdigkeiten in der Stadt", hu: "Látnivalók a városban", ro: "Obiective turistice în oraș", en: "Sights in the town" },
-  nearbySights: { de: "In der Umgebung", hu: "Környékbeli látnivalók", ro: "Obiective din împrejurimi", en: "Sights nearby" },
+  facts: { de: "Fakten", hu: "Tények", ro: "Fapte", en: "Facts", hr: "Činjenice" },
+  details: { de: "Details", hu: "Részletek", ro: "Detalii", en: "Details", hr: "Detalji" },
+  geography: { de: "Geographie", hu: "Földrajz", ro: "Geografie", en: "Geography", hr: "Zemljopis" },
+  elevation: { de: "Höhe", hu: "Magasság", ro: "Altitudine", en: "Elevation", hr: "Visina" },
+  length: { de: "Länge", hu: "Hossz", ro: "Lungime", en: "Length", hr: "Duljina" },
+  area: { de: "Fläche", hu: "Terület", ro: "Suprafață", en: "Area", hr: "Površina" },
+  coordinates: { de: "Koordinaten", hu: "Koordináták", ro: "Coordonate", en: "Coordinates", hr: "Koordinate" },
+  related: { de: "Verwandte Orte", hu: "Kapcsolódó helyek", ro: "Locuri conexe", en: "Related places", hr: "Povezana mjesta" },
+  cities: { de: "Städte in der Nähe", hu: "Közeli városok", ro: "Orașe din apropiere", en: "Nearby cities", hr: "Gradovi u blizini" },
+  history: { de: "Geschichte & Sehenswürdigkeiten", hu: "Történelem és látnivalók", ro: "Istorie și obiective", en: "History & landmarks", hr: "Povijest i znamenitosti" },
+  nature: { de: "Natur", hu: "Természet", ro: "Natură", en: "Nature", hr: "Priroda" },
+  more: { de: "Weitere Orte", hu: "További helyek", ro: "Mai multe locuri", en: "More places", hr: "Više mjesta" },
+  didYouKnow: { de: "💡 Wusstest du?", hu: "💡 Tudtad?", ro: "💡 Știai că?", en: "💡 Did you know?", hr: "💡 Jeste li znali?" },
+  gameTitle: { de: "Probiere es spielerisch aus", hu: "Próbáld ki játékos formában", ro: "Învață jucând", en: "Try it with games", hr: "Isprobaj kroz igru" },
+  gameIntro: { de: "Lerne diesen Ort durch Spiele und Tests.", hu: "Ismerd meg ezt a helyet játékokon és teszteken keresztül.", ro: "Cunoaște acest loc prin jocuri și teste.", en: "Learn about this place through games and quizzes.", hr: "Upoznaj ovo mjesto kroz igre i kvizove." },
+  gamePlay: { de: "🎮 Astro-Spiel starten", hu: "🎮 Indítsd az Astro játékot", ro: "🎮 Pornește jocul Astro", en: "🎮 Start astro game", hr: "🎮 Pokreni Astro igru" },
+  gameTest: { de: "📝 Test machen", hu: "📝 Csinálj tesztet", ro: "📝 Fă un test", en: "📝 Take a quiz", hr: "📝 Riješi kviz" },
+  viewMap: { de: "Auf der Karte ansehen", hu: "Megtekintés a térképen", ro: "Vezi pe hartă", en: "View on map", hr: "Pogledaj na karti" },
+  viewOSM: { de: "OpenStreetMap", hu: "OpenStreetMap", ro: "OpenStreetMap", en: "OpenStreetMap", hr: "OpenStreetMap" },
+  home: { de: "Startseite", hu: "Főoldal", ro: "Acasă", en: "Home", hr: "Početna" },
+  langs: { de: "Sprachen", hu: "Nyelvek", ro: "Limbi", en: "Languages", hr: "Jezici" },
+  sightsInTown: { de: "Sehenswürdigkeiten in der Stadt", hu: "Látnivalók a városban", ro: "Obiective turistice în oraș", en: "Sights in the town", hr: "Znamenitosti u gradu" },
+  nearbySights: { de: "In der Umgebung", hu: "Környékbeli látnivalók", ro: "Obiective din împrejurimi", en: "Sights nearby", hr: "Znamenitosti u blizini" },
 };
 
 // Lang fallback: tr → de, fr → en (most strings only have 4 langs filled).
@@ -1071,6 +1080,7 @@ const PRACTICAL_COPY: Record<string, Record<string, string>> = {
   ro: { title: "📋 Informații practice", address: "Adresă", openingHours: "Program", entranceFee: "Intrare", website: "Site oficial", publicTransport: "Transport public", parking: "Parcare", accessibility: "Accesibilitate", photoRules: "Fotografii", bestTimeToVisit: "Cel mai bun moment", audioGuide: "Audioghid" },
   fr: { title: "📋 Infos pratiques", address: "Adresse", openingHours: "Horaires", entranceFee: "Entrée", website: "Site officiel", publicTransport: "Transports", parking: "Stationnement", accessibility: "Accessibilité", photoRules: "Photos", bestTimeToVisit: "Meilleur moment", audioGuide: "Audioguide" },
   tr: { title: "📋 Pratik bilgiler", address: "Adres", openingHours: "Çalışma saatleri", entranceFee: "Giriş", website: "Resmi site", publicTransport: "Toplu taşıma", parking: "Otopark", accessibility: "Erişilebilirlik", photoRules: "Fotoğraf", bestTimeToVisit: "En iyi zaman", audioGuide: "Sesli rehber" },
+  hr: { title: "📋 Praktične informacije", address: "Adresa", openingHours: "Radno vrijeme", entranceFee: "Ulaznica", website: "Službena stranica", publicTransport: "Javni prijevoz", parking: "Parking", accessibility: "Pristupačnost", photoRules: "Fotografiranje", bestTimeToVisit: "Najbolje vrijeme", audioGuide: "Audiovodič" },
 };
 
 function renderPracticalInfo(poi: POI, lang: Lang): string {
@@ -1112,6 +1122,7 @@ const ITIN_COPY: Record<Lang, Record<string, string>> = {
   ro: { title: "O zi în oraș", intro: "Alege vremea + un mod de transport, primește un plan concret.", modeWalk: "🚶 Pe jos", modeBike: "🚲 Bicicletă", modeCar: "🚗 Mașină", modeTransit: "🚌 Transport public", unitWalk: "mers", unitBike: "ciclism", unitCar: "condus", unitTransit: "drum", places: "locuri", tipsHeading: "💡 Sfaturi locale", moreTipsHeading: "⭐ Sugestii suplimentare", navHere: "Traseu", navTo: "Du-te aici", resTitle: "🧰 Instrumente la îndemână", resIntro: "Tot ce ai nevoie pentru vizită — la un clic distanță.", bestTime: "📅 Când să vizitezi", warnings: "⚠️ Unde să fii atent", langTips: "🗣️ Sfaturi rapide de limbă", wSunny: "☀️ Vreme bună", wRainy: "☔ Ploaie", wWinter: "❄️ Iarnă", goLabel: "Hai", extrasLabel: "⭐ Sugestii suplimentare", toolsLabel: "🧰 Instrumente la îndemână", swipeHint: "← glisează pentru mai multe →" },
   fr: { title: "Une journée dans la ville", intro: "Choisis la météo + ton mode de transport, reçois un plan concret.", modeWalk: "🚶 À pied", modeBike: "🚲 Vélo", modeCar: "🚗 Voiture", modeTransit: "🚌 Transports", unitWalk: "marche", unitBike: "vélo", unitCar: "route", unitTransit: "trajet", places: "lieux", tipsHeading: "💡 Conseils locaux", moreTipsHeading: "⭐ Autres recommandations", navHere: "Itinéraire", navTo: "S'y rendre", resTitle: "🧰 Outils à portée de main", resIntro: "Tout ce qu'il faut pour la visite — en un clic.", bestTime: "📅 Quand y aller", warnings: "⚠️ Où faire attention", langTips: "🗣️ Astuce linguistique", wSunny: "☀️ Beau temps", wRainy: "☔ Pluie", wWinter: "❄️ Hiver", goLabel: "C'est parti", extrasLabel: "⭐ Autres recommandations", toolsLabel: "🧰 Outils à portée de main", swipeHint: "← glisse pour plus →" },
   tr: { title: "Şehirde bir gün", intro: "Hava + ulaşım modunu seç, somut bir günlük plan al.", modeWalk: "🚶 Yürüyerek", modeBike: "🚲 Bisiklet", modeCar: "🚗 Araba", modeTransit: "🚌 Toplu taşıma", unitWalk: "yürüyüş", unitBike: "sürüş", unitCar: "yolculuk", unitTransit: "yolculuk", places: "yer", tipsHeading: "💡 Yerel ipuçları", moreTipsHeading: "⭐ Daha fazla öneri", navHere: "Rota", navTo: "Buraya git", resTitle: "🧰 Elinizin altında", resIntro: "Ziyaret için gereken her şey — bir tık uzakta.", bestTime: "📅 Ne zaman gidilmeli", warnings: "⚠️ Nerede dikkatli olunmalı", langTips: "🗣️ Dil ipucu", wSunny: "☀️ Güneşli", wRainy: "☔ Yağmurlu", wWinter: "❄️ Kış", goLabel: "Haydi", extrasLabel: "⭐ Daha fazla öneri", toolsLabel: "🧰 Elinizin altında", swipeHint: "← daha fazla yer için kaydır →" },
+  hr: { title: "Jedan dan u gradu", intro: "Odaberi vrijeme + način prijevoza i dobij konkretan dnevni plan.", modeWalk: "🚶 Pješice", modeBike: "🚲 Bicikl", modeCar: "🚗 Auto", modeTransit: "🚌 Javni prijevoz", unitWalk: "hodanja", unitBike: "vožnje", unitCar: "vožnje", unitTransit: "puta", places: "mjesta", tipsHeading: "💡 Lokalni savjeti", moreTipsHeading: "⭐ Više preporuka", navHere: "Ruta", navTo: "Kreni ovamo", resTitle: "🧰 Alati pri ruci", resIntro: "Sve što ti treba za posjet — jedan klik daleko.", bestTime: "📅 Kada posjetiti", warnings: "⚠️ Gdje biti oprezan", langTips: "🗣️ Brzi jezični savjet", wSunny: "☀️ Sunčano", wRainy: "☔ Kiša", wWinter: "❄️ Zima", goLabel: "Idemo", extrasLabel: "⭐ Više preporuka", toolsLabel: "🧰 Alati pri ruci", swipeHint: "← klizni za više mjesta →" },
 };
 const TRAVEL_MODE: Record<string, string> = { walk: "walking", bike: "bicycling", car: "driving", transit: "transit" };
 const CAT_ICON: Record<string, string> = { square: "📍", historical: "🏛️", religious: "⛪", museum: "🎨", park: "🏞️", gastro: "🍽️", panorama: "🌅" };
@@ -1143,6 +1154,7 @@ function renderCostEstimate(stops: any[], mode: string, totalKm: number, lang: L
     en: { cost: "Day budget", entry: "Entries", trans: "Transport" },
     fr: { cost: "Budget jour", entry: "Entrées", trans: "Transport" },
     tr: { cost: "Günlük bütçe", entry: "Giriş", trans: "Ulaşım" },
+    hr: { cost: "Dnevni proračun", entry: "Ulaznice", trans: "Prijevoz" },
   };
   const t = L[lang] || L.en!;
   return `<div class="plz-itin-cost"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6"/></svg><strong>${t.cost}: ≈ ${lo}–${hi} €</strong><span class="plz-itin-cost-detail">${t.entry} ${entries}€ · ${t.trans} ${transport}€</span></div>`;
@@ -1397,7 +1409,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
   // PlizioGo "explore nearby cities": link unfamiliar nearby towns to our own POI
   // pages so the user discovers them from within our system. City-like POIs only.
   const _nc = getNearbyCities(poi, 6, 90, 4);
-  const _ncLabel = ({ de: "Entdecke Städte in der Nähe", hu: "Fedezd fel a közeli városokat", ro: "Descoperă orașe din apropiere", en: "Discover nearby cities", fr: "Découvrez les villes proches", tr: "Yakındaki şehirleri keşfet" } as Record<string, string>)[lang] || "Discover nearby cities";
+  const _ncLabel = ({ de: "Entdecke Städte in der Nähe", hu: "Fedezd fel a közeli városokat", ro: "Descoperă orașe din apropiere", en: "Discover nearby cities", fr: "Découvrez les villes proches", tr: "Yakındaki şehirleri keşfet", hr: "Otkrijte gradove u blizini" } as Record<string, string>)[lang] || "Discover nearby cities";
   const nearbyCitiesHtml = _nc.length >= 3
     ? `<section style="margin-top:14px;padding:14px;background:linear-gradient(135deg,#0e1633,#0a0f24);border:1px solid #2a3a66;border-radius:14px"><h3 style="margin:0 0 10px;font-size:15px;color:#cfe3ff">🧭 ${escapeHtml(_ncLabel)}</h3><div style="display:flex;gap:10px;overflow-x:auto;padding-bottom:4px">`
       + _nc.map(({ p, km }) => {
@@ -1503,6 +1515,7 @@ function renderTabNav(lang: Lang, opts: { hasItin: boolean; hasSights: boolean; 
     en: { overview: "Overview", itin: "Itinerary", sights: "Sights", info: "Info" },
     fr: { overview: "Aperçu", itin: "Itinéraire", sights: "Sites", info: "Info" },
     tr: { overview: "Genel", itin: "Plan", sights: "Yerler", info: "Bilgi" },
+    hr: { overview: "Pregled", itin: "Plan puta", sights: "Znamenitosti", info: "Info" },
   };
   const t = L[lang] || L.en!;
   const tabs: string[] = [`<a class="plz-tab" href="#sec-overview" data-tab="overview">${t.overview}</a>`];
@@ -1525,6 +1538,7 @@ function renderMobileFab(poi: POI, lang: Lang, name: string): string {
     en: { nav: "Navigate", save: "Save", share: "Share", saved: "Saved", copy: "Link copied" },
     fr: { nav: "Naviguer", save: "Enregistrer", share: "Partager", saved: "Enregistré", copy: "Lien copié" },
     tr: { nav: "Yönlendir", save: "Kaydet", share: "Paylaş", saved: "Kaydedildi", copy: "Bağlantı kopyalandı" },
+    hr: { nav: "Navigiraj", save: "Spremi", share: "Podijeli", saved: "Spremljeno", copy: "Poveznica kopirana" },
   };
   const t = L[lang] || L.en!;
   return `<aside class="plz-fab" role="toolbar" aria-label="${escapeHtml(name)} actions">
@@ -1768,6 +1782,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     en: { now: "Now", forecast: "5-day forecast", loading: "Weather…" },
     fr: { now: "Maintenant", forecast: "Prévisions sur 5 jours", loading: "Météo…" },
     tr: { now: "Şimdi", forecast: "5 günlük tahmin", loading: "Hava durumu…" },
+    hr: { now: "Sada", forecast: "Prognoza za 5 dana", loading: "Vrijeme…" },
   };
   const wc = weatherCopy[lang] || weatherCopy.en;
   const weatherHtml = (poi.coords && poi.coords.length >= 2)
@@ -1784,6 +1799,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     en: { now: "Water temperature", forecast: "7-day trend", loading: "Water temperature…" },
     fr: { now: "Température de l'eau", forecast: "Tendance 7 jours", loading: "Température de l'eau…" },
     tr: { now: "Su sıcaklığı", forecast: "7 günlük trend", loading: "Su sıcaklığı…" },
+    hr: { now: "Temperatura mora", forecast: "Trend za 7 dana", loading: "Temperatura mora…" },
   };
   const mc = marineCopy[lang] || marineCopy.en;
   const marineHtml = (poi.coords && poi.coords.length >= 2)
@@ -1799,6 +1815,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     en: { heading: "Recent News", via: "via" },
     fr: { heading: "Actualités récentes", via: "via" },
     tr: { heading: "Son haberler", via: "kaynak" },
+    hr: { heading: "Najnovije vijesti", via: "izvor" },
   };
   const nc = newsCopy[lang] || newsCopy.en;
 
@@ -1808,7 +1825,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   try {
     const links = (OFFICIAL_LINKS as Record<string, { site?: string; fb?: string }>)[poi.id];
     if (links?.site || links?.fb) {
-      const siteLabel: Partial<Record<Lang, string>> = { de: "Webseite", hu: "Honlap", ro: "Site", en: "Website", fr: "Site web", tr: "Web sitesi" };
+      const siteLabel: Partial<Record<Lang, string>> = { de: "Webseite", hu: "Honlap", ro: "Site", en: "Website", fr: "Site web", tr: "Web sitesi", hr: "Web stranica" };
       const buttons: string[] = [];
       if (links.site) buttons.push(`<a href="${escapeHtml(links.site)}" target="_blank" rel="noopener noreferrer" class="plz-official-link plz-official-site">🌐 ${escapeHtml(siteLabel[lang] || siteLabel.en)}</a>`);
       if (links.fb) buttons.push(`<a href="${escapeHtml(links.fb)}" target="_blank" rel="noopener noreferrer" class="plz-official-link plz-official-fb">📘 Facebook</a>`);
@@ -1829,6 +1846,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         en: "Highlights of 2026",
         fr: "Faits marquants de 2026",
         tr: "2026'nın öne çıkan olayları",
+        hr: "Najvažniji događaji 2026.",
       };
       // For FR POIs (DATAtourisme upcoming events), sort ASC so the next-up event
       // appears first. For other POIs (Opus-curated yearly recap), keep DESC
@@ -1868,13 +1886,13 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         // a "every <weekday> <time>" string instead.
         const isRecurrent = !!(ev.period && typeof ev.period === "object" && ev.period.recurrent);
         const DAY_I18N: Record<string, Partial<Record<Lang, string>>> = {
-          Monday:    { de: "montags",     hu: "hétfőnként",   ro: "lunea",    en: "Mondays",    fr: "le lundi",    tr: "Pazartesi" },
-          Tuesday:   { de: "dienstags",   hu: "keddenként",   ro: "marțea",   en: "Tuesdays",   fr: "le mardi",    tr: "Salı" },
-          Wednesday: { de: "mittwochs",   hu: "szerdánként",  ro: "miercurea",en: "Wednesdays", fr: "le mercredi", tr: "Çarşamba" },
-          Thursday:  { de: "donnerstags", hu: "csütörtökönként", ro: "joia", en: "Thursdays",  fr: "le jeudi",    tr: "Perşembe" },
-          Friday:    { de: "freitags",    hu: "péntekenként", ro: "vinerea",  en: "Fridays",    fr: "le vendredi", tr: "Cuma" },
-          Saturday:  { de: "samstags",    hu: "szombatonként",ro: "sâmbăta",  en: "Saturdays",  fr: "le samedi",   tr: "Cumartesi" },
-          Sunday:    { de: "sonntags",    hu: "vasárnaponként",ro: "duminica",en: "Sundays",    fr: "le dimanche", tr: "Pazar" },
+          Monday:    { de: "montags",     hu: "hétfőnként",   ro: "lunea",    en: "Mondays",    fr: "le lundi",    tr: "Pazartesi", hr: "ponedjeljkom" },
+          Tuesday:   { de: "dienstags",   hu: "keddenként",   ro: "marțea",   en: "Tuesdays",   fr: "le mardi",    tr: "Salı", hr: "utorkom" },
+          Wednesday: { de: "mittwochs",   hu: "szerdánként",  ro: "miercurea",en: "Wednesdays", fr: "le mercredi", tr: "Çarşamba", hr: "srijedom" },
+          Thursday:  { de: "donnerstags", hu: "csütörtökönként", ro: "joia", en: "Thursdays",  fr: "le jeudi",    tr: "Perşembe", hr: "četvrtkom" },
+          Friday:    { de: "freitags",    hu: "péntekenként", ro: "vinerea",  en: "Fridays",    fr: "le vendredi", tr: "Cuma", hr: "petkom" },
+          Saturday:  { de: "samstags",    hu: "szombatonként",ro: "sâmbăta",  en: "Saturdays",  fr: "le samedi",   tr: "Cumartesi", hr: "subotom" },
+          Sunday:    { de: "sonntags",    hu: "vasárnaponként",ro: "duminica",en: "Sundays",    fr: "le dimanche", tr: "Pazar", hr: "nedjeljom" },
         };
         let periodTxt = "";
         if (ev.period) {
@@ -1899,8 +1917,8 @@ function renderHtml(poi: POI, lang: Lang): string | null {
       const VISIBLE = 6;
       const visible = sorted.slice(0, VISIBLE).map(renderCard).join("");
       const hidden = sorted.slice(VISIBLE).map(renderCard).join("");
-      const moreLabel: Partial<Record<Lang, string>> = { de: "Mehr anzeigen", hu: "Tovább", ro: "Mai mult", en: "Show more", fr: "Voir plus", tr: "Daha fazla" };
-      const lessLabel: Partial<Record<Lang, string>> = { de: "Weniger", hu: "Kevesebb", ro: "Mai puțin", en: "Show less", fr: "Voir moins", tr: "Daha az" };
+      const moreLabel: Partial<Record<Lang, string>> = { de: "Mehr anzeigen", hu: "Tovább", ro: "Mai mult", en: "Show more", fr: "Voir plus", tr: "Daha fazla", hr: "Prikaži više" };
+      const lessLabel: Partial<Record<Lang, string>> = { de: "Weniger", hu: "Kevesebb", ro: "Mai puțin", en: "Show less", fr: "Voir moins", tr: "Daha az", hr: "Prikaži manje" };
       const moreBtn = hidden ? `<button class="plz-yh-more" type="button" aria-expanded="false" data-more="${escapeHtml(moreLabel[lang] || moreLabel.en!)}" data-less="${escapeHtml(lessLabel[lang] || lessLabel.en!)}">${escapeHtml(moreLabel[lang] || moreLabel.en!)} (+${sorted.length - VISIBLE}) ▼</button>` : "";
       const hiddenBlock = hidden ? `<div class="plz-yh-hidden" hidden>${hidden}</div>` : "";
       const headTxt = escapeHtml(heading[lang] || heading.en || "Highlights of 2026");
@@ -1993,6 +2011,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
           en: { btn: "Translate", orig: "Original", loading: "…" },
           fr: { btn: "Traduire", orig: "Original", loading: "…" },
           tr: { btn: "Çevir", orig: "Orijinal", loading: "…" },
+          hr: { btn: "Prevedi", orig: "Izvornik", loading: "…" },
         };
         const tL = trLabels[lang] || trLabels.en!;
         const translateBtn = `<button type="button" class="plz-news-translate" data-lang="${lang}" data-btn-label="${escapeHtml(tL.btn)}" data-orig-label="${escapeHtml(tL.orig)}" data-loading="${escapeHtml(tL.loading)}"><svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 8l6 6M4 14l6-6 2-3M2 5h12M7 2h1M22 22l-5-10-5 10M14 18h6"/></svg>${escapeHtml(tL.btn)}</button>`;
@@ -2034,7 +2053,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
 
   // Coat of arms (city/region badge)
   const coa = (poi as { coa?: string }).coa;
-  const coaLabel: Partial<Record<Lang, string>> = { de: "Wappen", hu: "címer", ro: "stema", en: "coat of arms", fr: "blason", tr: "arması" };
+  const coaLabel: Partial<Record<Lang, string>> = { de: "Wappen", hu: "címer", ro: "stema", en: "coat of arms", fr: "blason", tr: "arması", hr: "grb" };
   const coaHtml = coa ? `<img class="plz-coa" src="${escapeHtml(coa)}" alt="${escapeHtml(`${name} ${coaLabel[lang] || coaLabel.en}`)}" loading="lazy"/>` : "";
 
   // Audio pronunciation
@@ -2411,6 +2430,10 @@ function renderSightHtml(host: POI, data: any, lang: Lang): string {
           publicTransport: "Public transport", parking: "Parking", accessibility: "Accessibility",
           photoRules: "Photography", bestTimeToVisit: "Best time", audioGuide: "Audio guide",
           practical: "Practical info", facts: "Did you know", backToCity: "← Back to city" },
+    hr: { address: "Adresa", openingHours: "Radno vrijeme", entranceFee: "Ulaznica", website: "Web stranica",
+          publicTransport: "Javni prijevoz", parking: "Parking", accessibility: "Pristupačnost",
+          photoRules: "Fotografiranje", bestTimeToVisit: "Najbolje vrijeme", audioGuide: "Audiovodič",
+          practical: "Praktične informacije", facts: "Jeste li znali", backToCity: "← Natrag na grad" },
   };
   const c = ICON_COPY[lang] || ICON_COPY.en!;
 
@@ -2476,6 +2499,7 @@ function renderSightHtml(host: POI, data: any, lang: Lang): string {
     hu: { now: "Most", forecast: "5 napos előrejelzés", loading: "Időjárás…" },
     ro: { now: "Acum", forecast: "Prognoză 5 zile", loading: "Vremea…" },
     en: { now: "Now", forecast: "5-day forecast", loading: "Weather…" },
+    hr: { now: "Sada", forecast: "Prognoza za 5 dana", loading: "Vrijeme…" },
   };
   const wc = weatherCopy[lang] || weatherCopy.en!;
   const weatherHtml = (host.coords && host.coords.length >= 2)

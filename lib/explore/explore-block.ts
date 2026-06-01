@@ -2,7 +2,7 @@
 // Shows a stylized continent SVG + headline + secondary country link.
 import { CONTINENT_SVG } from "./continent-svgs";
 
-export type ExploreLang = "de" | "hu" | "ro" | "en" | "fr" | "tr";
+export type ExploreLang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr";
 
 // Country slug → continent slug (one of: europe-map, northamerica-map, southamerica-map, africa-map, asia-map, oceania-map)
 export const COUNTRY_TO_CONTINENT: Record<string, string> = {
@@ -21,12 +21,12 @@ export const COUNTRY_TO_CONTINENT: Record<string, string> = {
 };
 
 const CONTINENT_NAME: Record<string, Record<ExploreLang, string>> = {
-  "europe-map": { de: "Europa", hu: "Európa", ro: "Europa", en: "Europe", fr: "Europe", tr: "Avrupa" },
-  "northamerica-map": { de: "Nordamerika", hu: "Észak-Amerika", ro: "America de Nord", en: "North America", fr: "Amérique du Nord", tr: "Kuzey Amerika" },
-  "southamerica-map": { de: "Südamerika", hu: "Dél-Amerika", ro: "America de Sud", en: "South America", fr: "Amérique du Sud", tr: "Güney Amerika" },
-  "africa-map": { de: "Afrika", hu: "Afrika", ro: "Africa", en: "Africa", fr: "Afrique", tr: "Afrika" },
-  "asia-map": { de: "Asien", hu: "Ázsia", ro: "Asia", en: "Asia", fr: "Asie", tr: "Asya" },
-  "oceania-map": { de: "Ozeanien", hu: "Óceánia", ro: "Oceania", en: "Oceania", fr: "Océanie", tr: "Okyanusya" },
+  "europe-map": { de: "Europa", hu: "Európa", ro: "Europa", en: "Europe", fr: "Europe", tr: "Avrupa", hr: "Europa" },
+  "northamerica-map": { de: "Nordamerika", hu: "Észak-Amerika", ro: "America de Nord", en: "North America", fr: "Amérique du Nord", tr: "Kuzey Amerika", hr: "Sjeverna Amerika" },
+  "southamerica-map": { de: "Südamerika", hu: "Dél-Amerika", ro: "America de Sud", en: "South America", fr: "Amérique du Sud", tr: "Güney Amerika", hr: "Južna Amerika" },
+  "africa-map": { de: "Afrika", hu: "Afrika", ro: "Africa", en: "Africa", fr: "Afrique", tr: "Afrika", hr: "Afrika" },
+  "asia-map": { de: "Asien", hu: "Ázsia", ro: "Asia", en: "Asia", fr: "Asie", tr: "Asya", hr: "Azija" },
+  "oceania-map": { de: "Ozeanien", hu: "Óceánia", ro: "Oceania", en: "Oceania", fr: "Océanie", tr: "Okyanusya", hr: "Oceanija" },
 };
 
 const COPY: Record<ExploreLang, { discover: (c: string) => string; moreIn: (c: string) => string; sectionTitle: string }> = {
@@ -36,10 +36,11 @@ const COPY: Record<ExploreLang, { discover: (c: string) => string; moreIn: (c: s
   en: { discover: (c) => `Discover more places in ${c}`, moreIn: (c) => `More places in ${c}`, sectionTitle: "Explore with Plizio" },
   fr: { discover: (c) => `Découvrez d'autres lieux en ${c}`, moreIn: (c) => `Plus de lieux en ${c}`, sectionTitle: "Explorez avec Plizio" },
   tr: { discover: (c) => `${c}'da daha fazla yer keşfedin`, moreIn: (c) => `${c} içinde daha fazla yer`, sectionTitle: "Plizio ile keşfet" },
+  hr: { discover: (c) => `Otkrijte više mjesta u ${c}`, moreIn: (c) => `Više mjesta u ${c}`, sectionTitle: "Istražite s Pliziom" },
 };
 
-function _langFallback(lang: ExploreLang): ExploreLang { return lang === "tr" ? "de" : lang === "fr" ? "en" : lang; }
-function _lk(lang: ExploreLang): ExploreLang { return (["de","hu","ro","en","fr","tr"].includes(lang) ? lang : "en") as ExploreLang; }
+function _langFallback(lang: ExploreLang): ExploreLang { return lang === "tr" ? "de" : lang === "fr" ? "en" : lang === "hr" ? "en" : lang; }
+function _lk(lang: ExploreLang): ExploreLang { return (["de","hu","ro","en","fr","tr","hr"].includes(lang) ? lang : "en") as ExploreLang; }
 
 export interface ExploreBlockOpts {
   poiId: string;
