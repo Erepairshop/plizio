@@ -1411,6 +1411,208 @@ export const poiExtraDe4b: POI[] = [
       en: ["Saarbrücken is the only major city in Saarland, with ~180,000 residents.", "The city was founded on the site of the Roman vicus Saravus.", "Ludwigskirche is one of the 'Big Three' Protestant Baroque churches in Germany.", "The city became German again in 1957 after two decades of French influence.", "The St. Johanner Markt is the heart of the pedestrian zone since 1975.", "Saarbrücken's main station is a stop for the Frankfurt-Paris high-speed line.", "The city's coat of arms features a lion, representing the Counts of Nassau.", "The University of Saarland hosts over 18,000 students from 120 countries."],
       "tr": ["Yaklaşık 180.000 nüfuslu Saarland eyalet başkentidir", "Belgelerde ilk kez 999 yılında 'Castellum Sarabrucca' olarak geçer", "Ludwigskirche 1762-1775 arasında F. J. Stengel tarafından yapıldı", "Saarland, 1 Ocak 1957'de Federal Almanya Cumhuriyeti'ne katıldı", "Şehir, Fransa sınırından sadece yaklaşık 5 kilometre uzaktadır", "Saarland Üniversitesi 1948'de Fransız idaresi altında kuruldu"]},
     image: "/poi-images/state-capital-saarbruecken-sl-extra.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Ludwigskirche",
+                  "text": "Eines der bedeutendsten barocken evangelischen Kirchenbauwerke Deutschlands, entworfen von Friedrich Joachim Stengel im 18. Jahrhundert.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saarbrücker Schloss",
+                  "text": "Das barocke Schloss dient heute als Verwaltungssitz und Kulturzentrum, unter dem sich historische Kasematten besichtigen lassen.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Johanner Markt",
+                  "text": "Das Herz der Altstadt mit dem Stengel-Brunnen, zahlreichen Cafés, Boutiquen und Restaurants in historischen Barockhäusern.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alte Brücke",
+                  "text": "Die älteste erhaltene Brücke im Saarland wurde 1546 durch Kaiser Karl V. erbaut und verbindet St. Johann mit Alt-Saarbrücken.",
+                  "category": "bridges",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus St. Johann",
+                  "text": "Ein imposanter neugotischer Bau mit einem 54 Meter hohen Turm, der täglich ein Glockenspiel erklingen lässt.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saarländisches Staatstheater",
+                  "text": "Ein neoklassizistisches Theatergebäude an der Saar, das hochkarätige Opern-, Schauspiel- und Ballettaufführungen bietet.",
+                  "category": "theatres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Deutsch-Französischer Garten",
+                  "text": "Eine weitläufige Parkanlage mit See, Seilbahn und Themengärten, die als Symbol der Versöhnung beider Länder angelegt wurde.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilika St. Johann",
+                  "text": "Eine prächtige barocke Basilika, die ebenfalls von Stengel entworfen wurde und durch ihre reiche Innenausstattung beeindruckt.",
+                  "category": "churches",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lajos-templom",
+                  "text": "Németország egyik legjelentősebb barokk evangélikus temploma, amelyet Friedrich Joachim Stengel tervezett a 18. században.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saarbrückeni kastély",
+                  "text": "A barokk kastély ma közigazgatási központ és kulturális helyszín, alatta látogatható történelmi kazamaták találhatók.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent János piac",
+                  "text": "Az óváros szíve a Stengel-kúttal, számos kávézóval és étteremmel, amelyek történelmi barokk épületekben kaptak helyet.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi híd",
+                  "text": "A Saar-vidék legrégebbi hídja, amelyet 1546-ban V. Károly császár építtetett a Saar-folyó két partjának összekötésére.",
+                  "category": "bridges",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent János városháza",
+                  "text": "Impozáns neogótikus épület 54 méter magas toronnyal, amelyben naponta többször is megszólal a harangjáték.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saar-vidéki Állami Színház",
+                  "text": "Neoklasszicista színházépület a folyóparton, amely magas színvonalú opera-, dráma- és balettelőadásoknak ad otthont.",
+                  "category": "theatres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Német-francia kert",
+                  "text": "Tágas park tóval, libegővel és tematikus kertekkel, amelyet a két ország közötti megbékélés szimbólumaként hoztak létre.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent János bazilika",
+                  "text": "Pompás barokk bazilika, amelyet szintén Stengel tervezett, és gazdag belső díszítésével nyűgözi le a látogatókat.",
+                  "category": "churches",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Ludwig",
+                  "text": "Una dintre cele mai importante clădiri bisericești baroce evanghelice din Germania, proiectată de Friedrich Joachim Stengel în secolul XVIII.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Saarbrücken",
+                  "text": "Castelul baroc servește astăzi ca sediu administrativ și centru cultural, având dedesubt casemate istorice ce pot fi vizitate.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Sfântul Ioan",
+                  "text": "Inima orașului vechi cu fântâna Stengel, numeroase cafenele și restaurante situate în clădiri baroce istorice.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Vechi",
+                  "text": "Cel mai vechi pod conservat din Saarland, construit în 1546 de împăratul Carol al V-lea peste râul Saar.",
+                  "category": "bridges",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Sfântul Ioan",
+                  "text": "O clădire neogotică impunătoare cu un turn de 54 de metri înălțime, care găzduiește un carillon ce sună zilnic.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul de Stat din Saarland",
+                  "text": "O clădire de teatru neoclasică pe malul râului Saar, care oferă spectacole de operă, teatru și balet de înaltă calitate.",
+                  "category": "theatres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Germano-Franceză",
+                  "text": "Un parc vast cu un lac, telecabină și grădini tematice, creat ca simbol al reconcilierii dintre cele două țări.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bazilica Sfântul Ioan",
+                  "text": "O bazilică barocă magnifică, proiectată tot de Stengel, impresionând prin decorul interior bogat și arhitectura sa.",
+                  "category": "churches",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ludwigskirche",
+                  "text": "One of Germany's most significant Baroque Protestant churches, designed by Friedrich Joachim Stengel in the 18th century.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saarbrücken Castle",
+                  "text": "This Baroque palace serves as an administrative and cultural hub, featuring historic casemates underground that are open to visitors.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Johanner Markt",
+                  "text": "The heart of the old town, featuring the Stengel fountain, cozy cafes, and restaurants housed in historic Baroque buildings.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Bridge",
+                  "text": "The oldest preserved bridge in the Saarland, built in 1546 by Emperor Charles V to connect the two parts of the city.",
+                  "category": "bridges",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Johann Town Hall",
+                  "text": "An impressive Neo-Gothic building with a 54-meter-high tower that features a daily carillon performance.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saarland State Theatre",
+                  "text": "A neoclassical theatre building located on the banks of the Saar, offering high-quality opera, drama, and ballet.",
+                  "category": "theatres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "German-French Garden",
+                  "text": "A large park with a lake, cable car, and themed gardens, established as a symbol of reconciliation between the two nations.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica of St. John",
+                  "text": "A magnificent Baroque basilica also designed by Stengel, known for its rich interior and impressive architectural details.",
+                  "category": "churches",
+                  "confidence": "high"
+            }
+      ]
+}
   },
 
   {

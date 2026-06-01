@@ -110,11 +110,1229 @@ export const poiExtraEsV2: POI[] = [
   {"id": "vielha", "type": "city", "parent": "ES-CT", "coords": [0.7958, 42.7019], "population": 5500, "tier": 2, "name": {"de": "Vielha", "hu": "Vielha", "ro": "Vielha", "en": "Vielha"}, "description": {"de": "Vielha ist die charmante Hauptstadt des Val d'Aran in den Pyrenäen, ein Zentrum okzitanischer Kultur und ein Tor zu erstklassigen Skigebieten.", "hu": "Vielha a Pireneusokban fekvő Val d’Aran völgy bájos fővárosa, az okcitán kultúra központja és a kiváló síterepek kapuja.", "ro": "Vielha este capitala pitorească a văii Val d'Aran din Pirinei, un centru al culturii occitane și poarta de acces către domenii schiabile de top.", "en": "Vielha is the charming capital of the Val d'Aran in the Pyrenees, a center of Occitan culture and the gateway to world-class ski resorts."}, "facts": {"de": ["Hauptstadt des Val d'Aran", "Pyrenäen-Lage", "Okzitanische (Aranesische) Sprache", "Romanische Kirche Sant Miquèu", "Nähe zu Baqueira Beret", "Traditionelle Steinhäuser", "5500 Einwohner", "Zentrum für Alpinsport"], "hu": ["Val d’Aran fővárosa", "Pireneusi hegyi környezet", "Aráni (okcitán) nyelv használata", "Sant Miquèu román kori templom", "Baqueira Beret síközpont közelsége", "Hagyományos kőházak", "5500 lakos", "Hegyi turizmus központja"], "ro": ["Capitala regiunii Val d'Aran", "Situat în inima Pirineilor", "Limba araneză (occitană) oficială", "Biserica romanică Sant Miquèu", "Aproape de stațiunea Baqueira Beret", "Arhitectură montană tradițională", "5500 de locuitori", "Destinație majoră pentru schi"], "en": ["Capital of the Val d'Aran", "Heart of the Pyrenees", "Aranese (Occitan) language area", "Romanesque Sant Miquèu church", "Close to Baqueira Beret ski resort", "Traditional stone architecture", "5500 inhabitants", "Alpine sports hub"]}, "image": "/poi-images/vielha.webp", "imageHint": "Vielha with its traditional stone and slate houses nestled in the high Pyrenees valley.", "descriptionAdvanced": {"de": "Vielha e Mijaran, die Hauptstadt des Aran-Tals, liegt auf 974 Metern Höhe, dort wo der Fluss Nere in die Garonne mündet. Die Stadt ist das kulturelle und administrative Herz einer einzigartigen Region, in der Aranesisch, eine Variante des Okzitanischen, gesprochen wird. Das Stadtbild ist geprägt von typischen Pyrenäen-Häusern aus Stein, Holz und Schiefer. Das bedeutendste Baudenkmal ist die Kirche Sant Miquèu aus dem 12. Jahrhundert, die den berühmten 'Christus von Mijaran' beherbergt, ein Meisterwerk der romanischen Holzschnitzerei. Vielha bietet eine perfekte Mischung aus Tradition und Moderne; während die Altstadt mit ihren engen Gassen und Brücken zum Flanieren einlädt, bietet der neue Stadtteil alle Annehmlichkeiten für Bergsportler. Als Ausgangspunkt für Wanderungen im Sommer und Skifahren im Winter (Baqueira Beret ist nur wenige Kilometer entfernt) ist Vielha das ganze Jahr über ein lebendiges Zentrum des Alpentourismus.", "hu": "Vielha (hivatalos nevén Vielha e Mijaran) a Pireneusok szívében, a Val d’Aran völgyben fekszik, 974 méteres magasságban. A település különlegessége az aráni nyelv, amely az okcitán egy változata és a völgy hivatalos nyelve. A város építészeti stílusa tipikusan hegyvidéki: kőfalak, faerkélyek és palatetősek jellemzik a házakat. Legfontosabb műemléke a 12. századi Sant Miquèu templom, amely a román kori szobrászat egyik remekművét, a mijaráni Krisztus-szobrot őrzi. Vielha nemcsak kulturális központ, hanem a téli sportok fellegvára is, köszönhetően a közeli Baqueira Beret síterepnek, amely Spanyolország egyik legexkluzívabb üdülőhelye. Nyáron a túrázók és hegyi kerékpárosok paradicsoma, ahol a Garonne-folyó és a környező 2000-3000 méteres csúcsok lenyűgöző díszletet adnak a kikapcsolódáshoz.", "ro": "Vielha, capitala regiunii autonome Val d'Aran, este un oraș montan vibrant situat la confluența râurilor Nere și Garonne. Specificul local este dat de cultura occitană și de limba araneză, vorbită nativ de locuitori. Arhitectura orașului reflectă tradiția Pirineilor, cu clădiri solide din piatră și acoperișuri de ardezie neagră. Biserica Sant Miquèu, o structură de tranziție de la romanic la gotic, este principalul reper spiritual și istoric, adăpostind prețioasa sculptură 'Cristo de Mijaran'. Vielha servește drept bază logistică ideală pentru explorarea Parcului Național Aigüestortes i Estany de Sant Maurici și pentru practicarea sporturilor de iarnă în renumita stațiune Baqueira Beret. Atmosfera cosmopolită, gastronomia araneză bogată (precum celebra 'Olha Aranesa') și peisajele alpine spectaculoase fac din Vielha una dintre cele mai atractive destinații montane din Spania.", "en": "Vielha e Mijaran is the capital of the Val d'Aran, a unique Pyrenean valley where Aranese (a variant of Occitan) is spoken. Sitting at an altitude of 974 meters, the town is split by the Nere River as it flows into the Garonne. The architecture is characterized by robust stone walls and steep slate roofs, designed to withstand heavy snowfall. The 12th-century Church of Sant Miquèu is the town's architectural highlight, home to the 'Christ of Mijaran,' an exceptional example of Romanesque woodcarving. Vielha acts as the commercial and cultural hub for the valley, offering a wide range of services for tourists who flock here year-round. In winter, it is the primary base for visitors to the nearby Baqueira Beret ski resort, while in summer, it provides access to countless hiking trails in the surrounding 3,000-meter peaks."}, "factsAdvanced": {"de": ["Vielha liegt auf einer Höhe von 974 Metern.", "Die Kirche Sant Miquèu beherbergt den Christus von Mijaran (12. Jh.).", "Aranesisch ist neben Katalanisch und Spanisch Amtssprache.", "Der Tunnel von Vielha (5,2 km) verbindet das Tal mit dem Rest Spaniens.", "Die Entfernung zum Skigebiet Baqueira Beret beträgt nur 14 km.", "Vielha hat etwa 5500 ständige Einwohner."], "hu": ["Vielha 974 méterrel fekszik a tengerszint felett.", "A Sant Miquèu templom a mijaráni Krisztus-szobrot őrzi a 12. századból.", "Az aráni nyelv hivatalos státuszt élvez a településen.", "Az 5,2 km hosszú Vielha-alagút biztosítja az összeköttetést dél felé.", "A Baqueira Beret sípályák mindössze 14 kilométerre találhatók.", "A város a Garonne-folyó partján fekszik."], "ro": ["Vielha se află la o altitudine de 974 metri în Pirineii Centrali.", "Biserica Sant Miquèu deține un turn octogonal impunător.", "Limba araneză este o variantă a limbii occitane gascone.", "Tunelul Vielha, inaugurat în 1948, a spart izolarea istorică a văii.", "Populația este de aproximativ 5500 de locuitori.", "Orașul este situat la doar 20 km de granița cu Franța."], "en": ["Vielha sits at an average elevation of 974 meters.", "The Sant Miquèu church contains the 12th-century Christ of Mijaran.", "Aranese is one of the three official languages of the municipality.", "The Vielha Tunnel (5.2 km long) is a vital link to the south.", "Baqueira Beret, Spain's premier ski resort, is just 14 km away.", "The town is located at the confluence of the Nere and Garonne rivers."]}, "sights": {"de": [{"name": "Kirche San Miguel", "text": "Die Hauptkirche von Vielha mit einem beeindruckenden achteckigen Turm und dem Christus von Mijaran.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/vielha-kirche-san-miguel.webp"}, {"name": "Aran-Tal Museum", "text": "In einem Herrenhaus aus dem 17. Jahrhundert untergebracht, zeigt es die Kultur und Geschichte des Tals.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/vielha-aran-tal-museum.webp"}, {"name": "Wollfabrik (Fabrica dera Lan)", "text": "Ein Beispiel für das industrielle Erbe, das den Prozess der Wollverarbeitung im 19. Jahrhundert zeigt.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/vielha-wollfabrik-fabrica-dera-lan.webp"}, {"name": "Altstadt von Vielha", "text": "Ein charmantes Viertel mit Steinhäusern und engen Gassen, die den typischen Stil der Pyrenäen bewahren.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/vielha-altstadt-von-vielha.webp"}, {"name": "Paseo de la Libertad", "text": "Die Hauptpromenade entlang des Flusses Nere, ideal für Spaziergänge und zum Genießen der Bergluft.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/vielha-paseo-de-la-libertad.webp"}, {"name": "Artiga de Lin", "text": "Ein spektakuläres Naturgebiet in der Nähe mit Wasserfällen und Wanderwegen im Herzen der Pyrenäen.", "category": "natural features (caves, viewpoints)", "confidence": "high", "image": "/poi-images/sights/vielha-artiga-de-lin.webp"}, {"name": "Bassa d'Oles", "text": "Ein malerischer Bergsee oberhalb von Vielha, umgeben von Wäldern, beliebt für leichte Wanderungen.", "category": "natural features (caves, viewpoints)", "confidence": "high", "image": "/poi-images/sights/vielha-bassa-doles.webp"}, {"name": "Kulturzentrum Era Audiovisuau", "text": "Ein moderner Raum für Kino, Theater und kulturelle Veranstaltungen im Zentrum von Vielha.", "category": "theatres/cultural centres", "confidence": "medium", "image": "/poi-images/sights/vielha-kulturzentrum-era-audiovisuau.webp"}], "hu": [{"name": "Szent Mihály templom", "text": "Vielha főtemploma lenyűgöző nyolcszögletű toronnyal és a híres Mijaran-i Krisztus-szoborral.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/vielha-kirche-san-miguel.webp"}, {"name": "Aran-völgyi Múzeum", "text": "Egy 17. századi nemesi kúriában berendezett múzeum, amely a völgy kultúráját és történelmét mutatja be.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/vielha-aran-tal-museum.webp"}, {"name": "Gyapjúgyár (Fabrica dera Lan)", "text": "Ipari örökségi helyszín, amely a 19. századi gyapjúfeldolgozás folyamatát mutatja be eredeti gépekkel.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/vielha-wollfabrik-fabrica-dera-lan.webp"}, {"name": "Vielha óvárosa", "text": "Bájos negyed kőházakkal és szűk utcákkal, amelyek hűen őrzik a Pireneusok jellegzetes építészeti stílusát.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/vielha-altstadt-von-vielha.webp"}, {"name": "Szabadság sétány", "text": "A Nere-folyó menti fősétány, ideális hely a sétához és a hegyi levegő élvezetéhez a város szívében.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/vielha-paseo-de-la-libertad.webp"}, {"name": "Artiga de Lin", "text": "Látványos természeti terület a közelben, vízesésekkel és túraútvonalakkal a Pireneusok mélyén.", "category": "natural features (caves, viewpoints)", "confidence": "high", "image": "/poi-images/sights/vielha-artiga-de-lin.webp"}, {"name": "Bassa d'Oles", "text": "Gleccser eredetű tó Vielha felett, fenyőerdőkkel övezve, népszerű kirándulóhely minden évszakban.", "category": "natural features (caves, viewpoints)", "confidence": "high", "image": "/poi-images/sights/vielha-bassa-doles.webp"}, {"name": "Era Audiovisuau kulturális központ", "text": "Modern kulturális tér Vielha központjában, amely mozinak, színháznak és rendezvényeknek ad otthont.", "category": "theatres/cultural centres", "confidence": "medium", "image": "/poi-images/sights/vielha-kulturzentrum-era-audiovisuau.webp"}], "ro": [{"name": "Biserica San Miguel", "text": "Biserica principală din Vielha, cu un turn octogonal impresionant și statuia lui Cristos din Mijaran.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/vielha-kirche-san-miguel.webp"}, {"name": "Muzeul Văii Aran", "text": "Găzduit într-o reședință nobiliară din secolul XVII, prezintă istoria și cultura unică a văii.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/vielha-aran-tal-museum.webp"}, {"name": "Fabrica de Lână", "text": "Un sit de patrimoniu industrial care exemplifică procesul de prelucrare a lânii în secolul al XIX-lea.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/vielha-wollfabrik-fabrica-dera-lan.webp"}, {"name": "Centrul vechi din Vielha", "text": "Un cartier pitoresc cu case din piatră și străzi înguste ce păstrează stilul tipic pirinean.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/vielha-altstadt-von-vielha.webp"}, {"name": "Paseo de la Libertad", "text": "Promenada principală de-a lungul râului Nere, ideală pentru plimbări și relaxare în aerul de munte.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/vielha-paseo-de-la-libertad.webp"}, {"name": "Artiga de Lin", "text": "O zonă naturală spectaculoasă în apropiere, cu cascade și trasee de drumeție în inima Pirineilor.", "category": "natural features (caves, viewpoints)", "confidence": "high", "image": "/poi-images/sights/vielha-artiga-de-lin.webp"}, {"name": "Bassa d'Oles", "text": "Un lac montan pitoresc situat deasupra localității Vielha, înconjurat de păduri bogate de pini.", "category": "natural features (caves, viewpoints)", "confidence": "high", "image": "/poi-images/sights/vielha-bassa-doles.webp"}, {"name": "Centrul Cultural Era Audiovisuau", "text": "Un spațiu modern pentru cinema, teatru și evenimente culturale situat chiar în centrul orașului Vielha.", "category": "theatres/cultural centres", "confidence": "medium", "image": "/poi-images/sights/vielha-kulturzentrum-era-audiovisuau.webp"}], "en": [{"name": "Church of San Miguel", "text": "Vielha's main church, featuring an impressive octagonal tower and the famous 12th-century Christ of Mijaran.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/vielha-kirche-san-miguel.webp"}, {"name": "Aran Valley Museum", "text": "Set in a 17th-century manor house, this museum displays the unique history and folk culture of the valley.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/vielha-aran-tal-museum.webp"}, {"name": "Wool Factory (Fabrica dera Lan)", "text": "An industrial heritage site showing the traditional 19th-century process of wool manufacturing.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/vielha-wollfabrik-fabrica-dera-lan.webp"}, {"name": "Vielha Old Town", "text": "A charming district with traditional stone houses and narrow alleys that preserve the Pyrenean style.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/vielha-altstadt-von-vielha.webp"}, {"name": "Paseo de la Libertad", "text": "The town's main promenade along the Nere River, perfect for strolling and enjoying the mountain atmosphere.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/vielha-paseo-de-la-libertad.webp"}, {"name": "Artiga de Lin", "text": "A spectacular natural area nearby with waterfalls and hiking trails in the heart of the Pyrenees.", "category": "natural features (caves, viewpoints)", "confidence": "high", "image": "/poi-images/sights/vielha-artiga-de-lin.webp"}, {"name": "Bassa d'Oles", "text": "A scenic mountain lake located above Vielha, surrounded by forests and popular for easy hiking.", "category": "natural features (caves, viewpoints)", "confidence": "high", "image": "/poi-images/sights/vielha-bassa-doles.webp"}, {"name": "Era Audiovisuau Cultural Centre", "text": "A modern space for cinema, theatre, and cultural events located in the center of Vielha.", "category": "theatres/cultural centres", "confidence": "medium", "image": "/poi-images/sights/vielha-kulturzentrum-era-audiovisuau.webp"}]}},
   {"id": "zahara-de-los-atunes", "type": "city", "parent": "ES-AN", "coords": [-5.8514, 36.1336], "population": 1200, "tier": 3, "name": {"de": "Zahara de los Atunes", "hu": "Zahara de los Atunes", "ro": "Zahara de los Atunes", "en": "Zahara de los Atunes"}, "description": {"de": "Ein charmantes Fischerdorf an der Costa de la Luz, berühmt für seinen Almadraba-Thunfischfang und kilometerlange, goldene Sandstrände.", "hu": "Bájos halászfalu a Costa de la Luz partján, amely az ősi Almadraba tonhalhalászatról és végtelen, aranyló homokos strandjairól nevezetes.", "ro": "Un sat pescăresc fermecător pe Costa de la Luz, renumit pentru pescuitul de ton Almadraba și plajele sale lungi cu nisip auriu.", "en": "A charming fishing village on the Costa de la Luz, famous for its ancient Almadraba tuna fishing tradition and pristine golden beaches."}, "facts": {"de": ["Almadraba-Tradition", "Costa de la Luz", "Badeort Barbate", "Cabo de Plata", "Thunfisch-Gastronomie", "Weißer Sandstrand", "Reiterparadies", "Sonniges Klima"], "hu": ["Almadraba hagyomány", "Costa de la Luz", "Barbate kistérség", "Cabo de Plata fok", "Tonhal-gasztronómia", "Fehér homokos part", "Lovaglási lehetőség", "Napos mediterrán égbolt"], "ro": ["Tradiția Almadraba", "Costa de la Luz", "Districtul Barbate", "Capul Cabo de Plata", "Gastronomie cu ton", "Plaje cu nisip alb", "Paradis ecvestru", "Climat însorit"], "en": ["Almadraba tradition", "Costa de la Luz", "Barbate district", "Cabo de Plata cape", "Tuna gastronomy", "White sand beaches", "Horseback riding", "Sunny Mediterranean climate"]}, "image": "/poi-images/zahara-de-los-atunes.webp", "imageHint": "Golden beach and turquoise water at Zahara de los Atunes coast", "descriptionAdvanced": {"de": "Zahara de los Atunes ist ein Juwel an der andalusischen Atlantikküste, das seinen Namen der jahrtausendealten Tradition des Thunfischfangs verdankt. Das Dorf bewahrt einen authentischen Charakter mit seinen niedrigen weißen Häusern und engen Gassen, obwohl es sich zu einem beliebten Ziel für anspruchsvolle Reisende entwickelt hat. Das Herzstück des Ortes ist das Castillo de las Almadrabas, eine Festung aus dem 16. Jahrhundert, die einst zum Schutz der wertvollen Thunfischvorräte vor Piratenangriffen diente. Die Strände wie die Playa de la Victoria oder Atlanterra erstrecken sich über mehr als 8 Kilometer und bieten kristallklares Wasser. Die lokale Gastronomie dreht sich fast ausschließlich um den Roten Thunfisch, der hier in unzähligen Variationen, von traditionell bis modern, serviert wird. In der Umgebung finden sich Wanderwege durch die Sierra del Retín, die spektakuläre Ausblicke auf die Straße von Gibraltar und die afrikanische Küste bieten.", "hu": "Zahara de los Atunes az andalúz atlanti-partvidék egyik gyöngyszeme, amely nevét a több ezer éves tonhalhalászati hagyománynak köszönheti. A falu megőrizte hiteles karakterét alacsony, fehérre meszelt házaival és szűk utcáival, miközben az igényes utazók kedvelt célpontjává vált. A település szíve a 16. századi Castillo de las Almadrabas erőd, amely egykor a drága tonhalkészletek kalóztámadások elleni védelmére szolgált. A strandok, mint például a Playa de la Victoria vagy Atlanterra, több mint 8 kilométer hosszan nyúlnak el, kristálytiszta vízzel csábítva a látogatókat. A helyi gasztronómia középpontjában a vörös tonhal áll, amelyet számtalan variációban, a hagyományostól a modernig szolgálnak fel. A környező Sierra del Retín túraútvonalai pedig lélegzetelállító kilátást nyújtanak a Gibraltári-szorosra és az afrikai partokra.", "ro": "Zahara de los Atunes este o bijuterie a coastei atlantice andaluze, care își datorează numele tradiției milenare de pescuit al tonului. Satul își păstrează caracterul autentic cu casele sale albe joase și străzile înguste, deși a devenit o destinație populară pentru călătorii exigenți. Inima localității este Castillo de las Almadrabas, o fortăreață din secolul al XVI-lea care servea odinioară la protejarea stocurilor valoroase de ton împotriva atacurilor piraților. Plajele precum Playa de la Victoria sau Atlanterra se întind pe mai mult de 8 kilometri și oferă ape cristaline. Gastronomia locală se învârte aproape exclusiv în jurul tonului roșu, servit în nenumărate variații, de la tradițional la modern. În împrejurimi se găsesc trasee de drumeție prin Sierra del Retín, care oferă vederi spectaculoase asupra Strâmtorii Gibraltar și a coastei africane.", "en": "Zahara de los Atunes is a gem on the Andalusian Atlantic coast, named after the millennia-old tradition of tuna fishing. The village maintains an authentic character with its low white houses and narrow streets, even as it has evolved into a destination for discerning travelers. The heart of the town is the 16th-century Castillo de las Almadrabas, a fortress that once protected valuable tuna stocks from pirate raids. Beaches like Playa de la Victoria or Atlanterra stretch for over 8 kilometers, offering crystal-clear waters. Local gastronomy revolves almost entirely around Bluefin tuna, served in countless variations from traditional to avant-garde. The surrounding Sierra del Retín features hiking trails that provide spectacular views over the Strait of Gibraltar and the African coastline across the water."}, "factsAdvanced": {"de": ["Gegründet im 16. Jahrhundert durch das Haus Medina Sidonia", "Liegt 73 km südlich der Provinzhauptstadt Cádiz", "8 km ununterbrochener Sandstrand bis zum Cabo de Plata", "Heimat der Almadraba-Technik phönizischen Ursprungs", "Castillo de las Almadrabas unter Denkmalschutz seit 1949", "Durchschnittlich über 300 Sonnentage pro Jahr"], "hu": ["A Medina Sidonia ház alapította a 16. században", "Cádiz tartományi székhelytől 73 km-re délre fekszik", "8 km hosszú folyamatos homokos strand a Cabo de Plata-ig", "A föníciai eredetű Almadraba halászati technika otthona", "A helyi erőd 1949 óta műemléki védelem alatt áll", "Évente átlagosan több mint 300 napsütéses nap"], "ro": ["Fondat în secolul al XVI-lea de Casa de Medina Sidonia", "Situat la 73 km sud de capitala provinciei, Cádiz", "8 km de plajă neîntreruptă până la Cabo de Plata", "Căminul tehnicii Almadraba de origine finiciană", "Castillo de las Almadrabas monument protejat din 1949", "Peste 300 de zile însorite în medie pe an"], "en": ["Founded in the 16th century by the House of Medina Sidonia", "Located 73 km south of the provincial capital Cádiz", "8 km of continuous sandy beach stretching to Cabo de Plata", "Home to the Almadraba fishing technique of Phoenician origin", "Castillo de las Almadrabas protected as a monument since 1949", "Average of over 300 sunny days per year"]}, "sights": {"de": [{"name": "Playa de Zahara", "text": "Ein weitläufiger Sandstrand mit kristallklarem Wasser, der als einer der schönsten und naturbelassensten Strände Andalusiens gilt.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-playa-de-zahara.webp"}, {"name": "Palacio de la Chanca", "text": "Ein historisches befestigtes Gebäude aus dem 16. Jahrhundert, das einst der Verarbeitung und Lagerung von gefangenem Thunfisch diente.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-palacio-de-la-chanca.webp"}, {"name": "Iglesia de Nuestra Señora del Carmen", "text": "Diese charmante Kirche aus dem 17. Jahrhundert ist der Schutzpatronin der Fischer gewidmet und bildet das spirituelle Herz des Ortes.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-iglesia-de-nuestra-se-ora-del-carmen.webp"}, {"name": "Faro de Camarinal", "text": "Ein markanter Leuchtturm auf einer Klippe, der in einem alten Wachturm aus dem 16. Jahrhundert untergebracht ist und tolle Ausblicke bietet.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-faro-de-camarinal.webp"}, {"name": "Playa de Atlanterra", "text": "Ein exklusiver Strandabschnitt in der Nähe von Zahara, bekannt für seinen feinen Sand, luxuriöse Villen und eine entspannte Atmosphäre.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-playa-de-atlanterra.webp"}, {"name": "Cabo de Plata", "text": "Eine felsige Landzunge, die die Strände von Zahara und Atlanterra trennt und spektakuläre Sonnenuntergänge über dem Atlantik ermöglicht.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-cabo-de-plata.webp"}, {"name": "Mercadillo de Zahara", "text": "Ein lebhafter lokaler Markt, auf dem Kunsthandwerk, Kleidung und regionale Spezialitäten in einer typisch andalusischen Atmosphäre angeboten werden.", "category": "squares/old-town", "confidence": "medium", "image": "/poi-images/sights/zahara-de-los-atunes-mercadillo-de-zahara.webp"}, {"name": "Paseo Marítimo", "text": "Die Uferpromenade von Zahara lädt zu langen Spaziergängen ein und bietet zahlreiche Restaurants mit frischem Thunfisch direkt am Meer.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-paseo-mar-timo.webp"}], "hu": [{"name": "Playa de Zahara", "text": "Hatalmas homokos tengerpart kristálytiszta vízzel, amelyet Andalúzia egyik legszebb és legtermészetesebb strandjaként tartanak számon.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-playa-de-zahara.webp"}, {"name": "Palacio de la Chanca", "text": "16. századi történelmi erődített épület, amely egykor a kifogott tonhal feldolgozására és tárolására szolgált a halászati szezonban.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-palacio-de-la-chanca.webp"}, {"name": "Iglesia de Nuestra Señora del Carmen", "text": "Ez a bájos 17. századi templom a halászok védőszentjének szentelt hely, és a település spirituális központját alkotja.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-iglesia-de-nuestra-se-ora-del-carmen.webp"}, {"name": "Faro de Camarinal", "text": "Egy sziklán álló jellegzetes világítótorony, amely egy 16. századi őrtoronyban kapott helyet, és pazar kilátást nyújt az óceánra.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-faro-de-camarinal.webp"}, {"name": "Playa de Atlanterra", "text": "Exkluzív tengerparti szakasz Zahara közelében, amely finom homokjáról, luxusvilláiról és nyugodt légköréről nevezetes.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-playa-de-atlanterra.webp"}, {"name": "Cabo de Plata", "text": "Sziklás kiszögellés, amely elválasztja Zahara és Atlanterra strandjait, és látványos naplementéket kínál az Atlanti-óceán felett.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-cabo-de-plata.webp"}, {"name": "Mercadillo de Zahara", "text": "Élénk helyi piac, ahol kézműves termékeket, ruhákat és regionális specialitásokat árulnak tipikus andalúz környezetben.", "category": "squares/old-town", "confidence": "medium", "image": "/poi-images/sights/zahara-de-los-atunes-mercadillo-de-zahara.webp"}, {"name": "Paseo Marítimo", "text": "Zahara tengerparti sétánya hosszú sétákra hívogat, és számos éttermet kínál friss tonhallal közvetlenül a vízparton.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-paseo-mar-timo.webp"}], "ro": [{"name": "Playa de Zahara", "text": "O plajă vastă de nisip cu ape cristaline, considerată una dintre cele mai frumoase și naturale plaje din regiunea Andaluzia.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-playa-de-zahara.webp"}, {"name": "Palacio de la Chanca", "text": "O clădire istorică fortificată din secolul al XVI-lea, folosită odinioară pentru procesarea și depozitarea tonului capturat.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-palacio-de-la-chanca.webp"}, {"name": "Iglesia de Nuestra Señora del Carmen", "text": "Această biserică fermecătoare din secolul al XVII-lea este dedicată patroanei pescarilor și reprezintă inima spirituală a localității.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-iglesia-de-nuestra-se-ora-del-carmen.webp"}, {"name": "Faro de Camarinal", "text": "Un far distinctiv situat pe o stâncă, găzduit într-un vechi turn de veghe din secolul al XVI-lea, oferind priveliști superbe.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-faro-de-camarinal.webp"}, {"name": "Playa de Atlanterra", "text": "O secțiune exclusivistă de plajă lângă Zahara, cunoscută pentru nisipul său fin, vilele de lux și atmosfera relaxantă.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-playa-de-atlanterra.webp"}, {"name": "Cabo de Plata", "text": "Un promontoriu stâncos care separă plajele Zahara și Atlanterra, oferind apusuri spectaculoase peste Oceanul Atlantic.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-cabo-de-plata.webp"}, {"name": "Mercadillo de Zahara", "text": "O piață locală plină de viață, unde se vând produse artizanale, haine și specialități regionale într-o atmosferă tipic andaluză.", "category": "squares/old-town", "confidence": "medium", "image": "/poi-images/sights/zahara-de-los-atunes-mercadillo-de-zahara.webp"}, {"name": "Paseo Marítimo", "text": "Promenada de la malul mării din Zahara este ideală pentru plimbări lungi și oferă numeroase restaurante cu ton proaspăt.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-paseo-mar-timo.webp"}], "en": [{"name": "Playa de Zahara", "text": "A vast sandy beach with crystal-clear waters, regarded as one of the most beautiful and natural beaches in the Andalusia region.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-playa-de-zahara.webp"}, {"name": "Palacio de la Chanca", "text": "A historic fortified building from the 16th century, once used for the processing and storage of tuna caught during the season.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-palacio-de-la-chanca.webp"}, {"name": "Iglesia de Nuestra Señora del Carmen", "text": "This charming 17th-century church is dedicated to the patron saint of fishermen and forms the spiritual heart of the village.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-iglesia-de-nuestra-se-ora-del-carmen.webp"}, {"name": "Faro de Camarinal", "text": "A distinctive lighthouse on a cliff, housed in an old 16th-century watchtower, offering spectacular views over the Atlantic Ocean.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-faro-de-camarinal.webp"}, {"name": "Playa de Atlanterra", "text": "An exclusive beach section near Zahara, known for its fine sand, luxury villas, and a very relaxed and peaceful atmosphere.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-playa-de-atlanterra.webp"}, {"name": "Cabo de Plata", "text": "A rocky headland that separates the beaches of Zahara and Atlanterra, providing stunning sunset views over the ocean.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-cabo-de-plata.webp"}, {"name": "Mercadillo de Zahara", "text": "A lively local market where handicrafts, clothing, and regional specialties are sold in a typical Andalusian outdoor setting.", "category": "squares/old-town", "confidence": "medium", "image": "/poi-images/sights/zahara-de-los-atunes-mercadillo-de-zahara.webp"}, {"name": "Paseo Marítimo", "text": "Zahara's beachfront promenade is perfect for long walks and offers many restaurants serving fresh local tuna by the sea.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/zahara-de-los-atunes-paseo-mar-timo.webp"}]}},
   {"id": "zarautz", "type": "city", "parent": "ES-PV", "coords": [-2.1697, 43.2842], "population": 23500, "tier": 2, "name": {"de": "Zarautz", "hu": "Zarautz", "ro": "Zarautz", "en": "Zarautz"}, "description": {"de": "Zarautz ist ein lebhafter Badeort an der baskischen Küste, bekannt für seinen 2,5 km langen Sandstrand und als erstklassiges Ziel für Surfer aus aller Welt.", "hu": "Zarautz a baszk tengerpart egyik legnépszerűbb üdülőhelye, amely 2,5 kilométeres, homokos strandjával és kiváló szörfözési lehetőségeivel vonzza a látogatókat.", "ro": "Zarautz este o stațiune vibrantă de pe coasta bască, renumită pentru plaja sa de 2,5 kilometri, cea mai lungă din provincie, și pentru condițiile excelente de surf.", "en": "Zarautz is a popular coastal town in the Basque Country, boasting the longest beach in the Gipuzkoa province and a world-renowned surf break."}, "facts": {"de": ["2,5 km Sandstrand", "Surf-Mekka", "Gipuzkoa Provinz", "Karlos Arguiñano Wohnsitz", "Eisenbahnverbindung", "Baskenland", "Sommerresidenz", "Wellenreiten"], "hu": ["2,5 km-es strand", "Szörfparadicsom", "Gipuzkoa tartomány", "Baszkföldön található", "Karlos Arguiñano városa", "Vasúti összeköttetés", "Híres gasztronómia", "Nyári üdülőhely"], "ro": ["Plajă de 2,5 km", "Destinație de surf", "Provincia Gipuzkoa", "Țara Bascilor", "Orașul lui Arguiñano", "Conexiune feroviară", "Gastronomie locală", "Turism estival"], "en": ["2.5 km long beach", "Surfing hotspot", "Gipuzkoa province", "Basque Country", "Home of Karlos Arguiñano", "Railway station", "Gourmet dining", "Summer resort"]}, "image": "/poi-images/zarautz.webp", "imageHint": "Aerial view of the long sandy beach and coastal buildings in Zarautz", "descriptionAdvanced": {"de": "Zarautz wurde im Jahr 1237 gegründet und hat sich von einem Walfangdorf zu einem der exklusivsten Ferienorte Nordspaniens entwickelt. Der Ort liegt in der Provinz Gipuzkoa und ist vor allem für seinen spektakulären, zweieinhalb Kilometer langen Sandstrand bekannt, der der längste an der gesamten baskischen Küste ist. Diese Küstenlinie zieht nicht nur Sonnenanbeter an, sondern ist aufgrund der beständigen Wellen ein internationaler Treffpunkt für Surfer. Die Promenade ist gesäumt von Skulpturen und Terrassen, die einen weiten Blick auf den Golf von Bizkaia bieten. Kulinarisch hat Zarautz ebenfalls viel zu bieten: Der berühmte Fernsehkoch Karlos Arguiñano betreibt hier sein Hotel-Restaurant. Neben dem Strand lädt die Altstadt mit ihren historischen Palästen wie dem Palacio de Narros, wo einst Königin Isabella II. residierte, zu einem Spaziergang durch die Geschichte ein. Die Umgebung ist geprägt von sanften Hügeln, die ideal für Wanderungen zum nahegelegenen Getaria sind.", "hu": "Zarautz városát 1237-ben alapították, és az évszázadok során egy bálnavadász faluból Észak-Spanyolország egyik legelegánsabb üdülőhelyévé vált. A Gipuzkoa tartományban fekvő település legfőbb vonzereje a két és fél kilométer hosszú, finomhomokos tengerpart, amely Baszkföld leghosszabb strandja. Ez a partszakasz nemcsak a pihenni vágyókat vonzza, hanem a nemzetközi szörfös közösség egyik bástyája is, köszönhetően a megbízható és látványos hullámoknak. A tengerparti sétányt modern szobrok és hangulatos teraszok díszítik, ahonnan pazar kilátás nyílik a Vizcayai-öbölre. A város gasztronómiai hírneve is jelentős, itt található Karlos Arguiñano, a híres spanyol tévészakács étterme és szállodája. Az óvárosban barangolva történelmi épületeket láthatunk, mint például a Narros-palotát, amely egykor II. Izabella spanyol királynő nyári rezidenciája volt. A várost körülölelő dombok kiváló túrázási lehetőséget nyújtanak a szomszédos Getaria irányába.", "ro": "Fondat în 1237, Zarautz a evoluat de la un sat de vânători de balene la una dintre cele mai exclusiviste destinații de vacanță din nordul Spaniei. Situat în provincia Gipuzkoa, orașul este celebru pentru plaja sa spectaculoasă de 2,5 kilometri, cea mai lungă de pe coasta bască. Această fâșie de nisip nu atrage doar turiștii dornici de soare, ci este și un punct de întâlnire internațional pentru surferi, datorită valurilor constante și de calitate. Promenada este presărată cu sculpturi și terase care oferă vederi largi asupra Golfului Biscaia. Gastronomia ocupă un loc central, faimosul bucătar Karlos Arguiñano având aici propriul hotel-restaurant. În orașul vechi, vizitatorii pot admira clădiri istorice precum Palatul Narros, fosta reședință de vară a reginei Isabella a II-a. Dealurile din jur oferă trasee pitorești pentru drumeții, legând Zarautz de satul vecin Getaria printr-o cale de coastă spectaculoasă.", "en": "Founded in 1237, Zarautz has transformed from a whaling village into one of Northern Spain's most prestigious summer resorts. Located in the province of Gipuzkoa, the town is best known for its stunning 2.5-kilometer sandy beach, the longest in the Basque Country. This coastline is not only a haven for sunbathers but also a world-renowned surfing destination, hosting international competitions thanks to its consistent and high-quality waves. The seaside promenade is lined with contemporary sculptures and cafes offering panoramic views of the Bay of Biscay. The town is also a gastronomic hub, home to the famous chef Karlos Arguiñano's hotel and restaurant. The historic center features notable landmarks like the Narros Palace, where Queen Isabella II once spent her summers. Surrounded by green hills, Zarautz serves as a gateway to the nearby Txakoli vineyards and scenic coastal trails leading to Getaria."}, "factsAdvanced": {"de": ["Gegründet im Jahr 1237 durch König Ferdinand III.", "Heimat des längsten Strandes im Baskenland (2500m)", "Nur 15 Kilometer westlich von San Sebastián gelegen", "Durchschnittliche Sommertemperatur liegt bei etwa 22°C", "Bekannt für den Palacio de Narros aus dem 16. Jahrhundert", "Wichtiger Stopp auf dem Jakobsweg (Camino del Norte)"], "hu": ["1237-ben alapította III. Ferdinánd kasztíliai király", "Itt található Baszkföld leghosszabb strandja (2500 m)", "Mindössze 15 kilométerre fekszik San Sebastiántól", "Az átlagos nyári hőmérséklet 22°C körül alakul", "A 16. századi Narros-palota a város egyik jelképe", "Fontos megállóhely az északi Szent Jakab-úton"], "ro": ["Fondat în 1237 de către regele Ferdinand al III-lea", "Găzduiește cea mai lungă plajă din Țara Bascilor (2500 m)", "Situat la doar 15 kilometri vest de San Sebastián", "Temperatura medie în timpul verii este de aproximativ 22°C", "Faimos pentru Palatul Narros, construit în secolul al XVI-lea", "Punct important pe traseul Camino del Norte"], "en": ["Founded in 1237 by King Ferdinand III of Castile", "Home to the longest beach in the Basque Country (2500m)", "Located just 15 kilometers west of San Sebastián", "Average summer temperature is approximately 22°C", "Features the 16th-century Narros Palace", "Key stop on the Camino del Norte pilgrimage route"]}, "sights": {"de": [{"name": "Strand von Zarautz", "text": "Der längste Strand im Baskenland ist 2,5 Kilometer lang und weltweit für seine hervorragenden Surfbedingungen bekannt.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/zarautz-strand-von-zarautz.webp"}, {"name": "Kirche Santa Maria la Real", "text": "Diese gotische Hallenkirche aus dem 15. Jahrhundert beherbergt bedeutende Grabmale und ein archäologisches Museum.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/zarautz-kirche-santa-maria-la-real.webp"}, {"name": "Palast von Narros", "text": "Ein prächtiges Renaissanceschloss am Strand, das im 16. Jahrhundert erbaut wurde und einst als Sommerresidenz für Königin Isabella II. diente.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/zarautz-palast-von-narros.webp"}, {"name": "Turm Luzea", "text": "Ein gut erhaltener Turm im gotischen Stil aus dem 15. Jahrhundert, der ein seltenes Beispiel für zivile Architektur in der Region darstellt.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/zarautz-turm-luzea.webp"}, {"name": "Photomuseum", "text": "Dieses Museum widmet sich der Geschichte und Technik der Fotografie von ihren Anfängen bis zur heutigen digitalen Ära.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/zarautz-photomuseum.webp"}, {"name": "Einsiedelei Santa Barbara", "text": "Auf einem Hügel gelegen, bietet diese Kapelle aus dem Jahr 1704 einen spektakulären Panoramablick auf Zarautz und den Ozean.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/zarautz-einsiedelei-santa-barbara.webp"}, {"name": "Restaurant Karlos Arguiñano", "text": "Das berühmte Restaurant des TV-Kochs befindet sich in einem charmanten Schloss direkt an der Strandpromenade.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/zarautz-restaurant-karlos-argui-ano.webp"}, {"name": "Palast Portu", "text": "Ein elegantes Gebäude aus dem 16. Jahrhundert, das heute als Rathaus dient und durch seine Fassade im Renaissancestil besticht.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/zarautz-palast-portu.webp"}], "hu": [{"name": "Zarautzi strand", "text": "Baszkföld leghosszabb strandja 2,5 kilométeres, aranyhomokos partja és kiváló szörfözési lehetőségei miatt világszerte népszerű.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/zarautz-strand-von-zarautz.webp"}, {"name": "Santa Maria la Real templom", "text": "A 15. századi gótikus templom figyelemre méltó síremlékeket és egy értékes régészeti múzeumot foglal magában.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/zarautz-kirche-santa-maria-la-real.webp"}, {"name": "Narros-palota", "text": "A tengerparton álló 16. századi reneszánsz palota egykor II. Izabella spanyol királynő kedvelt nyári rezidenciája volt.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/zarautz-palast-von-narros.webp"}, {"name": "Luzea-torony", "text": "A 15. századból származó gótikus lakótorony a baszk polgári építészet egyik legjobb állapotban fennmaradt példája.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/zarautz-turm-luzea.webp"}, {"name": "Fotomúzeum", "text": "A múzeum a fotográfia történetét és technikai fejlődését mutatja be a kezdetektől napjaink digitális világáig.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/zarautz-photomuseum.webp"}, {"name": "Szent Borbála-remetelak", "text": "A dombtetőn álló 1704-es kápolnától lenyűgöző panoráma nyílik a városra és a Vizcayai-öböl végtelen kék vizére.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/zarautz-einsiedelei-santa-barbara.webp"}, {"name": "Karlos Arguiñano étterem", "text": "A híres tévészakács étterme egy gyönyörű kastélyépületben található, közvetlenül a népszerű parti sétány mentén.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/zarautz-restaurant-karlos-argui-ano.webp"}, {"name": "Portu-palota", "text": "Ez a 16. századi elegáns épület ma a polgármesteri hivatalnak ad otthont, reneszánsz homlokzata a város jelképe.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/zarautz-palast-portu.webp"}], "ro": [{"name": "Plaja din Zarautz", "text": "Cea mai lungă plajă din Țara Bascilor se întinde pe 2,5 kilometri, fiind celebră pentru nisipul fin și surfing.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/zarautz-strand-von-zarautz.webp"}, {"name": "Biserica Santa Maria la Real", "text": "O biserică gotică din secolul al XV-lea care găzduiește morminte istorice și un muzeu arheologic impresionant.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/zarautz-kirche-santa-maria-la-real.webp"}, {"name": "Palatul Narros", "text": "Construit în secolul al XVI-lea pe malul mării, acest palat a fost reședința de vară a reginei Isabela a II-a a Spaniei.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/zarautz-palast-von-narros.webp"}, {"name": "Turnul Luzea", "text": "Un turn gotic bine conservat din secolul al XV-lea, reprezentând un exemplu rar de arhitectură civilă în această regiune.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/zarautz-turm-luzea.webp"}, {"name": "Muzeul de Fotografie", "text": "Acest muzeu explorează evoluția tehnicii fotografice, de la primele aparate până la era digitală contemporană.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/zarautz-photomuseum.webp"}, {"name": "Ermitul Santa Barbara", "text": "Situată pe un deal, această capelă din 1704 oferă o vedere panoramică spectaculoasă asupra întregii coaste a localității.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/zarautz-einsiedelei-santa-barbara.webp"}, {"name": "Restaurantul Karlos Arguiñano", "text": "Renumitul restaurant al celebrului bucătar spaniol este situat într-un castel pitoresc, chiar lângă faleză.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/zarautz-restaurant-karlos-argui-ano.webp"}, {"name": "Palatul Portu", "text": "O clădire elegantă din secolul al XVI-lea, care servește în prezent ca sediu al primăriei din Zarautz.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/zarautz-palast-portu.webp"}], "en": [{"name": "Zarautz Beach", "text": "The longest beach in the Basque Country stretches for 2.5 kilometers and is a world-renowned destination for surfing.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/zarautz-strand-von-zarautz.webp"}, {"name": "Church of Santa Maria la Real", "text": "This 15th-century Gothic church houses significant historical tombs and an insightful archaeological museum.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/zarautz-kirche-santa-maria-la-real.webp"}, {"name": "Narros Palace", "text": "A 16th-century Renaissance palace on the waterfront that once served as the summer residence for Queen Isabella II.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/zarautz-palast-von-narros.webp"}, {"name": "Luzea Tower", "text": "A well-preserved 15th-century Gothic tower representing a rare and fine example of civil architecture in the region.", "category": "castles/fortresses/towers", "confidence": "high", "image": "/poi-images/sights/zarautz-turm-luzea.webp"}, {"name": "Photomuseum", "text": "This museum is dedicated to the history and technique of photography, from its origins to the modern digital age.", "category": "museums", "confidence": "high", "image": "/poi-images/sights/zarautz-photomuseum.webp"}, {"name": "Santa Barbara Hermitage", "text": "Located on a hill, this 1704 chapel provides spectacular panoramic views of Zarautz and the Cantabrian Sea.", "category": "churches/cathedrals", "confidence": "high", "image": "/poi-images/sights/zarautz-einsiedelei-santa-barbara.webp"}, {"name": "Karlos Arguiñano Restaurant", "text": "The famous restaurant of the celebrity chef is located in a charming castle building right on the beach promenade.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/zarautz-restaurant-karlos-argui-ano.webp"}, {"name": "Portu Palace", "text": "An elegant 16th-century building with a Renaissance facade that currently serves as the town hall of Zarautz.", "category": "famous residences", "confidence": "high", "image": "/poi-images/sights/zarautz-palast-portu.webp"}]}},
-  {"id": "spain-palma-de-mallorca-cities-v2", "type": "city", "parent": "ES-IB", "coords": [2.6502, 39.5696], "population": 416065, "tier": 1, "name": {"de": "Palma de Mallorca", "hu": "Palma de Mallorca", "ro": "Palma de Mallorca", "en": "Palma de Mallorca"}, "description": {"de": "Die Hauptstadt der Balearen ist berühmt für ihre riesige gotische Kathedrale La Seu und die verwinkelte Altstadt am Mittelmeer.", "hu": "A Baleár-szigetek fővárosa, amely monumentális gótikus székesegyházáról, a La Seu-ról és hangulatos, tengerparti óvárosáról ismert.", "ro": "Capitala Insulelor Baleare este renumită pentru catedrala sa gotică monumentală La Seu și pentru centrul istoric pitoresc de la malul mării.", "en": "The capital of the Balearic Islands is famous for its massive Gothic cathedral, La Seu, and its winding old town streets overlooking the Mediterranean."}, "descriptionAdvanced": {"de": "Palma, das wirtschaftliche und kulturelle Zentrum Mallorcas, blickt auf eine Geschichte zurück, die bis in die Römerzeit reicht. Das Wahrzeichen der Stadt ist die Kathedrale La Seu, ein Meisterwerk der Gotik, deren Bau 1229 begann und deren Rosettenfenster zu den größten der Welt gehört. Direkt daneben befindet sich der Königspalast La Almudaina, ein Zeugnis der maurischen Vergangenheit der Insel. In der Altstadt finden Besucher prachtvolle Renaissance-Paläste mit schattigen Innenhöfen und das jüdische Viertel Call.\n\nEinzigartig ist das Castell de Bellver, eine kreisrunde Festung aus dem 14. Jahrhundert, die auf einem Hügel westlich des Zentrums thront und einen Panoramablick über die Bucht von Palma bietet. Das moderne Palma zeigt sich am Paseo del Borne mit seinen Luxusgeschäften und entlang der Hafenpromenade. Kulinarisch ist die Stadt für die Ensaimada, ein schneckenförmiges Hefegebäck, und die würzige Streichwurst Sobrassada bekannt. Der Flughafen Son Sant Joan (PMI) liegt nur 8 km östlich der Stadt und verbindet Palma mit allen großen europäischen Metropolen.", "hu": "Palma de Mallorca a Baleár-szigetek kulturális és gazdasági központja, amelynek történelme a római korig nyúlik vissza. A város legfontosabb jelképe a La Seu katedrális, amely a világ egyik legnagyobb gótikus temploma; építése 1229-ben kezdődött I. Jakab király hódítása után. A katedrális mellett áll az Almudaina palota, amely egykori mór erődként a sziget arab múltját idézi. Az óváros szűk utcái között reneszánsz paloták, rejtett belső udvarok és a régi zsidó negyed (Call) fedezhető fel.\n\nA várostól nyugatra, egy dombtetőn található a Castell de Bellver, Európa kevés kör alaprajzú várainak egyike, ahonnan belátni az egész öblöt és a kikötőt. A modern városrész a Paseo del Borne sugárút köré összpontosul, ahol luxusüzletek és elegáns kávézók várják a látogatókat. Érdemes megkóstolni a helyi különlegességet, az ensaimada nevű édes süteményt és a sobrassada kolbászt. A Son Sant Joan repülőtér (PMI) mindössze 8 kilométerre található, így a város könnyen elérhető nemzetközi járatokkal és komppal egyaránt Barcelona vagy Valencia felől.", "ro": "Palma, centrul cultural și economic al insulei Mallorca, are o istorie bogată care datează din perioada romană. Simbolul orașului este Catedrala La Seu, o capodoperă a stilului gotic începută în 1229, celebră pentru vitraliile sale imense și poziționarea spectaculoasă deasupra mării. Lângă ea se află Palatul Regal La Almudaina, o fostă fortăreață maură transformată în reședință regală. Centrul vechi este un labirint de străduțe cu palate renascentiste, curți interioare umbrite și vechiul cartier evreiesc.\n\nLa vest de oraș se înalță Castelul Bellver, una dintre puținele fortărețe circulare din Europa, construit în secolul al XIV-lea, oferind o panoramă completă asupra golfului Palma. Viața modernă se desfășoară pe bulevardul Paseo del Borne și de-a lungul portului maritim plin de iahturi. Din punct de vedere gastronomic, Palma este faimoasă pentru plăcinta ensaimada și cârnatul sobrassada. Aeroportul Son Sant Joan (PMI) este situat la doar 8 km distanță, fiind unul dintre cele mai tranzitate din Spania, asigurând conexiuni rapide cu restul Europei și Spaniei continentale prin portul maritim.", "en": "Palma, the vibrant capital of Mallorca, is dominated by the majestic La Seu Cathedral, a Gothic masterpiece overlooking the bay. Founded by Romans on a Talaiotic settlement, the city center is a labyrinth of narrow streets, hidden courtyards, and Renaissance palaces. The Palau de l'Almudaina stands next to the cathedral, reflecting the city's Moorish and Christian heritage. On a hill overlooking the harbor sits the Castell de Bellver, one of the few circular castles in Europe, built in the 14th century.\n\nVisitors flock to the Paseo del Borne for luxury shopping or enjoy the local gastronomy, such as the ensaimada pastry and sobrassada sausage. The city is easily accessible via Son Sant Joan Airport (PMI), just 8 km away, and serves as the primary hub for exploring the Serra de Tramuntana mountains. Its cultural life is anchored by museums like the Fundació Miró Mallorca, dedicated to the famous artist who lived here. Frequent ferries also connect Palma with mainland Spanish cities like Barcelona and Valencia."}, "facts": {"de": ["Catedral de Mallorca (La Seu)", "Castell de Bellver (Rundburg)", "Palau de l'Almudaina", "416.065 Einwohner", "Gegründet 123 v. Chr.", "Ensaimada (Gebäck)", "Paseo del Borne (Shopping)", "Hafen von Palma"], "hu": ["La Seu katedrális", "Castell de Bellver (körvár)", "Almudaina palota", "416 065 lakos", "Alapítva: i.e. 123", "Ensaimada sütemény", "Paseo del Borne sugárút", "Son Sant Joan repülőtér"], "ro": ["Catedrala La Seu", "Castelul Bellver", "Palatul Regal La Almudaina", "416.065 locuitori", "Fondat în 123 î.Hr.", "Plăcinta Ensaimada", "Bulevardul Paseo del Borne", "Portul maritim Palma"], "en": ["La Seu Cathedral", "Castell de Bellver (circular)", "Palau de l'Almudaina", "416,065 residents", "Founded 123 BC", "Ensaimada pastry", "Paseo del Borne shopping", "Son Sant Joan Airport"]}, "imageHint": "A wide shot of the Gothic La Seu Cathedral in Palma de Mallorca reflecting in the water of the Parc de la Mar.", "image": "/poi-images/spain-palma-de-mallorca-cities-v2.webp"},
-  {"id": "spain-las-palmas-de-gran-canaria-cities-v2", "type": "city", "parent": "ES-CN", "coords": [-15.4363, 28.1235], "population": 379925, "tier": 1, "name": {"de": "Las Palmas de Gran Canaria", "hu": "Las Palmas de Gran Canaria", "ro": "Las Palmas de Gran Canaria", "en": "Las Palmas de Gran Canaria"}, "description": {"de": "Die größte Stadt der Kanaren bietet eine Mischung aus kolonialer Geschichte im Viertel Vegueta und dem kilometerlangen Sandstrand Las Canteras.", "hu": "A Kanári-szigetek legnagyobb városa, ahol a koloniális múlt Vegueta negyedében találkozik a több kilométeres Las Canteras homokos stranddal.", "ro": "Cel mai mare oraș din Insulele Canare îmbină istoria colonială din cartierul Vegueta cu plaja cu nisip lungă de kilometri, Las Canteras.", "en": "The largest city in the Canary Islands blends colonial history in the Vegueta district with the golden sands of the three-kilometer Las Canteras beach."}, "descriptionAdvanced": {"de": "Las Palmas de Gran Canaria wurde 1478 gegründet und ist heute eine der beiden Hauptstädte der Autonomen Gemeinschaft der Kanaren. Das historische Herz der Stadt ist Vegueta, wo die Kathedrale Santa Ana mit ihren charakteristischen Türmen dominiert. Ein Muss für Geschichtsinteressierte ist das Casa de Colón, in dem Christoph Kolumbus während seiner Expeditionen nach Amerika Station gemacht haben soll. Die Architektur hier ist geprägt von den typischen kanarischen Holzbalkonen und Kopfsteinpflastergassen.\n\nIm Norden der Stadt erstreckt sich die Playa de Las Canteras, einer der besten Stadtstrände der Welt. Ein natürliches Lavariff, „La Barra“ genannt, schützt einen Großteil des Strandes vor Brandung und macht ihn ideal zum Schnorcheln. Am westlichen Ende des Strandes befindet sich das Auditorio Alfredo Kraus, ein markantes Gebäude direkt am Meer. Der Hafen Puerto de la Luz ist ein strategischer Knotenpunkt im Atlantik. Die Stadt ist zudem für ihren farbenfrohen Karneval bekannt, der zu den bedeutendsten weltweit zählt. Der internationale Flughafen Gran Canaria (LPA) liegt etwa 20 km südlich der Stadt.", "hu": "Las Palmas de Gran Canaria várost 1478-ban alapították, és ma a Kanári-szigetek egyik fővárosa. A történelmi városmag, Vegueta, szűk utcáival és koloniális stílusú házaival az UNESCO világörökség része. Itt található a Santa Ana katedrális és a Casa de Colón (Kolumbusz háza), ahol a híres felfedező megpihent amerikai útja előtt. A város építészetére jellemzőek a faragott faerkélyek és a spanyol hódítás korabeli stílusjegyek.\n\nA város északi részén fekszik a Playa de Las Canteras, amely a világ egyik legszebb városi strandja. A három kilométer hosszú partot egy természetes vulkáni kőzetgát védi a hullámoktól, így kiválóan alkalmas úszásra és sznorkelezésre. A strand végén áll az Auditorio Alfredo Kraus hangversenyterem. Las Palmas fontos kikötőváros (Puerto de la Luz) és kereskedelmi központ is egyben. A februári karnevál a város legfontosabb eseménye, amely turisták ezreit vonzza. A nemzetközi repülőtér (LPA) 20 percnyi autóútra van délre, és jó összeköttetést biztosít Európával.", "ro": "Las Palmas de Gran Canaria a fost fondat în 1478 și este una dintre cele două capitale ale arhipelagului Canare. Inima istorică a orașului este cartierul Vegueta, inclus în patrimoniul UNESCO, unde se află Catedrala Santa Ana și Casa de Colón, muzeul dedicat lui Cristofor Columb care a poposit aici în drumul său spre America. Arhitectura colonială cu balcoane din lemn și străzi pavate oferă o atmosferă autentică spaniolă.\n\nPartea de nord a orașului este dominată de Playa de Las Canteras, o plajă urbană spectaculoasă de 3 km lungime, protejată de un recif natural de lavă numit „La Barra”. La capătul plajei se află Auditoriul Alfredo Kraus, o clădire modernă emblematică. Orașul găzduiește unul dintre cele mai mari carnavaluri din lume în fiecare februarie. Portul Puerto de la Luz este un punct logistic esențial în Oceanul Atlantic. Aeroportul Gran Canaria (LPA) se află la aproximativ 20 km spre sud, oferind acces facil către insulă. Gastronomia locală include celebrul sos mojo și cartofii „papas arrugadas”.", "en": "Las Palmas de Gran Canaria, founded in 1478, is the co-capital of the Canary Islands and a bustling cosmopolitan hub. The historical center, Vegueta, showcases exquisite colonial architecture, most notably the Cathedral of Santa Ana and the Casa de Colón, a museum where Christopher Columbus stayed during his voyages to the New World. The cobblestone streets of the old quarter are lined with traditional houses featuring ornate wooden balconies.\n\nThe city's northern shore is home to Playa de Las Canteras, widely regarded as one of the world's finest urban beaches. A natural offshore reef protects the golden sands, creating a calm basin perfect for swimming and snorkeling. At the beach's western edge stands the Auditorio Alfredo Kraus, an iconic venue for classical music. The port, Puerto de la Luz, is one of the Atlantic's busiest maritime crossroads. Every year, the city hosts a world-famous Carnival. The Gran Canaria Airport (LPA) is located 20 km south of the city center."}, "facts": {"de": ["Vegueta (Altstadt)", "Playa de Las Canteras", "Casa de Colón (Kolumbus-Haus)", "Catedral de Santa Ana", "379.925 Einwohner", "Gegründet 1478", "Auditorio Alfredo Kraus", "Puerto de la Luz (Hafen)"], "hu": ["Vegueta negyed", "Playa de Las Canteras", "Casa de Colón", "Santa Ana katedrális", "379 925 lakos", "Alapítva: 1478", "Auditorio Alfredo Kraus", "Puerto de la Luz kikötő"], "ro": ["Cartierul Vegueta", "Plaja Las Canteras", "Casa de Colón", "Catedrala Santa Ana", "379.925 locuitori", "Fondat în 1478", "Auditoriul Alfredo Kraus", "Portul Puerto de la Luz"], "en": ["Vegueta Old Town", "Las Canteras Beach", "Casa de Colón Museum", "Santa Ana Cathedral", "379,925 residents", "Founded 1478", "Alfredo Kraus Auditorium", "Puerto de la Luz Port"]}, "imageHint": "A high-angle view of the Cathedral of Santa Ana with its twin towers in the historical Vegueta district of Las Palmas.", "image": "/poi-images/spain-las-palmas-de-gran-canaria-cities-v2.webp"},
-  {"id": "spain-santa-cruz-de-tenerife-cities-v2", "type": "city", "parent": "ES-CN", "coords": [-16.2518, 28.4636], "population": 209194, "tier": 1, "name": {"de": "Santa Cruz de Tenerife", "hu": "Santa Cruz de Tenerife", "ro": "Santa Cruz de Tenerife", "en": "Santa Cruz de Tenerife"}, "description": {"de": "Die Hauptstadt Teneriffas besticht durch moderne Architektur wie das Auditorio de Tenerife und einen der weltweit größten Karnevals.", "hu": "Tenerife fővárosa, amely modern építészetéről, mint az Auditorio de Tenerife, és a világ egyik legnagyobb karneváljáról híres.", "ro": "Capitala insulei Tenerife impresionează prin arhitectura modernă precum Auditorio de Tenerife și unul dintre cele mai mari carnavaluri din lume.", "en": "The capital of Tenerife is famous for its avant-garde architecture, including the Auditorio de Tenerife, and hosting one of the world's largest Carnivals."}, "descriptionAdvanced": {"de": "Santa Cruz de Tenerife liegt im Nordosten der Insel und ist ein wichtiger Hafenstandort im Atlantik. Das moderne Gesicht der Stadt wird durch das Auditorio de Tenerife geprägt, ein futuristisches Werk des Architekten Santiago Calatrava, das oft mit dem Opernhaus von Sydney verglichen wird. Die Plaza de España im Zentrum beherbergt einen künstlichen See und liegt über den Überresten der alten Festung San Cristóbal, die im unterirdischen Museum besichtigt werden können.\n\nGrüne Lungen der Stadt sind der Parque García Sanabria mit seinen exotischen Pflanzen und der Palmetum, ein botanischer Garten auf einer ehemaligen Müllkippe, der die weltweit größte Palmensammlung beherbergt. Wenige Kilometer außerhalb des Zentrums liegt die Playa de las Teresitas, ein goldener Sandstrand, für den der Sand extra aus der Sahara herbeigeschafft wurde. Santa Cruz ist weltberühmt für seinen Karneval im Februar, der in Ausmaß und Pracht nur von Rio de Janeiro übertroffen wird. Die Anreise erfolgt meist über den Nordflughafen (TFN) oder den Südflughafen (TFS), während Fähren die Stadt mit den Nachbarinseln und dem Festland verbinden.", "hu": "Santa Cruz de Tenerife az Atlanti-óceán egyik fontos kikötővárosa és Tenerife szigetének közigazgatási központja. A város látképét meghatározza a Santiago Calatrava által tervezett Auditorio de Tenerife, amely modern, hullámot formázó tetőszerkezetével a város szimbólumává vált. A város szíve a Plaza de España, ahol egy hatalmas mesterséges tó található, alatta pedig a régi San Cristóbal erőd romjai tekinthetők meg egy interaktív múzeumban.\n\nA természetkedvelőknek a Parque García Sanabria kínál trópusi növényeket, a Palmetum pedig a világ egyik leggazdagabb pálmagyűjteményét mutatja be. A központtól 7 km-re fekszik a Playa de las Teresitas, amely sárga homokját a Szaharából hozták. A város februári karneválja nemzetközi hírű, hatalmas jelmezes felvonulásokkal és táncmulatságokkal. Santa Cruz kiváló bázis a sziget északi részének, például az Anaga-hegységnek a felfedezéséhez. A város két repülőtérrel és egy forgalmas kikötővel rendelkezik, így könnyen elérhető bárhonnan.", "ro": "Santa Cruz de Tenerife, situat în nord-estul insulei, este un port vital și un centru cultural vibrant. Orașul este recunoscut imediat după silueta spectaculoasă a Auditoriului de Tenerife, proiectat de Santiago Calatrava, o emblemă a arhitecturii contemporane. În centru, Plaza de España impresionează prin lacul său artificial și prin muzeul subteran care adăpostește zidurile vechiului castel San Cristóbal.\n\nOrașul dispune de spații verzi generoase, cum ar fi Parcul García Sanabria și Palmetum, o grădină botanică specializată în palmieri construită pe un fost depozit de deșeuri. La mică distanță de oraș se află plaja Las Teresitas, faimoasă pentru nisipul auriu adus din deșertul Sahara. Carnavalul din Santa Cruz este declarat de interes turistic internațional și este considerat al doilea ca mărime din lume după cel din Rio. Gastronomia locală poate fi savurată în Mercado de Nuestra Señora de África, o piață tradițională cu produse proaspete. Aeroportul Tenerife Nord (TFN) deservește în principal zborurile inter-insulare și naționale.", "en": "Santa Cruz de Tenerife is a bustling port city and the capital of Tenerife. Its skyline is defined by the Auditorio de Tenerife, a futuristic wave-like structure designed by Santiago Calatrava. The central Plaza de España features a large saltwater lake and an underground museum showcasing the remains of the historic Castillo de San Cristóbal. The city is a blend of traditional Canarian charm and modern urban development.\n\nNature lovers enjoy the García Sanabria Park and the Palmetum, a botanical garden with one of the world's most extensive palm collections. Just a short drive away lies Playa de las Teresitas, a golden sand beach unique to the island because its sand was imported from the Sahara Desert. Santa Cruz is most famous for its vibrant Carnival in February, an explosion of color and music that rivals Rio de Janeiro. The city is served by two airports, Tenerife North (TFN) and Tenerife South (TFS), and remains a key ferry terminal for trips to other islands and the Spanish mainland."}, "facts": {"de": ["Auditorio de Tenerife", "Plaza de España", "Playa de las Teresitas", "Karneval von Santa Cruz", "209.194 Einwohner", "Parque García Sanabria", "Palmetum (Palmenpark)", "Mercado de África"], "hu": ["Auditorio de Tenerife", "Plaza de España", "Playa de las Teresitas", "Santa Cruz-i karnevál", "209 194 lakos", "Parque García Sanabria", "Palmetum botanikus kert", "San Cristóbal erőd romjai"], "ro": ["Auditorio de Tenerife", "Plaza de España", "Plaja Las Teresitas", "Carnavalul din Santa Cruz", "209.194 locuitori", "Parcul García Sanabria", "Palmetum", "Castelul San Cristóbal"], "en": ["Auditorio de Tenerife", "Plaza de España", "Playa de las Teresitas", "Santa Cruz Carnival", "209,194 residents", "García Sanabria Park", "Palmetum Botanic Garden", "San Cristóbal Castle ruins"]}, "imageHint": "The futuristic white structure of the Auditorio de Tenerife by the sea under a clear blue sky.", "image": "/poi-images/spain-santa-cruz-de-tenerife-cities-v2.webp"},
-  {"id": "spain-la-laguna-cities-v2", "type": "city", "parent": "ES-CN", "coords": [-16.3159, 28.4874], "population": 157503, "tier": 2, "name": {"de": "San Cristóbal de La Laguna", "hu": "San Cristóbal de La Laguna", "ro": "San Cristóbal de La Laguna", "en": "San Cristóbal de La Laguna"}, "description": {"de": "Diese UNESCO-Welterbestadt war das Vorbild für viele Kolonialstädte in Amerika und beherbergt die älteste Universität der Kanaren.", "hu": "Ez az UNESCO világörökségi város szolgált mintául számos amerikai koloniális városnak, és itt található a Kanári-szigetek legrégebbi egyeteme.", "ro": "Acest oraș din patrimoniul UNESCO a fost modelul pentru multe orașe coloniale din America și găzduiește cea mai veche universitate din Canare.", "en": "A UNESCO World Heritage city that served as the blueprint for many colonial cities in the Americas, home to the oldest university in the Canaries."}, "descriptionAdvanced": {"de": "San Cristóbal de La Laguna, oft einfach La Laguna genannt, war die erste Hauptstadt Teneriffas und liegt im Aguere-Tal. Die Stadt wurde 1496 gegründet und ist ein herausragendes Beispiel für eine nicht befestigte Stadtplanung nach einem gitterförmigen Grundriss – ein Modell, das später für Städte wie Havanna oder San Juan in der Karibik übernommen wurde. Aufgrund dieses historischen Wertes wurde das Zentrum 1999 zum UNESCO-Welterbe erklärt. Die Straßen sind gesäumt von farbenfrohen Herrenhäusern aus dem 16. bis 18. Jahrhundert mit kunstvoll geschnitzten Holzbalkonen und prächtigen Innenhöfen.\n\nZu den bedeutendsten Bauwerken zählen die Kathedrale von La Laguna und die Kirche Nuestra Señora de la Concepción mit ihrem markanten Glockenturm. Als Sitz der Universität La Laguna (gegründet 1701) herrscht hier eine lebendige studentische Atmosphäre mit zahlreichen Cafés und Buchläden. Da die Stadt auf etwa 550 Metern Höhe liegt, ist das Klima deutlich kühler und oft feuchter als an der Küste. Die Stadt ist nur wenige Kilometer vom Nordflughafen Teneriffas entfernt und dient als Tor zum Anaga-Gebirge, einem geologisch alten Teil der Insel mit dichten Lorbeerwäldern.", "hu": "San Cristóbal de La Laguna Tenerife egykori fővárosa, amely az Aguere-völgyben fekszik. Az 1496-ban alapított város különlegessége, hogy ez volt az első erődítmény nélküli, rácshálós alaprajzú spanyol koloniális város. Ez a városszerkezet szolgált mintául az amerikai kontinens spanyol városaihoz, például Havannához vagy San Juanhoz, amiért 1999-ben az UNESCO világörökség részévé nyilvánították. A történelmi központban 16-18. századi színes nemesi kúriák, faragott faerkélyek és virágos belső udvarok láthatók.\n\nA legfontosabb látnivalók közé tartozik a La Laguna-i katedrális és a Nuestra Señora de la Concepción templom, melynek harangtornyából belátni a várost. Itt található a szigetek legrégebbi egyeteme (Universidad de La Laguna), ami fiatalos, pezsgő hangulatot kölcsönöz a településnek. A város 550 méteres tengerszint feletti magassága miatt éghajlata hűvösebb és párásabb, mint a tengerparti városoké. Kiváló kiindulópont az Anaga-hegység és annak ősi babérerdőinek felfedezéséhez. A Tenerife Norte repülőtér (TFN) közvetlenül a város határában található.", "ro": "San Cristóbal de La Laguna, cunoscut simplu ca La Laguna, a fost prima capitală a insulei Tenerife. Fondat în 1496, este un exemplu remarcabil de oraș colonial fără ziduri de apărare, construit după un plan în rețea care a influențat direct urbanismul din Lumea Nouă, inclusiv orașe precum Havana. Din acest motiv, centrul său istoric este inclus în patrimoniul mondial UNESCO din 1999. Plimbarea pe străzile pietonale dezvăluie fațade colorate, balcoane din lemn de pin canarian și curți interioare pline de vegetație.\n\nReperele principale includ Catedrala din La Laguna și Biserica Nuestra Señora de la Concepción, cu faimosul său turn din piatră. Orașul este și un centru universitar important, găzduind Universidad de La Laguna, ceea ce îi conferă o atmosferă culturală activă. Situat la o altitudine de peste 500 de metri, La Laguna are un climat mai răcoros decât stațiunile de pe coastă. Este situat strategic lângă Aeroportul Tenerife Nord și constituie punctul de plecare către munții Anaga, zonă renumită pentru pădurile de lauri preistorice. Gastronomia locală include produse de patiserie tradiționale și vinuri de regiune.", "en": "San Cristóbal de La Laguna, the former capital of Tenerife, is a historical gem located in the Aguere Valley. Founded in 1496, it was the first non-fortified Spanish colonial city, designed with a grid system that became the template for major American cities like Havana and San Juan. This architectural and historical importance earned it a spot on the UNESCO World Heritage list in 1999. Its pedestrian streets are lined with brightly colored mansions, some dating back to the 16th century, featuring exquisite wooden balconies and peaceful inner courtyards.\n\nKey landmarks include the Cathedral of La Laguna and the Church of the Immaculate Conception, which offers panoramic views from its iconic bell tower. As the seat of the University of La Laguna (founded in 1701), the city boasts a lively student population and a thriving cultural scene. Due to its elevation (550m), the weather here is noticeably cooler and mistier than the coastal areas. The city is located right next to Tenerife North Airport (TFN) and serves as the gateway to the ancient laurel forests of the Anaga Rural Park."}, "facts": {"de": ["UNESCO-Welterbe seit 1999", "Erste Hauptstadt Teneriffas", "Universität La Laguna (1701)", "Kirche de la Concepción", "157.503 Einwohner", "Gitterförmiger Stadtplan", "Koloniale Herrenhäuser", "Nähe zum Anaga-Gebirge"], "hu": ["UNESCO világörökség (1999)", "Tenerife első fővárosa", "La Laguna-i Egyetem (1701)", "Nuestra Señora de la Concepción", "157 503 lakos", "Rácshálós városszerkezet", "Koloniális kúriák", "Tenerife Norte repülőtér"], "ro": ["Patrimoniu UNESCO (1999)", "Prima capitală a insulei", "Universitatea La Laguna", "Biserica de la Concepción", "157.503 locuitori", "Plan urbanistic în rețea", "Case coloniale cu balcoane", "Poarta către Munții Anaga"], "en": ["UNESCO World Heritage Site", "First capital of Tenerife", "University of La Laguna", "Concepción Church tower", "157,503 residents", "Colonial grid layout", "Traditional Canarian patios", "Proximity to Anaga Rural Park"]}, "imageHint": "A narrow pedestrian street in La Laguna with colorful colonial house facades and traditional wooden balconies.", "image": "/poi-images/spain-la-laguna-cities-v2.webp"},
-  {"id": "spain-lloret-de-mar-cities-v2", "type": "city", "parent": "ES-CT", "coords": [2.8456, 41.6995], "population": 40803, "tier": 2, "name": {"de": "Lloret de Mar", "hu": "Lloret de Mar", "ro": "Lloret de Mar", "en": "Lloret de Mar"}, "description": {"de": "Ein beliebter Urlaubsort an der Costa Brava, der für seine Strände, das lebhafte Nachtleben und die wunderschönen Santa Clotilde Gärten bekannt ist.", "hu": "A Costa Brava népszerű üdülővárosa, amely strandjairól, pezsgő éjszakai életéről és a gyönyörű Santa Clotilde kertekről ismert.", "ro": "O stațiune populară pe Costa Brava, cunoscută pentru plajele sale, viața de noapte activă și frumoasele grădini Santa Clotilde.", "en": "A popular resort town on the Costa Brava, known for its Mediterranean beaches, vibrant nightlife, and the beautiful Santa Clotilde Gardens."}, "descriptionAdvanced": {"de": "Lloret de Mar ist eines der bekanntesten Reiseziele an der katalanischen Costa Brava. Ursprünglich ein Fischerdorf, wandelte es sich im 20. Jahrhundert zu einem Tourismuszentrum. Die Stadt bietet mehrere Strände, von der großen Playa de Lloret bis hin zu ruhigeren Buchten wie Cala Boadella. Ein architektonisches Highlight ist die Kirche Sant Romà mit ihren bunten Dachziegeln im modernistischen Stil. Ebenfalls sehenswert ist der Modernistische Friedhof, der von Schülern Antoni Gaudís mitgestaltet wurde.\n\nBesonders beeindruckend sind die Gärten von Santa Clotilde, die auf einer Klippe über dem Meer im Stil der italienischen Renaissance angelegt wurden und spektakuläre Ausblicke bieten. Die Burg d'en Plaja am Ende des Hauptstrandes ist zwar privat, bildet aber eines der meistfotografierten Motive der Stadt. Lloret ist auch für sein intensives Nachtleben mit zahlreichen Clubs und Bars bekannt, was vor allem jüngeres Publikum anzieht. Für Wanderer bietet der Küstenweg Cami de Ronda wunderschöne Ausblicke auf die zerklüftete Küste. Die Stadt liegt etwa 80 km nördlich von Barcelona und ist gut über die Flughäfen Girona (GRO) und Barcelona-El Prat (BCN) erreichbar.", "hu": "Lloret de Mar a katalán Costa Brava egyik legismertebb turisztikai központja. Az egykori halászfalu mára modern üdülővárossá vált, amely széles homokos strandokkal (mint a Playa de Lloret) és rejtett öblökkel (Cala Boadella) várja a látogatókat. A város jellegzetessége a Sant Romà plébániatemplom, amelynek színes, mozaikos tetőcserepei a katalán modernizmus jegyeit viselik. Érdemes felkeresni a modernista temetőt is, ahol híres szobrászok alkotásai láthatók.\n\nA város egyik legszebb pontja a Santa Clotilde kertek, amely egy tenger feletti sziklán elterülő reneszánsz stílusú park, lenyűgöző kilátással a Földközi-tengerre. A Castell d'en Plaja, egy középkori stílusú kastély a tengerpart szélén, a város leggyakoribb fotótémája. Lloret hírnevét pezsgő éjszakai élete is alapozza, számos diszkó és bár várja a szórakozni vágyókat. A túrázók számára a Cami de Ronda nevű part menti ösvény kínál festői útvonalat a szomszédos települések felé. Barcelona mintegy 80 kilométerre fekszik, Girona repülőtere pedig mindössze 30 perces autóúttal elérhető.", "ro": "Lloret de Mar este una dintre cele mai dinamice stațiuni de pe Costa Brava, în Catalonia. Orașul a evoluat de la un sat de pescari la o destinație turistică majoră, oferind un amestec de plaje animate, precum Playa de Lloret, și golfuri liniștite, ca Fenals sau Cala Boadella. Arhitectura orașului include elemente de modernism catalan, vizibile la Biserica Sant Romà, cu acoperișul său colorat și mozaicat, dar și la Cimitirul Modernist, unde se află sculpturi de o mare valoare artistică.\n\nO atracție de top sunt Grădinile Santa Clotilde, amenajate într-un stil neorenascentist pe o stâncă abruptă, oferind vederi panoramice spectaculoase asupra mării. Simbolul vizual al orașului este Castelul d'en Plaja, o construcție privată ce seamănă cu o fortăreață medievală, situată la capătul plajei principale. Lloret este renumit pentru viața de noapte exuberantă, cu numeroase cluburi și cazinouri. Pentru iubitorii de natură, poteca de coastă Camino de Ronda oferă trasee spectaculoase de-a lungul mării. Stațiunea se află la aproximativ 80 km de Barcelona, fiind ușor accesibilă cu autobuzul sau mașina din Aeroportul Girona (GRO).", "en": "Lloret de Mar is a premier destination on the Costa Brava, blending Mediterranean beach life with a rich historical heritage. Once a humble fishing village, it rose to fame in the 1950s as a tourism pioneer. The town features the expansive Lloret Beach and more secluded spots like Fenals or the crystalline Cala Boadella. A standout landmark is the Parish Church of Sant Romà, famous for its colorful, mosaic-tiled domes in the Catalan Modernist style. The Modernist Cemetery is another cultural highlight, featuring works by students of Antoni Gaudí.\n\nThe Santa Clotilde Gardens are a must-see, perched on a cliffside with Italian Renaissance-style landscaping and breathtaking sea views. At the northern end of the main beach sits the iconic Castell d'en Plaja, a castle-like residence that provides a dramatic backdrop for photos. Lloret is also famous for its high-energy nightlife, attracting visitors from all over Europe to its numerous clubs and bars. For active travelers, the Camino de Ronda coastal path offers scenic hiking routes along the rugged shore. Located 80 km north of Barcelona, it is easily reached via Girona (GRO) or Barcelona-El Prat (BCN) airports."}, "facts": {"de": ["Costa Brava Region", "Santa Clotilde Gärten", "Kirche Sant Romà (Modernistisch)", "Castell d'en Plaja", "40.803 Einwohner", "Modernistischer Friedhof", "Playa de Lloret", "Cami de Ronda (Wanderweg)"], "hu": ["Costa Brava partvidék", "Santa Clotilde kertek", "Sant Romà templom", "Castell d'en Plaja", "40 803 lakos", "Modernista temető", "Cala Boadella öböl", "Cami de Ronda túraútvonal"], "ro": ["Regiunea Costa Brava", "Grădinile Santa Clotilde", "Biserica Sant Romà", "Castelul d'en Plaja", "40.803 locuitori", "Cimitirul Modernist", "Plaja Fenals", "Drumul de coastă Camino de Ronda"], "en": ["Costa Brava coastline", "Santa Clotilde Gardens", "Sant Romà Church", "Castell d'en Plaja", "40,803 residents", "Modernist Cemetery", "Fenals Beach", "Camino de Ronda coastal path"]}, "imageHint": "The Santa Clotilde Gardens in Lloret de Mar with classical statues and green terraces overlooking the turquoise Mediterranean Sea.", "image": "/poi-images/spain-lloret-de-mar-cities-v2.webp"},
-  {"id": "spain-corralejo-cities-v2", "type": "city", "parent": "ES-CN", "coords": [-13.8675, 28.73], "population": 16403, "tier": 2, "name": {"de": "Corralejo", "hu": "Corralejo", "ro": "Corralejo", "en": "Corralejo"}, "description": {"de": "Ein ehemaliges Fischerdorf auf Fuerteventura, das heute für seinen Naturpark mit riesigen Wanderdünen und kristallklarem Wasser bekannt ist.", "hu": "Fuerteventura egykori halászfaluja, amely ma hatalmas vándorhomok-dűnéiről és kristálytiszta vizű strandjairól híres.", "ro": "Un fost sat pescăresc din Fuerteventura, cunoscut astăzi pentru parcul său natural cu dune imense de nisip și ape cristaline.", "en": "A former fishing village on Fuerteventura, now famous for its natural park of massive sand dunes and turquoise waters."}, "descriptionAdvanced": {"de": "Corralejo liegt an der Nordspitze der Insel Fuerteventura und ist eines der beliebtesten Touristenzentren der Insel. Das absolute Highlight ist der Parque Natural de las Dunas de Corralejo, ein etwa 11 km langes Gebiet aus feinem, weißem Sand, der aus zerriebenen Muschelschalen besteht. Die Dünen erstrecken sich bis zum Meer und bilden die berühmten „Grandes Playas“. Das Gebiet ist ein Paradies für Surfer, Windsurfer und Kitesurfer, da die Passatwinde hier ideale Bedingungen schaffen.\n\nVom Hafen in Corralejo legen regelmäßig Fähren zur unbewohnten Isla de Lobos ab, einem Naturschutzgebiet, das ideal zum Wandern und Schnorcheln ist. Auch die Nachbarinsel Lanzarote ist per Schnellfähre in nur 25 Minuten erreichbar. Der alte Stadtkern von Corralejo hat sich den Charme eines Fischerortes bewahrt, mit gemütlichen Restaurants direkt am Wasser, die frischen Fisch und „Papas arrugadas“ (Runzelkartoffeln) servieren. Die Hauptstraße bietet zahlreiche Einkaufsmöglichkeiten und Bars. Corralejo ist etwa 40 km vom Inselflughafen Fuerteventura (FUE) entfernt und bietet eine entspannte Atmosphäre abseits des Massentourismus.", "hu": "Corralejo Fuerteventura északi részén található, és a sziget egyik legvonzóbb települése. Legfőbb vonzereje a Corralejo Natúrpark, ahol több kilométer hosszan elnyúló, fehér homokos dűnék találkoznak az azúrkék óceánnal. Ezek a dűnék nem a Szaharából, hanem elporladt tengeri kagylókból származnak. A part menti „Grandes Playas” strandok kiválóak napozásra, a szelesebb szakaszok pedig a szörfösök és sárkányhajósok paradicsomát jelentik.\n\nA kikötőből rendszeresen indulnak kishajók a közeli Isla de Lobos (Fóka-sziget) felé, amely egy lakatlan természetvédelmi terület kristálytiszta lagúnákkal. Szintén innen érhető el komppal a szomszédos Lanzarote szigete is. Corralejo óvárosa megőrizte eredeti halászfalu jellegét, ahol a látogatók friss tengeri ételeket kóstolhatnak a hangulatos teraszokon. A város főutcáján, az Avenida Nuestra Señora del Carmen-en számos üzlet és szórakozóhely található. A repülőtér (FUE) mintegy 30 perces autóútra fekszik, és a város jól kapcsolódik a sziget többi részéhez buszjáratokkal is.", "ro": "Corralejo este situat în extremitatea nordică a insulei Fuerteventura, fiind o destinație de top pentru iubitorii de natură și sporturi nautice. Atracția principală este Parcul Natural Corralejo, care adăpostește cele mai mari dune de nisip din Insulele Canare. Acest deșert în miniatură se întinde până la malul Oceanului Atlantic, formând plaje cu nisip alb și fin, cunoscute sub numele de Grandes Playas. Datorită vânturilor constante, zona este celebră în întreaga lume pentru windsurf și kitesurf.\n\nDin portul orașului se poate lua feribotul către Isla de Lobos, o mică insulă vulcanică nelocuită, ideală pentru o zi de explorare și snorkeling în apele sale turcoaz. De asemenea, insula vecină Lanzarote este la doar 25 de minute distanță cu feribotul rapid. Centrul vechi al orașului păstrează o atmosferă relaxată, cu baruri de tapas și restaurante ce servesc pește proaspăt. Viața de noapte este animată, dar mai puțin comercială decât în alte insule. Orașul este situat la aproximativ 40 km de Aeroportul Fuerteventura (FUE). Gastronomia locală se bazează pe brânza de capră Majorero și sosul picant mojo.", "en": "Corralejo, situated on the northern tip of Fuerteventura, is a haven for beach lovers and water sports enthusiasts. Its most iconic feature is the Corralejo Natural Park, home to vast, rolling sand dunes made of pulverized seashells that meet the turquoise Atlantic. These dunes create a desert-like landscape known as the Grandes Playas, offering miles of pristine coastline. The area is world-renowned for windsurfing, kitesurfing, and surfing due to the consistent trade winds.\n\nFrom Corralejo harbor, you can hop on a ferry to the nearby Isla de Lobos, an uninhabited volcanic islet perfect for hiking and snorkeling in crystal-clear lagoons. The harbor also connects Fuerteventura to Lanzarote, a mere 25-minute ferry ride away. The town center retains its old fishing village vibe, with excellent seafood restaurants lining the waterfront and a pedestrian main street full of shops and bars. Corralejo is roughly a 35-minute drive from Fuerteventura Airport (FUE) and provides a perfect base for exploring the wild landscapes of the island's northern reaches."}, "facts": {"de": ["Dunas de Corralejo Naturpark", "Isla de Lobos (Fähre)", "Große Strände (Grandes Playas)", "Surfer-Paradies", "16.403 Einwohner", "Blick auf Lanzarote", "Alter Fischereihafen", "Wassersport-Zentrum"], "hu": ["Corralejo Natúrpark", "Isla de Lobos kirándulás", "Grandes Playas strandok", "Szörfösök kedvence", "16 403 lakos", "Kilátás Lanzarote szigetére", "Régi halászkikötő", "Avenida del Carmen shopping"], "ro": ["Parcul Natural Corralejo", "Insula de Lobos", "Dunele de nisip", "Kitesurfing și Windsurfing", "16.403 locuitori", "Feribot către Lanzarote", "Portul tradițional", "Plaje cu nisip alb"], "en": ["Corralejo Natural Park", "Isla de Lobos ferry", "Grandes Playas beaches", "Surfing & Kitesurfing hub", "16,403 residents", "View of Lanzarote", "Old fishing harbor", "White sand dunes"]}, "imageHint": "Golden sand dunes of Corralejo Natural Park meeting the bright turquoise ocean under a clear sky.", "image": "/poi-images/spain-corralejo-cities-v2.webp"},
+  {"id": "spain-palma-de-mallorca-cities-v2", "type": "city", "parent": "ES-IB", "coords": [2.6502, 39.5696], "population": 416065, "tier": 1, "name": {"de": "Palma de Mallorca", "hu": "Palma de Mallorca", "ro": "Palma de Mallorca", "en": "Palma de Mallorca"}, "description": {"de": "Die Hauptstadt der Balearen ist berühmt für ihre riesige gotische Kathedrale La Seu und die verwinkelte Altstadt am Mittelmeer.", "hu": "A Baleár-szigetek fővárosa, amely monumentális gótikus székesegyházáról, a La Seu-ról és hangulatos, tengerparti óvárosáról ismert.", "ro": "Capitala Insulelor Baleare este renumită pentru catedrala sa gotică monumentală La Seu și pentru centrul istoric pitoresc de la malul mării.", "en": "The capital of the Balearic Islands is famous for its massive Gothic cathedral, La Seu, and its winding old town streets overlooking the Mediterranean."}, "descriptionAdvanced": {"de": "Palma, das wirtschaftliche und kulturelle Zentrum Mallorcas, blickt auf eine Geschichte zurück, die bis in die Römerzeit reicht. Das Wahrzeichen der Stadt ist die Kathedrale La Seu, ein Meisterwerk der Gotik, deren Bau 1229 begann und deren Rosettenfenster zu den größten der Welt gehört. Direkt daneben befindet sich der Königspalast La Almudaina, ein Zeugnis der maurischen Vergangenheit der Insel. In der Altstadt finden Besucher prachtvolle Renaissance-Paläste mit schattigen Innenhöfen und das jüdische Viertel Call.\n\nEinzigartig ist das Castell de Bellver, eine kreisrunde Festung aus dem 14. Jahrhundert, die auf einem Hügel westlich des Zentrums thront und einen Panoramablick über die Bucht von Palma bietet. Das moderne Palma zeigt sich am Paseo del Borne mit seinen Luxusgeschäften und entlang der Hafenpromenade. Kulinarisch ist die Stadt für die Ensaimada, ein schneckenförmiges Hefegebäck, und die würzige Streichwurst Sobrassada bekannt. Der Flughafen Son Sant Joan (PMI) liegt nur 8 km östlich der Stadt und verbindet Palma mit allen großen europäischen Metropolen.", "hu": "Palma de Mallorca a Baleár-szigetek kulturális és gazdasági központja, amelynek történelme a római korig nyúlik vissza. A város legfontosabb jelképe a La Seu katedrális, amely a világ egyik legnagyobb gótikus temploma; építése 1229-ben kezdődött I. Jakab király hódítása után. A katedrális mellett áll az Almudaina palota, amely egykori mór erődként a sziget arab múltját idézi. Az óváros szűk utcái között reneszánsz paloták, rejtett belső udvarok és a régi zsidó negyed (Call) fedezhető fel.\n\nA várostól nyugatra, egy dombtetőn található a Castell de Bellver, Európa kevés kör alaprajzú várainak egyike, ahonnan belátni az egész öblöt és a kikötőt. A modern városrész a Paseo del Borne sugárút köré összpontosul, ahol luxusüzletek és elegáns kávézók várják a látogatókat. Érdemes megkóstolni a helyi különlegességet, az ensaimada nevű édes süteményt és a sobrassada kolbászt. A Son Sant Joan repülőtér (PMI) mindössze 8 kilométerre található, így a város könnyen elérhető nemzetközi járatokkal és komppal egyaránt Barcelona vagy Valencia felől.", "ro": "Palma, centrul cultural și economic al insulei Mallorca, are o istorie bogată care datează din perioada romană. Simbolul orașului este Catedrala La Seu, o capodoperă a stilului gotic începută în 1229, celebră pentru vitraliile sale imense și poziționarea spectaculoasă deasupra mării. Lângă ea se află Palatul Regal La Almudaina, o fostă fortăreață maură transformată în reședință regală. Centrul vechi este un labirint de străduțe cu palate renascentiste, curți interioare umbrite și vechiul cartier evreiesc.\n\nLa vest de oraș se înalță Castelul Bellver, una dintre puținele fortărețe circulare din Europa, construit în secolul al XIV-lea, oferind o panoramă completă asupra golfului Palma. Viața modernă se desfășoară pe bulevardul Paseo del Borne și de-a lungul portului maritim plin de iahturi. Din punct de vedere gastronomic, Palma este faimoasă pentru plăcinta ensaimada și cârnatul sobrassada. Aeroportul Son Sant Joan (PMI) este situat la doar 8 km distanță, fiind unul dintre cele mai tranzitate din Spania, asigurând conexiuni rapide cu restul Europei și Spaniei continentale prin portul maritim.", "en": "Palma, the vibrant capital of Mallorca, is dominated by the majestic La Seu Cathedral, a Gothic masterpiece overlooking the bay. Founded by Romans on a Talaiotic settlement, the city center is a labyrinth of narrow streets, hidden courtyards, and Renaissance palaces. The Palau de l'Almudaina stands next to the cathedral, reflecting the city's Moorish and Christian heritage. On a hill overlooking the harbor sits the Castell de Bellver, one of the few circular castles in Europe, built in the 14th century.\n\nVisitors flock to the Paseo del Borne for luxury shopping or enjoy the local gastronomy, such as the ensaimada pastry and sobrassada sausage. The city is easily accessible via Son Sant Joan Airport (PMI), just 8 km away, and serves as the primary hub for exploring the Serra de Tramuntana mountains. Its cultural life is anchored by museums like the Fundació Miró Mallorca, dedicated to the famous artist who lived here. Frequent ferries also connect Palma with mainland Spanish cities like Barcelona and Valencia."}, "facts": {"de": ["Catedral de Mallorca (La Seu)", "Castell de Bellver (Rundburg)", "Palau de l'Almudaina", "416.065 Einwohner", "Gegründet 123 v. Chr.", "Ensaimada (Gebäck)", "Paseo del Borne (Shopping)", "Hafen von Palma"], "hu": ["La Seu katedrális", "Castell de Bellver (körvár)", "Almudaina palota", "416 065 lakos", "Alapítva: i.e. 123", "Ensaimada sütemény", "Paseo del Borne sugárút", "Son Sant Joan repülőtér"], "ro": ["Catedrala La Seu", "Castelul Bellver", "Palatul Regal La Almudaina", "416.065 locuitori", "Fondat în 123 î.Hr.", "Plăcinta Ensaimada", "Bulevardul Paseo del Borne", "Portul maritim Palma"], "en": ["La Seu Cathedral", "Castell de Bellver (circular)", "Palau de l'Almudaina", "416,065 residents", "Founded 123 BC", "Ensaimada pastry", "Paseo del Borne shopping", "Son Sant Joan Airport"]}, "imageHint": "A wide shot of the Gothic La Seu Cathedral in Palma de Mallorca reflecting in the water of the Parc de la Mar.", "image": "/poi-images/spain-palma-de-mallorca-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "La Seu Kathedrale",
+                  "text": "Die prächtige gotische Kathedrale von Palma ist das Wahrzeichen der Stadt und berühmt für ihre riesige Fensterrose und Gaudís Umgestaltungen.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castell de Bellver",
+                  "text": "Diese kreisrunde gotische Festung aus dem 14. Jahrhundert thront über der Bucht von Palma und bietet einen spektakulären Panoramablick auf die Stadt.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Königspalast La Almudaina",
+                  "text": "Die offizielle Residenz des spanischen Königs auf Mallorca ist ein ehemaliges maurisches Fort, das Architekturstile vom Mittelalter bis zur Gotik vereint.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Llotja de Palma",
+                  "text": "Ein Meisterwerk bürgerlicher Gotik, das im 15. Jahrhundert als Seehandelsbörse diente und heute für Kunstausstellungen genutzt wird.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaça Major",
+                  "text": "Der zentrale Platz der Altstadt ist ein belebter Treffpunkt mit zahlreichen Straßencafés, Kunsthandwerkermärkten und einer markanten gelben Architektur.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arabische Bäder",
+                  "text": "Eines der wenigen erhaltenen maurischen Denkmäler in Palma; die Bäder stammen aus dem 10. Jahrhundert und liegen in einem friedlichen Garten.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Es Baluard Museum",
+                  "text": "Das Museum für moderne und zeitgenössische Kunst ist in die alten Stadtmauern integriert und zeigt Werke bedeutender internationaler Künstler.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Passeig del Born",
+                  "text": "Die elegante Flaniermeile von Palma ist gesäumt von stattlichen Gebäuden, Designergeschäften und hohen Bäumen, die kühlen Schatten spenden.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Seu székesegyház",
+                  "text": "Palma ikonikus gótikus katedrálisa a tengerparton áll, híres hatalmas rózsaablakáról és a Gaudi által tervezett belsőépítészeti elemekről.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bellver-kastély",
+                  "text": "Ez a különleges, kerek alaprajzú gótikus erőd a 14. századból származik, és lenyűgöző 360 fokos panorámát nyújt az egész öbölre.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Almudaina királyi palota",
+                  "text": "A spanyol királyi család hivatalos rezidenciája Mallorcán, amely egy mór erődből alakult át pazar palotává a gótikus és iszlám stílusok ötvözésével.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Llotja de Palma",
+                  "text": "A 15. századi tengeri kereskedelmi tőzsde épülete a polgári gótikus építészet remekműve, karcsú oszlopaival és csavart íveivel.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaça Major",
+                  "text": "Az óváros központi tere, amelyet sárga épületek és árkádok vesznek körül, ideális hely a helyi kézműves termékek felfedezéséhez.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arab fürdők",
+                  "text": "Palma mór múltjának egyik legfontosabb emléke a 10. századból; a kis kertben rejtőző fürdők kupolája és oszlopai máig épek.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Es Baluard Múzeum",
+                  "text": "A modern és kortárs művészeti múzeum a régi városfalba épült, teraszáról kiváló kilátás nyílik a kikötőre és a katedrálisra.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Passeig del Born",
+                  "text": "Palma legelőkelőbb sétánya, ahol luxusüzletek, évszázados platánfák és gyönyörű paloták szegélyezik az utat az óváros szívében.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala La Seu",
+                  "text": "Simbolul orașului Palma, această catedrală gotică impresionantă este celebră pentru rozeta sa uriașă și elementele de interior create de Gaudí.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Bellver",
+                  "text": "O fortăreață gotică unică datorită formei sale circulare, construită în secolul al XIV-lea pe un deal care oferă vederi panoramice asupra golfului.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Regal La Almudaina",
+                  "text": "Fostă fortăreață maură transformată în reședință regală, palatul îmbină stilul islamic cu cel gotic și este folosit și astăzi de familia regală.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Llotja de Palma",
+                  "text": "O bijuterie a arhitecturii gotice civile, această clădire din secolul al XV-lea a servit drept bursa comercială maritimă a orașului.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaça Major",
+                  "text": "Piața centrală a centrului vechi, înconjurată de clădiri galbene cu arcade, este un loc plin de viață, cu terase și artiști stradali.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Băile Arabe",
+                  "text": "Una dintre puținele vestigii maure din Palma, aceste băi din secolul al X-lea sunt situate într-o grădină liniștită, păstrând coloane și cupole antice.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Es Baluard",
+                  "text": "Muzeul de artă modernă și contemporană este integrat în zidurile vechi ale orașului, expunând opere de artă într-un cadru arhitectural spectaculos.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Passeig del Born",
+                  "text": "Cea mai elegantă arteră pietonală din Palma, mărginită de arbori înalți, palate istorice și magazine de lux, perfectă pentru o plimbare relaxantă.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Seu Cathedral",
+                  "text": "The massive Gothic cathedral of Palma is an architectural masterpiece famous for its large rose window and interior touches by Antoni Gaudí.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bellver Castle",
+                  "text": "A unique 14th-century circular castle situated on a pine-forested hill, offering stunning 360-degree views of Palma and its harbor.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Palace of La Almudaina",
+                  "text": "A former Islamic fort converted into a royal residence, showcasing a blend of Moorish and Gothic styles in the heart of the city.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Llotja de Palma",
+                  "text": "This 15th-century maritime trade exchange is a prime example of civil Gothic architecture with its slender columns and cross-ribbed vaults.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaça Major",
+                  "text": "The main square of Palma's old town is a vibrant pedestrian area filled with outdoor cafes, street performers, and local craft markets.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arab Baths",
+                  "text": "One of the few remaining examples of Moorish rule in Palma, these 10th-century baths feature a domed hammam surrounded by a peaceful garden.",
+                  "category": "historical",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Es Baluard Museum",
+                  "text": "Integrating modern art into the historic city walls, this museum features significant contemporary works and scenic terraces overlooking the bay.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Passeig del Born",
+                  "text": "Palma's most stylish promenade, shaded by majestic trees and lined with historic mansions, luxury boutiques, and charming cafes.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
+  {"id": "spain-las-palmas-de-gran-canaria-cities-v2", "type": "city", "parent": "ES-CN", "coords": [-15.4363, 28.1235], "population": 379925, "tier": 1, "name": {"de": "Las Palmas de Gran Canaria", "hu": "Las Palmas de Gran Canaria", "ro": "Las Palmas de Gran Canaria", "en": "Las Palmas de Gran Canaria"}, "description": {"de": "Die größte Stadt der Kanaren bietet eine Mischung aus kolonialer Geschichte im Viertel Vegueta und dem kilometerlangen Sandstrand Las Canteras.", "hu": "A Kanári-szigetek legnagyobb városa, ahol a koloniális múlt Vegueta negyedében találkozik a több kilométeres Las Canteras homokos stranddal.", "ro": "Cel mai mare oraș din Insulele Canare îmbină istoria colonială din cartierul Vegueta cu plaja cu nisip lungă de kilometri, Las Canteras.", "en": "The largest city in the Canary Islands blends colonial history in the Vegueta district with the golden sands of the three-kilometer Las Canteras beach."}, "descriptionAdvanced": {"de": "Las Palmas de Gran Canaria wurde 1478 gegründet und ist heute eine der beiden Hauptstädte der Autonomen Gemeinschaft der Kanaren. Das historische Herz der Stadt ist Vegueta, wo die Kathedrale Santa Ana mit ihren charakteristischen Türmen dominiert. Ein Muss für Geschichtsinteressierte ist das Casa de Colón, in dem Christoph Kolumbus während seiner Expeditionen nach Amerika Station gemacht haben soll. Die Architektur hier ist geprägt von den typischen kanarischen Holzbalkonen und Kopfsteinpflastergassen.\n\nIm Norden der Stadt erstreckt sich die Playa de Las Canteras, einer der besten Stadtstrände der Welt. Ein natürliches Lavariff, „La Barra“ genannt, schützt einen Großteil des Strandes vor Brandung und macht ihn ideal zum Schnorcheln. Am westlichen Ende des Strandes befindet sich das Auditorio Alfredo Kraus, ein markantes Gebäude direkt am Meer. Der Hafen Puerto de la Luz ist ein strategischer Knotenpunkt im Atlantik. Die Stadt ist zudem für ihren farbenfrohen Karneval bekannt, der zu den bedeutendsten weltweit zählt. Der internationale Flughafen Gran Canaria (LPA) liegt etwa 20 km südlich der Stadt.", "hu": "Las Palmas de Gran Canaria várost 1478-ban alapították, és ma a Kanári-szigetek egyik fővárosa. A történelmi városmag, Vegueta, szűk utcáival és koloniális stílusú házaival az UNESCO világörökség része. Itt található a Santa Ana katedrális és a Casa de Colón (Kolumbusz háza), ahol a híres felfedező megpihent amerikai útja előtt. A város építészetére jellemzőek a faragott faerkélyek és a spanyol hódítás korabeli stílusjegyek.\n\nA város északi részén fekszik a Playa de Las Canteras, amely a világ egyik legszebb városi strandja. A három kilométer hosszú partot egy természetes vulkáni kőzetgát védi a hullámoktól, így kiválóan alkalmas úszásra és sznorkelezésre. A strand végén áll az Auditorio Alfredo Kraus hangversenyterem. Las Palmas fontos kikötőváros (Puerto de la Luz) és kereskedelmi központ is egyben. A februári karnevál a város legfontosabb eseménye, amely turisták ezreit vonzza. A nemzetközi repülőtér (LPA) 20 percnyi autóútra van délre, és jó összeköttetést biztosít Európával.", "ro": "Las Palmas de Gran Canaria a fost fondat în 1478 și este una dintre cele două capitale ale arhipelagului Canare. Inima istorică a orașului este cartierul Vegueta, inclus în patrimoniul UNESCO, unde se află Catedrala Santa Ana și Casa de Colón, muzeul dedicat lui Cristofor Columb care a poposit aici în drumul său spre America. Arhitectura colonială cu balcoane din lemn și străzi pavate oferă o atmosferă autentică spaniolă.\n\nPartea de nord a orașului este dominată de Playa de Las Canteras, o plajă urbană spectaculoasă de 3 km lungime, protejată de un recif natural de lavă numit „La Barra”. La capătul plajei se află Auditoriul Alfredo Kraus, o clădire modernă emblematică. Orașul găzduiește unul dintre cele mai mari carnavaluri din lume în fiecare februarie. Portul Puerto de la Luz este un punct logistic esențial în Oceanul Atlantic. Aeroportul Gran Canaria (LPA) se află la aproximativ 20 km spre sud, oferind acces facil către insulă. Gastronomia locală include celebrul sos mojo și cartofii „papas arrugadas”.", "en": "Las Palmas de Gran Canaria, founded in 1478, is the co-capital of the Canary Islands and a bustling cosmopolitan hub. The historical center, Vegueta, showcases exquisite colonial architecture, most notably the Cathedral of Santa Ana and the Casa de Colón, a museum where Christopher Columbus stayed during his voyages to the New World. The cobblestone streets of the old quarter are lined with traditional houses featuring ornate wooden balconies.\n\nThe city's northern shore is home to Playa de Las Canteras, widely regarded as one of the world's finest urban beaches. A natural offshore reef protects the golden sands, creating a calm basin perfect for swimming and snorkeling. At the beach's western edge stands the Auditorio Alfredo Kraus, an iconic venue for classical music. The port, Puerto de la Luz, is one of the Atlantic's busiest maritime crossroads. Every year, the city hosts a world-famous Carnival. The Gran Canaria Airport (LPA) is located 20 km south of the city center."}, "facts": {"de": ["Vegueta (Altstadt)", "Playa de Las Canteras", "Casa de Colón (Kolumbus-Haus)", "Catedral de Santa Ana", "379.925 Einwohner", "Gegründet 1478", "Auditorio Alfredo Kraus", "Puerto de la Luz (Hafen)"], "hu": ["Vegueta negyed", "Playa de Las Canteras", "Casa de Colón", "Santa Ana katedrális", "379 925 lakos", "Alapítva: 1478", "Auditorio Alfredo Kraus", "Puerto de la Luz kikötő"], "ro": ["Cartierul Vegueta", "Plaja Las Canteras", "Casa de Colón", "Catedrala Santa Ana", "379.925 locuitori", "Fondat în 1478", "Auditoriul Alfredo Kraus", "Portul Puerto de la Luz"], "en": ["Vegueta Old Town", "Las Canteras Beach", "Casa de Colón Museum", "Santa Ana Cathedral", "379,925 residents", "Founded 1478", "Alfredo Kraus Auditorium", "Puerto de la Luz Port"]}, "imageHint": "A high-angle view of the Cathedral of Santa Ana with its twin towers in the historical Vegueta district of Las Palmas.", "image": "/poi-images/spain-las-palmas-de-gran-canaria-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Santa Ana",
+                  "text": "Die imposante Kathedrale im Herzen der Vegueta-Altstadt vereint Gotik, Renaissance und Neoklassizismus und bietet einen Blick vom Turm.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa de Colón",
+                  "text": "In diesem prachtvollen Haus wohnte Kolumbus während seiner Aufenthalte. Heute beherbergt es ein Museum über seine Entdeckungsreisen.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Playa de Las Canteras",
+                  "text": "Einer der besten Stadtstrände der Welt mit einer 3 km langen Promenade und einem natürlichen Riff, das die Wellen bricht.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vegueta Altstadt",
+                  "text": "Das historische Viertel, in dem die Stadt 1478 gegründet wurde, besticht durch kopfsteingepflasterte Gassen und traditionelle kanarische Balkone.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castillo de la Luz",
+                  "text": "Die älteste Festung Gran Canarias wurde im 15. Jahrhundert zum Schutz vor Piraten erbaut und beherbergt heute zeitgenössische Kunst.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Auditório Alfredo Kraus",
+                  "text": "Ein markantes modernes Konzerthaus am Ende des Canteras-Strandes, das nach dem berühmten kanarischen Tenor benannt wurde.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museo Canario",
+                  "text": "Dieses Museum zeigt die faszinierende Geschichte der Ureinwohner der Kanaren, der Guanchen, einschließlich einer Sammlung von Mumien.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parque Doramas",
+                  "text": "Ein üppiger Stadtpark mit exotischen Pflanzen, Springbrunnen und dem historischen Hotel Santa Catalina im Herzen des Gartenviertels.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Santa Ana katedrális",
+                  "text": "A Vegueta negyed központjában álló hatalmas székesegyház több mint négy évszázadon át épült, így gótikus és neoklasszicista stílusjegyeket is visel.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kolumbusz háza (Casa de Colón)",
+                  "text": "Ez a díszes épület egykor a kormányzó rezidenciája volt, ahol Kolumbusz megszállt; ma a felfedező útjait bemutató múzeumnak ad otthont.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Playa de Las Canteras",
+                  "text": "A világ egyik legszebb városi strandja, amelynek három kilométeres sétányát természetes lávazátony védi az óceán hullámaitól.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vegueta óváros",
+                  "text": "Las Palmas történelmi bölcsője, ahol szűk macskaköves utcák, spanyol gyarmati stílusú paloták és hangulatos terek repítenek vissza a múltba.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castillo de la Luz",
+                  "text": "A sziget legrégebbi erődítménye, amely a 15. században épült a kalóztámadások ellen, ma pedig modern szoborkiállítások helyszíne.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alfredo Kraus Auditorio",
+                  "text": "A tengerpart északi végén magasodó modern hangversenyterem, amely a híres helyi tenorról kapta a nevét, és a város kulturális központja.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museo Canario",
+                  "text": "A Kanári-szigetek őslakosainak, a guancséknak a történelmét bemutató múzeum, ahol egyedülálló régészeti leleteket és múmiákat láthatunk.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Doramas park",
+                  "text": "Egzotikus növényekkel, vízesésekkel és szobrokkal teli trópusi oázis a város közepén, amely a híres Hotel Santa Catalina mellett található.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Santa Ana",
+                  "text": "Cea mai importantă clădire religioasă din Insulele Canare, situată în cartierul Vegueta, îmbină stilurile gotic și neoclasic pe parcursul a 400 de ani.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa de Colón",
+                  "text": "O clădire spectaculoasă cu balcoane din lemn, unde Cristofor Columb a fost găzduit în 1492; astăzi este un muzeu dedicat explorărilor maritime.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Playa de Las Canteras",
+                  "text": "O plajă urbană emblematică de 3 kilometri, protejată de un recif natural numit 'La Barra', cu o faleză plină de viață și restaurante.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cartierul Vegueta",
+                  "text": "Centrul istoric al orașului, cu străduțe pavate și arhitectură colonială spaniolă, unde se află cele mai vechi monumente din Las Palmas.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castillo de la Luz",
+                  "text": "Cea mai veche fortăreață de pe insulă, construită în secolul al XV-lea pentru apărarea portului, găzduiește acum o fundație de artă modernă.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Auditoriul Alfredo Kraus",
+                  "text": "O clădire modernă impresionantă situată la capătul plajei, numită după faimosul tenor canarian, fiind sediul principalelor evenimente muzicale.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museo Canario",
+                  "text": "Un muzeu esențial pentru înțelegerea culturii aborigenilor 'Guanches', prezentând o vastă colecție de obiecte prehispanice și resturi umane.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Doramas",
+                  "text": "O grădină luxuriantă situată în zona rezidențială Ciudad Jardín, oferind o oază de liniște cu fântâni arteziene și specii de plante endemice.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Santa Ana Cathedral",
+                  "text": "Dominating the Vegueta skyline, this twin-towered cathedral features a mix of Gothic and Neoclassical architecture built over several centuries.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Columbus House (Casa de Colón)",
+                  "text": "This ornate building once hosted Christopher Columbus and now houses a fascinating museum dedicated to his voyages and Canary Islands history.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Las Canteras Beach",
+                  "text": "Consistently ranked as one of the world's best city beaches, it features a 3km promenade and a natural offshore reef that calms the waters.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vegueta Old Town",
+                  "text": "The founding site of the city in 1478, this historic quarter is famous for its cobblestone streets, colonial courtyards, and vibrant squares.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castillo de la Luz",
+                  "text": "Gran Canaria's oldest fortress, originally built in the 15th century to defend against pirates, it now serves as a contemporary art space.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alfredo Kraus Auditorium",
+                  "text": "A striking modern concert hall located at the northern tip of the city, named after the world-renowned local tenor Alfredo Kraus.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museo Canario",
+                  "text": "A specialized museum documenting the lives of the Guanches, the original inhabitants of the islands, including a notable collection of mummies.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Doramas Park",
+                  "text": "A lush urban oasis featuring tropical plants, fountains, and monuments, located in the heart of the historic Garden City neighborhood.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
+  {"id": "spain-santa-cruz-de-tenerife-cities-v2", "type": "city", "parent": "ES-CN", "coords": [-16.2518, 28.4636], "population": 209194, "tier": 1, "name": {"de": "Santa Cruz de Tenerife", "hu": "Santa Cruz de Tenerife", "ro": "Santa Cruz de Tenerife", "en": "Santa Cruz de Tenerife"}, "description": {"de": "Die Hauptstadt Teneriffas besticht durch moderne Architektur wie das Auditorio de Tenerife und einen der weltweit größten Karnevals.", "hu": "Tenerife fővárosa, amely modern építészetéről, mint az Auditorio de Tenerife, és a világ egyik legnagyobb karneváljáról híres.", "ro": "Capitala insulei Tenerife impresionează prin arhitectura modernă precum Auditorio de Tenerife și unul dintre cele mai mari carnavaluri din lume.", "en": "The capital of Tenerife is famous for its avant-garde architecture, including the Auditorio de Tenerife, and hosting one of the world's largest Carnivals."}, "descriptionAdvanced": {"de": "Santa Cruz de Tenerife liegt im Nordosten der Insel und ist ein wichtiger Hafenstandort im Atlantik. Das moderne Gesicht der Stadt wird durch das Auditorio de Tenerife geprägt, ein futuristisches Werk des Architekten Santiago Calatrava, das oft mit dem Opernhaus von Sydney verglichen wird. Die Plaza de España im Zentrum beherbergt einen künstlichen See und liegt über den Überresten der alten Festung San Cristóbal, die im unterirdischen Museum besichtigt werden können.\n\nGrüne Lungen der Stadt sind der Parque García Sanabria mit seinen exotischen Pflanzen und der Palmetum, ein botanischer Garten auf einer ehemaligen Müllkippe, der die weltweit größte Palmensammlung beherbergt. Wenige Kilometer außerhalb des Zentrums liegt die Playa de las Teresitas, ein goldener Sandstrand, für den der Sand extra aus der Sahara herbeigeschafft wurde. Santa Cruz ist weltberühmt für seinen Karneval im Februar, der in Ausmaß und Pracht nur von Rio de Janeiro übertroffen wird. Die Anreise erfolgt meist über den Nordflughafen (TFN) oder den Südflughafen (TFS), während Fähren die Stadt mit den Nachbarinseln und dem Festland verbinden.", "hu": "Santa Cruz de Tenerife az Atlanti-óceán egyik fontos kikötővárosa és Tenerife szigetének közigazgatási központja. A város látképét meghatározza a Santiago Calatrava által tervezett Auditorio de Tenerife, amely modern, hullámot formázó tetőszerkezetével a város szimbólumává vált. A város szíve a Plaza de España, ahol egy hatalmas mesterséges tó található, alatta pedig a régi San Cristóbal erőd romjai tekinthetők meg egy interaktív múzeumban.\n\nA természetkedvelőknek a Parque García Sanabria kínál trópusi növényeket, a Palmetum pedig a világ egyik leggazdagabb pálmagyűjteményét mutatja be. A központtól 7 km-re fekszik a Playa de las Teresitas, amely sárga homokját a Szaharából hozták. A város februári karneválja nemzetközi hírű, hatalmas jelmezes felvonulásokkal és táncmulatságokkal. Santa Cruz kiváló bázis a sziget északi részének, például az Anaga-hegységnek a felfedezéséhez. A város két repülőtérrel és egy forgalmas kikötővel rendelkezik, így könnyen elérhető bárhonnan.", "ro": "Santa Cruz de Tenerife, situat în nord-estul insulei, este un port vital și un centru cultural vibrant. Orașul este recunoscut imediat după silueta spectaculoasă a Auditoriului de Tenerife, proiectat de Santiago Calatrava, o emblemă a arhitecturii contemporane. În centru, Plaza de España impresionează prin lacul său artificial și prin muzeul subteran care adăpostește zidurile vechiului castel San Cristóbal.\n\nOrașul dispune de spații verzi generoase, cum ar fi Parcul García Sanabria și Palmetum, o grădină botanică specializată în palmieri construită pe un fost depozit de deșeuri. La mică distanță de oraș se află plaja Las Teresitas, faimoasă pentru nisipul auriu adus din deșertul Sahara. Carnavalul din Santa Cruz este declarat de interes turistic internațional și este considerat al doilea ca mărime din lume după cel din Rio. Gastronomia locală poate fi savurată în Mercado de Nuestra Señora de África, o piață tradițională cu produse proaspete. Aeroportul Tenerife Nord (TFN) deservește în principal zborurile inter-insulare și naționale.", "en": "Santa Cruz de Tenerife is a bustling port city and the capital of Tenerife. Its skyline is defined by the Auditorio de Tenerife, a futuristic wave-like structure designed by Santiago Calatrava. The central Plaza de España features a large saltwater lake and an underground museum showcasing the remains of the historic Castillo de San Cristóbal. The city is a blend of traditional Canarian charm and modern urban development.\n\nNature lovers enjoy the García Sanabria Park and the Palmetum, a botanical garden with one of the world's most extensive palm collections. Just a short drive away lies Playa de las Teresitas, a golden sand beach unique to the island because its sand was imported from the Sahara Desert. Santa Cruz is most famous for its vibrant Carnival in February, an explosion of color and music that rivals Rio de Janeiro. The city is served by two airports, Tenerife North (TFN) and Tenerife South (TFS), and remains a key ferry terminal for trips to other islands and the Spanish mainland."}, "facts": {"de": ["Auditorio de Tenerife", "Plaza de España", "Playa de las Teresitas", "Karneval von Santa Cruz", "209.194 Einwohner", "Parque García Sanabria", "Palmetum (Palmenpark)", "Mercado de África"], "hu": ["Auditorio de Tenerife", "Plaza de España", "Playa de las Teresitas", "Santa Cruz-i karnevál", "209 194 lakos", "Parque García Sanabria", "Palmetum botanikus kert", "San Cristóbal erőd romjai"], "ro": ["Auditorio de Tenerife", "Plaza de España", "Plaja Las Teresitas", "Carnavalul din Santa Cruz", "209.194 locuitori", "Parcul García Sanabria", "Palmetum", "Castelul San Cristóbal"], "en": ["Auditorio de Tenerife", "Plaza de España", "Playa de las Teresitas", "Santa Cruz Carnival", "209,194 residents", "García Sanabria Park", "Palmetum Botanic Garden", "San Cristóbal Castle ruins"]}, "imageHint": "The futuristic white structure of the Auditorio de Tenerife by the sea under a clear blue sky.", "image": "/poi-images/spain-santa-cruz-de-tenerife-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Auditorio de Tenerife",
+                  "text": "Das Auditorio de Tenerife ist ein ikonisches expressionistisches Gebäude und Wahrzeichen der Stadt, berühmt für sein weißes Wellendach.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaza de España",
+                  "text": "Die Plaza de España ist der größte Platz der Kanarischen Inseln und verfügt über einen künstlichen See sowie das Monumento a los Caídos.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parque García Sanabria",
+                  "text": "Dieser große Stadtpark ist eine grüne Oase im Zentrum, bekannt für seine exotischen Pflanzen, Skulpturen und die berühmte Blumenuhr.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iglesia de la Concepción",
+                  "text": "Die wichtigste Kirche der Stadt besticht durch ihren markanten Glockenturm und eine kunstvolle Holzdecke im Mudéjar-Stil.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "TEA Tenerife Espacio de las Artes",
+                  "text": "Ein modernes Kulturzentrum und Museum, das zeitgenössische Kunst präsentiert und durch seine avantgardistische Architektur besticht.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mercado de Nuestra Señora de África",
+                  "text": "Ein lebhafter Markt in einem Gebäude im Kolonialstil, der frische lokale Produkte, Gewürze und kanarische Spezialitäten anbietet.",
+                  "category": "markets",
+                  "confidence": "high"
+            },
+            {
+                  "name": "MUNA - Museo de la Naturaleza y la Arqueología",
+                  "text": "In diesem Museum erfahren Besucher alles über die Naturgeschichte der Inseln und die Kultur der Ureinwohner, der Guanchen.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palmetum de Santa Cruz de Tenerife",
+                  "text": "Ein botanischer Garten auf einem ehemaligen Hügel, der die weltweit größte Sammlung von Palmen in einer künstlichen Oase beherbergt.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Auditorio de Tenerife",
+                  "text": "Az Auditorio de Tenerife egy ikonikus expresszionista épület és a város jelképe, amely hatalmas fehér hullám alakú tetőívéről híres.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaza de España",
+                  "text": "A Plaza de España a Kanári-szigetek legnagyobb tere, egy hatalmas mesterséges tóval és az elesettek tiszteletére emelt emlékművel.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parque García Sanabria",
+                  "text": "Ez a nagy városi park egy zöld oázis a központban, amely egzotikus növényeiről, szobrairól és a híres virágórájáról ismert.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Concepción",
+                  "text": "A város legfontosabb temploma, amely jellegzetes harangtornyáról és gazdagon díszített mudéjar stílusú famennyezetéről nevezetes.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "TEA Tenerife Espacio de las Artes",
+                  "text": "Modern művészeti és kulturális központ, amely kortárs kiállításoknak ad otthont egy avantgárd építészeti remekműben.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mercado de Nuestra Señora de África",
+                  "text": "Élettel teli piac egy gyarmati stílusú épületben, ahol friss helyi termékeket, fűszereket és kanári specialitásokat árulnak.",
+                  "category": "markets",
+                  "confidence": "high"
+            },
+            {
+                  "name": "MUNA - Museo de la Naturaleza y la Arqueología",
+                  "text": "Ez a múzeum a szigetek természetrajzát és az őslakos guancsok kultúráját mutatja be, híres múmiagyűjteményével együtt.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palmetum",
+                  "text": "Botanikus kert egy korábbi hulladéklerakó helyén, amely a világ egyik leggazdagabb pálmagyűjteményének ad otthont.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Auditorio de Tenerife",
+                  "text": "Auditorio de Tenerife este o clădire expresionistă iconică și un simbol al orașului, faimoasă pentru acoperișul său mare în formă de val.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaza de España",
+                  "text": "Plaza de España este cea mai mare piață din Insulele Canare, având un lac artificial mare și Monumentul celor Căzuți.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parque García Sanabria",
+                  "text": "Acest parc urban mare este o oază verde în centrul orașului, cunoscut pentru plantele exotice, sculpturile și celebrul ceas floral.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iglesia de la Concepción",
+                  "text": "Cea mai importantă biserică din oraș, remarcabilă prin turnul său clopotniță și tavanul casetat în stil mudéjar.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "TEA Tenerife Espacio de las Artes",
+                  "text": "Un centru cultural și muzeu modern care prezintă artă contemporană, remarcându-se prin arhitectura sa avangardistă.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mercado de Nuestra Señora de África",
+                  "text": "O piață vibrantă într-o clădire în stil colonial, oferind produse locale proaspete, condimente și specialități canariene.",
+                  "category": "markets",
+                  "confidence": "high"
+            },
+            {
+                  "name": "MUNA - Museo de la Naturaleza y la Arqueología",
+                  "text": "Acest muzeu prezintă istoria naturală a insulelor și cultura aborigenilor guanși, inclusiv celebrele lor mumii.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palmetum",
+                  "text": "O grădină botanică situată pe un fost deal de deșeuri, care găzduiește cea mai mare colecție de palmieri din lume.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Auditorio de Tenerife",
+                  "text": "The Auditorio de Tenerife is an iconic expressionist building and a symbol of the city, famous for its grand white wave-like roof.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaza de España",
+                  "text": "The Plaza de España is the largest square in the Canary Islands, featuring a large artificial lake and the Monument to the Fallen.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parque García Sanabria",
+                  "text": "This large urban park is a green oasis in the city center, known for its exotic plants, sculptures, and the famous floral clock.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Church of the Immaculate Conception",
+                  "text": "The city's main historic church, featuring a distinctive bell tower and a beautiful Mudéjar-style wooden ceiling.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "TEA Tenerife Espacio de las Artes",
+                  "text": "A modern cultural center and museum that showcases contemporary art, known for its stunning avant-garde architecture.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mercado de Nuestra Señora de África",
+                  "text": "A vibrant market housed in a colonial-style building, offering fresh local produce, spices, and traditional Canarian food.",
+                  "category": "markets",
+                  "confidence": "high"
+            },
+            {
+                  "name": "MUNA - Museum of Nature and Archaeology",
+                  "text": "This museum explores the natural history of the islands and the culture of the indigenous Guanches, featuring ancient mummies.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palmetum",
+                  "text": "A botanical garden specialized in palm trees, transformed from a landfill into a lush oasis with views over the Atlantic.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
+  {"id": "spain-la-laguna-cities-v2", "type": "city", "parent": "ES-CN", "coords": [-16.3159, 28.4874], "population": 157503, "tier": 2, "name": {"de": "San Cristóbal de La Laguna", "hu": "San Cristóbal de La Laguna", "ro": "San Cristóbal de La Laguna", "en": "San Cristóbal de La Laguna"}, "description": {"de": "Diese UNESCO-Welterbestadt war das Vorbild für viele Kolonialstädte in Amerika und beherbergt die älteste Universität der Kanaren.", "hu": "Ez az UNESCO világörökségi város szolgált mintául számos amerikai koloniális városnak, és itt található a Kanári-szigetek legrégebbi egyeteme.", "ro": "Acest oraș din patrimoniul UNESCO a fost modelul pentru multe orașe coloniale din America și găzduiește cea mai veche universitate din Canare.", "en": "A UNESCO World Heritage city that served as the blueprint for many colonial cities in the Americas, home to the oldest university in the Canaries."}, "descriptionAdvanced": {"de": "San Cristóbal de La Laguna, oft einfach La Laguna genannt, war die erste Hauptstadt Teneriffas und liegt im Aguere-Tal. Die Stadt wurde 1496 gegründet und ist ein herausragendes Beispiel für eine nicht befestigte Stadtplanung nach einem gitterförmigen Grundriss – ein Modell, das später für Städte wie Havanna oder San Juan in der Karibik übernommen wurde. Aufgrund dieses historischen Wertes wurde das Zentrum 1999 zum UNESCO-Welterbe erklärt. Die Straßen sind gesäumt von farbenfrohen Herrenhäusern aus dem 16. bis 18. Jahrhundert mit kunstvoll geschnitzten Holzbalkonen und prächtigen Innenhöfen.\n\nZu den bedeutendsten Bauwerken zählen die Kathedrale von La Laguna und die Kirche Nuestra Señora de la Concepción mit ihrem markanten Glockenturm. Als Sitz der Universität La Laguna (gegründet 1701) herrscht hier eine lebendige studentische Atmosphäre mit zahlreichen Cafés und Buchläden. Da die Stadt auf etwa 550 Metern Höhe liegt, ist das Klima deutlich kühler und oft feuchter als an der Küste. Die Stadt ist nur wenige Kilometer vom Nordflughafen Teneriffas entfernt und dient als Tor zum Anaga-Gebirge, einem geologisch alten Teil der Insel mit dichten Lorbeerwäldern.", "hu": "San Cristóbal de La Laguna Tenerife egykori fővárosa, amely az Aguere-völgyben fekszik. Az 1496-ban alapított város különlegessége, hogy ez volt az első erődítmény nélküli, rácshálós alaprajzú spanyol koloniális város. Ez a városszerkezet szolgált mintául az amerikai kontinens spanyol városaihoz, például Havannához vagy San Juanhoz, amiért 1999-ben az UNESCO világörökség részévé nyilvánították. A történelmi központban 16-18. századi színes nemesi kúriák, faragott faerkélyek és virágos belső udvarok láthatók.\n\nA legfontosabb látnivalók közé tartozik a La Laguna-i katedrális és a Nuestra Señora de la Concepción templom, melynek harangtornyából belátni a várost. Itt található a szigetek legrégebbi egyeteme (Universidad de La Laguna), ami fiatalos, pezsgő hangulatot kölcsönöz a településnek. A város 550 méteres tengerszint feletti magassága miatt éghajlata hűvösebb és párásabb, mint a tengerparti városoké. Kiváló kiindulópont az Anaga-hegység és annak ősi babérerdőinek felfedezéséhez. A Tenerife Norte repülőtér (TFN) közvetlenül a város határában található.", "ro": "San Cristóbal de La Laguna, cunoscut simplu ca La Laguna, a fost prima capitală a insulei Tenerife. Fondat în 1496, este un exemplu remarcabil de oraș colonial fără ziduri de apărare, construit după un plan în rețea care a influențat direct urbanismul din Lumea Nouă, inclusiv orașe precum Havana. Din acest motiv, centrul său istoric este inclus în patrimoniul mondial UNESCO din 1999. Plimbarea pe străzile pietonale dezvăluie fațade colorate, balcoane din lemn de pin canarian și curți interioare pline de vegetație.\n\nReperele principale includ Catedrala din La Laguna și Biserica Nuestra Señora de la Concepción, cu faimosul său turn din piatră. Orașul este și un centru universitar important, găzduind Universidad de La Laguna, ceea ce îi conferă o atmosferă culturală activă. Situat la o altitudine de peste 500 de metri, La Laguna are un climat mai răcoros decât stațiunile de pe coastă. Este situat strategic lângă Aeroportul Tenerife Nord și constituie punctul de plecare către munții Anaga, zonă renumită pentru pădurile de lauri preistorice. Gastronomia locală include produse de patiserie tradiționale și vinuri de regiune.", "en": "San Cristóbal de La Laguna, the former capital of Tenerife, is a historical gem located in the Aguere Valley. Founded in 1496, it was the first non-fortified Spanish colonial city, designed with a grid system that became the template for major American cities like Havana and San Juan. This architectural and historical importance earned it a spot on the UNESCO World Heritage list in 1999. Its pedestrian streets are lined with brightly colored mansions, some dating back to the 16th century, featuring exquisite wooden balconies and peaceful inner courtyards.\n\nKey landmarks include the Cathedral of La Laguna and the Church of the Immaculate Conception, which offers panoramic views from its iconic bell tower. As the seat of the University of La Laguna (founded in 1701), the city boasts a lively student population and a thriving cultural scene. Due to its elevation (550m), the weather here is noticeably cooler and mistier than the coastal areas. The city is located right next to Tenerife North Airport (TFN) and serves as the gateway to the ancient laurel forests of the Anaga Rural Park."}, "facts": {"de": ["UNESCO-Welterbe seit 1999", "Erste Hauptstadt Teneriffas", "Universität La Laguna (1701)", "Kirche de la Concepción", "157.503 Einwohner", "Gitterförmiger Stadtplan", "Koloniale Herrenhäuser", "Nähe zum Anaga-Gebirge"], "hu": ["UNESCO világörökség (1999)", "Tenerife első fővárosa", "La Laguna-i Egyetem (1701)", "Nuestra Señora de la Concepción", "157 503 lakos", "Rácshálós városszerkezet", "Koloniális kúriák", "Tenerife Norte repülőtér"], "ro": ["Patrimoniu UNESCO (1999)", "Prima capitală a insulei", "Universitatea La Laguna", "Biserica de la Concepción", "157.503 locuitori", "Plan urbanistic în rețea", "Case coloniale cu balcoane", "Poarta către Munții Anaga"], "en": ["UNESCO World Heritage Site", "First capital of Tenerife", "University of La Laguna", "Concepción Church tower", "157,503 residents", "Colonial grid layout", "Traditional Canarian patios", "Proximity to Anaga Rural Park"]}, "imageHint": "A narrow pedestrian street in La Laguna with colorful colonial house facades and traditional wooden balconies.", "image": "/poi-images/spain-la-laguna-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Catedral de La Laguna",
+                  "text": "Die Kathedrale von San Cristóbal de La Laguna ist ein neoklassizistisches Bauwerk, in dem der Stadtgründer Alonso Fernández de Lugo ruht.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iglesia de la Concepción",
+                  "text": "Die älteste Kirche der Insel ist bekannt für ihren ikonischen Renaissance-Glockenturm, der die historische Altstadt überragt.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaza del Adelantado",
+                  "text": "Der zentrale Platz der Altstadt wird von historischen Gebäuden wie dem Rathaus und dem Kloster Santa Catalina de Siena flankiert.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Real Santuario del Cristo de La Laguna",
+                  "text": "Ein wichtiges religiöses Zentrum, das eine hochverehrte Christusstatue aus dem 16. Jahrhundert in einem Franziskanerkloster beherbergt.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museo de la Ciencia y el Cosmos",
+                  "text": "Ein interaktives Museum, das Wissenschaft und Astronomie auf spielerische Weise verbindet und über ein eigenes Planetarium verfügt.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palacio de Nava",
+                  "text": "Ein beeindruckendes Beispiel kanarischer Architektur, das Elemente des Barock, Neoklassizismus und Manierismus in seiner Fassade vereint.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatro Leal",
+                  "text": "Ein wunderschönes Theater aus dem frühen 20. Jahrhundert, das für seine eklektische Fassade und prächtige Innenausstattung bekannt ist.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa de Lercaro",
+                  "text": "Dieses historische Herrenhaus beherbergt heute das Geschichtsmuseum von Teneriffa und zeigt das Leben auf der Insel seit dem 15. Jahrhundert.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Catedral de La Laguna",
+                  "text": "A székesegyház San Cristóbal de La Laguna neoklasszicista ékköve, ahol a város alapítója, Alonso Fernández de Lugo nyugszik.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iglesia de la Concepción",
+                  "text": "Tenerife legősibb temploma, amelynek ikonikus reneszánsz harangtornya az UNESCO világörökségi óváros legfőbb jelképe.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaza del Adelantado",
+                  "text": "A történelmi központ főtere, amelyet olyan fontos épületek vesznek körül, mint a városháza és a Santa Catalina kolostor.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Real Santuario del Cristo de La Laguna",
+                  "text": "Fontos vallási kegyhely, amely egy 16. századi, nagy tiszteletnek örvendő Krisztus-szobrot őriz a ferences rendi kolostorban.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museo de la Ciencia y el Cosmos",
+                  "text": "Interaktív múzeum, amely a tudományt és a csillagászatot játékos formában mutatja be, saját planetáriummal is rendelkezik.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palacio de Nava",
+                  "text": "A kanári építészet egyik legszebb példája, amelynek homlokzata a barokk, a neoklasszicizmus és a manierizmus jegyeit ötvözi.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatro Leal",
+                  "text": "A 20. század elején épült elegáns színház, amely eklektikus homlokzatáról és pazar belső díszítéséről híres.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa de Lercaro",
+                  "text": "Ez a történelmi nemesi kúria ma Tenerife történeti múzeumának ad otthont, bemutatva a sziget életét a 15. századtól kezdve.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedral de La Laguna",
+                  "text": "Catedrala din San Cristóbal de La Laguna este un edificiu neoclasic unde se odihnește fondatorul orașului, Alonso Fernández de Lugo.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iglesia de la Concepción",
+                  "text": "Cea mai veche biserică de pe insulă este faimoasă pentru turnul său clopotniță renascentist, care domină centrul istoric.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaza del Adelantado",
+                  "text": "Piața centrală a centrului istoric, înconjurată de clădiri emblematice precum primăria și mănăstirea Santa Catalina de Siena.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Real Santuario del Cristo de La Laguna",
+                  "text": "Un centru religios important care adăpostește o statuie venerată a lui Hristos din secolul al XVI-lea în mănăstirea franciscană.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museo de la Ciencia y el Cosmos",
+                  "text": "Un muzeu interactiv care îmbină știința și astronomia într-un mod ludic, având propriul său planetariu.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palacio de Nava",
+                  "text": "Un exemplu impresionant de arhitectură canariană care îmbină elemente baroce, neoclasice și manieriste în fațada sa.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatro Leal",
+                  "text": "Un teatru frumos de la începutul secolului XX, cunoscut pentru fațada sa eclectică și interiorul decorat luxos.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa de Lercaro",
+                  "text": "Acest conac istoric găzduiește în prezent Muzeul de Istorie din Tenerife, prezentând viața pe insulă începând cu secolul al XV-lea.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Laguna Cathedral",
+                  "text": "The San Cristóbal de La Laguna Cathedral is a neoclassical landmark housing the remains of the city's founder, Alonso Fernández de Lugo.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Church of the Conception",
+                  "text": "The island's oldest church is famous for its iconic Renaissance bell tower, which offers a panoramic view over the UNESCO old town.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaza del Adelantado",
+                  "text": "The main square of the historic center, flanked by important buildings like the City Hall and the Santa Catalina Convent.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Sanctuary of the Christ of La Laguna",
+                  "text": "An important religious site housing a highly venerated 16th-century statue of Christ within a Franciscan monastery.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Science and the Cosmos",
+                  "text": "An interactive museum that combines science and astronomy in a fun way, featuring its own planetarium and experiments.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nava Palace",
+                  "text": "A stunning example of Canarian architecture that blends Baroque, Neoclassical, and Mannerist elements in its grand facade.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leal Theatre",
+                  "text": "A beautiful early 20th-century theater known for its eclectic facade and rich interior decorations and murals.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa de Lercaro",
+                  "text": "This historic mansion now houses the Museum of History and Anthropology, showcasing life in Tenerife since the 15th century.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
+  {"id": "spain-lloret-de-mar-cities-v2", "type": "city", "parent": "ES-CT", "coords": [2.8456, 41.6995], "population": 40803, "tier": 2, "name": {"de": "Lloret de Mar", "hu": "Lloret de Mar", "ro": "Lloret de Mar", "en": "Lloret de Mar"}, "description": {"de": "Ein beliebter Urlaubsort an der Costa Brava, der für seine Strände, das lebhafte Nachtleben und die wunderschönen Santa Clotilde Gärten bekannt ist.", "hu": "A Costa Brava népszerű üdülővárosa, amely strandjairól, pezsgő éjszakai életéről és a gyönyörű Santa Clotilde kertekről ismert.", "ro": "O stațiune populară pe Costa Brava, cunoscută pentru plajele sale, viața de noapte activă și frumoasele grădini Santa Clotilde.", "en": "A popular resort town on the Costa Brava, known for its Mediterranean beaches, vibrant nightlife, and the beautiful Santa Clotilde Gardens."}, "descriptionAdvanced": {"de": "Lloret de Mar ist eines der bekanntesten Reiseziele an der katalanischen Costa Brava. Ursprünglich ein Fischerdorf, wandelte es sich im 20. Jahrhundert zu einem Tourismuszentrum. Die Stadt bietet mehrere Strände, von der großen Playa de Lloret bis hin zu ruhigeren Buchten wie Cala Boadella. Ein architektonisches Highlight ist die Kirche Sant Romà mit ihren bunten Dachziegeln im modernistischen Stil. Ebenfalls sehenswert ist der Modernistische Friedhof, der von Schülern Antoni Gaudís mitgestaltet wurde.\n\nBesonders beeindruckend sind die Gärten von Santa Clotilde, die auf einer Klippe über dem Meer im Stil der italienischen Renaissance angelegt wurden und spektakuläre Ausblicke bieten. Die Burg d'en Plaja am Ende des Hauptstrandes ist zwar privat, bildet aber eines der meistfotografierten Motive der Stadt. Lloret ist auch für sein intensives Nachtleben mit zahlreichen Clubs und Bars bekannt, was vor allem jüngeres Publikum anzieht. Für Wanderer bietet der Küstenweg Cami de Ronda wunderschöne Ausblicke auf die zerklüftete Küste. Die Stadt liegt etwa 80 km nördlich von Barcelona und ist gut über die Flughäfen Girona (GRO) und Barcelona-El Prat (BCN) erreichbar.", "hu": "Lloret de Mar a katalán Costa Brava egyik legismertebb turisztikai központja. Az egykori halászfalu mára modern üdülővárossá vált, amely széles homokos strandokkal (mint a Playa de Lloret) és rejtett öblökkel (Cala Boadella) várja a látogatókat. A város jellegzetessége a Sant Romà plébániatemplom, amelynek színes, mozaikos tetőcserepei a katalán modernizmus jegyeit viselik. Érdemes felkeresni a modernista temetőt is, ahol híres szobrászok alkotásai láthatók.\n\nA város egyik legszebb pontja a Santa Clotilde kertek, amely egy tenger feletti sziklán elterülő reneszánsz stílusú park, lenyűgöző kilátással a Földközi-tengerre. A Castell d'en Plaja, egy középkori stílusú kastély a tengerpart szélén, a város leggyakoribb fotótémája. Lloret hírnevét pezsgő éjszakai élete is alapozza, számos diszkó és bár várja a szórakozni vágyókat. A túrázók számára a Cami de Ronda nevű part menti ösvény kínál festői útvonalat a szomszédos települések felé. Barcelona mintegy 80 kilométerre fekszik, Girona repülőtere pedig mindössze 30 perces autóúttal elérhető.", "ro": "Lloret de Mar este una dintre cele mai dinamice stațiuni de pe Costa Brava, în Catalonia. Orașul a evoluat de la un sat de pescari la o destinație turistică majoră, oferind un amestec de plaje animate, precum Playa de Lloret, și golfuri liniștite, ca Fenals sau Cala Boadella. Arhitectura orașului include elemente de modernism catalan, vizibile la Biserica Sant Romà, cu acoperișul său colorat și mozaicat, dar și la Cimitirul Modernist, unde se află sculpturi de o mare valoare artistică.\n\nO atracție de top sunt Grădinile Santa Clotilde, amenajate într-un stil neorenascentist pe o stâncă abruptă, oferind vederi panoramice spectaculoase asupra mării. Simbolul vizual al orașului este Castelul d'en Plaja, o construcție privată ce seamănă cu o fortăreață medievală, situată la capătul plajei principale. Lloret este renumit pentru viața de noapte exuberantă, cu numeroase cluburi și cazinouri. Pentru iubitorii de natură, poteca de coastă Camino de Ronda oferă trasee spectaculoase de-a lungul mării. Stațiunea se află la aproximativ 80 km de Barcelona, fiind ușor accesibilă cu autobuzul sau mașina din Aeroportul Girona (GRO).", "en": "Lloret de Mar is a premier destination on the Costa Brava, blending Mediterranean beach life with a rich historical heritage. Once a humble fishing village, it rose to fame in the 1950s as a tourism pioneer. The town features the expansive Lloret Beach and more secluded spots like Fenals or the crystalline Cala Boadella. A standout landmark is the Parish Church of Sant Romà, famous for its colorful, mosaic-tiled domes in the Catalan Modernist style. The Modernist Cemetery is another cultural highlight, featuring works by students of Antoni Gaudí.\n\nThe Santa Clotilde Gardens are a must-see, perched on a cliffside with Italian Renaissance-style landscaping and breathtaking sea views. At the northern end of the main beach sits the iconic Castell d'en Plaja, a castle-like residence that provides a dramatic backdrop for photos. Lloret is also famous for its high-energy nightlife, attracting visitors from all over Europe to its numerous clubs and bars. For active travelers, the Camino de Ronda coastal path offers scenic hiking routes along the rugged shore. Located 80 km north of Barcelona, it is easily reached via Girona (GRO) or Barcelona-El Prat (BCN) airports."}, "facts": {"de": ["Costa Brava Region", "Santa Clotilde Gärten", "Kirche Sant Romà (Modernistisch)", "Castell d'en Plaja", "40.803 Einwohner", "Modernistischer Friedhof", "Playa de Lloret", "Cami de Ronda (Wanderweg)"], "hu": ["Costa Brava partvidék", "Santa Clotilde kertek", "Sant Romà templom", "Castell d'en Plaja", "40 803 lakos", "Modernista temető", "Cala Boadella öböl", "Cami de Ronda túraútvonal"], "ro": ["Regiunea Costa Brava", "Grădinile Santa Clotilde", "Biserica Sant Romà", "Castelul d'en Plaja", "40.803 locuitori", "Cimitirul Modernist", "Plaja Fenals", "Drumul de coastă Camino de Ronda"], "en": ["Costa Brava coastline", "Santa Clotilde Gardens", "Sant Romà Church", "Castell d'en Plaja", "40,803 residents", "Modernist Cemetery", "Fenals Beach", "Camino de Ronda coastal path"]}, "imageHint": "The Santa Clotilde Gardens in Lloret de Mar with classical statues and green terraces overlooking the turquoise Mediterranean Sea.", "image": "/poi-images/spain-lloret-de-mar-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Castillo de Sant Joan",
+                  "text": "Diese Festung aus dem 11. Jahrhundert thront auf einem Hügel und bietet den besten Panoramablick über Lloret de Mar.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iglesia de Sant Romà",
+                  "text": "Eine gotische Kirche mit farbenfrohen modernistischen Kuppeln, die im frühen 16. Jahrhundert erbaut wurde.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardines de Santa Clotilde",
+                  "text": "Gärten im Stil der italienischen Renaissance auf einer Klippe mit Blick auf das Meer, entworfen im Jahr 1919.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dona Marinera",
+                  "text": "Eine 1966 errichtete Bronzestatue zu Ehren der Frauen der Seeleute, die von einem Aussichtspunkt auf die Bucht blickt.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museu del Mar",
+                  "text": "Das Museum befindet sich in der Casa Garriga und dokumentiert die reiche maritime Geschichte der Stadt und ihrer Seefahrer.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Modernistischer Friedhof",
+                  "text": "Ein bedeutendes Beispiel katalanischer Begräbniskunst des Modernismus mit Skulpturen berühmter Architekten.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ermita de Santa Cristina",
+                  "text": "Eine neoklassizistische Kapelle aus dem 18. Jahrhundert, die der Schutzpatronin von Lloret de Mar gewidmet ist.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Santuari de Sant Pere del Bosc",
+                  "text": "Ein ehemaliges Kloster, das im 19. Jahrhundert von Puig i Cadafalch in ein prächtiges modernistisches Gebäude umgebaut wurde.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de Sant Joan",
+                  "text": "Ez a 11. századi erőd egy dombtetőn áll, és a legjobb panorámás kilátást nyújtja Lloret de Mar öblére.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iglesia de Sant Romà",
+                  "text": "Gótikus templom színes modernista kupolákkal, amely a 16. század elején épült és a város jelképévé vált.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardines de Santa Clotilde",
+                  "text": "Olasz reneszánsz stílusú kertek egy sziklafalon, amelyeket 1919-ben terveztek, lenyűgöző tengeri kilátással.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dona Marinera",
+                  "text": "Egy 1966-ban emelt bronzszobor a tengerészek feleségeinek tiszteletére, amely az öbölre néző kilátóponton található.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museu del Mar",
+                  "text": "A Casa Garriga épületében található múzeum bemutatja a város gazdag tengerészeti múltját és a hajóépítés történetét.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Modernista temető",
+                  "text": "A katalán modernista sírművészet kiemelkedő példája, híres építészek és szobrászok által készített emlékművekkel.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ermita de Santa Cristina",
+                  "text": "18. századi neoklasszicista kápolna, amely Lloret de Mar védőszentjének tiszteletére épült egy tengerparti dombon.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Santuari de Sant Pere del Bosc",
+                  "text": "Egykori kolostor, amelyet a 19. században Puig i Cadafalch épített át pompás modernista stílusú épületté.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de Sant Joan",
+                  "text": "Această fortăreață din secolul al XI-lea domină orașul de pe un deal, oferind cea mai bună panoramă asupra golfului.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iglesia de Sant Romà",
+                  "text": "O biserică gotică cu cupole moderniste viu colorate, construită la începutul secolului al XVI-lea.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardines de Santa Clotilde",
+                  "text": "Grădini în stil renascentist italian situate pe o stâncă deasupra mării, proiectate în anul 1919.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dona Marinera",
+                  "text": "O statuie de bronz ridicată în 1966 în onoarea soțiilor marinarilor, situată într-un punct de observație strategic.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museu del Mar",
+                  "text": "Găzduit în Casa Garriga, acest muzeu documentează istoria maritimă bogată a orașului și viața navigatorilor locali.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cimitirul Modernist",
+                  "text": "Un exemplu remarcabil de artă funerară modernistă catalană, conținând sculpturi realizate de arhitecți celebri.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ermita de Santa Cristina",
+                  "text": "O capelă neoclasică din secolul al XVIII-lea, dedicată protectoarei spirituale a orașului Lloret de Mar.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Santuari de Sant Pere del Bosc",
+                  "text": "O fostă mănăstire transformată în secolul al XIX-lea de Puig i Cadafalch într-o clădire modernistă grandioasă.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de Sant Joan",
+                  "text": "This 11th-century fortress sits atop a hill and provides the best panoramic views over the bay of Lloret de Mar.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iglesia de Sant Romà",
+                  "text": "A Gothic church featuring colorful modernist domes, built in the early 16th century and a symbol of the town.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardines de Santa Clotilde",
+                  "text": "Italian Renaissance-style gardens perched on a cliff overlooking the sea, designed in 1919 with beautiful terraces.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dona Marinera",
+                  "text": "A bronze statue erected in 1966 to honor sailors' wives, located at a viewpoint overlooking the Mediterranean.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museu del Mar",
+                  "text": "Located in Casa Garriga, this museum documents the town's rich maritime history and the era of the 'Indianos'.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Modernist Cemetery",
+                  "text": "A significant example of Catalan Modernist funeral art, with sculptures and tombs designed by famous architects.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ermita de Santa Cristina",
+                  "text": "An 18th-century neoclassical chapel dedicated to the patron saint of Lloret, set in a scenic coastal location.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Santuari de Sant Pere del Bosc",
+                  "text": "A former monastery renovated by Puig i Cadafalch in the 19th century into a magnificent modernist building.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
+  {"id": "spain-corralejo-cities-v2", "type": "city", "parent": "ES-CN", "coords": [-13.8675, 28.73], "population": 16403, "tier": 2, "name": {"de": "Corralejo", "hu": "Corralejo", "ro": "Corralejo", "en": "Corralejo"}, "description": {"de": "Ein ehemaliges Fischerdorf auf Fuerteventura, das heute für seinen Naturpark mit riesigen Wanderdünen und kristallklarem Wasser bekannt ist.", "hu": "Fuerteventura egykori halászfaluja, amely ma hatalmas vándorhomok-dűnéiről és kristálytiszta vizű strandjairól híres.", "ro": "Un fost sat pescăresc din Fuerteventura, cunoscut astăzi pentru parcul său natural cu dune imense de nisip și ape cristaline.", "en": "A former fishing village on Fuerteventura, now famous for its natural park of massive sand dunes and turquoise waters."}, "descriptionAdvanced": {"de": "Corralejo liegt an der Nordspitze der Insel Fuerteventura und ist eines der beliebtesten Touristenzentren der Insel. Das absolute Highlight ist der Parque Natural de las Dunas de Corralejo, ein etwa 11 km langes Gebiet aus feinem, weißem Sand, der aus zerriebenen Muschelschalen besteht. Die Dünen erstrecken sich bis zum Meer und bilden die berühmten „Grandes Playas“. Das Gebiet ist ein Paradies für Surfer, Windsurfer und Kitesurfer, da die Passatwinde hier ideale Bedingungen schaffen.\n\nVom Hafen in Corralejo legen regelmäßig Fähren zur unbewohnten Isla de Lobos ab, einem Naturschutzgebiet, das ideal zum Wandern und Schnorcheln ist. Auch die Nachbarinsel Lanzarote ist per Schnellfähre in nur 25 Minuten erreichbar. Der alte Stadtkern von Corralejo hat sich den Charme eines Fischerortes bewahrt, mit gemütlichen Restaurants direkt am Wasser, die frischen Fisch und „Papas arrugadas“ (Runzelkartoffeln) servieren. Die Hauptstraße bietet zahlreiche Einkaufsmöglichkeiten und Bars. Corralejo ist etwa 40 km vom Inselflughafen Fuerteventura (FUE) entfernt und bietet eine entspannte Atmosphäre abseits des Massentourismus.", "hu": "Corralejo Fuerteventura északi részén található, és a sziget egyik legvonzóbb települése. Legfőbb vonzereje a Corralejo Natúrpark, ahol több kilométer hosszan elnyúló, fehér homokos dűnék találkoznak az azúrkék óceánnal. Ezek a dűnék nem a Szaharából, hanem elporladt tengeri kagylókból származnak. A part menti „Grandes Playas” strandok kiválóak napozásra, a szelesebb szakaszok pedig a szörfösök és sárkányhajósok paradicsomát jelentik.\n\nA kikötőből rendszeresen indulnak kishajók a közeli Isla de Lobos (Fóka-sziget) felé, amely egy lakatlan természetvédelmi terület kristálytiszta lagúnákkal. Szintén innen érhető el komppal a szomszédos Lanzarote szigete is. Corralejo óvárosa megőrizte eredeti halászfalu jellegét, ahol a látogatók friss tengeri ételeket kóstolhatnak a hangulatos teraszokon. A város főutcáján, az Avenida Nuestra Señora del Carmen-en számos üzlet és szórakozóhely található. A repülőtér (FUE) mintegy 30 perces autóútra fekszik, és a város jól kapcsolódik a sziget többi részéhez buszjáratokkal is.", "ro": "Corralejo este situat în extremitatea nordică a insulei Fuerteventura, fiind o destinație de top pentru iubitorii de natură și sporturi nautice. Atracția principală este Parcul Natural Corralejo, care adăpostește cele mai mari dune de nisip din Insulele Canare. Acest deșert în miniatură se întinde până la malul Oceanului Atlantic, formând plaje cu nisip alb și fin, cunoscute sub numele de Grandes Playas. Datorită vânturilor constante, zona este celebră în întreaga lume pentru windsurf și kitesurf.\n\nDin portul orașului se poate lua feribotul către Isla de Lobos, o mică insulă vulcanică nelocuită, ideală pentru o zi de explorare și snorkeling în apele sale turcoaz. De asemenea, insula vecină Lanzarote este la doar 25 de minute distanță cu feribotul rapid. Centrul vechi al orașului păstrează o atmosferă relaxată, cu baruri de tapas și restaurante ce servesc pește proaspăt. Viața de noapte este animată, dar mai puțin comercială decât în alte insule. Orașul este situat la aproximativ 40 km de Aeroportul Fuerteventura (FUE). Gastronomia locală se bazează pe brânza de capră Majorero și sosul picant mojo.", "en": "Corralejo, situated on the northern tip of Fuerteventura, is a haven for beach lovers and water sports enthusiasts. Its most iconic feature is the Corralejo Natural Park, home to vast, rolling sand dunes made of pulverized seashells that meet the turquoise Atlantic. These dunes create a desert-like landscape known as the Grandes Playas, offering miles of pristine coastline. The area is world-renowned for windsurfing, kitesurfing, and surfing due to the consistent trade winds.\n\nFrom Corralejo harbor, you can hop on a ferry to the nearby Isla de Lobos, an uninhabited volcanic islet perfect for hiking and snorkeling in crystal-clear lagoons. The harbor also connects Fuerteventura to Lanzarote, a mere 25-minute ferry ride away. The town center retains its old fishing village vibe, with excellent seafood restaurants lining the waterfront and a pedestrian main street full of shops and bars. Corralejo is roughly a 35-minute drive from Fuerteventura Airport (FUE) and provides a perfect base for exploring the wild landscapes of the island's northern reaches."}, "facts": {"de": ["Dunas de Corralejo Naturpark", "Isla de Lobos (Fähre)", "Große Strände (Grandes Playas)", "Surfer-Paradies", "16.403 Einwohner", "Blick auf Lanzarote", "Alter Fischereihafen", "Wassersport-Zentrum"], "hu": ["Corralejo Natúrpark", "Isla de Lobos kirándulás", "Grandes Playas strandok", "Szörfösök kedvence", "16 403 lakos", "Kilátás Lanzarote szigetére", "Régi halászkikötő", "Avenida del Carmen shopping"], "ro": ["Parcul Natural Corralejo", "Insula de Lobos", "Dunele de nisip", "Kitesurfing și Windsurfing", "16.403 locuitori", "Feribot către Lanzarote", "Portul tradițional", "Plaje cu nisip alb"], "en": ["Corralejo Natural Park", "Isla de Lobos ferry", "Grandes Playas beaches", "Surfing & Kitesurfing hub", "16,403 residents", "View of Lanzarote", "Old fishing harbor", "White sand dunes"]}, "imageHint": "Golden sand dunes of Corralejo Natural Park meeting the bright turquoise ocean under a clear sky.", "image": "/poi-images/spain-corralejo-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Parque Natural de las Dunas de Corralejo",
+                  "text": "Ein riesiges Naturschutzgebiet mit weißen Sanddünen, das sich entlang der Küste von Fuerteventura erstreckt.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Isla de Lobos",
+                  "text": "Eine kleine, unbewohnte Insel vor Corralejo, die ein geschütztes Naturparadies für Wanderer und Taucher ist.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hafen von Corralejo",
+                  "text": "Der lebendige Hafen der Stadt, von dem aus Fähren nach Lanzarote und Ausflugsboote zur Insel Lobos ablegen.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaza de Patricio Calero",
+                  "text": "Der Hauptplatz im Herzen der Altstadt, bekannt für seine entspannte Atmosphäre und lokalen Veranstaltungen.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "El Campanario Glockenturm",
+                  "text": "Ein Aussichtsturm im Kolonialstil, der einen weiten Blick über die Stadt und die umliegenden Dünen bietet.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ermita de Nuestra Señora del Carmen",
+                  "text": "Eine kleine, schlichte Kapelle in der Nähe des Hafens, die der Schutzpatronin der Fischer gewidmet ist.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muelle Chico",
+                  "text": "Der historische kleine Pier, der den ursprünglichen Kern des alten Fischerdorfes Corralejo markiert.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Paseo Marítimo",
+                  "text": "Die Uferpromenade mit zahlreichen Restaurants, die einen direkten Blick auf das Meer und die Insel Lobos bietet.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Natural de las Dunas de Corralejo",
+                  "text": "Hatalmas természetvédelmi terület fehér homokdűnékkel, amely Fuerteventura partjai mentén húzódik.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Isla de Lobos",
+                  "text": "Kicsi, lakatlan sziget Corralejo közelében, amely védett paradicsom a túrázók és a búvárok számára.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Corralejo kikötője",
+                  "text": "A város nyüzsgő kikötője, ahonnan kompok indulnak Lanzarotéra és kirándulóhajók a Lobos-szigetre.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaza de Patricio Calero",
+                  "text": "Az óváros szívében található főtér, amely nyugodt légköréről és helyi rendezvényeiről ismert.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "El Campanario harangtorony",
+                  "text": "Koloniális stílusú kilátótorony, ahonnan pazar kilátás nyílik a városra és a közeli homokdűnékre.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ermita de Nuestra Señora del Carmen",
+                  "text": "Kicsi, egyszerű kápolna a kikötő közelében, amelyet a halászok védőszentjének szenteltek.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muelle Chico",
+                  "text": "A történelmi kis móló, amely Corralejo egykori halászfalu eredeti központját jelöli.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Paseo Marítimo",
+                  "text": "Tengerparti sétány éttermekkel, ahonnan közvetlen kilátás nyílik az óceánra és a Lobos-szigetre.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Natural de las Dunas de Corralejo",
+                  "text": "O rezervație naturală vastă cu dune de nisip alb, care se întinde de-a lungul coastei insulei Fuerteventura.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Isla de Lobos",
+                  "text": "O mică insulă nelocuită lângă Corralejo, un paradis natural protejat ideal pentru drumeții și snorkeling.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portul Corralejo",
+                  "text": "Portul vibrant al orașului, punct de plecare pentru feriboturile spre Lanzarote și bărcile spre Insula Lobos.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaza de Patricio Calero",
+                  "text": "Piața principală din inima orașului vechi, cunoscută pentru atmosfera sa relaxată și evenimentele locale.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul El Campanario",
+                  "text": "Un turn de observație în stil colonial care oferă vederi largi asupra orașului și dunelor înconjurătoare.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ermita de Nuestra Señora del Carmen",
+                  "text": "O capelă mică și modestă lângă port, dedicată protectoarei spirituale a pescarilor locali.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muelle Chico",
+                  "text": "Micul dig istoric care marchează nucleul original al vechiului sat de pescari Corralejo.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Paseo Marítimo",
+                  "text": "Promenada de la malul mării plină de restaurante, oferind o vedere directă spre ocean și Insula Lobos.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Natural de las Dunas de Corralejo",
+                  "text": "A vast natural park of white sand dunes stretching along the coastline of Fuerteventura.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Isla de Lobos",
+                  "text": "A small, uninhabited island off Corralejo, serving as a protected natural paradise for hikers and divers.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Port of Corralejo",
+                  "text": "The town's busy harbor, where ferries depart for Lanzarote and excursion boats leave for Lobos Island.",
+                  "category": "port",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Plaza de Patricio Calero",
+                  "text": "The main square in the heart of the old town, known for its relaxed atmosphere and local events.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "El Campanario Bell Tower",
+                  "text": "A colonial-style observation tower providing sweeping views of the town and the nearby sand dunes.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ermita de Nuestra Señora del Carmen",
+                  "text": "A small, simple chapel located near the port, dedicated to the patron saint of fishermen.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muelle Chico",
+                  "text": "The historic small pier that marks the original core of the old fishing village of Corralejo.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Paseo Marítimo",
+                  "text": "The seaside promenade lined with restaurants, offering direct views of the ocean and Lobos Island.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
 
 ];

@@ -226,7 +226,210 @@ export const belgiumCitiesV2: POI[] = [
       es: ["Dominada por la enorme Ciudadela de Namur, que ocupa 80 hectáreas", "Sirve como la capital política oficial de la región de Valonia", "Ubicada estratégicamente en la confluencia de los ríos Sambre y Mosa", "La Catedral de San Aubano es la única catedral barroca tardía/neoclásica de Bélgica", "El Teatro Real de Namur data de mediados del siglo XIX", "Sede del festival anual FIFF (Festival Internacional del Cine Francófono)", "La ciudadela cuenta con una extensa red de túneles subterráneos, apodada el 'Termitero de Europa'"],
       pt: ["Dominada pela enorme Cidadela de Namur, que ocupa 80 hectares", "Serve como a capital política oficial da região da Valónia", "Localizada estrategicamente na confluência dos rios Sambre e Mosa", "A Catedral de Santo Aubano é a única catedral barroca tardia/neoclássica da Bélgica", "O Teatro Real de Namur data de meados do século XIX", "Sede do festival anual FIFF (Festival Internacional do Filme Francófono)", "A cidadela possui uma vasta rede de túneis subterrâneos, apelidada de o 'Formigueiro de Europa'"],
       fr: ["Dominée par l'immense Citadelle de Namur, qui s'étend sur 80 hectares", "Sert de capitale politique officielle de la région Wallonie", "Située stratégiquement au confluent de la Sambre et de la Meuse", "La cathédrale Saint-Aubain est la seule cathédrale de style baroque tardif/néoclassique en Belgique", "Le Théâtre Royal de Namur date du milieu du XIXe siècle", "Accueille le FIFF (Festival International du Film Francophone) chaque année", "La citadelle dispose d'un vaste réseau de souterrains, surnommé la 'Termitière de l'Europe'"],
-    }, image: "/poi-images/belgium-namur-cities-v2.webp"},
+    }, image: "/poi-images/belgium-namur-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Zitadelle von Namur",
+                  "text": "Eine massive Festung am Zusammenfluss von Maas und Sambre mit unterirdischen Gängen und Panoramablick auf die Stadt.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kathedrale Saint-Aubain",
+                  "text": "Die einzige spätbarocke Kathedrale Belgiens, die durch ihre majestätische Kuppel und wertvolle Marmoraltäre beeindruckt.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beffroi de Namur",
+                  "text": "Dieser im Jahr 1388 errichtete Glockenturm gehört zum UNESCO-Welterbe und war einst Teil der mittelalterlichen Stadtmauer.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Musée Félicien Rops",
+                  "text": "Ein Museum im Herzen der Altstadt, das dem provokanten Werk des lokalen Künstlers Rops in einem historischen Herrenhaus gewidmet ist.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place d'Armes",
+                  "text": "Der zentrale Platz der Stadt, umgeben von Cafés und historischen Gebäuden, wo regelmäßig Märkte und Feste stattfinden.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pont de Jambes",
+                  "text": "Eine historische Steinbrücke, die Namur mit Jambes verbindet und den besten Blick auf die Zitadelle und das Flussufer bietet.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hospice Saint-Gilles",
+                  "text": "Ein prächtiges Gebäude aus dem 13. Jahrhundert am Flussufer, das heute als Sitz des wallonischen Parlaments dient.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kirche Saint-Loup",
+                  "text": "Ein Meisterwerk der Barockarchitektur, bekannt für seine beeindruckenden Gewölbe aus Tuffstein und dunkle Marmorsäulen.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Namuri citadella",
+                  "text": "Hatalmas erődrendszer a Maas és a Sambre folyók összefolyásánál, kiterjedt alagútrendszerrel és panorámás kilátással.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Albin-székesegyház",
+                  "text": "Belgium egyetlen késő barokk katedrálisa, amely fenséges kupolájáról, márvány belső teréről és festményeiről ismert.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Namuri harangtorony",
+                  "text": "Az 1388-ban épült, UNESCO világörökségi védelem alatt álló torony eredetileg a városfal része volt, ma Namur jelképe.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Félicien Rops Múzeum",
+                  "text": "A provokatív 19. századi művész, Félicien Rops életművét bemutató galéria egy hangulatos óvárosi kúriában kapott helyet.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fegyvertér (Place d'Armes)",
+                  "text": "A város központi tere, amelyet történelmi épületek és kávézók öveznek; itt rendezik a legtöbb helyi vásárt és ünnepséget.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jambes-híd",
+                  "text": "Történelmi kőhíd, amely összeköti Namur városát Jambes negyedével, kiváló fotózási pontot kínálva a citadellára.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Gilles Hospice",
+                  "text": "Egy impozáns 13. századi épület a folyóparton, amely egykor kórház volt, ma a Vallon Parlament székhelyeként működik.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Farkas-templom (Saint-Loup)",
+                  "text": "A barokk építészet remekműve, amely lenyűgöző, faragott tufakő mennyezetéről és fekete márványoszlopairól híres.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetatea Namur",
+                  "text": "O fortăreață masivă situată la confluența râurilor Meuse și Sambre, oferind tuneluri subterane și vederi panoramice superbe.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Saint-Aubain",
+                  "text": "Singura catedrală în stil baroc târziu din Belgia, remarcabilă prin cupola sa maiestuoasă și interiorul bogat în marmură.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul cu clopotniță din Namur",
+                  "text": "Inclus în patrimoniul UNESCO, acest turn construit în 1388 a făcut parte inițial din zidurile de apărare ale orașului.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Félicien Rops",
+                  "text": "Dedicat artistului local din secolul al XIX-lea, muzeul expune gravuri și picturi provocatoare într-o clădire istorică.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Armelor",
+                  "text": "Inima centrală a orașului, înconjurată de cafenele și clădiri vechi, unde se desfășoară piețe și festivități locale.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Jambes",
+                  "text": "Un pod istoric din piatră care leagă Namur de Jambes, oferind cele mai bune unghiuri pentru fotografierea cetății.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hospice Saint-Gilles",
+                  "text": "O clădire grandioasă din secolul al XIII-lea situată pe malul apei, care găzduiește astăzi Parlamentul Valoniei.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Saint-Loup",
+                  "text": "O capodoperă a arhitecturii baroce, cunoscută pentru tavanul său sculptat în piatră de tuf și coloanele de marmură neagră.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Citadel of Namur",
+                  "text": "A massive fortress overlooking the confluence of the Meuse and Sambre rivers, offering underground tunnels and panoramic views.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Aubin's Cathedral",
+                  "text": "The only late Baroque cathedral in Belgium, featuring a majestic dome and a rich interior of marble and paintings.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belfry of Namur",
+                  "text": "A UNESCO World Heritage site built in 1388, originally part of the city walls and now a symbol of Namur's independence.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Félicien Rops Museum",
+                  "text": "Dedicated to the 19th-century artist Félicien Rops, showcasing his provocative works in a historic mansion in the old town.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place d'Armes",
+                  "text": "The central heart of the city, surrounded by cafes and historic buildings, hosting markets and local festivities year-round.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jambes Bridge",
+                  "text": "A historic stone bridge connecting Namur to Jambes, providing the best photographic angles of the Citadel and the river.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hospice Saint-Gilles",
+                  "text": "A grand 13th-century former hospital that now houses the Walloon Parliament, located at the historic river confluence.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Loup Church",
+                  "text": "A masterpiece of Baroque architecture known for its stunning vaulted ceiling carved from Tuffeau stone and dark marble.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
   {
     id: "belgium-leuven-cities-v2",
     parent: "BE",

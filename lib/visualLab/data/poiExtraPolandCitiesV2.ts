@@ -46,7 +46,306 @@ export const polandCitiesV2: POI[] = [
       es: ["Capital de Polonia desde 1596", "Ubicación a orillas del Vístula", "Población de más de 1,8 millones de personas", "El casco antiguo es Patrimonio de la Humanidad por la UNESCO", "Reconstruida tras la destrucción en la Segunda Guerra Mundial", "El Palacio de la Cultura y la Ciencia es el edificio más alto de Polonia", "Importante centro de transporte con el aeropuerto Chopin", "Sede del Museo del Levantamiento de Varsovia", "El símbolo de la ciudad es la Sirena de Varsovia", "Lugar de celebración del festival anual de música contemporánea Otoño de Varsovia", "Hogar del Estadio Nacional, construido para la Eurocopa 2012", "Centro de finanzas y economía en Europa Central"],
       pt: ["Capital da Polónia desde 1596", "Localização nas margens do Vístula", "População de mais de 1,8 milhões de pessoas", "O centro histórico é Património Mundial da UNESCO", "Reconstruída após a destruição na Segunda Guerra Mundial", "O Palácio da Cultura e Ciência é o edifício mais alto da Polónia", "Importante nó de transporte com o Aeroporto Chopin", "Sede do Museu do Levantamento de Varsóvia", "O símbolo da cidade é a Sereia de Varsóvia", "Local do festival anual de música contemporânea Outono de Varsóvia", "Sede do Estádio Nacional, construído para o Euro 2012", "Centro financeiro e económico da Europa Central"],
       fr: ["Capitale de la Pologne depuis 1596", "Situation sur la Vistule", "Population de plus de 1,8 million d'habitants", "La vieille ville est classée au patrimoine mondial de l'UNESCO", "Reconstruite après sa destruction lors de la Seconde Guerre mondiale", "Le Palais de la Culture et de la Science est le plus haut bâtiment de Pologne", "Important nœud de communication avec l'aéroport Chopin", "Siège du musée de l'Insurrection de Varsovie", "Le symbole de la ville est la Sirène de Varsovie", "Lieu du festival annuel de musique contemporaine l'Automne de Varsovie", "Abrite le stade national, construit pour l'Euro 2012", "Centre financier et économique d'Europe centrale"],
-    }, image: "/poi-images/poland-warsaw-cities-v2.webp"},
+    }, image: "/poi-images/poland-warsaw-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Zamek Królewski",
+                  "text": "Das nach dem Krieg rekonstruierte Schloss am Plac Zamkowy war einst Sitz der polnischen Könige und ist heute ein Prachtmuseum.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rynek Starego Miasta",
+                  "text": "Der Marktplatz der Altstadt mit der Seejungfer-Statue ist das Herzstück des UNESCO-Welterbes und gesäumt von bunten Bürgerhäusern.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pałac Kultury i Nauki",
+                  "text": "Das höchste Gebäude Warschaus im stalinistischen Stil bietet eine Aussichtsplattform mit Blick über die gesamte Metropole.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Park Łazienkowski",
+                  "text": "Der riesige Park beherbergt den berühmten Palast auf dem Wasser, das Chopin-Denkmal und freilaufende Pfauen.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeum Powstania Warszawskiego",
+                  "text": "Ein interaktives Museum, das dem Aufstand von 1944 gewidmet ist und die tragische Geschichte der Stadt eindrucksvoll darstellt.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pałac w Wilanowie",
+                  "text": "Das barocke „polnische Versailles“ überstand die Kriege und zeigt prunkvolle königliche Gemächer inmitten barocker Gärten.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kościół Świętego Krzyża",
+                  "text": "Die Barockkirche an der Krakowskie Przedmieście beherbergt in einer ihrer Säulen das Herz von Frédéric Chopin.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kolumna Zygmunta III Wazy",
+                  "text": "Die 1644 errichtete Siegessäule ist eines der ältesten weltlichen Denkmäler der Stadt und steht direkt vor dem Königsschloss.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "POLIN Muzeum",
+                  "text": "Das preisgekrönte Museum auf dem Gelände des ehemaligen Ghettos dokumentiert 1000 Jahre jüdischer Geschichte in Polen.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ogród Saski",
+                  "text": "Der älteste öffentliche Park der Stadt beherbergt das Grabmal des unbekannten Soldaten und barocke Statuen.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrum Nauki Kopernik",
+                  "text": "Ein modernes, interaktives Wissenschaftszentrum am Weichselufer, das Experimente für alle Altersgruppen bietet.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pomnik Fryderyka Chopina",
+                  "text": "Das monumentale Jugendstildenkmal in den Łazienki-Gärten ist der Schauplatz berühmter sommerlicher Klavierkonzerte.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Királyi Vár",
+                  "text": "A Plac Zamkowy téren álló, háború után újjáépített barokk-klasszicista palota a lengyel uralkodók egykori székhelye.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Óvárosi piactér",
+                  "text": "A színes polgárházakkal körbevett tér az UNESCO világörökség része, közepén a város jelképével, a hableány szobrával.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kultúra és Tudomány Palotája",
+                  "text": "Varsó legmagasabb épülete, a szovjet stílusú toronyház 30. emeletéről páratlan panoráma nyílik az egész városra.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Łazienki park",
+                  "text": "A hatalmas királyi parkban található a Vízen úszó palota, a Chopin-emlékmű és számos klasszicista pavilon.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Varsói Felkelés Múzeuma",
+                  "text": "Modern, interaktív kiállítás, amely az 1944-es felkelés eseményeit és a város pusztulását mutatja be drámai módon.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wilanów-palota",
+                  "text": "A lengyel Versailles-ként emlegetett barokk kastély és díszkertje szerencsésen túlélte a világháborúk pusztításait.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Kereszt templom",
+                  "text": "A Krakowskie Przedmieście sétányon álló bazilika egyik oszlopában őrzik Frédéric Chopin szívét egy urnában.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zsigmond-oszlop",
+                  "text": "III. Zsigmond király 1644-ben emelt emlékoszlopa Varsó egyik legrégebbi és legfontosabb világi emlékműve.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "POLIN Múzeum",
+                  "text": "A lengyel zsidóság történetének ezer évét bemutató múzeum építészeti szempontból is a város egyik legmodernebb pontja.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szász kert",
+                  "text": "A város legrégebbi nyilvános parkja, ahol az Ismeretlen Katona sírja és egy monumentális szökőkút is található.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kopernikusz Tudományos Központ",
+                  "text": "A Visztula partján álló interaktív tudományos múzeum, ahol a látogatók maguk végezhetnek különféle kísérleteket.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Frédéric Chopin-emlékmű",
+                  "text": "A Łazienki parkban álló monumentális szecessziós szobornál nyaranta minden vasárnap ingyenes zongorakoncerteket tartanak.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Regal",
+                  "text": "Reconstruit meticulos după al Doilea Război Mondial, acest castel baroc a fost reședința oficială a monarhilor polonezi.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Orașului Vechi",
+                  "text": "Inima istorică a Varșoviei, inclusă în UNESCO, este faimoasă pentru casele sale colorate și statuia Sirenei din centru.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Culturii și Științei",
+                  "text": "Cea mai înaltă clădire din Polonia, un cadou al Uniunii Sovietice, oferă o terasă panoramică la etajul 30.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Łazienki",
+                  "text": "Un domeniu regal vast ce include Palatul pe Apă, o grădină botanică și monumentul impresionant al lui Frédéric Chopin.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Revoltei din Varșovia",
+                  "text": "Un muzeu modern ce folosește tehnologie multimedia pentru a onora lupta polonezilor pentru libertate în anul 1944.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Wilanów",
+                  "text": "Supranumit Versailles-ul polonez, acest palat baroc a scăpat de distrugerile războiului și este înconjurat de grădini magnifice.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfânta Cruce",
+                  "text": "O bazilică barocă faimoasă pentru faptul că adăpostește inima lui Frédéric Chopin în interiorul unuia dintre pilonii săi.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coloana lui Sigismund",
+                  "text": "Ridicată în 1644, această coloană monumentală îl onorează pe regele care a mutat capitala Poloniei de la Cracovia la Varșovia.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul POLIN",
+                  "text": "Situat în fostul ghetou, acest muzeu prezintă istoria de peste un mileniu a evreilor polonezi într-o clădire modernă premiată.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Saxonă",
+                  "text": "Primul parc public din oraș, un spațiu baroc elegant unde se află Mormântul Soldatului Necunoscut și numeroase fântâni.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centrul de Știință Copernic",
+                  "text": "Un spațiu interactiv pe malul Vistulei unde vizitatorii pot descoperi legile naturii prin experimente proprii.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul lui Frédéric Chopin",
+                  "text": "O sculptură în stil Art Nouveau situată în Parcul Łazienki, celebră pentru concertele de pian în aer liber susținute vara.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Castle",
+                  "text": "A meticulously reconstructed Baroque-Classicist residence of Polish monarchs, located at the entrance to the Old Town.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town Market Square",
+                  "text": "The heart of the UNESCO-listed Old Town, surrounded by colorful tenement houses and featuring the Mermaid statue.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palace of Culture and Science",
+                  "text": "The tallest building in Warsaw, a socialist-realist landmark offering a 30th-floor viewing terrace over the city.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Łazienki Park",
+                  "text": "A vast royal garden complex featuring the Palace on the Isle, neoclassical pavilions, and free-roaming peacocks.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Warsaw Uprising Museum",
+                  "text": "An immersive museum dedicated to the 1944 resistance, documenting the city's heroic struggle and tragic destruction.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wilanów Palace",
+                  "text": "Known as the Polish Versailles, this Baroque palace survived WWII and showcases royal apartments and stunning gardens.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holy Cross Church",
+                  "text": "A significant Baroque church on Krakowskie Przedmieście, where an urn containing Frédéric Chopin's heart is entombed.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sigismund's Column",
+                  "text": "Erected in 1644, it is one of Warsaw's oldest monuments, honoring the King who moved the capital to Warsaw.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "POLIN Museum",
+                  "text": "Located on the site of the former Ghetto, this award-winning museum chronicles 1000 years of Jewish history in Poland.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saxon Garden",
+                  "text": "The oldest public park in the city, home to the Tomb of the Unknown Soldier and beautiful 18th-century statues.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Copernicus Science Centre",
+                  "text": "A cutting-edge interactive museum on the Vistula riverbank, encouraging hands-on experimentation for all ages.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Chopin Monument",
+                  "text": "A famous Art Nouveau statue in Łazienki Park, the site of renowned free open-air piano concerts every summer Sunday.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
   {
     id: "poland-krakow-cities-v2",
     parent: "PL",

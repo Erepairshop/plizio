@@ -232,7 +232,257 @@ imageHint: "Edinburgh Castle on Castle Rock at sunset",
       fr: ["Capitale de l'Écosse depuis 1437", "Le château d'Édimbourg est situé sur Castle Rock", "Lieu du plus grand festival d'art au monde", "Siège du parlement écossais depuis 1999"],
     },
     image: "/poi-images/uk-edinburgh-cities-v2.webp",
-},  {
+    "sights": {
+      "de": [
+            {
+                  "name": "Edinburgh Castle",
+                  "text": "Das Edinburgh Castle thront auf dem Castle Rock. Es beherbergt die schottischen Kronjuwelen und den Stone of Destiny seit dem 12. Jahrhundert.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Mile",
+                  "text": "Die historische Hauptstraße der Altstadt verbindet das Schloss mit dem Palace of Holyroodhouse und ist gesäumt von engen mittelalterlichen Gassen.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palace of Holyroodhouse",
+                  "text": "Die offizielle Residenz des britischen Monarchen in Schottland wurde im 16. Jahrhundert erbaut und liegt am Fuße der Royal Mile.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Giles' Cathedral",
+                  "text": "Die im 12. Jahrhundert gegründete Kirche ist das geistliche Herz von Edinburgh und beeindruckt durch ihren markanten kronenförmigen Turmhelm.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arthur's Seat",
+                  "text": "Der 251 Meter hohe erloschene Vulkan im Holyrood Park bietet einen spektakulären Panoramablick über die gesamte Stadt und die Küste.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Museum of Scotland",
+                  "text": "Das Museum präsentiert umfangreiche Sammlungen zur schottischen Geschichte, Natur und Technik in einem prächtigen viktorianischen Gebäude.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Scott Monument",
+                  "text": "Das 61 Meter hohe viktorianisch-gotische Denkmal zu Ehren des Schriftstellers Sir Walter Scott prägt das Stadtbild in den Princes Street Gardens.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Calton Hill",
+                  "text": "Ein Hügel im Stadtzentrum, auf dem sich mehrere Nationaldenkmäler befinden, darunter das unvollendete National Monument und das Dugald Stewart Monument.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Princes Street Gardens",
+                  "text": "Diese öffentliche Parkanlage trennt die Altstadt von der Neustadt und bietet einen malerischen Blick auf das Schloss und die Skyline.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Yacht Britannia",
+                  "text": "Die ehemalige Staatsyacht von Königin Elisabeth II. liegt heute als schwimmendes Museum im Hafenviertel Leith vor Anker.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Edinburgh-i vár",
+                  "text": "Az Edinburgh-i vár a Castle Rock vulkáni szikláján áll. Itt őrzik a skót koronázási ékszereket és a Végzet Kövét a 12. század óta.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Mile",
+                  "text": "Az Óváros főútvonala, amely az Edinburgh-i várat köti össze a Holyroodhouse-palotával, középkori épületekkel és szűk sikátorokkal szegélyezve.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holyroodhouse-palota",
+                  "text": "A brit uralkodó hivatalos skóciai rezidenciája a 16. században épült. Híres történelmi termeiről és a hozzá tartozó apátság romjairól.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Egyed-székesegyház",
+                  "text": "A 12. században alapított templom az edinburgh-i Óváros központja, legfőbb jellegzetessége a különleges, korona alakú toronysisak.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arthur's Seat",
+                  "text": "A Holyrood Parkban található, 251 méter magas kialudt vulkáni kúp, ahonnan lélegzetelállító panoráma nyílik az egész városra és a tengerre.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Skót Nemzeti Múzeum",
+                  "text": "A múzeum Skócia történelmét, természeti világát és technikai fejlődését mutatja be egy lenyűgöző viktoriánus épületben.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Scott-emlékmű",
+                  "text": "Sir Walter Scott író tiszteletére emelt 61 méter magas gótikus torony, amely a világ egyik legnagyobb írói emlékműve.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Calton Hill",
+                  "text": "A városközpontban fekvő domb számos nemzeti emlékműnek ad otthont, és a város egyik legtöbbet fotózott kilátópontja.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Princes Street Gardens",
+                  "text": "Az Óvárost és az Újvárost elválasztó közpark, amely remek rálátást biztosít a várra és Edinburgh ikonikus épületeire.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Yacht Britannia",
+                  "text": "II. Erzsébet királynő egykori luxusjachtja, amely ma Leith kikötőjében horgonyoz, és múzeumként látogatható.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Edinburgh",
+                  "text": "Castelul Edinburgh domină orașul de pe Castle Rock. Adăpostește bijuteriile coroanei scoțiene și Piatra Destinului încă din secolul al XII-lea.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Mile",
+                  "text": "Succesiunea de străzi care formează artera principală a Orașului Vechi, legând Castelul Edinburgh de Palatul Holyroodhouse prin curți medievale.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Holyroodhouse",
+                  "text": "Reședința oficială a monarhului britanic în Scoția, acest palat din secolul al XVI-lea este situat la capătul de jos al traseului Royal Mile.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala St Giles",
+                  "text": "Fondată în secolul al XII-lea, această biserică este inima spirituală a orașului, fiind recunoscută după turla sa unică în formă de coroană.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arthur's Seat",
+                  "text": "Vârful unui vulcan stins situat în Holyrood Park, oferind o panoramă spectaculoasă asupra capitalei scoțiene de la 251 de metri înălțime.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Național al Scoției",
+                  "text": "Găzduit într-o clădire victoriană superbă, muzeul prezintă colecții vaste despre istoria, natura și inovațiile tehnologice ale Scoției.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monumentul Scott",
+                  "text": "Un turn gotic victorian înalt de 61 de metri, ridicat în onoarea scriitorului Sir Walter Scott în grădinile Princes Street.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Calton Hill",
+                  "text": "O colină în centrul orașului care găzduiește numeroase monumente naționale, fiind un loc ideal pentru a admira apusul deasupra orașului.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădinile Princes Street",
+                  "text": "Acest parc public separă Orașul Vechi de Orașul Nou și oferă vederi pitorești spre castel și orizontul istoric al orașului.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Iachtul Regal Britannia",
+                  "text": "Fostul iacht de stat al Reginei Elisabeta a II-a, acum ancorat permanent în portul Leith și transformat într-un muzeu plutitor.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Edinburgh Castle",
+                  "text": "The historic fortress dominates the skyline from Castle Rock, housing the Honours of Scotland and the Stone of Destiny since the 12th century.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Mile",
+                  "text": "A succession of streets forming the main thoroughfare of the Old Town, connecting Edinburgh Castle with Holyrood Palace through medieval closes.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palace of Holyroodhouse",
+                  "text": "The official residence of the British monarch in Scotland, this 16th-century palace sits at the foot of the historic Royal Mile.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Giles' Cathedral",
+                  "text": "Founded in the 12th century, this church is the spiritual heart of Edinburgh, famous for its distinct crown steeple on the city skyline.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arthur's Seat",
+                  "text": "An ancient dormant volcano in Holyrood Park that rises 251 meters, offering panoramic views of the entire city and the Firth of Forth.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Museum of Scotland",
+                  "text": "The museum displays vast collections of Scottish history, nature, and science within a stunning Victorian and modern architectural complex.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Scott Monument",
+                  "text": "A 61-meter high Victorian Gothic tower dedicated to author Sir Walter Scott, dominating the skyline in Princes Street Gardens.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Calton Hill",
+                  "text": "A central hill home to several national monuments, including the National Monument and the Nelson Monument, offering iconic city views.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Princes Street Gardens",
+                  "text": "These public gardens separate the Old Town from the New Town, providing a lush green space with direct views of the castle cliff.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Yacht Britannia",
+                  "text": "The former yacht of Queen Elizabeth II, now permanently berthed in Leith as a museum showcasing the life of the Royal Family at sea.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ]
+}
+  },  {
     id: "uk-cardiff-cities-v2",
     parent: "GB",
     type: "capital",
@@ -278,7 +528,257 @@ imageHint: "Cardiff Bay with the Wales Millennium Centre",
       fr: ["Capitale du Pays de Galles depuis 1955", "Le Principality Stadium accueille 74 500 spectateurs", "Le château de Cardiff a des fondations romaines", "La baie de Cardiff est le plus grand projet côtier d'Europe"],
     },
     image: "/poi-images/uk-cardiff-cities-v2.webp",
-},  {
+    "sights": {
+      "de": [
+            {
+                  "name": "Cardiff Castle",
+                  "text": "Eine mittelalterliche Burg und ein neugotisches Herrenhaus im Stadtzentrum, errichtet auf den Fundamenten eines römischen Kastells aus dem 11. Jahrhundert.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Museum Cardiff",
+                  "text": "Das Museum beherbergt bedeutende Sammlungen zur Archäologie, Botanik und Geologie sowie eine herausragende Kunstgalerie mit impressionistischen Werken.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wales Millennium Centre",
+                  "text": "Das ikonische Kulturzentrum in der Cardiff Bay ist bekannt für seine Architektur aus Schiefer und Stahl und beherbergt die Nationaloper.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Principality Stadium",
+                  "text": "Das 1999 eröffnete Nationalstadion von Wales verfügt über ein schließbares Dach und ist das Herzstück des walisischen Rugbysports.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Llandaff Cathedral",
+                  "text": "Die im 12. Jahrhundert erbaute Kathedrale liegt im ruhigen Stadtteil Llandaff und ist eines der bedeutendsten religiösen Bauwerke in Wales.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cardiff Bay",
+                  "text": "Das ehemalige Hafengebiet wurde umfassend revitalisiert und bietet heute eine moderne Uferpromenade mit Restaurants, Cafés und Blick auf die Bucht.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Fagans National Museum of History",
+                  "text": "Eines der beliebtesten Freilichtmuseen Europas zeigt über 40 historische Gebäude, die aus ganz Wales hierher versetzt wurden.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bute Park",
+                  "text": "Die weitläufige Parkanlage erstreckt sich hinter dem Schloss am Ufer des Flusses Taff und war einst der Privatgarten der Familie Bute.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pierhead Building",
+                  "text": "Das denkmalgeschützte rote Backsteingebäude aus dem Jahr 1897 war einst das Verwaltungszentrum des Hafens und ist heute ein Wahrzeichen der Bucht.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castell Coch",
+                  "text": "Das im 19. Jahrhundert im viktorianischen Märchenstil erbaute Schloss liegt am Stadtrand in einem Waldgebiet über dem Taff-Tal.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cardiff vára",
+                  "text": "Középkori vár és viktoriánus gótikus kastély a városközpontban. A 11. században épült egy korábbi római erőd maradványaira.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cardiffi Nemzeti Múzeum",
+                  "text": "A múzeum régészeti, botanikai és geológiai gyűjteményeknek ad otthont, művészeti galériája pedig világhírű impresszionista alkotásokat őriz.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wales Millennium Centre",
+                  "text": "Ikonikus kulturális központ a Cardiff-öbölben, amely palából és acélból készült különleges homlokzatáról és operaelőadásairól híres.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Principality Stadium",
+                  "text": "Wales nemzeti stadionja, amely 1999-ben épült. Behúzható tetővel rendelkezik, és a walesi rögbi sportág szentélye.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Llandaff-székesegyház",
+                  "text": "A 12. században épült katedrális Cardiff nyugati részén fekszik, és Wales egyik legrégebbi keresztény emlékhelyének számít.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cardiff-öböl",
+                  "text": "Az egykori kikötőnegyed ma a város modern központja éttermekkel, sétányokkal és kulturális látnivalókkal a vízparton.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Fagans Nemzeti Történeti Múzeum",
+                  "text": "Népszerű szabadtéri múzeum, ahol Wales különböző tájairól ideszállított és újjáépített történelmi házakat láthatunk.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bute Park",
+                  "text": "Hatalmas zöldterület a Taff-folyó partján, közvetlenül a vár mellett, amely egykor a Bute család magánkertje volt.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pierhead Building",
+                  "text": "A vörös téglából épült 1897-es épület a Cardiff-öböl egyik legszebb dísze, amely egykor a kikötői adminisztráció központja volt.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castell Coch",
+                  "text": "A várostól északra fekvő domboldalon álló viktoriánus gótikus várkastély, amely mesebeli megjelenésével a környék egyik fő látványossága.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Cardiff",
+                  "text": "Un castel medieval și un conac în stil neogotic victorian. A fost construit în secolul al XI-lea peste un fort roman în centrul orașului.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Național Cardiff",
+                  "text": "Găzduiește colecții importante de arheologie și geologie, precum și o galerie de artă renumită pentru lucrările sale impresioniste.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wales Millennium Centre",
+                  "text": "Centrul cultural iconic din Golful Cardiff, faimos pentru arhitectura sa din ardezie și oțel, fiind sediul Operei Naționale Galeze.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stadionul Principality",
+                  "text": "Stadionul național al Țării Galilor, inaugurat în 1999, dotat cu acoperiș retractabil și considerat inima rugbiului galez.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Llandaff",
+                  "text": "Construită în secolul al XII-lea într-o zonă liniștită a orașului, catedrala este unul dintre cele mai vechi lăcașuri de cult din Wales.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Golful Cardiff",
+                  "text": "Fosta zonă portuară a fost complet revitalizată, oferind acum o promenadă modernă cu restaurante, cafenele și vederi superbe la apă.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Fagans National Museum of History",
+                  "text": "Un muzeu în aer liber de excepție, unde peste 40 de clădiri istorice au fost mutate și reconstruite pentru a ilustra viața galeză.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Bute",
+                  "text": "O vastă întindere de verdeață pe malul râului Taff, lângă castel, care a servit inițial drept grădină privată pentru familia Bute.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Clădirea Pierhead",
+                  "text": "O clădire emblematică din cărămidă roșie construită în 1897, care a servit drept sediu administrativ al portului Cardiff.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castell Coch",
+                  "text": "Cunoscut sub numele de Castelul Roșu, acest edificiu victorian de poveste este situat pe o colină împădurită la marginea orașului.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cardiff Castle",
+                  "text": "A medieval castle and Victorian Gothic revival mansion. It was built in the 11th century over a Roman fort in the city center.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Museum Cardiff",
+                  "text": "The museum houses significant collections of archaeology and geology, plus an art gallery famous for its Impressionist works.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wales Millennium Centre",
+                  "text": "An iconic cultural venue in Cardiff Bay known for its slate and steel architecture, hosting opera, ballet, and theatre performances.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Principality Stadium",
+                  "text": "The national stadium of Wales, opened in 1999 with a fully retractable roof, serving as the spiritual home of Welsh rugby.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Llandaff Cathedral",
+                  "text": "Built in the 12th century on a site of ancient Christian worship, this cathedral remains one of the most serene landmarks in Cardiff.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cardiff Bay",
+                  "text": "A vast waterfront development offering a mix of historic buildings, modern attractions, restaurants, and views across the barrage.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St Fagans National Museum of History",
+                  "text": "One of Europe's leading open-air museums, featuring over 40 historic buildings moved from across Wales and re-erected on site.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bute Park",
+                  "text": "An extensive parkland following the River Taff, located right behind Cardiff Castle in the heart of the capital city.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pierhead Building",
+                  "text": "A Grade I listed red terracotta building from 1897 that was once the administrative center of the busy Cardiff Docks.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castell Coch",
+                  "text": "A 19th-century Victorian Gothic revival castle known for its fairytale towers, set in ancient woodland on the city's outskirts.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            }
+      ]
+}
+  },  {
     id: "uk-leeds-cities-v2",
     parent: "GB",
     type: "city",

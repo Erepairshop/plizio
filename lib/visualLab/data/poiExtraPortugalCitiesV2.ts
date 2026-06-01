@@ -181,6 +181,256 @@ export const portugalCitiesV2: POI[] = [
       fr: ["UNESCO : Patrimoine mondial depuis 1983 pour sa vieille ville", "Situation : Côte sud-est de Terceira dans l'Atlantique central", "Forteresse : La Fortaleza de São João Baptista date du XVIe siècle", "Port : Historiquement l'escale la plus importante pour les galions", "Superficie : La commune couvre une zone d'environ 239 km²", "Vulcanisme : Située au pied du volcan éteint Monte Brasil"],
     },
     image: "/poi-images/portugal-angra-do-heroismo-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Sé Catedral de Angra do Heroísmo",
+                  "text": "Die im 16. Jahrhundert erbaute Kathedrale ist das größte religiöse Gebäude der Azoren und beeindruckt durch ihre markante Doppelturmfassade.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Forte de São João Baptista",
+                  "text": "Diese gewaltige Festungsanlage aus dem 16. Jahrhundert schützte einst die Galeonen vor Piraten und ist eine der größten ihrer Art in Portugal.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monte Brasil",
+                  "text": "Der erloschene Vulkan bildet eine natürliche Halbinsel und bietet Wanderwege sowie Panoramablicke über die UNESCO-Weltkulturerbestadt und das Meer.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jardim Duque da Terceira",
+                  "text": "Ein prächtiger botanischer Garten im Herzen der Stadt, der für seine exotische Pflanzenvielfalt, gepflegten Wege und die Statue von Almeida Garrett bekannt ist.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Igreja da Misericórdia",
+                  "text": "Die im 18. Jahrhundert direkt am Hafen errichtete Kirche besticht durch ihre auffällige blaue Fassade und wertvolle Azulejos im Innenraum.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Praça Velha",
+                  "text": "Der zentrale Platz der Stadt dient seit dem 15. Jahrhundert als Treffpunkt und ist von eleganten Gebäuden und dem Rathaus umgeben.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museu de Angra do Heroísmo",
+                  "text": "Das Museum befindet sich in einem ehemaligen Franziskanerkloster und zeigt Ausstellungen zur maritimen Geschichte, Münzkunde und sakralen Kunst.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palácio dos Capitães Generais",
+                  "text": "Dieser ehemalige Palast diente als Sitz der Generalgouverneure und später als königliche Residenz während der Aufenthalte der Monarchen auf Terceira.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Convento de São Francisco",
+                  "text": "Ein historisches Klosterensemble, das heute Teil des Stadtmuseums ist und einen bedeutenden Kreuzgang sowie eine reich verzierte Kirche beherbergt.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Obelisco da Memória",
+                  "text": "Der 1856 errichtete Obelisk erinnert an den Besuch von König Peter IV. und bietet einen der besten Aussichtspunkte auf die historische Bucht.",
+                  "category": "monuments",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sé székesegyház",
+                  "text": "A 16. században épült katedrális az Azori-szigetek legnagyobb vallási épülete, jellegzetes kéttornyos homlokzata a városkép meghatározó eleme.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent János Baptista erőd",
+                  "text": "Ez a hatalmas, 16. századi erődrendszer egykor a kalózok ellen védte a kikötőt, és ma Portugália egyik legnagyobb katonai létesítménye.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monte Brasil",
+                  "text": "A kialudt vulkáni kúp természetes félszigetet alkot, ahonnan panorámás kilátás nyílik az UNESCO világörökségi városra és a környező túraösvényekre.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duque da Terceira kert",
+                  "text": "Pompás botanikus kert a város szívében, amely egzotikus növényeiről, gondozott ösvényeiről és Almeida Garrett szobráról vált közismertté.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Misericórdia templom",
+                  "text": "A közvetlenül a kikötő mellett található, 18. századi épület jellegzetes kék homlokzatáról és belső azulejo díszítéséről ismerhető fel.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Praça Velha",
+                  "text": "A város központi tere a 15. század óta fontos találkozóhely, elegáns történelmi épületek és a városháza szegélyezi.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Angra do Heroísmo Múzeum",
+                  "text": "Az egykori ferences kolostorban elhelyezett múzeum tengerészeti történeti, numizmatikai és egyházművészeti kiállításoknak ad otthont.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Capitães Generais palota",
+                  "text": "Az egykori főkormányzói palota később királyi rezidenciaként is szolgált a portugál uralkodók Terceira szigetén tett látogatásai során.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Ferenc kolostor",
+                  "text": "Történelmi kolostoregyüttes, amely ma a városi múzeum része, figyelemre méltó kerengővel és gazdagon díszített templombelsővel rendelkezik.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Memória obeliszk",
+                  "text": "Az 1856-ban emelt emlékmű IV. Péter király látogatásának állít emléket, a dombtetőről kiváló kilátás nyílik a történelmi központra és az öbölre.",
+                  "category": "monuments",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Sé din Angra do Heroísmo",
+                  "text": "Construită în secolul al XVI-lea, această catedrală este cea mai mare clădire religioasă din Azore, având o fațadă distinctivă cu două turnuri.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fortul São João Baptista",
+                  "text": "Această fortificație masivă din secolul al XVI-lea proteja galioanele de pirați și este una dintre cele mai mari de acest tip din Portugalia.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monte Brasil",
+                  "text": "Vulcanul stins formează o peninsulă naturală, oferind trasee de drumeție și vederi panoramice asupra orașului inclus în patrimoniul UNESCO.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Duque da Terceira",
+                  "text": "O grădină botanică superbă în centrul orașului, cunoscută pentru varietatea de plante exotice, aleile îngrijite și statuia lui Almeida Garrett.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Misericórdia",
+                  "text": "Situată chiar lângă port, această biserică din secolul al XVIII-lea se remarcă prin fațada sa albastră și interioarele decorate cu azulejos.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Praça Velha",
+                  "text": "Piața centrală a orașului servește ca loc de întâlnire încă din secolul al XV-lea, fiind înconjurată de clădiri elegante și de primărie.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul din Angra do Heroísmo",
+                  "text": "Găzduit într-o fostă mănăstire franciscană, muzeul prezintă expoziții de istorie maritimă, numismatică și artă sacră locală.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Capitães Generais",
+                  "text": "Fost sediu al guvernatorilor generali, acest palat a servit ulterior drept reședință regală în timpul vizitelor monarhilor în insula Terceira.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mănăstirea São Francisco",
+                  "text": "Un ansamblu monastic istoric care face acum parte din muzeul orașului, adăpostind un claustru remarcabil și o biserică bogat ornamentată.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Obeliscul Memoriei",
+                  "text": "Ridicat în 1856, obeliscul comemorează vizita regelui Pedro al IV-lea și oferă unul dintre cele mai bune puncte de belvedere asupra golfului.",
+                  "category": "monuments",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sé Cathedral of Angra do Heroísmo",
+                  "text": "Built in the 16th century, this cathedral is the largest religious building in the Azores, featuring a distinctive twin-tower facade.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fort of São João Baptista",
+                  "text": "This massive 16th-century fortification once protected galleons from pirates and remains one of the largest coastal forts in Portugal.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monte Brasil",
+                  "text": "This extinct volcano forms a natural peninsula, offering panoramic views over the UNESCO world heritage city and various hiking trails.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duque da Terceira Garden",
+                  "text": "A magnificent botanical garden in the city center, known for its exotic plant species, manicured paths, and the statue of Almeida Garrett.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Misericórdia Church",
+                  "text": "Located right by the harbor, this 18th-century church is famous for its striking blue facade and valuable azulejos tiles inside.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Praça Velha",
+                  "text": "The city's central square has served as a meeting point since the 15th century and is flanked by elegant historic buildings and the town hall.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Angra do Heroísmo Museum",
+                  "text": "Housed in a former Franciscan convent, the museum displays exhibits on maritime history, numismatics, and regional sacred art.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palace of the Captains General",
+                  "text": "This former palace served as the seat of the General Governors and later as a royal residence during the visits of monarchs to Terceira.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Convent of São Francisco",
+                  "text": "An institutional historic complex that is now part of the city museum, featuring a notable cloister and a richly decorated church.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Memory Obelisk",
+                  "text": "Erected in 1856, this obelisk commemorates the visit of King Pedro IV and offers one of the best viewpoints over the historical bay.",
+                  "category": "monuments",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "portugal-horta-cities-v2",

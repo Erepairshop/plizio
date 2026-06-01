@@ -38,7 +38,258 @@ export const poiExtraItalyCitiesC1: POI[] = [
       hu: ["Egyetem: 1088-ban alapították, Európa legrégebbi egyeteme.", "Árkádok: A városban összesen 62 km árkádos sor található.", "Tornyok: A középkorban közel 100 torony díszítette a várost.", "Építészet: A San Petronio bazilika a világ 6. legnagyobb temploma.", "Gasztronómia: A tortellini eredetét egy legenda Vénusz köldökéhez köti.", "Ipar: A Ducati motorkerékpárgyár központja a Borgo Panigale negyedben van.", "Közlekedés: Olaszország legfontosabb vasúti csomópontja.", "Történelem: Bologna 2000-ben Európa Kulturális Fővárosa volt."],
       ro: ["Fondare: Orașul are origini etrusce, fiind numit inițial Felsina.", "Patrimoniu: Cele 12 grupuri de arcade sunt înscrise în lista UNESCO.", "Înălțime: Turnul Garisenda are o înclinație de 4 grade, similar cu Turnul din Pisa.", "Populație: Peste 1 milion de locuitori în zona metropolitană.", "Cultură: Bologna este 'Orașul Muzicii' desemnat de UNESCO din 2006.", "Gastronomie: Faimoasa 'Salsiccia di Bologna' este documentată din secolul XVII.", "Religie: San Petronio măsoară 132 de metri lungime și 60 de metri lățime.", "Educație: Universitatea are peste 85.000 de studenți activi."],
       en: ["University: Established in 1088, making it the oldest university in the West.", "Porticoes: Features 38 km of covered walkways in the city center alone.", "Skyline: The Asinelli Tower leans by about 2.2 meters from the vertical.", "Cuisine: Home to 'Bologna' sausage, known locally as Mortadella.", "Transportation: The central station handles over 58 million passengers annually.", "Architecture: San Petronio Basilica’s facade remains half-finished since 1390.", "Economy: Central to Italy's food processing and packaging machinery industries.", "Global Status: UNESCO Creative City of Music since 2006."],
-    }, image: "/poi-images/city-it-bologna.webp"},
+    }, image: "/poi-images/city-it-bologna.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Piazza Maggiore",
+                  "text": "Das Herz von Bologna, umgeben von mittelalterlichen Palästen und der unvollendeten Fassade der Basilika San Petronio.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Due Torri",
+                  "text": "Die Türme Asinelli und Garisenda sind die Wahrzeichen der Stadt; der Asinelli-Turm bietet einen weiten Blick über die roten Dächer.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilika San Petronio",
+                  "text": "Eine der größten Kirchen der Welt am Hauptplatz, bekannt für ihre gotische Architektur und die riesige Mittagslinie im Inneren.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Archiginnasio von Bologna",
+                  "text": "Einstiger Sitz der ältesten Universität der Welt, beherbergt heute ein historisches Anatomisches Theater ganz aus Holz.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilika Santo Stefano",
+                  "text": "Ein Komplex aus miteinander verbundenen Sakralbauten, bekannt als 'Sette Chiese', der verschiedene Epochen widerspiegelt.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portico di San Luca",
+                  "text": "Der längste Arkadengang der Welt (3,8 km), der die Stadt mit dem Heiligtum der Madonna di San Luca auf dem Hügel verbindet.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fontana del Nettuno",
+                  "text": "Prächtiger Renaissance-Brunnen von Giambologna, der Neptun darstellt und ein zentraler Treffpunkt neben der Piazza Maggiore ist.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pinacoteca Nazionale",
+                  "text": "Bedeutende Kunstgalerie mit Werken von Raffael, Giotto und den Carracci, die die Kunstgeschichte Bolognas dokumentiert.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "MAMbo",
+                  "text": "Das Museum für moderne Kunst in Bologna zeigt zeitgenössische Werke und eine permanente Sammlung von Giorgio Morandi.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canale di Reno (Finestrella)",
+                  "text": "Ein kleines Fenster in der Via Piella gibt den Blick auf einen der versteckten Kanäle frei, was an Venedig erinnert.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piazza Maggiore",
+                  "text": "Bologna főtere, amelyet középkori paloták és a San Petronio bazilika monumentális homlokzata vesz körül.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A Két Torony (Asinelli és Garisenda)",
+                  "text": "Bologna ikonikus jelképei; a magasabbik, Asinelli-torony megmászható, ahonnan vörös tetős panoráma tárul elénk.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "San Petronio-bazilika",
+                  "text": "A világ egyik legnagyobb katolikus temploma a főtéren, híres gótikus szerkezetéről és hatalmas napórájáról.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Archiginnasio",
+                  "text": "A bolognai egyetem egykori székhelye, ahol a különleges, faragott fa belsővel rendelkező Anatómiai Színház található.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Santo Stefano bazilika",
+                  "text": "Egymáshoz kapcsolódó vallási épületek komplexuma, amelyet 'Sette Chiese' (Hét templom) néven is ismernek.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "San Luca árkádjai",
+                  "text": "A világ leghosszabb árkádsora, amely 3,8 kilométer hosszan vezet fel a várostól a San Luca-bazilikáig.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neptun-kút",
+                  "text": "Giambologna reneszánsz mesterműve, egy impozáns bronzszobor a Piazza del Nettunón, a város egyik fő találkozópontja.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pinacoteca Nazionale",
+                  "text": "A város nemzeti képtára, ahol Raffaello, Giotto és a Carracci fivérek legfontosabb alkotásait őrzik.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "MAMbo",
+                  "text": "Bologna modern művészeti múzeuma, amely kortárs kiállításoknak és Giorgio Morandi állandó gyűjteményének ad otthont.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reno-csatorna (Finestrella)",
+                  "text": "A Via Piella kis ablaka, amely a város egyik rejtett csatornájára nyílik, megidézve a 'kis Velence' hangulatát.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piazza Maggiore",
+                  "text": "Piața centrală a Bolognei, înconjurată de palate medievale și de fațada impunătoare a Basilicii San Petronio.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Le Due Torri",
+                  "text": "Turnurile Asinelli și Garisenda sunt simbolurile orașului; turnul Asinelli oferă o vedere panoramică asupra acoperișurilor roșii.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica di San Petronio",
+                  "text": "Una dintre cele mai mari biserici din lume, situată în piața principală, renumită pentru meridianul solar interior.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Archiginnasio din Bologna",
+                  "text": "Fostul sediu al universității, ce găzduiește Teatrul Anatomic sculptat în lemn și o bibliotecă istorică valoroasă.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica di Santo Stefano",
+                  "text": "Un complex fascinant de clădiri religioase cunoscut sub numele de 'Sette Chiese', construit de-a lungul secolelor.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portico di San Luca",
+                  "text": "Cel mai lung portic din lume, măsurând aproape 4 kilometri, care leagă centrul orașului de sanctuarul de pe deal.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fontana del Nettuno",
+                  "text": "Fântână renascentistă monumentală realizată de Giambologna, dominată de statuia de bronz a zeului Neptun.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pinacoteca Nazionale",
+                  "text": "Galeria de artă principală a orașului, cu o colecție vastă ce include opere de Rafael, Giotto și Guido Reni.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "MAMbo",
+                  "text": "Muzeul de Artă Modernă din Bologna, spațiu dedicat artei contemporane și colecției permanente Giorgio Morandi.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canale di Reno (Finestrella)",
+                  "text": "O fereastră mică pe Via Piella care dezvăluie un canal ascuns, amintind de atmosfera pitorească a Veneției.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piazza Maggiore",
+                  "text": "The main square of Bologna, surrounded by medieval palaces and the unfinished facade of San Petronio Basilica.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Two Towers (Asinelli & Garisenda)",
+                  "text": "Bologna’s iconic landmark; the taller Asinelli tower can be climbed for a bird's-eye view of the city's red roofs.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica di San Petronio",
+                  "text": "One of the world's largest cathedrals, dominant on the main square, famous for its Cassini meridian line.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Archiginnasio of Bologna",
+                  "text": "Former seat of the University, housing the 17th-century Anatomical Theatre made entirely of spruce wood.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica di Santo Stefano",
+                  "text": "A complex of interconnected religious buildings known as 'Sette Chiese' (Seven Churches) of varying styles.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Portico di San Luca",
+                  "text": "The world’s longest covered walkway (3.8 km), connecting the city centre to the Sanctuary of San Luca on the hill.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fontana del Nettuno",
+                  "text": "A monumental Renaissance fountain by Giambologna featuring a bronze statue of Neptune, a symbol of papal power.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pinacoteca Nazionale",
+                  "text": "The city's main gallery, home to masterpieces by Raphael, Perugino, and the Bolognese Carracci family.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "MAMbo",
+                  "text": "The Museum of Modern Art of Bologna, featuring contemporary exhibitions and the permanent Giorgio Morandi collection.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canale di Reno (Finestrella)",
+                  "text": "A tiny window on Via Piella that looks out onto one of Bologna's hidden canals, known as 'Little Venice'.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
   {
     id: "city-it-genoa",
     name: { de: "Genua", hu: "Genova", ro: "Genova", en: "Genoa" },
@@ -86,7 +337,210 @@ export const poiExtraItalyCitiesC1: POI[] = [
         hu: ["A Genovai Köztársaság több mint 700 évig létezett.", "A város a 12. században építette első világítótornyát, a Lanternát.", "A világ első bankját, a Banco di San Giorgio-t 1407-ben Genovában alapították.", "A farmernadrág Genovából származik; a 'jeans' szó a Genova francia nevéből ('Gênes') ered.", "A híres hegedűművész, Niccolò Paganini Genovában született.", "A Cimitero monumentale di Staglieno Európa egyik leghíresebb temetője."],
         ro: ["Republica Genova a existat timp de peste 700 de ani.", "Orașul și-a construit primul far, Lanterna, în secolul al XII-lea.", "Prima bancă din lume, Banco di San Giorgio, a fost fondată la Genova în 1407.", "Blugii își au originea în Genova; cuvântul 'jeans' derivă din cuvântul francez pentru Genova, 'Gênes'.", "Celebrul violonist Niccolò Paganini s-a născut la Genova.", "Cimitero monumentale di Staglieno este unul dintre cele mai faimoase cimitire din Europa."],
         en: ["The Republic of Genoa existed for over 700 years.", "The city built its first lighthouse, the Lanterna, in the 12th century.", "The world's first bank, the Banco di San Giorgio, was founded in Genoa in 1407.", "Jeans originated in Genoa; the word 'jeans' derives from the French word for Genoa, 'Gênes'.", "The famous violinist Niccolò Paganini was born in Genoa.", "The Cimitero monumentale di Staglieno is one of Europe's most famous cemeteries."]
-    }, image: "/poi-images/city-it-genoa.webp"},
+    }, image: "/poi-images/city-it-genoa.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Acquario di Genova",
+                  "text": "Das Aquarium von Genua ist das größte in Italien und zeigt eine beeindruckende Vielfalt an Meerestieren in modernen Becken am alten Hafen.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cattedrale di San Lorenzo",
+                  "text": "Die schwarz-weiß gestreifte Kathedrale aus dem 12. Jahrhundert ist das wichtigste religiöse Bauwerk der Stadt mit einer prachtvollen Fassade.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piazza de Ferrari",
+                  "text": "Der zentrale Hauptplatz der Stadt wird durch einen monumentalen Bronzebrunnen und die umliegenden prachtvollen Paläste und das Opernhaus geprägt.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Via Garibaldi",
+                  "text": "Diese prächtige Straße beherbergt die Palazzi dei Rolli, ein UNESCO-Welterbe mit beeindruckenden Renaissance- und Barockfassaden vornehmer Familien.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lanterna di Genova",
+                  "text": "Der historische Leuchtturm aus dem Jahr 1543 ist das Wahrzeichen der Stadt und einer der ältesten noch in Betrieb befindlichen Türme der Welt.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palazzo Ducale",
+                  "text": "Einst der Sitz der Dogen von Genua, dient dieser weitläufige Palast heute als bedeutendes Kulturzentrum für Kunstausstellungen und Veranstaltungen.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Boccadasse",
+                  "text": "Ein malerisches altes Fischerdorf am Ende der Uferpromenade mit bunten Häusern und einem kleinen Kiesstrand in einer romantischen Bucht.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spianata Castelletto",
+                  "text": "Ein herrlicher Aussichtspunkt, der bequem per Jugendstil-Aufzug erreichbar ist und einen fantastischen Blick über die Dächer und den Hafen bietet.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Acquario di Genova",
+                  "text": "A genovai akvárium Olaszország legnagyobbja, a régi kikötőben található modern épületben lenyűgöző tengeri élővilágot mutat be látogatóinak.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cattedrale di San Lorenzo",
+                  "text": "A 12. századi, fekete-fehér csíkos márványhomlokzatú katedrális a város legfontosabb vallási emléke, belseje értékes műkincseket őriz.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piazza de Ferrari",
+                  "text": "Genova lüktető központja, melynek fő dísze a hatalmas bronz szökőkút, körbevéve elegáns neoklasszicista palotákkal és az operaházzal.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Via Garibaldi",
+                  "text": "A Rolli-paloták utcája, amely az UNESCO világörökség része, a város aranykorának legpompásabb reneszánsz és barokk épületeit vonultatja fel.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lanterna di Genova",
+                  "text": "Az 1543-ban épült történelmi világítótorony Genova szimbóluma, a világ egyik legrégebbi, ma is működő tengeri jelzőfénye a kikötőben.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palazzo Ducale",
+                  "text": "A genovai dózsék egykori székhelye ma nagyszabású kulturális központ, ahol rangos művészeti kiállításokat és koncerteket rendeznek.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Boccadasse",
+                  "text": "Festői halászfalu a város szélén, pasztellszínű házaival és hangulatos öblével a tengerparti sétány egyik legvonzóbb állomása.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spianata Castelletto",
+                  "text": "Kiváló kilátópont, ahová egy gyönyörű szecessziós lifttel juthatunk fel, páratlan panorámát nyújtva az óvárosra és a hatalmas kikötőre.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Acquario di Genova",
+                  "text": "Cel mai mare acvariu din Italia, situat în Portul Vechi, oferă o călătorie fascinantă printre rechini, delfini și mii de specii marine.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cattedrale di San Lorenzo",
+                  "text": "Catedrala orașului, ridicată în secolul al XII-lea, impresionează prin fațada sa în dungi albe și negre și prin arhitectura gotică superbă.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piazza de Ferrari",
+                  "text": "Principala piață din Genova, renumită pentru fântâna sa arteziană monumentală și clădirile istorice impunătoare care o înconjoară.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Via Garibaldi",
+                  "text": "O stradă spectaculoasă inclusă în patrimoniul UNESCO, celebră pentru Palazzi dei Rolli, reședințe nobiliare de o rară frumusețe barocă.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lanterna di Genova",
+                  "text": "Farul istoric al orașului, construit în 1543, este cel mai înalt din Mediterană și rămâne un simbol etern al puterii maritime genoveze.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palazzo Ducale",
+                  "text": "Fosta reședință a dogilor din Genova este astăzi un centru cultural vibrant, găzduind expoziții de artă de clasă mondială și evenimente.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Boccadasse",
+                  "text": "Un cartier de pescari pitoresc, cu case colorate înghesuite în jurul unei mici plaje, oferind o atmosferă relaxantă și boemă la mare.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spianata Castelletto",
+                  "text": "O terasă panoramică superbă accesibilă cu un lift istoric, oferind cea mai frumoasă vedere asupra acoperișurilor orașului și a portului.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Acquario di Genova",
+                  "text": "The Aquarium of Genoa is Italy's largest marine park, located in the Old Port, featuring diverse ecosystems and thousands of sea creatures.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cattedrale di San Lorenzo",
+                  "text": "This 12th-century cathedral is famous for its distinctive black and white striped facade and holds the Treasury Museum in its crypt.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piazza de Ferrari",
+                  "text": "The city's main square, centered around a large circular fountain and surrounded by magnificent 19th-century buildings and the opera house.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Via Garibaldi",
+                  "text": "Known as the street of palaces, this UNESCO site features the Palazzi dei Rolli, former residences of Genoa's most powerful families.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lanterna di Genova",
+                  "text": "Built in 1543, this iconic lighthouse is the symbol of Genoa and one of the oldest working lighthouses in the world.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palazzo Ducale",
+                  "text": "Once the seat of the Doges of Genoa, this vast palace complex now serves as a major hub for art exhibitions and cultural festivals.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Boccadasse",
+                  "text": "A charming old fishing village at the end of the promenade, famous for its pastel-colored houses and small pebble beach in a quiet bay.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spianata Castelletto",
+                  "text": "A panoramic viewpoint reachable by a beautiful Art Nouveau elevator, offering the best birds-eye views over the historic center and port.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
   {
     id: "city-it-turin",
     name: { de: "Turin", hu: "Torino", ro: "Torino", en: "Turin" },
@@ -122,7 +576,210 @@ export const poiExtraItalyCitiesC1: POI[] = [
       hu: ["Torino beceneve 'Olaszország kocsisa', mivel itt alapították a FIAT-ot 1899-ben.", "A torinói Egyiptomi Múzeumot 1824-ben alapították, megelőzve a kairóit.", "A város csapata, a Juventus, az egyik legsikeresebb futballklub a világon.", "A torinói lepel egy 4,4 méter hosszú lenvászon, amely Jézus képmását őrizheti.", "Torino és környéke ad otthont az űrkutatási modulokat gyártó Thales Alenia Space-nek.", "A város folyója, a Po, Olaszország leghosszabb és legbővizűbb folyója.", "A torinói mozimúzeumban található a világ egyik legmagasabb üvegliftje.", "A gianduiotto csokoládét azért találták fel, mert Napóleon blokádja miatt hiány volt kakaóból."],
       ro: ["Torino este sediul centralei Lavazza, una dintre cele mai mari companii de cafea din lume.", "Grădina Botanică a Universității din Torino a fost înființată în 1729.", "Orașul este împărțit în 8 circumscripții administrative.", "Palatul Regal din Torino face parte din situl UNESCO 'Reședințele Casei de Savoia'.", "Torino are un climat subtropical umed, cu influențe continentale dinspre Alpi.", "Parcul Valentino este cel mai vechi și cel mai cunoscut parc public din oraș.", "În Torino se află sediul editurii Einaudi, una dintre cele mai prestigioase din Italia.", "Aeroportul Torino-Caselle este situat la 16 km nord de centrul orașului."],
       en: ["Turin is the third most economically productive city in Italy after Milan and Rome.", "The city's name comes from the Celtic word 'Taur', meaning 'mountain' or 'bull'.", "The Superga Hill offers a 672-meter high viewpoint over the city and the Alps.", "Turin hosted the first International Cinema Exhibition in 1914.", "The University of Turin, founded in 1404, is one of the oldest in the country.", "The city is a major center for the 'Slow Food' movement, promoting local traditions.", "Turin's street layout is based on the original Roman military camp (Castrum).", "The Allianz Stadium, home of Juventus, was the first club-owned stadium in Italy."],
-    }, image: "/poi-images/city-it-turin.webp"},
+    }, image: "/poi-images/city-it-turin.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Mole Antonelliana",
+                  "text": "Das markante Wahrzeichen Torins beherbergt das Nationale Filmmuseum und bietet einen gläsernen Aufzug zur Aussichtsplattform in 85 Metern Höhe.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museo Egizio",
+                  "text": "Das Ägyptische Museum in Turin besitzt eine der bedeutendsten Sammlungen altägyptischer Kunst und Artefakte weltweit außerhalb von Ägypten.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palazzo Reale",
+                  "text": "Der prunkvolle Königspalast der Savoyer war einst das Zentrum der Macht und beeindruckt mit prächtigen Sälen und der königlichen Rüstkammer.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piazza Castello",
+                  "text": "Der zentrale Platz Torins wird vom Palazzo Reale und dem Palazzo Madama gesäumt und ist das historische Herz der piemontesischen Hauptstadt.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duomo di Torino",
+                  "text": "Die Johannes dem Täufer geweihte Renaissance-Kathedrale ist weltberühmt als Aufbewahrungsort des Turiner Grabtuchs in einer speziellen Kapelle.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parco del Valentino",
+                  "text": "Der Stadtpark am Po-Ufer beherbergt das mittelalterliche Borgo Medievale und das prächtige Schloss Valentino inmitten grüner Alleen.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica di Superga",
+                  "text": "Die imposante Barockbasilika thront auf einem Hügel über der Stadt und dient als Grabstätte für viele Mitglieder des Hauses Savoyen.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palazzo Madama",
+                  "text": "Dieses architektonische Meisterwerk verbindet römische Ruinen, mittelalterliche Türme und eine prachtvolle Barockfassade zu einem Museum.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mole Antonelliana",
+                  "text": "Torinó emblematikus épülete, amelyben a Nemzeti Filmmúzeum működik, üvegliftje pedig lenyűgöző kilátást nyújt a városra és az Alpokra.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museo Egizio",
+                  "text": "A Torinói Egyiptomi Múzeum Kairó után a világ legjelentősebb egyiptomi gyűjteményével rendelkezik, több ezer éves kincseket bemutatva.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palazzo Reale",
+                  "text": "A Savoyai-ház egykori királyi palotája pazar barokk belső tereivel, aranyozott termeivel és a híres fegyvertárral várja a látogatókat.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piazza Castello",
+                  "text": "Torinó szíve, az elegáns főtér, ahol a Királyi Palota és a Palazzo Madama található, fontos történelmi és társasági események helyszíne.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duomo di Torino",
+                  "text": "Keresztelő Szent János tiszteletére szentelt reneszánsz katedrális, amely a világhírű Torinói Lepel őrzési helyeként vált zarándokhellyé.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parco del Valentino",
+                  "text": "A Pó folyó partján fekvő hatalmas park, ahol a középkori várfalut (Borgo Medievale) és a Valentino-kastélyt is megcsodálhatjuk.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica di Superga",
+                  "text": "A város fölé magasodó dombon álló monumentális barokk bazilika a Savoyai-család mauzóleuma és kiváló panorámapont egyben.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palazzo Madama",
+                  "text": "Építészeti különlegesség, amely római kori alapokra épült középkori várat és pazar barokk palotahomlokzatot ötvöz egyetlen épületben.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mole Antonelliana",
+                  "text": "Simbolul orașului Torino, această clădire înaltă găzduiește Muzeul Național al Cinema-ului și oferă o panoramă spectaculoasă asupra Alpilor.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museo Egizio",
+                  "text": "Muzeul Egiptean din Torino este cel mai vechi muzeu din lume dedicat exclusiv civilizației egiptene, având o colecție inestimabilă.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palazzo Reale",
+                  "text": "Fosta reședință regală a familiei de Savoia, palatul impresionează prin apartamentele de stat somptuoase și armureria regală vastă.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piazza Castello",
+                  "text": "Piața centrală a orașului Torino, înconjurată de palate mărețe și arcade elegante, este punctul de plecare ideal pentru a explora centrul.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duomo di Torino",
+                  "text": "Catedrala Sfântul Ioan Botezătorul este o bijuterie renascentistă cunoscută la nivel mondial pentru că adăpostește Giulgiul din Torino.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parco del Valentino",
+                  "text": "Cel mai popular parc din Torino, situat pe malul râului Po, incluzând un sat medieval recreat fidel și castelul Valentino.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica di Superga",
+                  "text": "O bazilică barocă impunătoare situată pe un deal, oferind vederi panoramice și servind drept panteon pentru familia regală de Savoia.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palazzo Madama",
+                  "text": "O clădire fascinantă ce îmbină un castel medieval cu o fațadă barocă superbă, găzduind în prezent Muzeul de Artă Antică.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mole Antonelliana",
+                  "text": "Torino's most iconic landmark, this spire-topped building houses the National Museum of Cinema and features a panoramic glass lift.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museo Egizio",
+                  "text": "The Egyptian Museum in Turin is the only museum outside Cairo dedicated solely to Egyptian art and culture, housing world-class treasures.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palazzo Reale",
+                  "text": "The Royal Palace of the House of Savoy showcases opulent baroque interiors, royal armory, and beautifully manicured royal gardens.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piazza Castello",
+                  "text": "The central square of Turin, surrounded by prestigious palaces like Palazzo Reale and Palazzo Madama, is the city's historic core.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Duomo di Torino",
+                  "text": "This Renaissance cathedral, dedicated to Saint John the Baptist, is internationally famous as the home of the Holy Shroud of Turin.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parco del Valentino",
+                  "text": "A vast park along the Po riverbank featuring the Borgo Medievale (medieval village) and the elegant 17th-century Valentino Castle.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica di Superga",
+                  "text": "A hilltop Baroque masterpiece offering stunning views of the city and the Alps, and serving as the final resting place of the Savoy family.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palazzo Madama",
+                  "text": "An architectural marvel combining Roman ruins, a medieval castle, and a grand baroque facade, now housing the Museum of Ancient Art.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
   {
     id: "city-it-palermo",
     name: { de: "Palermo", hu: "Palermo", ro: "Palermo", en: "Palermo" },
@@ -158,7 +815,210 @@ export const poiExtraItalyCitiesC1: POI[] = [
       hu: ["Palermót a föníciaiak alapították Ziz néven, ami virágot jelent.", "A város népessége körülbelül 670 000 fő, az agglomerációval együtt 1,2 millió.", "A Quattro Canti tér jelzi a város négy történelmi negyedének metszéspontját.", "A Teatro Massimo a Keresztapa III. részének híres zárójelenetének helyszíne.", "A város védőszentje Szent Rozália, akinek ünnepét minden júliusban megtartják.", "Palermo kikötője az egyik legfontosabb komp- és teherkikötő a Földközi-tengeren.", "Az Orto Botanico di Palermo Olaszország egyik legnagyobb botanikus kertje.", "A városban található a világ egyik legnagyobb múmia-gyűjteménye a kapucinusoknál."],
       ro: ["Palermo a fost capitala Regatului Siciliei din 1130 până în 1816.", "Orașul este situat la o altitudine medie de 14 metri deasupra nivelului mării.", "Catedrala din Palermo găzduiește mormântul împăratului Frederic al II-lea.", "Grădina Botanică din Palermo a fost fondată în 1789 și are 10 hectare.", "Universitatea din Palermo, fondată în 1806, are peste 40.000 de studenți.", "Piața Pretoria este celebră pentru fântâna sa cu 48 de statui de marmură.", "Cea mai veche parte a orașului este cartierul Cassaro, de origine feniciană.", "Palermo are o temperatură medie anuală de aproximativ 18 grade Celsius."],
       en: ["Palermo was the capital of the Holy Roman Empire under Frederick II.", "The city's metro area population exceeds 1.2 million people.", "Palermo is considered the world capital of street food by several travel guides.", "The city features one of the largest historical centers in Europe.", "Monte Pellegrino rises to 606 meters above sea level next to the city.", "The Palatine Chapel was commissioned by Roger II of Sicily in 1132.", "The Vucciria market's name comes from the French word 'boucherie' (butcher).", "Palermo has over 80 churches, many dating back to the Norman and Baroque eras."],
-    }, image: "/poi-images/city-it-palermo.webp"},
+    }, image: "/poi-images/city-it-palermo.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale von Palermo",
+                  "text": "Palermos majestätische Kathedrale vereint normannische, maurische und gotische Einflüsse und beherbergt bedeutende Königsgräber.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Normannenpalast",
+                  "text": "Der Palazzo dei Normanni ist die älteste königliche Residenz Europas und berühmt für die goldenen Mosaike der Cappella Palatina.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatro Massimo",
+                  "text": "Italiens größtes Opernhaus ist bekannt für seine perfekte Akustik und seine neoklassizistische Pracht im Herzen der historischen Stadt.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quattro Canti",
+                  "text": "Dieser prächtige Barockplatz markiert den historischen Schnittpunkt der vier Hauptviertel Palermos mit seinen vier verzierten Fassaden.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fontana Pretoria",
+                  "text": "Ein monumentaler Renaissance-Brunnen im Herzen der Altstadt, der mit zahlreichen Statuen mythologischer Figuren geschmückt ist.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kapuzinergruft",
+                  "text": "Ein einzigartiger und düsterer unterirdischer Friedhof mit Tausenden von Mumien, die von den Kapuzinermönchen konserviert wurden.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "La Martorana",
+                  "text": "Eine historische Kirche mit atemberaubenden byzantinischen Mosaiken aus dem 12. Jahrhundert und einer Mischung aus verschiedenen Baustilen.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ballarò-Markt",
+                  "text": "Palermos ältester und authentischster Straßenmarkt bietet eine lebendige Atmosphäre mit frischen Produkten und lokalen Spezialitäten.",
+                  "category": "markets",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palermói székesegyház",
+                  "text": "Palermo fenséges székesegyháza a normann, mór és gótikus stílusok ötvözete, királyi és császári síroknak ad otthont.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Normann palota",
+                  "text": "A Palazzo dei Normanni Európa legrégebbi királyi rezidenciája, amely a Palatinus-kápolna arany mozaikjairól világhírű.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatro Massimo",
+                  "text": "Olaszország legnagyobb operaháza, amely tökéletes akusztikájáról és monumentális neoklasszikus nagyszerűségéről ismert.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quattro Canti",
+                  "text": "A gazdagon díszített barokk tér Palermo négy történelmi negyedének metszéspontját jelöli négy monumentális homlokzattal.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fontana Pretoria",
+                  "text": "Monumentális reneszánsz szökőkút a történelmi központban, amelyet számos mitológiai alakot ábrázoló szobor díszít.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kapucinus katakombák",
+                  "text": "Egyedülálló föld alatti temető, amely kapucinus szerzetesek által konzervált mummifikálódott holttestek ezreit tartalmazza.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "La Martorana templom",
+                  "text": "Történelmi templom lenyűgöző 12. századi bizánci mozaikokkal és az évszázadok során kialakult stílusok keverékével.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ballarò piac",
+                  "text": "Palermo legrégebbi és legautentikusabb utcai piaca, amely élénk hangulatot, friss termékeket és utcai ételeket kínál.",
+                  "category": "markets",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Palermo",
+                  "text": "Catedrala maiestuoasă din Palermo îmbină stilurile normand, maur și gotic, adăpostind morminte regale și imperiale importante.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Normanzilor",
+                  "text": "Cea mai veche reședință regală din Europa, faimoasă pentru mozaicurile strălucitoare de aur din incinta Capelei Palatine.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatro Massimo",
+                  "text": "Cel mai mare teatru de operă din Italia, cunoscut pentru acustica sa perfectă și grandoarea sa neoclasică impresionantă.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quattro Canti",
+                  "text": "Piața barocă bogat decorată marchează intersecția istorică a celor patru districte centrale ale orașului Palermo.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fontana Pretoria",
+                  "text": "O fântână monumentală renascentistă situată în centrul istoric, împodobită cu numeroase statui ale unor figuri mitologice.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catacombele Capucinilor",
+                  "text": "Un cimitir subteran unic și sumbru, care conține mii de corpuri mumificate conservate de către călugării capucini.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Martorana",
+                  "text": "O biserică istorică ce prezintă mozaicuri bizantine uimitoare din secolul al XII-lea și un amestec de stiluri arhitecturale.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Ballarò",
+                  "text": "Cea mai veche și autentică piață stradală din Palermo, oferind o atmosferă vibrantă cu produse proaspete și locale.",
+                  "category": "markets",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palermo Cathedral",
+                  "text": "The majestic cathedral of Palermo combines Norman, Moorish, and Gothic styles, housing royal and imperial tombs.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Norman Palace",
+                  "text": "The Royal Palace of Palermo is the oldest royal residence in Europe, famous for the glittering gold mosaics of the Palatine Chapel.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatro Massimo",
+                  "text": "Italy's largest opera house, known for its perfect acoustics and neoclassical grandeur, famously featured in cinema history.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Quattro Canti",
+                  "text": "The ornate Baroque square marking the historic intersection of Palermo's four central districts with four decorated facades.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fontana Pretoria",
+                  "text": "A monumental Renaissance fountain located in the historic center, adorned with numerous statues of mythological figures.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Capuchin Catacombs",
+                  "text": "A unique and somber underground cemetery containing thousands of mummified bodies preserved by the Capuchin monks.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Church of the Martorana",
+                  "text": "A historic church featuring stunning 12th-century Byzantine mosaics and a mix of architectural styles over the centuries.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ballarò Market",
+                  "text": "The oldest and most authentic street market in Palermo, offering a vibrant atmosphere with fresh produce and street food.",
+                  "category": "markets",
+                  "confidence": "high"
+            }
+      ]
+}
+  },
   {
     id: "city-it-catania",
     name: { de: "Catania", hu: "Catania", ro: "Catania", en: "Catania" },
@@ -281,6 +1141,208 @@ export const poiExtraItalyCitiesC1: POI[] = [
         fr: ["Plus important port de l'ancienne Autriche-Hongrie", "Siège de cafés littéraires historiques", "La Piazza Unità d'Italie est la plus grande place maritime d'Europe", "Important pôle scientifique et de recherche"],
     },
     image: "/poi-images/city-it-trieste.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Piazza Unità d'Italia",
+                  "text": "Europas größter Platz am Meer, umgeben von prächtigen Palästen aus dem 19. Jahrhundert mit einem spektakulären Blick auf die Adria.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Miramare",
+                  "text": "Ein weißes Märchenschloss aus dem 19. Jahrhundert, erbaut für Erzherzog Maximilian von Österreich auf einer Klippe über dem Meer.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castello di San Giusto",
+                  "text": "Eine Festung aus dem 15. Jahrhundert auf dem gleichnamigen Hügel, die einen Panoramablick über die gesamte Bucht von Triest bietet.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Römisches Theater",
+                  "text": "Gut erhaltene Ruinen eines römischen Theaters aus dem 1. Jahrhundert, direkt am Fuße des San Giusto-Hügels im Stadtzentrum gelegen.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kathedrale von San Giusto",
+                  "text": "Die Hauptkirche von Triest beeindruckt durch ihre byzantinischen Mosaike und die große Rosette an der romanischen Fassade.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canale Grande",
+                  "text": "Ein malerischer Wasserweg im Herzen des Viertels Borgo Teresiano, der von historischen Gebäuden und Cafés gesäumt wird.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Molo Audace",
+                  "text": "Eine über 200 Meter lange Steinmole, die ins Meer ragt und ein beliebter Ort für Spaziergänge bei Sonnenuntergang ist.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Risiera di San Sabba",
+                  "text": "Eine ehemalige Reismühle, die im Zweiten Weltkrieg als Konzentrationslager diente, heute eine bewegende nationale Gedenkstätte.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piazza Unità d'Italia",
+                  "text": "Európa legnagyobb tengerparti tere, amelyet impozáns 19. századi paloták vesznek körül, kilátással az Adriai-tengerre.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Miramare-kastély",
+                  "text": "Lenyűgöző fehér 19. századi kastély, amely Habsburg Miksa főherceg számára épült egy tengerparti sziklaszirten.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "San Giusto erőd",
+                  "text": "A város feletti dombon álló 15. századi erőd, amely panorámás kilátást nyújt az egész Trieszti-öbölre.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Római színház",
+                  "text": "Az 1. századból származó római színház jól megőrzött romjai a San Giusto-domb lábánál, a modern városközpontban.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "San Giusto katedrális",
+                  "text": "Trieszt főtemploma, amely hatalmas rózsaablakkal és gyönyörű középkori bizánci mozaikokkal rendelkezik.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canale Grande",
+                  "text": "Festői csatorna a Borgo Teresiano negyed szívében, amelyet kávézók és neoklasszikus épületek szegélyeznek.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Molo Audace",
+                  "text": "Hosszú kőmóló, amely a főtér mellől nyúlik a tengerbe, népszerű hely esti sétákhoz és a naplemente megcsodálásához.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Risiera di San Sabba",
+                  "text": "Egykori rizshántoló üzem, amelyet a második világháború alatt koncentrációs táborrá alakítottak, ma nemzeti emlékhely.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piazza Unità d'Italia",
+                  "text": "Cea mai mare piață de pe malul mării din Europa, înconjurată de palate grandioase din secolul al XIX-lea și vederi superbe.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Miramare",
+                  "text": "Un castel alb uimitor din secolul al XIX-lea, construit pentru arhiducele Maximilian de Austria pe o stâncă deasupra mării.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul San Giusto",
+                  "text": "O fortăreață din secolul al XV-lea situată pe un deal deasupra orașului, oferind vederi panoramice asupra golfului.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul Roman",
+                  "text": "Ruine bine conservate ale unui teatru roman din secolul I, situate la poalele dealului San Giusto în inima orașului.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala San Giusto",
+                  "text": "Biserica principală din Triest, cu o fereastră circulară mare și mozaicuri bizantine prețioase din perioada medievală.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canale Grande",
+                  "text": "O cale navigabilă pitorească în inima districtului Borgo Teresiano, mărginită de cafenele istorice și palate.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Molo Audace",
+                  "text": "Un dig lung de piatră care se întinde în mare de la Piazza Unità, popular pentru plimbări și vizionarea apusului.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Risiera di San Sabba",
+                  "text": "O fostă moară de orez transformată în lagăr de concentrare în timpul războiului, acum un muzeu memorial sumbru.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piazza Unità d'Italia",
+                  "text": "Europe's largest seaside square, surrounded by grand 19th-century palaces and offering a spectacular view of the Adriatic.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Miramare Castle",
+                  "text": "A stunning white 19th-century castle built for Archduke Maximilian of Austria, situated on a cliff overlooking the sea.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "San Giusto Castle",
+                  "text": "A 15th-century fortress standing on a hill above the city, offering panoramic views and housing a museum of history.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Roman Theatre",
+                  "text": "Well-preserved ruins of a Roman theater from the 1st century, located at the foot of San Giusto hill in the city center.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "San Giusto Cathedral",
+                  "text": "The main church of Trieste, featuring a large rose window and beautiful Byzantine mosaics inside from the medieval period.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Canale Grande",
+                  "text": "A scenic waterway in the heart of the Borgo Teresiano district, lined with cafes and historic buildings.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Molo Audace",
+                  "text": "A long stone pier extending into the sea from Piazza Unità, popular for evening walks and watching the sunset.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Risiera di San Sabba",
+                  "text": "A former rice mill converted into a concentration camp during WWII, now serving as a somber memorial and museum.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-it-padua",

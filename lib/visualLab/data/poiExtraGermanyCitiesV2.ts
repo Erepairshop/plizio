@@ -99,6 +99,208 @@ export const germanyCitiesV2: POI[] = [
     
       "tr": ["Spreuerhofstraße dünyanın en dar sokağıdır (31 cm).", "Marienkirche 1247 ile 1343 yılları arasında inşa edilmiştir.", "1802 yılına kadar özgür bir imparatorluk şehriydi.", "Hochschule Reutlingen teknoloji ve ekonomi alanında en iyiler arasındadır.", "Şehrin yerel dağı olan Achalm'ın eteklerinde yer alır.", "Nüfus yaklaşık 118.000 kişidir (2023 itibarıyla)."]},
     image: "/poi-images/germany-reutlingen-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Marienkirche",
+                  "text": "Die spätgotische Marienkirche ist das Wahrzeichen der Stadt. Sie besticht durch ihren imposanten Turm und die filigrane Steinmetzkunst.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spreuerhofstraße",
+                  "text": "Die engste Straße der Welt steht im Guinness-Buch der Rekorde. An ihrer schmalsten Stelle misst sie lediglich 31 Zentimeter.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tübinger Tor",
+                  "text": "Eines der beiden erhaltenen Stadttore der mittelalterlichen Befestigung. Es prägt mit seinem markanten Fachwerk das Stadtbild von Reutlingen.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Achalm",
+                  "text": "Der Hausberg der Stadt bietet von seinem Aussichtsturm einen weiten Blick über die Schwäbische Alb und das Neckartal bis nach Stuttgart.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marktplatz",
+                  "text": "Der zentrale Platz mit dem Maximilianbrunnen ist das Herz der Altstadt. Hier finden regelmäßig Wochenmärkte und kulturelle Veranstaltungen statt.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heimatmuseum Reutlingen",
+                  "text": "Untergebracht im historischen Königsbronner Hof, zeigt das Museum die bewegte Geschichte der ehemaligen freien Reichsstadt von der Steinzeit bis heute.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pomologie",
+                  "text": "Diese wunderschöne Parkanlage wurde für eine Landesgartenschau angelegt. Sie ist eine grüne Oase mit seltenen Obstbäumen und Blumenbeeten.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nikolaikirche",
+                  "text": "Eine schlichte, gotische Kirche aus dem 14. Jahrhundert, die einst als Zunftkirche der Gerber und Weber diente und Ruhe ausstrahlt.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marienkirche",
+                  "text": "A késő gótikus Marienkirche a város jelképe. Lenyűgöző tornyával és finom kőfaragványaival a régió egyik legszebb temploma.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spreuerhofstraße",
+                  "text": "A világ legszűkebb utcája, amely bekerült a Guinness Rekordok Könyvébe is. Legkeskenyebb pontján mindössze 31 centiméter széles.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tübinger Tor",
+                  "text": "A középkori városfal két fennmaradt kapujának egyike. Jellegzetes gerendavázas szerkezetével Reutlingen történelmi arculatának meghatározó eleme.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Achalm",
+                  "text": "A város melletti hegy csúcsán lévő kilátóból pazar panoráma nyílik a Sváb-Alpokra, a Neckar-völgyére és egészen Stuttgartig.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marktplatz",
+                  "text": "A Maximilian-kúttal díszített központi tér az óváros szíve. Rendszeresen itt tartják a heti piacokat és a nagyobb városi rendezvényeket.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heimatmuseum Reutlingen",
+                  "text": "A történelmi Königsbronner Hof épületében található múzeum bemutatja a korábbi szabad birodalmi város gazdag történelmét a kőkorszaktól napjainkig.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pomologie",
+                  "text": "Ez a gyönyörű park egy korábbi kertészeti kiállításra készült. Zöld oázis ritka gyümölcsfákkal és gondozott virágágyásokkal a belváros szélén.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nikolaikirche",
+                  "text": "Egy egyszerű, 14. századi gótikus templom, amely egykor a tímárok és takácsok céhes templomaként szolgált Reutlingen óvárosában.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marienkirche",
+                  "text": "Biserica Sfânta Maria, construită în stil gotic târziu, este simbolul orașului, remarcându-se prin turnul său impunător și detaliile sculpturale.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spreuerhofstraße",
+                  "text": "Cea mai îngustă stradă din lume, consemnată în Cartea Recordurilor. În cel mai strâmt punct al său, măsoară doar 31 de centimetri lățime.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tübinger Tor",
+                  "text": "Una dintre cele două porți medievale rămase din vechile fortificații. Structura sa cu bârne aparente este emblematică pentru centrul istoric.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Achalm",
+                  "text": "Muntele local oferă din turnul său de observație o vedere panoramică spectaculoasă asupra regiunii Jura Șvabă și a văii râului Neckar.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marktplatz",
+                  "text": "Piața centrală, unde se află Fântâna Maximilian, este inima orașului vechi, fiind locul de desfășurare a piețelor săptămânale și a festivalurilor.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heimatmuseum Reutlingen",
+                  "text": "Găzduit în clădirea istorică Königsbronner Hof, muzeul prezintă istoria fascinantă a fostului oraș imperial liber, din preistorie până în prezent.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pomologie",
+                  "text": "Acest parc superb a fost creat pentru o expoziție horticola. Este o oază de liniște cu pomi fructiferi rari și aranjamente florale deosebite.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nikolaikirche",
+                  "text": "O biserică gotică sobră din secolul al XIV-lea, care a servit inițial drept lăcaș de cult pentru breasla tăbăcarilor și a țesătorilor.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marienkirche",
+                  "text": "The late Gothic Marienkirche is the city's landmark. It features an impressive tower and intricate stonework from the 14th century.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spreuerhofstraße",
+                  "text": "The world's narrowest street is listed in the Guinness Book of Records. At its narrowest point, it measures only 31 centimeters.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tübinger Tor",
+                  "text": "One of the two surviving city gates from the medieval fortifications. Its striking half-timbered style is a highlight of Reutlingen's skyline.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Achalm",
+                  "text": "The local mountain offers a wide view over the Swabian Alb and the Neckar valley from its lookout tower on top of the castle ruins.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marktplatz",
+                  "text": "The central square with the Maximilian Fountain is the heart of the old town, hosting colorful weekly markets and cultural events.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Heimatmuseum Reutlingen",
+                  "text": "Located in the historic Königsbronner Hof, the museum showcases the rich history of the former Free Imperial City from ancient times to today.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pomologie",
+                  "text": "This beautiful park was established for a state garden show. It is a green oasis featuring rare fruit trees and vibrant flower beds.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nikolaikirche",
+                  "text": "A simple 14th-century Gothic church that once served as the guild church for local tanners and weavers in the historic center.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "germany-plauen-cities-v2",
@@ -295,6 +497,208 @@ export const germanyCitiesV2: POI[] = [
     
       "tr": ["Prosper-Haniel madeni, 2018'e kadar Almanya'nın son aktif taş kömürü madeniydi.", "Halde Beckstraße üzerindeki Tetraeder yaklaşık 50 metre yüksekliğindedir.", "Movie Park Germany yaklaşık 40 hektarlık bir alanı kaplar.", "Bottrop'un bugün yaklaşık 117.000 nüfusu vardır.", "Albers Museum 1976 yılında açılmıştır.", "Şehir, 1921 yılında şehir haklarını almıştır."]},
     image: "/poi-images/germany-bottrop-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Tetraeder",
+                  "text": "Das Tetraeder ist eine begehbare Stahlpyramide auf einer Halde. Es bietet einen spektakulären Panoramablick über das gesamte Ruhrgebiet.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Beck",
+                  "text": "Ein barockes Wasserschloss, das heute als Freizeitpark für Familien dient. Die historische Architektur ist harmonisch in den Park eingebettet.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum Quadrat",
+                  "text": "Das Josef Albers Museum widmet sich dem Werk des berühmten Künstlers. Es liegt idyllisch im Stadtgarten inmitten moderner Architektur.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alpincenter Bottrop",
+                  "text": "Mit der längsten Indoor-Skipiste der Welt bietet das Alpincenter Wintersportvergnügen das ganze Jahr über auf einer rekultivierten Halde.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Halde Haniel",
+                  "text": "Eine der höchsten Halden des Reviers mit einem Kreuzweg und einem beeindruckenden Amphitheater, das für kulturelle Events genutzt wird.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus Bottrop",
+                  "text": "Das imposante Rathaus im Stil der Neorenaissance ist ein bedeutendes Baudenkmal und das administrative Zentrum der Stadt.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Movie Park Germany",
+                  "text": "Ein bekannter Film- und Freizeitpark im Stadtteil Kirchhellen, der Attraktionen rund um die Welt des Kinos und Hollywoods bietet.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cyriakus-Kirche",
+                  "text": "Die katholische Hauptkirche der Stadt besticht durch ihre neugotische Architektur und ist ein Ort der Ruhe im geschäftigen Stadtzentrum.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tetraéder",
+                  "text": "A Tetraéder egy látogatható acélpiramis egy meddőhányó tetején. Lenyűgöző panorámát nyújt az egész Ruhr-vidék ipari tájára.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Beck",
+                  "text": "Egy barokk vízikastély, amely ma népszerű családi szabadidőparknak ad otthont, ötvözve a történelmi építészetet a szórakozással.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum Quadrat",
+                  "text": "A Josef Albers Múzeum a világhírű művész geometrikus munkásságának szentelt tárlat, amely a városliget festői környezetében található.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alpincenter Bottrop",
+                  "text": "A világ leghosszabb fedett sípályájával rendelkező központ az év minden napján várja a téli sportok kedvelőit egy átalakított meddőhányón.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Halde Haniel",
+                  "text": "A környék egyik legmagasabb meddőhányója, ahol egy egyedülálló kálváriaút és egy szabadtéri amfiteátrum is található a csúcson.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus Bottrop",
+                  "text": "A város neoreneszánsz stílusú városháza lenyűgöző építészeti műemlék, amely Bottrop közigazgatási és történelmi központja.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Movie Park Germany",
+                  "text": "Népszerű film- és élménypark Kirchhellen városrészben, amely izgalmas hollywoodi tematikájú játékokkal várja a látogatókat.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cyriakus-Kirche",
+                  "text": "A város fő katolikus temploma neogótikus stílusban épült, és fontos vallási, valamint építészeti központ Bottrop belvárosában.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tetraeder",
+                  "text": "Tetraeder este o piramidă de oțel situată pe o fostă haldă de steril. Oferă o vedere panoramică spectaculoasă asupra întregii regiuni Ruhr.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Beck",
+                  "text": "Un castel baroc pe apă, care astăzi servește drept parc de distracții pentru familii, integrând arhitectura istorică într-un decor natural.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum Quadrat",
+                  "text": "Muzeul Josef Albers este dedicat operei celebrului artist născut în Bottrop, fiind amplasat idilic în grădina publică a orașului.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alpincenter Bottrop",
+                  "text": "Dispunând de cea mai lungă pârtie de schi acoperită din lume, Alpincenter oferă sporturi de iarnă pe tot parcursul anului în Bottrop.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Halde Haniel",
+                  "text": "Una dintre cele mai înalte halde din regiune, găzduind un drum al crucii artistic și un amfiteatru impresionant folosit pentru spectacole.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus Bottrop",
+                  "text": "Primăria impunătoare, construită în stil neorenascentist, este un monument arhitectural semnificativ și centrul administrativ al orașului.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Movie Park Germany",
+                  "text": "Un parc tematic celebru dedicat lumii filmului, situat în cartierul Kirchhellen, oferind atracții inspirate de producțiile de la Hollywood.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cyriakus-Kirche",
+                  "text": "Biserica catolică principală a orașului se remarcă prin arhitectura sa neogotică și este un loc de liniște în centrul aglomerat al orașului.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tetraeder",
+                  "text": "The Tetraeder is a walkable steel pyramid on a slag heap. It offers a spectacular panoramic view over the entire industrial Ruhr area.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Beck",
+                  "text": "A Baroque water castle that now serves as an amusement park for families, blending historic architecture with modern fun in its gardens.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum Quadrat",
+                  "text": "The Josef Albers Museum is dedicated to the work of the famous artist. It is beautifully located in the town garden's modern pavilions.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alpincenter Bottrop",
+                  "text": "Featuring the world's longest indoor ski slope, the Alpincenter offers winter sports fun all year round on a repurposed industrial heap.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Halde Haniel",
+                  "text": "One of the highest slag heaps in the region, featuring a unique Way of the Cross and an open-air amphitheater for cultural events.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus Bottrop",
+                  "text": "The impressive Neo-Renaissance town hall is a significant architectural monument and serves as the administrative heart of the city.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Movie Park Germany",
+                  "text": "A popular film-themed amusement park in the Kirchhellen district, offering thrilling rides and shows based on the world of Hollywood.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cyriakus-Kirche",
+                  "text": "The main Catholic church of the city is an impressive Neo-Gothic building, providing a peaceful retreat in the busy city center.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "germany-fulda-cities-v2",
@@ -687,6 +1091,208 @@ export const germanyCitiesV2: POI[] = [
     
       "tr": ["Şehir, 800 yılı civarında bir Frizyalı ticaret merkezi olarak kurulmuştur.", "Volkswagen-Werk Emden bugün 9.000'den fazla çalışana istihdam sağlamaktadır.", "Emden limanı, Avrupa'nın üçüncü büyük otomobil sevkiyat noktasıdır.", "Kunsthalle Emden, 1986 yılında yayıncı Henri Nannen tarafından kurulmuştur.", "Emden belediye binası, Almanya'nın en önemli cephaneliklerinden (Rüstkammer) birine ev sahipliği yapar.", "Şehrin kanal ağı yaklaşık 150 kilometrelik bir toplam uzunluğa yayılmaktadır."]},
     image: "/poi-images/germany-emden-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Dat Otto Huus",
+                  "text": "Ein Museum gewidmet dem in Emden geborenen Komiker Otto Waalkes mit vielen Requisiten und Zeichnungen.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunsthalle Emden",
+                  "text": "Renommiertes Kunstmuseum, das von Henri Nannen gestiftet wurde und bedeutende Werke der klassischen Moderne zeigt.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ostfriesisches Landesmuseum Emden",
+                  "text": "Im historischen Rathaus am Delft untergebracht, präsentiert es die regionale Geschichte und eine große Rüstkammer.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bunkermuseum Emden",
+                  "text": "Das Museum in einem ehemaligen Luftschutzbunker dokumentiert die Schicksale während des Zweiten Weltkriegs in der Stadt.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Johannes a Lasco Bibliothek",
+                  "text": "Eine bedeutende theologische Spezialbibliothek, die in den Ruinen der Großen Kirche von Emden errichtet wurde.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Feuerschiff Amrumbank",
+                  "text": "Ein historisches Museumsschiff im Emder Ratsdelft, das früher als schwimmendes Leuchtfeuer in der Nordsee diente.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ratsdelft",
+                  "text": "Der historische Hafenbereich im Herzen der Stadt, ideal für Spaziergänge und Hafenrundfahrten durch die Kanäle.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pelzerhäuser",
+                  "text": "Zwei der ältesten erhaltenen Bürgerhäuser Emdens aus dem 16. Jahrhundert mit charakteristischen Renaissance-Giebeln.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dat Otto Huus",
+                  "text": "Az Emdenben született Otto Waalkes humorista múzeuma, ahol számos kellék és rajz tekinthető meg.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunsthalle Emden",
+                  "text": "Neves művészeti múzeum, amelyet Henri Nannen alapított, és a klasszikus modernizmus jelentős műveit mutatja be.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ostfriesisches Landesmuseum Emden",
+                  "text": "A városházán található múzeum a régió történelmét és egy hatalmas fegyvergyűjteményt mutat be a látogatóknak.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bunkermuseum Emden",
+                  "text": "Egy egykori légoltalmi bunkerben berendezett múzeum, amely a város második világháborús sorsát dokumentálja.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Johannes a Lasco Könyvtár",
+                  "text": "Jelentős teológiai szakkönyvtár, amely az egykori emdeni Nagytemplom romjai között kapott helyet.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Amrumbank világítóhajó",
+                  "text": "Történelmi múzeumhajó a város kikötőjében, amely korábban úszó világítótoronyként szolgált az Északi-tengeren.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ratsdelft",
+                  "text": "A város szívében található történelmi kikötőrész, amely ideális sétákhoz és csatornahajózáshoz.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pelzer-házak",
+                  "text": "Emden két legrégebbi fennmaradt polgárháza a 16. századból, jellegzetes reneszánsz stílusú oromzattal.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dat Otto Huus",
+                  "text": "Un muzeu dedicat comediantului Otto Waalkes, născut în Emden, prezentând numeroase recuzite și desene originale.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunsthalle Emden",
+                  "text": "Un prestigios muzeu de artă fondat de Henri Nannen, care găzduiește opere importante ale modernismului clasic.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ostfriesisches Landesmuseum Emden",
+                  "text": "Situat în vechea primărie, muzeul prezintă istoria regională și o colecție impresionantă de arme vechi.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bunkermuseum Emden",
+                  "text": "Muzeul situat într-un fost buncăr antiaerian documentează viața orașului în timpul celui de-al Doilea Război Mondial.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biblioteca Johannes a Lasco",
+                  "text": "O bibliotecă teologică de specialitate construită în ruinele Marii Biserici din Emden, cu o arhitectură unică.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nava-far Amrumbank",
+                  "text": "O navă istorică transformată în muzeu, care a servit drept far plutitor în apele Mării Nordului.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ratsdelft",
+                  "text": "Zona portuară istorică din centrul orașului, un loc popular pentru plimbări și tururi cu barca pe canale.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casele Pelzer",
+                  "text": "Două dintre cele mai vechi case cetățenești din Emden, datând din secolul al XVI-lea, cu fațade renascentiste.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dat Otto Huus",
+                  "text": "A museum dedicated to the famous comedian Otto Waalkes, featuring many props, costumes, and drawings.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunsthalle Emden",
+                  "text": "A renowned art museum founded by Henri Nannen, showcasing significant works of classical modern art.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ostfriesisches Landesmuseum Emden",
+                  "text": "Located in the historic town hall, this museum displays regional history and a large armory collection.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bunkermuseum Emden",
+                  "text": "Housed in a former air-raid bunker, it documents the experiences of the city during World War II.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Johannes a Lasco Library",
+                  "text": "A specialized theological library built within the ruins of the Great Church of Emden.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lightship Amrumbank",
+                  "text": "A historic museum ship in the city harbor that formerly served as a floating lighthouse in the North Sea.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ratsdelft",
+                  "text": "The historic harbor area in the heart of the city, perfect for walks and canal boat tours.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pelzer Houses",
+                  "text": "Two of the oldest surviving bourgeois houses in Emden from the 16th century with Renaissance gables.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            }
+      ]
+}
   },
     {
     id: "germany-baden-baden-cities-v2", population: 57420,
@@ -736,6 +1342,256 @@ export const germanyCitiesV2: POI[] = [
     
       "tr": ["Baden-Baden'daki Roma hamamı kalıntıları yaklaşık 2.000 yaşındadır.", "Casino Baden-Baden, 1824 yılında Friedrich Weinbrenner'in planlarına göre inşa edilmiştir.", "Festspielhaus, 2.500 koltuk kapasitesiyle Almanya'nın en büyük opera binasıdır.", "Baden-Baden, 2021 yılında UNESCO Dünya Mirası ilan edilmiştir.", "Lichtentaler Allee, 2,3 kilometre uzunluğunda tarihi bir park alanıdır.", "Termal su, yerden 68 dereceye kadar varan bir sıcaklıkla çıkmaktadır."]},
     image: "/poi-images/germany-baden-baden-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Kurhaus & Casino",
+                  "text": "Das prachtvolle Wahrzeichen der Stadt im Stil der Belle Époque beherbergt eines der schönsten Casinos weltweit.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lichtentaler Allee",
+                  "text": "Eine historische, 2,3 km lange Parkanlage entlang der Oos, die für ihre botanische Vielfalt bekannt ist.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caracalla Therme",
+                  "text": "Moderne Wellness-Oase mit Thermalbecken, Saunen und Aromabädern auf über 4.000 Quadratmetern Fläche.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Friedrichsbad",
+                  "text": "Ein historisches römisch-irisches Bad aus dem Jahr 1877 mit beeindruckenden Fresken und Kuppelsälen.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Festspielhaus Baden-Baden",
+                  "text": "Deutschlands größtes Opern- und Konzerthaus mit erstklassiger Akustik und internationalem Programm.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trinkhalle",
+                  "text": "Ein korinthisches Säulenbauwerk mit 14 Wandgemälden, die Sagen aus der Region des Schwarzwalds zeigen.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum Frieder Burda",
+                  "text": "Das vom Architekten Richard Meier entworfene Gebäude zeigt bedeutende Sammlungen moderner und zeitgenössischer Kunst.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Hohenbaden",
+                  "text": "Die imposante Burgruine aus dem 12. Jahrhundert bietet einen spektakulären Blick über die Stadt und das Rheintal.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Merkurberg & Bergbahn",
+                  "text": "Der Hausberg bietet Wanderwege und eine der steilsten Standseilbahnen Deutschlands zum Gipfelplateau.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stiftskirche",
+                  "text": "Die gotische Kirche am Marktplatz beherbergt das monumentale Kruzifix von Nikolaus Gerhaert von Leyden.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kurhaus & Kaszinó",
+                  "text": "A város lenyűgöző, Belle Époque stílusú jelképe, amely a világ egyik legszebb kaszinójának ad otthont.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lichtentaler Allee",
+                  "text": "Történelmi, 2,3 km hosszú park az Oos folyó mentén, amely gazdag botanikai választékáról híres.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caracalla Therme",
+                  "text": "Modern wellness-oázis termálmedencékkel, szaunákkal és aromafürdőkkel több mint 4000 négyzetméteren.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Friedrichsbad",
+                  "text": "Történelmi római-ír fürdő 1877-ből, lenyűgöző freskókkal és kupolás termekkel a város szívében.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Festspielhaus Baden-Baden",
+                  "text": "Németország legnagyobb opera- és koncertháza, amely világszínvonalú akusztikával és programokkal várja a látogatókat.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trinkhalle",
+                  "text": "Korinthoszi oszlopcsarnok 14 freskóval, amelyek a Fekete-erdő régiójának legendáit örökítik meg.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Frieder Burda Múzeum",
+                  "text": "A Richard Meier által tervezett modern épület a kortárs művészet kiemelkedő gyűjteményeit mutatja be.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hohenbaden kastély",
+                  "text": "A 12. századi várrom lenyűgöző panorámát nyújt a városra és a Rajna-völgyre a hegytetőről.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Merkur-hegy és sikló",
+                  "text": "A város házi hegye túraútvonalakat és Németország egyik legmeredekebb siklóját kínálja a csúcsra.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stiftskirche",
+                  "text": "A piactéren álló gótikus templom, amely Nikolaus Gerhaert von Leyden monumentális feszületét őrzi.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kurhaus & Cazinoul",
+                  "text": "Simbolul magnific al orașului în stil Belle Époque, găzduind unul dintre cele mai frumoase cazinouri din lume.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lichtentaler Allee",
+                  "text": "Un parc istoric de 2,3 km de-a lungul râului Oos, renumit pentru diversitatea sa botanică și monumente.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caracalla Therme",
+                  "text": "Oază modernă de wellness cu bazine termale, saune și băi aromatice pe o suprafață de peste 4.000 mp.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Friedrichsbad",
+                  "text": "O baie istorică romano-irlandeză din 1877, cu fresce impresionante și săli cu cupole spectaculoase.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Festspielhaus Baden-Baden",
+                  "text": "Cea mai mare sală de operă și concerte din Germania, cu o acustică de clasă mondială și program internațional.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trinkhalle",
+                  "text": "O clădire cu coloane corintice decorată cu 14 picturi murale ce ilustrează legende din Pădurea Neagră.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Frieder Burda",
+                  "text": "Clădirea proiectată de Richard Meier adăpostește colecții importante de artă modernă și contemporană.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Hohenbaden",
+                  "text": "Ruinele impunătoare ale castelului din secolul al XII-lea oferă o vedere panoramică asupra văii Rinului.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muntele Merkur și funicularul",
+                  "text": "Destinație populară pentru drumeții, accesibilă cu unul dintre cele mai abrupte funiculare din Germania.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Stiftskirche",
+                  "text": "Biserică gotică situată în piața centrală, cunoscută pentru crucifixul monumental realizat de Nikolaus Gerhaert.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kurhaus & Casino",
+                  "text": "The city's magnificent Belle Époque landmark, housing one of the most beautiful casinos in the world.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lichtentaler Allee",
+                  "text": "A historic 2.3 km long park and arboretum along the Oos river, famous for its botanical diversity.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Caracalla Therme",
+                  "text": "A modern wellness oasis featuring thermal pools, saunas, and aromatic baths across 4,000 square meters.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Friedrichsbad",
+                  "text": "A historic Roman-Irish bathhouse from 1877 featuring impressive frescoes and domed halls.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Festspielhaus Baden-Baden",
+                  "text": "Germany's largest opera and concert house, known for its world-class acoustics and international stars.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Trinkhalle",
+                  "text": "A Corinthian-style pump room featuring 14 frescoes illustrating legends from the Black Forest region.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum Frieder Burda",
+                  "text": "Designed by architect Richard Meier, this museum showcases significant collections of modern and contemporary art.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hohenbaden Castle",
+                  "text": "The imposing 12th-century castle ruins offer a spectacular view over the city and the Rhine Valley.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Merkur Mountain & Funicular",
+                  "text": "The city's local peak offers hiking trails and one of Germany's steepest funicular railways to the summit.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stiftskirche",
+                  "text": "The Gothic collegiate church on the market square houses a monumental crucifix by Nikolaus Gerhaert.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "germany-arnsberg-cities-v2", population: 74206,
@@ -785,6 +1641,208 @@ export const germanyCitiesV2: POI[] = [
     
       "tr": ["Arnsberg'in adı ilk kez 789 yılında resmi belgelerde geçmiştir.", "Schlossberg'deki şato kalıntıları 11. yüzyıldan kalmadır.", "Şehir, Arnsberg valilik bölgesinin idari merkezidir.", "Naturpark Arnsberger Wald, yaklaşık 482 kilometrekarelik bir alanı kapsamaktadır.", "Arnsberger Glockenturm, eski şehir tahkimatından kalma bir kalıntıdır.", "Klasisist mahalle, 19. yüzyılın başlarında Prusya tarafından tasarlanmıştır."]},
     image: "/poi-images/germany-arnsberg-cities-v2.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Schlossruine Arnsberg",
+                  "text": "Ruine einer mittelalterlichen Burg mit Panoramablick über das Ruhrtal und die historische Altstadt.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Glockenturm",
+                  "text": "Das Wahrzeichen der Stadt aus dem 13. Jahrhundert markiert die Grenze zwischen Alt- und Neustadt.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sauerland-Museum",
+                  "text": "Regionales Museum im historischen Landsberger Hof, das die Geschichte des Sauerlandes dokumentiert.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kloster Wedinghausen",
+                  "text": "Ehemaliges Prämonstratenserstift mit beeindruckender Architektur und einem bedeutenden Skriptorium.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Rathaus",
+                  "text": "Ein prächtiger Fachwerkbau am Alten Markt, der das Zentrum der historischen Oberstadt bildet.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Klassizismusviertel",
+                  "text": "Einzigartiges Ensemble preußischer Bauweise aus dem 19. Jahrhundert rund um den Arnsberger Neumarkt.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hirschberger Tor",
+                  "text": "Ein barockes Prunktor von 1753, das ursprünglich zum nahegelegenen Schloss Hirschberg gehörte.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Auferstehungskirche",
+                  "text": "Evangelische Kirche im klassizistischen Stil, deren Entwurf vom berühmten Karl Friedrich Schinkel stammt.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schlossruine Arnsberg",
+                  "text": "Egy középkori vár romjai, amely panorámás kilátást nyújt a Ruhr-völgyre és a történelmi óvárosra.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Glockenturm",
+                  "text": "A város 13. századi jelképe, amely az óváros és az újváros közötti határt jelzi a látogatóknak.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sauerland-Museum",
+                  "text": "Regionális múzeum a történelmi Landsberger Hofban, amely a Sauerland vidékének múltját mutatja be.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kloster Wedinghausen",
+                  "text": "Egykori premontrei kolostor lenyűgöző építészettel és egy történelmileg jelentős szkriptóriummal.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Rathaus",
+                  "text": "Egy pompás fagerendás épület a Régi Piacon, amely a történelmi felsőváros központját alkotja.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Klassizismusviertel",
+                  "text": "A 19. századi porosz építészet egyedülálló együttese az arnsbergi Neumarkt tér környékén.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hirschberger Tor",
+                  "text": "Egy 1753-ból származó barokk díszkapu, amely eredetileg a közeli Hirschberg-kastélyhoz tartozott.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Auferstehungskirche",
+                  "text": "Klasszicista stílusú evangélikus templom, amelynek terveit a híres Karl Friedrich Schinkel készítette.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schlossruine Arnsberg",
+                  "text": "Ruinele unui castel medieval care oferă o vedere panoramică asupra văii Ruhr și a centrului vechi.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Glockenturm",
+                  "text": "Simbolul orașului din secolul al XIII-lea, care marchează granița dintre orașul vechi și cel nou.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sauerland-Museum",
+                  "text": "Muzeu regional situat în clădirea istorică Landsberger Hof, documentând istoria regiunii Sauerland.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kloster Wedinghausen",
+                  "text": "Fostă mănăstire premonstratensă cu o arhitectură impresionantă și un scriptoriu medieval important.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Rathaus",
+                  "text": "O clădire superbă din lemn situată în Piața Veche, formând centrul orașului istoric de sus.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Klassizismusviertel",
+                  "text": "Un ansamblu unic de arhitectură prusacă din secolul al XIX-lea, situat în jurul pieței Neumarkt.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hirschberger Tor",
+                  "text": "O poartă barocă monumentală din 1753, care a aparținut inițial castelului Hirschberg din apropiere.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Auferstehungskirche",
+                  "text": "Biserică evanghelică în stil clasicist, al cărei design a fost influențat de Karl Friedrich Schinkel.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schlossruine Arnsberg",
+                  "text": "Ruins of a medieval castle offering panoramic views over the Ruhr valley and the historic old town.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Glockenturm",
+                  "text": "The city's 13th-century landmark that marks the boundary between the old and the new town.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sauerland-Museum",
+                  "text": "Regional museum in the historic Landsberger Hof documenting the history and culture of Sauerland.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kloster Wedinghausen",
+                  "text": "Former Premonstratensian monastery featuring impressive architecture and an important scriptorium.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Rathaus",
+                  "text": "A magnificent half-timbered building on the Old Market, forming the center of the historic upper town.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Klassizismusviertel",
+                  "text": "A unique ensemble of 19th-century Prussian architecture centered around the Neumarkt square.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hirschberger Tor",
+                  "text": "A baroque ceremonial gate from 1753, which originally belonged to the nearby Hirschberg Castle.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Auferstehungskirche",
+                  "text": "Protestant church in neoclassical style, designed based on plans by the famous Karl Friedrich Schinkel.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "germany-speyer-2-cities-v2",

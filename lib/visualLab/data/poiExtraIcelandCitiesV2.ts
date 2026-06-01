@@ -48,7 +48,257 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
       fr: ["Capitale la plus septentrionale d'un État souverain au monde.", "Fondation en 874 par le Viking Ingólfur Arnarson.", "Siège de l'Alþingi, le plus ancien parlement au monde encore en activité.", "Plus de 90 % des bâtiments sont chauffés par l'énergie géothermique.", "La Hallgrímskirkja est l'un des plus hauts bâtiments avec ses 74,5 mètres.", "Environ 135 000 personnes vivent directement dans la zone urbaine de Reykjavík."],
     },
     image: "/poi-images/iceland-reykjavik-cities-v2.webp",
-},  {
+    "sights": {
+      "de": [
+            {
+                  "name": "Hallgrímskirkja",
+                  "text": "Die imposante lutherische Kirche ist mit ihrem 74,5 Meter hohen Turm das Wahrzeichen der Stadt und bietet eine grandiose Aussicht.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Harpa",
+                  "text": "Das preisgekrönte Konzerthaus am Hafen besticht durch seine markante Glasfassade aus geometrischen Formen und glitzerndem Licht.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perlan",
+                  "text": "Das markante Gebäude auf dem Hügel Öskjuhlíð beherbergt ein Museum und bietet von seiner Aussichtsplattform einen 360-Grad-Blick.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sólfar - Sonnenfahrt",
+                  "text": "Diese ikonische Skulptur am Ufer ähnelt einem Wikingerschiff und symbolisiert das Versprechen von unentdecktem Territorium und Freiheit.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Laugavegur",
+                  "text": "Die Haupteinkaufsstraße von Reykjavík ist bekannt für ihre bunten Häuser, gemütlichen Cafés, Boutiquen und das lebendige Nachtleben.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tjörnin",
+                  "text": "Der zentrale Stadtsee ist ein beliebter Ort für Spaziergänge, umgeben von bedeutenden Gebäuden wie dem Rathaus und dem Parlament.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alþingi",
+                  "text": "Das isländische Parlament wurde 1881 aus Lavastein erbaut und ist eines der ältesten noch bestehenden Parlamente der Welt.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nationalmuseum von Island",
+                  "text": "Hier wird die Geschichte Islands von der Wikingerzeit bis heute anhand wertvoller Artefakte und moderner Ausstellungen erzählt.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Höfði-Haus",
+                  "text": "Das historische Gebäude am Meer war 1986 der Ort des Gipfeltreffens zwischen Reagan und Gorbatschow, das den Kalten Krieg beendete.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ausstellung 871±2",
+                  "text": "Dieses Museum zeigt die archäologischen Überreste eines Langhauses aus der Landnahmezeit und gewährt Einblicke in das frühe Leben.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hallgrímskirkja",
+                  "text": "A város jelképének számító evangélikus templom 74,5 méteres tornyából csodálatos panoráma nyílik az egész izlandi fővárosra.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Harpa",
+                  "text": "A kikötőben található díjnyertes koncert- és konferenciaközpont különleges, geometrikus üveghomlokzatáról és fényjátékáról ismert.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perlan",
+                  "text": "Az Öskjuhlíð-dombon álló üvegkupolás épület interaktív múzeumnak ad otthont, kilátója pedig 360 fokos panorámát nyújt a környékre.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sólfarið - Naputazó",
+                  "text": "A tengerparton álló, stilizált viking hajót ábrázoló szobor a felfedezetlen területek ígéretét és a szabadságot szimbolizálja.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Laugavegur",
+                  "text": "Reykjavík fő bevásárlóutcája, amely színes házaival, hangulatos kávézóival, üzleteivel és élénk éjszakai életével vonzza a turistákat.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tjörnin",
+                  "text": "A város szívében fekvő tó népszerű sétatér, partján olyan fontos épületek állnak, mint a városháza és az izlandi parlament.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alþingi",
+                  "text": "Az 1881-ben lávakőből épült parlament az egyik legősibb ma is működő törvényhozó testület székhelye a világon.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Izlandi Nemzeti Múzeum",
+                  "text": "A múzeum Izland történelmét mutatja be a viking honfoglalástól napjainkig értékes műtárgyak és modern kiállítások segítségével.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Höfði-ház",
+                  "text": "A tengerparti történelmi épületben zajlott 1986-ban a Reagan és Gorbacsov közötti csúcstalálkozó, amely a hidegháború végét jelezte.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "A Település Kiállítás",
+                  "text": "A múzeum egy eredeti, 10. századi viking hosszúház maradványai köré épült, bemutatva Reykjavík legkorábbi lakóinak mindennapjait.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hallgrímskirkja",
+                  "text": "Această biserică luterană impunătoare, cu turnul său de 74,5 metri, este simbolul orașului și oferă o panoramă spectaculoasă asupra capitalei.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Harpa",
+                  "text": "Centrul de concerte din port se remarcă prin fațada sa distinctivă din sticlă, formată din panouri geometrice care reflectă lumina.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perlan",
+                  "text": "Clădirea cu dom de sticlă de pe dealul Öskjuhlíð găzduiește un muzeu și oferă o vedere de 360 de grade de pe platforma sa de observare.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sólfar - Călătorul sub Soare",
+                  "text": "Această sculptură iconică de pe malul mării seamănă cu o navă vikingă și simbolizează promisiunea teritoriilor neexplorate și a libertății.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Laugavegur",
+                  "text": "Principala stradă comercială din Reykjavík este renumită pentru casele sale colorate, cafenelele primitoare și viața de noapte vibrantă.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tjörnin",
+                  "text": "Lacul central din oraș este un loc popular pentru plimbări, fiind înconjurat de clădiri importante precum Primăria și Parlamentul.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alþingi",
+                  "text": "Parlamentul islandez, construit în 1881 din piatră lavică, este sediul uneia dintre cele mai vechi instituții legislative din lume.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Național al Islandei",
+                  "text": "Prezintă istoria Islandei de la epoca vikingilor până în prezent, prin artefacte valoroase și expoziții interactive fascinante.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa Höfði",
+                  "text": "Această clădire istorică a găzduit în 1986 summitul dintre Reagan și Gorbaciov, un moment crucial care a marcat sfârșitul Războiului Rece.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Expoziția Așezării",
+                  "text": "Muzeul este construit în jurul rămășițelor unei case lungi vikinge din secolul al X-lea, oferind detalii despre primii locuitori ai zonei.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hallgrímskirkja",
+                  "text": "This imposing Lutheran church is the city's landmark; its 74.5-meter tower offers a grand view over the entire Icelandic capital.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Harpa",
+                  "text": "The award-winning concert hall at the harbour is famous for its striking geometric glass facade that reflects the shifting light.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Perlan",
+                  "text": "This distinctive glass-domed building on Öskjuhlíð hill houses a museum and features a 360-degree observation deck over the city.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sólfar - Sun Voyager",
+                  "text": "This iconic sculpture on the waterfront resembles a Viking ship and symbolizes the promise of undiscovered territory and freedom.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Laugavegur",
+                  "text": "Reykjavik's main shopping street is known for its colorful houses, cozy cafes, unique boutiques, and vibrant nightlife scene.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tjörnin",
+                  "text": "The central lake in the heart of the city is a popular spot for walks, surrounded by landmarks like the City Hall and Parliament.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alþingi",
+                  "text": "The Icelandic Parliament building, constructed in 1881 from lava stone, houses one of the world's oldest surviving legislatures.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "National Museum of Iceland",
+                  "text": "The museum tells the story of Iceland from the Viking Age to the present through a collection of historical artifacts and displays.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Höfði House",
+                  "text": "This historic seafront building hosted the 1986 summit between Reagan and Gorbachev, signaling the end of the Cold War.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Settlement Exhibition",
+                  "text": "This museum is built around the excavated remains of a 10th-century Viking longhouse, showing early life in Reykjavik.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ]
+}
+  },  {
     id: "iceland-kopavogur-cities-v2",
     parent: "IS",
     type: "city",

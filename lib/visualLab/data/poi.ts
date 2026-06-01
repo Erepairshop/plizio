@@ -382,6 +382,304 @@ export const pois: POI[] = [
       fr: ["Berlin compte environ 3,85 millions d'habitants (état 2023).", "La ville s'étend sur une superficie d'environ 891 kilomètres carrés.", "Le mur de Berlin mesurait 155 kilomètres de long.", "On y trouve plus de 170 musées et plus de 400 galeries d'art.", "Berlin possède plus de 1 700 ponts, soit plus que Venise.", "L'université Humboldt a été fondée en 1810."],
     
       "tr": ["Berlin'in nüfusu yaklaşık 3,85 milyondur (2023 verileri).", "Şehir yaklaşık 891 kilometrekarelik bir alanı kapsamaktadır.", "Berlin Duvarı 155 kilometre uzunluğundaydı.", "Şehirde 170'ten fazla müze ve 400'den fazla sanat galerisi bulunmaktadır.", "Berlin, 1.700'den fazla köprüsüyle Venedik'ten daha fazla köprüye sahiptir.", "Humboldt-Universität 1810 yılında kurulmuştur."]},
+    "sights": {
+      "de": [
+            {
+                  "name": "Brandenburger Tor",
+                  "text": "Das berühmteste Wahrzeichen Berlins und Symbol der deutschen Einheit, erbaut Ende des 18. Jahrhunderts im klassizistischen Stil.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reichstagsgebäude",
+                  "text": "Sitz des Deutschen Bundestages mit einer begehbaren Glaskuppel, die einen Panoramablick über das Regierungsviertel bietet.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fernsehturm",
+                  "text": "Mit 368 Metern das höchste Bauwerk Deutschlands, bietet von seiner Aussichtsplattform einen 360-Grad-Blick über ganz Berlin.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museumsinsel",
+                  "text": "UNESCO-Welterbe mit fünf weltberühmten Museen, darunter das Pergamonmuseum und das Neue Museum mit der Büste der Nofretete.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Berliner Dom",
+                  "text": "Die größte Kirche der Stadt mit ihrer markanten Kuppel, die als Grablege der Hohenzollern-Dynastie dient.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Checkpoint Charlie",
+                  "text": "Der bekannteste ehemalige Grenzübergang durch die Berliner Mauer zwischen dem sowjetischen und dem US-Sektor.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "East Side Gallery",
+                  "text": "Das längste erhaltene Stück der Berliner Mauer, das von Künstlern aus aller Welt mit Friedensbotschaften bemalt wurde.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Potsdamer Platz",
+                  "text": "Ein modernes Stadtviertel mit futuristischer Architektur, Kinos und Shopping-Malls, das nach der Wende komplett neu entstand.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Charlottenburg",
+                  "text": "Die größte Schlossanlage Berlins mit prachtvollen Gemächern und einem weitläufigen Barockgarten im Westen der Stadt.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Siegessäule",
+                  "text": "Ein Denkmal im Großen Tiergarten mit der goldenen Skulptur der Victoria, von deren Spitze man eine tolle Aussicht hat.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gendarmenmarkt",
+                  "text": "Einer der schönsten Plätze Berlins, flankiert vom Konzerthaus sowie dem Deutschen und dem Französischen Dom.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kaiser-Wilhelm-Gedächtniskirche",
+                  "text": "Ein Mahnmal gegen den Krieg, bestehend aus der Turmruine der alten Kirche und einem modernen Neubau mit blauen Glaswänden.",
+                  "category": "churches",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brandenburgi kapu",
+                  "text": "Berlin legismertebb jelképe és a német egység szimbóluma, amely a 18. század végén épült klasszicista stílusban.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reichstag",
+                  "text": "A német parlament székhelye, amelynek látogatható üvegkupolájából pazar kilátás nyílik a kormányzati negyedre.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tévétorony",
+                  "text": "A 368 méter magas építmény Németország legmagasabbja, forgó étterméből és kilátójából az egész várost belátni.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Múzeum-sziget",
+                  "text": "UNESCO világörökségi helyszín öt világhírű múzeummal, itt található többek között Nofertiti mellszobra is.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Berlini dóm",
+                  "text": "A város legnagyobb temploma impozáns kupolával, amely a Hohenzollern-dinasztia temetkezési helyéül is szolgál.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Checkpoint Charlie",
+                  "text": "A leghíresebb egykori katonai ellenőrzőpont a berlini fal mentén, az amerikai és a szovjet szektor határán.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "East Side Gallery",
+                  "text": "A berlini fal leghosszabb fennmaradt szakasza, amelyet művészek festettek tele a szabadság és a béke jelképeivel.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Potsdamer Platz",
+                  "text": "Modern városnegyed futurisztikus építészettel, amely a fal leomlása után vált Berlin egyik új központjává.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Charlottenburg-kastély",
+                  "text": "Berlin legnagyobb kastélyegyüttese pompás termekkel és hatalmas barokk kerttel a város nyugati részén.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Győzelmi oszlop",
+                  "text": "A Tiergarten park közepén álló emlékmű Viktória istennő arany szobrával, tetejéről remek kilátás nyílik.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gendarmenmarkt",
+                  "text": "Berlin egyik legszebb tere, amelyet a Koncertház, valamint a Német és a Francia dóm épülete szegélyez.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vilmos császár emléktemplom",
+                  "text": "A háború elleni mementóként megőrzött templomrom és a mellette álló modern, kék üvegablakos épületegyüttes.",
+                  "category": "churches",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Poarta Brandenburg",
+                  "text": "Cel mai cunoscut punct de reper al Berlinului și un simbol al unității germane, construit în stil neoclasic.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Clădirea Reichstag",
+                  "text": "Sediul Parlamentului German, cu o cupolă de sticlă accesibilă ce oferă o vedere panoramică asupra orașului.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul de Televiziune",
+                  "text": "Cea mai înaltă structură din Germania, având 368 de metri, cu o platformă de observație și un restaurant rotitor.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Insula Muzeelor",
+                  "text": "Sit UNESCO care găzduiește cinci muzee de renume mondial, inclusiv Muzeul Pergamon și Muzeul Nou.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala din Berlin",
+                  "text": "Cea mai mare biserică din oraș, cunoscută pentru cupola sa impresionantă și cripta familiei Hohenzollern.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Checkpoint Charlie",
+                  "text": "Cel mai faimos punct de trecere a frontierei între Berlinul de Est și cel de Vest în timpul Războiului Rece.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "East Side Gallery",
+                  "text": "Cea mai lungă secțiune păstrată din Zidul Berlinului, transformată într-o galerie de artă în aer liber.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Potsdamer Platz",
+                  "text": "O piață modernă cu arhitectură futuristă, reprezentând renașterea Berlinului după căderea Zidului.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Charlottenburg",
+                  "text": "Cel mai mare complex de palate din Berlin, înconjurat de o grădină barocă superbă și apartamente regale luxoase.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Coloana Victoriei",
+                  "text": "Monument situat în parcul Tiergarten, dedicat victoriilor prusace, oferind o vedere panoramică de la înălțime.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gendarmenmarkt",
+                  "text": "Considerată una dintre cele mai frumoase piețe din Berlin, flancată de Konzerthaus și de catedralele gemene.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Memorială Kaiser Wilhelm",
+                  "text": "Un simbol al păcii, format din ruina turnului bisericii vechi și o capelă modernă cu pereți de sticlă albastră.",
+                  "category": "churches",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brandenburg Gate",
+                  "text": "Berlin's iconic landmark and a symbol of German unity, built in neoclassical style at the end of the 18th century.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reichstag Building",
+                  "text": "The seat of the German Parliament, featuring a large glass dome that offers a panoramic view of the government district.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "TV Tower",
+                  "text": "Germany's tallest structure at 368 meters, featuring an observation deck and a revolving restaurant with city views.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum Island",
+                  "text": "A UNESCO World Heritage site home to five world-renowned museums, including the Pergamon and the Neues Museum.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Berlin Cathedral",
+                  "text": "The city's largest church, distinguished by its massive dome and serving as the tomb of the Hohenzollern dynasty.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Checkpoint Charlie",
+                  "text": "The most famous former border crossing point between East and West Berlin during the Cold War era.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "East Side Gallery",
+                  "text": "The longest remaining section of the Berlin Wall, covered in murals painted by artists from around the world.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Potsdamer Platz",
+                  "text": "A modern urban square with futuristic architecture and shopping centers, rebuilt entirely after the reunification.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Charlottenburg Palace",
+                  "text": "Berlin's largest palace complex, featuring opulent royal rooms and an extensive Baroque garden in the west.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Victory Column",
+                  "text": "A monument in Tiergarten park topped with a golden statue of Victoria, offering great views from its observation deck.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gendarmenmarkt",
+                  "text": "One of Berlin's most beautiful squares, home to the Konzerthaus and the German and French Cathedrals.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kaiser Wilhelm Memorial Church",
+                  "text": "A memorial against war consisting of the ruins of the original tower and a modern church building with blue glass windows.",
+                  "category": "churches",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-muenchen",
@@ -418,6 +716,256 @@ export const pois: POI[] = [
       fr: ["Munich compte environ 1,51 million d'habitants (chiffres 2023).", "La ville est située à une altitude moyenne de 519 mètres.", "L'Oktoberfest attire chaque année environ 6 millions de visiteurs.", "Le Deutsches Museum possède plus de 100 000 objets.", "Le Jardin anglais, avec ses 3,7 km², est plus grand que Central Park.", "La Marienplatz est la place centrale de la ville depuis 1158."],
     
       "tr": ["München'in yaklaşık 1,51 milyon nüfusu vardır (2023 verileri).", "Şehir ortalama 519 metre rakımda yer almaktadır.", "Oktoberfest her yıl yaklaşık 6 milyon ziyaretçiyi çekmektedir.", "Deutsches Museum 100.000'den fazla objeye sahiptir.", "Englischer Garten, 3,7 kilometrekarelik alanı ile Central Park'tan daha büyüktür.", "Marienplatz, 1158'den beri şehrin merkezi meydanıdır."]},
+    "sights": {
+      "de": [
+            {
+                  "name": "Frauenkirche",
+                  "text": "Das Wahrzeichen Münchens mit seinen charakteristischen Zwiebeltürmen wurde im 15. Jahrhundert aus Backstein errichtet.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marienplatz",
+                  "text": "Zentraler Platz mit dem Neuen Rathaus und dem Glockenspiel. Seit 1158 das Herzstück der bayerischen Landeshauptstadt.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Viktualienmarkt",
+                  "text": "Ein historischer täglicher Markt für Lebensmittel im Stadtzentrum, bekannt für seinen Maibaum und die lokale Vielfalt.",
+                  "category": "markets",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Englischer Garten",
+                  "text": "Eine der weltweit größten innerstädtischen Parkanlagen, berühmt für die Surfwelle am Eisbach und den Chinesischen Turm.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Residenz München",
+                  "text": "Das ehemalige Stadtschloss der bayerischen Monarchen umfasst Prunkräume, die Schatzkammer und das Cuvilliés-Theater.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Deutsches Museum",
+                  "text": "Das weltweit größte Museum für Naturwissenschaft und Technik auf der Museumsinsel zeigt Exponate aus der Luftfahrt und Energie.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Nymphenburg",
+                  "text": "Barocke Sommerresidenz der Wittelsbacher mit weitläufigem Schlosspark, Kanälen und der Amalienburg.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Olympiapark",
+                  "text": "Gelände der Sommerspiele 1972 mit markanter Zeltdachkonstruktion und dem 291 Meter hohen Olympiaturm.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hofbräuhaus am Platzl",
+                  "text": "Das weltberühmte Wirtshaus aus dem Jahr 1589 steht für bayerische Bierkultur und traditionelle Architektur.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alter Peter",
+                  "text": "Die älteste Pfarrkirche Münchens bietet von ihrer Turmplattform einen weiten Blick über die Altstadt bis zu den Alpen.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Frauenkirche",
+                  "text": "München jelképe a jellegzetes hagymakupolás tornyaival. A 15. századi gótikus téglaépület 98 méter magas.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marienplatz",
+                  "text": "A város központi tere az Új Városházával és a híres harangjátékkal. 1158 óta München társadalmi központja.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Viktualienmarkt",
+                  "text": "Történelmi élelmiszerpiac a belvárosban, amely friss helyi termékeiről és a hagyományos májusfájáról ismert.",
+                  "category": "markets",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Englischer Garten",
+                  "text": "A világ egyik legnagyobb városi parkja, híres az Eisbach-patak szörfözhető hullámáról és a sörkertekről.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Müncheni Rezidencia",
+                  "text": "A bajor uralkodók egykori városi palotája gazdag kincstárral és díszes barokk termekkel várja a látogatókat.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Deutsches Museum",
+                  "text": "A világ legnagyobb természettudományi és műszaki múzeuma az Isar-folyó szigetén, 1903-ban alapították.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nymphenburgi kastély",
+                  "text": "A Wittelsbach-ház barokk nyári palotája hatalmas parkkal, csatornákkal és díszes pavilonokkal München nyugati részén.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Olimpiai Park",
+                  "text": "Az 1972-es játékok helyszíne különleges sátortetővel és a 291 méter magas Olimpiai-toronnyal.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hofbräuhaus",
+                  "text": "Világhírű söröző 1589-ből, a bajor gasztronómia és kultúra egyik legfontosabb történelmi helyszíne.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Péter-templom",
+                  "text": "München legrégebbi plébániatemploma, tornyából páratlan kilátás nyílik az óvárosra és tiszta időben az Alpokra.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Frauenkirche",
+                  "text": "Catedrala simbol a Münchenului, cu turnurile sale cu cupole de tip ceapă, a fost construită în secolul al XV-lea.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marienplatz",
+                  "text": "Piața centrală care găzduiește Noua Primărie și celebrul ceas cu figurine. Este inima orașului încă din 1158.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Viktualienmarkt",
+                  "text": "O piață alimentară istorică situată în centrul orașului, renumită pentru produsele locale și stalpul tradițional Maypole.",
+                  "category": "markets",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Englischer Garten",
+                  "text": "Unul dintre cele mai mari parcuri urbane din lume, faimos pentru valul de surf de pe râul Eisbach.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rezidența München",
+                  "text": "Fostul palat regal al monarhilor bavarezi, cuprinzând săli de gală, tezaurul și teatrul Cuvilliés.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Deutsches Museum",
+                  "text": "Cel mai mare muzeu de știință și tehnologie din lume, fondat în 1903 pe o insulă de pe râul Isar.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Nymphenburg",
+                  "text": "Reședința de vară în stil baroc a familiei Wittelsbach, cu grădini vaste, canale și pavilioane istorice.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Olympiapark",
+                  "text": "Locul desfășurării Jocurilor Olimpice din 1972, remarcabil prin acoperișul său în formă de cort și Turnul Olimpic.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hofbräuhaus",
+                  "text": "Cea mai faimoasă berărie din lume, datând din 1589, un loc emblematic pentru cultura și tradiția bavareză.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Petru",
+                  "text": "Cea mai veche biserică parohială din oraș, oferind o panoramă spectaculoasă asupra centrului vechi din turnul său.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Frauenkirche",
+                  "text": "Munich's landmark cathedral with its twin onion domes. The 15th-century brick structure stands 98 meters tall.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marienplatz",
+                  "text": "The central square featuring the New Town Hall and its famous Glockenspiel. It has been the city's heart since 1158.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Viktualienmarkt",
+                  "text": "A historic daily food market in the city center, known for its traditional Maypole and local delicacies.",
+                  "category": "markets",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Englischer Garten",
+                  "text": "One of the world's largest urban parks, featuring the Eisbach river wave for surfers and traditional beer gardens.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Munich Residenz",
+                  "text": "The former royal palace of Bavarian monarchs, containing ornate rooms, the treasury, and a rococo theater.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Deutsches Museum",
+                  "text": "The world's largest museum of science and technology, founded in 1903 on an island in the Isar river.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nymphenburg Palace",
+                  "text": "A grand Baroque summer residence of the Wittelsbach dynasty with extensive gardens and scenic canals.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Olympiapark",
+                  "text": "Site of the 1972 Summer Olympics, known for its unique tent-roof architecture and the 291m Olympic Tower.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hofbräuhaus",
+                  "text": "World-famous beer hall dating back to 1589, a primary site for traditional Bavarian music and hospitality.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Peter's Church",
+                  "text": "Munich's oldest parish church; its tower offers a panoramic view of the old town and the Alps on clear days.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-stuttgart",
@@ -454,6 +1002,256 @@ export const pois: POI[] = [
       fr: ["Stuttgart compte environ 630 000 habitants (en 2023).", "La ville dispose de plus de 400 escaliers publics (Stäbele).", "Le musée Mercedes-Benz a ouvert ses portes en 2006.", "La tour de télévision de Stuttgart fut la première de ce type au monde en 1956.", "Stuttgart compte plus de 17,5 hectares de surfaces viticoles municipales.", "La fête populaire de Cannstatt attire chaque année environ 4 millions de visiteurs."],
     
       "tr": ["Stuttgart'ın yaklaşık 630.000 nüfusu vardır (2023 verileri).", "Şehirde 400'den fazla merdiven sistemi (Stäbele) bulunmaktadır.", "Mercedes-Benz Museum 2006 yılında açılmıştır.", "Fernsehturm Stuttgart, 1956'da dünyada türünün ilk örneğiydi.", "Stuttgart'ta 17,5 hektarın üzerinde şehir içi bağ alanı bulunmaktadır.", "Cannstatter Volksfest her yıl yaklaşık 4 milyon ziyaretçi çekmektedir."]},
+    "sights": {
+      "de": [
+            {
+                  "name": "Schlossplatz",
+                  "text": "Der zentrale Platz der Stadt mit der Jubiläumssäule, umgeben vom Neuen Schloss und dem Kunstgebäude.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Schloss",
+                  "text": "Eine Renaissance-Burg im Stadtzentrum, die heute das Landesmuseum Württemberg mit bedeutenden Schätzen beherbergt.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neues Schloss",
+                  "text": "Einstige Residenz der württembergischen Könige, ein monumentaler spätbarocker Bau direkt am Schlossplatz.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stiftskirche",
+                  "text": "Die evangelische Hauptkirche Stuttgarts mit markanten ungleichen Türmen, deren Ursprünge im 10. Jahrhundert liegen.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stuttgarter Fernsehturm",
+                  "text": "Der erste Betonfernsehturm der Welt, 1956 erbaut, bietet aus 217 Metern Höhe eine Aussicht bis zur Schwäbischen Alb.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mercedes-Benz Museum",
+                  "text": "Das spiralförmige Gebäude präsentiert über 130 Jahre Automobilgeschichte anhand von 160 Fahrzeugen.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porsche Museum",
+                  "text": "Moderne Architektur am Porscheplatz mit über 80 Sportwagen, die die technische Entwicklung der Marke zeigen.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wilhelma",
+                  "text": "Einzigartige Kombination aus botanischem Garten und Zoo in einer historischen Schlossanlage im maurischen Stil.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Königstraße",
+                  "text": "Mit 1,2 Kilometern eine der längsten und meistbesuchten Fußgängerzonen Deutschlands, die das Stadtzentrum durchquert.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Staatsgalerie Stuttgart",
+                  "text": "Bedeutendes Kunstmuseum mit Werken vom Mittelalter bis zur Gegenwart, bekannt für den postmodernen Sterling-Bau.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schlossplatz",
+                  "text": "Stuttgart központi tere a Jubileumi oszloppal, amelyet az Új Kastély és kulturális intézmények vesznek körül.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi Kastély",
+                  "text": "Reneszánsz stílusú vár a belvárosban, amely ma a Württembergi Állami Múzeumnak ad otthont.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Új Kastély",
+                  "text": "A württembergi királyok egykori rezidenciája, egy monumentális késő barokk épületegyüttes a Schlossplatzon.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stiftskirche",
+                  "text": "Stuttgart fő protestáns temploma a 10. századból, jellegzetessége a két különböző stílusú és magasságú torony.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stuttgarti TV-torony",
+                  "text": "A világ első beton TV-tornya, 1956-ban készült el, 217 méter magasból panorámás kilátást nyújt a vidékre.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mercedes-Benz Múzeum",
+                  "text": "Különleges spirális épület, amely az automobil történetét mutatja be 1886-tól napjainkig több mint 160 járművel.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porsche Múzeum",
+                  "text": "Modern építészeti remekmű több mint 80 sportautóval, bemutatva a márka technikai innovációit.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wilhelma",
+                  "text": "Európa egyetlen botanikus kertje és állatkertje egy történelmi mór stílusú parkban, az ország egyik leglátogatottabb helye.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Königstraße",
+                  "text": "Németország egyik leghosszabb sétálóutcája, 1,2 km hosszan kínál üzleteket és kulturális látnivalókat.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Staatsgalerie",
+                  "text": "Állami művészeti galéria, amely a középkortól a modern művészetig terjedő gyűjteményéről és posztmodern épületéről ismert.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schlossplatz",
+                  "text": "Piața centrală a orașului cu Coloana Jubiliară, înconjurată de Palatul Nou și clădiri istorice.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Vechi",
+                  "text": "O fortăreață renascentistă în centrul orașului, care găzduiește astăzi Muzeul de Stat Württemberg.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Nou",
+                  "text": "Fosta reședință a regilor din Württemberg, un palat baroc impunător situat direct în piața principală.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stiftskirche",
+                  "text": "Principala biserică protestantă din Stuttgart, datând din secolul al X-lea, cunoscută pentru turnurile sale inegale.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul de Televiziune",
+                  "text": "Primul turn de televiziune din beton din lume, construit în 1956, având o înălțime de 217 metri.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Mercedes-Benz",
+                  "text": "O clădire spiralată spectaculoasă care prezintă istoria automobilului prin peste 160 de vehicule emblematice.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Porsche",
+                  "text": "Arhitectură modernă la Porscheplatz, expunând peste 80 de mașini sport care ilustrează evoluția mărcii.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wilhelma",
+                  "text": "Grădină botanică și zoologică unică situată într-un complex istoric în stil maur, faimoasă în toată Europa.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Königstraße",
+                  "text": "Principala arteră comercială pietonală, cu o lungime de 1,2 km, traversând inima orașului Stuttgart.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Staatsgalerie",
+                  "text": "Muzeu de artă de rang mondial, renumit pentru colecția sa de artă modernă și pentru designul post-modernist.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schlossplatz",
+                  "text": "The central square of the city with the Jubilee Column, surrounded by the New Palace and historical monuments.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Castle",
+                  "text": "A Renaissance-style castle in the city center, currently housing the Württemberg State Museum's treasures.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "New Palace",
+                  "text": "The former residence of the Kings of Württemberg, a late Baroque palace located directly on the Schlossplatz.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stiftskirche",
+                  "text": "Stuttgart's main collegiate church, originating in the 10th century, identifiable by its two mismatched towers.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stuttgart TV Tower",
+                  "text": "The world's first concrete television tower, built in 1956, offering views from 217 meters over the city.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mercedes-Benz Museum",
+                  "text": "An iconic spiral building showcasing over 130 years of automotive history with 160 vehicles on display.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Porsche Museum",
+                  "text": "Modern architectural landmark housing over 80 sports cars that trace the technical development of Porsche.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wilhelma",
+                  "text": "A unique combination of zoo and botanical gardens set in a historic Moorish-style park and palace complex.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Königstraße",
+                  "text": "Stuttgart's primary pedestrian street, 1.2 km long, featuring numerous shops, cafes, and cultural sites.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Staatsgalerie Stuttgart",
+                  "text": "A major art museum containing works from the Middle Ages to the present day in a post-modern building.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-duesseldorf",
@@ -490,6 +1288,256 @@ export const pois: POI[] = [
       fr: ["Düsseldorf compte environ 620 000 habitants (en 2023).", "La Königsallee mesure environ 1 kilomètre de long.", "Düsseldorf accueille la plus grande communauté japonaise d'Allemagne avec plus de 8 400 personnes.", "La Rheinturm est l'édifice le plus haut de la ville avec ses 240,5 mètres.", "La ville a reçu ses droits de cité le 14 août 1288.", "On compte plus de 260 bistrots et restaurants dans la vieille ville."],
     
       "tr": ["Düsseldorf'un yaklaşık 620.000 nüfusu vardır (2023 verileri).", "Königsallee yaklaşık 1 kilometre uzunluğundadır.", "Düsseldorf'ta 8.400'den fazla kişiyle Almanya'nın en büyük Japon toplumu yaşamaktadır.", "Rheinturm, 240,5 metre ile şehrin en yüksek yapısıdır.", "Şehir, haklarını 14 Ağustos 1288 tarihinde almıştır.", "Altstadt'ta 260'tan fazla bar ve restoran bulunmaktadır."]},
+    "sights": {
+      "de": [
+            {
+                  "name": "Rheinturm",
+                  "text": "Der Rheinturm ist das Wahrzeichen Düsseldorfs und bietet aus 240 Metern Höhe einen spektakulären Blick über die Stadt und den Rhein.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Königsallee",
+                  "text": "Die luxuriöse Einkaufsstraße 'Kö' ist bekannt für ihren zentralen Stadtgraben und die exklusiven Modeboutiquen unter alten Bäumen.",
+                  "category": "promenades",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altstadt",
+                  "text": "Die Düsseldorfer Altstadt wird als 'längste Theke der Welt' bezeichnet, da sich hier über 260 Bars und Brauhäuser konzentrieren.",
+                  "category": "old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Benrath",
+                  "text": "Das denkmalgeschützte Ensemble aus dem 18. Jahrhundert umfasst ein prachtvolles Lustschloss, einen Jagdpark und weitläufige Gärten.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "MedienHafen",
+                  "text": "Der ehemalige Rheinhafen beeindruckt durch moderne Architektur, insbesondere durch die tanzenden Gehry-Bauten direkt am Wasser.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Lambertus",
+                  "text": "Die katholische Basilika in der Altstadt ist berühmt für ihren schiefen Kirchturm, der das Stadtbild am Rheinufer prägt.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunstsammlung NRW",
+                  "text": "Dieses international renommierte Museum für moderne Kunst beherbergt bedeutende Werke von Klee, Beuys und Picasso in zwei Gebäuden.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hofgarten",
+                  "text": "Der zentrale Hofgarten ist der älteste öffentliche Stadtpark Deutschlands und bildet eine grüne Lunge zwischen Innenstadt und Rhein.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rheinuferpromenade",
+                  "text": "Die Uferpromenade verbindet die Altstadt mit dem MedienHafen und ist ein beliebter Treffpunkt zum Spazierengehen am Fluss.",
+                  "category": "promenades",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "Das historische Rathaus am Marktplatz besteht aus drei Gebäudeteilen und stammt im Kern aus dem 16. Jahrhundert.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rheinturm",
+                  "text": "A Rheinturm Düsseldorf jelképe, amely 240 méteres magasságából lenyűgöző kilátást nyújt a városra és a Rajna folyóra.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Königsallee",
+                  "text": "A luxus bevásárlóutca, a 'Kö', központi vizesárkáról és az öreg fák alatt sorakozó exkluzív divatüzleteiről híres.",
+                  "category": "promenades",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altstadt",
+                  "text": "A düsseldorfi óvárost a 'világ leghosszabb bárpultjaként' emlegetik, mivel több mint 260 söröző és étterem található itt.",
+                  "category": "old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Benrath",
+                  "text": "A 18. századi műemlékegyüttes egy pompás kastélyt, egy vadászparkot és kiterjedt kerteket foglal magában.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "MedienHafen",
+                  "text": "Az egykori rajnai kikötő modern építészetével nyűgöz le, különösen a vízparton álló, látványos Gehry-épületekkel.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Lambertus",
+                  "text": "Az óvárosban található katolikus bazilika ferde tornyáról híres, amely meghatározza a Rajna-part látképét.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunstsammlung NRW",
+                  "text": "Ez a nemzetközileg elismert modern művészeti múzeum Klee, Beuys és Picasso jelentős műveinek ad otthont két épületben.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hofgarten",
+                  "text": "A központi Hofgarten Németország legrégebbi nyilvános városi parkja, zöld tüdőként szolgál a belváros és a Rajna között.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rheinuferpromenade",
+                  "text": "A Rajna-parti sétány összeköti az óvárost a MedienHafennel, és a helyiek kedvelt találkozóhelye egy folyóparti sétához.",
+                  "category": "promenades",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "A piactéren álló történelmi városháza három épületrészből áll, és magja még a 16. századból származik.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rheinturm",
+                  "text": "Rheinturm este simbolul orașului Düsseldorf, oferind de la o înălțime de 240 de metri o vedere spectaculoasă asupra orașului și Rinului.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Königsallee",
+                  "text": "Luxoasa stradă comercială 'Kö' este cunoscută pentru canalul său central și buticurile de modă exclusiviste de sub arborii bătrâni.",
+                  "category": "promenades",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altstadt",
+                  "text": "Centrul vechi din Düsseldorf este numit 'cel mai lung bar din lume', având peste 260 de baruri și berării concentrate aici.",
+                  "category": "old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Benrath",
+                  "text": "Ansamblul istoric din secolul al XVIII-lea include un palat splendid, un parc de vânătoare și grădini vaste.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "MedienHafen",
+                  "text": "Fostul port de pe Rin impresionează prin arhitectura modernă, în special prin clădirile Gehry care par să danseze pe malul apei.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Lambertus",
+                  "text": "Bazilica catolică din orașul vechi este faimoasă pentru turnul său înclinat, care marchează silueta malului Rinului.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunstsammlung NRW",
+                  "text": "Acest muzeu de artă modernă de renume internațional găzduiește lucrări importante de Klee, Beuys și Picasso în două clădiri.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hofgarten",
+                  "text": "Hofgarten este cel mai vechi parc public din Germania, formând o oază verde între centrul orașului și râul Rin.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rheinuferpromenade",
+                  "text": "Promenada de pe malul Rinului leagă orașul vechi de MedienHafen și este un loc popular de întâlnire pentru plimbări lângă râu.",
+                  "category": "promenades",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "Primăria istorică din piața centrală este compusă din trei corpuri de clădire și datează în esență din secolul al XVI-lea.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rheinturm",
+                  "text": "The Rheinturm is Düsseldorf's landmark, offering a spectacular view of the city and the Rhine from a height of 240 meters.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Königsallee",
+                  "text": "The luxurious shopping street 'Kö' is famous for its central canal and exclusive fashion boutiques under old trees.",
+                  "category": "promenades",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altstadt",
+                  "text": "Düsseldorf's Old Town is known as the 'longest bar in the world' due to the concentration of over 260 bars and breweries.",
+                  "category": "old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Benrath",
+                  "text": "This 18th-century historic ensemble includes a magnificent pleasure palace, a hunting park, and extensive gardens.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "MedienHafen",
+                  "text": "The former Rhine harbor impresses with modern architecture, especially the dancing Gehry buildings right on the water.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Lambertus",
+                  "text": "The Catholic basilica in the Old Town is famous for its leaning spire, which defines the skyline along the Rhine embankment.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunstsammlung NRW",
+                  "text": "This internationally renowned museum for modern art houses significant works by Klee, Beuys, and Picasso across two buildings.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hofgarten",
+                  "text": "The central Hofgarten is the oldest public city park in Germany and serves as a green lung between the city center and the Rhine.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rheinuferpromenade",
+                  "text": "The Rhine embankment promenade connects the Old Town with the MedienHafen and is a popular meeting spot for river walks.",
+                  "category": "promenades",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "The historic town hall on the market square consists of three building wings and dates back to the 16th century.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-hamburg",
@@ -526,6 +1574,256 @@ export const pois: POI[] = [
       fr: ["Hambourg compte environ 1,9 million d'habitants (état 2023).", "La ville compte plus de 2 500 ponts, plus que n'importe quelle autre ville au monde.", "Le port de Hambourg couvre une superficie d'environ 72 kilomètres carrés.", "La Speicherstadt a été construite entre 1883 et 1927.", "La Philharmonie de l'Elbe mesure 110 mètres de haut.", "Hambourg compte plus de 100 consulats, seules New York et Hong Kong en ont davantage."],
     
       "tr": ["Hamburg'un yaklaşık 1,9 milyon nüfusu vardır (2023 verileri).", "Şehirde 2.500'den fazla köprü vardır, bu dünyadaki diğer tüm şehirlerden fazladır.", "Hamburg limanı yaklaşık 72 kilometrekarelik bir alanı kaplar.", "Speicherstadt 1883 ile 1927 yılları arasında inşa edilmiştir.", "Elbphilharmonie 110 metre yüksekliğindedir.", "Hamburg'da 100'den fazla konsolosluk vardır; sadece New York ve Hong Kong daha fazlasına sahiptir."]},
+    "sights": {
+      "de": [
+            {
+                  "name": "Elbphilharmonie",
+                  "text": "Die Elbphilharmonie in der HafenCity besticht durch ihre wellenförmige Glasarchitektur auf einem alten Kaispeicher direkt an der Elbe.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Speicherstadt",
+                  "text": "Der weltweit größte historische Lagerhauskomplex gehört zum UNESCO-Welterbe und ist durch seine Backsteinarchitektur und Kanäle geprägt.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Miniatur Wunderland",
+                  "text": "Die größte Modelleisenbahnanlage der Welt in der Speicherstadt ist eine der meistbesuchten Sehenswürdigkeiten Deutschlands.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Michaelis Kirche",
+                  "text": "Der 'Michel' ist Hamburgs bedeutendste Barockkirche; sein markanter Turm bietet einen weiten Blick über den Hafen und die Stadt.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Landungsbrücken",
+                  "text": "Die St. Pauli Landungsbrücken sind ein zentraler Verkehrsknotenpunkt im Hafen und Ausgangspunkt für Hafenrundfahrten.",
+                  "category": "promenades",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hamburger Rathaus",
+                  "text": "Der prachtvolle Sandsteinbau im Neorenaissancestil ist Sitz von Senat und Bürgerschaft und verfügt über 647 Zimmer.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jungfernstieg",
+                  "text": "Hamburgs traditionsreiche Flaniermeile direkt an der Binnenalster ist das Herzstück der Innenstadt und ein beliebter Treffpunkt.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reeperbahn",
+                  "text": "Die 'sündigste Meile der Welt' im Stadtteil St. Pauli ist das Zentrum des Hamburger Nachtlebens mit zahlreichen Clubs und Theatern.",
+                  "category": "old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Planten un Blomen",
+                  "text": "Der weitläufige Park bietet Themengärten, einen japanischen Teegarten und ist bekannt für seine abendlichen Wasserlichtkonzerte.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fischmarkt",
+                  "text": "Der legendäre Hamburger Fischmarkt in Altona findet jeden Sonntagmorgen statt und ist eine kulturelle Institution mit langer Tradition.",
+                  "category": "markets",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elbphilharmonie",
+                  "text": "Az Elbphilharmonie a HafenCity-ben található, hullámzó üvegarchitektúrája egy régi kikötői raktárépületre épült közvetlenül az Elba partján.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Speicherstadt",
+                  "text": "A világ legnagyobb történelmi raktárnegyede az UNESCO Világörökség része, jellegzetes vöröstéglás épületeivel és csatornáival.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Miniatur Wunderland",
+                  "text": "A világ legnagyobb vasútmodell-kiállítása a Speicherstadtban található, és Németország egyik leglátogatottabb nevezetessége.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Michaelis Kirche",
+                  "text": "A 'Michel' Hamburg legjelentősebb barokk temploma; jellegzetes tornya tágas kilátást nyújt a kikötőre és a városra.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Landungsbrücken",
+                  "text": "A St. Pauli Landungsbrücken a kikötő központi közlekedési csomópontja és a kikötői sétahajózások kiindulópontja.",
+                  "category": "promenades",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hamburger Rathaus",
+                  "text": "A pompás neoreneszánsz homokkő épület a szenátus és a képviselőtestület székhelye, és összesen 647 szobával rendelkezik.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jungfernstieg",
+                  "text": "Hamburg nagy múltú sétatere közvetlenül a Belső-Alster-tó partján a belváros szíve és népszerű találkozóhely.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reeperbahn",
+                  "text": "A St. Pauli negyedben található 'bűnös mérföld' a hamburgi éjszakai élet központja számos klubbal és színházzal.",
+                  "category": "old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Planten un Blomen",
+                  "text": "A kiterjedt park tematikus kerteket, japán teaházat kínál, és híres az esti zenés vízijátékairól.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fischmarkt",
+                  "text": "A legendás altonai halpiac minden vasárnap reggel várja a látogatókat, és nagy múltú kulturális intézménynek számít.",
+                  "category": "markets",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Elbphilharmonie",
+                  "text": "Elbphilharmonie din HafenCity impresionează prin arhitectura sa de sticlă ondulată, construită pe un vechi depozit direct pe râul Elba.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Speicherstadt",
+                  "text": "Cel mai mare complex istoric de depozite din lume face parte din patrimoniul UNESCO și se remarcă prin cărămida roșie și canale.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Miniatur Wunderland",
+                  "text": "Cea mai mare expoziție de trenulețe miniaturale din lume, situată în Speicherstadt, este una dintre cele mai vizitate atracții din Germania.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Michaelis Kirche",
+                  "text": "Biserica 'Michel' este cea mai importantă biserică barocă din Hamburg; turnul său oferă o vedere panoramică asupra portului.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Landungsbrücken",
+                  "text": "St. Pauli Landungsbrücken este un nod de transport central în port și punctul de plecare pentru tururile navale ale portului.",
+                  "category": "promenades",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hamburger Rathaus",
+                  "text": "Clădirea somptuoasă în stil neorenascentist este sediul senatului și al parlamentului local, având 647 de camere.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jungfernstieg",
+                  "text": "Promenada istorică din Hamburg, situată pe malul lacului Binnenalster, reprezintă inima centrului orașului.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reeperbahn",
+                  "text": "Cea mai faimoasă stradă din cartierul St. Pauli este centrul vieții de noapte din Hamburg, cu numeroase cluburi și teatre.",
+                  "category": "old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Planten un Blomen",
+                  "text": "Parcul vast oferă grădini tematice, o grădină japoneză și este celebru pentru concertele nocturne cu jocuri de apă și lumini.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fischmarkt",
+                  "text": "Legendara piață de pește din Altona are loc în fiecare duminică dimineața și este o instituție culturală cu tradiție lungă.",
+                  "category": "markets",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elbphilharmonie",
+                  "text": "The Elbphilharmonie in HafenCity impresses with its wave-like glass architecture built on an old warehouse right on the Elbe river.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Speicherstadt",
+                  "text": "The world's largest historic warehouse complex is a UNESCO World Heritage site, defined by its red-brick architecture and canals.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Miniatur Wunderland",
+                  "text": "The world's largest model railway exhibition in the Speicherstadt is one of Germany's most popular tourist attractions.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Michaelis Kirche",
+                  "text": "The 'Michel' is Hamburg's most significant Baroque church; its prominent tower offers a vast view of the harbor and the city.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Landungsbrücken",
+                  "text": "The St. Pauli Landungsbrücken are a central transport hub in the port and the starting point for harbor boat tours.",
+                  "category": "promenades",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hamburger Rathaus",
+                  "text": "The magnificent Neo-Renaissance sandstone building is the seat of the Senate and Parliament, featuring 647 rooms.",
+                  "category": "famous buildings",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jungfernstieg",
+                  "text": "Hamburg's traditional promenade right on the Binnenalster lake is the heart of the city center and a popular meeting spot.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Reeperbahn",
+                  "text": "The 'most sinful mile in the world' in the St. Pauli district is the center of Hamburg's nightlife with many clubs and theaters.",
+                  "category": "old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Planten un Blomen",
+                  "text": "This extensive park offers themed gardens, a Japanese tea garden, and is famous for its evening water light concerts.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fischmarkt",
+                  "text": "The legendary Altona Fish Market takes place every Sunday morning and is a cultural institution with a long-standing tradition.",
+                  "category": "markets",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-hannover",
@@ -563,6 +1861,208 @@ export const pois: POI[] = [
       fr: ["Hanovre compte environ 545 000 habitants (état 2023).", "Le parc des expositions de Hanovre est, avec 496 000 m², le plus grand au monde.", "L'ascenseur incliné du Nouvel Hôtel de Ville circule selon un angle allant jusqu'à 17 degrés.", "L'Eilenriede est, avec 640 hectares, presque deux fois plus grande que Central Park.", "Hanovre était liée à la Grande-Bretagne par une union personnelle de 1714 à 1837.", "Les jardins de Herrenhausen ont été aménagés à partir de 1666."],
     
       "tr": ["Hannover'in yaklaşık 545.000 nüfusu vardır (2023 verileri).", "Hannover fuar alanı, 496.000 m² ile dünyanın en büyüğüdür.", "Neue Rathaus'taki yay asansörü 17 dereceye kadar bir açıyla hareket eder.", "Eilenriede, 640 hektarlık alanı ile Central Park'ın neredeyse iki katı büyüklüktedir.", "Hannover, 1714'ten 1837'ye kadar Büyük Britanya ile kişisel birlik yoluyla bağlıydı.", "Herrenhäuser Gärten 1666'dan itibaren düzenlenmeye başlanmıştır."]},
+    "sights": {
+      "de": [
+            {
+                  "name": "Neues Rathaus",
+                  "text": "Das 1913 eingeweihte eklektizistische Gebäude hat eine 97 Meter hohe Kuppel mit einem einzigartigen Bogenaufzug.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herrenhäuser Gärten",
+                  "text": "Ein bedeutender Barockgarten aus dem Jahr 1666 mit der Großen Fontäne, die eine Höhe von 70 Metern erreicht.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maschsee",
+                  "text": "Dieser 1936 künstlich angelegte See ist 2,4 Kilometer lang und ein Zentrum für Wassersport und das jährliche Maschseefest.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marktkirche",
+                  "text": "Die im 14. Jahrhundert im Stil der norddeutschen Backsteingotik errichtete Kirche besitzt den höchsten Turm der Altstadt.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Landesmuseum Hannover",
+                  "text": "Umfasst Sammlungen zur Kunstgeschichte, Archäologie und Naturkunde in einem repräsentativen Bau gegenüber dem Neuen Rathaus.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eilenriede",
+                  "text": "Mit 640 Hektar ist sie einer der größten Stadtwälder Europas und bietet zahlreiche Rad- und Wanderwege direkt im Zentrum.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leineschloss",
+                  "text": "Das klassizistische Schloss am Ufer der Leine dient seit 1962 als Sitz des Niedersächsischen Landtages.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sprengel Museum",
+                  "text": "Eines der wichtigsten Museen für Kunst des 20. und 21. Jahrhunderts mit Schwerpunkt auf dem deutschen Expressionismus.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Új Városháza",
+                  "text": "Az 1913-ban felavatott eklektikus épület 97 méter magas kupolával és egy egyedülálló, íves pályán mozgó lifttel rendelkezik.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herrenhäuser kertek",
+                  "text": "Európa egyik legjelentősebb barokk kertje 1666-ból, melynek nagy szökőkútja 70 méter magasra lövelli a vizet.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maschsee",
+                  "text": "Az 1936-ban mesterségesen kialakított tó 2,4 km hosszú, a vízi sportok és az éves Maschseefest fesztivál központja.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vártemplom (Marktkirche)",
+                  "text": "A 14. században épült téglagótikus templom az óváros legmagasabb tornyával büszkélkedhet, Hannover egyik jelképe.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alsó-Szászországi Tartományi Múzeum",
+                  "text": "Művészettörténeti, régészeti és természettudományi gyűjteményeknek ad helyet az Új Városházával szemközti épületben.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eilenriede",
+                  "text": "Európa egyik legnagyobb városi erdeje, 640 hektáros területével zöld oázist biztosít a város szívében a túrázóknak.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leine-kastély",
+                  "text": "A Leine folyó partján álló klasszicista palota, amely 1962 óta az Alsó-Szászországi Tartományi Gyűlés székhelye.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sprengel Múzeum",
+                  "text": "A 20. és 21. századi művészet egyik legfontosabb múzeuma, kiemelkedő német expresszionista gyűjteménnyel.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Noua Primărie",
+                  "text": "Inaugurată în 1913, această clădire eclectică are o cupolă de 97 metri înălțime cu un lift parabolic unic în lume.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădinile Herrenhäuser",
+                  "text": "O grădină barocă majoră datând din 1666, renumită pentru Marea Fântână care aruncă apă până la o înălțime de 70 de metri.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maschsee",
+                  "text": "Acest lac artificial creat în 1936 are o lungime de 2,4 km și este centrul sporturilor nautice și al festivalurilor de vară.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marktkirche",
+                  "text": "Construită în secolul al XIV-lea în stil gotic din cărămidă, biserica deține cel mai înalt turn din centrul vechi al orașului.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Stat Hanovra",
+                  "text": "Găzduiește colecții vaste de artă, arheologie și istorie naturală într-o clădire monumentală vizavi de Noua Primărie.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eilenriede",
+                  "text": "Cu o suprafață de 640 de hectare, este una dintre cele mai mari păduri urbane din Europa, oferind numeroase trasee.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Leineschloss",
+                  "text": "Palat neoclasic situat pe malul râului Leine, servește din 1962 ca sediu al Parlamentului landului Saxonia Inferioară.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Sprengel",
+                  "text": "Unul dintre cele mai importante muzee de artă modernă, axat pe expresionismul german și arta contemporană.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "New Town Hall",
+                  "text": "Inaugurated in 1913, this eclectic building features a 97-meter high dome with a unique curved elevator path.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Herrenhausen Gardens",
+                  "text": "A major Baroque garden from 1666 featuring the Great Fountain, which reaches a height of 70 meters.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maschsee",
+                  "text": "Man-made lake completed in 1936, measuring 2.4 km long, serving as a hub for water sports and summer festivals.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marktkirche",
+                  "text": "Built in the 14th century in Brick Gothic style, it is the highest church tower in the old town area.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hanover State Museum",
+                  "text": "Features extensive collections of art, archaeology, and natural history in a grand building near the New Town Hall.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Eilenriede",
+                  "text": "One of Europe's largest city forests at 640 hectares, providing vast green space and trails in the city center.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Leine Palace",
+                  "text": "Neoclassical palace on the banks of the Leine river, acting as the seat of the Lower Saxony Parliament since 1962.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sprengel Museum",
+                  "text": "One of Germany's most important museums for 20th and 21st-century art, focused on German Expressionism.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-wiesbaden",
@@ -599,6 +2099,208 @@ export const pois: POI[] = [
       fr: ["Wiesbaden compte environ 285 000 habitants (en 2023).", "Il existe 26 sources thermales sur le territoire de la ville.", "Le casino de Wiesbaden figure parmi les plus anciens et les plus riches en traditions d'Allemagne.", "Le funiculaire du Neroberg fonctionne à l'énergie hydraulique depuis 1888.", "Wiesbaden possède environ 115 hectares de vignobles dans les limites de la ville.", "Le Kurhaus a été construit entre 1904 et 1907."],
     
       "tr": ["Wiesbaden'in yaklaşık 285.000 nüfusu vardır (2023 verileri).", "Şehir bölgesinde 26 termal kaynak bulunmaktadır.", "Wiesbaden kumarhanesi, Almanya'nın en eski ve en geleneksel kumarhaneleri arasındadır.", "Nerobergbahn 1888'den beri su gücüyle çalıştırılmaktadır.", "Wiesbaden'in şehir sınırları içinde yaklaşık 115 hektar bağ alanı vardır.", "Kurhaus 1904 ile 1907 yılları arasında inşa edilmiştir."]},
+    "sights": {
+      "de": [
+            {
+                  "name": "Kurhaus Wiesbaden",
+                  "text": "Das 1907 im neoklassizistischen Stil errichtete Prachtgebäude beherbergt die Spielbank und prunkvolle Festsäle.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hessisches Staatstheater",
+                  "text": "Ein prachtvoller Bau des Neobarock, der 1894 eröffnet wurde und Schauplatz der Internationalen Maifestspiele ist.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neroberg",
+                  "text": "Der 245 Meter hohe Hausberg bietet eine Aussichtsplattform und die historische Nerobergbahn von 1888.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kochbrunnen",
+                  "text": "Die bekannteste Thermalquelle der Stadt fördert täglich 360.000 Liter 66 Grad heißes Mineralwasser zu Tage.",
+                  "category": "markets",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schlossplatz",
+                  "text": "Der zentrale Platz mit dem Stadtschloss, dem Alten Rathaus und der markanten Marktkirche im Zentrum.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biebricher Schloss",
+                  "text": "Eine barocke Residenz direkt am Rheinufer, die zwischen 1700 und 1750 als Schloss der Nassauischen Fürsten erbaut wurde.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marktkirche",
+                  "text": "Die 1862 vollendete neogotische Backsteinkirche besitzt fünf Türme, von denen der höchste 92 Meter misst.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Russisch-Orthodoxe Kirche",
+                  "text": "Die 1855 erbaute Grabkapelle auf dem Neroberg ist bekannt für ihre fünf vergoldeten Kuppeln im russischen Stil.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kurhaus",
+                  "text": "Az 1907-ben épült neoklasszicista épület Wiesbaden társasági központja, ahol a híres kaszinó és báltermek találhatók.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hesseni Állami Színház",
+                  "text": "1894-ben megnyitott neobarokk stílusú színházépület, az éves Nemzetközi Májusi Ünnepi Játékok otthona.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neroberg",
+                  "text": "A város 245 méter magas dombja, ahová az 1888-ban épült, vízi nehezékkel hajtott siklóvasút viszi fel a látogatókat.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kochbrunnen",
+                  "text": "A város leghíresebb termálforrása, amely percenként 360 liter, 66 Celsius-fokos gyógyvizet szolgáltat a kútházban.",
+                  "category": "markets",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schlossplatz",
+                  "text": "Központi tér, amelyet a Városi Palota, a Régi Városháza és a monumentális Marktkirche övez.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biebrich-kastély",
+                  "text": "A Rajna partján álló barokk rezidencia, az 1700-as évek elején épült a Nassau-ház hercegei számára.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marktkirche",
+                  "text": "1862-ben befejezett neogótikus téglaépület öt karcsú toronnyal, a legmagasabb tornya eléri a 92 métert.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Orosz Ortodox Templom",
+                  "text": "A Neroberg dombon álló, 1855-ben felszentelt templom aranyozott hagymakupoláiról és gazdag díszítéséről ismert.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kurhaus Wiesbaden",
+                  "text": "O clădire neoclasică magnifică ridicată în 1907, care găzduiește cazinoul orașului și săli de evenimente fastuoase.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul de Stat din Hessa",
+                  "text": "Edificiu neobaroc somptuos inaugurat în 1894, renumit pentru Festivalul Internațional de Mai de la Wiesbaden.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muntele Neroberg",
+                  "text": "Dealul de 245 metri oferă o panoramă superbă, fiind accesibil cu funicularul istoric din 1888 acționat cu apă.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Izvorul Kochbrunnen",
+                  "text": "Cea mai faimoasă sursă termală a orașului, cu apă minerală la 66°C, simbolizând tradiția balneară a localității.",
+                  "category": "markets",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Schlossplatz",
+                  "text": "Piața centrală unde se află Palatul Orașului, Vechea Primărie și impozanta biserică Marktkirche.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Biebrich",
+                  "text": "Reședință barocă situată direct pe malul Rinului, construită între 1700 și 1750 pentru ducii de Nassau.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marktkirche",
+                  "text": "Biserică neogotică din cărămidă roșie finisată în 1862, având cinci turnuri, cel mai înalt atingând 92 de metri.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Rusă",
+                  "text": "Capelă ortodoxă situată pe Neroberg, construită în 1855, decorată cu cinci cupole aurite vizibile de la distanță.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kurhaus Wiesbaden",
+                  "text": "Neoclassical grand building from 1907 housing the city's casino and various opulent social halls.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hessian State Theatre",
+                  "text": "A magnificent Neo-Baroque theater opened in 1894, host to the International May Festival.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neroberg",
+                  "text": "A 245-meter high hill offering panoramic views, accessible via a historic 1888 water-ballast funicular.",
+                  "category": "viewpoints",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kochbrunnen",
+                  "text": "The city's most famous thermal spring, discharging mineral water at 66°C, central to the spa district.",
+                  "category": "markets",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schlossplatz",
+                  "text": "The central square home to the City Palace, the Old Town Hall, and the striking Market Church.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biebrich Palace",
+                  "text": "Baroque residence located directly on the Rhine river, built between 1700 and 1750 for the Dukes of Nassau.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Market Church",
+                  "text": "Neo-Gothic brick church completed in 1862 with five slender spires, the tallest reaching 92 meters.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Russian Orthodox Church",
+                  "text": "Built in 1855 on Neroberg hill, this funeral chapel is famous for its five gilded domes in traditional Russian style.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-mainz",
@@ -635,6 +2337,208 @@ export const pois: POI[] = [
       fr: ["Mayence compte environ 220 000 habitants (chiffres 2023).", "La ville fut fondée en 13 av. J.-C. sous le nom de Mogontiacum.", "La cathédrale de Mayence possède six tours.", "Le musée Gutenberg a été fondé en 1900.", "Mayence est la plus grande ville viticole d'Allemagne.", "Les sites SchUM ont été inscrits au patrimoine mondial de l'UNESCO en 2021."],
     
       "tr": ["Mainz'ın yaklaşık 220.000 nüfusu vardır (2023 verileri).", "Şehir M.Ö. 13 yılında Mogontiacum adıyla kurulmuştur.", "Mainz Domu'nun altı kulesi vardır.", "Gutenberg Müzesi 1900 yılında kurulmuştur.", "Mainz, Almanya'nın en büyük bağcılık şehridir.", "ShUM alanları 2021 yılında UNESCO Dünya Mirası listesine alınmıştır."]},
+    "sights": {
+      "de": [
+            {
+                  "name": "Mainzer Dom St. Martin",
+                  "text": "Der über 1000 Jahre alte romanische Dom mit seinen sechs Türmen ist das markanteste Wahrzeichen der rheinland-pfälzischen Landeshauptstadt.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gutenberg-Museum",
+                  "text": "Dieses Weltmuseum der Druckkunst präsentiert die Geschichte der Schrift und zeigt zwei der berühmten Original-Bibeln von Johannes Gutenberg.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Stephan (Chagall-Fenster)",
+                  "text": "Die gotische Hallenkirche ist weltberühmt für ihre leuchtend blauen Glasfenster, die der Künstler Marc Chagall als Zeichen der Versöhnung schuf.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kurfürstliches Schloss",
+                  "text": "Die ehemalige Residenz der Mainzer Erzbischöfe beeindruckt durch ihre prachtvolle rote Sandsteinfassade im Stil der deutschen Renaissance.",
+                  "category": "residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mainzer Marktplatz",
+                  "text": "Der zentrale Platz am Dom wird von historischen Bürgerhäusern gesäumt und beherbergt den Renaissance-Marktbrunnen, einen der ältesten seiner Art.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zitadelle Mainz",
+                  "text": "Die barocke Festungsanlage auf dem Jakobsberg zeugt von der militärischen Bedeutung der Stadt und bietet heute Raum für Museen und Kultur.",
+                  "category": "fortresses",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fastnachtsbrunnen",
+                  "text": "Das fast neun Meter hohe Denkmal am Schillerplatz zeigt über 200 Bronzefiguren, die die lebendige Tradition der Mainzer Fastnacht darstellen.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rheinufer Mainz",
+                  "text": "Die weitläufige Promenade am Fluss ist ein beliebter Treffpunkt zum Spazierengehen und bietet einen herrlichen Blick auf den Rhein und Hessen.",
+                  "category": "promenades",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mainzi Szent Márton-dóm",
+                  "text": "A több mint 1000 éves román stílusú dóm hat tornyával Rajna-vidék-Pfalz tartományi székhelyének legmeghatározóbb jelképe és építészeti emléke.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gutenberg-múzeum",
+                  "text": "A nyomtatóművészet világmúzeuma bemutatja az írás történetét, és itt látható Johannes Gutenberg híres eredeti Bibliájának két példánya is.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent István-templom (Chagall-ablakok)",
+                  "text": "A gótikus csarnoktemplom világhírű a Marc Chagall által készített kék üvegablakairól, melyeket a megbékélés jeleként alkotott a művész.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Választófejedelmi kastély",
+                  "text": "A mainzi érsekek egykori rezidenciája a német reneszánsz stílusban épült, lenyűgöző vörös homokkő homlokzatával a város egyik legszebb épülete.",
+                  "category": "residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mainzi piactér",
+                  "text": "A dóm melletti központi teret történelmi polgárházak övezik, itt található Németország egyik legrégebbi reneszánsz stílusú piaci kútja.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mainzi citadella",
+                  "text": "A Jakobsbergen található barokk erődítmény a város katonai múltjának tanúja, ma múzeumoknak és kulturális rendezvényeknek ad otthont.",
+                  "category": "fortresses",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Karnevál-kút",
+                  "text": "A Schillerplatzon álló, közel kilenc méter magas emlékmű több mint 200 bronzfigurája a híres mainzi karnevál vidám hagyományait mutatja be.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rajna-parti sétány",
+                  "text": "A folyó menti tágas sétány a helyiek kedvenc találkozóhelye, ahonnan csodás kilátás nyílik a Rajnára és a túlparton fekvő Hessen tartományra.",
+                  "category": "promenades",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Sfântul Martin din Mainz",
+                  "text": "Această catedrală romanică veche de peste 1000 de ani, cu cele șase turnuri ale sale, este cel mai important simbol al orașului Mainz.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Gutenberg",
+                  "text": "Muzeul mondial al artei tipografice prezintă istoria scrisului și expune două exemplare originale ale celebrei Biblii tipărite de Johannes Gutenberg.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Ștefan (Vitraliile lui Chagall)",
+                  "text": "Biserica gotică este celebră în întreaga lume pentru vitraliile sale albastre, create de artistul Marc Chagall ca simbol al reconcilierii.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Electoral",
+                  "text": "Fosta reședință a electorilor din Mainz impresionează prin fațada sa splendidă din gresie roșie, construită în stilul Renașterii germane.",
+                  "category": "residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Centrală din Mainz",
+                  "text": "Piața centrală de lângă catedrală este mărginită de case istorice și găzduiește o fântână renascentistă, una dintre cele mai vechi din regiune.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Citadela din Mainz",
+                  "text": "Fortăreața barocă situată pe dealul Jakobsberg atestă importanța militară a orașului, fiind astăzi un spațiu dedicat muzeelor și culturii.",
+                  "category": "fortresses",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fântâna Carnavalului",
+                  "text": "Acest monument de aproape nouă metri înălțime din Piața Schiller cuprinde peste 200 de figuri de bronz ce reprezintă tradiția carnavalului.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Faleza Rinului din Mainz",
+                  "text": "Promenada spațioasă de pe malul fluviului este un loc popular de întâlnire, oferind o priveliște minunată asupra Rinului și a landului Hessa.",
+                  "category": "promenades",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mainz Cathedral of St. Martin",
+                  "text": "This over 1000-year-old Romanesque cathedral with its six towers is the most prominent landmark of the capital of Rhineland-Palatinate.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Gutenberg Museum",
+                  "text": "The world museum of printing arts showcases the history of writing and features two original copies of Johannes Gutenberg's famous Bible.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Stephen's Church (Chagall Windows)",
+                  "text": "This Gothic church is world-famous for its luminous blue stained-glass windows designed by Marc Chagall as a sign of reconciliation.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Electoral Palace",
+                  "text": "The former residence of the Electors of Mainz stands out with its magnificent red sandstone facade in the German Renaissance style.",
+                  "category": "residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mainz Market Square",
+                  "text": "The central square next to the cathedral is lined with historic townhouses and features a Renaissance fountain, one of the oldest of its kind.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mainz Citadel",
+                  "text": "This Baroque fortress on the Jakobsberg hill testifies to the city's military history and now hosts museums and cultural events.",
+                  "category": "fortresses",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Carnival Fountain",
+                  "text": "This nearly nine-meter-high monument in Schillerplatz features over 200 bronze figures depicting the lively traditions of the Mainz Carnival.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rhine Promenade Mainz",
+                  "text": "The spacious riverside walkway is a popular meeting spot, offering great views of the Rhine river and the neighboring state of Hesse.",
+                  "category": "promenades",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-saarbruecken",
@@ -671,6 +2575,208 @@ export const pois: POI[] = [
       fr: ["Sarrebruck compte environ 182 000 habitants (en 2023).", "La première mention documentaire de 'Sarabruca' remonte à l'an 999.", "La Ludwigskirche a été achevée en 1775.", "La superficie de la ville est d'environ 167 kilomètres carrés.", "L'université de la Sarre a été fondée en 1948.", "Le Jardin Franco-Allemand a été ouvert en 1960 comme symbole de réconciliation."],
     
       "tr": ["Saarbrücken'in yaklaşık 182.000 nüfusu vardır (2023 verileri).", "Sarabruca isminin belgelerdeki ilk kaydı 999 yılına dayanmaktadır.", "Ludwigskirche 1775 yılında tamamlanmıştır.", "Şehir alanı yaklaşık 167 kilometrekaredir.", "Saarland Üniversitesi 1948 yılında kurulmuştur.", "Alman-Fransız Bahçesi 1960 yılında uzlaşmanın bir sembolü olarak açılmıştır."]},
+    "sights": {
+      "de": [
+            {
+                  "name": "Ludwigskirche",
+                  "text": "Die barocke Ludwigskirche ist das Wahrzeichen von Saarbrücken und gilt als eine der bedeutendsten evangelischen Kirchenbauten Deutschlands.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saarbrücker Schloss",
+                  "text": "Das Schloss thront über der Stadt und vereint barocke Pracht mit moderner Architektur; es beherbergt heute kulturelle Einrichtungen.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Johanner Markt",
+                  "text": "Das Herz der Altstadt mit seinen Boutiquen, Cafés und Kneipen ist der beliebteste Treffpunkt zum Verweilen und Genießen.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilika St. Johann",
+                  "text": "Die von Balthasar Neumann entworfene katholische Basilika beeindruckt durch ihre barocke Fassade und ihre prunkvolle Innenausstattung.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alte Brücke",
+                  "text": "Die älteste Brücke der Stadt verbindet St. Johann mit Alt-Saarbrücken und bietet einen schönen Ausblick auf die Saar und das Staatstheater.",
+                  "category": "bridges",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Deutsch-Französischer Garten",
+                  "text": "Dieser weitläufige Landschaftspark wurde als Symbol der Freundschaft angelegt und bietet einen See, Themengärten und eine Seilbahn.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Historisches Museum Saar",
+                  "text": "Das unterirdische Museum am Schlossplatz macht die wechselvolle Geschichte der Grenzregion vom Mittelalter bis heute erlebbar.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saarufer",
+                  "text": "Die Grünanlagen entlang der Saar laden zu Radtouren und Spaziergängen ein und sind im Sommer ein Zentrum des urbanen Lebens.",
+                  "category": "promenades",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lajos-templom (Ludwigskirche)",
+                  "text": "A barokk stílusú Lajos-templom Saarbrücken jelképe, és Németország egyik legjelentősebb evangélikus templomépületeként tartják számon.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saarbrückeni kastély",
+                  "text": "A város felett magasodó kastély a barokk pompát ötvözi a modern építészettel; ma kulturális intézményeknek ad otthont.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent János-piac",
+                  "text": "Az óváros szíve elegáns butikjaival, kávézóival és vendéglőivel a legkedveltebb találkozóhely a város lakói és a turisták számára.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent János-bazilika",
+                  "text": "A Balthasar Neumann által tervezett katolikus bazilika lenyűgöző barokk homlokzatával és díszes belső terével emelkedik ki.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi híd (Alte Brücke)",
+                  "text": "A város legrégebbi hídja köti össze St. Johann és Alt-Saarbrücken negyedeket, szép kilátást nyújtva a folyóra és az Állami Színházra.",
+                  "category": "bridges",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Német-Francia Kert",
+                  "text": "Ez a hatalmas park a két nép barátságának jelképe, tágas tóval, tematikus kertekkel és egy libegővel várja a kikapcsolódni vágyókat.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saar-vidéki Történeti Múzeum",
+                  "text": "A kastélytér alatt található földalatti múzeum a határmenti régió mozgalmas történelmét mutatja be a középkortól napjainkig.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saar-parti zöldövezet",
+                  "text": "A folyó menti parkok és sétányok ideálisak kerékpározáshoz és sétákhoz, nyáron pedig a városi társasági élet központjává válnak.",
+                  "category": "promenades",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica Ludwigskirche",
+                  "text": "Această biserică barocă este simbolul orașului Saarbrücken și este considerată una dintre cele mai importante biserici protestante din Germania.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul din Saarbrücken",
+                  "text": "Castelul domină orașul de pe înălțime, îmbinând splendoarea barocă cu elemente moderne; astăzi găzduiește diverse instituții culturale.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața St. Johanner Markt",
+                  "text": "Inima centrului vechi, cu buticurile, cafenelele și tavernele sale, este cel mai popular loc de întâlnire pentru turiști și localnici.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bazilica Sfântul Ioan",
+                  "text": "Proiectată de Balthasar Neumann, această bazilică catolică impresionează prin fațada barocă și decorul interior deosebit de bogat.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Vechi",
+                  "text": "Cel mai vechi pod din oraș face legătura între cartierele St. Johann și Alt-Saarbrücken, oferind o panoramă frumoasă asupra râului Saar.",
+                  "category": "bridges",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Germano-Franceză",
+                  "text": "Acest parc vast a fost amenajat ca simbol al prieteniei între cele două popoare, oferind un lac, grădini tematice și o telegondolă.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Istorie Saar",
+                  "text": "Muzeul subteran de lângă Piața Castelului prezintă istoria fascinantă a regiunii de frontieră, din Evul Mediu până în prezent.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Malul râului Saar",
+                  "text": "Zonele verzi de-a lungul râului sunt ideale pentru plimbări și ciclism, devenind în timpul verii centrul vieții urbane relaxate.",
+                  "category": "promenades",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ludwigskirche",
+                  "text": "The Baroque Ludwigskirche is the landmark of Saarbrücken and is considered one of Germany's most important Protestant church buildings.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saarbrücken Castle",
+                  "text": "The castle overlooks the city and combines Baroque splendor with modern architecture; it currently houses several cultural institutions.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Johanner Markt",
+                  "text": "The heart of the old town with its boutiques, cafes, and pubs is the most popular meeting place for locals and visitors alike.",
+                  "category": "squares",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica of St. John",
+                  "text": "Designed by Balthasar Neumann, this Catholic basilica impresses with its grand Baroque facade and magnificent interior decoration.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Bridge (Alte Brücke)",
+                  "text": "The city's oldest bridge connects St. Johann with Alt-Saarbrücken and offers a great view of the Saar river and the State Theatre.",
+                  "category": "bridges",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Franco-German Garden",
+                  "text": "This large landscape park was created as a symbol of friendship and features a lake, themed gardens, and a scenic cable car.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saar Historical Museum",
+                  "text": "This underground museum at the Castle Square showcases the eventful history of the border region from the Middle Ages to today.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saar Riverbank",
+                  "text": "The green spaces along the Saar are perfect for cycling and walking, serving as a hub for urban life and relaxation during summer.",
+                  "category": "promenades",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-bremen",
@@ -708,6 +2814,256 @@ export const pois: POI[] = [
       fr: ["Brême compte environ 570 000 habitants (état 2023).", "L'hôtel de ville fut construit entre 1405 et 1410.", "Le Roland de Brême mesure 5,47 mètres de haut.", "Brême abrite la deuxième plus grande usine Mercedes-Benz au monde.", "La Böttcherstraße ne mesure qu'environ 100 mètres de long.", "L'Universum Bremen est un centre scientifique renommé."],
     
       "tr": ["Bremen'in yaklaşık 570.000 nüfusu vardır (2023 verileri).", "Belediye binası (Rathaus) 1405 ile 1410 yılları arasında inşa edilmiştir.", "Bremer Roland 5,47 metre yüksekliğindedir.", "Bremen'de dünyanın ikinci büyük Mercedes-Benz fabrikası bulunmaktadır.", "Böttcherstraße sadece yaklaşık 100 metre uzunluğundadır.", "Universum Bremen tanınmış bir bilim merkezidir."]},
+    "sights": {
+      "de": [
+            {
+                  "name": "Bremer Roland",
+                  "text": "Das Standbild auf dem Marktplatz ist das Wahrzeichen der Stadt und steht seit 2004 auf der UNESCO-Welterbeliste.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bremer Rathaus",
+                  "text": "Das prächtige Rathaus im Stil der Weserrenaissance gehört zusammen mit dem Roland zum Weltkulturerbe der UNESCO.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bremer Stadtmusikanten",
+                  "text": "Die berühmte Bronzestatue von Gerhard Marcks erinnert an das bekannte Märchen der Brüder Grimm über die vier Tiere.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schnoorviertel",
+                  "text": "Das älteste Viertel Bremens besticht durch seine schmalen Gassen und kleinen Häuser aus dem 15. und 16. Jahrhundert.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Böttcherstraße",
+                  "text": "Die etwa 100 Meter lange Straße ist ein Gesamtkunstwerk der expressionistischen Architektur mit Museen und Läden.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Petri Dom",
+                  "text": "Die evangelisch-lutherische Kathedrale am Marktplatz blickt auf eine über 1200-jährige Geschichte zurück.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schlachte",
+                  "text": "Die historische Uferpromenade an der Weser bietet zahlreiche Restaurants, Biergärten und Anlegestellen für Schiffe.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Universum Bremen",
+                  "text": "Das interaktive Wissenschaftscenter in einem spektakulären walartigen Gebäude macht Forschung zum Erlebnis.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rhododendron-Park",
+                  "text": "Der Park beherbergt eine der weltweit größten Sammlungen an Rhododendren und Azaleen in einer weitläufigen Anlage.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunsthalle Bremen",
+                  "text": "Das bedeutende Kunstmuseum zeigt Werke vom 14. Jahrhundert bis zur Gegenwart, darunter Gemälde von Dürer und Monet.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brémai Roland-szobor",
+                  "text": "A főtéren álló szobor a város szabadságának jelképe, 2004 óta az UNESCO Világörökség része a városházával együtt.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brémai városháza",
+                  "text": "A gyönyörű, Weser-reneszánsz stílusú városháza Európa egyik legjelentősebb ilyen típusú építészeti emléke.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brémai muzsikusok",
+                  "text": "Gerhard Marcks bronzszobra a Grimm-testvérek híres meséjének állít emléket a városháza nyugati oldalán.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schnoor negyed",
+                  "text": "Bremen legrégebbi városnegyede szűk utcáival és 15-16. századi házaival középkori hangulatot áraszt.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Böttcherstraße",
+                  "text": "A 100 méter hosszú utca az expresszionista építészet remekműve, ahol múzeumok és műhelyek kaptak helyet.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Péter-dóm",
+                  "text": "A főtéren álló evangélikus katedrális több mint 1200 éves múltra tekint vissza, tornyaiból szép a kilátás.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schlachte part",
+                  "text": "A Weser-folyó menti sétány népszerű gasztronómiai központ számos terasszal és történelmi hajókkal.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Universum Bremen",
+                  "text": "A futurisztikus épületben található tudományos központ interaktív módon mutatja be a természet csodáit.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rododendron-park",
+                  "text": "A park a világ egyik legnagyobb rododendron- és azáleggyűjteményének ad otthont egy hatalmas területen.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brémai Művészeti Csarnok",
+                  "text": "A neves múzeum a 14. századtól napjainkig mutat be műveket, jelentős grafikai és festészeti gyűjteménnyel.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Statuia Roland din Bremen",
+                  "text": "Statuia din piața centrală este simbolul libertății orașului și face parte din patrimoniul mondial UNESCO din 2004.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Bremen",
+                  "text": "Magnifica primărie construită în stilul Renașterii Weser este una dintre cele mai frumoase clădiri administrative din Europa.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzicanții din Bremen",
+                  "text": "Celebra statuie de bronz a lui Gerhard Marcks amintește de basmul fraților Grimm despre cele patru animale.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cartierul Schnoor",
+                  "text": "Cel mai vechi cartier din Bremen impresionează prin străzile sale înguste și casele mici din secolele XV și XVI.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Böttcherstraße",
+                  "text": "Strada de aproximativ 100 de metri este o operă de artă a arhitecturii expresioniste, cu numeroase muzee și magazine.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Sfântul Petru",
+                  "text": "Catedrala evanghelică-luterană din piața centrală are o istorie de peste 1200 de ani și o arhitectură impunătoare.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schlachte",
+                  "text": "Promenada istorică de pe malul râului Weser oferă numeroase restaurante, grădini de vară și docuri pentru nave.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Universum Bremen",
+                  "text": "Centrul interactiv de știință într-o clădire spectaculoasă în formă de balenă face cercetarea o experiență unică.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul de Rododendroni",
+                  "text": "Parcul găzduiește una dintre cele mai mari colecții de rododendroni și azalee din lume într-o zonă vastă.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunsthalle Bremen",
+                  "text": "Importantul muzeu de artă expune lucrări din secolul al XIV-lea până în prezent, inclusiv picturi de Dürer și Monet.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bremen Roland",
+                  "text": "The statue on the market square is a symbol of city freedom and has been a UNESCO World Heritage site since 2004.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Bremen City Hall",
+                  "text": "The magnificent city hall in Weser Renaissance style is one of the most important administrative buildings in Europe.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Town Musicians of Bremen",
+                  "text": "The famous bronze statue by Gerhard Marcks commemorates the well-known Brothers Grimm fairy tale about the four animals.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schnoor Quarter",
+                  "text": "Bremen's oldest quarter charms visitors with its narrow alleys and small houses from the 15th and 16th centuries.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Böttcherstraße",
+                  "text": "The 100-meter-long street is a complete work of art of expressionist architecture with museums and shops.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Peter's Cathedral",
+                  "text": "The Evangelical Lutheran cathedral on the market square looks back on over 1200 years of religious history.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schlachte",
+                  "text": "The historic riverside promenade on the Weser offers numerous restaurants, beer gardens, and boat moorings.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Universum Bremen",
+                  "text": "The interactive science center in a spectacular whale-like building turns scientific research into an experience.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rhododendron Park",
+                  "text": "The park houses one of the world's largest collections of rhododendrons and azaleas in a spacious facility.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunsthalle Bremen",
+                  "text": "The important art museum displays works from the 14th century to the present, including paintings by Dürer and Monet.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-kiel",
@@ -744,6 +3100,256 @@ export const pois: POI[] = [
       fr: ["Kiel a été fondée en 1242 sous le nom de Holstenstadt tom Kyle.", "Le canal de Kiel est, avec environ 98 kilomètres de long, la voie d'eau artificielle la plus fréquentée au monde.", "La Semaine de Kiel attire chaque année environ trois millions de visiteurs du monde entier.", "L'université Christian-Albrecht de Kiel a été fondée en 1665 par le duc Christian-Albrecht.", "L'hôtel de ville de la cité possède une tour de 106 mètres de haut qui constitue un emblème marquant.", "Kiel est le port d'attache officiel du Gorch Fock, célèbre voilier-école de la marine."],
     
       "tr": ["Kiel 1242 yılında Holstenstadt tom Kyle adıyla kurulmuştur.", "Nord-Ostsee-Kanal, yaklaşık 98 kilometrelik uzunluğuyla dünyanın en çok kullanılan yapay su yoludur.", "Kieler Woche her yıl dünyanın dört bir yanından yaklaşık üç milyon ziyaretçi çekmektedir.", "Kiel'deki Christian-Albrechts-Üniversitesi 1665 yılında Dük Christian Albrecht tarafından kurulmuştur.", "Şehir belediye binasının 106 metre yüksekliğindeki kulesi, belirgin bir simge olarak kabul edilir.", "Kiel, donanmanın ünlü yelkenli eğitim gemisi Gorch Fock'un resmi ana limanıdır."]},
+    "sights": {
+      "de": [
+            {
+                  "name": "Kieler Förde",
+                  "text": "Der fjordähnliche Meeresarm der Ostsee reicht bis in das Herz der Stadt und ist Schauplatz der berühmten Kieler Woche.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kiellinie",
+                  "text": "Die beliebte Uferpromenade am Westufer der Förde bietet weite Ausblicke auf das Wasser und die vorbeiziehenden Schiffe.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kieler Rathaus",
+                  "text": "Das markante Gebäude mit seinem 106 Meter hohen Turm erinnert an den Markusturm in Venedig und bietet tolle Aussichten.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schifffahrtsmuseum",
+                  "text": "In der ehemaligen Fischhalle am Hafen wird die maritime Geschichte Kiels und der Seefahrt eindrucksvoll präsentiert.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Nikolaikirche",
+                  "text": "Die gotische Hauptkirche der Stadt beherbergt bedeutende Kunstwerke wie die Bronzetaufe aus dem 14. Jahrhundert.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Die weitläufige Anlage der Universität zeigt eine Vielfalt an Pflanzen aus verschiedenen Klimazonen der Welt.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunsthalle zu Kiel",
+                  "text": "Das Museum präsentiert eine umfangreiche Sammlung von Gemälden und Skulpturen vom Barock bis zur Moderne.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kieler Schloss",
+                  "text": "Das historische Schlossareal war einst Residenz der Herzöge und dient heute als bedeutendes Kulturzentrum.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoologisches Museum",
+                  "text": "Das Museum zeigt die Vielfalt der Tierwelt in einem beeindruckenden Gebäude des Architekten Martin Gropius.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aquarium Kiel",
+                  "text": "Die Anlage bietet faszinierende Einblicke in die Unterwasserwelt der Ostsee und ferner Meere direkt an der Kiellinie.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kieli-fjord",
+                  "text": "A Balti-tenger fjordhoz hasonló öble mélyen benyúlik a város szívébe, a világhírű Kieli Hét vitorlásverseny helyszíne.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kiellinie sétány",
+                  "text": "A népszerű vízparti sétányról nagyszerű kilátás nyílik az öbölre és a kikötőben álló hatalmas hajókra.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kieli városháza",
+                  "text": "A város jellegzetes épülete 106 méter magas toronnyal rendelkezik, amely a velencei Szent Márk-toronyra emlékeztet.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tengerészeti Múzeum",
+                  "text": "A régi halcsarnokban berendezett múzeum Kiel tengerészeti múltját és a hajózás történetét mutatja be.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "Kiel gótikus főtemploma értékes műkincseknek ad otthont, köztük egy 14. századi bronz keresztelőmedencének.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanikus kert",
+                  "text": "Az egyetemi botanikus kert különböző klímazónák növényeit mutatja be hatalmas szabadtéri és üvegházi területen.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kieli Művészeti Csarnok",
+                  "text": "A múzeum gazdag gyűjteménnyel rendelkezik a barokk kortól napjainkig tartó festményekből és szobrokból.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kieli kastély",
+                  "text": "A hercegi rezidenciaként szolgált kastély ma fontos kulturális eseményeknek és koncerteknek ad otthont.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoológiai Múzeum",
+                  "text": "A múzeum az állatvilág sokszínűségét mutatja be a híres építész, Martin Gropius által tervezett épületben.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kieli Akvárium",
+                  "text": "A közvetlenül a vízparton található akvárium izgalmas betekintést nyújt a Balti-tenger és távoli vizek élővilágába.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fiordul Kiel",
+                  "text": "Brațul mării Baltice asemănător unui fiord se întinde până în inima orașului și găzduiește celebra Săptămână de la Kiel.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Promenada Kiellinie",
+                  "text": "Populara promenadă de pe malul de vest oferă vederi largi asupra apei și a navelor care trec prin port.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Kiel",
+                  "text": "Clădirea distinctivă cu turnul său de 106 metri amintește de turnul San Marco din Veneția și oferă o panoramă superbă.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Maritim",
+                  "text": "Situat în fosta hală de pește din port, muzeul prezintă istoria maritimă a orașului Kiel și a navigației.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae",
+                  "text": "Biserica gotică principală a orașului găzduiește opere de artă valoroase, cum ar fi cristelnița de bronz din secolul XIV.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Botanică",
+                  "text": "Vasta grădină a universității prezintă o mare varietate de plante din diferite zone climatice ale lumii.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunsthalle din Kiel",
+                  "text": "Muzeul prezintă o colecție vastă de picturi și sculpturi de la perioada barocului până la cea modernă.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul din Kiel",
+                  "text": "Fosta reședință a ducilor servește astăzi ca un important centru cultural și spațiu pentru evenimente.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Zoologie",
+                  "text": "Muzeul prezintă diversitatea lumii animale într-o clădire impresionantă proiectată de arhitectul Martin Gropius.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Acvariul din Kiel",
+                  "text": "Acvariul oferă perspective fascinante asupra lumii subacvatice a Mării Baltice și a mărilor îndepărtate.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kiel Fjord",
+                  "text": "The fjord-like inlet of the Baltic Sea reaches into the heart of the city and hosts the world-famous Kiel Week.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kiellinie Promenade",
+                  "text": "The popular waterfront promenade offers wide views of the water and the large ships passing through the harbor.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kiel City Hall",
+                  "text": "The landmark building with its 106-meter-high tower resembles the St Mark's Campanile in Venice.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maritime Museum",
+                  "text": "Housed in the former fish hall at the harbor, the museum impressively presents the maritime history of Kiel.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Nikolai Church",
+                  "text": "The main Gothic church of the city houses significant artworks like the 14th-century bronze baptismal font.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "The university's spacious garden displays a variety of plants from different climatic zones of the world.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kunsthalle zu Kiel",
+                  "text": "The museum presents an extensive collection of paintings and sculptures from the Baroque to the modern era.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kiel Castle",
+                  "text": "The historic castle area was once a ducal residence and today serves as an important cultural center.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zoological Museum",
+                  "text": "The museum presents the diversity of the animal world in an impressive building designed by Martin Gropius.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Aquarium Kiel",
+                  "text": "The facility offers fascinating insights into the underwater world of the Baltic Sea and distant oceans on the harbor.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-schwerin",
@@ -780,6 +3386,208 @@ export const pois: POI[] = [
       fr: ["Schwerin est la plus petite capitale de Land de la République fédérale avec environ 96 000 habitants.", "Le château de Schwerin compte précisément 635 pièces aux décors somptueux.", "La ville a été mentionnée pour la première fois en 1018 comme site fortifié slave.", "Le lac de Schwerin est le deuxième plus grand lac du nord de l'Allemagne avec une superficie de 61 km².", "La cathédrale de Schwerin est le seul véritable édifice de style gothique de brique de la ville.", "Le théâtre d'État du Mecklembourg à Schwerin figure parmi les institutions culturelles les plus importantes du Land."],
     
       "tr": ["Schwerin yaklaşık 96.000 nüfusu ile Federal Cumhuriyet'in en küçük eyalet başkentidir.", "Schweriner Schloss, muhteşem bir şekilde döşenmiş tam 635 odaya sahiptir.", "Şehrin adı belgelerde ilk kez 1018 yılında bir Slav kalesi olarak geçmiştir.", "Schweriner See, 61 kilometrekarelik yüzölçümü ile Kuzey Almanya'nın en büyük ikinci gölüdür.", "Schwerin Domu, şehirdeki tek gerçek tuğla Gotik yapıdır.", "Schwerin Mecklenburg Devlet Tiyatrosu eyaletin en önemli kültürel kurumlarından biridir."]},
+    "sights": {
+      "de": [
+            {
+                  "name": "Schweriner Schloss",
+                  "text": "Das märchenhafte Residenzschloss auf einer Insel gilt als Neuschwanstein des Nordens und beherbergt den Landtag von Mecklenburg-Vorpommern.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schweriner Dom",
+                  "text": "Die gotische Backsteinkathedrale aus dem 13. Jahrhundert ist ein Wahrzeichen der Stadt und bietet vom Turm einen weiten Blick über die Seen.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Staatliches Museum Schwerin",
+                  "text": "Das prachtvolle Gebäude am Alten Garten präsentiert eine bedeutende Sammlung flämischer und holländischer Malerei des 17. und 18. Jahrhunderts.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mecklenburgisches Staatstheater",
+                  "text": "Direkt gegenüber dem Schloss gelegen, bietet das historische Theater erstklassige Aufführungen in den Sparten Oper, Schauspiel und Ballett.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schlossgarten",
+                  "text": "Die barocke Parkanlage besticht durch kunstvolle Alleen, Skulpturen und den malerischen Kreuzkanal direkt am Ufer des Schweriner Sees.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schelfkirche St. Nikolai",
+                  "text": "Die barocke Backsteinkirche ist die Grabstätte der herzoglichen Familie und ein architektonisches Juwel im historischen Schelfstadt-Viertel.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Marktplatz",
+                  "text": "Das Herz der Altstadt mit dem Rathaus und dem Löwendenkmal ist von historischen Giebelhäusern umgeben und lädt zum Verweilen in Cafés ein.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schweriner See",
+                  "text": "Der viertgrößte See Deutschlands prägt das Stadtbild und bietet zahlreiche Möglichkeiten für Bootsfahrten und Spaziergänge am Wasser.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schwerini vár",
+                  "text": "A Schwerini-tó szigetén álló meseszerű kastély a tartományi parlament székhelye, egyben a régió legfontosabb építészeti emléke.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schwerini dóm",
+                  "text": "A 13. századi gótikus téglaépítészet remekműve a városkép meghatározó eleme, tornyából lenyűgöző kilátás nyílik a környező tavakra.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Állami Múzeum",
+                  "text": "Az Alten Garten téren álló impozáns épület világhírű gyűjteménnyel rendelkezik, különösen a flamand és holland mesterművek tekintetében.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Állami Színház",
+                  "text": "A kastéllyal szemben fekvő historizáló színházépület opera- és baletteladásoknak ad otthont, a város kulturális életének központja.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kastélykert",
+                  "text": "A barokk stílusú parkrendszer szobrokkal és csatornákkal díszített, ideális helyszín egy sétához a tópart közvetlen szomszédságában.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Miklós-templom",
+                  "text": "A Schelfstadt negyedben található barokk téglatemplom a hercegi család temetkezési helye, belső tere gazdag díszítéséről ismert.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piactér",
+                  "text": "Az óváros szíve a városházával és az Oroszlán-emlékművel, hangulatos középkori házakkal és kedvelt helyi kávézókkal övezve.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schwerini-tó",
+                  "text": "Németország negyedik legnagyobb tava alapvetően meghatározza a város jellegét, hajókirándulások kedvelt helyszíne minden évszakban.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Schwerin",
+                  "text": "Supranumit Neuschwanstein al Nordului, acest castel de basm situat pe o insulă găzduiește parlamentul statului Mecklenburg-Vorpommern.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala din Schwerin",
+                  "text": "Această catedrală gotică din cărămidă domină orizontul orașului și oferă o vedere panoramică superbă din turnul său înalt.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Stat",
+                  "text": "Situat în piața Alter Garten, muzeul adăpostește o colecție impresionantă, fiind renumit pentru lucrările maeștrilor flamanzi și olandezi.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Teatrul de Stat",
+                  "text": "Clădirea istorică a teatrului, situată vizavi de castel, este centrul cultural al orașului, oferind spectacole de operă și balet.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grădina Castelului",
+                  "text": "Un parc baroc spectaculos, cu alei largi și canale, oferind cadrul perfect pentru relaxare pe malul lacului Schweriner See.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sf. Nicolae",
+                  "text": "O bijuterie barocă în cartierul istoric Schelfstadt, această biserică servește drept loc de veșnică odihnă pentru familia ducală.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Mare",
+                  "text": "Inima centrului vechi, unde se află primăria și Monumentul Leului, înconjurată de clădiri istorice și cafenele primitoare.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul Schwerin",
+                  "text": "Al patrulea lac ca mărime din Germania definește peisajul urban și oferă numeroase opțiuni pentru plimbări cu barca pe apă.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schwerin Castle",
+                  "text": "Located on an island in Lake Schwerin, this fairy-tale castle is the state parliament and is often called the Neuschwanstein of the North.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schwerin Cathedral",
+                  "text": "A masterpiece of Brick Gothic architecture from the 13th century, the tower offers a stunning panoramic view over the city and lakes.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "State Museum Schwerin",
+                  "text": "This grand building houses a world-renowned collection of 17th and 18th-century Flemish and Dutch paintings at the Alter Garten square.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "State Theatre",
+                  "text": "Situated directly opposite the castle, this historic theatre is the heart of Schwerin's cultural life, hosting opera and ballet.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castle Garden",
+                  "text": "A sprawling Baroque-style park with ornate avenues and canals, providing a picturesque setting right on the shores of Lake Schwerin.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. Nicholas Church",
+                  "text": "A beautiful Baroque brick church in the historic Schelfstadt district, it serves as the burial site for the grand ducal family.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Market Square",
+                  "text": "The historic center of the old town, featuring the city hall and the Lion Monument, surrounded by charming gabled houses and cafes.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lake Schwerin",
+                  "text": "Germany's fourth largest lake shapes the city's character, offering boat tours, water sports, and scenic promenades for visitors.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-potsdam",
@@ -817,6 +3625,208 @@ export const pois: POI[] = [
       fr: ["Le château de Sanssouci fut bâti en seulement deux ans, entre 1745 et 1747.", "L'ensemble des châteaux de Potsdam comprend environ 500 hectares de parcs et 150 bâtiments.", "Le studio de Babelsberg a été fondé en 1912 et est le plus ancien de ce type au monde.", "Potsdam compte environ 185 000 habitants et est la ville la plus peuplée du Brandebourg.", "La conférence de Potsdam réunissant les vainqueurs de 1945 se tint au château de Cecilienhof.", "Le pont de Glienicke relie Potsdam à Berlin et fut le théâtre de trois échanges d'espions."],
     
       "tr": ["Sanssouci Sarayı sadece iki yıl içinde, 1745 ile 1747 arasında inşa edilmiştir.", "Potsdam saraylar manzarası yaklaşık 500 hektarlık park alanı ve 150 binayı kapsar.", "Filmstudio Babelsberg 1912 yılında kurulmuştur ve dünyada türünün en eskisi sayılır.", "Potsdam yaklaşık 185.000 nüfusa sahiptir ve Brandenburg'un en kalabalık şehridir.", "Cecilienhof Sarayı'nda 1945'te galip güçlerin Potsdam Konferansı gerçekleşmiştir.", "Glienicker Brücke, Potsdam'ı Berlin'e bağlar ve üç ajan değişimine sahne olmuştur."]},
+    "sights": {
+      "de": [
+            {
+                  "name": "Schloss Sanssouci",
+                  "text": "Das berühmte Sommerschloss Friedrichs des Großen besticht durch seine Rokoko-Architektur und die terrassierten Weinberge im Park.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Park Sanssouci",
+                  "text": "Die UNESCO-Welterbestätte umfasst zahlreiche Gartenanlagen, Pavillons und beeindruckende Skulpturen aus dem 18. Jahrhundert.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Neues Palais",
+                  "text": "Das monumentale Gästeschloss am Westrand des Parks beeindruckt durch prunkvolle Festsäle und markante Architektur des späten Barocks.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Schloss Cecilienhof",
+                  "text": "Der Ort der Potsdamer Konferenz von 1945 wurde im englischen Landhausstil erbaut und liegt malerisch im Neuen Garten am Jungfernsee.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holländisches Viertel",
+                  "text": "Das Ensemble aus 134 roten Backsteinhäusern wurde im 18. Jahrhundert für niederländische Handwerker errichtet und beherbergt kleine Läden.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brandenburger Tor",
+                  "text": "Das klassizistische Stadttor am Ende der Brandenburger Straße ist älter als das Berliner Pendant und markiert den Eingang zur Altstadt.",
+                  "category": "monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum Barberini",
+                  "text": "In einem rekonstruierten Palais am Alten Markt werden hochkarätige Wechselausstellungen mit Werken des Impressionismus präsentiert.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Glienicker Brücke",
+                  "text": "Bekannt als Agentenbrücke aus dem Kalten Krieg, verbindet das historische Bauwerk die Städte Potsdam und Berlin über die Havel.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sanssouci kastély",
+                  "text": "II. Frigyes porosz király rokokó nyári rezidenciája a híres teraszos szőlőskerttel Potsdam legismertebb műemléke.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sanssouci park",
+                  "text": "Az UNESCO világörökség részét képező hatalmas parkban számos pavilon, szobor és virágoskert található a porosz kertépítészet jegyében.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Új palota",
+                  "text": "A park nyugati szélén álló monumentális épület porosz hatalmat jelképezi díszes termeivel és impozáns vörös téglafalazatával.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cecilienhof kastély",
+                  "text": "Az 1945-ös potsdami konferencia helyszíne, az angol vidéki udvarházak stílusában épült palota a Neuer Garten parkban fekszik.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Holland negyed",
+                  "text": "A 134 vörös téglás házból álló együttes a 18. században épült holland kézműveseknek, ma galériák és éttermek sorakoznak az utcáin.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brandenburgi kapu",
+                  "text": "A város sétálóutcájának végén álló klasszicista kapu korábban épült, mint a berlini névrokona, Potsdam egyik jelképes bejárata.",
+                  "category": "monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Barberini Múzeum",
+                  "text": "Az újjáépített barokk palotában működő galéria nemzetközi szintű kiállításokat és jelentős impresszionista gyűjteményt mutat be.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Glienicke-híd",
+                  "text": "A Havel folyón átívelő híd a hidegháború alatt kémcserék helyszíneként vált világhírűvé Berlin és Potsdam határán.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palatul Sanssouci",
+                  "text": "Reședința de vară a lui Frederic cel Mare, construită în stil rococo pe terase de viță-de-vie, este cel mai celebru simbol al orașului.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Sanssouci",
+                  "text": "Inclus în patrimoniul UNESCO, acest parc vast găzduiește numeroase pavilioane și grădini tematice, fiind o capodoperă peisagistică.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Nou",
+                  "text": "Situat în vestul parcului, acest palat monumental impresionează prin sălile sale fastuoase și arhitectura barocă târzie prusacă.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Palatul Cecilienhof",
+                  "text": "Locul unde a avut loc Conferința de la Potsdam din 1945, clădirea este construită în stilul unei case de țară englezești în Grădina Nouă.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cartierul Olandez",
+                  "text": "Un ansamblu unic de 134 de case din cărămidă roșie, construit în secolul al XVIII-lea pentru artizanii olandezi, plin de cafenele.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Poarta Brandenburg",
+                  "text": "Această poartă clasicistă de la capătul străzii pietonale a fost construită înaintea celei din Berlin, marcând centrul istoric.",
+                  "category": "monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Barberini",
+                  "text": "Găzduit într-un palat baroc reconstruit, muzeul prezintă expoziții de artă de clasă mondială și pictură impresionistă remarcabilă.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Glienicke",
+                  "text": "Cunoscut sub numele de Podul Spionilor, acest pod peste râul Havel a fost locul schimburilor de agenți în timpul Războiului Rece.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sanssouci Palace",
+                  "text": "The summer residence of Frederick the Great, famous for its Rococo architecture and tiered vineyards, is the most iconic landmark in Potsdam.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sanssouci Park",
+                  "text": "A UNESCO World Heritage site, this vast park features numerous pavilions and gardens, representing the pinnacle of Prussian design.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "New Palace",
+                  "text": "Located at the western end of the park, this monumental palace boasts lavish banquet halls and grand late Baroque architecture.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Cecilienhof Palace",
+                  "text": "The site of the 1945 Potsdam Conference, this Tudor-style palace in the New Garden is beautifully situated near the shores of the lake.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dutch Quarter",
+                  "text": "A unique ensemble of 134 red-brick houses built in the 18th century for Dutch artisans, now a vibrant area with boutiques and cafes.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brandenburg Gate",
+                  "text": "This neoclassical gate at the end of the pedestrian zone was completed before its Berlin counterpart and marks the old town entrance.",
+                  "category": "monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Barberini Museum",
+                  "text": "Housed in a reconstructed Baroque palace, this museum features high-profile art exhibitions and Impressionist masterpieces.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Glienicke Bridge",
+                  "text": "Famous as the Bridge of Spies during the Cold War, this structure over the Havel River connected West Berlin and East Germany.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-magdeburg",
@@ -854,6 +3864,256 @@ export const pois: POI[] = [
       fr: ["Magdebourg fut mentionnée pour la première fois en 805 dans le capitulaire de Thionville.", "La cathédrale de Magdebourg possède deux tours atteignant 104 mètres de haut.", "La ville était au Moyen Âge l'une des plus grandes métropoles du Saint-Empire.", "La Citadelle verte de Hundertwasser ne fut achevée qu'en 2005.", "Le carrefour fluvial de Magdebourg dispose du plus long pont-canal du monde.", "La ville compte environ 239 000 habitants et constitue un site majeur de construction mécanique."],
     
       "tr": ["Magdeburg'un adı ilk kez 805 yılında Diedenhofener Kapitular belgesinde geçmiştir.", "Magdeburg Domu, 104 metre yüksekliğe ulaşan iki kuleye sahiptir.", "Şehir, Orta Çağ'da Kutsal Roma İmparatorluğu'nun en büyük metropollerinden biriydi.", "Hundertwasser'in Yeşil Zitadel'i ancak 2005 yılında tamamlanmıştır.", "Magdeburg Su Yolları Kavşağı, dünyanın en uzun kanal köprüsüne sahiptir.", "Şehir yaklaşık 239.000 nüfusa sahiptir ve makine mühendisliği için önemli bir merkezdir."]},
+    "sights": {
+      "de": [
+            {
+                  "name": "Magdeburger Dom",
+                  "text": "Die erste gotische Kathedrale auf deutschem Boden und Grabstätte Kaiser Ottos des Großen. Ein Wahrzeichen an der Elbe aus dem 14. Jahrhundert.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Grüne Zitadelle",
+                  "text": "Ein spätes Meisterwerk von Friedensreich Hundertwasser aus dem Jahr 2005. Die rosa Fassaden beherbergen Wohnungen, Cafés und kleine Läden.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kloster Unser Lieben Frauen",
+                  "text": "Ein bedeutendes romanisches Klosterensemble aus dem 11. Jahrhundert. Heute beherbergt es das städtische Kunstmuseum für Skulpturen.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Johanniskirche",
+                  "text": "Die älteste Pfarrkirche der Stadt, in der Martin Luther 1524 predigte. Der Turm bietet einen weiten Blick über das Magdeburger Stadtzentrum.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Altes Rathaus",
+                  "text": "Ein barocker Bau am Alten Markt mit dem Magdeburger Reiter. Das Denkmal zeigt Kaiser Otto I. und ist eine Kopie des Originals von 1240.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Jahrtausendturm",
+                  "text": "Ein 60 Meter hoher Holzturm im Elbauenpark. Er beherbergt eine interaktive Ausstellung zu 6000 Jahren Wissenschafts- und Technikgeschichte.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Wasserstraßenkreuz",
+                  "text": "Mit 918 Metern die längste Trogbrücke Europas. Hier überquert der Mittellandkanal die Elbe in einem beeindruckenden technischen Bauwerk.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elbauenpark",
+                  "text": "Ein weitläufiges Freizeitgelände auf dem Gelände der Bundesgartenschau 1999. Er bietet Themengärten, ein Schmetterlingshaus und Seilbahnen.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kulturhistorisches Museum",
+                  "text": "Das Museum zeigt bedeutende Exponate zum Heiligen Römischen Reich und zum Magdeburger Recht, das weite Teile Osteuropas prägte.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lukasklause",
+                  "text": "Ein spätgotischer Turm der Stadtbefestigung. Er beherbergt heute das Otto-von-Guericke-Museum über die berühmten Vakuumexperimente.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Magdeburgi dóm",
+                  "text": "Németország első gótikus katedrálisa és I. Ottó császár sírhelye. Az Elba-parti város 1363-ban befejezett monumentális fő jelképe.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zöld Citadella",
+                  "text": "Friedensreich Hundertwasser kései remekműve 2005-ből. A rózsaszín falú épületkomplexum lakásokat, kávézókat és üzleteket foglal magában.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Miasszonyunk-kolostor",
+                  "text": "A 11. századból származó jelentős román stílusú kolostoregyüttes. Ma a városi képzőművészeti múzeumnak és szoborkiállításnak ad otthont.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent János-templom",
+                  "text": "A város legrégebbi plébániatemploma, ahol 1524-ben Luther Márton prédikált. Tornyából panorámás kilátás nyílik Magdeburg központjára.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi városháza",
+                  "text": "Barokk stílusú épület a főtéren, előtte a híres magdeburgi lovas szobrával, amely az 1240-es eredeti alkotás hiteles másolata.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Évezred-torony",
+                  "text": "60 méter magas fából készült torony az Elbauenparkban. Interaktív kiállítása az emberiség 6000 éves technikai fejlődését mutatja be.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Csatornahíd",
+                  "text": "Európa leghosszabb vízi hídja, ahol a Mittelland-csatorna az Elba felett halad át. A 918 méteres műtárgy modern mérnöki bravúr.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elbauenpark",
+                  "text": "Az 1999-es kertészeti világkiállítás helyszíne. Tematikus kertekkel, pillangóházzal és libegővel várja a látogatókat az Elba mentén.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kultúrtörténeti Múzeum",
+                  "text": "A múzeum a Német-római Birodalom és a középkori magdeburgi jog történetét mutatja be, amely egész Kelet-Európára hatással volt.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lukasklause",
+                  "text": "Késő gótikus erődtorony, amely ma az Otto von Guericke fizikus vákuumkísérleteit bemutató múzeumnak ad otthont a városban.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Magdeburg",
+                  "text": "Prima catedrală gotică de pe pământ german și locul de odihnă al împăratului Otto cel Mare. Un simbol al orașului finalizat în 1363.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Citadela Verde",
+                  "text": "O capodoperă târzie a lui Friedensreich Hundertwasser din 2005. Fațadele roz adăpostesc apartamente, cafenele și magazine mici.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mănăstirea Doamnei Noastre",
+                  "text": "Un ansamblu monahal romanic important din secolul al XI-lea. Astăzi găzduiește muzeul municipal de artă și o colecție de sculpturi.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Biserica Sfântul Ioan",
+                  "text": "Cea mai veche biserică parohială unde Martin Luther a predicat în 1524. Turnul oferă o vedere panoramică asupra centrului orașului.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria Veche",
+                  "text": "O clădire barocă în piața centrală, faimoasă pentru Cavalerul din Magdeburg, o copie a monumentului original din anul 1240.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Turnul Mileniului",
+                  "text": "Un turn din lemn înalt de 60 de metri în Elbauenpark. Găzduiește o expoziție despre 6000 de ani de istorie a științei și tehnicii.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Canal Magdeburg",
+                  "text": "Cel mai lung pod navigabil din Europa, cu 918 metri. Canalul Mittelland traversează fluviul Elba printr-o structură tehnică uimitoare.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elbauenpark",
+                  "text": "Un parc vast creat pentru expoziția horticolă din 1999. Include grădini tematice, o casă a fluturilor și un tobogan de vară.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul de Istorie Culturală",
+                  "text": "Muzeul prezintă exponate despre Sfântul Imperiu Roman și codul juridic Magdeburg, care a influențat întreaga Europă de Est.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lukasklause",
+                  "text": "Un turn fortificat gotic târziu. Astăzi găzduiește muzeul Otto von Guericke, dedicat faimoaselor sale experimente cu vid.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Magdeburg Cathedral",
+                  "text": "The first Gothic cathedral on German soil and burial site of Emperor Otto I. This landmark at the Elbe was consecrated in 1363.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Green Citadel",
+                  "text": "Completed in 2005, this 'oasis for humanity' is a pink architectural masterpiece designed by Friedensreich Hundertwasser.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Monastery of Our Lady",
+                  "text": "A 11th-century Romanesque monastery complex. Today it houses the city's art museum and a sculpture collection in the cloister.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "St. John's Church",
+                  "text": "The oldest parish church where Martin Luther preached in 1524. It features a viewing platform with panoramic views over the city.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Town Hall",
+                  "text": "A Baroque town hall standing on the market square. It is famous for the Magdeburg Horseman, a copy of the 13th-century original.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Millennium Tower",
+                  "text": "A 60-meter high wooden tower in Elbauenpark. It hosts a museum dedicated to 6,000 years of human science and technology.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Magdeburg Water Bridge",
+                  "text": "A massive water bridge where the Elbe-Havel Canal crosses the Elbe. At 918 meters, it is a masterpiece of modern engineering.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Elbauenpark",
+                  "text": "A modern leisure park created for the 1999 Garden Show. It features themed gardens, a butterfly house, and a summer toboggan run.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Museum of Cultural History",
+                  "text": "Located near the cathedral, it showcases the history of the Holy Roman Empire and the medieval 'Magdeburg Rights' legal code.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lukasklause",
+                  "text": "A former fortification tower housing a museum about physicist Otto von Guericke and his famous vacuum experiments in Magdeburg.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-erfurt",
@@ -891,6 +4151,256 @@ export const pois: POI[] = [
       fr: ["Le Krämerbrücke mesure 120 mètres de long et compte 32 maisons à colombages.", "Erfurt a été mentionnée pour la première fois par écrit en l'an 742 par saint Boniface.", "La Gloriosa dans la cathédrale d'Erfurt est la plus grande cloche médiévale à volée libre au monde.", "Martin Luther a vécu comme moine au couvent des Augustins d'Erfurt de 1505 à 1511.", "L'Ancienne synagogue date du XIe siècle et est l'une des plus anciennes d'Europe.", "La ville compte environ 214 000 habitants et se situe presque exactement au centre géographique de l'Allemagne."],
     
       "tr": ["Krämerbrücke 120 metre uzunluğundadır ve üzerinde 32 yarı ahşap (Fachwerk) ev bulunmaktadır.", "Erfurt'un adı ilk kez 742 yılında Aziz Bonifatius tarafından yazılı olarak zikredilmiştir.", "Erfurter Dom'daki Gloriosa, dünyanın en büyük serbest sallanan ortaçağ çanıdır.", "Martin Luther, 1505'ten 1511'e kadar Erfurt'taki Augustinerkloster'de keşiş olarak yaşamıştır.", "Alte Synagoge 11. yüzyıldan kalmadır ve Avrupa'nın en eski sinagoglarından biridir.", "Şehrin yaklaşık 214.000 nüfusu vardır ve neredeyse tam olarak Almanya'nın coğrafi merkezinde yer alır."]},
+    "sights": {
+      "de": [
+            {
+                  "name": "Erfurter Dom",
+                  "text": "Die Kathedrale St. Marien bildet mit der Severikirche ein einzigartiges Ensemble. Sie beherbergt die Gloriosa, die größte mittelalterliche Glocke.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Krämerbrücke",
+                  "text": "Die längste mit Häusern bebaute und bewohnte Brücke Europas aus dem Jahr 1325. Sie ist das Wahrzeichen der Erfurter Altstadt.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zitadelle Petersberg",
+                  "text": "Eine der größten und besterhaltenen barocken Stadtfestungen Europas. Sie bietet Minengänge und einen Panoramablick über die Stadt.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Alte Synagoge",
+                  "text": "Die älteste erhaltene Synagoge Mittelneuropas, erbaut um 1100. Hier wird der 1998 gefundene mittelalterliche Erfurter Schatz ausgestellt.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Augustinerkloster",
+                  "text": "Das Kloster, in dem Martin Luther von 1505 bis 1511 als Mönch lebte. Heute ist es eine bedeutende Gedenkstätte der Reformation.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fischmarkt",
+                  "text": "Zentraler Platz der Altstadt, umgeben von prächtigen Renaissancebauten wie dem Haus zum Breiten Herd und dem Rathaus.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Angermuseum",
+                  "text": "Das Museum für Kunst und Kulturgeschichte in einem barocken Packhof. Es zeigt sakrale Kunst und Thüringer Porzellan.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "egapark Erfurt",
+                  "text": "Einer der größten Gartenparks Deutschlands mit dem größten ornamental bepflanzten Blumenbeet Europas und dem Gartenbaumuseum.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rathaus Erfurt",
+                  "text": "Ein neugotischer Bau am Fischmarkt. Die Wandgemälde im Inneren zeigen Szenen aus der Stadtgeschichte und der Lutherzeit.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kaisersaal",
+                  "text": "Ein historisches Veranstaltungszentrum, in dem 1808 der Erfurter Fürstenkongress mit Napoleon und Alexander I. stattfand.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Erfurti dóm",
+                  "text": "A Szent Mária-katedrális és a Severi-templom kettőse a város jelképe. Itt található a Gloriosa, a világ legnagyobb középkori harangja.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kereskedők hídja",
+                  "text": "Európa leghosszabb, lakóházakkal beépített kőhídja 1325-ből. A 32 házban ma kézműves boltok és galériák működnek az óvárosban.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Petersberg citadella",
+                  "text": "Európa egyik legnagyobb és legjobb állapotban fennmaradt barokk városi erődje. Föld alatti járatairól és kilátásáról híres.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Régi zsinagóga",
+                  "text": "Közép-Európa legrégebbi fennmaradt zsinagógája 1100 körülről. Itt látható az 1998-ban előkerült egyedülálló erfurti kincs.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Ágoston-rendi kolostor",
+                  "text": "A kolostor, ahol Luther Márton 1505 és 1511 között szerzetesként élt. Ma a reformáció egyik legfontosabb emlékhelye Németországban.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Halpiac",
+                  "text": "Az óváros központi tere, amelyet olyan díszes reneszánsz épületek vesznek körül, mint a Haus zum Breiten Herd és a városháza.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Angermuseum",
+                  "text": "Művészeti és kultúrtörténeti múzeum egy barokk palotában. Középkori egyházi művészetet és türingiai porcelánokat mutat be.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "egapark Erfurt",
+                  "text": "Németország egyik legnagyobb kertépítészeti parkja, itt található Európa legnagyobb díszbeültetésű virágágyása.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Erfurti városháza",
+                  "text": "Neogótikus épület a Fischmarkton. Belső falfestményei a város történetét és Luther Márton életét elevenítik fel.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Császárterem",
+                  "text": "Történelmi rendezvényközpont, ahol 1808-ban Napóleon és I. Sándor cár találkozott a híres erfurti fejedelmi kongresszuson.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala din Erfurt",
+                  "text": "Catedrala Sfânta Maria formează împreună cu biserica Severi un ansamblu unic. Adăpostește Gloriosa, cel mai mare clopot medieval din lume.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Podul Negustorilor",
+                  "text": "Cel mai lung pod locuit cu case din Europa, construit în 1325. Este simbolul centrului vechi, având 32 de case pe structura sa.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Citadela Petersberg",
+                  "text": "Una dintre cele mai mari și mai bine conservate fortărețe baroce din Europa. Oferă tuneluri de vizitat și panorame asupra orașului.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vechea Sinagogă",
+                  "text": "Cea mai veche sinagogă conservată din Europa Centrală, construită în jurul anului 1100. Expune faimosul tezaur medieval din Erfurt.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Mănăstirea Augustiniană",
+                  "text": "Mănăstirea unde Martin Luther a trăit ca călugăr între 1505 și 1511. Astăzi este un loc important de pelerinaj al Reformei.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Piața Peștelui",
+                  "text": "Piața centrală a orașului vechi, înconjurată de clădiri renascentiste magnifice, precum Casa la Vatra Largă și Primăria.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Anger",
+                  "text": "Muzeul de artă și istorie culturală într-un palat baroc. Expoziția cuprinde artă sacră medievală și porțelan de Turingia.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "egapark Erfurt",
+                  "text": "Unul dintre cele mai mari parcuri horticole din Germania, cu cel mai mare strat de flori ornamental din Europa.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Primăria din Erfurt",
+                  "text": "O clădire neogotică situată în Fischmarkt. Picturile murale interioare ilustrează istoria orașului și legendele locale.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Sala Împăraților",
+                  "text": "Centru cultural istoric unde în 1808 a avut loc Congresul de la Erfurt, cu participarea lui Napoleon și a țarului Alexandru I.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Erfurt Cathedral",
+                  "text": "The Cathedral Hill with St. Mary's and St. Severus. It houses the Gloriosa, the world's largest free-swinging medieval bell.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Merchants' Bridge",
+                  "text": "A stone bridge from 1325 lined with 32 inhabited houses. It is the longest bridge of its kind in Europe, located in the old town.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Petersberg Citadel",
+                  "text": "One of Europe's largest and best-preserved Baroque town fortresses. It offers tunnels to explore and views over the city roofs.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Old Synagogue",
+                  "text": "Built around 1100, it is the oldest preserved synagogue in Central Europe. It displays the unique Erfurt Treasure found in 1998.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Augustinian Monastery",
+                  "text": "The Augustinian Monastery where Martin Luther lived as a monk from 1505 to 1511. It serves as an important site of the Reformation.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fischmarkt",
+                  "text": "The central square of the old town, surrounded by magnificent Renaissance buildings like the Haus zum Breiten Herd.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Angermuseum",
+                  "text": "Housed in a Baroque palace, this museum features collections of medieval art, Thuringian porcelain, and modern graphics.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "egapark Erfurt",
+                  "text": "A 36-hectare garden park featuring Europe's largest ornamental flowerbed and the German Horticultural Museum.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Erfurt Town Hall",
+                  "text": "A Neo-Gothic town hall built in 1870. Its interior features impressive murals depicting the history and legends of Thuringia.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Kaisersaal",
+                  "text": "A historic ballroom where Napoleon met Tsar Alexander I in 1808. It remains a key cultural venue for events and congresses.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-dresden",
@@ -927,6 +4437,256 @@ export const pois: POI[] = [
       fr: ["La Frauenkirche a été reconstruite à partir de plus de 8 400 pierres d'origine.", "Le Zwinger de Dresde a été construit entre 1710 et 1728 comme orangerie et place de fête.", "Dresde compte environ 555 000 habitants et est la deuxième plus grande ville de Saxe.", "La Voûte verte est considérée comme le trésor le plus riche d'Europe.", "Le Cortège des Princes est la plus grande fresque en porcelaine au monde, composée de 23 000 carreaux de Meissen.", "Dresde est le siège de l'Université technique de Dresde, l'une des universités d'excellence d'Allemagne."],
     
       "tr": ["Frauenkirche, 8.400'den fazla orijinal taş kullanılarak yeniden inşa edilmiştir.", "Dresdner Zwinger, 1710 ile 1728 yılları arasında bir portakal bahçesi ve festival alanı olarak inşa edilmiştir.", "Dresden yaklaşık 555.000 nüfusa sahiptir ve Sachsen'in ikinci büyük şehridir.", "Grünes Gewölbe, Avrupa'nın en zengin hazine dairesi olarak kabul edilir.", "Fürstenzug, dünyanın en büyük porselen duvar resmidir ve 23.000 Meissen karosundan oluşur.", "Dresden, Almanya'nın mükemmeliyet üniversitelerinden biri olan Technische Universität Dresden'in merkezidir."]},
+    "sights": {
+      "de": [
+            {
+                  "name": "Frauenkirche",
+                  "text": "Die prachtvolle barocke Frauenkirche am Neumarkt ist das weltberühmte Wahrzeichen Dresdens und ein Mahnmal für den Frieden.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zwinger",
+                  "text": "Der Zwinger ist ein Meisterwerk des Barock und beherbergt bedeutende Museen wie die Gemäldegalerie Alte Meister und die Porzellansammlung.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Semperoper",
+                  "text": "Das prächtige Opernhaus am Theaterplatz zählt zu den schönsten der Welt und ist die Spielstätte der Sächsischen Staatskapelle.",
+                  "category": "theatres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Residenzschloss",
+                  "text": "Das ehemalige Schloss der sächsischen Kurfürsten und Könige beherbergt heute das berühmte Grüne Gewölbe und die Rüstkammer.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fürstenzug",
+                  "text": "Das 102 Meter lange Wandbild aus Meissener Porzellanfliesen zeigt die Ahnenreihe des Hauses Wettin als Reiterzug.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brühlsche Terrasse",
+                  "text": "Die Terrasse über der Elbe wird auch Balkon Europas genannt und bietet einen fantastischen Ausblick auf das Flussufer.",
+                  "category": "promenades",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Katholische Hofkirche",
+                  "text": "Die spätbarocke Kathedrale Sanctissimae Trinitatis ist durch eine Brücke direkt mit dem Residenzschloss verbunden.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Großer Garten",
+                  "text": "Der größte Park der Stadt lädt mit dem barocken Sommerpalais und der Parkeisenbahn zu ausgiebigen Spaziergängen ein.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blaues Wunder",
+                  "text": "Die Loschwitzer Brücke ist ein technisches Denkmal und erhielt ihren Namen aufgrund des auffälligen hellblauen Anstrichs.",
+                  "category": "bridges",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Goldener Reiter",
+                  "text": "Das imposante Reiterstandbild auf dem Neustädter Markt zeigt Kurfürst Friedrich August I. in römischer Rüstung.",
+                  "category": "monuments",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Frauenkirche",
+                  "text": "A Neumarkton álló pompás barokk Frauenkirche Drezda világhírű jelképe és a béke nemzetközi mementója.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zwinger",
+                  "text": "A Zwinger a barokk építészet remekműve, amely olyan jelentős múzeumoknak ad otthont, mint a Régi Mesterek Képtára.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Semperoper",
+                  "text": "A Theaterplatzon található díszes operaház a világ egyik legszebbje, a Szász Állami Zenekar otthona.",
+                  "category": "theatres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Drezdai királyi palota",
+                  "text": "A szász választófejedelmek egykori rezidenciája ma a híres Grünes Gewölbe kincstárnak és a fegyvertárnak ad otthont.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fürstenzug (Fejedelmi menet)",
+                  "text": "A 102 méter hosszú, meisseni porceláncsempékből készült falfestmény a Wettin-ház uralkodóit ábrázolja lovas menetben.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brühl-terasz",
+                  "text": "Az Elba feletti teraszt Európa erkélyének is nevezik, ahonnan fantasztikus kilátás nyílik a folyópartra.",
+                  "category": "promenades",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szentháromság-székesegyház",
+                  "text": "A késő barokk katolikus udvari templom egy hídon keresztül közvetlen összeköttetésben áll a királyi palotával.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Großer Garten",
+                  "text": "A város legnagyobb parkja a barokk nyári palotával és a parkvasúttal várja a kikapcsolódni vágyó sétálókat.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blaues Wunder (Kék csoda)",
+                  "text": "A Loschwitzi híd egy technikai műemlék, amely nevét jellegzetes, világoskék színű festéséről kapta.",
+                  "category": "bridges",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Arany Lovas",
+                  "text": "A Neustädter Markton álló impozáns lovasszobor I. Frigyes Ágost választófejedelmet ábrázolja római páncélban.",
+                  "category": "monuments",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Frauenkirche",
+                  "text": "Superba biserică barocă Frauenkirche din Neumarkt este simbolul mondial al Dresdei și un monument al păcii.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zwinger",
+                  "text": "Zwinger este o capodoperă a barocului și găzduiește muzee importante, precum Galeria de pictură a Vechilor Maeștri.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Semperoper",
+                  "text": "Splendida operă din Theaterplatz este una dintre cele mai frumoase din lume și sediul Orchestrei de Stat Saxone.",
+                  "category": "theatres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Castelul Rezidențial",
+                  "text": "Fosta reședință a electorilor și regilor saxoni adăpostește astăzi faimoasa boltă verde Grünes Gewölbe.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Fürstenzug",
+                  "text": "Mozaicul de 102 metri lungime, realizat din plăci de porțelan de Meissen, înfățișează procesiunea Casei de Wettin.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Terasa lui Brühl",
+                  "text": "Terasa de deasupra Elbei este supranumită balconul Europei și oferă o vedere panoramică superbă asupra râului.",
+                  "category": "promenades",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Catedrala Sfânta Treime",
+                  "text": "Catedrala barocă târzie Sanctissimae Trinitatis este legată direct de Castelul Rezidențial printr-un pod de piatră.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Großer Garten",
+                  "text": "Cel mai mare parc al orașului invită la plimbări lungi, având un palat baroc de vară și o cale ferată de grădină.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Minunea Albastră",
+                  "text": "Podul din Loschwitz este un monument tehnic și și-a primit numele datorită vopselei sale albastru deschis.",
+                  "category": "bridges",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Călărețul de Aur",
+                  "text": "Impozanta statuie ecvestră din Neustädter Markt îl reprezintă pe electorul Frederic August I în armură romană.",
+                  "category": "monuments",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Frauenkirche",
+                  "text": "The magnificent Baroque Frauenkirche in Neumarkt is Dresden's world-famous landmark and a monument to peace.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zwinger",
+                  "text": "The Zwinger is a Baroque masterpiece housing significant museums such as the Old Masters Picture Gallery.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Semperoper",
+                  "text": "The splendid opera house in Theaterplatz is one of the world's finest and the venue for the Saxon State Orchestra.",
+                  "category": "theatres",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Royal Palace",
+                  "text": "The former residence of Saxon electors and kings now houses the famous Green Vault treasury and the Armory.",
+                  "category": "castles",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Procession of Princes",
+                  "text": "This 102-meter-long mural made of Meissen porcelain tiles depicts the ancestral line of the House of Wettin.",
+                  "category": "monuments",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Brühl's Terrace",
+                  "text": "Often called the Balcony of Europe, this terrace overlooking the Elbe offers a fantastic view of the riverfront.",
+                  "category": "promenades",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dresden Cathedral",
+                  "text": "The late Baroque Cathedral of the Holy Trinity is connected directly to the Royal Palace by a stone bridge.",
+                  "category": "churches",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Großer Garten",
+                  "text": "The city's largest park features a Baroque summer palace and a park railway, perfect for extensive walks.",
+                  "category": "parks",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Blue Wonder Bridge",
+                  "text": "The Loschwitz Bridge is a technical monument named for its distinctive light blue paint color.",
+                  "category": "bridges",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Golden Rider",
+                  "text": "This imposing equestrian statue in Neustädter Markt depicts Elector Frederick Augustus I in Roman armor.",
+                  "category": "monuments",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "city-koeln",

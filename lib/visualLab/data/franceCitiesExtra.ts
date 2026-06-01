@@ -16050,6 +16050,208 @@ const citySeeds: CitySeed[] = [
       fr: ["La ville abrite depuis 1991 Nausicaá, le Centre National de la Mer.", "La crypte de la basilique Notre-Dame, longue de 128 mètres, est l'une des plus grandes de France.", "Le port de Boulogne traite chaque année plus de 300 000 tonnes de produits de la mer.", "Les remparts médiévaux furent édifiés entre 1227 et 1231 par Philippe Hurepel.", "Le beffroi de la ville est inscrit au patrimoine mondial de l'UNESCO depuis 2005.", "Le dôme de la basilique Notre-Dame culmine à une hauteur de 101 mètres."],
     },
     image: "/poi-images/boulogne-sur-mer.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Nausicaá",
+                  "text": "Das größte Aquarium Europas bietet Einblicke in die Unterwasserwelt mit Haien und Rochen.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilique Notre-Dame",
+                  "text": "Die imposante Basilika aus dem 19. Jahrhundert besitzt eine der größten Krypten Frankreichs.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château-Musée",
+                  "text": "Diese mittelalterliche Burg beherbergt heute Sammlungen zur Archäologie und bildenden Kunst.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beffroi de Boulogne",
+                  "text": "Der zum UNESCO-Welterbe gehörende Glockenturm stammt ursprünglich aus dem 12. Jahrhundert.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Die Stadtmauer",
+                  "text": "Die gut erhaltenen Befestigungsanlagen aus dem 13. Jahrhundert umschließen die gesamte Oberstadt.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Colonne de la Grande Armée",
+                  "text": "Die 50 Meter hohe Säule erinnert an das Lager von Napoleon und bietet weite Ausblicke.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Das Rathaus von 1734 besticht durch seine elegante Fassade aus Ziegeln und hellem Stein.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa San Martín",
+                  "text": "Das Haus, in dem der argentinische Befreier José de San Martín seine letzten Jahre verbrachte.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nausicaá",
+                  "text": "Európa legnagyobb akváriuma hatalmas medencékkel mutatja be a nyílt óceán élővilágát.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Notre-Dame bazilika",
+                  "text": "A 19. századi monumentális épület kupolája és hatalmas kriptája a város jelképe.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Vármúzeum",
+                  "text": "A 13. századi kastélyban berendezett múzeum régészeti és néprajzi gyűjteményeket őriz.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Boulogne-i harangtorony",
+                  "text": "Az UNESCO világörökség részét képező 12. századi torony a városháza mellett magasodik.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városfalak",
+                  "text": "A felsővárost körülvevő középkori védművek sétaútvonalként szolgálnak a látogatóknak.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Colonne de la Grande Armée",
+                  "text": "Napóleon dicsőségére emelt 50 méter magas oszlop, tetején a császár szobrával.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városháza",
+                  "text": "Az 1734-ben épült klasszikus stílusú épület tégla és kő homlokzata meghatározza a főteret.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "San Martín-ház",
+                  "text": "Ebben a házban élt száműzetésben José de San Martín, Argentína nemzeti hőse.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nausicaá",
+                  "text": "Cel mai mare acvariu din Europa oferă o incursiune fascinantă în lumea subacvatică.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilique Notre-Dame",
+                  "text": "O bazilică impunătoare din secolul al XIX-lea, renumită pentru cupola sa și cripta vastă.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château-Musée",
+                  "text": "Un castel medieval care găzduiește colecții diverse de artă și obiecte arheologice.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Beffroi de Boulogne",
+                  "text": "Turnul cu clopot din secolul al XII-lea este inclus în patrimoniul mondial UNESCO.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Zidurile cetății",
+                  "text": "Fortificațiile bine conservate din secolul al XIII-lea oferă o vedere panoramică asupra orașului.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Colonne de la Grande Armée",
+                  "text": "O coloană de 50 de metri înălțime dedicată lui Napoleon, situată într-un parc vast.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Primăria construită în 1734 este un exemplu elegant de arhitectură civilă clasică.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa San Martín",
+                  "text": "Locuința istorică unde generalul argentinian José de San Martín și-a petrecut ultimii ani.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nausicaá",
+                  "text": "Europe's largest aquarium featuring massive tanks with sharks and oceanic marine life.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica of Notre-Dame",
+                  "text": "A 19th-century landmark known for its massive dome and extensive Romanesque crypt.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Château-Musée",
+                  "text": "A 13th-century castle housing the municipal museum with fine arts and ethnography.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Belfry of Boulogne",
+                  "text": "A UNESCO World Heritage site, this 12th-century tower stands next to the town hall.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Ramparts",
+                  "text": "Medieval walls from the 13th century that offer a scenic walkway around the old town.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Column of the Grande Armée",
+                  "text": "A 50-meter monument dedicated to Napoleon, located in a park outside the city center.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Town Hall",
+                  "text": "Built in 1734, this elegant building features a classic brick and limestone facade.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Casa San Martín",
+                  "text": "The house where the Argentine liberator José de San Martín lived until his death in 1850.",
+                  "category": "museums",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "valenciennes", population: 44509,
@@ -16084,6 +16286,208 @@ const citySeeds: CitySeed[] = [
       fr: ["Le célèbre peintre Antoine Watteau est né à Valenciennes en 1684.", "L'actuel hôtel de ville date originellement du XIXe siècle et fut restauré après 1945.", "Le musée des Beaux-Arts a été fondé dès 1801.", "Valenciennes fut un point stratégique lors du siège de 1793.", "La ville accueille des sites de production des constructeurs Stellantis et Toyota.", "Le réseau de tramway moderne a été officiellement inauguré le 3 juillet 2006."],
     },
     image: "/poi-images/valenciennes.webp",
+    "sights": {
+      "de": [
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Eines der bedeutendsten Kunstmuseen der Region mit Werken von Rubens und Watteau.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place d'Armes",
+                  "text": "Der zentrale Platz der Stadt, auf dem sich das Rathaus und moderne Skulpturen befinden.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Das prachtvolle Rathaus wurde nach dem Krieg im historischen Stil des 17. Jahrhunderts wiederaufgebaut.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison Espagnole",
+                  "text": "Ein seltenes Fachwerkhaus aus dem 16. Jahrhundert, das die spanische Zeit der Stadt bezeugt.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Géry",
+                  "text": "Eine gotische Kirche aus dem 13. Jahrhundert, die zu den ältesten Bauwerken gehört.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc de la Rhonelle",
+                  "text": "Ein landschaftlich gestalteter Park im englischen Stil mit Teichen und zahlreichen Statuen.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de la Dodenne",
+                  "text": "Ein Überrest der mittelalterlichen Stadtbefestigung aus dem 14. Jahrhundert am Flussufer.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilique Notre-Dame du Saint-Cordon",
+                  "text": "Eine neugotische Basilika, die Ziel einer jährlichen Wallfahrt ist.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szépművészeti Múzeum",
+                  "text": "A régió egyik legfontosabb múzeuma Rubens és Watteau remekműveivel.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place d'Armes",
+                  "text": "A város központi tere, ahol a városháza és Carpeaux szökőkútja található.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Városháza",
+                  "text": "A háború után újjáépített monumentális épület az eredeti 17. századi stílust követi.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spanyol ház",
+                  "text": "Különleges 16. századi fagerendás épület, amely a spanyol uralom idejéből maradt fenn.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Gery-templom",
+                  "text": "A 13. században alapított gótikus templom a város egyik legrégebbi műemléke.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Rhonelle park",
+                  "text": "Angol stílusú tájképi kert szobrokkal és egy hangulatos központi tóval.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dodenne-torony",
+                  "text": "A 14. századi védmű az egykori városfalak egyik utolsó épségben maradt darabja.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Szent Cordon-bazilika",
+                  "text": "A 19. századi neogótikus kegyhely egy híres helyi vallási körmenet központja.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Muzeul de arte frumoase găzduiește lucrări valoroase de Rubens și pictori locali.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place d'Armes",
+                  "text": "Piața centrală a orașului, dominată de clădirea primăriei și fântâni moderne.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Primăria a fost reconstruită după război, păstrând stilul grandios al secolului XVII.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Maison Espagnole",
+                  "text": "O casă rară din bârne de lemn din secolul XVI, vestigiu al ocupației spaniole.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Église Saint-Géry",
+                  "text": "Biserică gotică din secolul al XIII-lea, martor al istoriei medievale a orașului.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc de la Rhonelle",
+                  "text": "Un parc peisagistic în stil englezesc, ideal pentru plimbări printre statui și iazuri.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Tour de la Dodenne",
+                  "text": "Turn defensiv din secolul al XIV-lea, parte a fostelor fortificații ale orașului.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilique Notre-Dame du Saint-Cordon",
+                  "text": "O basilică neogotică importantă, centru al unui pelerinaj anual tradițional.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Fine Arts",
+                  "text": "A major art museum housing significant works by Rubens, Watteau, and Carpeaux.",
+                  "category": "museums",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Place d'Armes",
+                  "text": "The city's main square, featuring the town hall and contemporary fountain sculptures.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Town Hall",
+                  "text": "Rebuilt after WWII, this grand building follows the 17th-century architectural style.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Spanish House",
+                  "text": "A unique 16th-century half-timbered house that survived from the Spanish period.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Saint-Géry Church",
+                  "text": "A Gothic church dating back to the 13th century, one of the oldest in the city.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parc de la Rhonelle",
+                  "text": "An English-style landscape park with sculptures, water features, and rare trees.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Dodenne Tower",
+                  "text": "A 14th-century defensive tower located by the river, a remnant of the city walls.",
+                  "category": "castles/fortresses/towers",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Basilica of Our Lady of Saint-Cordon",
+                  "text": "A neo-Gothic pilgrimage site dedicated to the city's protector since the Middle Ages.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high"
+            }
+      ]
+}
   },
   {
     id: "lens",

@@ -370,7 +370,233 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
       fr: ["Fondée en 1967 en tant que ville nouvelle planifiée.", "Accueille l'équipe Red Bull Racing (Formule 1).", "Plus de 10 000 entreprises y ont leur siège.", "Atteint régulièrement les sommets de la croissance économique au Royaume-Uni."],
     },
     image: "/poi-images/uk-milton-keynes-economic-v2.webp",
-},  {
+    "sights": {
+      "de": [
+            {
+                  "name": "Bletchley Park",
+                  "text": "Ehemalige Zentrale der britischen Codeknacker im Zweiten Weltkrieg; heute ein Museum mit der berühmten Enigma-Maschine und frühen Computern.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Friedenspagode",
+                  "text": "Dieses 1980 am Willen Lake errichtete buddhistische Denkmal bietet einen Ort der Stille und einen weiten Blick über die umliegenden Wasserflächen.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Willen Lake",
+                  "text": "Ein weitläufiger Park mit einem großen See für Wassersport, einem Rundweg für Wanderer und großzügigen Grünflächen zur aktiven Erholung.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Centre:mk",
+                  "text": "Ein denkmalgeschütztes Einkaufszentrum im modernistischen Stil der 1970er Jahre, bekannt für seine Glaswände und die integrierten Innenhöfe.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Milton Keynes Museum",
+                  "text": "In einem viktorianischen Bauernhof untergebracht, zeigt es die Regionalgeschichte von der Römerzeit bis zur Entstehung der modernen Planstadt.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Xscape",
+                  "text": "Ein markantes, 44 Meter hohes Gebäude, das eine Indoor-Skihalle mit echtem Schnee, ein Kino und verschiedene Kletterwände beherbergt.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Campbell Park",
+                  "text": "Der zentrale Stadtpark mit modernen Kunstinstallationen, einem Kricketfeld und einem Aussichtspunkt über die Hügel von Bedfordshire.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stony Stratford",
+                  "text": "Ein historisches Marktstädtchen innerhalb von Milton Keynes, berühmt für seine alten Gasthäuser und die bis ins 12. Jahrhundert reichende Geschichte.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Stables",
+                  "text": "Ein renommiertes Musikzentrum, gegründet von Cleo Laine, das hochkarätige Jazz-, Folk- und Klassikkonzerte in intimem Rahmen präsentiert.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bletchley Park",
+                  "text": "A második világháborús kódfejtők egykori titkos központja, ma múzeum, ahol az Enigma-gépet és a korai számítógépeket őrzik a látogatók számára.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Béke Pagoda",
+                  "text": "A Willen-tónál álló buddhista emlékművet 1980-ban építették; csendes helyszín meditációhoz és a vízi panoráma élvezetéhez a park szívében.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Willen-tó",
+                  "text": "Népszerű szabadidős park nagy tóval, amely vízi sportoknak, körbefutó sétányoknak és tágas zöldterületeknek ad otthont a város szélén.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Centre:mk",
+                  "text": "Az 1970-es években épült, műemléki védettségű modernista bevásárlóközpont, amely üvegfalú csarnokairól és belső növényzetéről világhírű.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Milton Keynes Museum",
+                  "text": "Egy viktoriánus farmon kialakított gyűjtemény, amely a régió történelmét mutatja be a római kortól egészen a modern tervezett városig.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Xscape",
+                  "text": "Jellegzetes, 44 méter magas épület, amelyben valódi havas beltéri sípálya, mozi és falmászó központ is helyet kapott a szórakozni vágyóknak.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Campbell Park",
+                  "text": "A város központi parkja, ahol köztéri szobrok, krikettpálya és a környező dombokra nyíló panorámás kilátóhely is várja a kirándulókat.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stony Stratford",
+                  "text": "Milton Keynes-be beolvadt történelmi mezőváros, amely középkori fogadóiról és 12. századi alapítású piacáról ismert a turisták körében.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Stables",
+                  "text": "Cleo Laine által alapított zenei központ, amely világszínvonalú jazz, folk és klasszikus koncerteknek ad otthont egyedi környezetben.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bletchley Park",
+                  "text": "Fostul sediu secret al criptografilor britanici din Al Doilea Război Mondial, astăzi muzeu ce găzduiește faimoasa mașină Enigma.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Pagoda Păcii",
+                  "text": "Situat lângă Lacul Willen, acest monument budist construit în 1980 oferă un spațiu de liniște și vederi panoramice asupra apei.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Lacul Willen",
+                  "text": "Un parc popular ce include un lac mare pentru sporturi nautice, trasee de plimbare și spații verzi extinse pentru recreere în aer liber.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Centre:mk",
+                  "text": "Un complex comercial modernist protejat, construit în anii 1970, renumit pentru designul său cu pereți de sticlă și grădini interioare.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Muzeul Milton Keynes",
+                  "text": "Găzduit într-o fermă victoriană, muzeul prezintă istoria locală din epoca romană până la dezvoltarea orașului planificat modern.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Xscape",
+                  "text": "O clădire distinctivă de 44 de metri înălțime care conține o pârtie de schi indoor cu zăpadă reală, cinema și facilități de escaladă.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Parcul Campbell",
+                  "text": "Parcul central al orașului, oferind instalații de artă publică, un teren de cricket și un deal cu vederi spre regiunea Bedfordshire.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stony Stratford",
+                  "text": "Un oraș istoric integrat în Milton Keynes, faimos pentru hanurile sale medievale și rădăcinile sale comerciale din secolul al XII-lea.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Stables",
+                  "text": "Un centru muzical de prestigiu fondat de Cleo Laine, care găzduiește concerte de jazz, folk și muzică clasică de talie mondială.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bletchley Park",
+                  "text": "The former top-secret home of World War II Codebreakers, now a museum housing the famous Enigma machine and early computers.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Peace Pagoda",
+                  "text": "Located at Willen Lake, this Buddhist monument built in 1980 offers a serene spot for reflection and scenic views across the water.",
+                  "category": "bridges/monuments/statues",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Willen Lake",
+                  "text": "A popular leisure park featuring a large lake for water sports, circular walking trails, and extensive green spaces for recreation.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Centre:mk",
+                  "text": "A Grade II listed modernist shopping complex from the 1970s, known for its vast glass-walled halls and integrated indoor plantings.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Milton Keynes Museum",
+                  "text": "Set in a Victorian farm, this museum showcases local history from Roman times to the creation of the modern planned city.",
+                  "category": "museum",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Xscape",
+                  "text": "A striking 44-meter high building featuring an indoor real-snow ski slope, a multi-screen cinema, and urban climbing facilities.",
+                  "category": "famous buildings/residences",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Campbell Park",
+                  "text": "The city's central park, featuring public art installations, a cricket ground, and a belvedere with views over the surrounding hills.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high"
+            },
+            {
+                  "name": "Stony Stratford",
+                  "text": "A historic market town within Milton Keynes, famous for its medieval coaching inns and markets dating back to the 12th century.",
+                  "category": "squares/old-town",
+                  "confidence": "high"
+            },
+            {
+                  "name": "The Stables",
+                  "text": "A premier music venue founded by Cleo Laine, hosting world-class jazz, folk, and classical performances in an intimate theater setting.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high"
+            }
+      ]
+}
+  },  {
     id: "uk-port-talbot-steelworks-economic-v2",
     parent: "GB",
     type: "factory",
