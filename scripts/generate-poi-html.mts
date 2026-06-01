@@ -1521,6 +1521,26 @@ function renderVisitInfo(poi: POI, lang: Lang): string {
   return `<section class="plz-visit" data-lat="${lat}" data-lng="${lng}" data-lang="${lang}"${tz ? ` data-tz="${tz}"` : ""}></section><script src="/js/visit-info.js" defer></script>`;
 }
 
+// Visit planner: interactive "build your visit" route from the real nearby-POI
+// graph (list + walk times, no map). Skipped on PlizioGo POIs (they already have
+// the full day itinerary) and where there are too few nearby visitable places.
+// Logic + 7-lang labels live in the shared cached /js/visit-planner.js.
+const PLANNER_VISITABLE = new Set(["cathedral", "church", "historical", "monument", "memorial", "landmark", "museum", "castle", "fortress", "palace", "tower", "ruins", "theatre", "square", "park", "garden", "river", "lake", "waterfall", "viewpoint", "mountain", "forest", "beach", "nature", "kid-landmark", "zoo", "aquarium", "market"]);
+function renderVisitPlanner(poi: POI, lang: Lang, hasPlizioGo: boolean): string {
+  if (hasPlizioGo) return "";
+  if (!Array.isArray(poi.coords) || poi.coords.length < 2) return "";
+  const near = getNearbyPois(poi, 20, 10).filter((e) => PLANNER_VISITABLE.has(e.p.type));
+  if (near.length < 4) return "";
+  const stops = near.map((e) => {
+    const nm = (getLocalized(e.p.name, lang) as string) || e.p.id;
+    const c = e.p.coords as number[];
+    return { t: e.p.type, n: nm, d: Math.round(e.km * 10) / 10, x: [c[0], c[1]], u: buildPoiPath(lang, e.p) };
+  });
+  const data = { id: poi.id, lang, center: [poi.coords[0], poi.coords[1]], stops };
+  const json = JSON.stringify(data).replace(/<\//g, "<\\/");
+  return `<section class="plz-planner"><script type="application/json" class="plz-pl-data">${json}</script></section><script src="/js/visit-planner.js" defer></script>`;
+}
+
 // Stats-chip row: compact data summary under the title (mobile-first)
 function renderStatsChips(poi: POI, lang: Lang, richness: ReturnType<typeof pageRichness>, sightsCount: number, nearbyCount: number): string {
   const yhCount = (YEARLY_HIGHLIGHTS[poi.id] || []).length;
@@ -2221,6 +2241,7 @@ ready();})();</script>
   ${didYouKnowHtml}
   </div>
   ${constellationHtml}
+  ${renderVisitPlanner(poi, lang, richness.hasPlizioGo)}
   ${renderFAQ(poi, lang) || faqHtml}
   <div id="sec-sights">
   ${sightsHtml}
@@ -2244,6 +2265,39 @@ ready();})();</script>
 .plz-lightbox-close{position:absolute;top:max(12px,env(safe-area-inset-top));right:max(12px,env(safe-area-inset-right));width:44px;height:44px;border-radius:50%;background:rgba(0,0,0,.6);color:#fff;border:1px solid rgba(255,255,255,.2);font-size:1.6rem;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0}
 .plz-lightbox-close:hover{background:rgba(0,0,0,.8)}
 @media (max-width:640px){.plz-lightbox img{max-width:95vw;max-height:80vh}}
+.plz-planner{display:block;margin:1.6rem 0;border:1px solid rgba(120,150,200,.18);border-radius:18px;background:linear-gradient(180deg,rgba(255,255,255,.03),rgba(255,255,255,0));padding:1.1rem 1.1rem 1.2rem}
+.plz-pl-h{font-size:1.12rem;font-weight:700;color:#eaf2ff;margin:0 0 .3rem}
+.plz-pl-sub{color:rgba(180,200,235,.72);font-size:.9rem;margin:0 0 1rem}
+.plz-pl-lbl{font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;color:rgba(180,200,235,.7);margin:.2rem 0 .5rem}
+.plz-pl-opts{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:.9rem}
+.plz-pl-opt{appearance:none;border:1px solid rgba(120,150,200,.2);background:rgba(255,255,255,.03);color:#eaf2ff;padding:.5rem .9rem;border-radius:11px;font-size:.9rem;font-weight:600;cursor:pointer;transition:.15s}
+.plz-pl-opt:hover{border-color:rgba(120,180,255,.45)}
+.plz-pl-opt[aria-pressed="true"]{background:linear-gradient(180deg,rgba(127,180,255,.22),rgba(127,180,255,.08));border-color:rgba(120,180,255,.45);color:#fff}
+.plz-pl-go{margin-top:.2rem;width:100%;padding:.8rem;border:0;border-radius:13px;background:linear-gradient(180deg,#3b82f6,#2563eb);color:#fff;font-size:.98rem;font-weight:700;cursor:pointer}
+.plz-pl-go:hover{filter:brightness(1.08)}
+.plz-pl-rhead{margin:1.1rem 0 .9rem}
+.plz-pl-meta{color:rgba(180,200,235,.72);font-size:.9rem}
+.plz-pl-meta b{color:#eaf2ff}
+.plz-pl-list{list-style:none;margin:0;padding:0}
+.plz-pl-stop{display:flex;gap:.85rem}
+.plz-pl-rail{flex:none;display:flex;flex-direction:column;align-items:center;width:28px}
+.plz-pl-num{width:28px;height:28px;border-radius:50%;background:linear-gradient(180deg,#3b82f6,#2563eb);color:#fff;font-weight:700;font-size:.85rem;display:flex;align-items:center;justify-content:center;flex:none}
+.plz-pl-line{flex:1;width:2px;background:linear-gradient(180deg,rgba(120,180,255,.45),rgba(120,150,200,.18));margin:.2rem 0}
+.plz-pl-body{flex:1;padding-bottom:1rem;min-width:0}
+.plz-pl-card{border:1px solid rgba(120,150,200,.18);border-radius:13px;background:rgba(255,255,255,.03);padding:.7rem .85rem}
+.plz-pl-card h3{margin:0;font-size:1rem}
+.plz-pl-card h3 a{color:#eaf2ff;text-decoration:none}
+.plz-pl-card h3 a:hover{color:#7fb4ff}
+.plz-pl-tags{display:flex;gap:.45rem;flex-wrap:wrap;margin-top:.4rem}
+.plz-pl-tag{font-size:.72rem;padding:.16rem .48rem;border-radius:7px;background:rgba(127,180,255,.12);color:#bcd6ff;border:1px solid rgba(127,180,255,.2)}
+.plz-pl-tag.g{background:rgba(120,200,140,.12);color:#bfe9c8;border-color:rgba(120,200,140,.22)}
+.plz-pl-walk{display:flex;align-items:center;gap:.4rem;color:rgba(180,200,235,.72);font-size:.8rem;margin:.05rem 0 .55rem 5px}
+.plz-pl-walk svg{opacity:.7}
+.plz-pl-empty{color:rgba(180,200,235,.72);text-align:center;padding:1.2rem 0;list-style:none}
+.plz-pl-acts{display:flex;gap:.55rem;margin-top:.9rem;flex-wrap:wrap}
+.plz-pl-act{border:1px solid rgba(120,150,200,.2);background:rgba(255,255,255,.03);color:#eaf2ff;padding:.55rem .95rem;border-radius:11px;font-size:.88rem;font-weight:600;cursor:pointer}
+.plz-pl-act:hover{border-color:rgba(120,180,255,.45)}
+.plz-pl-note{color:#bfe9c8;font-size:.84rem;margin-top:.5rem;min-height:1em}
 .plz-visit{margin:1.4rem 0}
 .plz-vi-h{font-size:1.05rem;font-weight:700;color:#eaf2ff;margin:0 0 .7rem}
 .plz-vi-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:.6rem}
