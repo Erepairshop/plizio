@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Tervezd meg a látogatásod — Berlin (PoC)</title>
+<style>
+:root{--bg:#0a0f1a;--card:rgba(255,255,255,.04);--bd:rgba(120,150,200,.18);--bd2:rgba(120,180,255,.45);--ac:#7fb4ff;--tx:#eaf2ff;--mut:rgba(180,200,235,.72)}
+*{box-sizing:border-box}
+body{margin:0;background:radial-gradient(1200px 600px at 50% -10%,#13203a,#0a0f1a 60%);color:var(--tx);font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;line-height:1.5}
+.wrap{max-width:760px;margin:0 auto;padding:1.5rem 1.1rem 4rem}
+h1{font-size:1.5rem;margin:.2rem 0 .1rem}
+.sub{color:var(--mut);font-size:.95rem;margin:0 0 1.4rem}
+.panel{border:1px solid var(--bd);border-radius:18px;background:var(--card);padding:1.1rem 1.1rem 1.2rem;margin-bottom:1.3rem}
+.panel h2{font-size:1.05rem;margin:0 0 .9rem;display:flex;align-items:center;gap:.5rem}
+.lbl{font-size:.74rem;text-transform:uppercase;letter-spacing:.05em;color:var(--mut);margin:.2rem 0 .5rem}
+.opts{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1rem}
+.opt{appearance:none;border:1px solid var(--bd);background:rgba(255,255,255,.03);color:var(--tx);padding:.55rem .95rem;border-radius:11px;font-size:.92rem;cursor:pointer;transition:.16s;font-weight:600}
+.opt:hover{border-color:var(--bd2)}
+.opt[aria-pressed="true"]{background:linear-gradient(180deg,rgba(127,180,255,.22),rgba(127,180,255,.08));border-color:var(--bd2);color:#fff}
+.go{margin-top:.3rem;width:100%;padding:.85rem;border:0;border-radius:13px;background:linear-gradient(180deg,#3b82f6,#2563eb);color:#fff;font-size:1rem;font-weight:700;cursor:pointer}
+.go:hover{filter:brightness(1.08)}
+.route-head{display:flex;align-items:center;justify-content:space-between;gap:.8rem;flex-wrap:wrap;margin-bottom:1rem}
+.route-meta{color:var(--mut);font-size:.9rem}
+.route-meta b{color:var(--tx)}
+.tl{position:relative;margin:0;padding:0;list-style:none}
+.stop{position:relative;display:flex;gap:.9rem;padding:0 0 .2rem}
+.stop-rail{flex:none;display:flex;flex-direction:column;align-items:center;width:30px}
+.stop-num{width:30px;height:30px;border-radius:50%;background:linear-gradient(180deg,#3b82f6,#2563eb);color:#fff;font-weight:700;font-size:.9rem;display:flex;align-items:center;justify-content:center;flex:none}
+.stop-line{flex:1;width:2px;background:linear-gradient(180deg,var(--bd2),var(--bd));margin:.2rem 0}
+.stop-body{flex:1;padding-bottom:1.1rem;min-width:0}
+.stop-card{border:1px solid var(--bd);border-radius:14px;background:var(--card);padding:.75rem .9rem}
+.stop-card h3{margin:0 0 .2rem;font-size:1.02rem}
+.stop-card h3 a{color:var(--tx);text-decoration:none}
+.stop-card h3 a:hover{color:var(--ac)}
+.stop-tags{display:flex;gap:.5rem;flex-wrap:wrap;margin:.35rem 0 .4rem}
+.tag{font-size:.74rem;padding:.18rem .5rem;border-radius:7px;background:rgba(127,180,255,.12);color:#bcd6ff;border:1px solid rgba(127,180,255,.2)}
+.tag.t{background:rgba(120,200,140,.12);color:#bfe9c8;border-color:rgba(120,200,140,.22)}
+.stop-desc{color:var(--mut);font-size:.88rem;margin:.15rem 0 0}
+.walk{display:flex;align-items:center;gap:.45rem;color:var(--mut);font-size:.82rem;margin:.1rem 0 .6rem 4px}
+.walk svg{opacity:.7}
+.actions{display:flex;gap:.6rem;margin-top:1.1rem;flex-wrap:wrap}
+.act{border:1px solid var(--bd);background:rgba(255,255,255,.03);color:var(--tx);padding:.6rem 1rem;border-radius:11px;font-size:.9rem;font-weight:600;cursor:pointer}
+.act:hover{border-color:var(--bd2)}
+.empty{color:var(--mut);text-align:center;padding:1.5rem 0}
+.saved-note{color:#bfe9c8;font-size:.85rem;margin-top:.6rem;min-height:1.1em}
+.foot{color:var(--mut);font-size:.8rem;margin-top:2rem;text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1 id="city-name">Berlin</h1>
+  <p class="sub">Tervezd meg a látogatásod — állítsd be, mennyi időd van és mi érdekel, és összerakunk egy útvonalat a környékbeli helyekből. <em>(működő prototípus, valódi Plizio-adattal)</em></p>
+
+  <div class="panel">
+    <h2>⚙️ Beállítás</h2>
+    <div class="lbl">Mennyi időm van?</div>
+    <div class="opts" id="time-opts">
+      <button class="opt" data-t="120" aria-pressed="false">⏱️ 2 óra</button>
+      <button class="opt" data-t="240" aria-pressed="true">🌤️ Fél nap</button>
+      <button class="opt" data-t="420" aria-pressed="false">☀️ Egész nap</button>
+    </div>
+    <div class="lbl">Mi érdekel?</div>
+    <div class="opts" id="vibe-opts">
+      <button class="opt" data-v="culture" aria-pressed="true">🏛️ Kultúra & történelem</button>
+      <button class="opt" data-v="nature" aria-pressed="false">🌳 Természet & szabadtér</button>
+      <button class="opt" data-v="family" aria-pressed="false">👨‍👩‍👧 Családi</button>
+      <button class="opt" data-v="mix" aria-pressed="false">✨ Vegyes</button>
+    </div>
+    <button class="go" id="build-btn">Útvonal készítése →</button>
+  </div>
+
+  <div class="panel" id="route-panel" style="display:none">
+    <div class="route-head">
+      <h2 style="margin:0">🗺️ A te napod</h2>
+      <span class="route-meta" id="route-meta"></span>
+    </div>
+    <ul class="tl" id="route-list"></ul>
+    <div class="actions">
+      <button class="act" id="save-btn">💾 Terv mentése</button>
+      <button class="act" id="clear-btn">🗑️ Törlés</button>
+    </div>
+    <div class="saved-note" id="saved-note"></div>
+  </div>
+
+  <p class="foot">PoC — a kész verzió minden POI-oldalon ott lesz, a saját környékbeli adatából, többnyelvűen.</p>
+</div>
+
+<script>
+var DATA = {"city":{"id":"city-berlin","name":"Berlin","coords":[13.405,52.52]},"nearby":[{"id":"mitte-extra","type":"city","coords":[13.4049,52.52],"dist":0,"name":{"en":"Mitte","de":"Mitte","hu":"Mitte"},"desc":{"en":"Mitte is a beautiful city."}},{"id":"germany-berliner-dom-landmarks-v2","type":"cathedral","coords":[13.4011,52.519],"dist":0.3,"name":{"en":"Berlin Cathedral","de":"Berliner Dom","hu":"Berlini dóm"},"desc":{"en":"Berlin Cathedral is the largest evangelical church in Berlin. It is located on Museum Island in the Mitte district."}},{"id":"hist-ddr-museum","type":"historical","coords":[13.401,52.5191],"dist":0.3,"name":{"en":"DDR Museum","de":"DDR Museum","hu":"DDR Múzeum"},"desc":{"en":"The DDR Museum in Berlin presents the everyday life of the German Democratic Republic interactively and shows how people"}},{"id":"landmark-fernsehturm","type":"landmark","coords":[13.4094,52.5208],"dist":0.3,"name":{"en":"Berlin TV Tower","de":"Berliner Fernsehturm","hu":"Berlini tévétorony"},"desc":{"en":"The Berlin TV Tower stands at Alexanderplatz and at 368 m is Germany's tallest structure. It was built in 1969 in East G"}},{"id":"river-spree","type":"river","coords":[13.41,52.52],"dist":0.3,"name":{"en":"Spree","de":"Spree","hu":"Spree"},"desc":{"en":"The Spree is a tributary of the Havel and flows 398 km through Brandenburg and Berlin, where it shapes the cityscape, fl"}},{"id":"landmark-museumsinsel-extra","type":"landmark","coords":[13.3986,52.5206],"dist":0.4,"name":{"en":"Berlin Museum Island","de":"Museumsinsel Berlin","hu":"Berlini Múzeumszige"},"desc":{"en":"Museum Island is an ensemble of five world-class museums on a Spree island in the heart of Berlin and a UNESCO World Her"}},{"id":"landmark-museumsinsel-berlin","type":"landmark","coords":[13.397,52.52],"dist":0.5,"name":{"en":"Museum Island","de":"Museumsinsel","hu":"Múzeum-sziget"},"desc":{"en":"A world-unique ensemble of five museums in the heart of Berlin, UNESCO World Heritage."}},{"id":"hist-spartakusaufstand","type":"historical","coords":[13.3933,52.5145],"dist":1,"name":{"en":"Spartacist Uprising 1919 – Berlin","de":"Spartakusaufstand 1919 – Berlin","hu":"Spartakista felkelés 1919 – Berlin"},"desc":{"en":"The Spartacist Uprising in January 1919 was an armed revolt by the Communist Party of Germany and the Spartacus League i"}},{"id":"landmark-pergamonmuseum","type":"landmark","coords":[13.39,52.52],"dist":1,"name":{"en":"Pergamon Museum Berlin","de":"Pergamonmuseum Berlin","hu":"Berlini Pergamon Múzeum"},"desc":{"en":"One of the most significant museums on Museum Island, known for monumental antiquities."}},{"id":"hist-checkpoint-charlie","type":"historical","coords":[13.3904,52.5076],"dist":1.7,"name":{"en":"Checkpoint Charlie","de":"Checkpoint Charlie","hu":"Checkpoint Charlie"},"desc":{"en":"Checkpoint Charlie was the most famous border crossing between East and West Berlin during Germany's division. Dramatic "}},{"id":"landmark-brandenburg-gate","type":"landmark","coords":[13.3777,52.5163],"dist":1.9,"name":{"en":"Brandenburg Gate","de":"Brandenburger Tor","hu":"Brandenburgi kapu"},"desc":{"en":"The Brandenburg Gate in Berlin is Germany's most famous landmark and a national symbol. It was built in the late 18th ce"}},{"id":"historical-holocaust-memorial-extra","type":"historical","coords":[13.3788,52.5138],"dist":1.9,"name":{"en":"Holocaust Memorial Berlin","de":"Holocaust-Mahnmal Berlin","hu":"Berlini holokauszt emlékhelye"},"desc":{"en":"The Holocaust Memorial, officially 'Memorial to the Murdered Jews of Europe', is a memorial to the 6 million Jews murder"}},{"id":"hist-berliner-mauer","type":"historical","coords":[13.3903,52.5351],"dist":2,"name":{"en":"Berliner Mauer","de":"Berliner Mauer","hu":"Berliner Mauer"},"desc":{"en":"The Berlin Wall was a 155 km fortification that separated West Berlin from East Berlin and East Germany from 1961 to 198"}},{"id":"germany-berlin-berlin-wall-memorial-history-v2","type":"monument","coords":[13.3905,52.5353],"dist":2,"name":{"en":"Berlin Wall Memorial","de":"Gedenkstätte Berliner Mauer","hu":"Berlini fal emlékmű"},"desc":{"en":"Central place of remembrance for the German division located on Bernauer Straße."}},{"id":"landmark-reichstag","type":"landmark","coords":[13.376,52.5186],"dist":2,"name":{"en":"Reichstag Building","de":"Reichstagsgebäude","hu":"Reichstag épülete"},"desc":{"en":"The Reichstag Building in Berlin is the seat of the German Bundestag and one of Germany's most significant political bui"}},{"id":"hist-berlin-reichstag-1945","type":"historical","coords":[13.376,52.5186],"dist":2,"name":{"en":"Reichstag 1945","de":"Reichstag 1945","hu":"Reichstag 1945"},"desc":{"en":"The Reichstag building in Berlin at the end of World War II was one of the symbols of Nazi Germany's defeat, when Soviet"}},{"id":"hist-november-revolution","type":"historical","coords":[13.376,52.5186],"dist":2,"name":{"en":"November Revolution 1918 – Reichstag","de":"Novemberrevolution 1918 – Reichstagsgebäude","hu":"1918-as novemberi forradalom – Reichstag"},"desc":{"en":"On 9 November 1918, Philipp Scheidemann proclaimed the German Republic from the window of the Reichstag building in Berl"}},{"id":"kreuzberg-extra","type":"city","coords":[13.3888,52.4991],"dist":2.6,"name":{"en":"Kreuzberg","de":"Kreuzberg","hu":"Kreuzberg"},"desc":{"en":"Kreuzberg is a beautiful city."}},{"id":"prenzlauer-berg-extra","type":"city","coords":[13.4286,52.5385],"dist":2.6,"name":{"en":"Prenzlauer Berg","de":"Prenzlauer Berg","hu":"Prenzlauer Berg"},"desc":{"en":"Prenzlauer Berg is a beautiful city."}},{"id":"landmark-east-side-gallery","type":"landmark","coords":[13.43,52.5],"dist":2.8,"name":{"en":"East Side Gallery Berlin","de":"East Side Gallery Berlin","hu":"Berlini East Side Gallery"},"desc":{"en":"A 1.3 km long remnant of the Berlin Wall painted by artists from all over the world."}},{"id":"historical-berliner-mauer-east-extra","type":"historical","coords":[13.4395,52.5052],"dist":2.9,"name":{"en":"East Side Gallery","de":"East Side Gallery","hu":"East Side Gallery"},"desc":{"en":"The East Side Gallery is the longest preserved section of the Berlin Wall and an open-air gallery with world-famous pain"}},{"id":"historical-schloss-sanssouci-berlin-extra","type":"historical","coords":[13.4038,52.4861],"dist":3.8,"name":{"en":"Wannsee Conference Memorial","de":"Wannsee-Konferenz Gedenkstätte","hu":"Wannsee-konferencia emlékhelye"},"desc":{"en":"The Wannsee Conference House Memorial commemorates the 1942 conference at which the coordination of the Holocaust was de"}},{"id":"germany-viktoriapark-kreuzberg-landmarks-v2","type":"park","coords":[13.38,52.487],"dist":4,"name":{"en":"Viktoriapark","de":"Viktoriapark","hu":"Viktoria-park"},"desc":{"en":"Viktoriapark is located in the Kreuzberg district of Berlin. The site features an artificial waterfall and the National "}},{"id":"zoo-berlin","type":"kid-landmark","coords":[13.3377,52.5083],"dist":4.7,"name":{"en":"Berlin Zoo","de":"Zoologischer Garten Berlin","hu":"Berlini Állatkert"},"desc":{"en":"Berlin Zoo is Germany's oldest and most species-rich zoo with over 20,000 animals from around 1,500 species. The pandas,"}},{"id":"berlin-neukolln","type":"city","coords":[13.4353,52.4814],"dist":4.8,"name":{"en":"Neukölln","de":"Berlin-Neukölln","hu":"Berlin-Neukölln"},"desc":{"en":"Neukölln is a Berlin district known for its vibrant multicultural atmosphere, trendy cafes, and historic Bohemian herita"}},{"id":"germany-berlin-tempelhof-history-v2","type":"landmark","coords":[13.4038,52.4731],"dist":5.2,"name":{"en":"Tempelhof Airport","de":"Flughafen Tempelhof","hu":"Tempelhof repülőtér"},"desc":{"en":"Former airport in Berlin, famous for the Berlin Airlift in 1948/49 during the Berlin Blockade."}},{"id":"landmark-kurfuerstendamm-extra","type":"landmark","coords":[13.3269,52.5022],"dist":5.6,"name":{"en":"Kurfürstendamm","de":"Kurfürstendamm","hu":"Kurfürstendamm"},"desc":{"en":"The Kurfürstendamm, or Ku'damm for short, is Berlin's most famous boulevard with luxury shops, restaurants and the Kaise"}},{"id":"hist-stasi-museum","type":"historical","coords":[13.497,52.5145],"dist":6.3,"name":{"en":"Stasi Museum","de":"Stasi-Museum","hu":"Stasi Múzeum"},"desc":{"en":"The Stasi Museum in Berlin is located in the former headquarters of the East German Ministry for State Security. It docu"}}]};
+
+// type -> {label, vibes[], minutes}
+var TYPES = {
+  cathedral:{l:"Templom",v:["culture","mix"],m:30},
+  church:{l:"Templom",v:["culture","mix"],m:25},
+  historical:{l:"Történelmi hely",v:["culture","mix"],m:25},
+  monument:{l:"Emlékmű",v:["culture","mix"],m:15},
+  landmark:{l:"Nevezetesség",v:["culture","family","mix"],m:35},
+  museum:{l:"Múzeum",v:["culture","family","mix"],m:60},
+  castle:{l:"Kastély",v:["culture","family","mix"],m:50},
+  theatre:{l:"Színház",v:["culture","mix"],m:30},
+  park:{l:"Park",v:["nature","family","mix"],m:45},
+  garden:{l:"Kert",v:["nature","family","mix"],m:40},
+  river:{l:"Folyó",v:["nature","mix"],m:20},
+  lake:{l:"Tó",v:["nature","mix"],m:25},
+  viewpoint:{l:"Kilátó",v:["nature","mix"],m:20},
+  mountain:{l:"Hegy",v:["nature","mix"],m:40},
+  beach:{l:"Strand",v:["nature","family","mix"],m:60},
+  "kid-landmark":{l:"Gyerekprogram",v:["family","mix"],m:90},
+  market:{l:"Piac",v:["food","family","mix"],m:30}
+};
+var WALK_MIN_PER_KM = 12;
+
+function km(a,b){var R=6371,d=Math.PI/180;var s=Math.sin((b[1]-a[1])*d/2)**2+Math.cos(a[1]*d)*Math.cos(b[1]*d)*Math.sin((b[0]-a[0])*d/2)**2;return 2*R*Math.asin(Math.sqrt(s));}
+function fmtMin(m){var h=Math.floor(m/60),mm=Math.round(m%60);return h?(h+" ó"+(mm?(" "+mm+" p"):"")):(mm+" p");}
+
+var state={t:240,v:"culture"};
+
+function pick(){
+  var center=DATA.city.coords;
+  var pool=DATA.nearby.filter(function(p){
+    var t=TYPES[p.type]; if(!t)return false;
+    return state.v==="mix"?true:t.v.indexOf(state.v)>=0;
+  });
+  // greedy nearest-neighbour from center, respecting the time budget
+  var route=[],used={},cur=center,budget=state.t,guard=0;
+  while(guard++<40){
+    var best=null,bestD=1e9;
+    for(var i=0;i<pool.length;i++){var p=pool[i];if(used[p.id])continue;var d=km(cur,p.coords);if(d<bestD){bestD=d;best=p;}}
+    if(!best)break;
+    var dur=(TYPES[best.type]||{m:30}).m;
+    var walk=Math.round(bestD*WALK_MIN_PER_KM);
+    if(route.length && budget-(dur+walk)<0)break;
+    used[best.id]=1;
+    route.push({poi:best,walk:route.length?walk:0,dur:dur});
+    budget-=dur+(route.length>1?walk:0);
+    cur=best.coords;
+  }
+  return route;
+}
+
+function render(){
+  var route=pick();
+  var panel=document.getElementById("route-panel");
+  var list=document.getElementById("route-list");
+  panel.style.display="block";
+  document.getElementById("saved-note").textContent="";
+  if(!route.length){ list.innerHTML='<li class="empty">Ehhez a szűréshez nincs elég közeli hely. Próbálj másik témát vagy hosszabb időt.</li>'; document.getElementById("route-meta").textContent=""; return; }
+  var totalMin=0,totalWalk=0;
+  route.forEach(function(s){totalMin+=s.dur+s.walk;totalWalk+=s.walk;});
+  document.getElementById("route-meta").innerHTML="<b>"+route.length+"</b> megálló · kb. <b>"+fmtMin(totalMin)+"</b> · "+totalWalk+" p séta";
+  var lang="hu";
+  list.innerHTML=route.map(function(s,i){
+    var p=s.poi,t=TYPES[p.type]||{l:p.type,m:30};
+    var nm=p.name[lang]||p.name.en||p.name.de||p.id;
+    var desc=(p.desc&&(p.desc.en))?p.desc.en:"";
+    var walkHtml=s.walk?('<div class="walk"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="13" cy="4" r="2"/><path d="M7 21l3-6 3 2 1 4M10 15l-2-5 4-1 3 3 3 1"/></svg>'+s.walk+' perc séta ('+p.dist+' km a központtól)</div>'):"";
+    return walkHtml+
+      '<li class="stop"><div class="stop-rail"><div class="stop-num">'+(i+1)+'</div>'+(i<route.length-1?'<div class="stop-line"></div>':'')+'</div>'+
+      '<div class="stop-body"><div class="stop-card"><h3>'+nm+'</h3>'+
+      '<div class="stop-tags"><span class="tag">'+t.l+'</span><span class="tag t">⏳ '+t.m+' perc</span></div>'+
+      (desc?'<p class="stop-desc">'+desc+'</p>':'')+
+      '</div></div></li>';
+  }).join("");
+}
+
+// wiring
+function bindGroup(id,key,parse){
+  document.getElementById(id).addEventListener("click",function(e){
+    var b=e.target.closest(".opt"); if(!b)return;
+    [].forEach.call(this.querySelectorAll(".opt"),function(x){x.setAttribute("aria-pressed","false");});
+    b.setAttribute("aria-pressed","true");
+    state[key]=parse(b);
+  });
+}
+bindGroup("time-opts","t",function(b){return parseInt(b.getAttribute("data-t"),10);});
+bindGroup("vibe-opts","v",function(b){return b.getAttribute("data-v");});
+document.getElementById("build-btn").addEventListener("click",render);
+document.getElementById("save-btn").addEventListener("click",function(){
+  try{localStorage.setItem("plizio-plan-"+DATA.city.id,JSON.stringify({t:state.t,v:state.v,at:new Date().toISOString()}));
+    document.getElementById("saved-note").textContent="✓ Elmentve erre az eszközre. Legközelebb itt folytathatod.";}catch(e){document.getElementById("saved-note").textContent="Mentés nem sikerült.";}
+});
+document.getElementById("clear-btn").addEventListener("click",function(){
+  try{localStorage.removeItem("plizio-plan-"+DATA.city.id);}catch(e){}
+  document.getElementById("route-panel").style.display="none";
+});
+document.getElementById("city-name").textContent=DATA.city.name;
+</script>
+</body>
+</html>
